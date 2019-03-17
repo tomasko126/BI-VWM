@@ -1,0 +1,14 @@
+sites:
+  -   url : "https://diginomica.com/page/{}/"
+      min: 1
+      max: 644
+      target: read-more
+
+# Similar websites
+#  - "https://www.macrumors.com/{}/"
+#  - "https://www.onmsft.com/page/{}"
+#  - "https://www.computerweekly.com/blogs/page/{}"
+#  - "http://www.wahlnetwork.com/page/{}/"
+#  - "http://www.movingpackets.net/page/{}/"
+#  - "https://www.recode.net/archives/{}"
+#  - "https://usabilitygeek.com/page/{}/"
