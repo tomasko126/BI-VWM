@@ -7,5 +7,17 @@
 - numpy		1.16
 - urllib3		1.24
 
-run python download_articles.py && python preprocess.py && python index.py
-for listing python list.py
+## run with python download_articles.py 
+possible arguments :
+ - scrape
+ - lemmatize
+ - index
+ - search
+ 
+ # Output:
+ `vector of keywords with relative frequency per document (if the keyword occured)
+ 
+ # More websites
+  The scraper takes sites from sites.yaml where similar blogs are in comment block.
+  If you want to scrape more blogs, add them with same structure with page list bounds and also with
+  target css class, also scraper.py must be edited a bit.
