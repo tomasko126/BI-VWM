@@ -1,0 +1,52 @@
+
+Fowler-Finn presenting at Tableau Conference
+Natural disasters pose the ultimate challenge to data professionals. Can we get better at predicting them? Can our tools allow us to intervene on the ground faster?
+It’s not very flattering if the best we can do is data post-mortems after the fact, knowing we let down those in need because our systems weren’t built for real-time.
+Those questions rang through my mind during a Tableau Conference 2017 presentation by MeghanMarie Fowler-Finn, formally titled “DC DOT: The world is watching: Inaugurations, protests, and catastrophes.”
+Fortunately for D.C., they haven’t had the kind of weather disaster we’ve seen in Puerto Rico or Texas, but D.C. gets the occasional blizzard, and a badly-handled snow event brings plenty of dangers, including political risks to city officials if they bungle such an event.
+As the Performance Manager for the Washington D.C. Department of Transportation (aka the District Department of Transportation, commonly referred to as DDOT), Fowler-Finn has been through these types of issues firsthand. To show you what I mean, tell me – what do you think is wrong with this DDOT snow report Fowler-Finn showed us, aside from my questionable camera angle and lighting?
+
+Fowler-Finn’s list on the right hand side is a big giveaway. These older DDOT reports were of the static, post-event variety. They were useful, but only in a backward-looking way. Fowler-Finn:
+It was about 7 days later, it was completely static, just a few things telling you what happened during the storm, telling you requests that were overseen by our community response employees, it’s telling you absenteeism for schools, and other sort of notes. So it has some decent information. We know what we want, but it’s actually very hard to adjust to how we could make it a better resource.
+Moving from static reports to dashboard – a plan emerges
+Fowler-Finn’s team hatched a new plan: modernize DDOT reporting with real-time dashboards, and, the kicker: get a host of agencies to buy-in on the change. What’s the first step? Interview impacted workers. Fowler-Finn got the chance after D.C.’s last big snowstorm in 2016, dubbed Snowzilla:
+So, during that big snow storm, I was working for the office of the City Administrator. Like I said, I didn’t really know much about snow, so I was sitting in Snow Command asking people information about their jobs, so we could then report back to the City Administrator.
+Winning them over took work:
+Some of these people have been doing this for 10, 15, 20 years – so who is this lady that’s just asking me for information all the time? But we were thinking: “There has to be a better way.” These people know this information, they’ve been doing it for a long time, we’re just not able to get it communicated out from them.
+Fowler-Finn gave the example of route coverage maps that were drawn by hand to 97+ percent accuracy.
+We had about 100 different people entering information to get to something that’s not very actual. It doesn’t have any details, it says “We have 220 people checked in for D.R right now.” What are they doing? How long have they been checked in, when do they get off shift?
+Winning dashboarding buy-in
+Fowler-Finn’s team conceived a new dashboarding approach: “SnowDash.”
+We had a few things working in our favor. First of all, when we said this to people, every agency was on board. The City Administrator’s office wanted better information; both Public Works and Transportation didn’t want to be bothered, and the Technology Office was trying to build stuff on the fly at like 3 am on the third day of Sophia.
+Homeland Security and Emergency Management signed off also. Other factors that spurred the SnowDash project:
+
+Free access to five copies of Tableau Desktop and Tableau server, and enough analytical know-how to get started.
+Executives were familiar with the immediacy of dashboarding, due to a prior executive dashboard project that had not lived up to its billing, but had paved the way.
+A finished product wasn’t expected from the get-go. It was understood that Fowler-Finn’s team would build-and-improve in an iterative style.
+There was plenty of good data; it just needed to be funneled into a proper dashboard.  Disparate software programs had smaller pieces of snow and transportation logistics.
+
+Fowler-Finn went one piece at a time. They tackled:
+
+Organizing and tracking snow assets and equipment.
+Parking –  handling parking tickets better, avoiding the public anger and revenue loss of issuing tickets during the last storm and then refunding them.
+Road Conditions – “Road conditions is one of my favorite things. Again, it’s not automated at this point, it is an Excel download for our ETL system, which takes about 10 seconds.”
+Service route bus – to make sure service buses are going to the most affected areas.
+Salt usage and deployment – “There is a science about the [salting] roads, the temperature of the roads, how long before the storm, you don’t want to lose the salt before you get anything, get any snow.”
+Vehicle status reports – open work orders have data value here, because an open work order means a vehicle is out of commission. “This is also one of my favorite ones, because people saw this and they were like, ‘Woah, you can do this for vehicles anytime?'”
+Personnel on duty – check ins and check outs.
+
+These dashboards included drill downs, so managers could dig into what mattered to them. Here’s my photo of a route completion dashboard:
+
+Honing in on the service requests shows the snow angst in real-time. It also shows where to assign the on-the-ground snow teams.
+
+My take – transparency brings data issues to a head
+When a company makes data more transparent, it’s not all fun and games. There will be resistance from those whose performance is exposed, or who take issue with the data or conclusions. Fowler-Finn welcomes these arguments:
+I had this conversation with a [snow route driver about our data.]  He said, “No way, you’re totally wrong about this.” I love it when people tell me I’m wrong, because it means they are engaged, and it means they care about what they work at. So I said “What do you know that I don’t know, why is this wrong?” And he said “Well, I did my whole route!”
+Then we used our website technology to look at the breadcrumbs of where his route was. Turns out, he didn’t really know his route and he wasn’t driving the right route. So we started using this out in the field with managers who are looking at their overall routes, and saying “This one is leased, this one is leased, do my drivers actually know where they’re supposed to come?” So we did make that change on the go.
+Those aren’t the only challenges; Fowler-Finn walked us through several more, including real time changes and requests (“Build the plane while flying it” – yikes!), data quality, not enough time for deeper analysis, and “Excel versus automation.”
+But DDOT has found plenty of benefits also, both on the event management and data management side:
+This helps us identify operational components by shareholders… you have many different people checking [into the dashboards] at many different times for exactly what they want it to do. Again, it’s flexible; it caters to a wide range of people…  instead of just having the data, now we can turn it into analytics.
+One year into the dashboarding projects, there is plenty to work on. Fowler-Finn wants to build in more advanced capabilities, and use Tableau’s business process mapping to diagram service requests and responsibilities.
+No, city management isn’t magically solved with dashboards, But – if Fowler-Finn’s team keeps cross-agency collaboration on track, they should be in a better position the next time a Snowpocalypse comes along.
+Image credit - Screen shot photos taken by Jon Reed. Photo of Fowler-Finn presenting at Tableau Conference by Jon Reed.Disclosure - Tableau paid for the bulk of my expenses to attend Tableau Conference 2017.Read more on: Analytics planning and data analysisDigital enterprise in the real worldDigital government and public servicesUse cases
+

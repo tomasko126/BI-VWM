@@ -1,0 +1,43 @@
+
+Simon Skelton, John Lewis
+In the past few years, the end-of-November sales bonanza on Black Friday has become as big a shopping phenomenon in the UK (even though there’s no Thanksgiving holiday here) as it has been for some time in the US.
+On the evening of November 26th last year, a team gathered in the online operations control room of the John Lewis retail chain, preparing for the start of a 24-hour frenzy that would see £45 million ($64m) transacted through its website. At their peak, John Lewis’s online sales would reach £75,000 ($107,000) per minute that day — which meant that any downtime could prove very costly.
+At the end of an array of screens showing vital metrics including server and network infrastructure, marketing measurements and other stats, there was a new addition. Early in October the team had started implementing New Relic’s performance management tool to help it monitor user experience in real time. The dashboard was online in time for the Black Friday deadline and would add valuable detail to the team’s understanding of what they saw.
+Simon Skelton, online application operations manager, spoke at this week’s New Relic conference in London about that Black Friday experience and I had a chance to sit down with him over lunch. Here are ten takeaways from what he told me about those 36 hours.
+1. You’ll be there the whole time
+Literally we had a 36-hour period — all of Friday before and the whole way through to beyond midnight — people were shopping till 2 or 3am. Then they have a little bit of sleep and then carry on through the rest of the weekend.
+We have rotas and handovers between people, but you’re running on adrenalin that period. I wasn’t intending to be there for that whole time but it’s hard to sleep when it’s all happening.
+2. Activity comes in spikes
+It’s not even the whole of Black Friday. What I really worry about is maybe midnight, and 8, 9, 10 o’clock [in the morning]. Most of Black Friday we were running at half the capacity that we’d tested to.
+That is the challenge for retailers, you’re getting ten times the spike in one really short period. So how much do you spend for that capacity spike for those really tiny periods?
+3. It’s never the same as last time
+The previous year, we were ready for the marketing launch at 6am, and we expected the traffic to launch up at 6, 7, 8, and 9 in the morning on Black Friday.
+All our customers and the whole market had decided that Black Friday started at midnight whether you’d launched your sales or not. That’s when they were going to come to your website. We hadn’t planned, to that level, to have a spike at midnight.
+This year, we were expecting a midnight rush, [and] we didn’t quite have it as high as the previous year.
+4. You have to stay flexible
+We had a 272-point launch plan that we’d prepared — but all that had to be adjusted on the evening if some of our competitors launched at 8 o’clock on Thursday — and then we have to react to that.
+Apple don’t give us the prices until maybe midnight or 2am. So we have to then take that and apply that. So all those things we have to factor in and be able to adjust.
+5. Have everyone there with you
+You can only [stay responsive] when you’ve got the commercial team, your marketing team, all in the room at the same time.
+I have my team there, the application operations guys, but I have all the infrastructure guys there sitting with me as well. Because you never know which ones you need to call on.
+6. Be ready to change routines
+If we see customers shopping till 3am in the morning on Thursday rather than 2am, that cuts down our overnight window of our normal housekeeping tasks we need to do — rerun our indexing and things like that. We’ll have preplanned scenarios with our operational colleagues, and there are choices we can make.
+We can say we don’t need that bit of functionality — that adds no value on Black Friday, go ahead, turn that off. So we will have instant on-the-spot decisions between my opposite numbers in the business.
+6. It’s a juggling act
+Part of that capacity, you also have to manage all the other activities you’ve got to do. We might change 100,000 prices for Black Friday. Trying to publish them all out at the same time as you’ve got however many million page views on your website, you have to try and make sure they’re not happening at the same time.
+Hard when you’re ‘never knowingly undersold’ and you’re changing your prices all the time. So it’s getting that balance.
+7. Stay on top of your pricing
+John Lewis has a long-standing commitment to always have the best prices, expressed in its slogan, “never knowingly undersold.”
+When any of our competitors launch a sale, then we use various services to be able to find out what their prices are — generally we match High St shops rather than just pureplay online — but we will look at their websites and look at those price matches and have to apply them in-flight.
+8. Carefully schedule email campaigns
+Email marketing campaigns take 20 minutes to half an hour before the customers get it, read it, [and] come to your website. So you’re looking ahead in time, going, OK everything’s stable now, what do we predict the natural, organic traffic will be, and overlay on top what the extra will be from marketing.
+You’ve got to do that with them in the room, it’s a very real-time decision.
+9. Learn from the experience
+We launched our winter clearance sales at 5pm on Christmas Eve. For marketing, getting those emails out as quickly as possible means you’ve got the maximum amount of that core evening trading period to get sales. But if they send that out and the website’s slow, then you’re sending people away.
+This winter clearance, we got through Black Friday really well, we knew we had the capacity. We were able to say to them at 5 o’clock, send all four million emails out in one hit, we’re really confident we can sustain that level of traffic. They went, ‘Oh, we’ve never been able to do that before, OK.’
+10. Be ready for anything
+We’ve spent 1800 hours last year on performance testing of the infrastructure. That’s very valuable. But customers do different things at different times every year.
+That complexity of customers, you can test and plan for everything, [but] you never know what real people are going to do. And that is what’s important, understanding and reacting to that. Human beings are complex, they don’t always do what you might think.
+My take
+Careful planning pays off.
+Image credit - Courtesy of New RelicDisclosure - New Relic arranged for me to interview Simon Skelton at the company's London conference. Read more on: CRM and customer experienceDigital and content marketinge-commerceInfrastructureUse cases 

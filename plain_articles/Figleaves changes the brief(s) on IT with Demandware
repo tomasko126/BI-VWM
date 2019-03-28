@@ -1,0 +1,35 @@
+
+Figleaves.com
+Like many e-commerce retailers that grew up in (and survived) the dot-com bust of the early 2000s, underwear and swimwear company Figleaves.com has mostly relied to date on technology built in-house. But in recent years, the pressures of providing a thoroughly modern customer experience has stretched that approach to its limits. In other words, it’s no longer a comfortable fit, according to Tom Fitzgibbons, head of web and IT at Figleaves:
+
+What we’ve found is that some of that technology has become very expensive to maintain. Some of our in-house knowledge of our systems has been lost and it’s proved difficult to recruit the right skill sets to support and improve them. As a result, our ability to meet our customers’ needs, to continually innovate and stay competitive has diminished.
+
+This realization, he says, has prompted a total rethink at the company, with the management team deciding to become:
+
+…more of a retailer and less of a development house, procuring best of breed technologies and using them to the max, so that we can focus our IT efforts on niche areas where we know we have a point of difference.
+
+There are, of course, few systems as critical as the platforms that serve up Figleaves.com to customers – so that was where the company decided to start. Until recently, the IT team was supporting two web platforms, one for desktop and tablets and one for mobile, which between them notch up about 1.2 million visits per month. Tablets and smartphones account over two-thirds (around 70%) of those visits, Fitzgibbons explains, with smartphones firmly in the majority – a dominance over tablets that’s only increasing as mobile phones such as the iPhone 6 grow in size, he adds. 
+So a ‘mobile first’ strategy makes perfect sense for Figleaves, as does a responsive design approach that ensures that customers see the same rich product content, regardless of the kind of device they favour. In order to take that step, the company is about to launch a new-look Figleaves.com, based on the Demandware e-commerce platform recently acquired by Salesforce. That’s meant a ‘back to basics’ redesign, Fitzgibbons explains:
+
+In terms of the design and how the website looks and feels, we’ve sat down and thought about how customers move through the website, with mobile as the first consideration. It’s about making sure that the right information is in place for the customer on a mobile device and rethinking content, so that every piece of content we create is suitable for and available on mobiles, as well as desktops and tablets.
+Quite often with retailers, what you see is a diminished mobile experience compared to desktop – but we’ve purposely cherry-picked content that’s succinct, to the point and encourages the mobile customer to engage with it: no long-winded content pages, no huge amounts of information cluttering up the page.
+
+Change of approach
+In picking Demandware, Figleaves has deviated from the approach taken by its owner, the N Brown Group, which also owns apparel lines such as JD Williams, SimplyBe and Jacomo. At the group level, a systems transformation programme, Fit 4 the Future, has seen N Brown group settle on an SAP Hybris e-commerce platform on the Oracle database. Says Figleaves managing director Fiona Holmes:
+
+We looked at the solution they’d selected and decided it wasn’t going to be available in a timely enough manner for it to be effective for Figleaves. We’d already recognized that we needed to transform our customer experience and that the web platform was the place to start, but we wanted to get underway quickly. So we put out a request for information and that led us to Demandware.
+
+Personalization is going to be a big part of that revamped customer experience, adds Fitzgibbons: 
+
+At the moment, there’s very little personalization on the site. The only thing we currently use is RichRelevance to serve personalized recommendations at the product level. But where we want to go is to try and leverage the information we have internally about the products and combine it with the information we have on the individual customer. Right now, if you’re a man and you visit Figleaves.com only to buy Calvin Klein pants, you’re faced with bras. We want to get to the stage where we understand the product categories you’re interested in, the brands you like and the price-points you typically shop at, and only serve what’s relevant, so what you get instead is a ‘My Figleaves’ shopping experience.
+
+Once the switchover happens in early August, he and his team will be able to decommission its current desktop and mobile websites – something he’s looking forward to, he says:
+
+We’ll no longer have two code bases to maintain. We’ll only ever have one version of the home page to update. We’ll only have one set of processes. That’ll make our work quicker, in addition to the benefits to the customer of having rich content whatever device they use, because we’ll no longer need to reduce that content or hide it for mobile customers.
+
+Figleaves signed the contract with Demandware prior to the latter’s acquisition by Salesforce, announced in June 2016, and both Fitzgibbons and Holmes say they haven’t as yet had time to give the change of ownership much thought. Says Fitzgibbons:
+
+We’ve been firmly focused on delivering the Demandware and haven’t had much time to do anything else – but ultimately, I guess it opens up the question of what other applications we could use from Salesforce to best serve Figleaves and one would hope that there will be economies of scale to be had in terms of price if we do decide to utilize other Salesforce products. Right now, it’s a bit too early for us to say. 
+My priority has been to deliver the best customer results with the minimum customization [of Demandware], because whenever you procure a new technology, the temptation is to try out all the bells and whistles. But since that could lead to a very long development phase and because we’re constantly aware of change in terms of the market and customer preferences, our goal has been to roll out our first phase on schedule as smoothly and efficiently as possible, knowing that, from there, we’ll have a platform we can start to build on.
+
+Image credit - FigleavesRead more on: CRM and customer experienceDigital and content marketingDigital enterprise in the real worldRetail e-commerce and the omni-channel 

@@ -1,0 +1,41 @@
+
+A few weeks back I wrote about the need to shift how we think about architecture in a digital enterprise. To move away from the traditional infrastructure, software and process perspective to a more relationship based point of view needed for business value generation today. I was called out in comments that the post really described a philosophy without much detail about ‘how’ to get started or what was really different. So the purpose of this post is to get deeper into what needs to happen.
+The typical architecture approach is similar to the one defined in The Open Group’s TOGAF ADM:
+Architecture – via the Open Group
+ADM starts with the architecture’s (and hopefully the business’s) vision and then looks that the processes, applications and infrastructure needed to support that vision as well as the governance and change management needed to know you’re hitting the mark. The target of the materials created are the people who write the software and run the business, enabling them to make better business decisions.
+The business architecture will typically describe:
+
+The business footprint (a high-level description of the people and locations involved with key business functions)
+A detailed description of business functions/processes and their information needs
+A description of job functions and roles
+
+The information system architecture describes:
+
+The data architecture for the enterprise
+The applications used in the architecture and how they align to the processes
+Data elements and the relationship between the data and the applications
+
+The technology architecture defines:
+
+Technology Components and their relationships to information systems
+Technology platforms and their decomposition, showing the combinations of technology required to realize a particular technology “stack”
+Environments and locations – a grouping of the required technology into computing environments
+Expected processing load and distribution of load across technology components
+Physical (network) communications
+Hardware and network specifications
+
+The hope is that with this level of detail available, people will take the time to wade through and understand it all and have a better foundational understanding of how value is generated and what’s needed to maintain the existing environment. With the platforms of today being cast by an ecosystem of aligned service providers, a whole new dimension of relationships needs to be understood and addressed beyond what is typically documented. The leveraged possibilities of cloud architectures can range from:
+
+IaaS – Infrastructure as a service
+PaaS – Platform as a service (hardware and basic services)
+Software as a Service – Business applications and the hardware needed to operate the application
+BPO – Skills and business processes, software and hardware to operate business processes as a service
+
+I’ve included BPO (which is not part of the NIST cloud definition) since many parts of the business ranging from HR, finance or even manufacturing and design may be leverage services and organizations that specialize in addressing needs beyond IT.
+Each of these layers, may run in either a dedicated, community, public or hybrid mix of all the above possibilities. Defining and maintaining these relationships takes on new levels of complexity. They require the definition and documentation of security, communications, service level support and even software licensing models (since even open source software usually has some form of license that constrains how it can be used). The issues of networking and security increase in importance with this more relationship-oriented perspective, since those relationships only can function with the reliable, timely and secure flow of information.
+You add into that the shifting relationship of suppliers as customers and customers as suppliers that comes with the Internet of Things and the complexities of creating and maintaining a statically documented definition boggle the mind. These dynamic, convoluted and complex relationships still need to be understood, we can’t throw in the towel just because it’s hard.
+To do it ‘right’ will require a state transition approach that needs to handle the many to many relationship between the various entities. This would take forever to document and be impossible to maintain, so sometimes doing the ‘right’ thing is wrong – since no organization has the funds or the disciple needed to maintain it. The solution needs to shift to be ‘good enough’ for the needs of the day and mix the traditional view of architecture (for the more stable elements) with the more agile approach for those areas that are more dynamic.
+One way this could be addressed is by using the abundance of computing capabilities available to validate the architecture, by inputting the contracts, transactions and system work products. With the advances in pattern recognition capability, it should be possible to use the architecture materials themselves, along with the work products needed to run the business (e.g., contracts and even network transactions) to point out gaps and make TOGAF ADM model more proactive. This approach would point out new relationships and constraints on the business. It should shift attention to the anomalies and limit the distraction of the mass of ‘normal’.
+There is a great deal of excitement about using sensors and models… to diagnose human health. There should be a similar effort for business. I don’t know of any solutions on the market today but I am sure this approach to architecture is coming soon.
+
+Read more on: Frictionless enterpriseGoverning identity privacy and security 

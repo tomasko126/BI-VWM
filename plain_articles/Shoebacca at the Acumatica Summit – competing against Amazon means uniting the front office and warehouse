@@ -1,0 +1,51 @@
+
+Acumatica – Shoebacca visual search demo
+It’s been two years since I talked with Shoebacca about their mission to succeed amidst the retail giants.
+“I don’t want to have a shoe customer – I want to have a Shoebacca customer,” vowed President Ryan Schlachter.
+Since then, Acumatica’s customer base has grown to 5,200. But how has Shoebacca fared?
+In 2017, Shoebacca was focused on brand loyalty via a major investment in e-commerce – on their own web site. But Shoebacca’s growth is now tied to another goal – product visibility from the warehouse to the customer.
+That factored directly into the Acumatica Summit keynotes. Acumatica always rolls out a slew of new release features, this time with the 2019 R1 preview. After the keynote, I forced VP Partner Strategy, Product Management, and Services Ali Jani to pick which of the 120 pages of new release documentation he would single out. He pointed to the new mobile WMS functionality.
+That fits into Shoebacca’s story. During Jani’s keynote, he showcased customer visits as part of Acumatica’s release collaborations. Shoebacca was included, with an on-site focus on advanced fulfillment, and mobile WMS.
+Jani told me these customer visits teach his engineering team a great deal – that’s the power of observing your customers at work, spotting inefficiencies and product gaps they might have just gotten used to. The Shoebacca visit was about deepening Acumatica’s scanning and shipping functionality.
+The Shoebacca e-commerce update – personalization is working
+But it would be a mistake to categorize these pursuits as back office efficiencies. During my catch up with Thomas Finney, Shoebacca’s Director of IT, he surprised me with his candor: it’s all about serving customers better. So what’s the Shoebacca update? As Finney told me:
+We’re working as hard as we can, to not be so dependent on Amazon. We really started to turn the corner on that in 2018. This was a really good year for Shoebacca.com.
+For retailers, becoming a destination site outside of Amazon is a monster challenge:
+If you’re not one of the giants, you’re almost assuredly just a one-off being found because of pricing. It’s very difficult to build any kind of loyalty around that.
+So what’s made the difference for Shoebacca? No surprises here: savvy use of data.
+We’re utilizing data to do a better job for re-marketing, and that kind of a thing. We try to identify the customers who are more likely to come back, and find ways to target those customers, and try and build that out as a big portion of it. Ultimately it’s a lot of data. Getting it and understanding it.
+One big e-commerce challenge? Showing relevant items to visitors who aren’t logged in – a key aspect of personalization. Since our last talk, Shoebacca has made strides on this, via machine learning (including last year’s demo of Shoebacca ML with Azure Machine Learning and Apruvd for payment validation). So is personalization working? Finney says the ML-powered recommendations are paying off:
+Recommendations convert at a substantially higher rate than everything else on our site. Recommendations tend to convert substantially higher than just browsing traffic.
+Shoebacca runs its e-commerce via Acumatica partner Magento. Acumatica powers the back end, including order fulfillment.
+You can’t get CX right without back end visibility
+You can’t solve for customer experience without truly integrated back end systems. Finney says Shoebacca is facing that issue head-on:
+You talk about building loyalty. The customer experience they get from shopping is a big portion of it. People have very high expectations about when their packages are going to ship and that kind of thing.
+To get CX right, you also need a new, jugular set of metrics. For Shoebacca, same day shipping is one:
+Within our entire warehouse, we have reached the metric of same day shipping.
+As long as orders are received by the afternoon cutoff, that goes out the same day. That goes for 90 percent of Shoebacca’s catalog, excluding drop ship vendors.
+But for other new metrics, there is work to do. Growth is great, but there are always sticking points. And if a retailer has a weak link, customers will put them on notice. The next big project? Returns:
+We need to speed up our returns process. If you go to Google.com, and look for reviews for Shoebacca.com, you’d see a bunch of crappy reviews, and they’re all focused around returns.
+The first couple weeks of January, with the post-holiday return surge, were tough for Shoebacca this year – and the higher sales volumes upped the ante.
+Let me tell you, last year, our returns process was very problematic. I can absolutely one hundred percent guarantee you that our site, and our sales for the entire year were heavily suppressed by the problems that we had from the beginning. Because you had that negative customer experience, it affects reviews. So even though we grew substantially, we were very much held back by our internal processes.
+Finney says that Acumatica’s shipping and advanced fulfillment modules, demoed at this year’s Summit, will have impact. More than the Acumatica Summit attendees even realize:
+They have done some alpha demos with us, with our product. And they really glossed over some of the impressive functionality that that product is going to come with.
+And how will that change returns?
+Actually on Friday we went through and did a demo test, and just tested it functionally. We’ll be able to process our returns about five times as fast. By setting up the scan gun, we’ll be able to process our inbound return process all over scan guns, and it’s three scans that have to be done.
+That validates the return, that validates that the item is in fact the item supposed to be being returned, and then it alleviates all the manual input of making sure that people have the right dollar amounts.
+We’ll be able to get it into a warehouse, track the inventory, and begin the refund process. If we get returns and refunds processed in the same day, that’ll be greatness.
+Customers thrive on visibility and communication
+Another potential benefit of data visibility – automating notices back to the customer. The more steps you can track and trace, the more opportunities to automatically alert customers.
+One of the things customers seem to really like is the communication. They hate the communication from marketing, but they love the communication when it’s about their order or something like that.
+Funny how that works, huh? Future returns will include those email steps:
+Once the return comes in, we’ll scan it in, and that’ll trigger out an email to the customer that says, “Hey, we have your return, we’re going to begin processing it.”
+The second portion of that is that we will check that inventory into stock. That will send out another message that we’ve processed your return, your money will be refund shortly. Then we’ll issue a credit memo – the notification telling customers “Your money’s been refunded.”
+Time for another new metric:
+By the end of the year, we want to be able to send all three emails in the same day.
+During the keynote, Acumatica CEO Jon Roskill made the case that Acumatica’s R&D budget is higher than their ERP competition. Finney definitely sees the result:
+As a customer, I can feel it. You can feel that iterative change is coming. And they’re constantly looking for feedback from us, on how to improve the product. So having them come out into our office, and see what we’re doing, and try to understand our business processes to better their product, it has a huge impact.
+The wrap – from visual search to the power of site visits
+Shoebacca isn’t stopping there. They have more processes they hope to share with customers, via improved data visibility – including an integration of FedEx shipment updates.
+As usual, Shoebacca figured prominently in Acumatica’s next-gen demos. During Ajoy Krishnamoorthy’s keynote segment on next-gen tech, Acumatica demoed a Shoebacca visual search co-innovation now underway. The feature image above shows a keynote stage boot photo in progress, which results in online product recommendations relevant to that photo.
+We talked about the power of observation for on-site visits. Finney gave me examples of how Acumatica’s engineers rethought a process when they saw it in the field. Shoebacca has two million units of inventory, which they try to turn over once or twice a year. A developer can’t really imagine that on their laptop. They have to see the scanning and “track and trace” in action.
+That’s the kind of collaboration that gives Finney confidence for the push ahead.
+Image credit - Photo demonstrating Acumatica's visual seach co-innovation with Shoebacca from Acumatica's Twitter feed, picturing Acumatica's Jessica Gadbois and Ajoy Krishnamoorthy.Disclosure - Acumatica paid the bulk of my expenses to attend Acumatica Summit 2019 in Houston. Acumatica is a diginomica premier partner.Read more on: Analytics planning and data analysisCloud ERP financials and supply chaine-commerceInternet of ThingsRetail e-commerce and the omni-channel 

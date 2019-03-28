@@ -1,0 +1,47 @@
+
+In a provocative – and admirably self-deprecating – piece in The Verge, Editor in Chief Nilay Patel writes that The Mobile Web Sucks – and it’s going to get worse before it gets better.
+At first glance, this appears to be another chapter in the “open web is threatened by walled gardens” thesis, of which I have also partaken. But a deeper slice reveals a more complex problem that is worth dissecting, as it impacts how enterprises should think about UX design and monetization.
+Patel frames his argument on the superiority of desktop browsing:
+Apps have become nearly irrelevant on desktops because the web experience is close to perfect, while apps are vitally important on phones because the web experience is dismal.
+He then takes the position that the lack of competition for Safari on iOS is a big contributor to the poor browsing experience. The inferiority of browsing fuels the investment in apps. He likens Facebook’s incorporation of Instant Articles to what AOL did with Time Warner content, before the “open web” rendered AOL irrelevant. Facebook, however, cannot be undermined in the same way due to its mobile traction. (Last year, Patel called Facebook “the new AOL.”)
+Is the dominance of iOS Safari to blame for browser inferiority?
+Patel’s anti-Facebook bias surely includes the threat Facebook poses to The Verge’s business model. By calling for an open web that isn’t dominated by megasites that dictate content consumption, Patel’s views and mine are definitely aligned, for obvious self-interested reasons. Patel sees the lack of Safari competition on iOS fueling this problem, asserting that “Safari is the new Internet Explorer.” (ouch!). Patel concludes:
+That’s a recipe for stagnation, and stagnation is what we have. It’s leading powerful players like Apple and Facebook to create ersatz copies of the web inside their walled gardens, when what we really need is a more powerful, more robust web.
+However: on Android, there’s a decent choice of browsers, yet choice alone hasn’t solved the mobile browsing problems that bug Patel.
+It’s the first stage of Patel’s three part argument that needs a rethink:
+1. Apps are vitally important to mobile because the mobile web browsing experience stinks
+On face value, the point is hard to argue. But why does the browsing experience stink?
+Apart from Safari, Patel concedes that modern web sites (e.g. a massive, ad-supported destinations like The Verge), cause mobile performance problems. In a candid statement, Patel writes:
+Now, I happen to work at a media company, and I happen to run a website that can be bloated and slow. Some of this is our fault: The Verge is ultra-complicated, we have huge images, and we serve ads from our own direct sales and a variety of programmatic networks. Our video player is annoying. (I swear a better one is coming, for real this time.)
+We could do a lot of things to make our site load faster, and we’re doing them. We’re also launch partners with Apple News, and will eventually deliver Facebook Instant Articles. We have to do all these things; the reality of the broken mobile web is the reality in which we live.
+Readers bring the heat: maybe the real problem is your web site
+The Verge, which had been taking an awkward comment holiday, opened up comments from the readers for this piece. One prevailing reader sentiment flips the argument:
+Maybe the problem isn’t the browser, but your web site.
+Another reader claims that Android mobile browsing is great, once an ad blocker is running:
+Install an ad blocker and mobile Chrome is perfectly usable and nowhere close to the mess described in the article. The problem primarily lies with poor web development.
+Patel acknowledges the need to improve mobile development. But is the problem with poor web programming, or is it with the ad/pop-up overload from attention-desperate business models?
+A more radical aspect of the reader comments comes with disabling Javascript:
+Turn off Java Script, suddenly The Verge is less crappier and loads faster. Go figure.
+Some commenters blamed developers for loading all kinds of unneeded and crummy Javascript onto web sites. But again, is the problem bad code, or the need to stuff ad server tech “from a variety of programmatic networks” onto the pages?
+Javascript blocking, which is soon to be formalized by Apple in iOS 9 as the Safari Content Blocker, has the potential to dramatically improve mobile page loads – but not without big disruption to advertising models. The issue is complicated, as this piece explains. Safari Content Blocker wouldn’t necessarily block ads, but it would block a subset of ads along with tracking scripts. A companion iOS ad blocker could address that.
+The downside, or ominous part for web site owners, is that a good portion of their analytics stats would simply disappear. An analytics tracker is not usually the cause for poor mobile performance, but it would be swept out with the Javascript block. (disclosure: diginomica, like most sites, uses cookies including Google Analytics Javascript).
+My take – and how enterprises should respond
+Patel isn’t blind to the ad issues; he links to a piece, Why Web Pages Suck, by Ben Thompson, that gets further into why ad tech has bogged down web site performance.
+I sympathize with Patel about the dominance of walled gardens like Facebook, for both personal and blatanatly obvious professional reasons.  But business model accountability factors into this discussion.
+At diginomica, we made desktop design sacrifices when we did a creative destruction makeover for mobile simplicity. Our refusal to bombard readers with any kind of pop-up advertising, auto-play video or promotions (including our own newsletter and events sign ups) helps our load times as well. That doesn’t mean we don’t have our own performance issues. Addressing that is an ongoing discipline that will never go away. But if you choose to integrate a programmatic ad server into your web site, then fingering Safari as the performance problem smells a bit like a misdirection.
+I recently did a feature on Copyblogger’s success moving beyond email newsletters into a “logged in web experience.” During my talk with Copyblogger founder Brian Clark, he insisted that building a mobile app isn’t a good solution for most companies. Instead, Clark advocated building an “app-like experience” on your web site. If you look at the simplicity of the Copyblogger design, you can see how they accomplished that, and again, no obstrusive ads and annoying full screen pop-ups (e.g. Forbes.com) to slow down loading times.
+So what are enterprises to do?  I recommend:
+
+Design for the mobile web first, desktop second – reduce web site complexity wherever possible
+Unless your business is truly ad-dependent, get rid of any ad server partnerships that extend site/page load times
+Do NOT use invasive pop-up technologies like Bounce Exchange, which fail to measure the disillusionment they cause
+Optimize your web site to load quickly – even with Javascript on, and ad blockers off
+Then test with Javascript blocked and ad blockers on, and attempt to narrow the gap between these two scenarios from a performance standpoint, purging unneeded Javascript
+Set up at least one web traffic analytics system that is not Javascript-dependent like Google Analytics
+Experiment with mobile apps in high value areas where adoption and user experience is paramount, otherwise, adopt the mantra that the entire web site should “feel like an app” when loaded on mobile browsers
+Don’t accept good tablet display as an excuse for a sub-optimal phone experience
+Performance testing: iOS first, Android or desktops second, Windows mobile if it is a factor for your audience
+
+Many of the issues Patel raised are still in flux, but these actions should help to prepare for whatever browser/app/HTML 5 mashup we end up with.
+Image credit: Computing concept © Sergey Nivens – Fotolia.com
+Read more on: Analytics planning and data analysisMobileSocial 

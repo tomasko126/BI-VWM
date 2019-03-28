@@ -1,0 +1,32 @@
+
+The first steps towards digital transformation at business services giant Rentokil Initial were “nothing to do with IT,” admits Anthony Meadows, global director of enterprise IT. Initiatives led by business departments first demonstrated the agility and speed that was achievable. Now IT is on board too and is in the midst of “decomposing” the company’s core ERP to expose data and services using an API infrastructure. Speaking to diginomica at this month’s MuleSoft Summit in London, Meadows said:
+We’ve stopped renewing our ERP. We’re not going to invest in this legacy.
+We’re creating this digital core by taking our ERP apart. It’s not just solving our problems. It’s an enabler to take our business forward.
+The beginning of the story dates back to 2009, with the roll-out of Google Apps to 22,000 users. The original purpose had been simply to replace an incompatible mishmash of 47 different messaging platforms that made cross-enterprise communications virtually impossible. Rentokil Initial provides pest control, hygiene and workwear services to around a million customers globally and operates in over 60 countries.
+Business took the lead
+The Google Apps project achieved its objective far more thoroughly than anyone could have imagined, with new forms of collaboration such as the use of Hangouts for impromptu conversations that have since virtually eliminated internal emails.
+But it had an unforeseen further effect in the way that it made it possible for business users to create new workflows and automations without having to go to IT, says Meadows.
+Without realizing it, it began to have an effect on the way we use IT … Google enabled the business to start go doing things.
+The next major step came in 2012, when the business — again with no involvement from the enterprise IT team — launched an initiative called ‘Project Speed’ to build Android-based smartphone apps that connected to the Google Apps back-end. The efficiency gains for a workforce that is as much as 70 percent field-based were enormous. But it highlighted the yawning speed gap between these new initiatives and what IT could traditionally achieve, Meadows recalls.
+It trained my executives that we could write a mobile app in four weeks.
+API building blocks
+Meadows and his team were held back by an in-house developed ERP system that combines many different functions and thus made it very difficult to change any one aspect without impacting others. Using MuleSoft, they decided to begin building out generic APIs that could be harnessed by new applications to either replace or supplement the functionality in the core ERP system. The team has also deployed a mobile development platform to provide consistency across different projects.
+Examples of projects recently completed or currently under way include:
+
+European supply chain integration to replace a process that had to reload six years of data to add each new day’s transactions.
+Roll-out of ServiceTrak in Asia, a mobile app project that replaces 7000 customised PDAs with smartphone apps running on consumer devices that cost ten times less.
+Integrating directly into customers’ facilities management systems and “taking thousands of hours of administration labor out of our business.”
+
+Initially the focus was on replacing outdated or broken processes with up-to-date alternatives, but the emphasis has since become more forward-looking, said Meadows. The Internet of Things looms large in Rentokil Initial’s future. The company is already developing applications that take advantage of smart devices for washroom management and pest control, wearables with voice data entry, and drones that can survey buildings from the air.
+The IT team now sees its role as providing the API building blocks and development frameworks the business can use to take advantage of these new capabilities.
+The API layer is really important to open these pieces up. By using APIs, we open up our core systems to the business. We help them explore the technology and allow them to innovate.
+My take
+Yesterday I wrote about Chef Software’s view of how organizations adapt to rapid technology and business change. This example from Rentokil Initial is a real-world case study in the dynamics I highlighted in my conclusion yesterday — and especially the lead taken by the business:
+It may be IT that provides the first spark by setting up some initial projects. But it is the business that then rapidly understands the transformative potential and begins pushing to do more. In many organizations, those business users will have already been exposed to a more rapid and iterative style of IT project through prior experiences with SaaS applications.
+No wonder then that they catch on so rapidly and the continuous delivery ethos quickly overruns the entire enterprise in Chef’s experience.
+The result then is an acceleration in the chipping away of legacy systems as they are replaced, one function at a time, by new projects.
+One aspect that strikes me as of special significance in the Rentokil Initial example is the extensive use of Google Apps collaboration, with a big emphasis on Hangouts — Meadows told me that this how he does most of his internal communication, to the extent that what little use he makes of email nowadays mostly takes place outside of work.
+I suspect that a strong collaboration backbone is key to the success of this kind of business-led IT innovation and that it’s no coincidence it features as a core part of the Rentokil Initial story.
+Image credit: courtesy of Rentokil Initial.
+
+Read more on: Cloud ERP financials and supply chainFrictionless enterpriseUse cases 

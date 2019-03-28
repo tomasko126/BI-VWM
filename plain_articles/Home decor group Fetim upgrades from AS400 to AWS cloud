@@ -1,0 +1,37 @@
+
+Facing accelerating business change, a 93-year-old family firm is migrating its business systems off an ageing IBM AS/400 to an Infor cloud solution running on Amazon Web Services (AWS).
+Headquartered in Amsterdam, the Netherlands, Fetim Group operates in 40 countries internationally, designing and selling construction products, flooring, home decoration and bathroom fittings. Frans Beerkens, IT Director, who runs the company with his brother, said at a briefing in London earlier this year that the move to the cloud was motivated by the need to become more agile as a business.
+From a hardware perspective we were constantly dependent on how fast my IT guys could move up.
+We decided to go to the cloud to give us the flexibility. It made my IT costs go from fixed to variable. Most importantly, because we’re cross border, we decided we needed to have one platform where everybody within the entire company would be able to connect, regardless where they are.
+Like many businesses, Fetim must adapt to a surge of rapid change in its industry. The impact of globalization and online shopping over the past few years has seen a shift in purchasing away from its traditional retail partners, while new opportunities have arisen for direct sales, both online and in partnership with retail outlets. Connected technologies are enabling new buying propositions, such as drop shipment direct to consumers, or made-to-order bathroom and shower designs.
+At the same time, Fetim had been growing through acquisitions, adding to the complexity of the IT estate, as Beerkens explains in a video about Fetim’s Infor implementation:
+We bought seven companies over the last few years. You buy them with the host system, you get lock stock and barrel. It took us more people almost to start managing all these different platforms. We decided we wanted to get to one platform.
+Hurdles to overcome
+One of the keys to board acceptance of the move, said Beerkens at the London briefing, had been to show that it would add agility without increasing costs.
+To show that the total cost of ownership is not going to cost more than what I pay today — that was enough to convince my board to say, ‘Let’s look at it.’
+Nevertheless there were hurdles to overcome. There was some concern about using Amazon as a platform, since Fetim sells some of its products through Amazon’s online retail arm. Beerkens made sure there would be no access to Fetim’s data by the Amazon retail team.
+The security part for us was an issue. Amazon is one of our customers. The last thing I want is to make sure I give them my customers.
+There is a very clear wall between what Amazon is allowed to get to and what Amazon is not allowed to get to.
+There was intense discussion about the adoption of standardized processes instead of the customization that had been commonplace with the previous system.
+To go without modification, we had to do a lot of soul searching. You have to ask yourself, how much does the process marry up with what we want to do and how much can we learn?
+Infor’s commitment to providing functionality designed specifically for ‘microverticals’ such as those within the retail and distribution sectors helped make the case, said Beerkens. Equally important was the recognition that customizations would act as a brake on upgrades and thus remove the flexibility to continue adapting as the system evolves.
+What makes us so different? Give me a really good reason why you don’t want to upgrade for the next ten years? Because that’s the consequence of that decision.
+My IT partner has a focus on the cloud. If I go to the cloud now I have the ability to make use of their research.
+I want my IT guys go work on my business processes, and not have to go with a screwdriver to my datacenter.
+Best-of-breed interaction
+Less IT-savvy board members often needed to be educated about the cloud model, said Beerkens.
+There’s a knowledge gap between IT and the perception of board members who are not so knowledgeable about cloud. They have to learn to give away that concept of control. You need to explain that redundancy and high availability is built into AWS.
+While the Infor M3 system runs in the cloud, it is interacting with other best-of-breed systems that will remain on-premise, such as a JDA warehouse management system and Slingshot inventory management. Fetim is using Infor ION integration and Business Vault to bring data together from the various systems in preparation for connecting into a planned ecommerce front-end using Infor Rhythm.
+For the first time we will be able to create one set of data — stock and warehouse information, customer records, pricing and product information.
+Equally important will be the ability to make the data and applications available to a wider range of users because of the ease of use and mobile capabilities of the updated software. Beerkens referred to a concept that Infor has been calling the tyranny of the superuser — the way that access to information in many organizations has been restricted to a narrow coterie of skilled users who were the only people capable of navigating the complex screens of traditional ERP systems.
+The smart user made it so complicated that ninety percent of my users don’t use the ERP system.
+[The new system] allows me the flexibility and it is giving me a UI that allows me to stop the ‘tyranny of the superuser’. I can give the power of the ERP back to the people in my business.
+My take
+Just as the AS/400 and its predecessors brought computerization to an earlier generation of businesses, so the cloud is now becoming the chosen vehicle for those same companies to go digital.
+Exposed to the pressures of dynamic change in the retail market, Fetim Group has no choice but to select a platform that will allow it to iterate rapidly as its business adapts to these new challenges.
+As it starts the process of rolling out that new platform, there are striking contrasts with the way the previous platform was implemented. This time, an environment of continuous change doesn’t allow for the retailer to design its own custom processes. So it must rely on the vendor’s creativity to provide packaged processes that will allow it to compete as the market evolves. Those processes will involve many more employees than were ever able to interact with the old system.
+It’s a relationship in which there’s a critical dependence on the vendor’s ability to deliver, not only in the initial implementation, but continuously throughout the lifetime of the business system.
+Disclosure: Infor is a diginomica premier partner.
+Image credit: provided by Fetim.
+
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureRetail e-commerce and the omni-channelUse cases 

@@ -1,0 +1,45 @@
+
+The striking down of Safe Harbor following a widely reported EU legal decision could have significant impact on the revenue of US based hosting providers who hold data in US data centers on behalf of European customers.
+The exact amounts at risk are unknown but we can start to do some back of cigarette packet calculations. Before anyone accuses me of scare mongering, I’ll include some back channel conversation that is going on between myself and a well known business services provider. It gives a sense of how technology business CXO’s are thinking.
+Here is some background data — or rather lack thereof.
+I cannot find any reliable data on the size of the global hosting market. Neither can I find data from the likes of GoDaddy or Rackspace that provides geographical breakdowns of revenue sources. That should not be surprising since until recently, the geographical breakdown has been irrelevant and subservient to other measures like ACV.
+We also do not know the amount of investment the likes of Microsoft, Google and Facebook have made in non-US data centers. We can assume it is significant since investments of this kind for vendors operating at global scale run billions of dollars.
+However, we do know from published information (PDF) that GoDaddy claims a goal of customers in 60 countries by 2016, is already recording $100 million in international revenue in Q2 FY2015, and $145 million in hosting revenue out of a total of $395 million.
+Rackspace MQ via Gartner, June 2015
+Gartner has provided a Magic Quadrant showing what it believes are the top cloud enabled managed hosting providers in both the US and Europe. As you can see from the above, there is very little cross over between the US and Europe. However, it is possible to get a sense of the complexities and interdependencies operated by global players from this graphic that comes from Colt’s 2014 report.
+Colt Global Network
+Let’s talk numbers
+The only US based companies represented in the MQ are Rackspace, CenturyLink and Verizon. Rackspace operates data centers in nine countries. Rackspace is forecasting total revenue of approximately $1.9 billion in 2015. (Click Investor Deck link.) CenturyLink operates out of the UK and Frankfurt. Verizon operates throughout Europe in data centers with cloud enabled DCs in the UK and the Netherlands. None of these companies provides geographical data but it is reasonable to assume that each will provide customer assurance both for Europe and for US customers handling data on behalf of European based organizations.
+Taken together, anything I offer here on potential impact is speculative. Many of the well known hosters operate as private concerns so we have no access to their numbers. And there are a LOT of them, many of which operate in what I term the quasi-consumer space where they host personal sites or brochure ware for small businesses.
+Let’s be clear — one reading of the current state of affairs puts all data center operators at risk but in reality, it is likely that only a small handful of operators will face real problems in the short term.
+We can get a sense of the amount of business conducted in the EU from sources like Salesforce.com’s and SAP accounts as a starting point.
+Salesforce for example recorded $287 million in EU revenue, representing 17% of the total in its last earnings report. (PDF) SAP recorded €119 million out of €0.6 billion for cloud revenue for Q3 FY2015 (PDF). That’s around 19%. Oracle doesn’t provide a detailed breakdown of cloud only revenue for each region. Based upon the information at hand, I estimate EU cloud revenue at around $160 million in the last quarter.
+Taking all these figures together, the annualized cloud revenue from Europe for these three companies alone amounts to approximately $2.5 billion for 2015.
+Elsewhere, Microsoft says total Azure revenue is at an annual run rate of around $5.5 billion. Amazon  Web Services claims $7.3 billion. Again, it is difficult to get a full sense of how much is attributable to European activity but we can assume a number in the $2.5-3 billion range.
+Just based on these few examples and extrapolating out to include all the bit players, we can easily guess at a potential European cloud business services market running at $15-20 billion in the current year. That’s a very conservative estimate.
+But that’s not the end of the story. Geographic segment information only gives you a sense of the value of deals where the contract can be pinned to a particular country or region. It does not for example say anything about data related to European operations for US based subsidiaries where the contract for data services is deemed to have been signed in the US. This is where things get very murky.
+Right now I’d venture it is impossible for most companies to know the extent of their potential exposure. It could easily run many millions. In addition, what happens should customers run scared and insist on a lift and shift of data to the EU, simply to get from under the uncertainties. It’s already happening.
+The customer view
+As I said at the top of the story, I have had a long back and forth with a US based company that holds data for European customers. It is anticipating that customers will come asking about its plan to ensure their data is in compliance. Saying ‘we’re working on it will not cut it.
+We discussed alternative possibilities and my correspondent’s answer is to move everything lock, stock and barrel from Santa Clara and New Jersey to AWS in Dublin and Frankfurt. There will be no data held in the US. The logic is that the cost of splitting databases for EU data is out of proportion to the straight transfer cost into EU data centers.
+I thought that was pretty drastic but then came the knock out punch:
+Customers have to be conservative so I have to be aggressive. I don’t plan waiting until every other slug wakes up and I’m in line trying to get storage. We need to act — and now.
+Then there is the question of whether the company can get the assurances it needs to satisfy customers. That will require careful review of the contract terms and, I suspect, an indemnification for customers.
+Finally, the company will have to consider the overall weighted cost of taking such drastic measures because it doesn’t stop at a simple hosting switch. Latency might become an issue in some scenarios.
+Belt and braces
+As if to add weight to this argument, I note that Zettabox sees itself as in for a windfall:
+
+Some American cloud computing companies, for instance, have contacted European rivals in efforts to reduce their legal risks when providing online services within the 28-member bloc. That could involve American tech companies transferring legal responsibility — and data — of their European users to local cloud computing competitors, which already comply with the region’s tough privacy rules.
+“People who wouldn’t give us the time of day are now pursuing us,” said James Kinsella, an American entrepreneur who runs Zettabox, a cloud computing company whose data is held only within Europe. Mr. Kinsella declined to name the American companies with which he was discussing partnerships.
+“These deals won’t make or break our business,” he added. “But we clearly have a solution to this privacy problem.”
+
+That may be true today but with such a short time to go before something is agreed between the EU and USA, I suspect we’re only seeing the tip of a large iceberg.
+My take
+Right now there is much posturing on the topic. Microsoft for example sets out a long winded post that talks in vague but helpful terms. El Reg thinks the plan is ridiculously simple and I kind of agree but I also agree that:
+
+Getting the new rules past the EU, which is currently sore over NSA spying, will be tricky, and getting the US Congress to act will be akin to herding cats.
+
+In the meantime, I can readily forsee many US cloud operators with EU customers running for the hills. And with that will go a massive transfer of revenue away from the US and into European coffers. How much is impossible to calculate with any certainty but it has to run many millions of dollars.
+Disclosure: SAP, Oracle and Salesforce are premier partners at time of writing.
+Image credit at top of story: A safe place to work © olly – Fotolia.com
+Read more on: e-commerce 

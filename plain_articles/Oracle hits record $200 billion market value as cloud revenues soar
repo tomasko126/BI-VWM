@@ -1,0 +1,30 @@
+
+Larry Ellison
+Did Oracle just pass a cloud tipping point? Wall Street clearly believed so yesterday as the supplier’s stock market valuation topped $200 billion for the first time on the back of its Q4 numbers that boasted 66% year-on-year growth in cloud revenues.
+For the quarter, Oracle reported net income of $3.23 billion on total revenue of $10.9 billion, up 3% year-on-year.  Total cloud revenues were $1.4 billion, up 66% from last year. Total on-premise software revenues were $7.5 billion, basically flat year-on-year, while new software license revenues were $2.6 billion, down 4% and hardware revenues of $1.1 billion were down 12%.
+Breaking with its previous reporting practices, Oracle is now breaking out its SaaS revenues, which have now passed the $1 billion mark, bolstered by the NetSuite acquisition. PaaS and IaaS revenue for the quarter were $403 million, up 45% from last year.
+Some stats courtesy of co-CEO Mark Hurd:
+
+1,600 new SaaS customers.
+1138 expansions in the quarter.
+400 of those who bought SaaS also bought Paas.
+868 new ERP customers (not including NetSuite).
+200 ERP expansions.
+Two-thirds of the new ERP customers never had Oracle ERP before.
+
+All of that was enough for Chairman and Chief Technology Officer Larry Ellison to indulge in some competitive sabre-rattling at an old adversary, albeit not as aggressively as of old:
+Last fiscal year we sold more than $2 billion in cloud Annually Recurring Revenue. This is the second year in a row that we sold more cloud ARR than Salesforce.com. We are now well on our way to passing them and becoming number one in the enterprise SaaS market.
+The reason we are confident that we will pass Salesforce is because we have a three-fold SaaS application suites for ERP, for HCM and for CRM including financials, procurement, supply chain, manufacturing, human resources, payroll, marketing, sales and service. Salesforce in contrast only competes in three of these nine market areas.
+Furthermore, Oracle is now the clear leader in cloud ERP and ERP is by far the largest application market, not CRM.
+There were also new enemies to be taken into account:
+Oracle also competes in Infrastructure as a Service and Platform as a Service. Here our primary competitor is Amazon AWS. During this new fiscal year, we expect both our PaaS and IaaS businesses to accelerate into hyper growth, the same kind of growth we are seeing with SaaS…We expect that our Oracle PaaS and IaaS businesses will grow so fast that they will be even bigger than our SaaS business.
+The AT&T Factor
+Apart from natural confidence and bravado, the main driver behind that last claim is the deal done during the quarter with telco AT&T to shift large tranches of its databases into the cloud. Hurd expands:
+It is a long-term deal. AT&T has over 10,000 Oracle databases. They have several hundred large databases that have 70%, 75% of all of their company’s data. They have badly wanted to get the benefits of cloud, provisioning, a lot of provisioning, and all the new features that come with product modernization, consolidation of that infrastructure, yet in many cases they have got regulatory pressures on what they can put in the public cloud and what they can’t.
+This is an example where we have talked about this before, we take our Oracle cloud machine and we are able now to do all of that with them on their premise and give them all the benefits of the cloud, we manage, we patch, we basically run the cloud for them and we help them get all of that done.
+But more importantly for Oracle, it’s a major, highly-public use case that will be closely watched by prospects:
+This is a bigger deal to us than the transaction. It is the opportunity for us to now do this for hundreds and thousands and tens of thousands of customers. The opportunity for us in the quarter and the reason we somewhat put the press release out was AT&T being so effusive about their opportunity now and what it meant for them internal to AT&T. But its just as, if not more, important for us and what we can do for all of our customers…I think it’s just as important what it means to our customers going forward on the bigger picture.
+My take
+A Wall Street pleasing quarter that suggests that investors believe that a cloud tipping point has been reached. In reality there’s still a way to go. Hurd is carefully non-specific when he says that the company believes it will get all its on-premise customers onto the cloud infrastructure over time. The PaaS and IaaS businesses have yet to scale in the same way as the SaaS operation, although the AT&T deal does provide a high-profile proof point to stimulate the pipeline.
+Image credit - Oracle Disclosure - At time of writing, Oracle, NetSuite and Salesforce are premier partners of diginomica.Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceDigital government and public services
+

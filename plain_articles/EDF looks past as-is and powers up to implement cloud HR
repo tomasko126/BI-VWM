@@ -1,0 +1,56 @@
+
+French electricity giant EDF Energy begins implementing SuccessFactors cloud HCM for around 20,000 UK workers in April, with a go-live planned to start around six months later. Ben Wharfe, programme director for future HR at EDF spoke at yesterday’s SAP Innovation Forum in London about the company’s preparations for its change journey, and how it was able to complete a requirements specification to implement cloud HR with more than 1,000 points in just one month.
+It’s important to realize that you’re doing much more than a digital transformation of the technology, says Wharfe.
+Sure that is one component of it, but this is a program of work with a number of different streams within it. Digital doesn’t just happen on its own.
+So the implementation has to go beyond simply porting existing processes to the new platform. For all the claimed simplicity of SaaS or cloud applications, “the reality is that SuccessFactors has 7,000 configurable options,” he points out, plus quarterly functional upgrades. You’re not going to end up with something that’s simple to use and maintain if you take advantage of all that flexibility. So getting the right mindset is crucial, he believes.
+Digital is not about the technology, it’s about a mindset. It’s about a way of thinking, it’s about a way of behaving.
+As you’re designing these solutions and as you set up your HR function in future, you need to be prepared to make compromises. You need to really drive to standard process and ways of working.
+You can configure as many different ways, processes as you want, but you don’t want to. That’s the point.
+Future pillars
+Success depends on winning engagement from the business for the changes that will be taking place. That depends on four key elements, he says.
+
+
+People need to be in the right mindset
+They need to be prepared to move to standard ways of working
+They need to be prepared to make compromises
+They need to be prepared to move at pace
+
+
+EDF’s future HR program, which Wharfe leads, has three main pillars:
+
+The first is being effective. Wharfe cites three components within this: getting the most out of the operating model; planning how to manage the new technology with its frequent upgrades and user-defined configuration options; and looking at all-new functionality such as data analytics.
+The second is simplicity. This is about making the processes easy to use for employees and line managers, and reducing errors caused by complex forms.
+The third is digital HR. This is means having an overarching strategy to move from “a messy patchwork of unintegrated, on-premise systems” with poor user experience to “a single, integrated suite in the cloud.”
+
+For the requirements gathering, EDF followed a Deloitte methodology that focusses on the business goals rather than starting from how things work at the moment. As Wharfe explains:
+In the old world, we put a bunch of people into a workshop, and we would start by trying to map all the as-is processes. That’s quite a laborious, boring process for people to be involved in, in its own right.
+Then to define your to-be processes. That’s a challenge now, because you’re already constrained by thinking of the as-is processes. You fundamentally try to move to a different solution but you’re designing it based on the foundations that you’ve got in your old one. You’ve got your big, long list of requirements and people come out with their head spinning.
+Asking ‘Why not?’
+Instead of this conventional approach, EDF started by asking ‘Why not?’ says Wharfe.
+We took the standard, accelerated, best practice processes out of the box, put them on the wall, and said, ‘Forget what you do today. Forget how you do it today. Why would that not work for your area?’
+It broke people from the mindset of, ‘Well, I do this today so I need it today.’
+This not only helps people break free from functional turf wars, it also promotes a more engaged atmosphere, says Wharfe.
+People came out saying, ‘I actually really enjoyed that. I wasn’t expecting that.’ That had a huge impact. Then, people went back out into the business and told their teams that it was an engaging experience, and people wanted their teams to be engaged in that.
+Equally valuable is the progress that can be made by not spending time dwelling on how things have worked in the past.
+We jumped straight into moving at pace and we created all of our functional requirements, got them all signed off in the space of a month.
+It was 1,000+ requirements. All pulled together, reviewed, and signed off within a month.
+Those requirements are expected to be binding on the implementation, says Wharfe.
+We need to empower people, but also trust them to make the right decisions. We need the right people in the room, and if they can’t be in the room then they need to send a deputy. Decisions made in the room are final and you’re not going to revisit those.
+A head start
+When live, the SuccessFactors system will integrate to EDF’s core SAP instance, which includes HR and payroll, finance, procurement, and asset management. Therefore the team is currently undertaking a careful mapping of the data architecture to understand what each data field drives in terms of static and dynamic data. Wharfe explains:
+The purpose of that is to understand exactly what data we need to move into SuccessFactors and will be mastered there, what data we can archive, and what data we can still retain in SAP core.
+When we have this live, the reality is that the core data, which is required to drive the other processes in SAP, will be replicated in near real-time, a few seconds. SuccessFactors will be the master of all the people data, but it will be passed over before the process is replicated, and we define all that.
+This was one of several tasks that Wharfe decided to start early based on learning from the prior experience of others who had implemented cloud HCM.
+There were three areas where I pulled forward pieces of work that had caused people trouble:
+
+Integrations always cause trouble for people.
+We developed all of our business changes, strategies, and approaches six months ago, before we kicked off the project.
+Data is the key one. We’ve already started our data cleanse, our data mapping, and everything like that.
+
+So try not to see things in a traditional way. Try not to look at a waterfall approach, a very linear way of implementing things. See what stuff can you pull forward to get a head start on.
+My take
+Of course the proof of how this all succeeds will be seen once the implementation goes in. But rethinking processes has been shown to be a crucial factor in successful cloud HCM implementations elsewhere.
+We’ll keep an eye on this, as will the rest of EDF — Wharfe said the French have not yet decided on their future plans for HCM and are “watching with interest” to see how the UK project goes.
+Image credit – Two electric cables © nomad soul – Fotolia.com. 
+Disclosure – At time of writing, SAP is a diginomica premier partner. 
+Read more on: HCM and the digital future of work 

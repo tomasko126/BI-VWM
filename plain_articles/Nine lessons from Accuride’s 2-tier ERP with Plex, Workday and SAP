@@ -1,0 +1,26 @@
+
+
+Accuride, a U.S. based manufacturer of wheels for the trucking industry but with international operations continues to modernize its technology landscape under the leadership of Paul Wright, its CIO. I first came across Paul when he spoke at a Plex event in 2015. At the time, I said:
+On video, we got into some of the nitty gritty around international implementations which showed a side we hear about a lot in backroom conversations but which are rarely articulated with brutal honesty in the public domain.
+As you might expect, he is a fan of cloud technologies and it wasn’t long afterward that Paul was considering Workday. By the end of 2017, Accuride was running a mixed mode two-tier landscape. Again and at the time, I said:
+It turns out that Accuride is Workday’s first live Financial Performance Management (FPM) customer taking non-Workday data into consolidation and planning who is also willing to discuss the experience. That environment is a mixed mode Workday, Plex and SAP BusinessOne environment. Paul said the data mapping was ‘no issue’  and that for the longer term, he wants to include Oracle Sales Cloud data. That will allow for a much richer operational picture.
+Add in Prism and PaaS and now you’ve really got something to talk about.
+
+Fast forward to today and how are things shaping up?
+To get a flavor of that you need to listen to the podcast I recorded with Paul while on his travels in Europe. (see top.)
+Current lessons
+The most important lessons can be summarized as:
+
+The choices Accuride made some years ago  are still considered valid and correct, but with some nuance around how the landscape is evolving.
+Cloud derisks the ERP environment because innovation is the vendor’s responsibility. They have to make it work for everyone. Accuride likes thatm, even if it means waiting for new functionality.
+Workday’s PaaS is coming along slowly albeit Accuride has made its first stab at developing its own functional needs.
+Plex has done a good amount of IoT experimentation but there hasn’t been a lot of demand in Paul’s industry. Yet.
+No-one on Paul’s industry is that interested in blockchain as a way to foster collaboration. Getting people to think about saring data in a meaningful way is a significant industry challenge. We have seen this before and it may well be that the vendor community has to come in and be prepared to act like Switzerland.
+Workday has some configuration issues that Accuride want attending to.
+As he said in 2017, the promise of Prism is tantalizing as the company expands across territories. Paul sees Prism as a form of connective tissue and glue across disparate systems, including SAP.
+Cloud isn’t going to be everywhere for the forseeable future. Data governance in different geographies mean you can’t necessarily operate cloud as an efficient way of working. This is often overlooked, as is the availability of bandwidth in different geographies. If we are to get deep into IoT etc then we need much more bandwidth than is currently available.
+If you’re operating a mixed mode environment that includes SAP, you have to watch out for indirect access gotchas. Accuride believes it has those topics boxed off.
+
+My take
+It’s always a pleasure talking with Paul. You get the sense he is both excited by the art of the possible but without losing perspective on delivering the necessary. Accuride’s long range thinking is proving to be on the money. But there is always plenty to get done for a CIO who has to juggle multiple landscapes in a business environment that doesn’t stand still and where M&A activity alone provides plenty of opportunity and challenge. We shall talk again.
+Image credit - via dah - screen grab from videoDisclosure - All companies mentioned in this story are premier partners at the time of writingRead more on: Cloud ERP financials and supply chainProductivity 

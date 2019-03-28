@@ -1,0 +1,37 @@
+
+
+Workday has always endeavored to be strong in analytics based on the theory that a single application code line makes the provision of comprehensive ways into data relatively easy. That is fine as far as it goes but then along came a variety of external data sources and the theory no longer looked as strong. Workday addressed those externalities through the acquisition of Prism Analytics.
+Today, Workday is taking a further step with the introduction of Workday People Analytics, a generic term to cover what Workday expects will be actionable insights into HR data in 2019. This solution will have the benefit of some AI/ML capabilities designed to augment data into what Workday considers as stories based on Stories.bi, another acquisition the company completed in July, 2018. If that sounds ambitious then you’d not be wrong so what has Workday achieved?
+In Workday’s view, executives need information on which they can start to make decisions. As we already know static data like hiring statistics and attrition data only tell you where you are and very little about the what and why. Workday People Analytics uses a combination of:
+
+
+Automated pattern-detection capabilities to look for important changes a human might not see
+Graph processing to find connections across vast datasets
+Machine learning to predict the most important issue for you to see
+Natural language generation to explain what is happening in a simple story
+
+
+These are used to develop narratives on the issues that matter and upon which execs can act. An example might be hiring difficulties. The so-called war for talent is real enough but do organizations understand what that means in any detail? There could be numerous factors playing into a hiring shortage but picking apart the numbers has never been straightforward, neither has assessing the underlying issues behind a set of hiring numbers. Workday People Analytics claims to overcome these issues.
+I spoke with Pete Schlampp, Vice President, Workday Analytics to get a sense of what’s on offer and where Workday is at on this topic. Schlampp claims that Workday’s technology is capable of sifting through millions of potential scenarios in order to arrive at a storyline. This is not easy to conceptualize.  He showed an example where ‘fixed’ attrition data in a specific region was explained in several ways; one of which related to pay rates, another of which related to a specific hiring manager. Impressed? Maybe.
+What problem is Workday People Analytics aimed at?
+KPIs are static and shallow in some cases that’s a very good thing if all you want to do is focus on those one issues, but if I want to go deeper this technology will allow me to accomplish that and then click into the why, providing insights into where you might want to investigate further.
+In order to arrive at specific storylines, Workday People Analytics needs a LOT of data. The company claims it is working on this on a customer by customer basis rather than all of the workforces that Workday manages. I assume that will be limited – at least for the time being – to some of the largest customers. I can see for instance that in a situation where you have (say) 20,000 employees, finding patterns among subsets of the employees might be relatively straightforward. But then I am minded of the variability of experience that I see in Glassdoor data as self reported by employees and wonder how reliable the patterns will be.
+I am equally mindful that Brian Sommer recently picked apart the ATS bias issue in hiring. Schlampp responded with:
+An aspect of this is a diversity and inclusion making sure that we have a funnel that accurately reflects the population. That’s a great example of something Workday People Analytics will be able to do. It will look at the data in an unbiased way and will find trends that a human eye might not see. It will say here’s where you’re having issues in the recruiting process and here’s why. And one of the reasons why may be you don’t have a diverse enough candidate pool.
+Where is Workday concentrating its efforts and who are the target personas?
+We’re focusing on five different areas what we call the Topics of Workday People Analytics. Those include work composition, diversity, hiring, retention, and attrition, talent and performance. We’re aiming this at organizational team leaders, CHROs trying to understand the trends across the entire organization, and then finally the HR partners that partner with the org leaders and the CHRO’s.
+To put this into perspective, and to contextualize, Workday People Analytics can tell you where employee voluntary leaving is occurring and some of the factors playing into that particular equation. Other examples:
+
+What are the bottlenecks of the hiring process?
+What are the top 5 trends in the organization’s diversity? How are we evolving as a community?
+Which pockets of excellence can the whole organization learn from?
+Where do we see unusually high attrition? What are the drivers behind it?
+
+As we concluded our conversation I asked Schlampp how the algorithms are being c0nstructed. I can, for example, envisage situations where individuals might be unfairly identified.
+It’s an important question and one of the reasons we are not planning to release this until 2019 in Workday 33. We have had this technology for around three years but yes, our data scientists are working very closely with our Privacy, Ethics and Compliance team to really think through the issues.
+My take
+These are early days and I suspect that what I saw (under non-disclosure), while attractive, will change considerably over the next 12 months.
+I wonder about the accuracy of the insights this system produces. As any HR professional will tell you, people routinely conceal the truth. So – as the old saying goes – garbage in, garbage out. I also worry whether employees will trust the system. Right now there is an understandable fear of advanced technologies and I suspect that HR organizations will have their work cut out both explaining benefits and educating workgroups about the impact People Analytics might have at a variety of levels.
+Nevertheless, I give Workday credit for taking on an ambitious project and one we will watch closely.
+
+Image credit - Photo via Newscom, screenshot from Workday livestreamDisclosure - Workday is a premier partner at the time of writingRead more on: Future of workHCM and the digital future of workMachine intelligence and AITalent management 

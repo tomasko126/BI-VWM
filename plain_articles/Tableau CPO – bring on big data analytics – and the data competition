@@ -1,0 +1,53 @@
+
+Ajenstat speaking at Tableau Conference
+There is no casual stroll through our diginomica Tableau coverage. Check this roller coaster ride:
+
+Why Tableau is crushing it for 21st century analysis (Sept 2014)
+What the heck happened at Tableau? It’s gruesome. (Feb 2016)
+One year on for Tableau and the analysis is not so gruesome (Feb 2017)
+Tableau subscription pricing – implications for buyers (May 2017)
+
+Toss in big leadership changes in August 2016 (new CEO), add in the flailings and/or acquisitions of cloud BI vendors, the surge of AI, and the constant obsession with data-driven business, and Tableau’s ride is not for the squeamish. One constant throughout has been compelling use cases – for our latest, see How Allrecipes is building a data-driven culture, one dashboard at a time.
+There was plenty of customer passion at the 14,000+ Tableau Conference in Las Vegas, which resembled an overgrown town meeting, or maybe a data addicts drumming circle at massive scale. Mix in a slew of important product news, and that’s the backdrop for my frank chat with Tableau CPO Francois Ajenstat in Vegas.
+Concerns about the surge of analytics competition?
+Almost every show I go to includes ERP vendors showing off enhanced analytics and dashboards. Then you have the impact of Microsoft’s Power BI, and the temptation of free BI tooling. So is Ajenstat worried about the competition?
+No. Competition is a fact of life. We’ve always had competition. It’s the new normal. When I think of vendors like Power BI, I basically describe it as a rising sea rises all boats. More people are thinking about data. The need for data is a great thing, because it just creates a bigger market.
+Within companies, the data footprint is expanding:
+Are there more people that need access to that data? Yes. Great. That means more opportunity. Are there more use cases that require data? Yes. Absolutely. The creates more opportunity. Are people starting to monetize data, and not just think of internal data, but external data? Yes. That brings more opportunity also.
+As for ERP vendors beefing up analytics, Ajenstat sees a problem: limited data visibility.
+What ends up being really interesting, at least from our point of view, is that you can’t just solve it in a siloed way. So, you’ll see all the ERP vendors come up with their own analytics solution. And that’s expected. But how do I get a perspective across all those apps? Across all of those data assets? Because, as we said in the keynote yesterday, we don’t live in a world of one. We live in a world of many.
+Customers will expect a holistic view:
+And so, being able to connect to the many, bring them all together, and get a real 360-degree view of the business – or a customer – that’s critical.
+Behind the biggest news – Tableau Hyper, Maestro, and platform extensions
+Ajenstat in Las Vegas
+And about the whirlwind of product announcements? Which ones are truly important? “I love all my children equally,” joked Ajenstat, before picking three: Hyper, Maestro, and extensions. Start with Hyper, which addresses a Tableau customer hot button: performance.
+Obviously Hyper had the big showing. And the important thing there is obviously, performance is important. Performance is something that people have to think about. So, we’re going to just make it easier in the product. That’s why you saw that big reception.
+But Hyper is not just about performance. It’s about “big data” readiness and IoT:
+Big data and IoT scenarios are enabled by Hyper. I think that is this fundamental piece of our platform that has become bullet proof, enterprise-grade.
+Maestro, on the other hand, addresses the pain of data prep with a visual approach to data cleansing for business users:
+What I was surprised – and delighted about obviously – is for Maestro. There’s been this need in the marketplace for data prep that was not addressed. We had this hunch that we could do to data prep what Tableau did to BI, which is come up with a radical new way to make this hard task more accessible.
+Tableau Maestro surprised because Tableau has some terrific data prep partners. In particular I heard a number of customers extolling the virtues of Alteryx. So how does Maestro fill a need if partners are already on the case?
+[Our partners] will continue to do that.
+But Tableau thinks they have a different approach?
+There’s a different set of users that are not addressed. That’s who we’re going to target. I hosted a customer panel yesterday of Fortune 500 companies. We asked them the question, “What did you think of the keynote? What capabilities do you think will impact you the most?” Three out of four said Maestro. Because now there’s users in their organization that finally will be able to make self-service and analytics real for them.
+Meanwhile, Tableau-as-a-platform gets a big boost with the extensions API:
+For the partner community that’s here, the extensions API is resonating. Because now, they’re able to bring their unique value inside of our product in ways that were impossible before.
+But what about data governance?
+Since diginomica is an enterprise rag, we are always digging at enterprise-readiness. When it comes to BI, performance is one impediment, but data governance is another. That’s why I thought one of the biggest new features was NOT announced in the keynote, but in the evening developer showcase, where upcoming data lineage features were demoed, as well as the ability for Tableau administrators to certify data sets.
+These are precisely the features that address the governance gap that the fresh wave of BI vendors have struggled with in a push for ease of adoption (and ease of IT admin headaches that make legacy BI systems seem, well – legacy). So how will Tableau close the data governance gap without losing that business-friendly vibe?
+At a macro level, what Tableau wants to do is make data an everyday thing. We help people see and understand data… But there’s different kinds of data. And some of it is highly governed, highly structured data.
+That type of data raises the governance threshold:
+What we’re trying to do is say, “How do we actually make it a good thing to have governance?” Because, the more that you have that in place, the more that you can trust the data. You can verify the data. You have confidence in it. And it raises the potential that’s out there.
+But Tableau is approaching data governance with a crowdsourced twist:
+The approach we’re taking is a little bit more of a crowdsourced approach than a top-down approach. Because, in the previous generations of tools, IT decided “This is what is the governed data.” And it didn’t answer the questions, so people took it out, and put it in Excel, and then answered their own questions. Then there’s no governance.
+A crowdsourced approach changes that:
+But if you start seeing what people are actually doing with the data, now I can pull that back in to the governed environment. So, this is not an either/or, it’s an “and.”
+The crowdsourced approach means data governance is a constant curation:
+Engage with the users that know the data. We see with Tableau that the adoption curve actually accelerates. Because you’re able to see what the users are doing, and start augmenting that. And bringing in good curation, add metadata to it – as users start getting value from the system. So, you get this faster adoption curve, versus “First, we will build everything, and then come down.”
+My take
+Most of the tools discussed in this article are in beta, so it will be months before we start to see the field impact of these announcements. An iterative approach to data governance makes sense – after all, a three-year-old data set that’s been certified by IT is now a three year old data set.
+Crowdsourcing governance won’t cut it on its own, but if Tableau combines that with a heavy investment in data lineage and certification, that should do wonders for keeping IT folks happy – without stunting the business user adoption that’s fueled Tableau’s growth.
+I heard a great deal about performance from customers at the show. It was definitely not that Tableau couldn’t run at scale – I heard some big scale use cases (e.g. Honeywell). It was more that performance-tweaking was clearly an art – and an effort. If Hyper eases that pursuit, it will be welcome.
+I’m not sure Tableau’s roller coaster ride is over just yet, but the passion of the customer community is palpable (e.g. Project SnowDash – how the D.C. Department of Transportation uses Tableau for weather events). That should buy time for enterprise-scale tools to mature.
+Ajenstat had some notable thoughts on Tableau’s AI strategy and the struggles of cloud BI vendors – I’ll pick that  up in a subsequent piece. For now, I’d be remiss if I didn’t mention this event took place in Mandalay Bay ten days after the Las Vegas shootings. The hotel staff and attendees all showed a determination to carry on in style, and while that might not seem like much from afar, in person it was humbling to be a part of.
+Image credit - Feature photo of Francois Ajensta provided by Tableau. Thumbnail photo by Jon Reed. Disclosure - Tableau paid the bulk of my travel expenses to attend Tableau Conference 2017. Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architecture 

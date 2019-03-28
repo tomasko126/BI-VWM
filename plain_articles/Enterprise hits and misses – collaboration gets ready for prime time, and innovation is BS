@@ -1,0 +1,80 @@
+
+diginomica hit: Towards a unified theory of enterprise collaboration by Phil Wainewright
+quotage: “Collaboration on this scale is unfamiliar — it’s far beyond what was possible or conceivable using previous generations of technology. So we’ve all been learning, trying out different tools and techniques to understand what works best, from Jive and Office 365 to Dropbox, Slack and the rest.”
+myPOV: Oh frictionless enterprise – where art thou? For enterprises to achieve Phil’s frictionless enterprise model that we bang on about here, collaboration must turn a corner. Solutions must fuse with our networked way of working. In this kickoff to a promising new series, Phil makes his case for collaboration’s promise – and why it’s fallen short. My rundown of Phil’s points:
+
+Collaboration has been the missing pillar of enterprise software in the digital era – but that must change.
+Ideally, enterprise collaboration is embedded into our existing tools and workflows. I’ll buy that.
+A flurry of product announcements has brought the collaboration market to a head, with the immediacy of messaging tools putting pressure on established vendors. Phil promises us a review of vendor moves in subsequent articles.
+
+Alas, we’re not there yet: the most immediate/friendly tools are not enterprise-scale or properly embedded. Then there’s old doggies/new tricks. Even at diginomica – supposedly somewhere on digital’s cutting edge – we’ve struggled to move some projects off email. Despite the views of some – like myself – that email is an inappopriate totally sucky limited option. Even as I type, my email inbox bloats with its unwieldy mix of vital and flotsam.
+diginomica four –  my top four stories on diginomica this week
+
+Cyber-readiness report demonstrates urgent international need for expertise – Chris with the sobering/surprising news that 53 percent of companies in the US, UK and Germany are “Ill prepared in cyber-security terms.” Chris reckons with what to do next, and the role of government in this sorry state of affairs. 
+
+Exclusive – Lord Francis Maude – no longer so frank – One of the toughest things in our biz is sitting down to an interview exclusive – and finding out the person across from you is unable, or in this case, unwilling to talk. Derek’s right – the real story here is Lord Francis Maude’s silence on the UK’s current digital government approach, and its disquieting implications. Get more context on our sister site, diginomica/gov.
+L’Oréal’s digital transformation provides a makeover for the social beauty age – Stuart’s not one for hyperbole. When he calls L’Oreal’s digital transformation “the ultimate make-over,” that means L’Oreal is getting stuff done. Here’s his analysis of L’Oreals digital numbers one year past their digital fanfare.
+While Amazon dominates cloud infrastructure, an oligopoly is emerging. Which will buyers bet on?  Hmm – I’m not an oligopoly buff, but I guess it beats Amazon owning the entire IaaS market. Kurt breaks down the players, and why one of them might emerge as Batman. I like Microsoft’s chances better than Google but if Google ever decides to listen to enterprise customers instead of being Google, that could change.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+SAP UK v Diageo – an important ruling for customers with indirect access issues – The biggest vendor story of the week, and not just for SAP. Indirect access looms large with IoT heading straight for us. I’ll comment further below, but here’s a quote from Den’s take: “It is important to note that this case only affects Diageo in the UK. There may well be other cases lurking out there where CxO’s will be nervously poring over their contracts to assess potential risk. My sense is that the SAPUK & Ireland User Group needs to get involved in order to both establish who is at risk and formulate plans to address a problem which, far from going away, has taken a fresh turn.” (See SAPUK & Ireland User Group comment added to Den’s piece).
+Oracle’s cloudy Spice Girls moment – tell us what you want, what you really, really want – Can’t believe Martin managed to work Spice Girls into an article before I did: “And what of NetSuite – Oracle’s recent cloud ERP acquisition – in all this? One interesting factor in amongst this holistic approach is that it does not – at least for the publicly acknowledgeable future – stretch to cover NetSuite.”
+USIC passes the Litmos learning test, makes important savings – Den with a fresh learning management use case, backed up with numbers: “All this sounds fine but what are the outcomes? According to the company, productivity has improved 100%, learning times have been dramatically reduced from 15 to 5 days and in the early days, USIC found more than $1.5 million in travel related cost savings.”
+
+Jon’s grab bag – You can’t make this stuff up – Two days after Stuart reported pressure on Yahoo from the US Senate, more security issues came to light. Verizon shouldn’t offer a discount price – just wait until Yahoo can be picked up for free at a tag sale. 
+Denis crafted a pair on modern selling: The art of selling in a machine learning age and Want to find great sales people? Check out the mailroom and the service center. Here’s a keeper from the latter: “Great sales people don’t run on a script, they identify customer pain and set out to fix the pain with their solution.” Me, fresh back from an unsatisfying Verizon store: and they know their products better than you do.
+Just escaped from Gatwick myself, I read Jess’ piece on Gatwick’s ambition for Splunk-based analytics reaches new heights. Yep, they use Splunk analytics for security, and my firsthand view was… get this… pretty impressed. They handled an oversight on my part with analytical ease. Finally, Den gave an update on the latest batch of diginomica meetings with A peek behind the diginomica curtain. How we figure out #evilplans. I’m just happy that after locking ourselves in a small room once again, we didn’t kill each other.
+Best of the rest
+ Talk of tech innovation is bullsh*t. Shut up and get the work done – says Linus Torvalds – The Register
+quotage: “When code doesn’t work, that can actually be exciting … Process problems are a pain in the ass. You never, ever want to have process problems … That’s when people start getting really angry at each other.” – Linus Torvalds of Linux, quoted by The Register
+myPOV: My newsfeed readers were struck by this piece. I think that’s because enterprise peeps have little patience for the bland innovation bromides that lard up enterprise keynotes. And they have even less patience for Silicon Valley back-patting itself.
+It’s one thing for me to say it. It’s another thing for Linus Torvalds, creator of the enormously successful Linux kernel. When Torvalds says that success is one percent innovation and 99 percent perseverance, he would know. Torvalds doesn’t sweat the technology as much as the process. Tech problems get solved. Process problems fuel divisive arguments. Linux as a process company – now THAT’s an innovation I’d care to hear about. 
+
+Other standouts
+Uber in the management crosshairs – As I was going to press, more pieces hit on Uber’s latest mess: Uber C.E.O. Orders “Urgent Investigation” into Sexual Harassment Allegations. It started with a blog post from now-departed Uber exec Susan Fowler: Reflecting on one very, very strange year at Uber. The allegations in that piece are not exactly flattering. My newsfeed readers responded:
+
+@vijayasankarv @jonerp I deleted the Uber app. Will use Lyft more often now. Unacceptable practices
+— Daniel Rutschmann (@RutschmannD) February 20, 2017
+We’ll see how this plays out, but at best, Uber has some serious culture work ahead.
+SAP wins indirect access court victory – a Pyrrhic victory? To the best of my knowledge, Computer Weekly broke the story in High Court rules for SAP, against Diageo in indirect licensing case. Pundits and linkbaiters with various axes to grind piled on. Constellation’s Chris Kanaracus, no stranger to combing through ERP court filings, filed an impassioned take in SAP Wins Major Court Victory Over ‘Indirect Access’: Customers Should Pay Attention: His strongest point is one I share, which is the the PR fallout from this “win” is problematic for an SAP that should be chasing goodwill for ease of indirect access. That’s assuming SAP wants customers to pursue its recently-hyped IoT moves:
+It’s also counterproductive in the long run, as more viable options to move off SAP ERP emerge from competitors. And needless to say, it’s horrible for a vendor’s public relations and at odds with today’s forward-thinking enterprise IT shops.
+As I tweeted:
+
+myPOV- setting this case aside, SAP should focus on making IoT/cloud data license access easy/affordable for customers NOT audits/lawsuits. https://t.co/tfgu8P7x6q
+— Jon Reed (@jonerp) February 19, 2017
+SAP can turn this around by upping the user group dialogue:
+
+@njasta @lukemarson @jonerpnewsfeed these are solvable problems for SAP but not in the courtroom, in user group sessions. Time for action.
+— Jon Reed (@jonerp) February 20, 2017
+See more on the user group angle in Den’s piece.
+Honorable mention… from a very good week in #ensw blogging
+
+
+Harman, Accenture and Atos are bossing emerging IoT Services, but we need real IoT algorithms and security standards – yes, bloviated blog title, but some trenchant moments.
+Mark Zuckerberg on Facebook’s future: the spirit is willing, but the algorithm is weak– Best blog title of the week by a wide margin… bonus points for calling Zuckerberg a “benevolent despot.”
+Why Humans Distrust Algorithms – and How That Can Change – “We’re studying a phenomenon called “algorithm aversion,” which is the tendency for people to not want to follow specific evidence-based rules.” Insert obvious/mean-spirited political analogy here.
+Google’s Mega-Scale Database, Cloud Spanner, Is Now in Beta – Cloud Spanner “uniquely offers the always-available traits of scalable NoSQL options such as Cassandra but with the strong consistency of traditional relational databases.” At cheap Google prices? Yeah, that seems kinda, well, disruptive.
+Ford Is Investing $1 Billion In An Ex-Googler’s Artificial Intelligence Company – the race for autonomous vehicles is well beyond sticker shock. I’m sure $t billion is a bargain.
+Feedback – it is much needed, but it ain’t easy – No it ain’t. And yes, it should be continuous, not dumped on you in a formal/annual review: “I have bit my tongue a lot when I have heard candid feedback, and almost every single time it has helped me realize how I was fooling myself.”
+
+Whiffs
+Seems like the column is full of whiffery already. But if you want another load, the Winners of the 2016 Bullshitty Awards are in. Some of the winners are predictable – the masters of the dirt shovel. But there’s some surprises, and a lead sentence for the ages: “2016 was a shitty year for most of us . . . but a great year for bullshit.”
+Finally, I got this vague-but-intriguing email header in my inbox:
+Defending Against Disenchantment.
+So, I clicked.
+It turns out that there are “3 Reasons Organisations Should Value Employee Likability over Competence.”
+Uh oh – I have a chip on my shoulder about work-as-popularity-contest.
+The email was from an enthusiastic PR chap who went on to rationalize why likeability trumps competence, based on the research of two psychologists, Tiziana Casciaro and Miguel Lobo:
+When Casciaro and Lobo analysed numerous companies, they found that personal feelings trumped perceptions of competence. In fact, if someone was considered unlikable, employees would refuse to work with them regardless of their competence.
+It’s boring to hit “delete” when you disagree. It’s much more fun to make yourself a nuisance. So I replied:
+“Interesting.
+I think likable people who aren’t competent are very dangerous to organizations…
+Work isn’t friendship; it’s about results. If I had an employee who didn’t want to work with someone competent because they didn’t like them, I’d challenge them to grow up.
+Granted there is a level of collaboration and communication needed in most cases but that’s a different issue. If you’re competent but can’t communicate that is a deal breaker.”
+No reply.
+Over to you, Clive.
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock - Fotolia - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, Litmos, NetSuite and Salesforce are diginomica premier partners as of this writing.Read more on: Collaboration sharing and digital productivityFrictionless enterpriseHits and misses 

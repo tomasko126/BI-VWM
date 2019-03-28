@@ -1,0 +1,43 @@
+
+Eli Ben-Porat is like most baseball fans – he digs stats. But Ben-Porat takes his hobby a step further: he cleanses the data, visualizes it, and shares it with fans via FanGraphs.com.
+Eight years ago, Ben-Porat became intrigued by the raw XML data being shared by Major League Baseball. He tried to make sense of it with Visual Basic, but he couldn’t really get anywhere.
+Working with Alteryx at Cisco, the proverbial light bulb went off. What if he ran that baseball data through Alteryx, and then into Tableau for visualization?
+Ben-Porat, now a Senior Manager of Reporting & Analytics for Rogers Communications, gave it a go. Fans embraced it. Since then, Ben-Porat has used his passion for baseball and number crunching to make the case for a different data approach. Taking the pain out of data prep means freeing business users to slice and dice. It also leads to groundbreaking baseball analysis – some of which has caught the eye of major league ball clubs.
+Millions of rows of XML baseball data – what to do?
+During a recent chat, Ben-Porat told me how it all started. When he poured the XML data into Alteryx, he wasn’t sure what would come out the other side:
+Alteryx spidered through all the different files with its own XML parser. I didn’t even need to code anything to break down that XML it just kind of did it magically. Once I understood the structure of the XML, I think I built it in a day. That was pretty cool.
+A couple formatting tweaks, and Ben-Porat was loading that data into Tableau:
+I was like, “Great. I’ve been wanting to have this data for literally eight years. I finally figured out a way to do it. No coding necessary.” And so I published something to the FanGraph community site.
+But what made the data special? Three things: the data’s massive, it’s visual, and it’s granular.
+I can really do analysis on a granular level. A lot of FanGraph’s analysis is at the high level. For example, they could take aggregate strike out percentage, but not be able to break it down any deeper. I can go as granular as the data will allow.
+OK – so what can this granular data offer? FanGraph can crunch these numbers at a major league level, but it had never been done with minor league data before:
+We have an enormous amount of data on major league pitchers, but there is almost no information for minor league pitchers. We don’t know the average fly ball distance of a power hitter who is coming up through the ranks. That data just doesn’t exist in the vernacular of mainstream baseball analytics.
+Ben-Porat discovered a predictive element that was unique to the minor leagues:
+I was able to show swinging strike rate in the minors. where it’s actually predictive for a pitcher. In double A, strike success is not very predictive for major league swinging, but in triple A, it is very predictive. You can see which pitchers will have the greatest probability of generating swinging strikes when they get to the majors. It’s similar with power fly ball distance.
+So why hasn’t anyone tried this before? Many baseball teams are stuck in the wrong approach:
+This is something that nobody else has access to, simply because they are caught in a paradigm where they have to do everything with coding. And when you have to do things with coding, it is not easy. No matter how skilled you are at coding, it just becomes very time consuming to generate these enormous data sets.
+What kind of scope are we talking about here?
+Currently, I think it is a twenty six million row data set.
+Old approaches were limiting and labor-intensive
+Ben-Porat said it does take Alteryx an hour and a half to two hours to generate the data set from the raw files. But once that’s done, he’s cooking. And yes – some major league clubs have come knocking:
+I had a discussion with one major league club that reached out after they read one of my articles. I was showing them my Alteryx plus Tableau implementation. I’m paraphrasing here, but they essentially said this was light years ahead of anything they had.
+Prior to this, the options were limiting:
+I’ve done this in R. You do the correlation in R and you kind of spit out a visualization in R, which is very very limiting.
+And, as Ben-Porat has learned in his day job, the old approaches are training-intensive:
+The barriers to entry are incredibly high. It requires somebody with years and years of coding background to be comfortable operating that environment. Now, I can literally give anybody this data set, no coding experience necessary. They do not have to be an IT centered person. They can be a baseball person with a few IT skills and they can start consuming it, using it, and doing their own analytics on it.
+Why do we resist new analytical approaches?
+One thing was bugging me. If this data is historically hard to get, and genuinely predictive, why don’t more major league ball clubs bang down his doors to get their hands on it?
+What I found is organizations are very slow to change. Especially in sports. And if there is a way that kind of works, people are reluctant to do it unless it comes at them from left field. No pun intended. People don’t realize what is out there until it is there in front of their face. I’ve gone through this at Cisco and now at Rogers. I will show people what is possible, but because it is not part of the way things are done, they just don’t get it, or they don’t believe that it’s really possible.
+But once folks get used to this new way of doing things, they are hooked:
+The value that we generated at Cisco post Alteryx was about five to ten times what it was pre-Alteryx. Beforehand it was just Tableau, which is great. Everyone was happy with it,but they always wanted more. Once we had Alteryx to feed data into there, it was like no data was too much data. It didn’t matter what they wanted; we could deliver it on that platform for them easily.
+Ben-Porat shared another example from his baseball pursuits. They pulled social media data into Alteryx to see if it predicted franchise value. He also brought in a Census data pack from 2011 provided by Alteryx. The conclusions were interesting:
+Alteryx was able to put all of these four variables together, and show that the most important aspect generating revenue was actually Twitter and Facebook. Not that Twitter and Facebook are what is driving the revenue, but that follows on Twitter and likes on Facebook were a great barometer of fan intensity. And that fan intensity was the most predictive factor in determining the Major League Baseball revenue. You could tell me nothing but what they have had on their Facebook page, and we could tell you with a high degree of certainty what their revenue was.
+The wrap – new tools don’t spare you from analytical vigilance
+You still have to be vigilant about false correlations. Ben-Porat found something funky when he pulled in the census data:
+I got a weird result initially that said that Asian populations were strongly predictive of high revenue. It didn’t make any intuitive sense to me… It ended up that the six major markets, including San Francisco/Oakland, Los Angeles, and New York are all big cities. They typically have a larger Asian population, and that was skewing the result.
+For Ben-Porat, there is plenty of data prepping and number crunching to come:
+I can go to any company in the world and say, “Hey you have data problems in your data, I can fix them on my laptop.” Whereas other consulting firms might say, “Hey, yeah give us two million dollars, we will bring in some IT people and we will fix it in two years.”
+And this is all possible because of the little tool called Alteryx I can put on my laptop and just take the data and cleanse it, transform it in whatever way is necessary to get to that final result. That’s very exciting for me.
+Sounds promising – though FanGraphs readers want Ben-Porat to save some time for crunching baseball numbers.
+End note – FanGraphs is a sister site of the baseball reporting web site Hardball Times.
+Image credit - Baseball Equipment and Chalk Board Play Strategy © ronniechua - Fotolia.com.Disclosure - Diginomica has no financial ties to Alteryx. But unlike most vendors who push product news, Alteryx had interesting use case interviews to pitch via PR. I took them up on it. Read more on: Analytics planning and data analysisDigital enterprise in the real worldThe new professional and IT as a serviceUse cases 

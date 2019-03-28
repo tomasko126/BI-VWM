@@ -1,0 +1,61 @@
+
+This may surprise, but I’m not an ad-hostile dude. I don’t even have an ad blocker. That may change now that a scummy site snuck malware onto my Macbook Air. Publishers have tough tradeoffs when it comes to business models, which is why I continue to share content from ad-tech-laden sites – if I think the content is strong.
+But, my ad-beleaguered readers, enough is enough. Ad-tech has reached the point of absurdity, and malware adds to the noxious browsing cocktail.  Today, I’m going to rank the worst tech news sites per order of the worst user experience, with cruddy ad-tech as the main criteria. These are my own snarky rankings, though I’ll share a Twitter poll result.
+Yes, all the sites are arguably competitors of diginomica’s, at least by a loose definition. Doesn’t mean we don’t link to them. The old school hyperlink economy isn’t something we take lightly. But it may be time to draw some lines. Start the countdown, from 5 to 1:
+5. TheVerge.com – criteria for inclusion:
+
+Whining about the mobile web experience and throwing Apple Safari under the bus while loading users up with ad tech.
+During a July 2015 developer test, a visit to The Verge “took over 30 seconds. In the end, it fetched over 9.5MB across 263 HTTP requests. That’s almost an order of magnitude more data and time than needed for the article itself.” (263 requests was the most of any site tested except one – relax, I’ll get to them).
+On the desktop, (usually) serves up a big dorky display ad on home page visits, which pushes the actual content below the fold.
+
+4. CIO.com and Infoworld.com – both sites are part of the “IDG Network.” Criteria:
+
+When I visit pages for the first time, I get a really dopey “this ad will close in 20 seconds” autoplay video:
+
+
+(CIO.com gets an ironic kudo for publishing a pro-ad blockers article, Why the ad industry will never win the war on ad blockers).
+3. Toolbox.com – A dark horse in this mix, Toolbox.com is a addicted to a virulent version of Bounce Exchange’s yucko interruption pop-ups:
+
+(You must either sign up for the tedious-sounding content, or click on “IT Solutions are not important to me”)
+2. ZDNet – Coming in at a dubious number two position is ZDNet (owned by CBS). Criteria: multiple ad tech UX violations. This screen shot captures an awe-inspiring two-in-one: an auto-play video running in the background, while a pop-up hits me in the foreground, with “privacy policy” warnings above the fold for good measure:
+
+ZDNet has also indulged in Bounce Exchange in the past, though I haven’t triggered one lately. Drumroll:
+1. Forbes – The uncontested winner
+
+Sloppy execution of sponsored content (AdVoice->BrandVoice), with credibility-sapping posts such as Size Matters on Valentine’s Day.
+Ridiculous multi-page spreads that serve up an ad frenzy and render content almost unreadable
+The aforementioned massive quantities of http requests within the first 30 seconds, a good chunk of which is ad tech. (In the test cited, Forbes.com generated 306 http requests, the most of any site).
+The notorious QOTD  landing/endurance page you must brave to get to your content:
+
+
+And:
+
+Forbes’ decision to require ad blockers to be disabled to read articles, which led to a reported malware incident:
+
+On arrival, like a growing number of websites, Forbes asked readers to turn off ad blockers in order to view the article. After doing so, visitors were immediately served with pop-under malware, primed to infect their computers, and likely silently steal passwords, personal data and banking information. Or, as is popular worldwide with these malware “exploit kits,” lock up their hard drives in exchange for Bitcoin ransom.
+I ran an informal Twitter poll this weekend; Forbes won in a landslide:
+
+(16 votes as of a Saturday 4/9/16 screenshot)
+Other nominations received
+
+Wired.com – I got a Wired.com beef from a disgruntled reader who didn’t appreciate getting served a pop-up video after they disabled their ad blocker upon Wired’s request. I was unable to duplicate that, and I like Wired’s transparent explanations about ad blocking and the options they give readers (including a paid, ad-free version, for the reasonable sum of $1 a week). Update: at presstime, John Appleby let diginomica know that even Wired subscribers are asked to shut off ad blockers. If that’s the go-forward policy, that’s a mudbog.
+Businessinsider.com – Got a complaint on this site, but I was unable to generate an egregious ad tech issue beyond the usual cookie loading.
+
+I looked at Ars Technica, TechCrunch, and readwrite, but aside form a cheeseball newsletter pop-up on readwrite, I didn’t see anything ridiculous.
+The wrap – is this the start of an ad tech revolt?
+The first public dismissal of Forbes crossed my radar from Frank Scavo:
+
+Susan Scrupski expressed a similar view on my Twitter poll:
+
+Scavo and Scrupski noted the issue isn’t about content quality; both follow Forbes authors they’d like to read. It’s about ad tech UX:
+
+Several others told me Forbes’ ad blocking is the crummy UX deal breaker – the difference between braving the clutter or not.
+I still (occasionally) share content from ZDNet on my feeds. As of right now, I’m announcing a first-ever ban on all Forbes content from my articles and feeds – until the ad blocking/malware/UX chaos moves out of the “unreadable” zone:
+
+But is a broader revolt afoot? Check my colleague Den Howlett’s Braving the wrath of big media – how ads get massively disrupted, along with most digital media, a deeper look at the state of ad tech business models, and how the Brave browser is carrying the flag of disruptive models.  Brave is not trying to eradicate advertising, but it IS trying to draw a line in the user experience sand. As sleazy ad networks get corrupted by malware players, this will heat up.
+As Howlett argues, it may be worth spending to get a better UX. Ben Thompson’s Stratechery (with some free content and a paid member area), The Information, and perhaps even Pando – these are all sites pursuing a paid subscription model. That model doesn’t guarantee a better reader experience, but it gives site owners choices rather than chasing ad volume and cookie addictions.
+Fortunately, enterprise readers have options. There are plenty of free sites that are either independent/ financed by consulting, or have limited ad intrusion. Enterprise Irregulars, (I’m a member), is the latter. Constellation Research and HfS Research share ad-free blog content (most research is paid).
+The New Stack has a sponsored content model with limited ads (diginomica has our own version of a sponsored content model, which has given us hard core control over ad tech UX, though we do have a few cookies). No, we are not immune from UX challenges – no site is. We just revamped our comment system, which was not a pleasant thing for a while. We think we’ve improved commenting drastically now, let us know. Sum: less ad tech and less interruption marketing means happier readers.
+Your company can pursue the same. Most enterprises fund their own media, and are not solely ad-dependent. That means you can take 11 examples of crappy UX from news websites to account in your design. I added mobile UX tips in Does the mobile web experience really suck? The enterprisey redux.
+This countdown of ad tech shame is subject to change; sites are always experimenting and changing policies. We should learn from their fugly mistakes – and vote with our eyeballs and wallets whenever we can. My poll is closed, but you can still vote – in the comments section.
+Read more on: Digital and content marketingMobileUser experience 

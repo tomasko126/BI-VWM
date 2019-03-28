@@ -1,0 +1,33 @@
+
+In the sea of hungry sharks that is today’s internet, good cybersecurity is the key to long-term survival. There are few businesses anywhere that have not been subjected to ransomware, phishing or malware attacks, or even attempts to co-opt their brand.
+These attacks are an especially nightmarish concern for Small and Medium Businesses (SMBs), which account for 99% of all businesses globally, according to the Organization for Economic Co-operation and Development (OECD), but often lack the resources to deal with serious cyber threats.
+The Global Cyber Alliance (GCA), formed in 2015 by the New York City and London Police departments with the Center for Internet Security (CIS), has put together a free toolkit which it claims will enable SMBs to reduce significantly the cyber risks they face every day.
+So what’s in the toolkit? Well, it’s essentially a recommended set of actions, which will be updated using current threat information and expert guidance, for preventing and/or reducing the most common attacks in today’s cyber threat landscape.
+GCA partnered with several other organizations to create the toolkit, including the Center for Internet Security, the Cyber Readiness Institute, the City of London and the City of New York.
+And it comes with some bold assertions, such as the claim that simply addressing the first five CIS Controls can reduce an SMB’s vulnerabilities by 85%.
+The overall aim is to arm small business owners with basic security controls, including:
+
+Operational tools that help them take inventory of their cyber-related assets, create and maintain strong passwords, use multi-factor authentication, perform backups of critical data, prevent phishing and viruses
+How-to materials, such as template policies and forms, training videos, and other foundational documents they can customize for their organizations.
+Recognized best practices from leading organizations in the industry including the Center for Internet Security Controls, the UK’s National Cyber Security Centre Cyber, the Australian Cyber Security Centre’s Essential Eight, and Mastercard, the development sponsor of the project.
+
+Steps to robust cybersecurity
+GCA recommends that SMBs perform the following steps to assess their security posture, implement free tools, find practical tips, and use free resources and guides to improve  cybersecurity readiness and response. Recommendations include:
+Do an inventory of all devices
+The first step is to create a checklist of all of devices (including desktops, laptops, smartphones and printers) and applications (e.g., email, software, web browsers, websites) so the necessary steps to secure them can be taken. This inventory will serve as a guide and checklist. Keep this list updated as you add or remove devices and applications.
+Update defenses
+Many of the website applications used by small businesses have security problems. Look at the inventory list you created to go through each device and application you have to configure it for automatic updates. (A list of the most common systems and applications is included.)
+For items not covered in this toolbox check the instructions or support pages for that device or application. Check each item off your list as you go and be sure to take this step every time you add a new device or application to your business. Also, see if there are recommended security settings – a “configuration” – for your devices and applications.
+Go beyond simple passwords
+Accounts and data (such as email, personnel records or client databases) are valuable assets -to both SMBs and criminals. The toolkit suggests the use of strong passwords and two-factor authentication (2FA). Be sure to set up unique passwords on all accounts – use the list of devices and accounts created in step 1 to help make sure everything is covered.
+Prevent phishing and malware
+Each year, thousands of businesses are victimized by crippling and costly malware and phishing attacks that threaten their survival. There are tools to prevent these types of attacks, such as: DNS security to help prevent unwitting visits to infected websites; anti-virus software to help prevent viruses and other malicious software from getting into systems; and ad blockers to help prevent online ads, which can carry viruses.
+Defend against ransomware 
+Ransomware is software that infects your computer with malware and encrypts (“locks”) data. Intruders generally get in through an exploit in some unprotected software or by phishing The attacker then demands you pay exorbitant sums of money to get your data back. Frequent backups are critical for recovery from these attacks. Make sure backups don’t stay connected to your computers. Unplug external backup devices once a successful backup is completed
+Protect your brand by blocking fake use of your email
+Corporate reputations can be destroyed by others using the brand and email addresses pretending to be the company. Attackers set up similar websites or domains and trick customers and users to visit or open them to defraud them, resulting in damage to your reputation and brand and harm to your customers.
+An email standard known as DMARC is an effective way to stop spammers and phishers from using company “domains” to carry out dangerous cyber attacks. It’s a way to verify the sender of an email has permission to use your email domain and send email. DMARC is especially effective in addressing business email compromise (BEC) — a targeted email attack — which is a growing threat to companies.
+My take
+SMBs globally are on the losing end of most cyber-attacks and need vetted tools that all business owners can understand and implement even without technical assistance to get a handle on cyber issues. If GCA’s toolkit can help address this, then it will be useful. Time will tell.
+The Global Cyber Alliance will expand the Cybersecurity Toolkit to help other sectors address the changing cyber threat landscape. Additional launches are planned this year with support from the District Attorney of New York, Craig Newmark Philanthropies, Corporation of London, Center for Internet Security and others.
+Image credit - Data security concept in blue with circuit board background © adrian_ilie825 - Fotolia.comRead more on: Security 

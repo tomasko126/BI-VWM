@@ -1,0 +1,40 @@
+
+There isn’t a marketer around who isn’t talking about, or already doing, some form of data-driven marketing. But for all the talk about how important it is to analyze the big data streams that organizations capture every day, are marketers doing a good job using it?
+All the data you collect – is it necessary?
+There’s a lot of data out there you can collect, but do you really need it all? One challenge that many marketers face is figuring out what data they need to implement their marketing strategies. Because they don’t take the time to figure that out, they simply go out and collect everything and then wonder why they can’t get valuable insights from it all.
+Before you start pulling together disparate data sources from across your company and from third-party data providers, ask yourself what your strategy is and what data you need to ensure it is implemented correctly.
+Once you know that, look internally to see how much of that data you have in-house and what you’ll have to go externally to find.
+Internal data (first-party data) comes from a number of sources including:
+
+CRM/ERP
+support and service contacts and calls
+inbound marketing data from forms, newsletter and email subscriptions, etc..
+website traffic
+customer feedback surveys
+owned communities and customer forums
+
+Third-party data is data you pay for from a vendor who collects and builds profiles of users (e.g., Experian and Acxiom). You can get data directly from these data providers, or use a data management platform (e.g. Oracle’s BlueKai and eXelate) that integrates a number of data providers into a single data source. Third party data comes from social media, website traffic, surveys, research, advertising, offline sources and more.
+There are two other things you need to consider when putting together your data strategy:
+
+Data quality – how do you ensure the data you are collecting is quality data, and how do you separate the noise (bad data) from what’s useful?
+Data integration – how do you integrate the data from not only your first party data sources but also the third party data sources to get the right view of your customers and prospects?
+
+Collect the data you need to get the job done. You may want to collect more data to do some additional analysis or try some new processes. In this case, consider working with an analytics platform that enables you to do ad hoc data exploration.
+Taking advantage of all that customer data
+You can collect all the data you want, but for it to be truly valuable you have to get insights from it, and it needs to be actionable (you use it for something). There are any number of ways to use the data you collect in your marketing strategies:
+1. Defining personas, improving customer profiles: If you are trying to figure out who uses your products or services the most, dive into your customer data and the anonymous data you collect and start pulling together key personas and customer profiles. Personas help you understand who your key audiences are and help you define marketing strategies around them. Key customer profiles tell you who your best customers are, and you can use this information to seek out additional potential customer and build the relationship with these existing customers to build loyalty and increase retention.
+2. Real-time personalization: It’s no secret that most customers demand a personalized experience with you. If they’ve taken the time to give you information about them, they expect you to use that to deliver an experience that is personalized to them and their needs/wants. If a customer visits your website and you can tell who they are, then don’t display ads for products they already purchased, instead deliver content to improve how they use those products, recommend complementary products and so on.
+3. Improve content marketing using content scoring: Leverage the data you collect on your website to improve the content you provide. If some content assets are downloaded more, create more similar content, or recommend it more often through emails and social media. You can also track what content people are searching for and not finding and then create that content.
+4. Predictive analytics: predictive analytics looks at historical and current data and recommends the best ways to personalize or improve customer experiences. Most marketers are just starting to look at predictive analytics.
+5. Programmatic ad buying: programmatic buying is the automated buying, placement, and optimization of advertising. DMPs are used to do programmatic buying as are Data Service Providers (DSPs). This replaces manually calling and arranging ad placement and is considered more accurate. A recent Teradata study found a number of ways marketers take to leverage the data they collect:
+
+from Teradata’s Global Data-Driven Marketing Survey
+Can marketers compete on data?
+Data-driven marketing used to be a competitive advantage, but as more marketers spend time and effort on leveraging their customer data to drive better experiences, there’s less competitive differentiation.
+Still, it’s not the ability to collect the data that gives you a competitive advantage; it’s the collecting the right data and using it intelligently.
+In a whitepaper from the Winterberry Group that looked at data as a competitive advantage, it was found that marketers use data to figure out who their customers are, how they spend their time and what types of products and services engage them. So the competitive advantage isn’t in capturing the data itself, but in how it gives the marketer a better understanding of their customers, and how they then create experiences that deliver on customer needs.
+Final thoughts
+Data has always been used in marketing at some level. Marketers tracked web and social media analytics for a long time now. But although they tracked this data, many never really did much with it, except to show historical performance. The ability to dig into customer data and anonymous data to understand what people want, and then proactively deliver it, is the reason quality data are so important to capture today.
+I still think some marketers collect too much data and have trouble making sense of it all. Most need to get better at data analysis and put in place the right tools to help understand the data. Start with smaller data sets and build from there as your marketing strategies become more complex. You’ll have start to learn how to read the data and how it can be used to improve customer experiences, and you’ll be able to grow from there.
+Image credit: business plan on wall © ChenPG – Fotolia.com
+Read more on: Analytics planning and data analysisBest of archivesCRM and customer experienceDigital and content marketing 

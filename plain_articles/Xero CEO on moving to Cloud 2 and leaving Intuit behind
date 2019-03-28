@@ -1,0 +1,40 @@
+
+Phil with Xero’s Rod Drury
+When I met with Xero CEO Rod Drury in London this week, I was surprised to learn that he sees the ten-year-old cloud accounting provider to small business as just getting started on its core mission. Now that the Xero platform is built and already processing an impressive $310 billion of accounting transactions over the past year for its customers, the company is ready to move to the next stage, he says.
+Now we’ve got that transactional data cleaned up on a nice relational database — all nicely protected and shared — we can now start applying some of the big data [and] machine learning technologies to that massive transactional data set.
+In doing so, Xero will leverage its advantage as what Drury calls a ‘Cloud 2’ provider — one that has moved beyond its own proprietary datacenter to build on the greater scalability and scale economies of public cloud infrastructure.
+This is another really big shift in the industry. A lot of the incumbents have been working on Cloud 1. Most of us started doing this eight or nine years ago before the public cloud. People connect through the cloud to our data centers, or data centers that we lease, or servers that we lease.
+The investment and the battle that’s going on between Amazon, Google and Microsoft is meaning now that public cloud has become compelling for any application being done.
+If you’re not on the public cloud you can’t deploy fast enough, you don’t get the lowest cost to serve, but most importantly, now the applications have cleaned up the transactional data and migrated it from desktop to cloud, you have to have all those analytical, big data [resources]. The data center operators who are in this arms race are implementing these technologies inside their data center so you can turn them on straight away.
+If you’re not in the public cloud you don’t have access to the commodity innovation that allows you to add that to your product and innovate to your end customers.
+Ahead of the incumbents
+This gives Xero a huge advantage over incumbent vendors such as Intuit and Sage, he believes, because they have only just completed porting their code from the original desktop product into the cloud. They’ve not yet begun the second phase of then migrating again to public cloud infrastructure, he says.
+All the incumbents have been moving to Cloud 1. They’ve actually now got to reinvent their product, which is probably like a three year journey — because we’ve been through it — to move from your own infrastructure to true public cloud, and the commodity innovation that now resides inside it.
+As far as we can tell, the incumbents have really only been working on the first phase of the journey, not that second phase, and we’re largely there. And now the game’s changed, because up till know we’ve all been building the same thing because you have to build accounting. Now, you can just innovate.
+This means that Xero will continue to gain ground against the greater brand visibility and marketing spend of Intuit and other incumbents because of its superior capabilities, he believes.
+Intuit spent $1.2 billion in marketing last year. Small businesses are immune to marketing. Ironically, we love it when our incumbent competitors talk about online accounting. People don’t buy it because they’ve heard a catchy jingle. They then go and say, “Ah, that’s interesting maybe we should have online accounting.” Then they’ll go and read the product reviews.
+Online accounting is such an honest thing. You use it everyday. There’s very little price elasticity, the software has to work because they live in it everyday. So [Intuit] spent all that money, we added more customers and a lot more revenue.
+Xero’s Cloud 2 innovation not only includes mobile apps and predictive analytics. As already covered in part 1 of this interview Xero’s growing scale is helping it forge relationships with banks, payment processors and other large enterprises to integrate to its platform.
+Extending the footprint
+The final step will be to begin to extend Xero’s footprint into other business processes around accounting, which will bring more employees within each customer onto its product.
+So we’re now, after quite a bit of time, getting to the next phase of our strategy.
+We always thought that online accounting was a temporary product category because once you’ve done the back office you want to start moving to the front office.
+Now we’ve largely done the accounting part, we see four core interrelated pools that make up the kind of business platform for the small business: accounting, people, payments, and connections.
+The next phase as you go to front office is adding just very cheap, low marginal cost products, beautifully designed, that do a small set of tasks. We then think that we can start monetizing that small business space by the people employed in small business.
+Xero already has payroll and payment processing. It has now launched integration to Gmail and Office 365, which brings it into the customer engagement arena, says Drury.
+Small businesses don’t traditionally have CRM because they don’t integrate it to accounting. If you send an invoice and you have a CRM you’ve got data in two places, so the first stage was to have great APIs, that third-party CRM providers can grab.
+The second phase was actually getting that email connectivity directly into Xero. What that means is anywhere you see a customer or supplier, all the emails from or to that person automatically show from you and then you can decide, this email is actually relevant to the transaction, put it next to the invoice, put it next to a purchase order, put it into the history and notes for the customer.
+It’s really exciting because it’s one of the clear examples of where you go beyond accounting and as a platform you start linking your solutions together.
+Vertical industry solutions
+With a growing partner base — 500 that connecting deeply into the Xero API, as well as a thriving ecosystem of accounting and IT solution providers — Xero can also become a platform for vertical industry solutions, he says.
+We’re seeing now people taking the horizontal APIs and building vertical business solutions, which is really exciting.
+I think we want to commoditize the horizontal and then see people investing in really good line of business applications where they have a higher touch relationship with those customers and probably aren’t building businesses targeting millions of customers, more than looking at 1,000 or 10,000 customers.
+Which means that smaller companies can build niches without having to raise the $400 million of capital that we had to raise to build our horizontal engine.
+Can Xero sustain this pace of product development and growth? Drury says the company has built a sound financial base, despite recent wobbles in SaaS company valuations in the financial markets.
+We’re sitting with $200 million, we can get to break even. We’re funding much more of our investment through revenues, because we’re crossing $200 million ARR [annual recurring revenue]. We’ve said to the market, we’re going to manage our cash so we don’t need to go back, which people like.
+While it’s harder for anyone else to invest, we can just continue to put our heads down and go. We’re not unhappy with the situation at the moment, not pleasant, but it’s actually strategically good for us because the SaaS promise is only just getting started — less than 1% of businesses have online accounting.
+No one else has put $300 million of capital to work for the last nine years to build that global accounting engine. I think our numbers, our continued growth, our execution ability across multiple geographies means that we will be one of, if not the winner, in the space over time.
+View a video in which I interview Drury about these points and others when you read part one of this interview.
+Image credit – screengrab from video courtesy of Xero. 
+Disclosure – diginomica is a Xero customer. 
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureFinancials 

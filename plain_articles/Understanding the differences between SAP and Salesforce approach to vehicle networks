@@ -1,0 +1,77 @@
+
+At the recent Dreamforce conference, Salesforce announced its Internet of Things (Iot) Cloud with much fanfare.
+IoT Cloud empowers businesses to connect data from the Internet of Things, as well as any digital content, with customer information, giving context to data and making it actionable—all in real-time. Thunder, built on a massively scalable, modern architecture, can “listen” to the connected world, ingesting billions of events a day, from any source. [SOURCE]
+Salesforce thus joined the ranks of enterprise software vendors that have entered this market. Beyond the ability of having a product that can be described with the latest buzz word (remember, “big- data” or “Web 2.0”, etc), what other motivations might a company have for such an IoT-related product? How does a company make money with such a solution?
+Cap Gemini Consulting has defined four business models for IoT that better help us understand the decision to enter this market:
+
+Adding Connectivity. What you might call the “hardware premium” is the most basic monetization model. Here, organizations add connectivity options to an existing or new product and offer remote device management in the form of mobile apps. <snip>
+Bundling Services. This model offers a recurring revenue stream and, more importantly, creates a longer-term relationship with the customer after they have purchased a product. <snip>
+Harvesting Data. IoT devices generate large volumes of sensor data. For many organizations, the ability to capture, package and sell this data offers a potential monetization model. <snip>
+Building Ecosystems. The IoT thrives in a connected ecosystem – the bigger the ecosystem, the greater the value generated for all stakeholders. In an ecosystem, the focus is not on selling a product or a service, but on providing a shared platform to other players in the ecosystem – hardware manufacturers, software developers, service providers and the like. [SOURCE]
+
+[NOTE: I’ve deleted some of the specific examples from the quote to focus on the generic business models themselves]
+As a PaaS groupie, I’m always interested in the platform story (the “Build ecosystem” business model mentioned above) –and thus, I’m curious as to how Salesforce, as the ‘IoT platform owner’, will evolve and how successful it will be in this endeavor.
+Salesforce just introduced its IoT Cloud. One competitor – SAP – has been working in this area for a while and its activities provide insight into how Salesforce may evolve in this area. SAP’s Vehicle Network is of interest in this context.
+SAP’s Vehicle Network
+SAP’s Vehicle Network first emerged in 2012 when it was still called Connected Car and, at the time, was closely associated with electric cars and the utilities industry. Over time, the solution expanded its scope as a response to the broader rise of IoT-related developments. In 2014, various partnerships with car manufacturers were announced:
+The first partnership involved a cooperation with Toyota and Verifone:
+Built on SAP HANA Cloud Platform, the solution aggregates information on a vehicle’s location, route and fuel level as well as points of interest. VeriFone provides point-of-sale (POS) solutions and Toyota ITC provides telematics data. These processes and information are integrated via the SAP® Cloud portfolio and presented in a screen on the Toyota ITC dashboard, allowing drivers to manage the entire transaction in one click. [SOURCE]
+A second project was announced at the same conference and involved a pilot with Volkswagen:
+Initially focused on eliminating the frustrations and inefficiencies drivers encounter daily while searching for parking in cities, the pilot is envisioned to further extend beyond parking services to include location based services (LBS) for quick service restaurants (QSR), offering drivers location based food offers once they have parked. [SOURCE]
+These projects used SAP’s PaaS – HANA Cloud Platform (HCP) as their foundation but the broader IoT- related aspects were in early stage. At this year’s Sapphire, the new IoT framework on HCP was announced and the Vehicle Network architecture took on concrete form.
+
+[SOURCE]
+Those scenarios which involved back-end processes were of the greatest interest for SAP since they exploited existing back-end systems that were often based on SAP products like S4/HANA.
+Gil Perez, general manager of connected vehicles at SAP, explained how future versions of these payment systems could integrate with your work expenses account, automatically charging a tank of petrol to that account if it was refilled during work hours. [SOURCE]
+Such integrations were useful for IoT-related efforts but a recent job offer from SAP, however, presents these activities in a different light.
+Business Networks in IoT platforms
+A quick look at the description of the position (“Solution Manager- Connected Vehicles Business Network”) emphasizes a different aspect of the product – the business network.
+The SAP Connected Vehicles Business Network is a startup like activity within SAP with the focus on establishing and growing a business network for vehicle related services, such as parking, fueling, access to quick-service restaurants, just to name a few. The candidate will be responsible for driving the solution roadmap, managing requirements, and rolling out to the network ecosystem existing and new innovative services of the SAP Connected Vehicle Business Network. [SOURCE]
+Note: Since the job was first published at the beginning July, the position has been filled. In the meantime, other associated job offers (“Intern, SAP Vehicles Network Marketing Job”) have emerged but with fewer details.
+The most important aspect of these positions is the focus on business networks. Although some popular publications have just discovered business networks , SAP has been active in this area for a while – in terms of research, practical application in the form of Ariba, etc – even shifting Steve Singh, CEO of Concur, to take responsibility for SAP’s Business Network strategy.
+In my opinion, SAP’s Vehicle Network project is more advanced than most people know ( there may even be a launch of the service in USA and Europe towards the end of this summer and, as a recent slide shows, expands over the entire ecosystem.
+
+Nice picture but what does it really mean?
+Recently-released legal documents about the Vehicle Network (SAP Vehicle Insights Supplemental Terms and Conditions and SAP Vehicles Network Supplemental Terms and Conditions) provide definitions that allow us to gain some deeper insights into this new product.
+
+1.1 Channel Subscriber means an entity that has ordered either (a) one or more Transaction blocks, channel option, or (b) a SAP Vehicles Network Starter Pack, channel option.
+1.2. End User means an individual vehicle driver, mobile app user, or a user of a web interface that is a customer of a Channel Subscriber that initiates a Transaction for Service Operator services using a mobile application or web interface provided by the Channel Subscriber.
+1.5. Service Aggregator means an entity that has ordered one or more Transaction blocks, aggregator option.
+1.6. Service Operator means an entity that operates a Point of Profit where it provides services to End Users and which has a contractual relationship with a Service Aggregator to provide its services to Channel Subscribers.
+1.7. Transaction means a business process executed via the Cloud Service with a defined start and end for a monetary value.
+[I’ve snipped some of less relevant definitions – take a look at the documents for more details]
+
+The relationships between the entities in the business relationship are also very clearly defined:
+
+2.1 Channel Subscribers and Service Aggregators can use the Cloud Service to:
+
+(i) share Point of Profit information with Channel Subscribers (if Customer is a Service Aggregator) or Service Aggregators (if Customer is a Channel Subscriber), respectively, for which there is a contract between the Service Aggregator and the Channel Subscriber;
+(ii) initiate and receive Transactions;
+(iii) access Transaction reports for historic Transactions on the Cloud Service in which the Service Aggregator or Channel Subscriber was involved;
+and (iv) access to the Cloud Service for test and evaluation – non production test and set-up activities. A single test tenant will be made available for these purposes.
+
+
+2.2 The Cloud Service provides a network intermediary function for payments, business transactions facilitations and integration with various business processes as described in the Documentation, including but not limited to routing and sharing consumer and vehicles contextual data between participants via standardized protocols and interfaces. SAP does not sell parking, fuel or other vehicle related services. SAP’s role with regard to sharing contextual data is as the intermediary, but not a party to, Transactions related to the sharing of such data. SAP is not a party to any agreement between a Channel Subscriber and a Service Aggregator for the execution of Transactions, which agreement must be established separately between such parties.
+2.3 The Cloud Service facilitates the execution of vehicle related business transactions (e.g. parking and fueling) by Channel Subscribers with Service Aggregators who are offering such services. Channel Subscribers consume the Service Aggregator services via API calls. Service Aggregators offer their services over the Cloud Service via APIs and connectors.
+
+Before you shake your head and wonder if I’m testing whether you have the makings of a corporate lawyer, there’s a reason for including this much text. These paragraphs demonstrate that the business network is more than just an implementation pattern that requires integration – it is a well-thought-out construct in which the involved parties have distinct roles and responsibilities to each other and to the end-user.
+Thus, SAP’s approach in this area is quite different (I’d hesitate to say “more mature” but I’m tending in that direction) from that of Salesforce.
+The Salesforce Approach
+Let’s return to descriptions of Salesforce’s IoT Cloud and focus a bit closer on the involved scenarios that are supported in order to better understand the differences between the two approaches.
+In response to various events, you can then leverage the full power of Salesforce to engage proactively with your customers and employees 1:1, wherever they are. For example, you can create a case with Service Cloud. You can trigger a workflow in Sales Cloud. You can send an SMS or email or message through Line or WeChat with Marketing Cloud or through Chatter to an employee. You can tell an Heroku program in App Cloud to wake up. You can post a recommendation with Community Cloud. [SOURCE]
+This focus on Salesforce applications (Service Cloud, Marketing Cloud, Community Cloud, etc) as the target of IoT-related information flows is also apparent in an interview that the Informatica CEO Anil Chakravarthy made during DreamForce.
+[our] engineers understand both how Salesforce CRM systems prefer to ingest data and in what ways it can be structured for the system to accept it. Informatica understands how to transform the data after grabbing it from a device, a piece of equipment, or a running system so that it can present it to the CRM system at its destination.
+This strategy is similar to that presented in the first slide of SAP’s Vehicle Network except that the involved vendor behind the applications is different.
+Besides a focus on Salesforce applications as the main recipient of this IoT data, Salesforce has also a greater focus on the empowerment of the individual LOB user. A recent diginomic story from Stuart Lauchlan depicts this emphasis.
+Nielsen also pitches a ‘this is IoT for the rest of us’ line, arguing that while IBM used to advertize for data scientists to tackle immense complexity, the Salesforce offering intends to “democratize the IoT”. He says:
+The IoT Cloud is actually usable by mere mortals, by those closest to the business and customers. Instead of constraining the ability to access this data to a limited set of resources and elite people, we said it’s really important that we democratise the IoT and enable the masses to be able to process and get this information.
+Note: There are other competitors in this area. IBM has a BlueMix-based Connected Car starter kit that has already been used from some of its partners (such as Cap Gemini) while Accenture has a connected car consulting offering. Some of these competitors (such as CSC) even have offerings which are based on HCP. These services, however, are more focused on the technology rather than the broader ecosystem.
+My take
+Is the comparison between Salesforce’s IoT Cloud and SAP’s Vehicle Network even legitimate?
+Although broadly associated with Iot, there are important differences between the two entities. SAP’s Vehicle Network is a flavor / implementation associated with a particular industry (Automobile) while Salesforce’s IoT Cloud is a more generic IoT framework. A more appropriate comparison might between Salesforce’s IoT Cloud and the IoT framework that is available on HCP. Yet, as I mentioned at the beginning of this blog, my intention was to examine SAP’s Vehicle Network and make suggestions on how the Salesforce’s IoT Cloud might evolve.
+The pattern of applying business networks in IoT environments may be copied and applied to various industries. I’d expect Salesforce to evolve in this direction as well. Salesforce already has assets that are specific to the automobile industry but which focus on customer-interaction via social media / brand-awareness rather than IoT-based services.
+Giving an individual LoB user the ability to analyze the data the coming from sensors embedded in their own products – regardless of whether toothbrushes or thermostat – is the first step but you have to look beyond an individual user’s own corporate structure. Marc Benioff (chairman and CEO at Salesforce) suggested “Salesforce is turning the Internet of Things into the Internet of Customers” but I’d like to suggest that this definition isn’t broad enough and reflects Salesforce’s CRM-tainted origin. Although the customer plays a critical role in any corporate setting, there are other aspects of corporate existence (innovation, efficiency, etc) which shouldn’t be ignored.
+After reading the legal documents concerning the upcoming Vehicle Network, you may be asking yourself: “Is that simple?” In comparison to Salesforce’s archetypical IoT Cloud scenario where business users can use intuitive, point- and-click tools to define, modify and set rules and logic for events that can trigger actions across Salesforce, the scenario described by the Vehicle Network is more indeed complex (though I admit this comparison is a bit artificial since we are comparing legal documents with PR material). Yet, the company-wide innovation potential that the Vehicle Network represents – despite its complexity – may have a larger long-term impact than the increased freedom / analytic independence of individual LoB users.
+Disclosure: SAP and Salesforce are premier partners at time of writing
+Image credit: via YouTube stills
+Read more on: Internet of Things 

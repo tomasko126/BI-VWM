@@ -1,0 +1,60 @@
+
+SuccessConnect, aka the SuccessFactors user conference, kicked off with a keynote from President Mike Ettling yesterday, moderated by Megan Meany of SAP’s “The Spin” (no comment). The “unconference” keynote earned my tweet:
+
+Future suggestion: for a real unconference keynote, let a customer interview the execs, not a celebrity/media personality #sconnect16
+— Jon Reed (@jonerp) August 30, 2016
+To be fair, that suggestion isn’t far off from how SAP started the day two keynote. But if the day one keynote format was unsuccessful, the press/analyst Q/A with Mike Ettling and customer Christy Pambianchi of Dow Corning was informative.
+Though the day one keynote announcements were modest – the press release on the new SuccessFactors partner AppCenter being one example – there was relevant content on diverse workplaces and the myth of the talent shortage. Those topics were advanced in today’s press announcements with SAP Reveals New Technology Designed to Help Move Business Beyond Bias.
+During the day one press session, Ettling made notable statements on SuccessFactors’ customer count, midmarket push, and SAP’s S/4HANA cloud strategy that weren’t addressed in the keynote itself. Here’s the high points, followed by my take.
+Update – Ettling on SAP Cloud Managed Payroll – “This is a totally new offering”
+In this first version of this piece, I characterized SAP’s new Cloud Managed Payroll as SAP formalizing an existing partner offering. Post-conference, Mike Ettling got in touch with me, and took issue with that view. Yes, Accenture, Epi-Use and NGA Human Resources offered cloud payroll in the past. But Ettling sees this is a new offering:
+This isn’t just endorsing existing service partners – this is the product on our paper. The contract will be with us. Customers will pay a price per employee per month, and SAP is going to subcontract Accenture, NGA or Epi-Use to operate it.  SAP will take the risk of delivery, and we’re going to let the customer choose which partner they want to subcontract to.
+This service stems from customer demand:
+Managed payroll was really driven by customer requests. We realized we have this massive base of payroll customers who want to go to the cloud for the full HR suite. They don’t want to leave payroll on-premise. But they don’t want to redeploy payroll either. I totally agree with that- don’t break it if it isn’t broken. CIOs want to move everything to the cloud. They told us, “We don’t want to stay on-premises with payroll; we don’t want a residual piece with all the data center overhead, support overhead, etc.”
+Ettling compared Cloud Managed Payroll to the Hana Enterprise Cloud (HEC). But with a difference: SAP needs partners’ operational payroll expertise:
+In many ways, this is payroll HEC, but you can’t do payroll in a general HEC way, because you need specialized partners who really understand payroll.  SAP can package it, and we can take the risk, but we don’t have the payroll operational skills which you really need to make this work.
+Enter the new service offering:
+SAP has never taken this on before. It’s kind of the core of what ADP does. This is a totally new offering with a totally new risk profile.
+Clarifying EC’s customer count and midmarket push
+Cloud payroll was on the minds of the assembled punditry, but the first nit was picked by Bill Kutik, who pressed Ettling on the stated goal of 2,000 Employee Central (EC) customers by the end of 2106. Given the customer on June 31, 2016 was 1,250, how can Ettling reasonably expect to hit that 2,000 target? His answer led us to the midmarket push:
+The reality is that we’re putting a massive focus on the midmarket.
+How? Through a program for partners called Cloud Profit program, announced in July, wherein the partner sells deals on SuccessFactors paper. The partner also handles post-sales; SuccessFactors pays the lifetime portions of the revenue stream. Ettling anticipates the Cloud Profit partners will number 40-50 across the globe, all sources from the existing partner channel. The midmarket focus, on companies with 1,000 – 10,000 employees, is factored into Ettling’s 2,000 customer goal:
+The short answer is if that strategy works, yes, [we’ll] be at 2,000.
+Another pesky analyst, Albert Pang of Apps Run the World, brought up the potent topic of IBM’s partnership with Workday, IBM’s internal use of Workday in North America, and SuccessFactors’ increasingly close partnership with Accenture. Are these cloud vendors “getting very tight with big SIs,” as Pang put it, doing a disservice to customers? Ettling:
+I would like all my partners and SIs to drink my champagne and not someone else’s… When it comes to partners, HR tech is becoming a bit like American politics; it’s becoming very polarized. There’s no in between ground – it’s about using one or the other.
+Oh, and about that competitor:
+IBM uses SuccessFactors Performance and Goals on a global basis; they only use that other product for North America.
+Ettling added that IBM will continue to use Performance and Goals and described IBM as a “long-term partner.” He also clarified that the Cloud Profit program is not limited to SuccessFactors; it extends to all cloud solutions at SAP:
+It’s exactly the concept we described, empower midmarket partners to become more successful… The partner owns the customer; the partner will do the renewals, and earn a lifetime income out of the customer.
+Ettling emphasized that Cloud Profit is a midmarket program, and will stay out of the “small” side of SMB (small and medium businesses):
+Let me be very clear: I’m not pushing into SMB; I’m pushing into midmarket. SMB in the HR space is a very crowded, you have Paychex and Ceridian and ADP in North America. Country by country, you have, deep players in that SMB space.
+The midmarket companies targeted by Cloud Profit struggle with the same complexities as large enterprises:
+These companies have the same complexity requirements around geography as Dow Corning, and they’re not very well served yet. This doesn’t tie into what Jonathan Becher is doing around digital marketplaces, and the “s” part of [SMB]s.
+The difference between the new hosted payroll and EC Cloud Payroll
+The lift-and-shift hosted payroll news provoked questions about EC Cloud Payroll. Ettling:
+EC Cloud Payroll uses the SAP on-premise engine, but it’s a cloud-based solution. If you’re got SAP on-prem payroll today, it’s a redeployment, not a migration path.
+Ettling seized upon a Dodge truck comparison:
+It’s the Dodge truck and Dodger Viper analogy. They have the same engine. but on the Dodge Truck (on-premise payroll) you can put stripes, a gunrack, a roll bar – all kinds of things. You can’t move all that stuff to the Dodge Viper. EC Cloud Payroll has a very specific use case. If you look at customers that have gone with EC Cloud Payroll, they are going off something legacy, or they have a mess with payroll – it’s fragmented all over the place. Or, they’ve really never done anything with payroll, and they’ve now made the decision to go internal payroll versus outsourcing.
+So why the new lift-and-shift option? Because moving the rest of HR to the cloud invokes enough of a change already:
+7,000 customers have deployed SAP on-premise payroll very successfully. What these customers are telling us – CIOs in particular – is that when they come to the point of buying all of SuccessFactors, they don’t want to be left with a little piece left on-premise, that being the payroll.
+CIOs don’t want the hassle of a payroll redeployment in the midst of a labor-intensive HR transformation:
+[They’ve told us], “We don’t want to redeploy payroll while we’re going through this HR transformation, because the HR transformation is complex enough, with a lot of change management.” That was the genesis of this offering. [We wanted to] help customers move payroll from the data center into a cloud model, and charge them back on a price-per-employee model.
+S/4HANA public cloud – how far are we from scale up?
+A persistent Twitter maven and SuccessFactors expert, Jarret Pazahanick, posed the question of the S/4HANA public cloud progress versus the private cloud (the private cloud is the one most customers have adopted). Ettling, who now owns the S/4HANA public cloud team, updated the numbers: 3,800 customers have bought S/4HANA, with about 1/2 choosing the private cloud. (S/4HANA public cloud numbers are very modest, less than twenty, with two go-lives). Ettling says that 2017 is the year where S/4HANA public cloud adoption should scale:
+We’ve been kind of building a startup within a business around the S/4HANA public cloud… What we don’t want to do is get ahead of our schemes; we want everything to be working perfectly. It’s not just about software; it’s about support models, implementations models – it’s about the whole SuccessFactors end-to-end value chain which we want to emulate for the S/4HANA cloud. The whole plan is to build it out in 2016, get the model working, and scale it in 2017. Private cloud has the model in place – the public cloud model isn’t there [yet].
+My (quick) take
+Though the show is winding down, I’m still investigating a number of points with juicy interviews pending. For that reason, I don’t want to offer final judgments yet. Here’s a short list of points I am pursuing:
+
+Is there a tension between the Slack integration announcement and SAP Jam?
+HANA Cloud Platform – is the go-to-market frictionless enough for smaller partners and developers? (I’m getting mixed messages as of now).
+S/4HANA public cloud – how will the functionality evolve as SAP looks to offer a finance-HR cloud against competitors like Workday?
+Performance management – does SAP’s announced shift to continuous performance management from annual reviews go far enough, or do we need a bolder rethink?
+Business without bias functionality – what are the dangers of trying to solve for diversity with machine learning?
+How does Ettling’s laudable “There is no talent shortage” emphasis on diverse hiring pools reconcile with the skills demand SuccessFactors partners will have to support? How can customers hire trusted consultants given the flaws in the skills certification program?
+What can we learn from the show’s customer use cases?
+
+ASUG also had some interesting announcements, including a consulting partner rating program I discussed with Pazahanick during our on-site podcast, yet to be released. I expect to get more answers on all these points, including customer interviews, by the end of the show. Stay tuned.
+Updated Sept 4, 2016, 10:00 pm ET – with a fresh section on Cloud Managed Payroll based on my post-conference phone interview with Ettling. No other content in the piece was changed aside from that additional section marked “Update.” Ettling also had a few reflections on the show as a whole that I will share in a future piece.
+Bonus – I’ve now produced my on-site “SuccessConnect in review – pesky questions edition” podcast with Jarret Pazanahick. Player is embedded below: you can also download the podcast or grab it on iTunes.
+
+Image credit - On-site photo of Mike Ettling and Christy Pambianchi by Jon Reed. Disclosure - SAP is a diginomica premier partner. SuccessFactors covered the bulk of my travel expenses to attend SuccessConnect 2016. Read more on: Cloud platforms - infrastructure and architectureDigital transformation - frictionless enterpriseDiversityHCM and the digital future of workHR admin and payrollInfrastructure 

@@ -1,0 +1,23 @@
+
+Adaptive Insights planning integrations
+We would not normally cover a partnership announcement but Adaptive Insights joining the Salesforce analytics ecosystem is of particular interest because it addresses heterogeneous cloud environments and the challenges that represents for planning and forecasting. It’s also much more than a marketing arrangement.
+While we hear that Salesforce  has done well in garnering serious interest in its Wave analytics solutions, it is clear that the bigger picture is more challenging. Salesforce is wedded to CRM and marketing automation but as anyone in a large organization will tell you, analytics is normally the purview of the CFO’s office. This is where Adaptive Insights fits in.
+From the blurbs:
+
+
+With this announcement, finance leaders can further accelerate their transformation to strategic business leaders by gaining the broadest view of business performance with plans, models, forecasts and reports that provide both deep financial visibility coupled with analytics that encompass key metrics on sales, service and operational performance.
+Finance organizations gain planning and modeling that is even more responsive to data-driven insights from line of business leaders, resulting in more agile and accurate forecasts and plans as managers leverage the latest analytics.
+Sales and service leaders can collaborate more effectively with finance, aligning their functional performance with corporate and financial goals.
+
+
+So far so good. But what does this mean? Adaptive has access to many data sources and with this partnership now has access to Salesforce data. That opens up a slew of possibilities for CFOs wanting to drive planning discussions in a meaningful way down to the line of business managers.
+An example might be early alerting around discounting that impacts the rolling forecast. Another might be the relatively simple inclusion of amounts owed by customers where a field service agent is managing the customer relationship. These are instances where the merging of accounting and CRM data have direct impact on results so are of particular interest to both finance chiefs and LoB managers.
+We spoke with Paul Turner, VP of product marketing at Adaptive Insights to get some color on the announcement.
+This is a bi-direcitonal integration so data can be put back into Salesforce (for example) as well as extracted. One scenario that illustrates this is where the customer has Oracle, Workday, Salesforce and Marketo. We connect all four to bring data to our Discovery tool for planning purposes. As we go forward, we’re packaging services expertise as reference deployments for things like revenue lifecycle management.
+One of my criticisms of early stage SaaS solutions is that they were not built with analytics in mind. Viewed through that lens,  they were reproducing the past. Salesforce is seeking to correct that with its analytics cloud but it needs partners like Adaptive Insights in order to service the growing needs of customers who want a lot more than a simple financial view. This is therefore a smart move.
+The scenario Turner outlined is an interesting one. In the past we tended to see SAP, Siebel and Keenan as a typical combination  in certain industries. As more businesses commit to cloud based technologies, we expect to see a shuffling of the decks. More important, cloud does not mean that integration evaporates. It will be revisited.
+While Adaptive Insights expects most users to be desk based, it has responsive capability for mobile devices. That might well needed some rethinking in situations where native apps make more sense. Wave is an example of that.
+We believe finance leaders will look at this as a welcome way of ensuring they get closer to the business in an effort to make planning and forecasting a more strategic focus. This will not take away from those that wish to use solutions like Wave for operational purposes, but it will mean finance re-affirms its position as the department leading the analytics charge.
+Disclosure: Salesforce, Oracle and SAP are premier partners at time of writing.
+
+Read more on: Analytics planning and data analysis 

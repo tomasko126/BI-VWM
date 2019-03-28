@@ -1,0 +1,32 @@
+
+Enterprise cloud applications vendor Salesforce is knitting the various components of its platform infrastructure more closely together in a bid to enhance its appeal to enterprise CIOs. The new, improved version of the platform announced today comes with a friendly new name: Salesforce App Cloud. And to help improve take-up, Salesforce is introducing a new online learning tool called Trailhead that it hopes will encourage newbies to learn to build apps more rapidly.
+The cornerstone of the App Cloud is a new version of Salesforce’s platform-as-a-service for coders. Formerly just Heroku, the development platform for building new digital applications is now called Heroku Enterprise. It adds new layers of control over access, location and connectivity. In a prebriefing yesterday, Jim Sinai, senior director, AppExchange and Platform, told diginomica that this was adding private control to what we have called the ‘as-a-service PaaS’ model.
+This is the new version of the hybrid cloud — a cloud-to-cloud network model. It’s as if the Salesforce App Cloud were allowing you to define your own private network for your own applications.
+We’re giving all the benefits of a private cloud with all the goodness and simplicity that people expect with the public cloud.
+IT leaders have told us, ‘I like the ease and simplicity of the cloud but I want the controls and visibility of my own datacenter.’ Heroku Enterpise makes the cloud really ready for IT leaders.
+Private spaces, regions, identity
+Three new features in Heroku Enterprise provide this extra control and visibility, slated for availability in early 2016, at which time Salesforce will reveal pricing:
+
+Private spaces — applications that developers build on Heroku can run in a dedicated, private virtual space that has direct access both to the customer’s own on-premise legacy systems and data sources as well as their data within Salesforce’s own application infrastructure. Effectively, this creates a virtual private network between the customer’s on-premise assets and Salesforce’s Heroku and Force infrastructure.
+Selectable regions — customers can choose to run their Heroku-based applications in specific datacenter geographies, including Dublin, Frankfurt, Singapore, Sydney, Tokyo, Northern Virginia and Oregon. While this level of regional selection applies specifically to Heroku applications and data and is separate from regional choice for data running in Salesforce’s own application stack, it provides useful extra control for enterprises concerned about the jurisdictions where their data is stored and processed.
+Integrated identities — there’s now a single identity infrastructure across Heroku and the Force application stack, providing single sign-on and role-based access to both components of the App Cloud platform. This tightens up security around the bi-directional data flows between Force and Heroku.
+
+Along with the new enterprise-friendly Heroku, the App Cloud also includes the Force platform on which Salesforce and its Salesforce-native partners’ applications are built. The rebrand thus embraces the updated Salesforce Lightning user experience and developer tools recently announced.
+AppExchange on App Cloud
+The AppExchange portfolio of third-party add-ons and applications that either run on or connect into the Force platform also become part of the App Cloud. Despite some risk of confusion between the AppExchange and App Cloud concepts, Sinai told me the rebranding is designed to emphasize the step change in the platform this year.
+We take the new Heroku Enterprise plus Lightning and we really have a whole new version, the next evolution of our platform.
+The new name is to really convey what we’re going to help developers do — which is build apps fast.
+Also important is the Lightning Connect technology originally announced last year, which provides bi-directional data syncing between Heroku and Force. Sinai explained:
+One of the things we’re seeing is the types of applications people want to build is evolving. What companies and IT leaders want is the whole breadth of technology — the best of cloud, classic IT, model-driven development, connected products.
+They want a connected platform that pulls all these things together.
+Inside of App Cloud we’re pulling together Force and Heroku tighter than ever before.
+The final element of today’s announcement is Trailhead, a gamified online learning tool that Salesforce hopes will help enterprises drive adoption of its app creation tools among their user base — “from developers and business admins to end-users, marketers and data analysts.” Sinai told me:
+What makes our customers successful is not just technology but people. Trailhead is a fast fun and free way to learn how to build apps.
+My take
+We have certainly moved on from the first appearance of what was then launched as the Salesforce1 platform two years ago. At the time I remember I was struck by how much the messaging was emphasizing that ‘one’ in the branding, while the reality was that Salesforce was bringing together a disparate set of platform assets.
+Today, Salesforce has become confident enough in the ongoing convergence of those platform assets to drop the ‘one’ and go back to its roots as a pioneering cloud evangelist with the App Cloud branding.
+There’s still a fair bit of education needed — adding private access to its public cloud services will certainly having a few observers scratching their heads as they catch up with the emerging sophistication of today’s cloud offerings. It’s also interesting that Salesforce sees it as a priority to encourage take up of rapid app creation among business users and admins with the new Trailhead tool.
+So an interesting development in what remains a long journey ahead as the cloud application leader continues to evolve its cloud platform.
+Disclosure: Salesforce is a diginomica premier partner. I am traveling to Dreamforce as part of a paid consulting engagement with Salesforce ISV partner Vlocity.
+Image credit: supplied by @salesforce.
+Read more on: Cloud platforms - infrastructure and architecture 

@@ -1,0 +1,47 @@
+
+
+If there’s one thing digital technology vendors can agree about the retail industry, it’s that it’s facing radical transformation. But ask them exactly how their technology can help retailers navigate that transformation, and each one will give you a different answer — one that’s inevitably tailored to the strengths of their own offering, whether that’s in e-commerce, in digital marketing, or in back-office systems.
+The trouble is, the essence of digital transformation, as we like to emphasize here at diginomica, is eliminating friction from enterprise processes. That requires joined-up technology across all its operations, not just one part — but no single vendor has the entire answer.
+Three critical faultlines are left exposed as retailers seek to:
+
+Marry digital processes to physical assets,
+Connect marketing to sales across multiple channels, and
+Support front-line engagement from back-end systems.
+
+It’s up to retailers to decide which patchwork pattern of packaged solutions will get them closest to digital nirvana — and how much custom infrastructure they must build themselves as they stitch different solutions together.
+Failure to transform isn’t a viable option. Only this week, two long-established high street names have failed in the UK with a combined loss of 12,000 jobs and 280 stores. 116-year-old Menswear retailer Austin Reed and 90-year-old clothing and household department store chain BHS have both gone into administration and are now preparing to close their doors. The stakes couldn’t be higher.
+Marrying digital processes to physical assets
+While most retailers have adapted to the advent of e-commerce, few of any size have integrated it into the rest of their systems. Andy Lloyd, GM of commerce products at NetSuite comments:
+A lot of this was driven by competition from Amazon. Most retailers have an e-commerce site but there’s a lot more to putting up a website and selling products. There’s a fundamental rewiring needs to happen to integrate ecommerce with the business.
+Several vendors are offering to help smaller retailers achieve that rewiring. The new SAP Anywhere product, now available in the US as well as the UK and China, aims to offer a fully integrated alternative to existing workarounds, says GM and SVP EJ Jackson:
+The real market need is transforming how you operate — getting Excel out of your business — so that everything you do is done on a single platform, mobile-first, low touch to deploy, and multi-channel.
+Looking across the broader retail industry, Jackson says he’s surprised how little most retailers have yet done to integrate digital into their operations:
+Every channel of engagement matters. I’m very amazed at the nacency of the market. Digital transformation already happened and is accelerating rapidly.
+As a retailer you’re either a grade A or an F. You have to think holistically and execute flawlessly in every touch point that you have.
+Integrating digital channels with physical stores is one of the most glaring chasms that retailers must bridge. Salesforce’s SVP retail Shelley Bransten highlighted why this is important when we met a few weeks ago in London:
+If you look at a retailer’s P&L, the three biggest costs areas are their physical real estate, their store payroll and their merchandise. So they’ve got to get leverage from that store payroll, make that store person more efficient.
+The reality however is that the typical digital consumer’s in-store experience is one in which they have better access to information on their smartphone than the store associate who is still reliant on legacy enterprise information systems. A recent Salesforce survey found that two thirds of shoppers feel they can’t trust the answers they get from store workers if they ask a question about availability or price. Bransten comments:
+They felt that they knew more about the product and the retailer than the store associate themselves.
+When you empower that person to have information and give the right information, it can improve the number of items that the person buys, it can improve the conversion rate and change the economics. It’s not just about the technology, it’s about the business result.
+This gap is especially important to close in view of Accenture research that suggests consumers still believe they’re most likely to get a tailored customer experience by visiting a physical store.
+Connecting marketing into sales across multiple channels
+As shown by Saleforce’s acquisition this week of Demandware, the desire to tie all the pieces of the digital retail puzzle together is driving a wave of vendor consolidation. SAP was quick to issue a statement on behalf of its SAP Hybris e-commerce team:
+Salesforce’s planned acquisition of Demandware validates a strategy that SAP embarked on several years ago: delivering solutions designed to improve customer engagement and commerce for an increasingly omnichannel world. In today’s Digital Economy, customers expect to be able to inform themselves, make a purchase, or get assistance on any channel they choose.
+Most retailers are keen to up their game in digital marketing, believes Salesforce’s Bransten:
+Marketing Cloud is really the tip of the spear for us, the engine, for going into retail. Because every retailer wants to have a customer communications strategy, and they know that, in the old world, that might be email but in the new world it’s going to be mobile, etcetera, who knows what?
+There’s a role for Salesforce to act as an engagement layer that brings together the other pieces of the puzzle, says Bransten. She gives the example of an iPad app that British luxury retailer Matches Fashion has built on Salesforce for its retail consultants:
+Underneath the iPad app that the associate is using there’s all sorts of other software vendors working who are doing e-commerce, merchandise management, and supply chain, and we’re agnostic about that. We are that engagement layer so that the associate knows you and knows what you bought, and also can run their day.
+For most of the enterprise retailers, they are deep with many vendors and we integrate with all of them. That’s our job.
+I have a lot of retail CIOs saying to me, ‘I bought all these one off solutions — something for customer loyalty programs, something for omnichannel fulfilment and delivery, something for my customer loyalty app — and I need a place where I can bring all that data together and get the 360-degree view of my customer’. If I talk about the customer engagement platform, that’s the role that Salesforce is playing.
+But for NetSuite’s Andy Lloyd, tying CRM to e-commerce is just a part of the puzzle:
+This is a first stage but in the long run you’re going to need the things that people use to run a business. There needs to be deeper integration with the backend inventory and supply chain management. When the customer is ready to buy, make sure [the retailer] can use product from anywhere to fulfil that demand.
+Supporting front-line engagement from back-end systems
+Lloyd makes the case that reputation and trust depends not just on engagement but also backing it up with delivery.
+We see customers running their backend on an AS400 and they’re running around chasing whatever the latest tech is on the front end. Without cleaning up the back end on which you run your business, you’re going to run across broken processes.
+We talk about the stairway to nirvana. You have to be methodical and first of all replace these back end systems and then build your customer system of engagement on top of those systems of truth. All of these separate systems put a brand at risk because you’re not able to tell the customer the truth from the systems of record.
+If anywhere along that chain there’s a break in the process, their reputation with the customer is damaged.
+For many retailers, tying in operational systems means building their own integration infrastructure. Global fashion retailer House of Fraser uses Mulesoft’s API platform to tie together packages such as SAP Hybris and Sterling order management with in-house developed assets. CIO Julian Burnett says:
+Our architecture needs to support not merely steady-state but also rapid change. I’m trying to get to a friction-free architecture.
+My take
+The unfolding story of retail’s digital transformation is one we follow with interest here at diginomica. There’s more to come.
+Image credit - A New York Best Buy store in June 2011. Photographer: Chris Goodney/Bloomberg via Getty ImagesDisclosure - Disclosure - NetSuite, Salesforce and SAP are diginomica premier partners. Read more on: Retail e-commerce and the omni-channel 

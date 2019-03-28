@@ -1,0 +1,60 @@
+
+diginomica hit: When algorithms fail and robots revolt – advisory for the enterprise (and beyond) – by Denis Pombriant and Chris Middleton
+quotage: “As the HBR story suggests, training algorithms is not a perfect science and some human intervention is going to be needed for the foreseeable future. A human in a situation controlled by an algorithm, such as a driverless car, is a passive participant and any harm to that person would be difficult to justify. In contrast, a human who gets behind the wheel is an actor and we are more able to process an accident as an act of commission by placing the fault with the driver.” – Denis Pombriant, When AI algorithms fail, who you gonna call?
+myPOV: Denis has been on a mission to provide nuance instead of panic buttons for AI job threats. That doesn’t mean he thinks all is well in algo-world. Denis says the time to begin a “gathering process” on side effects of algo-fails is now – “rather than accepting algorithm-driven technology as unalloyed good.” I’ve got some good news there Denis. The only places where algorithms are unassailably good are enterprise software keynotes and slide decks…
+Chris Middleton raises a whole different can o’ worms – and coins a funky new phrase – in L’Eurobot arrive – Brussels seeks to govern the robot revolution. So what’s a Eurobot, you may ask? As far as I can tell, it’s a robot that comes under the watchful eye of the European Parliament. At it turns out, robots don’t enjoy bureaucracy any more than humans. The Eurobot is a gentle, ethical robot – but alas, it’s a sluggish machine, burdened by layers of off-target regulations. Chris has zingers:
+This, then, is a very European solution: vaunting ambition and a much-needed focus on ethical development, human rights and social justice, coupled with a poor understanding of the problem and a desire to create layer upon layer of new bureaucracy.
+Chris doesn’t touch on the crowdsourcing of process tasks – what I call the “Taskrabbitization” of employment. But he hits home on the problem of inertia:
+One risk to human society is less about the rise of intelligent machines and more about the rise of target-driven, machine-like humans: drones who are instructed never to use their own initiative.
+B-b-but Chris, it’s much easier to wallow in mediocrity while we wait for Skynet to kick in…
+diginomica three –  my top three stories on diginomica this week
+
+Security – are staff your enemy? It is OK to say `quite possibly’ and let paranoia play a sensible role – Always nice to start the week with a pro-paranoia position, eh? But these are the times we live. Martin doesn’t want to turn us against each other, and no, he’s not saying your staff is out to get you. It’s just that hackers try to exploit the access of “privileged employees.” Check his piece for more on the debate and possible solutions, including the yucky-sounding, but potentially effective “behavioral monitoring.”
+Kone expects a lift from new field services applications – Jessica rolls on, this time with a use case about a Finnish company’s plans to push IoT into action, pulling IoT data from elevators, escalators, doors and turnstiles, and putting it into the hands of service technicians.
+Voice UIs come of age – enterprise IT, listen up! – Kurt Marko has a message for enterprise IT folks who dismiss Alexa as a trash talking, compulsive shopper from hell designed to stump your family and corrupt your kids with naughty (misunderstood) bits. Voice UIs are for real, and while their use cases might be limited (for now), the time to get out in front is now.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Interview – ServiceMax CEO shares his plans for the next phase at GE Digital – Derek nabs an interview on that rare bird, an interesting acquisition: “In terms of risks, or where Yarnold sees the greatest threat in terms of competition, the incumbent highway-to-IoTenterprise software vendors are still the greatest concern for ServiceMax. Yarnold said that they still have “significant sway with CIOs” and they all have large install bases.”
+Workday signs Walmart, a 2m-seat SAP SuccessFactors account [UPDATED] – A fascinating/unfolding story, with Phil issuing a first take and then updating. Lots in play, including a departing CIO. Phil dubs this a “major coup,” but then cautions: “Given the two-year evaluation that SuccessFactors previously went through and Workday’s statement today that there’s no update to its financial guidance for the 2018 fiscal year that’s about to start, it seems unlikely that Workday’s going to roll out to anything other than a small proportion of the Walmart workforce in the near future.”
+AWS launches re:Start – a digital training scheme to upskill 1,000 people in the UK – Derek with a nifty story on Amazon’s partnership with the UK government to upskill young people, veterans and their spouses. A drop in the bucket? Perhaps. But it beats the heck out of glamourizing digital as raising all boats. Some of us are sinking.
+
+A few more vendor picks, without the quotage:
+
+Unit4 appoints FinancialForce ex-CEO as product chief – Phil
+Don’t disrupt, transform – how Salesforce sparks diffusion – Denis reviews Salesforce’s Ignite program.
+$20m for CloudCraze bolsters Salesforce B2B commerce push – Phil
+Pets at Home pursues digital with a family feel – Madeline with an SAP Retail use case
+
+Jon’s grab bag – Not sure anyone covers Yahoo’s tired hijinks with as much jaded flair as Stuart – Yahoo! is dead (sort of), long live Altaba (perhaps). Barb continues a worthwhile series on account-based marketing tactics – an approach which is way more interesting than its bland-sounding name.
+Would you be surprised to learn that Stuart, our transnational utopian bureaucracy-loathing digital governance buff has some issues with the European Commission and its data policies? Didn’t think so. He skewers it good in The European Commission proposes more data regulation to drive deregulation, and in the companion piece on our new diginomica/gov site, The EC’s latest talking shop plans scupper the European data economy.
+Best of the rest
+No lead pick this week folks – didn’t see a standout, and we’re not handing out participation trophies here.  That’s a collective whiff on the enterprise blogosphere. We’ve had better weeks. But there were some good ‘uns:
+
+SAP bundles IoT with Leonardo while Salesforce gets an Einstein (AI) review – The usual Constellation Research suspects were on the case; Holger Mueller reverted to his staple news analysis format to make fun of, err grudgingly accept, err I mean tepidly enthusiastically endorse “Leonardo” as SAP’s humble name for its IoT portfolio, complete with jump start kit. But seriously, SAP did need to rope in its IoT offerings; Mueller thinks this move could pay off (News Analysis – SAP Introduces Jump-Start Enablement Program for SAP Leonardo IoT Portfolio). Speaking of humble product names, Henschen reviewed Salesforce Einstein in Salesforce Takes Apps-First Approach with Einstein. Insights from Salesforce’s first analyst day of 2017 are included.
+Do robots binge on our jobs, or do they eat slowly? In Robots Will Take Jobs, but Not as Fast as Some Fear, New Report Says, The New York Times puts the brakes on robotic fearmongering. On the job creation front, Buzzfeed takes shots at the Trumpian hype balloon in Those 100,000 New Amazon Jobs Might Not Be Good For Everyone. Buzzfeed seems offended that the new Amazon jobs will probably suck. I get that  – but how many American jobs don’t suck? If the criteria for new American jobs is “jobs that don’t suck,” we may be waiting a for those exciting new positions a while longer.
+
+Honorable mention
+
+The Three Stages of Software Engineering – Yeah, the blog title is about as exciting as counting the raisins in your trail mix, but this is a solid effort.
+Ransomware Rising On The Plant Floor – Jeff Nolan pointed me to this one, from a security site called Dark Reading I will now be track. Scary stuff that should (hopefully) prompt action.
+Microsoft is developing its own human capital management apps  – Ahh, so Dick Hirsch isn’t the only one to trawl job boards in search of breaking news (this research tactic really does work by the way).
+Tuesday’s Tip: Seven Universal Factors Why Technology Firms Fail – Good piece but really looks horrible in my browser. Maybe we can cover UX in next Tuesday’s Tip.
+Seven Use Cases for Hyperledger in Supply Chain – Nice to see action about blockchain in supply chain.
+The changing outsourcing world: Conversation with Malcolm Frank of Cognizant – If you only read one outsourcing post today…  Hmm, I should be able to come up with a better tease than that, eh?
+Whiffs
+
+Yeah, so probably not the smartest idea to post video of your team jumping rope with pizza dough – as fun as that seemed at the time (Employees shown on Snapchat playing with food fired). On the wacky PR front, I’m sure Brazil’s heart is in the right place, but creating a Rio “mugging tax” to pay tourists when they get robbed is not the best idea – though it is a viral one.
+Fun with email unsubscribes – this one from November:
+
+Love a nice passive aggressive unsubscribe, just tugs on the heart strings pic.twitter.com/DlxOdpnaju
+— Jon Reed (@jonerp) February 22, 2016
+This time around, I wrote a love letter:
+
+My latest email unsubscribe breakup note. I do appreciate being given an open text field to vent my grievances lyrically though… 🙂 pic.twitter.com/WXQZsQekTX
+— Jon Reed (@jonerp) January 10, 2017
+Got one more whiff but may have to save it, I’m getting punted out of the press room at NRF 2017.  So, 0ver to you, Clive.
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Winter Sports © lassedesignen - Fotolia.com - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, ServiceMax and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and missesIoT robotics and AI 

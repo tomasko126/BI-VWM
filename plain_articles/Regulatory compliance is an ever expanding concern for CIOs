@@ -1,0 +1,41 @@
+
+One of the more unsettling issues for those in IT today is the expansion of regulatory compliance and scrutiny. This affects all organizations but most acutely those that operate globally, since they can turn normal business requirements into a complex maze of conflicting constraints. And there are more to come.
+As government agencies extend their reach, it’s no longer sufficient for companies to look just through the lens of generating business value, enabled by the depth and breadth of data analytics capabilities now readily available. It is also not enough to just conform to the rules. It is up to IT to prove compliance, as well as take advantage of the reason these rules were put into effect in the first place. There is always a reason that lawmakers took the trouble to create rules, taking the time to understand them will allow you to focus your efforts and turn what may appear to be restrictions over to your advantage.
+At the center of most regulations is the intention of protecting the confidentiality, integrity and availability of information that impacts your stakeholders. These laws can be distilled down to their essential goals:
+
+Establish and implement controls
+Maintain, protect, and assess compliance issues
+Identify and remediate vulnerabilities and deviations
+Provide reporting that can prove your organization’s compliance
+
+One example of the issues with regulatory compliance support is data retention. There can easily be a conflict between keeping the data required to analyze the business context and the need to purge data from the environment to protect privacy and security. There may also be cases where you would rather eradicate the data when it is no longer needed but data retention laws and regulations require your business to keep extensive records of user activity beyond the time necessary for normal business operations. Users may also have their own expectations of behavior that may conflict with both these other constraints and use this preference when determining what products/companies to use.
+These conflicting expectations can create some real concern for CIOs, so the requirements need to be understood and baked into the organization’s processes and enterprise architecture.
+An example of a possible conflict is the Fair Credit Reporting Act, which requires a business to give people the “right to be forgotten”, removing individuals from marketing lists if requested. The consumer needs to be told when and why your business might share personal information with a third party, and ask permission before sharing that data. Sometimes even the definition of a seemingly straightforward word like ‘sharing’ can be a bit vague.
+Beyond just the regional concerns, each industry has its own set of regulations. Some examples of regional and industry laws include:
+
+Sarbanes-Oxley or SOX was a response to corporate scandals like Enron, and Worldcom. The area most critical from an IT perspective, is Section 404, which requires that the annual reports of public companies include an end-of-fiscal-year assessment of the effectiveness of internal control over financial reporting. SOX also requires that the company’s independent auditors to attest and report on the internal controls. The assessment of financial controls has been extended into the IT space by the opinion of the Public Company Accounting Oversight Board (PCAOB), a private-sector, non-profit entity created by SOX to oversee the auditors of public companies.
+European Union Data Protection Directive standardizes the protection of data privacy for citizens throughout the European Union (EU) by providing baseline requirements that all EU member states must achieve within their national regulations. The principle of the law is that personal data should not be processed, except when certain conditions are met. These conditions fall into three categories: transparency, legitimate purpose, and proportionality.
+Health Insurance Portability and Accountability Act: or HIPAA as it is more widely known includes, among its various components, privacy and security rules.
+
+Title I focuses on the availability and breadth of group health plans and certain individual health insurance policies.
+Title II defines policies, procedures and guidelines for maintaining the privacy and security of individually identifiable health information as well as outlining numerous offenses relating to health care and sets civil and criminal penalties for violations. It also creates several programs to control fraud and abuse within the health care system.
+
+
+
+Although HIPAA focuses on the healthcare industry, other companies can be impacted if they engage in certain activities, such as the management of employee group health plans, or if they provide services to companies that are directly impacted by the regulation.
+
+Payment Card Industry Data Security Standard is intended to protect credit cardholder data—wherever it resides—ensuring that members, merchants, and service providers maintain the highest information security standard. Using the Payment Card Industry (PCI) Data Security Standard as its framework, CISP provides the tools needed to protect against cardholder data exposure and compromise across the entire payment industry.
+Gramm-Leach-Bliley Act (also known as the Financial Services Modernization Act of 1999) protects the privacy and security of individually identifiable financial information collected, held, and processed by financial institutions. The privacy component requires financial institutions to provide their customers with an annual notice of their privacy practices and to allow customers to choose not to share such information. The safeguards component requires that financial institutions establish a comprehensive security program to protect the confidentiality and integrity of the private financial information in their records.
+Bank Secrecy Act: This law is sometimes referred to as an Anti Money Laundering law (AML) or as BSA/AML. The BSA requires banks and other financial institutions to report certain transactions to government agencies and to withhold from clients that such reports were filed about them. These transactions include deposits or withdrawals of more than $10,000 in cash in a day, or purchase of monetary instruments (money orders, cashier’s checks, traveler’s checks) worth more than $3,000. For such transactions, banks must supply information about the person doing the transaction, such as address and occupation, to the Internal Revenue Service in a currency transaction report (CTR).
+USA PATRIOT Act  expands the authority of U.S. law enforcement for the purpose of fighting terrorist acts in the U.S. and abroad. This expanded legal authority is also used to detect and prosecute other alleged crimes. The portion of the Act that relates to IT is called the Financial Anti-Terrorism Act and deals with money laundering. This item works in conjunction with the BSA/AML above.
+The Federal Information Security Management Actbolsters computer and network security within the U.S. federal government and affiliated parties (such as government contractors) by mandating yearly audits.
+
+Even a minor regulatory change can have a ripple effect through an organization’s budget. Business models are also changing, which may shift which of the various laws apply. As the enterprise architecture of the organization evolves, the CIO needs to ensure that it is flexible and aware of the implication of these changing laws, and includes this assessment in the governance model, since non-compliance may directly affect:
+
+Brand reputation and value
+The expectations of investors, legislators, regulators, customers, employees, analysts, consumers and other key stakeholders
+Current and future products, service and contracts
+
+Are you prepared? Do you see compliance as a big stick or a helping hand?
+Image credit: compliance on document folder © cacaroot
+Read more on: Data privacyRegulationSecurity 

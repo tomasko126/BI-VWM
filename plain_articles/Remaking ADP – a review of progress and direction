@@ -1,0 +1,66 @@
+
+History
+ADP (aka Automated Data Processing) has been around for 69 years. They count approximately 700,000 firms as customers in 140 countries. In other words, ADP is big.
+ADP has been an outsourcer all of this time. It has added and deleted other businesses along the way but it has always offered a payroll service (outsourced or via software).
+ADP today has a decidedly different feel from the service bureau firm of years past. In their FY 1994 Annual Report, ADP stated:
+ADP’s payroll processing and payroll tax filing services comprise over 90% of the revenue of Employer Services.” That same year, we saw a decided focus on the sub-1000 employee business customer: “Approximately 50% of Employer Services’ payroll and payroll tax filing services revenues for the past three fiscal years have been attributable to its heartland accounts (companies with between 1 and 99 employees), approximately 35% to major accounts (between 100 and 1,000 employees) and approximately 15% to national accounts (over 1,000 employees).
+Today’s ADP definitely wants to be a serious software firm. All of the focus at the recent analyst event in NYC was on the software products. More specifically, the company is very focused on HCM software and services. It has divested some of its other businesses and continues to shift from service bureau to modern HR software firm. A shift that means it provides more HCM functionality than basic payroll.
+Colleague Bill Kutik provided this nice historical recap of ADP last year. If you’d like even more background on ADP, check out their own tribute to their past.
+Direction
+ADP has been building out new HR product lines for decades, each targeting a specific size of business. If you read the PeopleSoft S-4 from 1992, you’ll see where ADP licensed a copy of the PeopleSoft HR software (and the PeopleTools code to go with it) for approximately $22 million USD. One source states:
+RELATIONSHIP WITH ADP
+In order to broaden the overall distribution of its PeopleSoft HRMS products and PeopleTools technology, in 1992 the Company signed a Software License and Support Agreement with ADP. This agreement provides ADP with a perpetual license to use internally, to modify and to sublicense to its clients and prospects Release 3.0 of PeopleSoft HRMS and PeopleTools on the Centura SQLBase (OS/2) and Oracle environments. This license also permits ADP to provide service bureau functions to its clients and prospects using these software products.
+ADP also bought Peachtree around the same timeframe to serve small businesses.
+The PeopleSoft deal initially gave ADP a client server solution. The functional core of that became the base for ADP’s subsequent cloud offerings.
+In the intervening years, the company has developed three HR/HCM solutions, one each for the small, medium and large enterprise markets. There’s even a solution for large global MNC’s (multi-national corporations).
+
+Today, ADP has developed what it calls is a next-generation platform underneath (and around) its package software product lines.
+The platform provides integration to third-party tools/applications/services, a marketplace for 280+ partner apps, etc. The company can develop one integration capability with a partner product that supports connections to all of ADP’s different product lines. Another aspect of the platform includes support for ‘mini-apps’ – these can be mobile capabilities that make functions like employee self-service come to life.
+Acquisitions are clearly another part of the ADP strategy. The company acquired the Marcus Buckingham company recently and Workmarket was acquired in January of this year. Celergo (see below) was acquired even more recently.
+According to colleague Josh Bersin, there are several major ADP product developments of note lately. Here are a couple of the developments that he mentioned:
+
+Re-engineered Payroll Engine – The new payroll engine will support easy-to-create rules for processing payroll in new countries. Rules for particular payroll calculations (e.g., retirement funding deductions) can be copied from one country, modified for another and put in service. The new engine can also show a worker their wages in near real-time as well as income earned from contingent gigs, even if those gigs were with a firm that is not their employer. The value in this is to help the worker understand if they are withholding too little or too much in taxes and avoid a painful year-end surprise.
+Graph database – Underlying ADP’s new products will be a graph database. It’s a technology that is well suited for networks of people and things (think a diverse workforce, large candidate pools, alumni, contract workers, etc.). It can be used to easily identify, for example, who are the most helpful/influential people in your firm, who best should be part (or not part) of a team, etc.
+
+Strategic Assessment
+Computing power is no longer the purview of the largest firms or governments on the planet. Smartphones can have a form factor more computing power, data storage, etc. than mainframe systems did a few decades ago. Moreover, the cost of computing has plummeted. Businesses that couldn’t afford massive data centers with expensive mainframes had no choice but to use a timeshare arrangement with a firm like ADP.
+Over the years, what didn’t change is this: payroll is one complicated mess with its numerous regulations, compliance matters, economic impact, the potential for litigation and more. Many business people would rather shift the responsibility for the calculation and processing of payroll to a firm that makes this their core competency. (Note: my own firm uses Paychex, an ADP competitor, for this very same reason). As tactical as payroll is, the business risk to a firm for screwing it up is great.
+But times, technology and economics change – Technology is now virtually unconstrained and almost zero cost. It’s available as a utility now. Applications are now designed for all manner of computing devices (e.g., smartphones) and new software should support users beyond the HR department. It is for these reasons that companies today want to access new HCM/HR software on tablets and phones in a multi-tenant public cloud. Businesses want a solution that the software vendor maintains on a data center that the vendor secures.
+The service-bureau concept had to adapt to changing times.
+ADP competitor, Ceridian, has been undergoing its own rebirth. In brief, its reinvention involved new leadership, acquisition of a cloud HCM product, DayForce, followed by extensive product functionality expansion and other tuck-in deals. Ceridian went from essentially a payroll service bureau firm to a company offering a full cloud-based HR suite.
+ADP’s path is somewhat different but follows a lot of the same market dynamics. ADP didn’t need to acquire a net-new HCM suite as it already had 3-4 package software product lines. Instead, it needed to upgrade the product lines so that each had:
+
+modern product architecture
+simple but powerful integrations to solutions from technology partners, benefits providers, tax solutions, etc.
+access to a number of external consumer, end-user and corporate tools/apps
+
+Marketing
+An ADP briefing is different than those of many other HR/HCM firms. ADP (and Ceridian does some of this, too) loves to lead with its payroll chops and functionality. Why not? They’ve had 69 years to perfect that knowledge.
+In contrast, many competitors lead with different themes /messages like:
+
+winning the war for talent
+improving engagement levels
+increasing workforce productivity
+acquiring more/better workforce
+helping the company grow at an out-sized rate
+improving HR productivity
+improving team performance.
+
+I know ADP’s got a lot of the above in its suites; however, the DNA of the company is to make sure everyone hears about Payroll first, second and third. While I get this, ADP may be missing an opportunity to be known for more and, it brand image in the market as a payroll-only company gets reinforced. The brand, I suspect is so tied to payroll (and not to a provider of several different HCM/HR software suites), that the company needs to go more boldly on educating the market of its other capabilities.
+For example, ADP has benchmark data, full HCM suite functionality and more that should all get equal time. From a marketing perspective, ADP still wants to be known as a payroll firm when it is really an HCM software provider.
+Global Payroll
+Today, buyers expect an HR solution provider to possess a native global payroll solution. And while many vendors offer a ‘global’ payroll solution, it almost always is limited to a few countries. Of the 200+ countries and territories globally, few vendors can actually offer a native payroll product beyond a handful of countries. Partnerships are needed to provide greater coverage.
+This is why ADP has decided to create a new payroll engine and has acquired Celergo. The new payroll engine is now live for U.S. and Canada and will scale to over 50 countries by July 2019. The policy engine within it will get its intelligence from ADP’s 1800+ compliance experts.
+Celergo has had partnerships with many HR providers for years. They have relationships with at least two in-country payroll providers in approximately 120 countries. The redundancy is there to allow Celergo to test the accuracy of their payroll providers’ services. Celergo has a standard interface that customers use to submit gross pay information. The data is passed to the appropriate payroll service provider. That provider does the gross to net calculation and passes this back to Celergo (and they to the customer).
+That standard interface (like one ADP also has) eliminates a lot of integration challenges and errors for customers.
+Celergo gives ADP access to a massive network of payroll service providers and makes ADP a deeper global competitor. To really take advantage of this, I’d encourage ADP to get the Celergo functionality in front of all of its customers for all product lines – not just for MNCs. All manner of businesses today, small and large, are global and they need this capability.
+Cautious Approach
+ADP is almost allergic to hyperbole. They’ve been working on some of these new capabilities for many years now but have avoided hyping them. That wasn’t necessarily the case with many HR firms at the recent HR Technology Conference.
+At the ADP analyst event, we heard very little re AI/ML/NLP except when this was in conjunction with benchmarking. I know their team is aware of competitors’ efforts in these areas, but, the very disciplined ADP team wouldn’t give up much.
+This conservative posture is also why the company likes to alpha, beta, etc. test every bit of their solution. I get this for payroll and other critical compliance functions. The culture and reputation of ADP depend on ADP getting these things 100% right. But other HCM functions (e.g., team composition recommendations) could get more forward-looking visibility in the company’s marketing efforts.
+My take
+It’s fun to talk to software companies undergoing a major metamorphosis. There’s plenty of change afoot and lots of big bets are being made. Watching a vendor put lipstick on a really old pig is no fun at all.
+Big bets come with big risks though. For example, will the vendor risk disenfranchising its current customers? If the new vision is too bold or disruptive, will current customers balk (and seek true love elsewhere)? If the vision is too lukewarm or incremental, will the vendor lose customers here, too? However you cut it, change is a challenge for the leaders of tech firms.
+I can’t really find much to poke at relative to ADP’s next-gen strategy. Yes, I suspect the marketing brand is still too payroll-centric but that’s not fatal and it is fixable. The big open item that got zero discussion at the analyst event was what will ADP do with its tens of thousands of service bureau customers. When and how will they be moved to the newer software solutions? That’s the question for the next event….
+
+Image credit - ADP and Photo by NeONBRAND on UnsplashDisclosure - ADP covered Brian’s T&E for this analyst meetingRead more on: HCM and the digital future of workHR admin and payroll 

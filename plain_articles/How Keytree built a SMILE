@@ -1,0 +1,37 @@
+
+SMILE screen
+I was fascinated by the processes that Keytree used to make Sensor Monitoring to Improve the Lives of Employees – SMILE –  a winning combination in an otherwise ultra competitive environment at SAP TechEd. To that extent, the Keytree folk were kind enough to set out their process. Here ya go, as told by Will Powell, head of innovation at Keytree.
+The Brief
+Our brief was to reduce employees engaging in bad habits that will harm their health at work. We built an application that provided an offering to the end employee as a native mobile app, a web interface for the company health therapist, a sensor for the desk to capture the data and a backend to tie all this together with analysis capabilities. The purpose was to monitor the following employee attributes:
+
+Temperature of Employee
+Movement of Employee at desk
+Hydration of Employee
+
+The Hardware
+The key capture of the data was the hardware selection. We settled on a thermopile. Thermopile sensors monitor temperatures of what they are looking at by analysis the infra-red being emitted. It performed 64 unique temperature measurements 15 times per second which was read by an Arduino UNO before the raw data was pushed to SAP HANA. To give you an idea of data scales this gives us approximately 960 readings per second and just shy of 83 millions unique temperatures per day. The actual electronic circuit itself required the addition of passives, regulators, pull ups and a few other components so when we built it on a breadboard it did look like a tangle of wires but it did provide clean data.
+For the purposes of the demo we mounted the sensor on top of a LG HD webcam and then coordinated the field of view of the webcam with the field of view of the sensor so that we were able to demonstrate what the hardware was actually doing. For actual use the webcam would not be required.
+We also put in Bluetooth ibeacon technology to allow user validation at a particular desk. This means that the user has the SMILE app installed when they come near their device can see the ibeacon and then automatically sign them in when they are close to the sensor.
+The Logic
+With all of this data being captured from the hardware the processing and analysis is the next stage of the application. On each frame we look for significant areas. A significant area is defined as a region of temperature readings that differs from the ambient temperature and is of a particular size.
+To do this we pulled an image processing technique for blob detection and analysis, these blobs were then compared to known entities or signatures of entities so we had a signature of a human face that was between 35-40 degrees and of a particular size and we had similar for cold and hot drinks. Each of these detected signatures have a calculated weighted center point, magnitude and maximum value. At this stage we have detection of a human being present and their temperature. With some research we discovered that the forehead is a reasonably accurate body temperature, but is on average two degrees below the core body temperature as it is the skin surface temperature we are monitoring but the forehead has blood flow close to the surface.
+With the rate at which the sensor provides data we look at the difference between frames. Once these blobs start to be analyzed in movement we were able to calculate their interactions. So now we have the movement of an individual’s head at a desk and then when a drink is put to their mouth.
+For the organization level we are not interested in the individual values of these we just want one metric to measure the health of an employee so these metrics are combined into a single SMILE score ranging from 0 to 100 of how healthy the individual is and then it can be averaged over the course of a day. So SAP HANA has taken 83 million data points and worked out one value of how healthy a person is.
+As an additional level we took the temperature of an individual over time and compared it with known temperature variance of certain illnesses such as influenza so that a person can be warned if they should go and preemptively get themselves checked out by the doctor.
+The Backend
+We needed to tie all of the application together in a fast reliable way. We set out with NodeJS using the SAP HDB connector, websockets (via Socket IO) and rest service (via HTTP). This gave us a platform that can connect data streams over the full duplex connection methods or run one of requests all connected to the data stores in SAP HANA.
+One of the aspects we foresaw early on is that writing the raw SQL statements to pull data from our HANA model which was created in the SAP HANA Tools for Eclipse wasn’t going to be as fast as it needed to be. Therefore, we wrote a library that creates the statements much like Squel does for MySQL but for HANA. This library was more time consuming to get working for the first few queries we needed in this application but then it meant that we could perform retrievals and queries in HANA using a hand full of lines of code in NodeJS.
+The rest service used express library with our own middleware tier to process requests.
+The web sockets used socket io so that machines can join particular data feeds and streams of data using a pub/sub and room methodology.
+The User Experience
+This experience was a custom designed and custom UX native mobile app which was geared around user’s goals. For instance, you might need to drink water five times a day or you might need to move more than a particular threshold. The iPhone app connects to the data feeds from the backend analysis directly on the web sockets when the app is running and via apple push notifications (APNS) when it isn’t. The mobile device receives notifications when you check in to the sensor (using the iBeacon), your temperature, movement and hydration which are shown in real-time within the app and actions performed such as when you take a drink so no need to touch the screen for it to be acknowledged.
+The Organisation Experience
+For this we went with a web UI built in ReactJS which consumed the websocket and REST services for data acquisition. This data was then delivered to the UI within graphs, floor plans and alert lists so it was easy to see what was going on.
+This means that an organizational health therapist can easily see at which desks people are located, their temperature and any notifications that are of concern. Examples might be a user drinking too much coffee or too stationary.
+The End Result
+The complete solution provides a comprehensive health system for an organization with benefits and motivations for both the individual users and the organization.
+In the 32 hours we built a mobile native app, web interface, electronic hardware and SAP HANA data model (with a custom built library on top).
+We are looking at taking this hardware forward and making it into a product and give everyone a chance to SMILE.
+
+Disclosure: SAP is a premier partner at time of writing and covered most of my travel costs for attending TechEd. Key tree gave us permission to repurpose this content.
+Read more on: Analytics planning and data analysisFuture of workHealthcare transformation 

@@ -1,0 +1,34 @@
+
+A topic floated past my desktop called: Getting started with WordPress on Bluemix. For those that don’t know,
+IBM Bluemix is a cloud platform as a service (PaaS) developed by IBM. It supports several programming languages and services[1]as well as integrated DevOps to build, run, deploy and manage applications on the cloud. Bluemix is based on Cloud Foundry open technology and runs on SoftLayer infrastructure. Bluemix supports several programming languages[2] including Java, Node.js, Go, PHP, Python, Ruby Sinatra, Ruby on Rails and can be extended to support other languages such as Scala[3] through the use of buildpacks.[4]
+via Wikipedia
+It all sounds wonderful. Think about it this way: IBM – great brand, IBM – massively scalable architecture, IBM – donkeys years development experience. What could possibly go wrong? Plenty.
+It quickly becomes clear that IBM is offering developers the opportunity to build their own WordPress. IBM Bluemix doesn’t natively support anything other than a small handful of plugins, none of which have anything to do with WordPress functionality. Now – those who’ve worked with WordPress for any period of time know a few things such as:
+
+It is the plugin architecture that makes WordPress so useful. Even if you only use a few of the thousands available, users can quickly get a very usable web presence running.
+WordPress doesn’t natively scale. If you are image heavy, have a lot of content and/or a good amount of traffic you quickly run into serious performance issues. That’s why services like WP Engine have emerged. WPE provides dedicated, managed WordPress hosting. They know the problems and offer scale out solutions to suit. They also protect you from running bad code.
+As a Content Management System (CMS), WordPress isn’t really enterprise class but it can be force fitted to achieve many CMS requirements.
+A good provider will offer you a testing sandbox for your WordPress implementation.
+There are many pay and go WordPress hosters out there. You don’t have to know anything to stand up a WordPress instance. You choose your plan, enter your credit card info and off you go.
+
+What does IBM have to say?
+
+After setting up a Bluemix account you have to go through a command line process to implement any add ons.
+Bluemix provides a clunky way of using plugins that add steps to the process you’d normally follow and at the command line.
+Each time there is a WordPress update you may have to manually regenerate the database.
+There is no mention of child theme support which does protect code changes when there are core upgrades. that seems very odd to me.
+It supports caching which should help with performance but it expects you to work with a specific (ClearDB) provider AND manage multiple database instances when performance becomes a problem.
+Additional ClearDB instances are an added, albeit modest cost, depending on scaling requirements.
+
+In short, for most WordPress needs for most customers, Bluemix is expecting you to regress to the kind of things WordPress sysadmins used to do back in 2005 or thereabouts and pay extra for the pleasure.
+Why would you go the Bluemix route?
+
+You need a bare bones WordPress engine to sit around a bespoke application that you both build and support.
+You work in IT for an IBM shop that has spare development capacity and need to specify IBM related services.
+You like managing databases, load balancing and performance testing.
+You think regression testing is the next new hotness.
+You are testing for the conditions that will require you to have a full frontal lobotomy.
+
+Beyond those five specific use cases (OK – I was kidding with the last one), I can barely imagine why anyone in their right mind would take a perfectly serviceable application with tons of ready made support and plugin functionality and still go the Bluemix route. That is even more poignant when thinking about developing at web scale. A more sensible alternative starting point in my view would be Hippo CMS on Couchbase run in an Amazon instance.
+More worrying in my view, IBM has missed a tremendous opportunity to reach an entire cohort of developers who want as much pre-built stuff as they can get their hands upon but want to experiment on extending the CMS boundaries for modern data capture, analysis and dynamic content serving.
+Read more on: CRM and customer experienceFrictionless enterprise 

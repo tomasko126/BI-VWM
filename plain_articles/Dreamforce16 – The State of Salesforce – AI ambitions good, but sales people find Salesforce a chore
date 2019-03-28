@@ -1,0 +1,59 @@
+
+Glen Stoffel
+One of the more recent traditions at Dreamforce is the publication of the eve-of-conference State of Salesforce report from Bluewolf. 
+Based on a study of 1,700 Salesforce customers worldwide, the report hasn’t always gone as well as it might with the mothership. Last year’s conclusions of muted take-up of Marketing Cloud, for example, were never likely to find much favor at Salesforce itself.
+
+That said, the headline finding of this year’s report is likely to be more welcome, specifically that poll respondents are ready to embrace the idea of more intelligent applications. That ‘smarter software’ meme has been pounded by Salesforce CEO Marc Benioff for the past year, culminating in this week’s focus at Dreamforce on AI and Einstein. 
+According to the Bluewolf study, customers not only buy into the concept of intelligent applications, but reckon that they’re already part of the way there: 
+
+Over half of companies surveyed described their most essential applications as intelligent, able to anticipate and take or suggest the next action. The best companies are focused on translating overwhelming collections of data into intuitive, automated employee experiences that, in turn, can power incredible customer moments. 
+
+Glenn  Stoffel, Vice President of Agile Business Transformation at Bluewolf, told me last week: 
+
+Customers seem to be ready for intelligent applications. With the study, we tried to get under the skin of how people feel about their most essential applications and whether they are intelligent enough to service their users. We found that companies that described their essential applications as intelligent are two times more likely to achieve their goals.
+
+Particular opportunity in the intelligent applications space can be found on the services side of an organization, where to date only 32% of respondents firms have invested in intelligent self-service. According to the State of Salesforce:
+
+For Service, intelligent applications can do the most to improve self-service offerings. 86% of companies believe their organization lacks intelligent, proactive self-service, whereby applications automatically answer customer questions without agent involvement…With 61% of Service saying their companies are increasing investments in analytics in the coming year, companies’ intelligent self-service offerings will be on the rise.
+
+ Bluewolf itself offers three steps that companies can take today to prepare for the coming Cognitive Era of computing. These are: 
+
+Supplement back office business intelligence tools with modern front office capabilities, like Wave Analytics, that support rapid analysis of data both inside and outside of Salesforce. 
+Invest in analytics capable of properly gathering and synthesizing unstructured data—companies will have a much larger pool of customer data to run through intelligent applications in order to make smarter business decisions.
+Apply tools with intelligent functions that can augment and automate discovery, make proactive recommendations about the next best action, and continue to learn which actions are working or not working. 
+
+Cultural challenges
+As well as the technology angle on this, there is a human factor that needs to be taken into account. One of the inhibitors to adoption of sales automation software over the years, aside from issues around clunky user experience, has been the ‘sales guy says no’. This is the mindset that says that the most important asset for a sales person is his or her rolodex and no piece of corporate software gets access to those smarts. 
+Now if that’s the attitude towards automation of the sales process, what price some uppity technology that reckons that it knows better than the sales guy? Stoffel concedes there are cultural issues that need to be accommodated when introducing innovative new tech into established corporate practices and processes: 
+
+As great an application as you can put together, the culture can still say no. People say no when they don’t understand what changes mean to them. When we start engagements, we make sure that the context doesn’t get lost. We want to understand the reality of the employee experience. ‘You’re going to tell me that machine judgement is better than mine?’ What matters is that you’re going to find that the machine helps your judgment, not that we’re going to usurp your judgement.
+
+Now for the not so good
+So that’s the good news that’s going to keep Salesforce sweet; the less good news is that more than 25% of sales people regard using Salesforce as a chore, with 27% admitting they only enter opportunity data into the cloud in order to meet reporting requirements. 
+In addition, while Salesforce CEO Benioff has been proclaiming his ability to run the company from his iPhone, sales people aren’t finding things as simple. Only a third (34%) of sales respondents reckon they can run an entire sales cycle from their phone or tablet.
+Their marketing colleagues aren’t much more enthused. The report states: 
+
+Today, only a fraction of marketers believe that Salesforce helps them automatically segment and market to the right leads; meanwhile, 34% use Salesforce for reporting or lead routing only. Disparate applications and bad data are preventing the majority of marketers from thinking beyond the basics of Salesforce. 
+
+Against all of this, there is the pursuit of innovation and the related issue of what might be termed ‘innovation fatigue’. Last year’s SAP UK User Group study, for example, is a good case in point – respondents acknowledged the promise of HANA and its potential, but insisted that they would be moving at their own pace towards that future, not at the pace set by SAP’s innovation agenda. 
+Stoffel says the key is to keep in mind the business impact, not the technology innovation: 
+
+You need to think about implications for the business. The thing that brings sanity and that allows you to relax and embrace innovation is that you have a business decision-making process that is tied to the systems. You need to be aligned to your customers experiences. 
+
+That extends to the role of the CIO, he adds: 
+
+The position the CIO should be in is not ‘nuts and bolts’ of technology, but about business outcomes. CIOs should be looking for solutions and change processes and be able to put the company in a position to execute on business strategy regularly and repeatedly. 
+
+What innovators look like
+Since last year’s State of Salesforce was published, Bluewolf was acquired by IBM. In a neat squaring of the circle, this brings us back to AI, in that this year’s study was compiled with access to IBM’s Watson tech. Specifically Bluewolf used Watson to come up with the top characteristics that define a Salesforce Innovator. These are: 
+
+Self-efficacy – individuals who strive for achievement through self-discipline, organization, and reliability and prefer planning to spontaneity. 
+Cautiousness – Individuals who are highly intelligent and wise, and plan towards their goals, staying focused on business outcomes.
+Intensity – Individual who can experience emotions and emotional stability, investing more emotion into their work and think about employees and customers, not just about technology. 
+Sympathy – individuals who are compassionate, well-tempered, and understand and relate to the feelings and emotions of employees and customers.
+Altruism – Individuals who are cooperative with a trusting and helpful nature with the result that employees trust them to have their best interests in mind.
+
+My take
+As always, an interesting read. There’s a lot more detail in the report than I have time to cover off here and I would encourage anyone with a stake in the Salesforce ecosystem to cast an eye over this year’s report. You can access it here. 
+One thing that I’d like to see change next year is that the report is currently too US-focused. Some 84% of respondents come from the US, followed by 5% for the UK, 3% each for Australia and Canada and less than 5% for the combined mass of France, Germany, India, New Zealand, Switzerland and ‘others’. As Salesforce itself pushes more aggressively into Europe, a more global picture is badly needed. 
+Image credit - Salesforce/CafePressDisclosure - At time of writing, Salesforce is a premier partner of diginomica. Read more on: Cloud platforms - infrastructure and architectureCollaboration sharing and digital productivityCRM and customer experienceHCM and the digital future of workIoT robotics and AIRetail e-commerce and the omni-channelThe new professional and IT as a serviceUX and application design 

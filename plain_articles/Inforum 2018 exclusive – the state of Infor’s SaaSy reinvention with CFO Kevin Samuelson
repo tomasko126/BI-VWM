@@ -1,0 +1,57 @@
+
+Infor CFO Kevin Samuelson has this much in common with other CFOs: he likes numbers. Especially the kinds of numbers Infor shared at Inforum 2018:
+
+
+8,881 customers in the Infor cloud
+33 percent growth in SaaS revenue
+77 million subscribers in the Infor Cloud
+
+
+During the press Q/A after Infor CEO Charles Phillips’ keynote, Samuelson took it even further:
+70 percent of our (cloud) customers are multi-tenant.
+During our sit-down, I doubled checked: yeah, Samuelson meant cloud customers. But 70 percent multi-tenancy of all cloud customers is not too shabby (and yeah, we care about multi-tenancy in some form at diginomica – here’s why). That means Infor has kept the lift-and-shift customer cloud moves down. That challenges customers to standardize for future benefit – something that Infor investor (and customer) Koch Industries addressed head-on during their keynote segment, and in their customer presentations.
+Samuelson shares the cloud numbers
+He started at Infor during its inception in 2002, helping to grow the revenue from 30 million to $3 billion in ten years. He was around during most of the acquisition frenzy, left for three years in 2013 in favor of SaaS startups, and returned to Infor in 2016 because the Mount Everest of enterprise modernization is a heckuva hill – one worth staking your career on.
+So, Mr. Samuelson, about those numbers. Can to share any more?
+Our total company growth last year was a little over nine percent… Our SaaS business grew just below 40 percent. We’re about a 600 million dollar run rate.
+Samuelson contends there is another Infor difference: SaaS ERP is the driver.
+It’s a lot of ERP. A lot our competitors were selling other applications in the cloud when they built their cloud business – and are still struggling with how to ERP into the cloud.
+Infor’s vertical ERP report card
+Infor’s cloud strategy is tied to industry. So which industries are Infor’s big winners to date? Here, Samuelson has seen surprises – especially in the public sector.
+
+Healthcare – “Healthcare was very quick to adopt.”
+Public sector – “It is very rare that we ever sell on-premise. That’s been a surprise to me. I thought they’d be late adopters, but I think the cost savings message resonates there more than I would have guessed.”
+Retail – “When we tend to do retail, we don’t go in it generally to replace one system. Companies are doing pretty big overhauls just to stay competitive. That’s massively oriented toward SaaS.”
+
+One historically slow adopter? Manufacturing:
+It’s just in the last couple of quarters that we’ve started to develop a lot more momentum there. But I think those are much more complicated problems we’re solving, so cloud-enabling the products was harder.
+As for Infor’s uncharacteristically aggressive push from legacy customers to multi-tenant customers, a back and forth:
+Jon Reed: Some of your competitors say, “Oh, whichever deployment option you want, you can deploy – on-premise, private cloud, etc.” But you guys are like, “Yeah, you don’t have to do multi-tenancy, but you know what? It will cost you more.” And it’s not just charging more, it’s also educating them to the fact that the cost/benefits don’t add up the same way.
+Kevin Samuelson: This is where I think competitively we’re very differentiated. Instead of building one platform we built multiple different platforms that are very industry specific… So the notion of switching I think is less cumbersome for our customers. Most of our competitors have gone out and written an entirely new SaaS platform that has no relationship to the older on-premise platforms. And it’s not built for any specific industry, so the leap from going from a massive on-premise system with all sort of customizations to plain vanilla is a much larger leap than it is for our customers.
+But wait: doesn’t maintaining five industry-specific SaaS platforms invoke development expenses? Short answer: yes.
+I do think we spend more in R&D as a result. If you think about it we have basically five SaaS platforms – five completely different SaaS ERP systems that we’ve had to completely rewrite, each of which serves a subset of industries. So it’s a lot of functionality.
+The power of cloud HCM
+There’s another big piece of the Infor play: pushing integrated HCM. During his keynote, Charles Phillips devoted considerable time to making the case that HCM is ripe for data science disruption. And: integrating HCM with vertical ERP is powerful. That’s a different message than many cloud ERP players, where HR is either an afterthought, often outsourced to a partner. So why is Infor making this cloud HCM push? It’s about data integration:
+If you buy our HCM system with CloudSuite, with Birst, with our asset management system. Those are all out of the box, single sign on; it feels like you’re in one platform. All the data integration already exists.That ability to have that unified experience, but also have that unified data integrity, so that you can actually use and run processes across systems.
+HCM in isolation is interesting, but gosh, with all that other data, then it becomes really compelling. The same is true for each of those other systems.
+Fair enough – but acquisition turnabout is fair play. How is that Birst integration going?
+I would say we’re fifty percent of where we want to be. The actual integrations are in decent shape. I think ultimately we want Birst to be the context analytics engine for the applications themselves.
+Infor sees a huge potential in embedding Birst into their “context architecture,” meaning users will interact with that data on all CloudSuite screens – with Birst analytics running on top as well. But integrating Birst into Infor applications at the native level is a work in progress.
+In a buying mood?
+Speaking of acquisitions, a CFO is usually knee deep in those. So – any scoops for diginomica? Any plans to spend some of that Koch Industries cash on a fresh buy? Samuelson didn’t take the cheese:
+There’s always more we need, for sure.
+Might as well pry – what else, specifically?
+We love anything industry-specific that takes us deeper in our verticals. We love those opportunities. I’m thinking about the theme of this show. Anything that takes us deeper into analytics as well, that helps us to flesh out conclusions and ways to help our customers is really interesting. We’re always looking. Koch’s been a phenomenal partner and very supportive, so we’re in a good spot.
+My take
+In the context of all that good news, I couldn’t help being a fussbudget. I pressed Samuelson on Infor’s biggest challenge. He didn’t mince words:
+I think our biggest challenge is our brand. Which is strange for a CFO to say, but nobody knows who we are. I think if we get more at-bats we tend to do very well.
+Or, I added, when folks know about Infor, too often it’s the perception of a legacy ERP holding company. Eight years into Phillips’ tenure, that’s nowhere near the story today. Still, Samuelson conceded the Infor brand could use what I call sexiness. Progressing the Coleman AI platform and HR data science are two ways Infor sought to shift that narrative at Inforum. Years ago, Infor raised the enterprise UX bar via the design chops of their internal Hook & Loop agency. But it’s not just about UX anymore. Samuelson:
+That’s right. That’s the story of this Inforum. It’s the look and feel combined with the access to all sorts of data and all sorts of systems and being able to turn them into something actionable, in the cloud and a multi-tenant cloud. I think that’s our very unique story right now in the IT market. I’m not sure who else can tell the story as solidly as we can.
+The “context architecture” Phillips showed off in his keynote struck a chord. The future of SaaS ERP is about embedded analytics and collaborative chats/actions on those numbers – right alongside the transaction screens. As far as I know, what Phillips demoed isn’t in general availability yet, but Infor has a potentially strong play there with the combined force of Birst and Ming.le, their team collaboration platform.
+Infor did a good job of showcasing the Koch Industries’ “drinking their own champagne” on CloudSuite. Samuelson also shared lessons from Infor’s own CloudSuite transition with me – something I may relay in a future piece. But if 2018 was the year that Infor showcases a complete enterprise vision, next year is the proving ground for customers picking up the rally cry.
+For whatever reason, I consistently struggle to get CloudSuite 1:1 customer interviews while on-site at Inforum. That’s a real shame, because there are some good CloudSuite customer sessions (I crashed a couple of them and wrote about one of them). But: while those customer sessions are instructive and clearly have go-live benefits to show for, they aren’t the kinds of advanced business and data benefits we all want to hear from SaaS ERP customers. At least not the ones I’ve found at Inforum. And I have an “always open” policy to Infor if they have more for me now.
+That problem isn’t Infor’s alone; figuring out how to change business models and act with insight on modern ERP isn’t easy. Most ERP vendors struggle to give me more than a couple of these mature cloud ERP benefits stories. I would challenge Infor to make sure those kind of business benefits stories are on full display at next year’s Inforum.
+Samuelson insisted to me that there are plenty of great ones – I can only judge by what I am given and what I can find. Ultimately, the customer is the true proof point of organizational change. Samuelson summed it up:
+We’ve got to keep executing and change people’s perspectives.
+That’s a full plate for Infor to work on.
+Image credit - Photo of Kevin Samuelson at Inforum 2018 by Jon Reed. Disclosure - Infor paid the bulk of my expenses to attend Inforum 2018.Read more on: Cloud ERP financials and supply chainFinancialsHCM and the digital future of work 

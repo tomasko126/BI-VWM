@@ -1,0 +1,49 @@
+
+One of the best parts of attending Everett McKay’s UX design class was learning how he approaches design simplicity. We’ve heard plenty on the virtues of simplicity in Enterprise UX, but not enough about the tradeoffs – or how to make it a design reality.
+McKay also has sharp views on the personas debate (when they work/when they don’t), influenced by what he saw firsthand at Microsoft. (You may want to also check out the first part of this feature from last week, Enterprise UX is communication – beyond UX cliches).
+A simple UX – not simple to achieve
+McKay began the “Make it simple” section of his course with a definition of design simplicity: “Simplicity is the reduction or elimination of design elements that target users are aware of and consider unessential.”
+But that definition is loaded with challenges. Designers tend to get a bit carried away with aesthetic touches. McKay counters that with a quote from Alan Cooper: “No matter how cool your interface is, less of it would be better.”
+We learned this the hard way at diginomica before a radical pare-down of our initial interface. As Den Howlett put it at the time, ‘Love it or hate it we realized a long time ago that pretty pictures and a slick design don’t do it for the buyers we want to reach.’
+But it’s the “unessential” aspect that’s the kicker – too often, a dramatically pared-down design buries or eliminates functions we rely upon (high on my own list: the Windows 8 “Start menu” brouhaha). As McKay says, “Removing the essential isn’t simplicity, it’s bad design.” Or, as Albert Einstein said, “Everything should be made as simple as possible, but not simpler.”
+Here’s McKay’s slide on why design simplicity matters:
+
+Image used with permission of Everett McKay. This content is available in his UI is Communication book.
+McKay recommends the following simplification techniques:
+
+Image used with permission of Everett McKay. This content is available in his UI is Communication book.
+My personal fave is “detail on demand” – the most effective designs might be complex, but they shield that complexity, revealing it only when needed. (If you’re curious on terminology, here’s more on design constraints and controls/natural mapping).
+Weighing in on the personas debate
+In UX circles, the value of researching and creating personas has been subject to considerable debate. McKay experienced the challenge of using personas firsthand while on the Windows team at Microsoft. As McKay told our class, Microsoft invested heavily in personas for Windows Vista, but phased them out completely starting with Windows 7. McKay isn’t backing away from the value of personas, but he has some caveats:
+
+Keep persona definitions simple – a page or two of bullet points at most for most projects. “At Microsoft, the Windows Vista team had 20+ page documents for each persona,” says McKay. “That was just way too much detail, so few people bothered to read them.”
+Focus the persona on the specific feature you are designing. “The only purpose of personas is to help your team make better design decisions. If an attribute isn’t relevant to making decisions, get rid of it—it will only get in the way,” says McKay. “If you’re designing a search feature, for example, focus the personas on how your different target users perform search. That’s all you need.”
+Don’t bog your personas down with hobbies and off-topic interests. It’s common to use a first name and a photo for each persona. But beyond that, McKay cautions against adding extraneous human touches: “Many people include personal details in their personas like hobbies, or what I like to call the ‘4 Cs’: details about the persona’s children, coffee, cars, and cats. But unless these details shown influence design decisions, the personas are more practical without them.”
+
+McKay concludes: “I have noticed that developers especially hate being asked to use personas with such irrelevant personal details. Using simpler, more focused personas will help get your developers on board.”
+All software has a personality – avoid the hostile side
+If Enterprise UX is communication, then the logical extension is McKay’s view that “all software has a personality.” In our podcast, we got into how software tends to reveal a very hostile side of that personality when errors occur. Often, the error messages come with “life or death” language, and nuclear warning symbols that ratchet up the absurdity. McKay:
+On the developer side, we have a history of extremely harsh language. So we use terms like, “Catastrophic, abort, terminate, kill.”… It’s not a big deal at all, but the error message looks like we’re on nuclear lock down. It’s just a horrible visual experience, and the text is horrible as well.
+I’ve picked on Microsoft a bit, but here we have a classic example from Apple of using bomb imagery for an error:
+
+McKay showed our class several examples of a better “software personality”. When one strays off the happy path with WordPress, you won’t see a lighted fuse. Instead, they throw “Matt” under the bus:
+
+Perhaps it’s not a perfect example; refreshing the page without other possible resolutions isn’t all that satisfying, but at least the error message has an informal, “we’re all in it together” context.
+Wrap: next UX move for enterprises – start training
+I’ve run into plenty of companies that lack UX resources. So if you want to bring UX design sensibilities into your shop, where do you begin? Hire an outside agency? Recruit a UX expert? McKay believes it should start with training, including UX training for developers:
+As someone in the training business, naturally, I think that training teams in UX goes a long, long way. Even though there’s a lot of companies trying to get serious about UI design, the reality is that their design staff is relatively sparse. So you might have a team of a hundred developers, and you might have a usability team of five people.
+It’s very difficult for a team of five UX professionals to scale to a hundred people. It’s just really hard to do. So a lot of my best customers are recognizing this, and they’re having me train their teams throughout the world. I think developers are more likely to embrace the idea of a great user experience if they understand why it’s important, and how to do it in a very objective way.
+McKay doesn’t think it’s realistic to hire the number of designers needed to handle all the elements of good UX. But he does think that rolling out UX training, and developing a set of guidelines around that training, is viable. With this approach, design is built into the development process, experts are freed up to have the most impact, and good design can scale:
+If everybody on the team knows how to write a good error message, a designer doesn’t have to deal with that. It’s not realistic to have a designer, or even a writer, design every single error message, but if we have a good set of guidelines, and we have people on board with what we’re trying to do, we can scale that a whole lot more efficiently.
+So that’s kind of the thing that I see my customers wanting to do: get their teams to adopt more design thinking in their process, embrace it rather than oppose it, and know enough so that we can scale our very limited scarce resources a whole lot more efficiently.
+That’s a good note to wrap on. I hope you’ve enjoyed this two part series – I’ll return to UX topics in the future, so please drop me a line if you’ve seen something in the field worth covering.
+Here’s the embedded version of my UX podcast with McKay:
+
+(You can download the podcast also, on my Busting the Omnichannel page)
+This article is part of a ongoing series I am writing on Enterprise UX and the highs and lows of mobile app design.
+
+
+Image credits: Slides and book excerpts from UI is Communication are used with the express permission of Everett McKay, all rights reserved. McKay photo by Jon Reed. Feature image: keep it simple © Marek – Fotolia.com.
+Disclosure: I have no financial ties to Everett McKay or UX Design Edge, and I funded the trip to Atlanta for family reasons. McKay provided me with a complementary one day attendance to his class for the purposes of this article content.
+Updated with a few clarifications on March 23, 11:29 am.
+Read more on: Frictionless enterpriseUser experience 

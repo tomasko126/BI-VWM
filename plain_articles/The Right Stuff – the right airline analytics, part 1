@@ -1,0 +1,52 @@
+
+“Wow, I just didn’t know you felt that way about me?!” That’s an expression some people hear when their significant other is breaking up with them. People say this because there has been a BIG disconnect between how one party ‘sees’ the relationship versus the other party’s perspective. Businesses and customers are two groups that often have this same problem. How businesses ‘see’ their customers can be quite different (or at odds) with how customers see them. This is certainly the case in the airline industry.
+Airlines just don’t see us. While we know we are frequent fliers (e.g., I’m closing in on a modest 4 million miles with American), air carriers see us as undifferentiated, interchangeable passengers. They use language like this to describe us:
+
+Load Factor
+Revenue Passenger Miles
+Seat Miles
+Enplanements
+
+If you think about it for one moment, it’s not hard to imagine that these measures are all about the impersonal you as it impacts airline operations. None of these measures have anything to do with me as the passenger. I suspect airlines are not used to ‘seeing’ us in any detail or nuance. I believe they lack the RIGHT analytics that shine an insightful light on how we perceive them. Like any good analytic application, there should be insights, projections, suggested recommendations, and learnings.
+But airlines also fail to understand us as they seem to ignore our history and our interactions with them. They treat each flight as a distinct event and ignore all prior and future flights when compiling their de-personalized statistics. Consider all the ridiculous surveys airlines send us after each and every flight segment we complete. I hate these. It doesn’t matter how many times we tell them that the seats are too narrow, the rows are too close together, there is no food, etc., they never fix any of the issues that matter to travelers. If they actually read these survey responses, they might do something. But they don’t. Your last flight is ancient history.
+What they do with this data, I guess, is to see if the number of people who complained of cramped seating changed on this flight or not. If the number is unchanged, then no further action is required on their part. It’s a particularly unique and perverted logic, to be sure, but it must be the way air carriers think. A problem doesn’t get fixed unless it is getting worse.  Their continued lack of progress on solving known problems must be massively frustrating to many flyers.
+Do they know how long we’ve belonged to their frequent flyer program and why our flying history with them has varied so much over the years? No, they don’t and, worse, they don’t care.  A lack of historical analysis is but one of three major areas airlines would benefit from additional understanding. The others are expectation management and empathy.
+Historical analysis
+
+I’ve flown a lot. I’ve been a member of the American Airlines AAdvantage program since 1987 and United’s Mileage Plus program since 1988. I’ve also accrued plenty of miles on dozens of carriers including plenty that no longer exist.
+Mixed in all of that history are insights that airlines could mine.
+My flights with American (see image above) included a large and growing number of international flights until around the year 2000. Since then, I continue to fly a fair bit internationally but have chosen to skip using domestic carriers for international travel.  I used to fly United a lot into the Pacific during the 1990s, too, but don’t fly them overseas anymore either. Has anyone at either carrier ever called or emailed to find out why? No.
+American probably thinks I’ve slowed down on my flying (I haven’t) and simply thinks I’m happy as a Platinum flyer that rarely gets an upgrade or any other perk.
+An historical review of my United flying would even be more illuminating.  While I am Chicago-based, like United, I don’t fly them much. However, there have been years when I’ve flown them a lot. I was once a 1K and in 2014 I was a Silver Premier flyer. But in most years, I have little or no status on United.
+If United had a more comprehensive view of my flying history, they’d see that:
+
+I fly a lot
+I fly a lot more on other carriers
+I swing from little-to-no flying activity to large amounts of flights on United
+I used to do a lot of international travel with them
+I seem to drop them in the intervening years
+
+Creating historical (or backward-facing) analytics only tells part of the story though. What airlines also need are projections and recommendations. They can get these via the use of internal and external data stores and technologies that marry the diverse data points together.
+Dark data
+The best clues for airlines may be found in the ‘dark data’ they collect but don’t seem to use or use well. For example, if airlines ever read and recorded all of the flight survey data, complaint letter content, improvement suggestions, transcriptions of calls to their customer service desks, etc. they’d see patterns emerge.
+I’ve written numerous times to various airlines about a variety of issues. The complaints around failings in their upgrade availability, award availability and inconsistencies in their partner programs are frequent and consistent issues for me. If a carrier is not getting much business from me, the clues are all there in those communications.
+The problem may be in the way they look at data. I suspect they don’t get very granular. They may be looking at data across large numbers of flyers instead of parsing it into personal slices.  They need to understand each kind of flyer, why they do/don’t fly with them, etc. By focusing on aggregated daily statistics, they see you or me as no different to someone’s Aunt Fern who only travels when someone dies, gets married or is taking a vacation. That’s not analysis – that’s a formula for financial ruin. Analytics (and related technologies like data visualization) can provide detailed, personal insights.
+Airlines can’t be everything to everyone. They need to pick out one or two market segments and focus on them. Some carriers try to be the low cost leader but as retailers will attest, the race to the bottom will only lead to one low cost winner and a many failed competitors. Today, there really isn’t much differentiation in airlines. They’ve lost their focus. Is any domestic carrier focused on business travelers? Nope – not a single one. Analytics would help carriers understand how well they are zeroing in on their target markets.
+Right now, I can hear airline marketers howling. They think they target corporate accounts and have deals to back up that assertion. These are pricing agreements – they don’t have programs and in-flight experiences that make travel more productive for the business traveler. If they did, we’d see:
+
+Few-to-no children sitting in first class
+Flights where people can be productive (i.e., seat backs that can’t recline into another passenger’s laptop, ample legroom, adequate shoulder room, ubiquitous electric power and wi-fi access)
+Upgrades and award travel only available to people who flew the miles (not acquired points via non-flying activity by people who apply for credit cards, refinance houses, buy cars, send flowers, etc.)
+No business flyers in the back of the bus
+Better business flyer accommodations on popular business travel city-pairs
+
+So the first priorities air carriers must address are:
+
+Broaden the definition of a customer to be more than a passenger
+Create analytics that focus on the frequent flyer not just on their employer or travel management entity
+Harness the dark data they already possess
+Supplement this data with externally sourced big data
+Access scalable cloud technologies that can scale, process all of this data and aren’t as constrained as their current systems
+
+In the next part, I dig into some results from my travel analysis to discuss what the data is telling me.
+Image credit - story graphic, via the author, story image via Sony Pictures, featured image via SabreRead more on: Analytics planning and data analysis 

@@ -1,0 +1,53 @@
+
+I recently checked in with a number of financial software executives and customers this month. Here are some of the highlights of those interactions:
+
+ERP vendors have made financial applications a focus again – Tom Bogan, CEO of Adaptive Insights, pointed this out to me in a recent call. But, I know that the focus is clearly there just judging from the number of webinar and speaking requests I’m getting. SAP is clearly making a big push with this especially now that they’ve got HANA underpinnings under all of their product lines. Lots of older on-premises ERP and the financial applications within ERP are quite ancient now since many were installed in the years leading up to the Y2K change. However, this is a trend that is going to disproportionately benefit cloud solutions as more and more buyers are looking to a different delivery method for next-gen software.
+
+Just one proof point on this is a CIO luncheon I attended in Indianapolis two weeks ago. The topic was ERP and most every CIO was looking at a replacement project in the very near term. One executive stated that her firm just finished a 3 ½ year implementation of a major on-premises solution.  At that moment, almost all of her colleagues let out a loud, collective and clearly sympathetic groan. They were feeling her pain.
+The other thing I learned is that many CIOs need/want ERP with both strong back office AND vertical functionality. They’ll accept a private cloud or hosted solution if the suite is tightly integrated and a better functional fit than the bubble-gum/bailing wire mess they have today.  ERP vendors with strong horizontal apps but weak vertical functionality need to pay attention. Also, resellers that sell vertically enhanced versions of horizontal suites need to ramp up their marketing efforts now while businesses are in a buying mood.
+
+RevWreck/RevRec is a big thing and will get bigger over 2017 – The clock is running on the need for firms to be compliant with new revenue recognition standards. These requirements affect firms differently with those having complex, multi-part/multi-solution contracts more greatly impacted. I’ve already completed several webinars on the subject for financial vendors like FinancialForce, Workday and others. If your firm hasn’t assessed its exposure, do it NOW! You might even find out that your firm will need newer financial software (especially a new revenue management module) to be compliant.
+
+
+Digital is HOT, HOT, HOT – Yes, the digital exhaust from smartphones, sensors, etc. is creating oodles of data but it’s still quite rare to see firms marry operational, financial and big data into a single view. Adaptive’s Bogan and I discussed this (his firm does have a couple of interesting clients that already do this). The key to this discussion is around how financial analysis will need to happen in in-memory databases to take advantage of the speed and scale these systems must deliver.
+
+
+Industrial IoT data and Finance aren’t talking yet – There are two kinds of Internet of Things (IoT) data: consumer and Industrial. My consumer smart doorbell only pings me when there’s activity at my door. But a sensor on an industrial item (e.g., machine tool or jet turbine engine) is constantly sending data. Industrial sensors may generate years’ worth of data that merely reports a normal operating condition and that no follow-up is needed. The ERP demos I’ve seen of late have ignored the Industrial IoT or presented some pretty lightweight applications. Lots of additional research is needed here to bring Financial reporting and Industrial IoT data together in a more meaningful way.
+
+
+Cloud is directionally where it’s at – Even some channel partners at Acumatica’s event this week volunteered to me that “vendors haven’t been building software for on-premises for years now”. I even had a client COO tell me that last year, too! It’s finally sinking in with buyers and sellers of software that if you want newer software, it’s going to be cloud-based. Now, can we end the cloud vs. on-premises debate?
+Early cloud pioneers are getting a tarnished reputation – While we love to speak of the software pioneers in reverent, adoring tones, I’m certainly hearing more and more griping from CIOs and others regarding the over-the-top price increases, high per-user fees, etc. that many early cloud adopters are being asked to stomach. Newer cloud vendors are acting a lot less greedy and happily converting these disenchanted/disenfranchised customers to their fold. One major CRM vendor may really want to develop a “Lite” solution as many mid-market and smaller firms just can’t justify the prices charged against the value delivered to their firms. Likewise, I’ve heard smaller companies being shocked at $300,000 initial implementation estimates for new cloud financials when the annual subscription cost is less than $30,000. Whether it is the initial subscription cost, annual price increases, aggressive user pricing and/or implementation fees, customers do have choices and they seem to want value more than just the opportunity to go with an early cloud firm. While the fictional character Gordon Gecko opined that greed is good, it can also be damning when customers have choices.
+
+
+The NetSuite/Oracle deal has everyone talking – It seems everybody has an opinion or theory about this deal and its implications. I’ve heard from past clients, NetSuite competitors, fellow analysts, channel partners and others on this. Is there a consensus opinion? Kind of. Many people see Oracle as a firm with a long running competency in acquiring firms, redeploying some of the combined firm’s workforce, cross-selling the solution into existing accounts and using the new technology to open up new markets or territories. I believe Mark Hurd of Oracle has already confirmed most of that. (See Den’s recent update from Mark Hurd)
+
+Post-acquisition, there are often lots of rumors/speculation and competitors sure like to fuel this. In recent weeks, I’ve seen several software executives go out of their way to describe competitive wins against NetSuite. Alternatively, I’ve heard NetSuite resellers/software partners express optimism in a new or continued relationship with NetSuite/Oracle.
+Time will tell and it’s just too early to know exactly how this deal will eventually play out. Some things are fairly certain though:
+
+Oracle’s purchase of NetSuite has breathed new life into the SAP Business ByDesign suite (see: this recent SAP story)
+Traditional NetSuite competitors are quietly concerned with the prospect of dealing with a bigger, global competitor
+Taken together, many NetSuite competitors are going to face increased competition from both SAP and Oracle – that makes the competitive space much tougher
+
+
+Blockchain: Way early in the hype cycle but popping up a lot – Accounting academics are all over this as it really draws into question what an auditor needs to do if transactions are already validated via blockchain technology. Financial software vendors are only now starting to get hip to blockchain although some may support a related but different concept: crypto-currency. At best, you’ll see some experimental/skunkworks demonstrations of this at Finance/ERP user conferences but full-blown functionality is a ways off.
+
+
+CPM/EPM is trifurcating – Like core financials, the move to the cloud has caught up with the Corporate Performance Management (or Enterprise Performance Management) space. Customers have always had several on-premises CPM/EPM solutions to choose from with many of those products ported over to (mostly single-tenant) hosted cloud solutions (the initial bifurcation). Then, these cloud solutions cleaved into single or multi-tenant solutions (a further bifurcation). These cloud solutions were built on traditional relational databases though and that was fine until these products had to also support operational, dark and big data. This requires a new architectural turn for the cloud CPM solutions: In-memory backbones. As a result, prospective buyers can now get low data on-premises, low data cloud and big data cloud solutions. Readers should expect a lot of noise from the likes of Anaplan, Adaptive and others on this new evolutionary adaptation.
+
+
+Papa’s got a brand new bag and Anaplan’s got a new CEO – With apologies to the late James Brown, Anaplan’s CEO should be inheriting a pretty decent product line and a company that’s booked a lot of name brand customers. For all CPM/EPM vendors, you can expect ERP and financial firms like Workday (via its new-ish CPM functionality), Oracle (via Hyperion), etc. to really ratchet up the competition. Increased competition should spur more innovation in the space (and that’s a good thing for customers).
+
+
+The SMB market needs love too – I also spent time recently with the folks at ZOHO and Acumatica. This is a space that often has champagne tastes and, unfortunately, beer budgets. I’ve written a lot about ZOHO’s low cost structure lately and a recent analyst meeting further confirmed their approach. Honestly, I don’t know how most major ERP/Finance vendors could ever compete against firms like ZOHO unless they radically altered their technology stacks and go-to-market strategies. (for more on ZOHO, see Den’s recent piece)
+
+Growth at ZOHO appears to be continuing at a good clip but their private firm status and their desire to keep many data points internal makes this tough to verify. Acumatica’s growth is bit easier to quantify as it has annual partner/customer conferences. One only needs to see the growth in new partners and customers in attendance to understand the trajectory of the company.
+There are two things I like directionally with these financial/ERP solutions:
+
+The sheer functional power of these products is getting quite impressive
+The cost of these solutions vis-à-vis delivered functionality may represent high value to customers
+
+
+Partners/Resellers are Evolving – For many years, I would hear of vendors fighting with and cajoling their partners to embrace cloud versions of their solutions. At times, it looked like the Luddites vs. Industrialists. Today, partners and resellers get it – they truly seem to be on-board with the cloud now.
+
+And, on that positive note, let’s adjourn until the next update…..
+Image credit - via free imagesDisclosure - Acumatica is a premier partner at time of writing and covered most of the author's travel costs for attending the event as did ZOHO. FinancialForce, Workday, SAP and Oracle are also premier partners at time of writing. Read more on: Analytics planning and data analysisCRM and customer experienceFinancials 

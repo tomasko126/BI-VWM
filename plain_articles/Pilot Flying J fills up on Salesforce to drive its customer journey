@@ -1,0 +1,42 @@
+
+Sixty years since opening its first gas station in 1958 and still family owned and run, Pilot Flying J has grown to become North America’s largest network of roadside travel centers, offering fuel, convenience stores and dining to motorists and truckers alike. Like any established retail business, it’s now engaged in a program of digital transformation as it replaces a heritage of legacy IT systems.
+Its new systems are designed to put the customer front and center, says Tyler Tanaka, Director of Digital, Loyalty and Innovation:
+For us, the real transformation is, instead of looking at technology from just running the business, and just increasing profitability and margins, to look at technology that serves the guest first, and serves our customers first. And being able to provide utility to them at a much faster pace than we previously were able to.
+The new system revolves around a Salesforce implementation, with new rollouts of Service Cloud and Marketing Cloud, alongside an existing Sales Cloud instance. Under the covers, there’s been a big cleanup of legacy data to bring it into a single enterprise data warehouse and then mastering it to provide a foundation for the new system.
+Driving the customer journey
+The first results in terms of business impact came after moving the mastered data into Service Cloud and Marketing Cloud, which enabled faster resolution of issues raised by customers — or guests, as they are known within the business. Tanaka explains:
+After about three months of Service Cloud going live, the first thing we were able to do was to connect Social Studio back to Service Cloud.
+A real case example would be, our guest services team used to be informed via email of potential problems through social channels. Now our social team is able to create tickets, and create cases, because Service Cloud and Social Cloud are connected.
+We’ve got one picture of where the guest had a problem, what he might have said on Facebook, and then be able to provide resolution.
+The next step will be connecting more than 1.4 million active loyalty members into Email Studio, which will make it much easier than before to tailor marketing campaigns and personalize communications.
+To efficiently email all of those loyalty members, we used to have to manually create spreadsheets and upload them. It’s unwieldy. So now, being tied to the contact records, we’re able to segment, we’re able to create custom audience groups, we’re able to intelligently track opens, intelligently track clickthrus, set journeys, create journeys and automated journey maps.
+It’s quite remarkable when you don’t know what you don’t have — the power that gets unlocked.
+Finally, the project will integrate these new systems with Sales Cloud, which is already up and running as the sales CRM.
+All on the Salesforce platform
+There’s already been a big increase in call handling efficiency, with the number of different screens and systems agents have to log into cut in half from twelve to six. “There’s still work to be done, but half is amazing,” says Tanaka.
+To have screen pops automatically bringing in fields and records, connecting to new ones; to have interactive voice systems built into Service Cloud; having all the APIs done to bring in loyalty information for the guest, connecting all the single sign-ons through all of our systems … It’s very difficult to put a dollar figure on that, but imagine the time savings and the employee work improvement, just the environment that they have to work in is so much improved.
+The pain, every day, of logging in, getting kicked out, having to re-log in, it’s hard to imagine that we would’ve kept creating those as more and more systems need to be engaged with. Combining it all into Service Cloud has been a huge step for us.
+But it is on the customer-facing side where moving to a single platform will deliver the greatest value, Tanaka believes.
+I’m most excited about real time communications to the guest.
+Using all of the connectivity to take action and communicate and engage with the guest as soon as they drive on to the property, or when we see them walk into the store. That’s only possible because Marketing Cloud and Service Cloud are connected and unified through our loyalty system.
+To me, that’s where the sky’s the limit … Just developing a one-to-one relationship with the guest.
+Freed from legacy IT
+Moving to the cloud is a welcome change too, because it frees the business from legacy IT that can’t be adapted to customer needs, he adds.
+One of the other big parts of the digital transformation is that we are moving from build to buy — build to subscribe. So, stop reinventing the wheel, and stop building things that are outdated and have no update or upgrade path after two years.
+Just stop that. Make an investment, make the commitment to something. I feel Salesforce has been a very good choice.
+Some existing systems will continue in use. For example, the point-of-sale system that truck drivers use for diesel fueling runs on a completely different, account-based billing system than a traditional credit card transaction. Truck drivers may have to enter several different data points for security reasons, and then the price may vary according to time of day, location and customer.
+Those are all being authenticated and verified through our payment switch in real time. The point-of-sale and our billing structure and billing architecture has to accommodate and facilitate all that.
+The key for us is that, connecting all of that guest data, that he’s getting through using his loyalty card or his billing card, and then moving that into Service Cloud so that we can actually take action.
+Deloitte adds retail experience
+Systems integrator Deloitte has been a close partner with Pilot Flying J, both in the data mastering project and in the Salesforce implementation. Tanaka values the broad retail industry experience that Salesforce and Deloitte are each able to bring to the table.
+We’re just starting on this journey, so all the work that massive clients have already forged with Salesforce and with Deloitte, we get to reap all the benefits.
+So all the product enhancements, [for example] Salesforce doing a deal with Google for analytics integration now with Marketing Cloud. I’m sure somebody said, ‘We need that, you have to figure that out.’ And then I benefit.
+Very much like all the retail experience with IoT or RFID that Deloitte has done with Adidas stores, I will get to be the beneficiary of that without having to make any investment whatsoever. Their experience of deployment, that’s really important. Plus we get to eliminate any painful lessons that instead of going through yourself, they’ve already navigated all of those.
+Knowing where you’re going
+It all means a lot of change for the business, which has also been migrating to a new HR system in a separate project which diginomica wrote about in 2015. In any transformation project on this scale, communicating the overall goals is an important factor in ensuring success, says Tanaka.
+I feel the burden is on us, as digital innovators, as digital leaders, to do a good job of sharing the compelling reason and vision, with the executive leadership.
+I think if you can clearly communicate the difference that it’s going to make in the future — if you can clearly communicate that future vision statement, and see what’s possible, I think all the technical difficulties of sorting out the organization just fall into place.
+We can move and pivot in different directions, but the North stars are really guest-first utility, and focusing on a one-to-one relationship anywhere that we’re interacting with the guest.
+I think people find it comforting that it’s not a complicated strategy. It might be really hard to do that, but you just put your head down. Once you know what the destination is, you just work hard, work the line and try to figure that out.
+
+Image credit - via Pilot Flying JDisclosure - Salesforce is a diginomica premier partner at time of writing. Deloitte arranged my meeting with Tyler Tanaka, which took place during Dreamforce in November. Read more on: CRM and customer experienceDigital and content marketingRetail e-commerce and the omni-channelUse cases 

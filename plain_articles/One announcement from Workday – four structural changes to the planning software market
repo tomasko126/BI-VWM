@@ -1,0 +1,51 @@
+
+Workday recently announced a cloud-based budgeting and planning tool that will be a native, fully integrated solution for both its financial and human resource applications. I’m glad to hear this. It changes a lot of things.
+Den Howlett and Phil Wainewright did a nice tag-team job on writing up the who, where, what, etc. of the announcement and I strongly encourage readers to see their take on it.
+I believe this announcement is actually a bigger deal though and I’m suggesting there are several important market consequences to follow from this product line extension.
+Before I get to my remarks, here’s what Adaptive Insights Founder Rob Hull told me when I saw him last week:
+“For Adaptive, Workday’s announcement is further validation of the incredible demand we’re seeing from finance professionals for modern cloud financial planning, from mid-size to enterprise, and the transition from traditional CPM apps like Oracle. As the role of finance changes, modern finance leaders are now using cloud planning apps as the central hub for decision making and strategy setting, integrating data across business systems – finance, sales, HR, marketing, supply chain. As a result, they can achieve an integrated, aligned, and comprehensive set of plans, and use them to drive financial and operational decisions.”
+Rob’s certainly right that the demand and business need is real. And he’s also right that business leaders want to see all manner of information, whether financial, operational, big data or whatnot in one tool. But I suspect that there’s more going on. What’s going to happen with the Corporate Performance Management aka CPM sector especially in light of Workday’s recent announcement?
+#1 – This Announcement bifurcates the market
+Amazingly, if you wanted to acquire a subscription to many of the cloud financial products out there, budgeting, planning and sometimes consolidation functionality was not included in the product suite. The general ledger applications had a place to store one or more budget values and you could report budget to actual values from these applications. But, the creation of budgets was left to specialist software applications. Sounds hard to believe in the 21st century but true nonetheless.
+Thus arose the likes of Host Analytics, Anaplan, Adaptive Insights, Tidemark and others. These firms quickly became popular partners with many cloud financial, cloud ERP and other cloud application solution providers. Even on-premises ERP users bought a lot of these cloud-based budgeting/planning tools because with a cheap connector, they could quickly get their ERP/financials software connected to a toolset far superior to most home grown Excel budget solutions or legacy products. These products have been slaying bespoke, custom spreadsheet solutions for years while dutifully pumping budgets, capital planning and consolidated financial data to and from ERP products.
+Workday’s announcement clearly carves out this market and stakes a space for those customers who want:
+
+The creation, storage and reporting of actuals, budgets, big data and more in one single place
+No more latency or data redundancy
+Fewer web integrations/connectors/subscriptions/etc.
+
+The firms that embrace Workday’s kind of all-in-one solution will be those that:
+
+Want HR, Finance, operational and other data in one planning and reporting environment
+Want only one set of organizational rollups, reporting tools, etc. to learn and keep synchronized
+Fewer software vendor relationships, cloud data stores, etc. to manage
+
+But now, where there was only one market for these cloud tools, now there are two. There will be a market for all-in-one ERP/Planning solutions and another for firms who still want a standalone budgeting/planning/consolidation tool. The market has been cleaved.
+#2 – It spurs new investment in the sector
+We’ll hear competitive announcements from all kinds of ERP providers  in the coming months. Some of these will be “announce-ware”, some will be “stall-ware” and some will be the old standby: “PowerPoint-ware”. All come under the umbrella – “vapor-ware.”
+Serious vendors will see this as a time to finally add this capability to their cloud financial and HR solutions. How they do it will be interesting to observe. I expect some vendors will behave in Gandhian fashion:
+
+First deny that anyone really needs or wants an all-in-one solution. Yet, behind the scenes, they’ll have a team working at breakneck speed developing one anyway.
+Then argue that as long as a solution can be accessed within their app via pull-down menu options and a single sign-on, then how it’s integrated should be of no consequence to its financial software users.
+Later, they’ll tell us that they built their own FULLY integrated tool that will do more than any competitor’s solution.
+
+In the end, every material financial software vendor will need this functionality. How fast they get there is vendor-specific. And, how powerful these all-in-one solutions will be initially (e.g., can the software interrogate big data files to assess how revenues could be impacted by recent social sentiment data?) should be interesting to watch.
+#3 – It triggers M&A deals
+Dennis and Phil already wrote about Workday’s investments in Anaplan and Tidemark. But there is also plenty of traditional big VC money in the firms that operate in this space. This could be a prime time to monetize those investments by selling one of these firms to a larger ERP vendor. I can already hear the rustling of deal papers right.
+An exit strategy for a venture backed firm is always desirable. The only questions to exiting are when and at what valuation. There are a small number of vendors to acquire and the universe of potential buyers isn’t that big either. So, the first firm to get shopped may have an advantage. I wouldn’t want to be the vendor that will always be the acquisition bridesmaid but never the bride.
+Interestingly, Workday may benefit twice from this as it will have its own solution to cross-sell to its pre-existing and future subscribers while it could make a capital gain from the sale of its investments in firms in this space. Or…. Either way, it’s nice to be Workday right now.  😉
+#4 – It redefines what budgeting and planning can and will be
+I gave an example above about how so-called ‘Big Data’ will need to become part of budgeting/planning solutions. This is already becoming a hard and fast business requirement as firms are using other data sources to pre-populate or validate planning data.
+
+For example:
+
+One COO is using machine learning technology across years and years of sales management data to predict how much revenue each sales person will deliver. This tool was in use for six months and was more accurate than the sales forecasts that were in the company’s CRM software. The sales people weren’t happy to learn this, by the way, but the COO’s confidence regarding top-line revenue is better and that’s making the board happier, too.
+Parsing social sentiment data can tell a firm if it is about to have more warranty claims or recall costs due to a poorly performing product. Alternatively, this data could originate from sensors that are embedded in the manufacturer’s products.
+Similarly, one could scan sentiment data, recall information, litigation case filings, etc. to monitor what’s happening with competitors’ solutions. If competitors are struggling, then this could indicate a need to bump up one’s expected sales and supporting marketing numbers.
+Retailers are using weather data to forecast daily sales and manage payroll costs.
+
+Budgeting and planning is no longer a once-a-year event in many firms. As their data has become more abundant, more diverse and more instantaneous, they need to re-invent and re-imagine their budgeting and planning processes.
+New tools, new data sources and a dose of additional innovation should trigger the creation of new/better planning software solutions that will definitely benefit businesses. That just may be the best outcome of Workday’s announcement.
+Disclosure: Workday is a premier partner at time of writing
+Images credit: Brian Sommer/Techventive, featured image: Financial planning concept with hand pressing social icons on blue world map © Mathias Rosenthal – Fotolia
+Read more on: Analytics planning and data analysis 

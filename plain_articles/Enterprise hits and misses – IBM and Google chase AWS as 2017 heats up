@@ -1,0 +1,84 @@
+
+
+diginomica hit: Taking the measure of Google, IBM as AWS cloud rivals by Kurt Marko
+quotage: “Much like the auto and semiconductor industries, cloud services require global scale and enormous investment, which naturally creates an oligopoly. Thus I see little hope for smaller cloud players to broadly compete outside their niches with the likes of AWS, Azure, Google, IBM, Oracle, Salesforce and a few others. Although Microsoft is the largest threat to AWS world domination and is sure to surprise us in 2017, I also expect big things from Google and IBM.”
+myPOV: Kurt was the star of our diginomica holiday period, with fresh looks at the 2017 cloud market. I picked this quote to make clear he wasn’t overlooking Microsoft. As Kurt says, it would do a disservice to customers if we wind up with an Amazon/Microsoft cloud duopoly. I like IBM’s chances better than Google’s. If Google “gets” enterprise I have yet to see any evidence of it.
+To me the interesting question is whether other players like Oracle, Salesforce or SAP can offer an enterprise value-add twist to a commodity IaaS market with a platform of cloudy business services. I guess Kurt was thinking along the same lines, as he also posted Cloud-first application platforms – PaaS tools to watch in 2017, with covers Google, IBM, Oracle, Azure, and Google’s ultimate container stress test: the viral heft of Pokémon GO.
+diginomica four –  my top three stories on diginomica this week
+
+Weapons of Math Destruction – must read for users or designers of algorithm powered analytics – Brian gets the new year off to a feel-good start with a positive book review, on a very problematic situation: the poorly applied use of algorithms.
+5G and the digital economy – the technology PoV (1/2) – 5G isn’t here yet – four more years till a halfway decent wifi signal at an enterprise show – but the implifications for businesses are significant. Martin laid it out in this holiday two parter – here’s part two.
+RAC drives for digital with Microsoft Azure – No holiday would be complete without a spiffy new sweater from Mum/Mom/insert family member here (actually I got some jammies instead). And no holiday would be complete without a spiffy use case from Jess – in this case smart vehicles and data potentials.
+Integrator as a 4-letter word – can SIs transform? – Phil riffs on integrator disruption, sure to be a huge theme in 2017 as bread-and-butter projects get scarcer. Quotage from SuccessFactors and Deloitte rounds it out. Just don’t call them “systems integrators” – they are “business transformation specialists” now, and your project can’t live without them, ok?
+
+The rest of the best are in
+Last week, when Enterprise hits and misses – the cheeky 2016 year-end awards edition went to press, three of our best-ofs were teased, but not yet live. Those three have now joined the pack:
+
+diginomica 2016 – Derek’s choice – Outstanding reportage across many oceans – or one ocean many times – on topics such as NoSQL goes mainstream, IoT and the business of data, digital governance and more.
+diginomica 2016 – Janine’s choice – Everything you wanted to know about HR tech, cloud HR migrations, and the culture change that makes or breaks HR projects.
+
+diginomica 2016 – Stuart’s choice – The enterprise implications of Brexit, the fourth industrial revolution, walks with Benioff, fights with Yahoo, and omni-channel galore – 2017 with Stuart in the books.
+
+
+The format Stuart designed is a wonderful task for each of us, but the end result makes for a dandy read methinks.
+Best of the rest
+ Is “low code” ready for prime time? A debate sparked by Vijay Vijayansankar’s Future of Software Development.
+quotage: “I do think that understanding how code works is important for everyone in the future. That doesn’t translate to everyone coding, at least in the traditional sense. Very complex applications exist today in MS Excel – created by business analysts who are not traditional programmers. If we change the definition of coding to include that kind of development – I can buy into “everyone will be a coder”. The closer statement – though less sexy – would be “everyone will be a designer or modeler.” – Vijay Vijayasankar
+myPOV: IBM’s Vijay Vijayasankar found his holiday groove with a series of “futures” posts. This one, on the future of software development, sparked a burst of Twitter spars. Though Vijayasankar did not refer to “low code” by name, that’s where this one ultimately went.
+It started with a response from Donnie Berkholz on Vijayasankar’s views on “self-healing” code:
+
+@dberkholz @jonerp yes – though in future I expect more and more code to self heal . Unsupervised learning for code should be more expansive
+— Vijay Vijayasankar (@vijayasankarv) January 2, 2017
+Then:
+
+@greg_not_so @dberkholz @jonerp pretty sure it won’t take too long for you to see it mainstream
+— Vijay Vijayasankar (@vijayasankarv) January 2, 2017
+Today, I successfully stirred the Twitter pot with:
+
+@jonerp ergh anyone can code just devalues real development as a profession
+— Sean as a Service (@saoirse_22) January 4, 2017
+Then, a tweet flurry. One more irked developer, Michael Koch:
+
+@jonerp @saoirse_22 I’m in IT since 1990 and the dream of “low code” will never fade. Just like the paperless office.
+— Michael Koch (@pixelbase) January 4, 2017
+Esteban Kolsky rounded it out:
+
+requires a different mentality on what an app is. and what development is. agree that PR goes too far, but model is real and valuable https://t.co/DKJogrldcf
+— (name goes here) (@ekolsky) January 4, 2017
+Vijayasankar argues that as automation and AI advance, the meaning of programming shifts. Pretty good 2017 advice: change will invoke new models/efficiencies, and none of us, including developers, should be too comfortable. Also see: Vijayasankar’s Future of Project Management and Future of Technology Consulting.
+Other standouts:
+
+
+7 things Silicon Valley needs to stop doing in 2017 – My newsfeed audience liked Elgan’s caustic scolding of SV excess, including the abuse of the word disruption, the obsession with demolishing industries (wealth transfer to the few), and the bogus attempts by Facebook and Twitter to shirk responsibilities as media. Also see: the year of bots behaving badly. and the year we stopped listening to big tech’s favorite excuse.
+Holger Mueller rates all the enterprise news of the year (sorta) – Instead of reviewing every show he attended this year – which would have been as tedious for him to write as it would have been for us to read – Constellation’s Holger Mueller came up with a “shootout” format to put the big 2017 news in brackets against each other. He issued a bunch of them, example: Q4 2016 NextGen Apps Developments & Trends Shootout. See the rest on his blog to find out which vendors – and big ideas – made it to the finals.
+
+Honorable mention
+
+
+2017: The year people are forced to learn new skills… or join the Lost Generation – No one warns of legacy skills danger as lyrically as Phil Fersht of HfS Research. Fersht’s digital howl made it into my riff: Rethinking enterprise productivity – a critique of digital minimalism.
+CIO leadership: Two female role models – A cool edition of CXO Talk featuring two female (fomer) CIOs who still have board-level roles.
+Getting Ready for 2017: Reflections on Telling Lies – Supply chain expert Lora Cecere milks out so many sacred cows in this article she could run a dairy farm. No magic quadrant is safe.
+Self-driving cars are already deciding who to kill – Over the top linkbait title – but another harrowing illustrating of why algorithms are a delicate business indeed. Something tells me “Sorry our self-driving car hit you; we’ll just tweak our algorithm” isn’t going to be a satisfying response.
+The Best And Worst Data Stories Of 2016 – Some doozies in here.
+The New Stack Analysts 2016 Wrap-Up: Docker, OpenStack and Open Source – Not the most aesthetically pleasing videocast – except for Alex Williams’ adorable/no-quarter-given winter hat. Still, a handy enterprise tech wrap.
+The most vacuous press release ever – An evisceration by Without Bullshit’s Josh Bernoff. That’ll teach ’em for trotting out clichés about millennials…
+
+Whiffs
+So this poor sod did the selfie-with-crocodile routine:
+
+Not sure this is what the gurus mean when they say “disrupt yourself” https://t.co/gH4uZ6nhOz
+— Jon Reed (@jonerp) January 3, 2017
+I give my “choose your battles” award to this Italian orchestra conductor who decided to tell an audience packed with children that Santa Claus does not exist – he lost his job for the price of prematurely stating the obvious.
+Meanwhile, Apple continues to look customer-hostile asshat ridiculous as a Kickstarter campaign to fund an adapter that provides the same features as a prior model raises $1,000,000+:
+
+Apple’s latest Macbook is so lacking in features that > 11,000 ppl have purchased a dongle to give it … same features as previous model pic.twitter.com/q4YXDnqmjM
+— Patrick McGee (@PatrickMcGee_) January 3, 2017
+Design unthinking. Though if 11,000 bought the dongle, that is a pretty tolerant group of fanboys/gals. Me? I bought a freaking Windows 10 laptop in disgust. Granted, it’s taken me six weeks to dismantle the anti-privacy features and OneDrive/Cortana infestations. We’re off to a great start in 2017 with the so-called “customer experience,” aren’t we?
+Over the holidays, Phil wrote about his family’s adventures with Amazon’s Echo Dot. It’s fortunate his kids are a bit older. Otherwise he might have run into this Alexa not-safe-for-work meltdown:
+
+
+
+Echo is pretty cool, I gotta admit. Alexa’s my pal, but she’s a bot through and through. Over to you, Clive.
+Which #ensw pieces of merit did I miss? Let us know in the comments. And yeah – I skipped a few of this week’s recent posts – you’ll see them reviewed next week.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and winner - Loser and Winner © ispstock - Fotolia - all from Fotolia.comDisclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackHits and misses 

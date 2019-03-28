@@ -1,0 +1,51 @@
+
+Jason Blessing keynote, PowerPlex ’17
+I can see why Plex Systems CEO Jason Blessing is optimistic. After a multi-year “U.S. manufacturing is dead” flogfest, it’s now fashionable to write about how manufacturing is evolving. Some are even pushing the fourth industrial revolution (Industry 4.0). Political and technical factors are forcing a whole new view.
+That doesn’t diminish the obstacles in front of manufacturing companies in dire need of a “smart” re-invention, or facing brash new competitors (e.g. the automotive sector).
+As diginomica contributor Brian Sommer documents in  State of Cloud Manufacturing ERP – Part 1, change is upon us, Plex’s cloud manufacturing sweet spot has also surmounted past hurdles. Putting mission critical systems in the cloud is no longer an outlier practice.
+A day after Blessing’s opening keynote for 1000+ PowerPlex attendees, I had a chance to get Blessing’s take on where customers are in the push towards connecting manufacturing – including the AI/machine learning hype he avoided during his onstage remarks. I also pressed him on a couple of sticking points of my own (teaser: cloud platforms vs perception of SaaS “inflexibility.”)
+Plex Manufacturing Cloud  – by the numbers
+Plex is selective about the numbers it shares, but during his keynote, Blessing notched these milestones:
+
+Plex now supports 566 customers, with 1816 plants and $35+ billion in combined revenue.
+In 2016, 81 customer went live, 506 expanded their Plex footprint, 95+ percent renewed, and $100+ million in revenues. System uptime was at 99.995 percent, which means 26 minutes of unplanned downtime in 2016.
+
+Blessing also made his case for cloud manufacturing adoption. Citing numbers from a 2015 Economist survey on Cloud Computing and Economic Development (PDF link), Blessing noted that while only 15 percent of respondents said cloud manufacturing would be a “major factor” in one year, that number surges to 71 percent with a five year window (which would mean 2020).
+With McKinsey citing manufacturing responsible for $74 trillion in 2015, Blessing believes manufacturing is the real engine driving the digital economy. For Plex, it’s all about the makers, and supporting a “connected manufacturing” transition that spans people, processes, systems and products.
+That means a combination of execution systems, machine connectivity and, increasingly, analytics and planning functions. The planning side got a major boost via Plex’s acquisition of DemandCaster in August 2016, which is available as a separate DemandCaster offering and as part of Plex, as Supply Chain Planning. A new Production Analytics offering was announced at the conference (available now as an add-on), as well as supply chain analytics, available in one month.
+Plex’s positioning – scale and next-gen manufacturing are keys
+Three more points on Plex’s moves:
+
+Blessing says that Plex is succeeding in its push upmarket, with Toyotetsu and API Heat Transfer as large scale, “strategic customer wins.”
+He also positioned Plex as a player in IoT and next-gen manufacturing, supporting “pioneers in the fourth industrial revolution” with customers such as EG Industries, Polamer Precision and Genze by Madindra (Polamer is a recent award recipient from Plex, in part due to its pilot program with Microsoft to use Hololens in industrial settings).
+That adds up to Plex positioning itself as “The only native cloud manufacturing vendor with significant scale and compelling SaaS metrics.” Or, as Blessing put it to me in human-speak, “There’s not a lot of vendors that have put the MES and ERP and analytics all together on the same platform. Others might say they can do it, but it would be five or six difference pieces of software.”
+
+So what were Blessing’s big takeaways from PowerPlex ’17? He cited three:
+
+Customers are everything – Blessing doesn’t think many other ERP and MES players have the same caliber of customer relationships.
+Manufacturing must be modern –  “I think we have a very modern take on manufacturing software, and how to use technology to enable manufacturers. I suspect that probably fuels our customer relationships.”
+Manufacturing is cool –  “Many people think manufacturing is a sleepy Luddite industry. When you really see how our customers are using technology, and see the amazing products that they make, whether it’s the McFlurry spoon, the guy with his bun warmers from Wisco Industries, all the way up to Caterpillar. It’s always inspiring to see what folks are doing.”
+
+Objections and concerns – security, platforms and more
+It’s not all sunshine and picnic baskets. Even though cloud manufacturing is now mainstreaming, cloud in general is being subjected to a fresh wave of security questions. Potential buyers must answer to security questions from board members who are paying attention to the cloud breach headlines, from Gmail phishing to potential election hacks.
+Blessing says that Plex has been addressing these objections for years:
+When I started at Plex in 2013, there were similar objections. Destilería  is a customer of ours. They make Don Q Rum. Their viewpoint was initially, “Wow, we’re really going to put the recipe for Don Q Rum in the cloud?” Ultimately, whether it’s Serrallés or any of these customers, they come to realize that it’s our core competency to operate these systems and have them be performant, available, hardened, all of those things.
+Stats and risk assessment matter. Cloud security is less of a risk than internal breaches:
+Most people who do come to us ultimately also understand that the biggest hacking threat, especially when you have on premise systems, is the internal threat… It helps when you have the stats and the references to back it up. We have some proprietary security tools we’ve written. We have seen employees leave a company and go to another company and try and log in to their old companies. We catch that kind of stuff.
+One thing that concerned me: I heard a customer talking about the “inflexibility” of Plex versus their prior on-premise system. To be clear, the customer meant this in a good way. They appreciated the discipline Plex imposed to standardize their processes within existing configurations. But I believe future SaaS winners will have open platforms that enable easy/repeatable extensions and add-on apps.
+In an analyst Q/A, Blessing basically agreed. But at the moment, only two of Plex’s partners (from what I have learned to date) have access to the platform and only one, Cumulus Consulting, is actively building out with an apps store mindset. I pressed Blessing about Plex’s commitment to platform, arguing they need a bunch of partners like Cumulus:
+I agree wholeheartedly with you. The one thing we struggled with a little bit is kind of a chicken and the egg thing. We’re trying to create that ecosystem, so that if you build it they will come. We have the benefit with the Cumulus guys that they’re ex-Plex people. We like working with them.
+Blessing went on to assert that most partners don’t want to jump in creating such apps – they only want to join such an ecosystem after it matures:
+That one’s a journey for sure, but I completely agree with you on that. I think it’s a very fair observation and criticism.
+The wrap – AI matters, but customer focus matters more
+Given the frenzy of vendor AI bandwagoning, it was a tad surprising – and refreshing – to hear AI/machine learning downplayed in this year’s PowerPlex keynotes. I’ll share more of that in a future installment, but for now, Blessing did admit to “underplaying some of that stuff” when it comes to sexy AI announcements. That doesn’t mean Plex isn’t in pursuit.
+Blessing sees big opportunities for Plex in their newly-announced production analytics, pulling data off of machines to calculate metrics like scrap rates to improve decision making. There is also a benchmarking opportunity analyzing data off of multiple customers to help with preventative maintenance and troubleshooting (lab pilots are underway).
+In his state of cloud manufacturing ERP series launch, Sommer lays out four key themes: two tier ERP, digital frontiers, moving upmarket and new verticals. Plex is knee deep in all of that, which will come out in future pieces. Blessing acknowledged that the upmarket move will require more global capabilities; he pointed to their push for more physical presence in Eastern Europe, Mexico, and Southeast Asia.
+Blessing asserted Plex’s customer relationships as exceptional in their industry; competitors make take issue. I was surprised by the amount of prospects mixing with customers in all kinds of sessions. At a Women in Technology lunch, a prospect at my table talked about how her current manufacturing vendor didn’t even provide her with customer references for her to call. At PowerPlex she was rubbing shoulders with attendees and, from the conversations I heard, she was getting the real deal.
+Plex also lined me up with a customer that had seen her share of struggles and was still lobbying for more changes. What mattered to this customer was the honesty of her Plex relationship – and the follow-through. That doesn’t prove Plex is the best. It does show they favor a style diginomica advocates: case study based marketing. As always readers should draw their own conclusions.
+Bonus content:
+
+Also see my use case, PowerPlex 2017 – Trojan Battery puts industry analysts through the lead acid battery test. 
+Also track diginomica for installments in Brian Sommer’s ongoing series on cloud manufacturing ERP: State of Cloud Manufacturing ERP – Part 1, change is upon us.
+
+Image credit - Photo by Jon Reed. Disclosure - Plex Systems paid the bulk of my travel expenses to attend PowerPlex 2017. Plex Systems is a diginomica premier partner.Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architecture 

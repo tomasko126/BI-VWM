@@ -1,0 +1,52 @@
+
+It’s a Friday and I’m on a train but it’s the weekend for me so rather than preface with Friday Rant, Weekend Musing is more appropriate.
+A certain sadness arises when I discovered that Phil Fersht, CEO HfS chose to publish his firm’s 19 predictions for 2019 on December 26th, 2018, a day when the rest of the UK was either shopping or tucking into an outsized ham as a relief from the outsized turkeys served up all over the country. Perhaps in Phil’s case, he got confused between flying pigs and pigs in blankets. It remains one of life’s great mysteries.
+Anyhoo, since we’ve already called out HfS as our pick of the analyst troupe of 2018, it is only fair to riff off the predictions made by the HfS team.
+Most prediction sets fall into two buckets:
+
+Stating the bleeding obvious, safe bets or past history repackaged
+Speculative and dubious.
+
+HfS distinguishes itself by creating a third category – intriguing and worth noodling upon. Let’s deal with them in the category order:
+Stating the bleeding obvious
+The term “Digital” becomes so diluted, it is rendered meaningless as “Integrated Automation” drives the narrative. – Sorry Phil but this one jumped the shark in 2017 but it was only in 2018 that people started to take notice just how tired this one really is. Still, press releases galore continue to regurgitate a redundant meme.
+AI as a term will get tiresome and we will revert to something more meaningful. – Already happened or happening. Curiously, I sense this is happening because of the emerging ethical debates which are causing some firms to rethink.
+AutoML and XAI will gather momentum. – I must admit this is a bit borderline but then I am emboldened by the fact Brian Sommer remains tired of AI methods that can’t be explained. The twist here is Phil’s clever co-opting of XAI when he means business logic. Note to self – we should steal that as an idea to develop.
+Cybersecurity will become a C-level priority – Oh come on Phil, this one is especially weak. Did you not read the steady drumbeat of mea culpas from Target, Facebook, and many others? Or the way 2018 got off to a stellar start? We take the view that if a large enterprise doesn’t get hacked then that’s news.
+Most enterprises and providers will realize that they will never be ‘cloud-only’ – Again, I consistently heard this as far back as 2015 but I think this requires more careful definition. What many mean is that they will continue to run either outsourced data centers or, in very few cases, manage their own. Cloud in this context should ONLY mean one thing – and that’s the public cloud.
+The smart providers will invest more in hybrid cloud platforms – well yeah. Otherwise, they won’t have much to sell by way. of infrastructure after AWS and Microsoft along with some going to Google have finished dining merrily on the market.
+Open-source technologies embed further into enterprise – A real yawner. Enterprises have been using OSS for many years but often not knowing it. But don’t be fooled into believing OSS circumvents the design and build processes.
+Several traditional service providers will merge – Again this is debatable to a degree. There is an inevitability among providers that creeping commodification creates the conditions under which consolidation occurs. It will be the quantum that matters. I would have been more impressed if Phil had discussed the implications of any material change of control, always a top of mind due diligence item in selections.
+“Big iron” software firms will enter the RPA market. – Same as above. RPA is now an established if chaotic field of endeavor. Who better than the Big Iron guys to sort out the mess?
+RPA-as-a-service will get traction in 2019. – Same as above and fairly easy to see.
+Verdict: So far on my assessment, we’re 10/19 or 53% and, I suspect that in a year’s time, Phil will be able to preen himself on having got most of these at least passably right. Which will be a way better score than most other analysts.
+Speculative and dubious
+I’d like to think I am completely wrong on this set because all of my picks relate to the One Office meme that HfS has been peddling explaining over the last couple of years and with which I have a lot of sympathies. The problem comes in the way it is positioned:
+Organizational silos around front, middle and back-office will continue to erode in 2019 to create a boundary-less organization where there is only one office that matters – and that is the office that caters to the customer.
+Conceptually that sounds right but there are a couple of problems that don’t go away because someone makes a directional declaration. In my review of Alex Shootman’s Done Right, I questioned the sometimes confusing prioritization trifecta of customers, workforce and stakeholders.  Which is it? I don’t think we have a clear answer. It’s important in the context of the collapsing of hierarchies, the evidence for which is at best sparse.
+Second, there is an inherent assumption that somehow front, middle and back come together as a C-level priority. There is a significant technical component here that HfS answers through the meme of ‘digital integration.’ I’m absolutely going to take issue here because:
+
+Integration has been on the process agenda since at least 1993
+It has always been digital.
+It has not been solved (even with massive middleware investments) because as Phil points out elsewhere, instead of siloes in the enterprise, we have siloes scattered around the world. And by the way – Zapier won’t do.
+An ever-changing landscape makes true integration a near impossibility.
+I never met a C-suite business person who wants ‘integration.’ They just want stuff that works.
+
+Predictions affected:
+“OneOffice” becomes reality.
+The Hyperconnected enterprise beyond OneOffice will emerge.
+The boundaries between service offerings will blend into each other.
+Here’s a pretty graphic to illustrate the above:
+
+Verdict: HfS has created a clever money making meme with Digital OneOffice and like most analyst firms, needs to re-invent or move the needle forward to keep clients believing in the aspirational. There’s nothing intrinsically wrong in that but there is a much deeper level of analysis required in order to square that off against the on-the-ground reality among the G2000.
+Intriguing
+The misplaced faith in “retraining” will fade. – I don’t think we’re remotely close to the faith of which Phil speaks. Plenty of people talk about the need for retraining but the data doesn’t support momentum in training activity. A tight labor market might suggest that retraining becomes a necessity and yes, there are pockets of activity but as a general wave? Not so much. The idea of nanodegrees is one I do think has legs but that depends on individuals believing there is an ROI. Given the falls in labor participation, it’s an idea that has to be questioned.
+Large commodity call centers lose to smaller more nimble contact center players – I’d love to see this one pan out but I’d like to better understand how this happens.
+Blockchain will come out of the closet – I hope he’s right. As THE overhyped tech mot de l’année in 2018, we’re all thoroughly sick of hearing about blockchain as the next miracle tech-driven cure for world peace and its business equivalents. But…my spies are telling me of seriously interesting and useful use cases that are on the cusp of going into production. Watch this space.
+2019 will be the year of ‘how’ – I like the idea, I’m just not sure we have a good grasp on what this means organizationally, which, in turn, plays into some of the other things HfS discusses. C-suite conversations today are very much focused on ‘looking through the glass darkly’ and that inhibits a ‘how’ discussion.
+Success will be defined by effective digital change management versus digital adoption. – I almost put this in the ‘bleeding obvious’ bucket but then realized this one is as old as change itself and has become accentuated in recent years as the tsunami of departmental driven solutions has entered the enterprise. But don’t be confused. This is an enterprise-wide issue which on its own could easily scupper the best intentions of those who believe in the Digital OneOffice mantra.
+Verdict: This group offers different challenges but in a curious way, all fall within the same general thinking about doing, what Shootman might call the Best Next Thing. As such, there is a good reason to think that widely applicable solutions to the complex problems that lie just below the surface are within reach.
+I’ve deliberately left out Phil’s Hot List choice. His firm knows these players far better than anyone at diginomica Towers and we defer to HfS analysts on their selection.
+My take
+Despite my occasionally acerbic critique, HfS should be given credit for assembling a list of 2019 predictions that makes you think. In that context, I trust the bright young things that make up the HfS team will take what I am saying in the spirit in which it is meant.
+Image credit - Graphic via HfS, featured image - Photo by Mathilda Khoo on UnsplashRead more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureMachine intelligence and AI 

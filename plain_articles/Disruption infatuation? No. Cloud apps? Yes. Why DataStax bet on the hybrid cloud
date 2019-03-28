@@ -1,0 +1,39 @@
+
+In Rip and replace your RDBMS? No – build cloud apps instead, I explored the flaw in the rip-and-replace mentality with DataStax CEO Billy Bosworth. But we left questions unanswered, including a beef I have with disruption infatuation.
+The beef goes something like this: while vendors peddle massive disruption, perhaps to spark buying urgency, most customers I talk with have a more pragmatic view. They don’t reject digital, but they want to rack up wins as they build out. “Demolishing legacy structures” isn’t how they talk about what’s next.
+Three building blocks for “transformative cloud apps”
+So how does Bosworth see this from a NoSQL and DataStax side? And what are his customers doing about it? To frame Bosworth’s position on this, we need to consider three factors:
+
+DataStax serves a new set of cloud applications that they believe needs new database tech. Instead of “real-time,” DataStax refers to these apps as “right now” apps. Trendy terminology aside, the point is these cloud apps are transactional in nature, rather than Hadoop-type analytics that might tolerate some data latency. As Bosworth told me, “At DataStax, we are solving problems that relational technology systems were simply not built to solve.”
+It’s not enough to solve a customer’s technical problem. Partnering for a business result is what customers need. That means supporting technologies you don’t sell: “We’re not going to be the only technology our customers are going to need. So it’s up to us to make sure they understand how we fit to make them successful really, really fast. “
+Cloud is non-negotiable: “You can’t have any conversation nowadays if you’re a software company and not talk about the cloud.”
+
+But this is not a cloud purist viewpoint. Bosworth is all-in on the hybrid cloud model:
+In our world with enterprises, we think hybrid cloud is the model for the next 10-15 years. The faster we can help our customers to understand how to leverage that hybrid model for these right now applications, that’s a big mission for us. Where we fit into your overall kind of landscape is we’re a distributed database that is designed very intentionally and natively to be in a hybrid cloud environment.
+Beyond disruption hype – customers want digital wins
+Which brings us to that disruption hype overdose. As I said to Bosworth: Customers care about getting something out to the market quickly that has an impact for them. And they don’t want to have to turn over their entire internal environment to do that. They want to move quickly. Bosworth’s response? A customer example:
+Clearly, like everybody in the retail industry, Macy’s is dealing with the changing dynamics of the likes of Amazon and such. And so for them, what [they tell us is] we have to get in on these channel businesses fast. We’ve got to be able to shelf sell any product anywhere, whether it’s in the store or online. Whether you want to shop for that from your phone or your computer, in the store. It shouldn’t matter.
+So for their goal, to grow those portions of their business by dramatic amounts, that requires digitizing everything that they’ve done analog for a very long time. What they do is they’re like, “Look. We’ve got to be able to have the same experiences for people on Black Friday and Cyber Monday, exactly like any other big massive cloud provider out there.”
+Two requirements jump out: scale your digital approach fast with a new technology. And: pull that off without disrupting the tech that serves the rest of your operations.
+To scale that catalog to millions of requests per second is just a fundamentally different problem. So they get focused on that to augment what they already have. Now, I imagine that they still have every relational database they had before they started working with us. But all this new stuff, the stuff that’s going to change their business, that’s where they need to be focused for market share, right? And so I am in complete agreement with you.
+Disruption via rip-and-replace is not on the agenda:
+I think it’s a red-herring for us anyway at DataStax. It’s not our mission. Our mission is these transformative cloud apps.
+The hybrid cloud apps challenge is at the database layer
+I’d be hard-pressed to find anyone who objected to “transformational apps,” but what are the sticking points? Bosworth says the toughest part is dealing with the data layer:
+The data piece of the stack as it relates to the hybrid cloud environment is actually the hardest part. And getting that data layer right is critical.
+DataStax thinks they can put a dent in that complexity:
+What we want to do is make that very easy for our customers to leverage all the goodness of cloud, and get those great experiences, and leverage all the power of open source without the complexity of trying to do it yourself.
+The data layer is a beast because the center of data gravity is no longer on-premise, but it isn’t all-cloud yet either.
+The reality is you have to have a data layer that can be distributed in that hybrid manner to not get hamstrung by limitations on, “Well, I’m only going to be in that particular stack.” I’ve got to span across all my systems of record into my cloud operations. And so we want to help with that.
+Over time, cloud workloads will gather steam. But that’s up to customers:
+We want our customers to be free to move at their own pace to the cloud offerings, without hamstringing themselves on complexity, or on the architecture. So if we can make that data piece easy, then the rest of it gets easier and easier. As you think about bursting, or as you think about consolidating your data centers and then firing up some cloud data centers, we want to make that easier and easier.
+The wrap – on blockchain and enterprise competitors
+Given all this talk on distributed transactional systems, I couldn’t resist asking Bosworth for his take on blockchain:
+I think it’s early and evolving. I think the inefficiencies in it are technically a little challenging, but you know it’s going to have to get more efficient. I can’t remember all the details, but I remember it being quite staggered by the blockchain energy consumption that I was seeing, and so that’s going to have to be worked out…  But I think that it’s a trend enough where the concept seems to be gaining up a lot of momentum.
+The notion for distributed ledger can really be expanded to different use cases. But I would say that it’s early days, and we’re more on the front end of the lifecycle with that. We need to let it shake out a bit.
+We ended our chat with a review of the competition. Referencing his college football days, Bosworth says he’s more worried about how DataStax executes than any one competitor. But the most likely competitors are the cloud providers themselves, e.g. DynamoDB from Amazon, Cosmos DB from Microsoft, Spanner from Google. Amazon just released a new graph database, Neptune; DataStax has a graph database offering.
+Bosworth believes smaller companies may align with one cloud or cloud app provider. But enterprise-level companies will want to choose multiple cloud/app/db providers. That’s great for flexibility, not great when it comes to managing the hybrid landscape:
+If you’re an enterprise, there’s a lot more complications to choosing the full stack inside of any given cloud.
+Speaking of customer proof points, that will be the next step in my DataStax coverage. I’ll report back once I have delved into use cases that flesh out the challenges – and results.
+ 
+Image credit -  suspicious secretary did found something on her l © vladimirfloyd - Fotolia.comDisclosure - Diginomica has no financial ties to DataStax.Read more on: DevOps NoSQL and the open source stackNoSQLOpen sourceRetail e-commerce and the omni-channel 

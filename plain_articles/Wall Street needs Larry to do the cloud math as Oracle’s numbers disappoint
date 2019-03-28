@@ -1,0 +1,61 @@
+
+Doing the math
+Earlier in the week Adobe was celebrating its progress in transitioning to the cloud, but Wall Street declined to join in the festivities.
+The same was true of Oracle yesterday, but on a grander scale with the stock price dropping sharply in the wake of the firm’s fourth quarter and full year numbers.
+That Oracle is set on a cloud course isn’t in doubt. That progress is being made on several fronts is also not open to question. But the painful reality is that this is a journey from an on premise legacy to an As A Service future that is going to take time and is going to impact on the bottom line while it’s underway.
+For the full year, Oracle revenue was flat at $38.2 billion with net income of $9.9 billion, while for the fourth quarter those numbers were $10.7 billion, down 5% year-on-year, and $2.8 billion. Those figures were of course in part impacted by currency fluctuations. Q4 revenue would be up 3% on a constant currency basis.
+But the issue that seems to be worrying Wall Street more is the speed of the shift over to a predominantly cloud model. Or as Bill Kreher, software analyst at Edward Jones, told the Financial Times:
+There is a bit of a leap of faith here.
+On the face of it, the growth numbers look good. For the fourth quarter, SaaS/PaaS revenue was up 29% year-on-year and IaaS up 25%.
+But when you translate that into hard cash, that’s $416 million for SaaS/PaaS and $160 million for IaaS. Or put it another way, 4% and 1% respectively of overall revenue for the quarter. Meanwhile traditional license new sales fell 17% during the quarter and 9% for the full year.
+Laid out like that and you begin to see how a jittery investor might have his or her concerns.
+Holding the line
+The Oracle executive team of course needs to hold the line and face down such wobbles on Wall Street. Co-CEO Safra Catz set the tone in the post-earnings analyst call by declaring:
+the most important thing being that we dramatically over-achieved in the cloud. This is the first Q4 where we had everything together for the cloud. We had the products that we’ve been working on for a decade, the operations, the sales force and the references with many, many happy customers. Having all that in place caused SaaS and PaaS bookings to grow more than 200%, our best ever growth rate for cloud bookings and more than $125 million higher than our own $300 million goal.
+But in a clear acknowledgement of the need to talk investors through this transition period with a lot of corporate hand-holding, she added:
+When you translate the $125 million higher from SaaS and PaaS to had it been historically our license business, it probably would have been about $375 million more in license and it would all have been booked immediately, not ratably over time. So for us this was actually fantastic news. When bookings ultimately turn into revenue depends of course on many factors but one thing is clear our momentum in the cloud bodes very well for the future.
+Catz also made a bold claim that Oracle is in fact outpacing the likes of Salesforce and Workday:
+We’ve calculated Oracle’s cloud billings using our competitors’ methodology or the sum of total cloud revenue plus the sequential change in gross deferred revenue. What it shows is that billings grew from $468 million in fiscal 2014 fourth quarter to $834 million in this just finished quarter. That’s a growth rate of more than 70% in US dollar and though there may be seasonality to billings number, this is dramatically faster than Salesforce’s 21% billings growth and Workday’s 31% billings growth in their most recently reported quarter.
+Her fellow CEO Mark Hurd chipped in with some uplifting numbers to support these claims:
+
+1217 new SaaS customers in Q4.
+760 existing SaaS customers growing their subscriptions.
+1419 PaaS customers in Q4.
+312 new HCM customers in Q45, 933 for the full year.
+657 new CRM customers in Q4, 1900 for the year.
+380 ERP customers, 888 for the full year.
+
+He added:
+Our installed base is now almost 1100 ERP customers in the cloud, nearly ten times the size of Workday. And let me add, we really never see SAP.
+Over to Larry to close the deal
+With the foundations for a cloud confidence boost laid down, it was left to Chief Technology Officer Larry Ellison to try to close the deal with investors, stating that for the full year:
+we sold $858 million of new SaaS and PaaS business. About half of that, $416 million was sold in Q4. That’s a year-over-year Q4 sales growth rate of over 200%. More importantly, the $416 million is more SaaS and PaaS new business that has ever been sold by any cloud services company in a single quarter, it’s a record. Clearly our cloud business has entered a hyper-growth phase.
+This year, in FY’16, we plan on selling between $1.5 billion and $2 billion of new SaaS and PaaS business. In other words, we plan to sell at least twice as much as we sold last year. And that’s at least 50% more new business than Salesforce.com will sell in their current fiscal year. And if we exceed our plan like we did this Q4, we could book twice as much new business as Saleforce.com.
+But even the never-knowingly-underconfident Ellison felt the need to add the caveat:
+Now I don’t think that’s likely that we will sell double what Salesforce.com sells. But it’s definitely possible.
+As for the competition, well, the usual suspects were in the Ellison firing line:
+Our cloud business is much bigger than Workday and we will grow faster than Workday will this year.
+Our cloud SaaS and PaaS revenue is still second to Salesforce.com, but we are growing much much faster than they are, so it won’t be long before we pass them.
+We now have over 1000 Fusion ERP customers, around 10 times more than Workday.
+On the subject of SAP, Ellison found it provided him with one good thing to say about Workday:
+Workday says they never see SAP in the cloud ERP market. That’s the one thing Oracle and Workday agree on. It’s between us, Oracle and Workday, in the mid market and high end, the cloud ERP market and we are winning big time.
+He added:
+It’s interesting, SAP does not use HANA in the cloud very much. I know that because they keep paying us. Again this quarter they paid us for Oracle for Concur and Oracle for Ariba and Oracle for SuccessFactors. If they are using HANA for anything, I don’t know about it.
+Counting in the cloud
+While this customary sabre rattling is a corporate comfort zone and can always be relied upon to amuse Wall Street watchers, the Oracle founder is still having to circle back to explain the economics of the cloud model to an investment community that is alternately in the dark or just nervous about that so-called ‘leap of faith’ they’re being asked to make.
+The end result is that Ellison is having to help with the math:
+Let’s take a $1 million deal. If it’s licensed over a 10-year period, you have a $1 million upfront of a license and you get 20% a year for 10 years. That is up another $2 million for over a 10 year period, you get a total of $3 million, and that’s after the cost of sales It’s very profitable business. Most of that 3 million you get after the cost of sales is profit.
+A $1 million SaaS or PaaS deal, you don’t get anything upfront. But you have to pay the commissions. And that $1 million deal is worth $10 million or more than 3 times as much as the license deal over a 10-year period, over triple the value. But the accounting is entirely different. You take it rateably over that 10-year period. You have to pay the commissions upfront and recognize expenses as upfront and you get 10 years, okay.
+When it comes to profit though it’s all good news in the end, he insisted:
+What’s the profitability on SaaS and PaaS? This is going to shock you. It’s about the same as license and support. It’s stunningly profitable. Infrastructure as a Service is very different. the margins aren’t nearly so high. So we make money in Infrastructure as a Service. You can see what Amazon’s profit margins are on Infrastructure as a Service. We think it can be a profitable business when you get scale.
+But SaaS and PaaS is very similar to license. So that $1 million which turned into something less than 3 million in profit after you get the scale in license, turns into something less than $10 million in profit, say 9 million in profit over the 10-year period that you are providing the service. So it’s a much better business for us in terms of revenue. The revenue goes way up, the profits go way up, and the margins are approximately the same.
+My take
+There will inevitably be a lot more of these difficult hand-holding conversations to come for Ellison and Co. The journey on which the company is set is inevitable and necessary and having set out on it later than it might have done, Oracle’s got to play catch-up. So there’s no turning back. Nor should there be.
+But I think there’s still work to be done around the messaging to the Wall Street analyst community to bridge that ‘leap of faith’.
+I noted with interest the post-earnings call reaction from Meghan McGrath of Technology Business Research who observed:
+Oracle executives insist that $1 million of SaaS and PaaS revenue will generate $10 million over a 10 year period, while a $1 million license contract will generate only $3 million over the same period. Missing from this justification is what $1 million of license revenue equals in annual subscription value for the same volume of software products.
+Moreover, Oracle’s FY4Q15 gross margin for SaaS and PaaS revenue was 38%, while software license and maintenance gross margin was 96%, which starkly contradicts Executive Chairman of the Board and CTO Larry Ellison’s proclamation that SaaS and PaaS profitability is “about the same as license and support”. TBR believes these missing pieces cloud analyst ability to see the complete financial picture and its long term implications to the Oracle business.
+And this is from someone who’s a technology market watcher and get’s the cloud model, not just a financial analyst. If she has questions and can’t see the whole picture, imagine the reactions of a non-tech savvy investor. Some further message honing is in order to go along with the SAP and Workday quips.
+Disclosure – at time of writing, Oracle, Salesforce, SAP and Workday are all premier partners of diginomica. 
+
+Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceDigital and content marketingHCM and the digital future of workMobileSocial 

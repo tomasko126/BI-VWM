@@ -1,0 +1,33 @@
+
+MJ Bale style
+When Salesforce Chief Finance Officer Mark Hawkins delivered his opening keynote on the Sydney leg of this year’s Salesforce World Tour, he did so in an Australian-made suit from a local menswear retailer, M.J. Bale.
+To add to the down-under flavour, the lining of the suit featured Aboriginal artwork created by young people supported by the Australian Indigenous Mentoring Experience (AIME). 
+AIME works to combat indigenous educational disadvantage in Australia and worked with 6,686 mentees in 2016 to make sure they don’t get left behind. The program is proudly supported by both Salesforce and M.J. Bale. 
+M.J. Bale is a relatively recent Salesforce customer, having only recently replatformed its e-commerce website to Salesforce Commerce Cloud. While the company has been pleased with the results so far, it’s been aware for some time that it could be doing a lot more to deliver a better e-commerce experience to its online customers, said Sarah Westwood, the company’s former head of e-commerce. 
+Growing pains
+Right now, online accounts for less then 10% of the company’s revenues, a figure that the company wanted to improve. The vast majority of sales come from around 53 bricks-and-mortar stores in Australia and New Zealand. 
+M.J. Bale has global ambitions though, and hopes to bring its men’s tailoring and casualwear to a much wider audience, both online and by expanding its store footprint in new geographies. 
+But as a small company (albeit a fast-growing one), it’s been a struggle to get the help it needs with its online offering, said Westwood. M.J. Bale doesn’t have in-house developers. It doesn’t even have an internal IT team. 
+Immediately following the re-platforming, M.J. Bale was working with a local systems integrator that had plenty of software development know-how, but little in the way of e-commerce expertise, she says:
+
+While they understood the Salesforce platform really well, they didn’t really understand what we were trying to achieve or how we wanted the customer journey to look. They weren’t e-commerce business analysts, so they couldn’t provide us with the specific knowledge we needed.
+
+Help at hand
+With that in mind, M.J. Bale has signed up with Tryzens, a consultancy that specializes in e-commerce environments based on Salesforce, as well as SAP Hybris, Magento, Intershop and IBM. The goal is to maximize the return on its investment in Salesforce Commerce Cloud, and the work is kicking off with projects in two areas, Westwood explained.
+First, Tryzens will be looking at the navigation aspects of the website: this will focus on the navigation bar (the ‘mega menu’) at the top of the screen and how that’s structured, as well as the refinement bar on the left-hand side that customers see when they’re exploring categories and want to see products by size, colour, fit and so on. 
+Second, Tryzens will focus on product sets and ‘shop the look’ capabilities. By grouping individual items together behind the scenes, a customer who sees an outfit they like will be able to buy every item in that complete outfit, rather than having to hunt down each item individually. Says Westwood:
+
+So that’s the first project. We’ve basically scoped out the designs, the user journey and the rules and now Tryzens is in the process of doing the development work on that. We’re looking to launch that by the end of July.
+
+Beyond transactional 
+Beyond that, M.J. Bale and Tryzens hope to explore the artificial intelligence (AI) aspects of Salesforce Commerce Cloud, using Einstein to create recommendations, for example. This will help MJ Bale make other suggestions to customers based on the items they’ve recently viewed. Said Westwood:
+
+I’d say that, right now, our focus is on just allowing customers to shop better, to bring our e-commerce experience in line with our stores, which are known for their great customer service. Our store staff are great at making recommendations, pairing items together, suggesting other items – and so far we haven’t felt that we do that as well on our website.
+
+From there, she said, the company wants to create a more ‘editorial’ feel to the website, one that conveys the M.J. Bale brand better. This is important, because MJ Bale has a good story to tell. Its founder Matt Jensen (the ‘M.J.’ in M.J. Bale) is the son of a wool grower, with a keen eye for style and detail. He insists on Australian wool to make the company’s products. That wool is sent for processing into textiles at famous Italian woollen mills including Loro Piana and Vitale Barberis Canonico. Japanese tailors are involved in the construction of suits at the higher end of the M.J. Bale range. In other words, there’s a big emphasis on quality and on an ethical supply chain. 
+In some respects, M.J. Bale already has its editorial content sorted. It produces a bi-annual magazine – The Manual – that comes in paper and online formats and is very well received, according to Westwood. But the online version of The Manual is completely disconnected from the e-commerce website where purchases are actually made. The goal now is to integrate that content with the e-commerce website, in the style perhaps, of the Mr Porter magazine from Net-a-Porter or Vogue magazine’s edits for Marks & Spencer. Said Westwood:
+
+So our vision for the rest of 2017 is not only to allow customers to shop for suits better, to bring some of the smarts that reside in Salesforce to actually come into effect for us, but also build out the content piece. There’s a lifestyle element around M.J. Bale – it’s not just about the suit, but about what the suit embodies for a customer in terms of their life stage or career progression. We want that to shine through on the website. Right now, our website is very transactional. Instead, we want customers to engage with our brand, and to make their purchases as a result of that engagement.
+
+
+Image credit - MJ BaleDisclosure - At time of writing, Salesforce and SAP are premier partners of diginomica. Since this interview took place in early June 2017, Sarah Westwood has left M.J. Bale. Read more on: Retail e-commerce and the omni-channelUse cases 

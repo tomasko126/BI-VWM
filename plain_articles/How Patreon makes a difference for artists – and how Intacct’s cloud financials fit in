@@ -1,0 +1,40 @@
+
+One of my stump speeches that I’ve (largely) spared diginomica readers from is about how the digital economy is sticking it to artists. That’s not an entirely fair statement.
+It’s just that despite the happy talk about “connecting directly with your fans,” the means to monetize haven’t kept up with the pace of change.
+That’s where a cool company called Patreon enters the picture. So when I had the chance to learn how Patreon works, while finding out how a move to Intacct’s cloud financials fits in, I was dialed in. But did Patreon’s Head of Finance Alan Federman agree with my grim take on the plight of artists? To an extent, he did:
+Our co-founder Jack Conte tells the great story about a YouTube video that he produced – he’s a musician. I couldn’t tell you offhand the exact number of hits that it got, but it was easily in the hundreds of thousands, if not more, and he received a paltry check for something like $30 or $50. He realized right away that this is a problem.
+Exactly. So what’s Patreon doing about it? Federman:
+We are a membership platform that enables the emerging creative class to get paid. We have creators of all sorts on our platform, podcasters, YouTubers, bloggers, musicians – and we provide a way for them to basically monetize their art. Our patron concept is based off the concept of a patron of the arts.
+How Patreon’s model works
+That means you, my readers, can become a patron if you so choose. Patrons can make a monthly pledge to an artist of their choosing, anywhere from $1 to $100. One twist is that most patrons are not pledging money to buy the art itself. They are typically pledging for an “experience” of some kind, which enhances or adds to the art:
+It’s more about the experience and the connection and less about selling a piece of artwork. Some of our visual artists may send you an actual drawing or print if you’re at a certain rewards tier, but it’s really more about the connection and the experience and less about the product.
+The ability to connect with the artists you support is part of the draw. Federman says that some artists let their patrons into their process, such as visual creators live streaming some of their art as they draw it. it. Each artist comes up with their own perks for their subscribers/supporters. Other examples might include access to unreleased music or live recordings.
+If you’re thinking, “that’s a cool idea, but not sure if it will work,” Patreon’s further down the road than that. There are now 1 million active patrons on the site, and just over 50,000 creators. Their goal is to double their growth each year, which they’ve done the last two years, and are on track to do again.
+Supporting financial growth – why Intacct was selected
+Growth is good, but it brings its own set of problems. Patreon was pushing QuickBooks to its limits. Federman:
+Fortunately, we didn’t get to that breaking point, but we saw it approaching very very quickly. We looked at different applications, and did an analysis and concluded that Intacct, for our business model, was the best fit.
+This was a familiar refrain for Federman. A few years ago, at another company, they had gone through a similar process: “I had done this analysis before, so it was all very familiar, and it made a lot of sense.” Federman laid out the main criteria:
+
+Ease of use – “We’re not a big department here, so we needed something that was, quite frankly, easy to use, and also one that had a high degree of self-sufficiency. One of the things we liked about Intacct over some of their competitors was their contextual help function. We were in the report writing module, and a question came up, and when we went into the help, it was right there. That was really important to us. It was really easy to use.”
+Granular attributions – “For us, as we look at how we build our business and how we grow, getting very granular into departmental expenses is super important to us. One of the things we love about Intacct is its near unlimited attributions. So I can take any one cost and say it’s a PR cost, or a marketing cost, and really understand the cost drivers of running our business.”
+Cloud-to-cloud integration – “We use bill.com for our payments, we use Abacus for our expense reporting, and the integrations with those were really strong.”
+Financial reporting  – “Some of the other competitors that we looked at, we then had to get an extra layer on top of that for the financial reporting, and we didn’t want to do that. We wanted to try to kind of keep it all in one contained place.”
+
+In January 2016, Patreon went live on Intacct. Federman’s team paid particular attention to the chart of accounts. They brought in an Intacct consultant to get that right:
+Go-live went really smoothly. We had a great consultant from Intacct that kind of helped us redesign our charter of accounts. Because that was the key to the success. Most people’s eyes glaze over when we talk about charts of accounts, but it’s kind of the foundation that everything is built on. That was the biggest challenge of the project. Once we got that set, designing the reports was probably the second biggest challenge.
+Once the chart of accounts and reports were set up, the final big hurdle was data conversion:
+Data migration and conversion was a large volume of work, but not a terribly complex process. It was really just mapping how we had the numbers in QuickBooks to what we have in Intacct. We put all of our historical data into Intacct, at the balance level, not at the transaction level. We have the whole history of Patreon now in Intacct.
+Results – starting with the “perpetual close”
+And what about results? Closing the books faster is a big win:
+One of the things that is really important for us as a company, because we’re growing so quickly, is the idea of respecting our teammates’ time. One thing that Intacct has allowed us to do is, number one – get the books closed so much faster. That way people get the results.
+Closing the books is still a pain point for most. Federman’s team has forged ahead, with an almost-perpetual close:
+I am smiling because that is a topic that is near and dear to my heart. We’ve implemented a process here at Patreon – I call it the “Perpetual Close.” I always found that the idea of the month-end close is an artificial time constraint, and it forces a huge amount of work in a short period of time.
+In a sense, we’re closing on almost an ongoing basis. We’re reporting our revenue weekly; we’re reconciling our cash every day. By the time we get to the close, we’re pretty much done. Then we can focus on the reporting and the analysis.
+Dashboarding has been another key, with senior managers on board:
+Another functionality we’ve used quite a bit is the dashboard. Particulary senior management. They can get an overview, at any point in time during the month or end of month onwhat’s going on with the business… It helps us respect their time and it helps us move much faster too.
+Data visibility is a big theme in the cloud ERP use cases I’ve done this year:
+We’re very data-driven. On our dashboards, we can just put our metrics up there, and with either a smile or a frown, it tells us – in two seconds – where we are and where we need to go.
+The wrap – Intacct moves on as part of Sage
+A few days after this use case was completed, Sage announced its acquisition of Intacct (see my colleague Den Howlett’s analysis in Sage acquires Intacct for $850 million – everyone’s a winner). To me, this type of use case is a good example of why Intacct was an attractive acquisition target.
+It’s early days, but I expect to hear many more use cases of this kind, regardless of the acquisition. Why change what isn’t broken? Time will tell – I expect to learn more on the ground at Intacct Advantage in October.
+Image credit - Musician playing a trumpet © Ljupco Smokovski - Fotolia.comRead more on: Cloud ERP financials and supply chainUse cases 

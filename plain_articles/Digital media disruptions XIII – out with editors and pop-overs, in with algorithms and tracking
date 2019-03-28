@@ -1,0 +1,58 @@
+
+Yes, it’s time for another gut-check review of digital media disruptions – the enterprisey review (see previous installments). Rules: pick the impactful stories from my digital media scoop.it, and give them a hard look from the enterprise side, where eyeballs still count – but only if they’re the right ones. I’ll blend in a few actionable responses for each.
+
+Facebook Eliminates Human Trending Topic Editors And Replaces Them With An Algorithm
+by: Jim Dalrymple II
+key excerpt: “Facebook said Friday that articles in the trending section surface “based on a high volume of mentions and a sharp increase in mentions over a short period of time.” The company added that while it did not find evidence of “systematic bias” earlier this year, the new changes to the product “allows our team to make fewer individual decisions about topics.”
+enterprise relevance: high – algorithms are taking nibbles, and then bites, of many content/data tasks. Facebook got backed into a corner as their human trenders were accused of liberal bias and injecting trending stories. Facebook brandished its usual excuses but made the change. The danger is assuming algorithms can eliminate human bias, a topic we’ve been exploring on diginomica (one example from HR here). More on Facebook algo disorder: Why Won’t Facebook Release Me From Overnight Oats Hell?
+best course of action:
+
+Facebook’s algo-driven publishing is on a different scale than enterprise media, but we’re fools if we don’t track their mass personalization experiments.
+The aftertaste Facebook leaves when heavy-handed changes are made is a reminder that transparency is invaluable in keeping reader loyalty through change. Algorithms are best used in a tight/visible feedback look with the customers they serve. Facebook stinks at that follow through – we shouldn’t.
+Even if machine learning style personalization fails awkwardly sometimes (e.g. “overnight oats”), experiments with content personalization matter. Put as much control in the hands of content consumers/prospects as you can.
+
+
+Massive new study lifts the lid on top websites’ tracking secrets
+by: Bill Camarda
+key excerpt: “Next, Englehardt and Narayanan turned to fingerprinting: techniques for individually identifying anonymous site visitors based on the unique characteristics of their hardware and software. (Check out our detailed primer on fingerprinting here.) The researchers wanted to know: Is it really being used in the wild? How widely? Which techniques?.”
+enterprise relevance: Dilemma: this piece by Camarda is too simplistic and optimistic; the underlying “massive” study is too dense (see PDF link). Some type of preference tracking is necessary to personalization – just how much is a riddle.
+best course of action:
+
+Transparency of tracking is a must. Audiences will accept some preference tracking if they are given the opt-ins, and it doesn’t affect their consumption through excessive pop-ups and ad tech.
+Reader identification shouldn’t be limited to ad tech. If the same tactics can be used to simplify secure log-in and prevent ‘lost my password” hell, it’s worth it.
+
+
+Google to punish sites that use intrusive pop-over ads
+by: Valentina Palladino
+key excerpt: “Google claims these intrusive ads and interstitials create “a poorer experience” for users, particularly on mobile where space is limited by smaller screens. It’s not wrong—sometimes pop-up or pop-over ads that show up on mobile websites can take up the entire display, forcing you to view them while furiously trying to find the “X” to close them. After January 10, 2017, sites that show these kinds of ads (which include content-obscuring “please subscribe to our newsletter!” pop-overs) “may not rank as highly” in search results.”
+enterprise relevance: Medium, if it happens. We’ll see how rigorous the enforcement is. Some enterprises have resorted to desperate pop-up ads, usually for mundane newsletter sign ups. Bounce Exchange encourages a confrontational/insulting pop-up which many companies have been suckered seduced into trying. Google is correct that such aggression flies in the face of a good UX. If such sites are punished, I’ll dance in the streets (Sidenote: we made a decision at diginomica to never go the in-your-face pop-up route in our personalization pursuits, we think there is a subtler way to achieve opt-in without annoying our own customers. Yes, we make mistakes, but this won’t be one of them). Also: Facebook is hitting on spammy crud from a different angle; punishing post titles that its algorithms flag as clickbait.
+best course of action:
+
+Desperate opt-in pop-ups are not needed if you achieve content authority. Why? Because the readers you seek will be back. There are plenty of acceptable ways to achieve opt-in without pushing the yuck envelope.
+If/when you do use in-your-face tactics, don’t be blinded by the higher opt-ins. Also measure the disillusionment.
+Algorithms that punish clickbait can be a pain. Google News sometimes excludes our stories because they are wrongly filtered by Google’s imperfect algos. Minimize these dangers: craft appealing titles that sound useful – not sensational – and directly relate to the content.
+
+
+What I learned from blogging every weekday
+by: Josh Bernoff
+key excerpt: “Every time I write, I hope I will create something great and popular. When I do, the traffic grows and swells. But after 387 posts, I still cannot tell you which ones will pop. I had no idea ahead of time that my writing tips post would generate 750,000 views. Or that my next most popular posts, with over 20,000 views each, would be about a Donald Trump meme, a letter from Tim Cook, and a county clerk in Kentucky.”
+enterprise relevance: medium – it’s unwise for an enterprisey type with a day job to blog every day. A quality post once a week is usually more potent. But for an editor who runs a daily enterprise blog, Bernoff’s lessons are instructive, particularly the tips on content ideas. Bernoff is seeking a mass audience, whereas you’ll need to measure more than page views. A post that reaches only 100 people might be fine IF the right people see it. Still means there is a metric around which posts work and which don’t. It’s a myth that volume teaches you exactly what to write. Bernoff is right: it’s the extra swings at that plate that matter.
+best course of action:
+
+Frequency of content matters, as long as quality isn’t compromised.
+A terrific way of building deep content is by creating features that answer your audience’s top twenty issues.
+Daily isn’t the key but consistency is.
+Bernoff found an identity and readership with a strong/memorable brand (“Writing without bullshit.”) He answers reader and blog questions and remains accessible – so should we.
+
+
+Bonus content: a few more for the road.
+
+Warner Brothers reports own site as illegal – Warner tastes the perils of overzealous copyright enforcement.
+The Suicide Pact Between Marketing and Media – An incindiary take on a broken advertising model (“No one wants a turd.”
+Startup Says It’s Figured Out a Way to Make Micropayments Work – Not sure if micropayments can solve the broken ad model, but Blendle has taken this experiment further than most.
+Friday rant – Gawker.com shuts down, should enterprises care? – Gawker shuts down; yours truly vents some spleen.
+
+
+These pieces were picked from my curated scoop.it channel, enterprise media disruptions. You can also view the entire digital media disruptions series.
+
+Image credit - Changes Ahead Freeway Road Sign © trekandphoto - Fotolia.com.Read more on: Content marketingDigital and content marketingMobileUser experience 

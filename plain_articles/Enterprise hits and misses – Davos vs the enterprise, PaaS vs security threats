@@ -1,0 +1,64 @@
+
+
+Lead story – The virtues of PaaS in the face of security threats like Spectre and Meltdown – articles by Kurt Marko
+You may be wondering how the virtues of platform-as-a-service (PaaS) extend to protection against external security threats and malware? Well, Kurt’s got you covered – and it comes down to infrastructure automation. Ergo: modern architectures are a heck of lot easier to patch.
+As Kurt argues in Meltdown and Spectre underscore the ongoing need for infrastructure automation:
+While many will rightly tout the benefits of faster development cycles, as the Meltdown-Spectre incident demonstrates, the need for rapid, repeatable infrastructure updates is even more important in an era of escalating and more pervasive security threats.
+For legacy environments, patches are the stuff of long weekends and hair loss. But not so with modern PaaS automation. And it’s not just geeky startups and Facebook/Google getting in on the action:
+For example, patches can be applied within hours of availability, often, as Ford Motors does, during business hours.
+Kurt acknowledges that for large enterprises with tons of technical debt/bloated systems complex IT environments such a transition would be gradual, starting with the edges, and the replacement of apps over time. But we can add better protection against security threats to the lengthy list of DevOps/cloudy-agile benefits for enterprises to consider. That’s why we sweat the technology around here.
+If that’s not enough to build a PaaS business case, Kurt’s got more fodder for you in Building the convincing PaaS business case. Amongst the PaaS benefits, how does “Increased revenue via faster product development and delivery” and “Improved customer satisfaction and service” grab ya?
+Diginomica picks – my top three stories on diginomica this week
+
+LiveStories makes civic data accessible with data visualization – Can a startup with tech chops bring big data analytics to local governments? Jerry takes a closer look.
+A look at how ThoughtWorks supports LGBTQ employees – a lesson on inclusion – At NRF 2018, “employee experience” was a dark horse hot topic. But you’re not getting that engagement without getting culture/diversity right. Cath shares the learnings of a UK consultancy. Key tip: avoid “pigeonholing people into diversity ‘silos.'”
+NRF 2018 live – retail apocalypse? No. Data problems and store/online convergence? Yes. – If you’re a retail or data/customer experience buff, you might want to dig into my ongoing NRF 2018 “Big Show” coverage. This one includes a load of surprises as well as some nifty demo awards. I’ve also posted a use case which drives home the data problems -> results angle in NRF 2018 live – How DAVIDsTEA uses loyalty program data to change experiences – and results.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+How the XaaS effect is transforming Oracle’s culture – Phil coins a wonky clever new term the “XaaS effect” and applies it. In this model, tec change and biz/culture change are inseparable.
+Bill McDermott commits to SAP Community – it’s a BFD. MSCNGA? – Den gives his best generation Y/WTF impression with an article title that will either have you ROFL or reaching for the urban dictionary. I won’t spoil it for you. But the article itself is one of critical importance for SAP. Community isn’t a soft/nice-to-have concept anymore. It’s a BMFD big part of why buyers trust – or not.
+How IBM’s blockchain investments are paying off – The blockchain-for-enterprise debate rages on. Meanwhile, IBM is betting big on unproven use cases – and open source blockchain projects via Hyperledger. Jerry explains why.
+Cloud ERP vendor Rootstock acquires competitor Kenandy – Brian broke the story of a major move in the cloud ERP space (both vendors are on the Salesforce platform). He explains why the result will be a cloud ERP “vendor of consequence.”
+
+A few more vendor picks, without the quips:
+
+Marine Harvest fishes for a global ERP catch with Infor – use case by Jessica
+Infosys Q3 FY 2018 earnings – it’s the rhetoric that matters – Den
+Differentiation by platform – the Oracle and Salesforce approaches – Denis
+
+Jon’s grab bag – I rarely give out a “cutest title of the week” award, but you’ve gotta admit,  Martin’s Sitting in The Dock of AI is pretty darn adorable. It’s about how The Dock in Dublin is testing the AI/ML/automation waters. Speaking of waters, Angelica wades into regulatory issues with authority in Preparing for PSD2, the technology issues (that’s the European Payment Services Directive).
+Keeping on Eurothemes, Derek looks at the UK’s Brexit/digital governance crossroads in Government Digital Service on the hunt for Head of EU Exit. Finally, I invite you to peek further into my productivity fetish obsession in Productivity 2018 gut check – our employers won’t solve this problem. It’s on us. Bonus: trenchant reader comments from Twitter worked in.
+Best of the rest
+Not picking one story for special treatment this week, but here’s the picks of the litter:
+
+Research Report: Constellation’s Futurist Framework (PESTEL) & Political Outlook Pre Davos | Constellation Research Inc. – 
+
+Ray Wang’s Davos preview is a welcome reminder that political and macro-economic issues are absolutely connected to enterprise software. As in this wake-up call for the west:
+Across the Western economies, few elected officials have science backgrounds. Meanwhile, scientists hold eight out of China’s top nine government posts. The lack of science and engineering fundamentals often hinders digital business discussions and the implications of technology policy are unclear to decision makers, who become timid and dependent on lobbyists and other influencers who peddle biased information.
+I’d say “Amen!” but I think that contradicts Wang’s point about science.
+
+Google Rankbrain SEO – Best SEO Strategy Insights in 2018 – If you read one SEO piece this year, make it Bob Warfield’s. Warfield doesn’t cover the impact of voice search, and he seems a bit more trusting of Google’s search wisdom than I am, having seen people run out of business by running afoul of Google’s questionable ideas on site authority, but: Warfield knows his stuff. When he talks about “intent” and “topic clusters” and how that impacts key word targeting and content planning, we should all be paying attention. (It’s Google Rankbrain or bust).
+Next-Generation Mobility Stratifies OEMs – Re-Imagining Corporate Innovation with a Silicon Valley Perspective – Speaking of folks who know their stuff, Evangelos Simoudis knows connected vehicles. Here he looks at how auto OEMs must change – or lose out:”They must decide whether to remain exclusively vehicle designers and manufacturers, and if so what types of next-generation mobility vehicles to offer. They are also trying to determine whether to provide mobility services.”
+SAP: When you come to a fork in the road, Take it! – Vinnie Mirchandani gives SAP some free (and worthwhile) advisory, based on SAP’s hotly-debated “HCM extended maintenance for on-premise as part of S/4HANA” decision.
+Elbowing into a World Dominated by Amazon > Five Traits of Iconic Marketers – Sameer “Hey, I knew this guy when he was a pesky analyst, now he’s a startup rockstar” Patel on what sets world class marketers apart from hashtag hacks.
+Speaking of India: Five Lessons on India-Based Product Development – Dave Kellogg takes his blog in enterprise directions others wouldn’t go. We need more of his kind.
+Facebook Is Making Big Changes To Your News Feed – I’m gonna whiff on this one next week, but for now, just know that our navel-gazing hipdaddy and his super geeks are fixing your feed up for you. They feel bad about giving us so much digital crack, and are switching over to Internet opiates for a more natural high. They’ll keep selling creepy advertising leveraging our friends’ bizarre brand affinities on the backs of our fix however.
+
+Whiffs
+Some whiffy awards of dubious distinction:
+
+The resist-Photoshop-temptation award -> Actor Says Disney is ‘Browning Up’ White Extras in Aladdin
+The makes-sense-when-you-think-about-it award – Why incompetent people think they’re amazing
+The algae-that-feeds-on-the-pondscum award – Vtech covered up a leak of data on 6.3m children and their families, then tried to force us not to sue 
+The questionable health trend/suckers come in all flavors award – Silicon Valley elites are spending $37 for less than 3 gallons of dangerous, unfiltered water – and it’s flying off the shelves
+The arrogance-makes-the-problem-worse-award – Intel tried desperately to change the subject from Spectre and Meltdown at CES
+The even-more-arrogance-makes-the-problem-even-worser-award – Can Apple dig itself out of the ‘iPhone throttling’ hole it created for itself?
+The I-clicked-on-this-goofy-linkbait-headline award goes to: me, for clicking on this:  Bitcoin Watchers Are Blaming the Slump on the Moon”. Go ahead, click on it, but you may be disappointed, as I was.
+The I-feel-better-already award – Twitter Says No, Hundreds Of Twitter Employees Are Not Reading Your DMs.
+
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Postscript: in the almost-five-years I’ve been doing this column, this may be the first time I don’t have any picks from the astonishingly prolific Stuart Lauchlan, my diginomica colleague who is a tad under the weather. Feel better soon mate – I doubt your iron content streak will be broken.
+
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Winter Sports © lassedesignen - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Cloud platforms - infrastructure and architectureHits and missesSecurity 

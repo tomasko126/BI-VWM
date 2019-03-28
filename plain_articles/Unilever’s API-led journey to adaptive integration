@@ -1,0 +1,38 @@
+
+In the past three years, consumer packaged goods giant Unilever has taken a scythe to its middleware estate, decommissioning 95% of the assortment of legacy tools it had had in place across the organization — while improving the resilience of what remains to an impressive 99.96%. It’s done this at the same time as speeding up the time it takes to deliver integrations to the business. Frank Brandes, director of global enterprise business integration, took to the stage at MuleSoft Summit in London earlier this month to explain how.
+Based in Hamburg, Germany, but responsible for IT integration across the €53.3 billion ($60bn) global business, Brandes in 2012 had led the creation of a Center of Excellence for enterprise business integration within the Unilever IT organization. The team quickly realized that supporting the growth ambitions of the business meant taking a new approach to integration. They had to find a way to let line-of-business organizations make their own integrations, rather than having to come to the central team every time, as he explains:
+Despite the fact that we were very advanced in the way we were driving SOA [service-oriented architecture] and reuse, the structured way of setting up the process and putting our team on the citical path of all the integration technologies in Unilever, that would not be good enough to support the growing number of cloud integrations and deliver the speed and agility that was demanded by the business.
+They had to find a way to accelerate the integration process while still maintaining governance and resilience.
+The only way we could really make a stepchange was by decentralising the ownership of some of the components and decentralizing the innovation.
+Striking the right balance between delegation and governance was essential:
+If you have too much control, you kill innovation. If you don’t have enough control, you don’t get the reuse and you have people moving off in different directions.
+Adaptive integration
+The result was the creation of a separate team known as the Adaptive Integration Capability (AIC). Its mission was to provide integration in the form of reusable services delivered from an API platform, rather than as a series of discrete custom projects.
+The decision was to put platforms at the heart of IT. The focus goes away from delivering projects, to delivering platform capabilities that the business needs.
+The team focused on business functions that were already innovating in their use of digital technology, such as marketing and Internet of Things.
+We reached out to a large number of stakeholders to understand pain points, plans, challenges, to really understand what could we do to enable their agenda.
+A devops team was created to build in-house experience while delivering the first few projects.
+This has helped us deliver early AIC solutions at an early stage while we were still learning how to do it.
+The next step was to evangelize the platform and create demand for its capabilities. The team set up an enablement center and set about creating a content framework of patterns, templates, building blocks and code that people could use. It’s important to store these in a way that is easy to discover and access and open for collaboration, says Brandes.
+At the same time, the team worked to populate the platform with system-level APIs that connect to core systems such as SAP and Salesforce.
+It’s so important that you create the assets. The more system APIs you have, the more likely it is that the business will have something they can reuse. It’s really making sure you have enough assets in place to create momentum.
+A side-effect of the API-led approach is that the platform can act as a bridge across a 2-speed IT infrastructure, while avoiding the danger of creating bimodal silos. Brandes explains:
+The other great advantage is that you decouple your backends. This is the other big component that needs to be put in place.
+The big risk with these things is that you have silos — on-premise and adaptive. The reality is that most of the platforms are hybrid. Through the API-first connectivity approach we are going to shift some of the traditional systems to become business platforms.
+Key learnings
+Brandes summarized the key learnings from Unilever’s adaptive integration initiative:
+
+Start small and deliver business value as soon as possible.
+Build the capability using agile principles, with a ‘minimum viable product’ and startup mentality. If you don’t give people the space to come up with something new then you will not succeed.
+Evangelizing is not just a task. You need to gain support from thought leaders in the business.
+Change management is a step-by-step approach. Be clear about the different engagement models and ways of working and have a roadmap for when you’re going to hand over responsibilities.
+Moving from on-premise into the cloud, it doesn’t mean resilience is not relevant anymore. Put the processes and tools in place to manage that.
+Use new terminologies in a consistent way. You need to be clear what these mean.
+Ensure you take people with you on the journey. The last thing you want is have the traditional team feel left behind like they’re the mainframe guys. This journey is very exciting and we can only work together — give people an opportunity to be part of it.
+Think about how you want to run the whole area. Traditional on-premise systems will not go away tomorrow, you need to manage the hybrid transition.
+
+Brandes’ final tip is to realize that, while you’ll be able to define short-term goals along the way, there is no end point once this new approach takes hold:
+This is a journey and we’ll need to adjust. There is no end stage. There is where you want to be in a month or in two months, but the world is changing so rapidly that you need to adjust as you go.
+My take
+Last week my interview with MuleSoft founder Ross Mason set out the theory behind the company’s “opinionated” approach to API-led integration. Unilever’s case study brings this to life, showing how creating a platform that standardizes the governance and sharing of IT resources can bypass integration bottlenecks and support innovation. Brandes also provides an invaluable checklist of lessons learned.
+Image credit - Unilever sign © UnileverDisclosure - Unilever's Frank Brandes was speaking at the MuleSoft Summit London in May 2016. Read more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackGoverning identity privacy and securityUse casesUX and application designBest of 

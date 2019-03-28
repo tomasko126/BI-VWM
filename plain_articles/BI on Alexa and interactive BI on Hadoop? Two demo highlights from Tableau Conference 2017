@@ -1,0 +1,38 @@
+
+When I’m not knee deep in customer sessions, interviews,  and goofy brilliant vendor keynotes, I like to hit the show floor and put shiny new objects to the test. If something captures my fancy, I’ll try to talk the demo folks into an impromptu recording.
+Those victims vendors willing to go on the record in a spontaneous and unpolished manner – without any idea what the heck I’ll do with the footage – earn respect.
+Tableau Conference 2017 had some fun candidates. I’m partial to upstarts who are tackling big/external data, and/or the hard work of data cleansing beyond enterprise walls. Doing those things at scale always pushes the performance envelope – but if enterprises are serious about transforming business models, that’s the beastly road ahead. I’m also a sucker for conversational UI, which lured me into BI on Alexa.
+But before we get there, hat tip to Alteryx, which had the one of the least brand-washed slogans I’ve seen on a trade show floor:
+
+That’s the spirit! I’m also including Alteryx because several customers told me that Alteryx has been instrumental in solving pesky data cleansing issues to support their Tableau dashboards on the back end. That unglamorous work matters – so does customer singing your praises over lunch when your marketing team is nowhere in sight.
+BI on Alexa from Tredence – a live recording
+I’m an Alexa dude – even if Alexa does a non-existent job of welcoming me home after trips despite having access to my calendar. But with conversational UIs picking up enterprise mojo, I couldn’t resist stopping by the Tredence BI on Alexa booth and putting them on the spot. The show floor was loud enough to confuse a human, much less a bot. But Tredence CTO Sumit Mehra was able to get Alexa to push out a sample of their BI on Alexa verbal report.
+This service – which can also be received as an email – is envisioned as a mashup of dashboard highlights and relevant market news, which an executive could get from Alexa in the morning or whenever they needed a capsule review. As Mehra told me, it’s also seen as a solution to “dashboard overdose” – too many dashboards to check, too little time.
+Rather than re-invent the voice recognition wheel, Tredence built their BI/AI sauce into the Alexa interface. Mehra did an unrehearsed BI on Alexa recording for me, and as you can hear after my brief into, Alexa chimes right in, as helpfully as ever:
+
+Except we’ve never heard Alexa give us at corporate health status:
+Last week, we have seen strong business performance with revenue growth of 16.1%. YOY. Gulf South, Industrial, Western Canada, and Mid Central regions in the U.S. have seen a decline in capital of 3.6%, 3.3%, 1.9%, 0.1%, respectively. Here are some other insights I gathered from recent industry news.
+The industry news is personalized, and includes competitive landscape updates. Just to be clear: Mehra is not opposed to dashboards. As he says:
+I am not saying don’t use dashboards. Use the dashboards. But, tell me what to look at right away, tell me what is happening in my ecosystem… Give me a start to my day.
+This solution has three parts:
+
+“First, an AI Engine, which pulls data from multiple sources, it could be your dashboards, it could be web, it could be a CRM Systems, it could be finance systems.”
+“Second, it can work those insights into English sentences. That’s by using NLP, National Language Processing, and [turning data] into “Hey, this is what is happening.”
+“And then communicates to me while Alexa or while outlook email.”
+
+I see some immediate enhancements that could be made, one of which you’ll hear in the recording: give me the ability to action on the data via verbal “to do” lists I can address at work. And: give me the option to alert contacts to issues Alexa tells me about. Still – an intriguing way for the busy exec to start their day.
+Interactive BI on Hadoop – video demo with Jethro Data
+If getting Alexa to talk to you on the show floor is a challenge, getting a demo to work on overloaded conference wifi is another matter entirely. But after the crowds cleared out, Jethro Data was up to the challenge, and President Eli Singer walked me through their Tableau on Hadoop solution.
+I’m fascinated by this problem because it pushes both Tableau and Hadoop to deliver. Tableau’s question has been enterprise scale. Hadoop’s been good on scale, but not so much on deriving insight from the data. Tableau can help there, but only if Hadoop’s performance is up to the task.
+It’s not the case that companies have derived no value from Hadoop. But as Singer told me, Jethro Data is honing in on a very particular pain point that has not been solved: interactive BI on Hadoop.
+People have been playing with Hadoop for quite some time. They were able to get some use cases to work successfully in Hadoop. Many things like ETL, or a data science project like machine learning or data analytics. The holy grail and the biggest challenge was always getting interactive BI applications to work on Hadoop – [that’s been] extremely challenging.
+This is a problem because the “higher value, higher visibility” applications are affected. Or, as Singer aptly put it:
+Slow BI is no BI.
+So here’s my five minute impromptu demo video with Jethro on interactive BI:
+
+The demo shows the example of a 3 billion + record set in Hadoop that can be manipulated on Tableau dashboards, and filtered to hone in on sales data in particular regions. One filter, which you’ll see in red, is the relative credit risk factor of the customers. But whether you sort by risk, by city, or some combination of factors, that’s up to the individual. As Singer told me:
+No matter how you interact with this data, the point is you can drill down and get interactive responses in a two, three second response time. Even though you’re dealing with three billion rows, and you interact with it live on Hadoop.
+There are architectural reasons that Jethro believes sets their solution apart. Singer spells that out in the video.
+I won’t get into the nitty gritty of that here, but Singer says their solution is “fully automated,” easing the data prep time without manually pre-defining cube aggregations. The goal is to make Hadoop faster and save users and IT teams from complex data engineering projects.
+The market will obviously decide if these solutions are exceptional and meet an unmet need. But it’s always good to hear from vendors who are charging ahead – especially those who don’t mind a pesky media dude armed with recording gear.
+Image credit - Screen shots and embeds by Jon Reed. Disclosure - Tableau paid the bulk of my expenses to attend Tableau Conference 2017. Just in case it's not clear, both these demos use "dummy" information, rather than real corporate data. Diginomica has no financial ties to Jethro or Tredence. Read more on: Analytics planning and data analysisFrictionless enterprise 

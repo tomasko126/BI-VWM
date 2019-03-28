@@ -1,0 +1,49 @@
+
+I’ve written about how the designers at Enterprise UX 2017 in San Francisco surprised me with their ambitions. Rather than simply building better products, these folks believe design as a method can aid in transforming the enterprise.
+But on a practical level, how does design shift from optimizing web sites to a more potent role? And how do you get that done within resource constraints?
+Those topics dominated the Leading Teams that Execute theme at Enterprise UX 2017, led by Theme Leader Philip Hunter, Head of UX, Amazon Alexa Skills. In his talk “Customer-centered Design Organizations,” Peter Merholz, VP of Design at Snagajob, co-author of Org Design for Design Orgs, shared a field-tested model for strategic design. For Merholz, learning to be strategic was a hard-won lesson:
+I’ve been working in this industry for over twenty years. When I started out, my thought was to deliver great user experiences. I just need to get the design right. If I do my job as a designer, if I do my level best to talk to uses, understand them, create great designs, and get those out into the world – all the experiences will be great. And that is not true. I realized, “You know what? I don’t just need to get the design right – I need to get the strategy right.”
+So Merholz started “moving upstream a bit, engaging the strategic challenges business face,” and using that to inform his design. But that wasn’t the end game either. The structure of design teams was the missing piece:
+What I came to realize is that in order to deliver great user experiences, we need to get the organization right. We need to spend a lot of time thinking about people and their relationships within the design team, and then their relationships with other teams. How you shape people and their relationships is necessary in order to get great experiences out into the world.
+Centralized Design Services – a shared services model
+Merholz went on to present three contrasting organizational models for design teams. Though each model brings pros and cons, it’s the third model that lends itself best to so-called “customer-centric” design.
+1. Centralized Internal Services – this is a shared services/project-based design model. In this model, design terms are sent out on projects throughout the business:
+Someone in the business raises their hand and says, “We need designers to work on this for two days, two months, two years.” They pull a team together, farm them out, they do the work, and they come back and they get sent out on something else afterwards. The team itself gets organized by function. You have interactive design, visual design, user research team, etc.
+Merholz has found this centralized model can be a good starting point:
+There’s a number of things that work well for it, especially at the outset to help to make sure you’re developing an internally strong design community. You have clear lines of authority and decision making within the team, and the seniority of the team. The individuals on the team get to work on a wide range of projects, where you get one part of the business one week, another part of the business another week. It’s exciting; it’s new – they’re learning things.
+Another benefit is design consistency. In theory, this centralized design team is operating on a standard set of templates and design protocols. When cracks show up in this model, it comes in the forum of demoralized designers who can’t keep pace with business needs:
+Designers, as they go about doing their job, inevitably want to push back on the requirements… If we try to push back [on the design brief], the business says, “That’s nice, but you’re going to be gone in two months and I’m going to still be here. So I say no.” Then the designers feel disempowered. It turns into kind of an unsustainable relationship between designers and the people in the business they’re working with, and it ultimately leads to companies operating a lot more slowly – partly because these businesses [have to wait] for designers to be available to work with them.
+You can see the full list of pros and cons in Merholz’s slides (embedded below). The pros of the centralized design services model include optimizing design headcount, whereas the cons include lack of strategic impact, with designers having little influence on “important upstream decisions.” Merholz summed up his non-enthusiasm for this model with the analogy of “designer-as-short-order-cook.”
+“Decentralized and Embedded” design model
+Once the pitfalls of the centralized model are encountered, Merholz sees companies moving to a decentralized model, which can be simplistically described as “everyone gets a designer”:
+If you look under your chair, you’ll actually see a designer. You get a designer, and you get a designer, and you get a designer. We all get a designer. And that makes the business very happy… Instead of designers being shipped on projects, they remain with a program for a period of time.
+Merholz sees this model heavily used by the likes of Spotify, Facebook, Amazon, and other Silicon Valley players. Doubtless these companies like the autonomous/agile aspects. Merholz described a typical series of product teams, each with a product manager, designer, and 4-8 engineers:
+In those cases they are able to work fairly autonomously; they solve the problems in front of them – go-go-go.
+There are plenty of advantages to the embedded model, not the least of which is a greater sense of empowerment:
+The designer is now part of their team, they’re there throughout the development of the site, they’re not brought in midway, they’re there from the beginning. So they end up having more of a sense of ownership and influence on those strategic decisions. That feeling of ownership means that they’re doing better work.
+Another advantage? The ability to iterate quickly as products are released, with the design still embedded, ready to adapt to user needs. But, as Merholz warned us, this decentralized structure isn’t a cure-all either:
+Over time cracks start to show. Designers find themselves working on a pretty narrow problem for a long time. Think back to that product page. There’s only so many places you can put a buy [button]… You can iterate only so much. The designer ends up feeling pretty lonely. They’re the only person on this team that is a designer, who understands that mindset, that perspective, the culture that that designer comes from.
+But the problems are worse than morale. It’s not an efficient use of design resources. Sometimes the team needs a lot of design help, and the designer will be overwhelmed. At other points, they’ll be underutilized.
+Merholz sees a more serious danger: a fractured user experience. He showed us screen shots from Facebook from a couple years ago, with inconsistencies in design and menus from screen to screen:
+That can be okay for a service like Facebook, where you’re not expected to flow through the experience necessarily. You’re kind of dipping in and out. But when you’re trying to deliver on something that has more of a coherent, coordinated experience, a journey you’re helping to take people on, this approach breaks down.
+If you structure an experience from landing page to checkout, you can’t afford chaotic design elements. So if both centralized and decentralized approaches have deep flaws, are we screwed? Merholz said most companies seem to vacillate between the two, forever looking for the right balance. He proposes a third way: 4-8 person design teams, each structured around a customer journey/experience. He calls this a Centralized Partnership model.
+Centralized Partnership Model
+This structure has many advantages:
+
+Designers work across the entire customer experience, not within a narrow feature set.
+Good spread of skills across the design team, from visual design to research to prototyping.
+“Load balancing” keeps designers more productive.
+
+There are some nuances: a senior design lead will be needed, to maintain relationships with project managers. In the final section of slides, Merholz goes further into how these design teams can be centered on either the buyer or seller experience. He also spoke to the biggest challenge of this structure: finding/training/mentoring design leads who have the capabilities to get the most out of their team, bring a creative spark, and communicate/persuade/collaborate with a broad set of stakeholders.
+My take – stop chasing design unicorns
+Another big advantage of this structure: it gets us away from chasing gifted designer “unicorns,” with a focus instead on well-rounded teams. Merholz advocates sticking with this model as you scale. If you manage to build up twenty designers on the buyer experience side, you can still organize into teams by journey: one for discovery, one for purchase, one for post-purchase etc.
+There’s more than three ways to structure a design team, but I found these models instructive. Hopefully companies that want to turn design into an internal strength will find this useful also.
+ 
+ Customer-centered Design Organizations (Peter Merholz at Enterprise UX 2017)  from Rosenfeld Media
+
+End note – this article is part of my ongoing diginomica Enteprise UX series. You can check out a number of the speaker slide decks on the Enterprise UX 2017 web site. Below you can see a tweet from MJ Broadbent of her sketchnotes from the “Leading Teams that Execute” track, including Merholz’s session).
+
+
+Enterprise UX theme “Leading Teams That Execute” key insights from @gretared @peterme @uxKim curated by @designoutloud #sketchnotes #EUX17 pic.twitter.com/8bhRVMUprj
+— MJ Broadbent (@mjbroadbent) June 12, 2017
+Image credit - Hand writing the text: Good - Better - Best © gustavofrazao - Fotolia.com.Disclosure - Enterprise UX provided me with press access to Enterprise UX 2017. Read more on: Digital transformation - frictionless enterpriseFrictionless enterpriseUser experienceUX and application design 

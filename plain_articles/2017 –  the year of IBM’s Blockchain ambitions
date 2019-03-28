@@ -1,0 +1,46 @@
+
+
+
+ Not surprisingly, Blockchain activity is led by financial markets, where many predict it will have a major early impact. 
+IBM sees the take-up kicking off in earnest with the early adopter trailblazers during 2017, with  mass adoption in the financial community following on rapidly during 2018. Its own market research suggests that 14% of financial institutions are likely to have Blockchain in a production environment by the end of 2017. 
+IBM VP of Financial Markets Keith Bear acknowledges that in these early days such predictions could show wide variations.  Deutsche Bank estimates, for example, suggest that only 3% of financial organizations will be ready to go with production environments by then. Bear says: 
+
+The main thing to note here is that it is only a year since Blockchain applications started to be considered, yet we are now already moving into the pragmatic discussion phase with many potential customers. This is where the real opportunities lie.
+
+The early opportunities seen by IBM cross a wide spread of financial activity, with the low-hanging fruit being in areas such as working with reference data, retail payments, consumer lending, and other cash management applications. 
+Further out, Bear expects to see a very long tail of applications where the technology being used to manage traditional finance and corporate lending, mortgages, deposit taking and international payments. These are areas where regulation is strict and therefore the key issues will be about managing the way the technology itself is used.
+
+I can also see it creating new business models for financial services businesses in areas such as debt issuance.
+
+The company is not just setting out its stall as a Blockchain purveyor. The IBM Global Financing Division is already out on the bleeding edge of early adoption. It is already working with two of its partner companies to put tools that manage disputes on payments between businesses into production. Once this works well, it can then be pitched at the rest of its 4000+ partners and suppliers, which currently issue some 2.9 million invoices a year requiring finance of around $44 billion a year.
+Other early financial services companies IBM is working with include the CLS Group, which has partnered with IBM to release a payment-netting service for buy-side and sell-side institutions’ FX trades that are settled outside the CLS settlement service. Here, relevant data will only exist for those parties that are part of a transaction. 
+In this case, Blockchain is allowing CLS to work with organisations that are not part of this US Fed-regulated network, while giving them the security of conducting specific transactions that are regulated by the US-Fed. All other pertaining regulations will be those applied by the countries or organisations that normally regulate those businesses.
+The Japanese Exchange Group has launched its own Blockchain consortium and will test a pilot on its source Hyperledger fabric, helped by IBM Japan. Meanwhile, Deutsche Bank and Deutsche Borse are testing Blockchain for securities settlement operations. IBM and SBI Securities, a Japanese securities trading firm, are also working on a pilot of a securities trading platform.
+Knowing fine wine is fine wine
+While financial services are usually amongst the big early adopters of any technology, it is fair to say that the applications of Blockchain – at least in the early stages – are pretty obvious. That is, after all, a business where clear-cut chains of secure communication and information passing are required. But the more interesting aspect of Blockchain is how it might be used in other areas to create not just services but whole new business models.
+Take one of IBM’s newest business partners as an example. Everledger aims to produce an on-going, bomb-proof ledger, that can then be used to establish the provenance of valuable items. According to Leanne Kemp, Everledger CEO, there are many such items where the individual cost can be not just large but astronomic, and proving it is the real item and not a fake can be vitally important: 
+
+The provenance of who had it, who bought it and who has it now can be important in the world of luxury goods, especially in diamonds and art but also other areas such as fine wines. There is also the associated issue of insurance fraud that can surround such items.
+
+Using Blockchain to create secure ledgers for such items has already started in the diamond trade, with Everledger forming close relationships with the major diamond trade houses. Diamonds (big ones at least) now have laser IDs engraved into them which are then key to a provenance ledger. Now the company is looking at the fine wine trade to create a similar process, where bottles are tagged with permanent RFID tags.
+There do seem to some possible flaws in some aspects of this model, not least that it cannot be retrospectively applied with any more degree of certainty than possible from an expert or two saying `I think this is genuine’. There is also the question mark, especially in the art world, that painters and sculptors tend to only become famous after their death, so it may not be possible ask them for the provenance of yes or no.
+The other side of the coin, of course, is that all the production of  a maker/creator can now be ID’d and logged. So even where there is a poor, non-valuable period of production – with the classic example being a bad year for fine wines – that information can form part of the ledger, giving the wine a permanently `marked card’.
+But it is clear that, from here on in, the idea has real merit, especially when it comes the associate issues of insurance. And the fundamental model of creating and keeping secure, movable data that can only be updated by those known to be party to the creation or ownership of an item, and where the perpetrator of any fraud can be identified, is likely to have many other applications. 
+According to Luke Sully, Associate Partner, Blockchain Security Services Lead at IBM, there is still work to be done, not so much on security per se, but on the surrounding management and planning of transactions. For example, there are still some management issues to be borne in mind such as using encryption, especially when it comes to using different crypto-sovereignty standards.
+
+Continuity of transaction, event creation, and transformation between databases are also issues that users need to be aware of, and service providers will need to be able to offer solutions.
+
+Trust me, I’m a journalist – OK, maybe not me 
+The IBM Blockchain Ecosystem is ‘owned’ by Rob Smith, IBM’s worldwide Blockchain Garage owner. The Hyperledger architecture IBM is working with consists of a network of peer nodes, with each company that is a party to a transaction, or series of transactions, requiring one node so that they can communicate with all the other parties. In practice, Smith likens this to users building a network of networks so that companies can join with several other companies. The key is that these companies need to be consenters:
+
+Essentially, you need to be able to trust all the machines that are the consenters for they get all the transactions that come through the network. They need to be part of your business network somehow, and you need to be able to trust the person that runs them.  You have still got the membership services who say yes you are part of our service, and committers that receive the Blockchain communications and put them on the ledger in the order established by the consenters.
+
+This means that users can then share a private chain or a public chain, where someone can initiate a transaction and direct it to either an individual company or to the whole group that is party to that chain.
+Smith acknowledges that it will be that large enterprises with the established IT resources that figure largely in the early adopters, and is aware that there still work to be done to make Blockchain more available and usable by the SME community. This is particularly important as they are the businesses that can benefit most from the clear-cut management of financial transactions between businesses, especially when they are playing the role of contractor to larger enterprises. 
+He is also refreshingly honest about what steps need to be taken to speed this process, referring to it as something `we will need to find out’.
+
+We’d obviously like people to run on IBM SoftLayer, everywhere we have SoftLayer available.
+
+My take
+It seems that two contradictory terms –  ‘locked down’ and ‘flexible’ apply to the potential of Blockchain in business. It offers the ability to lock a communications channel down, creating something that is both secure and all-but impossible to defraud, yet flexible enough to be extended/adapted/modified with relative ease if all the participants in a network consent. And as the Everledger application indicates the breadth and scope for potential roles may well be limited only by human ingenuity.
+Image credit - IBM Read more on: Cloud platforms - infrastructure and architectureData privacyFinancial services and fintechRegulationSecurity 

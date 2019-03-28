@@ -1,0 +1,42 @@
+
+Started in 2014 and headquartered in London, mobile app data platform Ogury wants to help brands understand the mobile journey of each of their users and improve the way they market to these users across mobile.
+They do this in two ways. First, they track a user’s activities on their mobile device and assemble a data catalog full of insights on what users do on their mobile devices. Second, they provide a way to serve more relevant advertising and content to mobile users.
+And it does seem to be working. Ogury currently works with over 900 brands and 3,500 publishers worldwide.
+I know what you’re thinking: how are they doing this in the age of GDPR?
+GDPR by design
+I spoke with Evan Rutchik, US Managing Director at Ogury about the work they are doing. He told me that Ogury has always operated with privacy at the heart of everything they do. From the beginning, they put in place processes that require a mobile consumer to consent to the company capturing their information and using it to improve the quality of the ads they receive. GDPR coming into play has been a seamless integration for the company which launched its US office in 2016.
+Let me back up a bit. To capture device activity, Ogury works with partners who build mobile apps to install their SDK on the mobile app. When a mobile consumer downloads one of these apps and opens it several times, a full-screen consent form opens from Ogury that requests permission to share data (capture activity on the consumer’s device). According to Rutchik, they currently partner with over 10,000 app providers that have their SDK installed.
+Ogury has obtained the consent of over 400 million global users, 100 million of which are in the US. With the SDK installed on a mobile device, Ogury can capture not only usage information of the app where it’s installed but raw data on all apps installed on the phone, as well as certain browser activity.
+According to their privacy statement, they collect:
+
+Usage Data:
+
+What websites Users have bookmarked in their mobile browser.
+Which websites Users have visited.
+What applications are installed on the Users’ Device.
+Users’ usage levels of these applications.
+
+
+Technical information related to device type and network status, along with Ogury app version installed.
+Identifiers: Google Advertising ID, IP address, email address and other mobile advertising identifiers used on the Publisher App (if allowed) = Ogury says it deletes the email address after three days
+Ad Engagement Data related to the ads served by Ogury
+
+A consumer can opt-out of this data collection very easily by going to Ogury’s opt-out form and entering their Google Advertising ID.
+That piece of information points out that Ogury currently only works on Android devices, although Rutchik suggested iOS will come.
+Ogury introduced Consent Manager in May of last year, helping not only their team manage privacy, but also their partners.
+Helping brands get actionable insights
+This is the part of Ogury that Rutchik and I talked about the most during our call. Active Insights is an application that gives publishers in-depth analytics on what’s happening with their audiences’ mobile devices.
+For example, Rutchik showed me how apps in a certain category match up. We looked at the stats of two apps, examining possession growth over time, market share, active users and time spend/session. If one of those apps was mine, I could see how my app compares to other mobile apps in the same category.
+You can look at more than just the apps in your app category though. For example, you could look at all consumers who had Uber and the NFL app on their device and see the overlap of those who had both. How could you use this? Rutchik said, imagine you’re trying to get the attention of Fantasy Football players. You could send targeted ads to the Uber app or the NFL app (assuming either was one of Ogury’s partner apps).
+Monitoring the competition is another use for Active Insights. If you have a food delivery app, would you like to know how your competitors are doing with their apps?
+I’ve only scratched the surface of the possibilities you could use this data for.
+Giving consumers more relevant content
+The other part of this platform is about serving better content to mobile consumers within the apps that have the SDK installed. Ogury leverages machine learning to help publishers and marketers deliver relevant ads – text and video, as well as content that’s served as recommendations (outside the traditional ad model).
+The Ogury SDK also includes an Audience Builder that enables marketers to create custom audience profiles from the Ogury data for improved targeting. Rutchik said the Audience Builder plugs into DMPs or you can export the data to use in your other marketing tools.
+Ogury not only provides its own ad network but also integrates with DSPs, Ad exchanges and ad networks to pull in the ads that will generate the most revenue.
+My take
+With more privacy regulations coming into effect in the US, marketers will be challenged with finding accurate information on their audiences. As Rutchik pointed out, over three trillion decisions are made today based on bad data. Sometimes, that bad data is just because you’re only looking at one piece of the story. Ogury isn’t looking across channels, but it is getting a very clear picture of the entire mobile journey.
+I appreciate the strong focus Ogury has on privacy and ensuring they are only collecting the data they need to give marketers and publishers information to improve how they market to me or improve the quality of the mobile app. Their privacy policy is one of the clearest I’ve read.
+The fact that they ask for permission rather than steal your data under your nose is certainly nice to see in the age of Facebook and similar mobile apps.
+Would I give Ogury permission to track my activities on my mobile device? If I thought the information would mean less irrelevant ads when I open certain mobile apps maybe I would.
+Image credit - Feature image - hand using phone white screen on top view - by @blackzheep - from Shutterstock.comRead more on: Analytics planning and data analysisData privacyMobileUX and application design 

@@ -1,0 +1,18 @@
+
+Jim Fowler – CIO GE
+One can’t accuse GE of not hedging its bets with the Internet of Things, or the Industrial Internet, as it brands the topic du jour among analysts and media fashionistas. Along with building its own software powerhouse, developing its own Predix cloud service, backing a range of industry initiatives including the Cloud Foundry and the Industrial Internet Consortium, GE plans to be as ubiquitous as Microsoft in appearing at tech events to talk up partnerships.
+This morning GE’s CIO Jim Fowler held an on stage and staged conversation with Oracle CEO Mark Hurd at today’s Open World conference to follow up his appearance three weeks earlier at AWS Re:Invent. At the same venue three years ago, Salesforce’s Marc Benioff showed off the GE jet engine connected to his Chatter platform.
+In this chat, Fowler described GE’s ambition to drive $15 billion a year in software revenues by 2020, coincidentally the same amount that Hurd had earlier claimed the enterprise software market had shrank by in the past year.
+Faced with a shrinking market, it’s not surprising every software vendor is seeing the IoT as being their salvation with Oracle following Salesforce, Cisco and others with its Internet of Things service announced earlier this year and equally its not surprising to see GE on board as well.
+In a break out session following the Hurd-Fowler meeting, Dave Bartlett, GE Aviation’s Chief Technology Officer and his IoT architect Shyam Varan Nath along with Oracle’s Director of Enterprise Architecture, Chris Fox, laid out how the two companies are coming together.
+We need adult supervision and that’s what GE and Oracle can offer
+Bartlett proudly stated before he and Fox laid out a somewhat cumbersome diagram of how Oracle’s various services will integrate with GE’s initiatives such as the Predix platform and Cloud Foundry.
+While Bartlett cited the possibilities for GE’s jet engine division. A one percent reduction in airline fuel costs is a thirty billion dollar opportunity. Fox says the challenge with the promises of the IoT comes from working through the traditional silos of design, procurement, manufacturing, shipping and field service before showing off Oracle’s new Internet of Things cloud service with a dashboard similar to the one announced by AWS three weeks ago.
+The dashboard shows Oracle’s IoT service with the company’s IoT and Business Intelligence cloud being the gateway feeding into the company’s storage, mobile cloud and social cloud services
+GE’s Bartlett however left no doubt about how his company’s loyalties by citing the company’s relationship with Infosys. While Oracle and other enterprise IT vendors may see the IoT as their salvation, GE certainly isn’t staking their future on any one vendor’s platform.
+My Take
+Oracle knows the internet is one of the great opportunities as critical devices start generating petabytes of data that need to be stored, analysed and managed. Bartlett emphasised this with the now standard GE statement that its GEnX engine generates 5,000 data points each second.
+Should Oracle be able to sell their tools on the promise they can help managers avoid drowning in the data lake then that’s a massive new market it can tap.
+The market will not be uncontested. AWS, Salesforce, Microsoft and a slew of smaller vendors also offer IoT management services, business intelligence and dashboards. While Oracle is making the right noises, it’s going to take time to see whether they can execute successfully.
+Disclosure – Oracle is a premier partner at time of writing and covered most of the author’s travel cost for attending OpenWorld 2015. Infosys and Salesforce are premier partners of diginomica 
+Read more on: Internet of Things 

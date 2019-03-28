@@ -1,0 +1,21 @@
+
+As IT monitoring tools become increasingly powerful, it’s becoming possible to get real-time metrics that measure the impact of website performance on user experience more precisely than ever before.
+Those metrics are finally resolving the back-and-forth argument that’s raged between website operations teams and the marketing function over how much promotional content to add to e-commerce sites to maximize online sales.
+Mark Holt, CTO at Trainline, whose £1.9 billion ($2.7bn) annual sales of rail tickets make it the UK’s sixth largest online retailer, told an audience in yesterday that the metrics show a faster web experience has a direct correlation to increased sales. That means marketing bling is no longer welcome on its pages.
+Reduce latency by 0.3 of a second and customers spend an extra £8 million ($11.5m) a year. The marketing department wanted to light up the website with [promotions].
+They said customers don’t care about speed. We tested it and £8 million worth of customers care about speed.
+In a separate presentation, another leading online retailer endorsed this message. Simon Skelton, online application operations manager at department store chain John Lewis, which last year sold £1.5 billion online, emphasizes the effect of response time on sales.
+Customers expect a sub 2 second response time. [If it’s] more than 3 seconds, you abandon.
+The marketing guys just make the pages fatter and fatter. That slows it down, it can add seconds.
+Real-time dimension
+Both were speaking at the London conference yesterday of application performance monitoring vendor New Relic, whose tools present real-time metrics based on actual user experience. John Lewis has always made heavy use of data analytics to monitor performance — we wrote about its use of Splunk to analyze e-commerce data two years ago — but the real-time element has added a new dimension, says Skelton.
+Some of the data was an hour and a half behind. What this gave us was a real time view and it brought it onto one screen.
+Being able to see page load times in real time is especially valuable. Previously, John Lewis had been using synthetic monitoring, which only measures a predetermined set of interactions from a specific set of test servers.
+The new monitoring tool makes it possible to see an issue developing as users experience it and to analyze what’s causing it on the spot. If the problem is a high-res image that’s loading too slowly, or a new marketing offer that’s confusing customers, Skelton’s team can take the data back to the marketing team straight away.
+I can use this to go back to them and say, this is where we can make money.
+Increasingly, that means that marketing and the online application operations team are collaborating in real time, with commercial, web operations and infrastructure teams all gathering in the operations control room at crucial junctures. It extends the DevOps mantra of cross-functional teams into the business arena, as Skelton explains:
+My team have a term for it: BizOps — business and ops working together. We do that and that control room is very much about the key IT people sitting with the key business teams.
+My take
+Back in the late 1990s, when the majority of websites were laden down with Java widgets, blinking GIFs and Flash animations, the pared-down look of Google’s home page was a revelation. Where everyone else believed that attracting and then keeping users on their website was what mattered, Google had already worked out that users wanted results. If you gave them what they were looking for in the fastest, most efficient manner, it didn’t matter if they went away because they would keep on coming back to you.
+More than a decade and a half later, the Web is still awash with websites that seek to grab attention and garishly sell stuff. But the metrics tell a different story. Web site users don’t have the patience for all that stuff, they just want to get what they want and move on. It’s the sites that understand that and deliver results that will be the long-term winners.
+Image credit - Businessman with shopping cart, dollar bills flying away © ra2 studio - Fotolia.comRead more on: Analytics planning and data analysisCRM and customer experienceDigital and content marketinge-commerce 

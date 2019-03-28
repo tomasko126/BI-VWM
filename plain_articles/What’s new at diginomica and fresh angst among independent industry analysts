@@ -1,0 +1,40 @@
+
+
+Last week, I went off the podcast boil as along with colleagues, I was ensconced in a waterfront hotel for our half-yearly all-hands meeting during which we planned the next phase of sucking less for our readers. There’s a lot going on in our corner of the world but our aim remains the same – provide the best commentary we can on technology topics that impact business in the 21st century.
+As part of the ‘event,’ Jon Reed joins me for a few days and on this occasion, I gave him a grand tour of my offsite office. We used the opportunity to record one of our conversations (see podcast above) during which Jon talks about some of the plans we have. It didn’t take long for us to dive back into some of the topics we are seeing, not least of which is the current levels of public angst among independent industry analysts at the state of enterprise software.
+Here is your current crop of goodies.
+We have written about Raven Intel and their crowdsourced SI reviews in the HR space. They’ve triggered a considerable amount of interest from buyers and pushback from vendors but we see what they’re doing as a positive step in transparency. Most recently, Eric Kimberling produced a blistering article about being ‘Accentured’ Here’s a flavor:
+What we are referring to is the approach that Accenture, Deloitte, and other large firms take in terms of control of their accounts and not playing nice with others. Their goal is to essentially staff and manage an entire implementation or project and not let any other firm offer support or guidance. It may sound nice to have a “one-stop shop,” but they are also positioning themselves for no oversight and leaving the opportunity open to exploit their clients.
+Josh Greenbaum penned a poem that strikes a chord re blockchain:
+Blockchain, Blockchain,
+What should we do with you?
+We’re half crazy, everyone’s gone cuckoo.
+The hype is beyond description,
+Your value defies decryption.
+But you look so nice,
+At twice the price,
+Of the budget that we just blew.
+Upper Edge is chewing at the ankles of the mega-vendors – try this:
+The first part of any decision-making process is understanding the problem to solve, or the decision at hand.  Chances are, your SAP ECC support or S/4HANA problem statement will resemble one of these:
+
+My enterprise will need SAP ECC system support past 2025.
+ECC system maintenance cost is an issue for my budget/enterprise, and the enterprise environment mantra is “reduce and cut” rather than “invest and grow.”
+My current ECC environment is prohibitive and challenging to support business agility and effective performance, which could be addressed by migrating to S/4HANA.
+
+Expect to eventually get fired if you plan to migrate to S/4HANA when your problem statement is one of the first two statements.  Statement one is a support gap issue, and statement two is a cost issue.  Both statements are void of quality, value, and growth enablement.  There is nothing innovative or transformational in these first two problem statements — they are entirely inwardly directed toward IT. Attempting to solve these problems with S/4HANA is an expensive solution, not the right answer, and will probably get you fired.
+Not to be outdone, Vinnie Mirchandani pours faint praise on fellow analyst Cindy Jutras while at the same time excoriating the mega-vendors and SIs: 
+As an industry, we have implemented or upgraded ERP software tens of millions of times. It is absurd that we tolerate the failure rates and cost overruns that has become synonymous with ERP. Every aspect of ERP was a reason to gouge – close to 100% gross margins on software, ridiculous MPLS circuit and storage pricing, you name it. Offshore vendors who could show CMM Level 5 continuous improvements suddenly forgot that discipline when it came to ERP support. Much of what is delivered by SIs and outsourcers can and should be automated – see several ideas here
+And, of course, our own Brian Sommer is not afraid to step up to the HR plate with a well-thought-out critique. Try this around job boards:
+To hear a job board tell it (and it’s what Wall Street values), the more resumes/profiles in a job board, the better. A couple of these already have over 1 billion profiles on file. Job boards aren’t necessarily focused on quality of resumes, it’s a quantity focus first and foremost. Unfortunately for jobseekers, a job board with one-hundred million resumes on file and only 20,000 job listings is going to be a waste of time/effort. The best marketplaces have balance so that both sides can experience something positive. Lopsided marketplaces aren’t sustainable over time as one party gets little to no value and the other gets almost all of the value.
+There’s plenty more where that came from.
+And finally, let’s not forget Jarret Pazahanick and his Wild West drumbeat bemoaning the state of SI capability in the SuccessFactors market. Check his tongue in cheek takedown of an NGA presser: 
+21 January 2019: Hemel Hempstead, UK – NGA Human Resources today announced NGA FastTrack HR & Payroll, the first fixed cost, enterprise-grade Cloud HR & payroll solution. 
+So far so good and all the buzz words fixed cost (Not mentioned), enterprise grade (whatever that means), Cloud HR and Payroll solution (Does this mean EC and ECP ) so as you can tell marketing and sales wrote the intro 🙂
+Deployed in just 12 weeks from project go-live using the ‘Rapid’ deployment option 
+“Deployed in just 12 weeks” as important to know by whom as obvious this is just marketing speak as if they had a customer they would have put here. 
+“Rapid” deployment option has been something SAP/SuccessFactors and their partners have been using for years and it is VERY often a one sized fits no one solution. What is that saying you can have quality/speed/price now pick two but let me tell you from experience of implementing payroll that if you pick price and speed it will add up to failure (and upset employees who are paid wrong). Here is a great article from Mike Maiorino “How do you want your HCM implementation? Good, Fast or Cheap“
+My take
+You don’t have to agree with independent industry analysts all of the time to see the trajectory these stories are taking. Jon and I agree that transparency is becoming harder for vendors to avoid. They don’t like it as there are inevitable disconnects between customer experience and marketing rhetoric. But at the same time, while the independents have their place, we should be mindful that in the end, customers buy from customers. That narrative needs some work and to that extent, I am starting to winkle out a few brave souls who are willing to tell it as it is.
+The first to come out will be Paul Wright, CIO at Accuride. He’s been on stage at several vendor events we’ve attended and is always straight up value for money. That’s coming in the next day or so. It provides a compelling insight into the two-tier model of enterprise software deployment. It’s a coal-face account of what’s really going on in the enterprise world. Not to be missed.
+ 
+Image credit - © olly - Fotolia.comRead more on: Cloud ERP financials and supply chainCRM and customer experienceHCM and the digital future of work 

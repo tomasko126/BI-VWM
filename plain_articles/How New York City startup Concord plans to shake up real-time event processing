@@ -1,0 +1,46 @@
+
+Shinji Kim in startup mode
+The best event meetups have an element of unpredictability. Such was the case when I ran into Shinji Kim, the co-founder of Concord, a New York City “real-time event processor” startup with plenty of attitude.
+Want an attitude sample? Look no further than Kim’s LinkedIn profile, which says:
+At present, Concord is 10x faster than Apache Storm or Spark Streaming and much easier to deploy and maintain in production.
+“Process and react to data in real-time”
+In hip tech circles, those are fighting words, folks.  But if you’re not a real-time tech hipster, what does this mean in business terms? Concord’s mission: give users the ability to process and react to data in real-time. That has relevance to fraud detection, algorithmic trading, real-time bidding (RTB), and the personalized recommendations that customer experience/e-commerce gurus carry on about.
+It makes sense that I met Kim at MongoDB World, given that Kelly Stirman of MongoDB had previously extolled the virtues of streaming data as one of four database trends he was tracking. On the day after MongoDB World, I found myself on a personal tour of Concord’s New York City startup headquarters, one floor above the highly selective Grand Central Tech startup incubator, where Concord’s evil plans were hatched.
+From Facebook employee to startup player
+Kim didn’t plan to be a startup player. After an internship at Sun and a stint at Barclays, she wound up in Internet marketing at Facebook. That was back in the crazy era of 2009, when Facebook was still a relatively small, 1,000 employee company – growing at the rate of 300 to 400 million users a month. At Barclays and Sun, Kim had already honed her enterprise app developer skills, applying .Net, C#, and Java to projects like sales forecasting.
+Facebook gave her a taste for the startup life, encouraging employees to devote some time to experimental projects: “The environment of working at Facebook basically opened my eyes. I thought, Oh, I could do this.”
+It was Kim’s job at mobile ad tech vendor YieldMo that pointed her towards real-time event tech. As YieldMo grew, they ran into real-time scaling problems. Kim:
+YieldMo was able to bring on a lot of publishers and advertisers pretty quickly. We had to scale very quickly as well.
+In real-time, it comes down to sub-seconds:
+We had to serve our apps within 40 to 60 milliseconds. We had a lot of challenges on scaling our real-time architecture.
+The struggle at YieldMo to handle real-time scale planted a big ol’ startup seed. So, Kim and her Concord co-founder/CTO Alex Gallego left YieldMo to build their own real-time engine:
+Alex’s background comes from building embedded databases. He had already prototyped a lot of underlying IP. The idea for Concord came to us when we were discussing his issue of how hard it is to manage streaming applications at scale.
+Most real-time event processors have a weakness
+So what’s the issue with the real-time incumbents? Is it performance, cost, or both? In Kim’s experience, it’s both. At YieldMo, she found that a volatility in traffic could cause jobs to break down and crash. From a mobile ad perspective, that means personalized ads might freeze, or not display correctly. Not a good UX outcome. Not good for revenues either: “If we can’t serve the ad, then we lose money.”
+And you don’t necessarily solve performance by adding servers either:
+You don’t gain performance just by adding servers anymore. You have to tune and configure all the internal parts so that the configuration works correctly for the cluster you scaled out.
+When Kim and Gallego polled their contacts at other ad tech and gaming companies, they heard a similar refrain:
+Everyone told us that, “Yeah, Storm doesn’t work for us either. We ended up building our own system on top. It’s really hard to maintain, and it’s hard to extend.
+Their mission clear, Concord was born. But even as they launched,  Kim knew real-time had uses beyond ad tech and gaming, including financial services and fraud detection. They built their engine accordingly.  One of their key public beta customers is in financial services.
+So how is Concord different?
+We don’t come from a model of running a batch job into stream. We are not trying to make the batch job faster. We provide you with a very easy and flexible environment for you to deploy and manage applications that leverage streams of data. We see stream processing as: you’re deploying your business project and business application. You need a tooling, metrics. You need supervision. You need multi-tenancy. You need a mechanism to run and maintain your application.
+If the batch job fails, then you just run it again. For streaming, we were thinking of a scenario where our job never stops because traffic never stops either. The job should never fail. Those are the principles that’s embedded into our system. People treat us as more like, “Oh, you guys are like more micro-services that can run streaming data.”
+That’s the core; developers can build on the Concord core with APIs in a range of languages. Being developer-friendly is another core principle:
+We didn’t want developers to worry about the whole DevOps stuff to try to scale an application, when their core objective is trying to implement business logic and application logic.
+Early customer reactions
+So what about customer reactions? I asked Kim about that financial services beta:
+They were running a real-time model to evaluate stock market ticker data. They needed a new system to reduce their latency – some of their results weren’t up to date.
+And how did the beta with Concord go?
+It was a lot better. They were publishing millions of events per second. Running on Concord, end to end, we got their latency down to 500 milliseconds. They really liked the performance.
+I also enjoyed Concord’s recent post on how Innovatively uses Concord to index health care data:
+Innovatively uses Concord to index documents (clinical trials, grants, research articles), products (medical devices, drugs, diagnostic tests, research equipment, procedures, diseases, proteins), and entities (businesses, doctors, nurses, researchers), etc, from thousands of different data sources, providing intelligent answers to hard questions in real time…  Before Innovatively returns the results, it will try to correlate similar results, disambiguate entities and finally filter these records so you get the top, cleanest results in about 100 milliseconds.
+Kim told me about another beta customer, where they won a “bakeoff” with Apache Spark. So does that mean Concord is better than Spark Streaming? Kim laughed, but wouldn’t quite take that bait:
+I don’t want to say that we’re better than Spark – it’s different. I would recommend Spark Streaming if you’re already a Spark user, and you want to get your jobs down to a second. But if you want to get your event processing under a second…
+Kim fell short of the shameless plug, but I can’t fault her team for pride. Oh, and why was Kim at MongoDB World? Simple: “We see a great opportunity in our partnership with MongoDB.” Given MongoDB’s interest in streaming data, that’s not surprising.
+My experience is that real-time is overrated – except when it’s not. For most industries, right time is good enough. But in some, real-time is an absolute deal breaker. Or else there are new business models that only real-time speed can address, such as online personalization. And in pure real-time scenarios, performance – along with ease of debugging and scale – is everything.
+I pressed Kim on a customer count and on the number of downloads. But like most early startups, she wanted to keep that information private. But she did say there has been “a lot” of developer interest. Between the API libraries and the source code repository on Github, there’s a lot for developers to riff on.
+Concord is still in early days, with a team of six. But given the pedigree of its founders and the potent issue they address, Concord looks like a startup to watch.
+Update: on September 28, 2016, Concord announced that it has been acquired by Akamai Technogies:
+The Concord team will be joining Akamai’s Platform Engineering team, where we will be building a new real-time event processing platform using Concord’s technology. The possibilities of how Concord will be integrated into Akamai’s business are endless, and we’re really excited for what the future holds.
+Concord will still be available for download, but there won’t be future commercial support of Concord. It will be interesting to see how this one plays out.
+Image credit - on-site photo of Kim by Jon Reed. Disclosure - Diginomica has no financial ties to Concord. MongoDB paid the bulk of my travel expenses to MongoDB World, where I met Ji. Read more on: DevOps NoSQL and the open source stackMobileUX and application design 

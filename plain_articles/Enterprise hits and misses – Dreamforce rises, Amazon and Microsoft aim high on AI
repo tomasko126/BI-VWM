@@ -1,0 +1,64 @@
+
+
+diginomica hit: Use case bonanza – trains predict, cars get multi-cloudy, and banks self-disrupt – by Martin, Jess, and Maxwell
+quotage: “There does seem to be an important lesson in this for any large business that, while predictive maintenance of what ever kind can be extremely valuable to the business in many ways, it will take time to not only determine which analytical processes are appropriate but also start collecting the relevant data . Indeed, deciding what sensor data is relevant and what isn’t may be one of the most important choices to be made.” – Martin, How Pentaho aims to make the trains run on time…or even just run
+myPOV: Three use cases highlighted the heavy lifting of digital change – in three different industry settings. I pulled Martin’s quote for the analytical dilemmas underneath these shiny new business models. Shiny gets muddy real quick if data isn’t applied right. In this case, it’s about using predictive maintenance data to support outcome-based pricing and serve customers better – because no one likes standing about on cold platforms thumbing for where-the-f-is-my-train updates.
+In Macquarie banks on customer appetite for a ‘Spotify-like’ experience, Jess has a financial services story from Australia – an enlightening tale of how a smaller, ambitious bank can change the customer dynamic with natural language queries for service and machine learning for graphing banking patterns. Then there’s Maxwell, who takes on a story of a company in dire need of re-invention: Volkswagen drives towards multi-cloud digital transformation.
+“Multi-cloud” is the most brutal buzzword we’ve had in a while, but it’s not inaccurate. Both Volkswagen and Hitachi Retail (Pentaho’s client) are in the early stages of these projects. Plenty can go wrong, so we’ll need updates. But the scope and priorities behind them are instructive. These aren’t low-risk sandbox goofs.
+diginomica four – my top four stories on diginomica this week
+
+Is OpenStack finally heading for broad enterprise adoption? Recent data says yes – Kurt’s a believer in the long term viability of the public cloud as a business model, but he’s ready to grant a place in the customer’s world for OpenStack, at least for now: “OpenStack represents an interesting middle ground: pure private cloud technology, unencumbered by legacy product baggage. Now that vendors like Red Hat, Rackspace, IBM, Veritas and others are imbuing the technology with enterprise features, reliability and support services, OpenStack is a viable alternative cloud platform.”
+Blackberry crumbles as Apple aims for a bigger slice of enterprise pie – Who better than a former Blackberry fanboy enthusiast user to write this obit. Though I’m not sure if Stuart was a Blackberry enthusiast or not; we’ve never crossed that off in conversation. I certainly was, clutching that lovely keyboard longer than most – until I got jealous of smart phones that had apps.
+It’s no longer ‘Human’ Resources – HR must also manage digital ‘things’ – All kinds of digital bells and whistles are coming to HR, from bots to predictive tech. Would you be surprised to learn Brian Sommer thinks HR is “ill-prepared”? If you’re at HR Tech this week, give Brian a big diginomica smooch for us.
+Data alone doesn’t provide insights, data connections do – Barb issues a necessary corrective: We don’t need data; we need connected data. She makes her case with two scenarios: breaking down data silos for a “360” view of the customer, and, the thorniest of marketing analytics problems – lead attribution.
+
+Vendor analysis, diginomica style. Here’s my top choices from our vendor coverage:
+
+LinkedIn spoils a beautiful friendship as Salesforce hits out at ‘BFF’ Microsoft – from BFFs to… dance partners in the legal arena? Stuart on a partnership that went south, and pronto. Stuart doesn’t see Salesforce’s actions holding up Microsoft’s LinkedIn buy, but he adds: “Will Microsoft have to issue some guarantees around its intentions for LinkedIn’s data? Maybe so if it wants to keep the Commission off its back. And pressing question of the day – how much air-time will Microsoft be getting at next week’s Dreamforce jamboree? Er…” Den takes the convo further in Why is Salesforce rallying to the EU’s proclivity to spank mega mergers?, adding customer advisory.
+Accenture gathers DayNine into its Workday practice – Phil on one of the biggest news stories that came out around the time of the Workday Rising show. This gives Accenture the biggest Workday practice at 1,200 consultants. Two nifty customer stories: Janine’s TalkTalk learns the ropes of Workday Learning and Den’s Arbella Insurance goes paperless in AP with a bold ERP technology refresh.
+Cognizant self reports possible bribery probe, fires founding president – Den on a story that shocked and then saddened: “Unfortunately, [this] opens the door to discussions about corruption as a problem that Indian companies must guard against, most often through stifling procurement and HR practices that, at times, are at odds with the modern world.”
+
+Diginomica’s wall-to-wall Dreamforce coverage is here – we have a full team on the ground and coverage galore, you can already see a bunch of it on the home page. Check back on our special home page section all week. For now, I’ll point you to Stuart’s The State of Salesforce – AI ambitions good, but sales people find Salesforce a chore, a good primer for this week’s topics.
+A couple more vendor picks, without the quotables:
+
+Credo Mobile modernizes its ERP, switching from Sage to Oracle Cloud Financials – Den
+AI? Hadoop? Companies still don’t have the data basics right, says Birst – Derek
+
+Best of the rest
+ Amazon and Microsoft aim high on AI, by several scribes
+quotage: “Microsoft says it has formed a new 5,000-person engineering and research team to focus on its artificial intelligence products — a major reshaping of the company’s internal structure reminiscent of its massive pivot to pursue the opportunity of the Internet in the mid-1990s.” – Internal email: Microsoft forms new 5,000-person AI division, Todd Bishop
+myPOV: Two tech behemoths bet big on AI this week, including the above-quoted Microsoft play. In an email to employees, CEO Satya Nadella wrote, “We are on the cusp of a paradigm shift in computing that is unlike anything we have seen in decades.” No arguments here except for maybe timing. Right now Siri’s IQ is limited and talking to Alexa is like arguing with a foreign train conductor. Chat bots have pea brains. Until that changes, the paradigm shift feels more like hot air balloons, with the verdict out on the enterprise software winners and losers. 
+
+That’s probably why Amazon has gone so far as to offer $2.5 million in a chatbot contest for a new annual “Alexa prize.” The winner goes to whoever can create a chatbot that “converse coherently for 20 minutes.” That’s a heck of a goal given chatbots can’t even book complex flight itineraries yet. Stanford Professor Dan Jurafsky says “Conversing for 20 minutes is difficult for most humans and an extraordinarily ambitious challenge for bots that are learning to converse like us.”
+Huh? I can talk for 20 minutes with just about any Uber or taxi driver or bartender I run into. Granted, the art of conversation has deteriorated from its pretentious insufferable navel-gazing philosophical 1980s My Dinner with Andre heyday, but still, that’s the scope of the challenge. A relatively mundane 20 minute human conversation is still an enormous hurdle for machines.
+Amazon’s placing bets, however, and you can’t blame them: the Echo products are the most useful (new) consumer tech devices in recent years, and this is just the shallow end of the machine-assisted pool. That’s why they’re on an Alexa hiring spree also. Bonus: my Twitter followers went nuts over a link shared by Frank Scavo, Artificial Intelligence: The next big thing in Supply Chain Management. Good start but just scratches the surface.
+Other standouts:
+
+SAP acquires Altiscale for big data as a service, HANA Express gets the developer once-over – SAP’s doing its darndest to drag headlines away from competing events, this time with a big data acquisition that expands SAP’s “including-but-beyond HANA” big data scope. Constellation’s ever-diligent Holger Mueller is on the case to dissect the press release. Meantime, I ask SAP Mentor/developer par excellence Graham Robinson for his take on HANA Express for developer app go-to-market, and I get a whole new (interesting!) blog post for my trouble. No more questions Graham 🙂
+
+Honorable mention
+
+
+Strata + Hadoop World Highlights Long-Term Bets on Cloud – Concise but authoritative.
+Why Empathy is the Secret Sauce for Good Software Development – Refreshing angle on development and DevOps. More primer than master class.
+The Internet of Things Sucks So Bad Even ‘Amateurish’ Malware Is Enough – “Martyn said that whoever wants to use the malware needs to change some configurations and do some setting up, but “anyone with a sense of clue could set it up in around 30 minutes.” Jeepers creepers!
+7 most important tech jobs needed for today’s digital enterprise – Ready to be a “next gen machine learning engineer”? Bring your empathy map and your high velocity code.
+The Three Infrastructure Mistakes Your Company Must Not Make – One of the catchier non-linkbait post titles I’ve seen in a while. Hard to resist a click, eh? And the article actually addresses the title.
+Let’s make Outsourcing Great Again! – I see what you did there, Phil…
+Renewing The Revolution: Personal Rapid Transit Gets A Makeover – First time in my life I’ve actually wanted to go to West Virginia.
+
+Whiffs
+While we’re waiting on the AI paradigm shift to actually arrive, here’s how Facebook predicts my advertising tendencies:
+
+Sorry Ryan Lochte fans – err, I mean fan, I let you down. It gets worse. I was researching Google’s pending rules on “bad UX” pop-ups for my latest SEO piece, and I found not one, but two examples of intrusive pop-ups screwing up UX on a post about usability. Here’s one:
+
+I feel the will to live slowly draining out… Fortunately, I got a pick-me-up in my email, a slick little ditty that is my frontrunner for most-nonsensical-buzzword-mishmash-of-2016. Now, I don’t know anything about Qualrics; they are probably a lovely company. I guess they won a booby prize “prestigious award” from Forbes, which I certainly can’t say for myself. So I’m not skewering the company here. Still, check out this PR load:
+Qualtrics is a high growth, Utah based Unicorn with a fascinating story to relate. Its meteoric trajectory is due to a wave of customer centricity and employee engagement sweeping across enterprise which is enabled by its software, giving companies in all sectors connectivity they never thought possible.
+Wait – Unicorns ride meteors? So I tweeted:
+
+@jonerp Meteors burn up; meteorites hit the ground (or someone).
+— Jim Spath (@jspath55) September 29, 2016
+Over to you, Clive.
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and winner - Loser and Winner © ispstock - Fotolia - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Digital enterprise in the real worldHits and missesUse cases 

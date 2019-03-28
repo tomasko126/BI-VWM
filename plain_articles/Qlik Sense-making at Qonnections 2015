@@ -1,0 +1,64 @@
+
+Qonnection2 2015, Qlik’s annual partner conference and now in its tenth year was an opportunity for me to get in front of most of the company’s senior executives, mingle with partners and learn how customers are getting along. Here’s what I learned:
+
+Partners seem broadly happy with few grumbles and grumps other than questions over the licensing model.
+Qlik Branch, its partner repository for code that is publicly available is the start of a developer community.
+Qlik’s platform and community play is in the final stages of being worked out but the go to market element is unclear.
+Qlik Sense is what the company believes will drive adoption among non-desktop users.
+The company is embarking on a differentiated messaging strategy that distances its paring with Tableau, especially in the US where Tableau is seen as the runaway darling in the ‘new’ business intelligence (BI) space.
+
+Now to my analysis of the event content.
+Partner conferences are odd events in the sense (sic) that everyone wants to be hopeful and looking towards the future yet it is often the kind of mutual back slapping event that leaves someone like myself with a slightly sickly sour taste in the mouth. I didn’t get that at this year’s Qonnections. Instead, I met with a company that is making the right technical moves, is resetting its marketing yet recognizes its challenges. That’s healthy.
+Customers like what they get
+First the good stuff. I met with Lufthansa, which is deploying Qlik, initially for procurement operations and Differentia, consultants running the information systems supporting the massive $5 billion Heathrow Terminal 5 upgrade. Both had solid stories to tell with surprises around how they see the role of Qlik in the enterprise. I’ll be writing up the case material later but the short version goes like this:
+Qlik allows large enterprises with disparate systems (haven’t they all?) the opportunity to deploy easy to understand and use information into operational units while providing the governance framework that controlled environments demand. This is done is a relatively painless manner and at a fraction of the time it takes to deploy legacy BI tools. Results lead to better decisions and more questions being asked of the data.
+The governance element is important in this context because in common with all large enterprise, IT has a voice. In these scenarios, Qlik has a quasi-ETL role in the sense that it is used to achieve a common set of dimensions for disparate data. That in turn may be supported by partners like Alteryx or Terradata.
+Donald Farmer, VP innovation and design said:
+We talk about schema on query. This isn’t a new term but it means you only worry about semantics at the point of query.  That way you leave the data open to the model for different purposes. That’s a huge change in our relationship to data. What we’re doing is providing users with a way to forage for intelligence. Again , not a new term but it means they can see the beginnings of answers to questions they’ve not yet raised as a way of leading them into fresh areas for decision taking.
+This helps companies discover information they didn’t know or ask questions they hadn’t thought about. One example is the case of a doctor who is prescribing different safe/generic and branded pain medication for different patients but is not necessarily aware of the relationship between the type of patient and the meds being prescribed. Farmer continues:
+There are obvious cost implications here and the doctor can then start assessing which cost profile he/she makes sense in the context of overall budgets.
+This is a good example of how search inside Qlik helps with the discovery process. It is the right approach to the problem of seeing ‘known unknowns.’
+Qlik Analytics Platform
+The company is making its analytics platform available to partners to build their own apps. This is a big deal. Anthony Deighton, CTO Qlik said:
+The idea we can build all the applications in the world is false but we have the advantage of having the largest BI community of experts. It is the strongest and most loyal community in our space. Alongside the large SIs, we have hundreds of mostly smaller boutique shops. There’s tremendous leverage in this model that joins community to the analytics platform.
+I agree, provided Qlik can build out the community to deliver re-usable applications that customers can readily discover and want to deploy. To that extent, it had a small hackathon ongoing during the conference. However, the company was less clear about how that platform strategy meshes to topics like developer relations and community building. Branch is a good start but it is far from a given how this will work out.
+Qlik has not yet released pricing for platform based deployments although it has assured me that it will make the platform free to develop upon. Quite what tools and services will be made available under these terms is still under discussion but the clear impression I got was that Qlik is taking on board the lessons from companies like Microsoft and Salesforce, each of which have large developer communities.
+Partner challenges
+A word about licensing. Doug Henschen notes that:
+One change introduced with Qlik Sense wasn’t entirely a hit, and that’s token-based licensing that can be allocated per-user or based on access time. Several customers here in Dallas said the approach can be confusing, making it hard to predict costs — particularly in embedded and extranet scenarios where you can’t predict how many users you might have. Qlik says it has heard these complaints and intends to address them with new licensing options.
+I heard something similar but it won’t be a partner showstopper.
+Several other challenges spring to mind.
+
+Will the apps put on offer be mostly trivial and repetitive or will they answer real world need? My guess is we will see a mixture of both.
+Will the big SIs and OEMs participate? They have a vested interest in maintaining their own developer centers like Deloitte’s Greenhouse but then I’d like to think they will see opportunities for ‘build once, deploy anywhere’ style of offerings. This approach goes against the grain of services organizations that prefer to build from scratch for every client, even where there is code re-use. I don’t believe that model is sustainable in a fast moving world.
+How will Qlik make the platform attractive for thousands of developers? There are enough unique challenges and small boutique shops within Qlik’s current orbit to make this fly but the ‘what’s in it for me?’ factor will require careful nurturing. As will the opportunity to build apps in the language of the developer’s choice.
+
+Marketing challenges
+My sense is that Qlik’s biggest set of challenges comes from its marketing and especially in the US which is not its home ground. CMO Rick Jackson was candid in his assessment that:
+For too long we have allowed Tableau to set the agenda when we’ve had plenty with which to differentiate. The competition  is a data visualization tool and while that’s clearly popular, that’s not BI as we understand it. We’ve got the governance framework that allows us to appeal to the IT department. We have a depth of richness they can’t come close to emulating.
+That’s all very well but there is little denying that Tableau is fast catching Qlik on revenue and enjoys a market cap more than twice that of Qlik. So while Qlik is trainstioning to a business model that sees it as profitable, its market cap and business model presents a major hurdle for marketing investment which I would describe as timid.
+Similarly, I’m not convinced that Qlik fully grasps how to work the social channels. Its Tweetstream was interesting and varied but lacked the color I expect to see at an event of this kind. There were precious few Tweets that gave me enough detail to swerve me towards specific sessions and as for Facebook? Ummm…The mobile application was disappointing, recording barely a 100 downloads in the Android store and there was no mention of LinkedIn which we see as a prime network for enterprise interest.
+To be fair, Jackson knows the turf, having served in similar roles at Backspace and Borland. He also has a solid grasp of how applications get adopted and the role of IT in acquisition and deployment decisions. That won’t be enough even though he knows solutions like Qlik go through a cycle of end user adoption first followed by IT involvement. Seeing 1,300-1,400 partners at an event of this kind is gratifying but it would be more impressive to see thousands of users. To that extent I am told the company plans a major event for 2016 that combines the two. I like that idea.
+In the meantime, Qlik will need to ramp many surrounding activities in the coming year to capture user interest and the attention of media/analysts interested in this space.
+How it balances the technical elements with the business use cases remains to be seen. To that extent, front line sales people told me they desperately need better visibility in the marketplace because while they can win when the competition runs out of technical steam, that’s a much harder sale than getting in on the ground floor and expanding out, a tactic that Tableau has successfully deployed as a moat against its competition.
+The good news is I didn’t see Qlik falling into the trap of buzzword bingo compliance and the miring of explanation around an ill defined term.
+One significant advantage for Qlik comes in the shape of its differentiated offering compared to the ‘old school’ of analytics providers. Back to Jackson:
+How do you empower the business user? An important part of self service (Qlik Sense Cloud) is trusted data models plus peripheral data to look for combinations that make sense. We have that. Add in the governance framework and Excel anarchy can’t turn into visualization anarchy. We have such a powerful story but because it’s not simple it’s difficult to get that into the market.
+I’m not so sure it’s quite the challenge he envisages but then it is understandable that marketing will want to hedge its bets.
+I met enough technical people to believe Qlik can explain governance in a way that makes sense and will leave IT comfortable. It’s the business use cases, or rather the almost limitless possibilities that might be overwhelming their thinking. The key will come in getting customers like Lufthansa – which has fought and is winning those battles – and many others, to speak with authority about positive outcomes.
+My take
+
+
+Qonnections 2015 was a solid event with plenty to cheer
+Qlik knows that it runs the risk of being disrupted but is taking appropriate steps to manage that issue.
+Marketing needs work and I would encourage senior management to put as much resource as it can into flooding the market with good user stories and good conversations.
+I would also encourage marketing to carefully consider its approach to marketing beyond a dumping of Twitter feeds supported by formal press releases. Creativity here will prove helpful.
+A final word on devices. During our conversation, Farmer mentioned his interest in devices and came up with a great way to consider this topic:
+
+
+Seeing is believing, touching is trusting
+I can’t argue with that.
+Image via Dough Henschen
+Disclosure: Qlik covered most of my travel expenses for attending Qonnections 2015.
+
+Read more on: Analytics planning and data analysis 

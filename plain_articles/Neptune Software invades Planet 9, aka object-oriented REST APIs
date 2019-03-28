@@ -1,0 +1,44 @@
+
+Last week, Neptune Software invited me to attend their annual UX Summit in Oslo. Neptune who? They’re a software and services business founded seven years ago that specializes in mobile and RAD environments for businesses with SAP landscapes.
+Coincidentally (ahem) it was also the week the company formally released Planet 9, its ‘API anywhere’ offering that sits alongside what was Neptune, now rebranded Planet 8, its SAP specific RAD environment with an emphasis on what it terms ‘DX or Digital eXperience. If that all sounds a bit pompous and whiffing of motherhood and apple pie then yes, it would be easy to make that assumption.
+But talk with customers and a refreshing excitement emerges. On stage, Eastman Chemical and Johnson&Johnson told their unfiltered stories in a format that is all too rare.
+Unfiltered customers
+Don Cleek, EMN Maintenance Financial and Special Projects Manager at Eastman Chemical, went through a considerable amount of detail covering the problems his group faced over the years in managing a $300 million maintenance budget that has had to deliver the classic ‘more with less.’ Apart from the monetary aspect, the scale – 275,00 work orders completed per annum – is staggering.
+Cleek showed how his team evaluated the short list according to known service requirement needs for a mobile-first project designed to streamline the plant maintenance supply chain.
+Eastman Chemical selection criteria
+To much giggling from the audience, he said:
+I suppose we had to put SAP-Syclo in the mix but then…they didn’t cut it.
+SAP-Syclo is SAP’s 2012 acquired mobile shop. Heaping praise on the Neptune team Cleek went as far as to say that if the project lead decides to quit, then he’s ready to make an offer.
+Equally enthusiastic, Aravinda Boyapati, Supply Chain Manager, Advanced Tech (UX, Mobility, Block Chain, IoT, Voice/Bots) at J&J said that when first launched in 2017:
+We immediately saw that Planet9 would be critical for getting modern applications into users’ hands. We’ve been an integral part of that development. We put 20 contractors onto development for the last year, helping Neptune build and squish bugs.
+Again, to provide context, J&J has 350,000 business users and more than 700 SAP instances of various kinds. One of Boyapati’s objectives in adopting Planet 9 is to ensure that the current interest in low-code doesn’t lead to application sprawl. One way to look at this is via this slide:
+How Planet9 helps simplify development
+Most recently, J&J has been exploring blockchain as a method for meeting recent changes in FDA audit requirements.
+Whenever something goes wrong then it always comes back to the manufacturer. Blockchain helps us create what we expect to be bulletproof traceability. We started with Ethereum and have played with Hyperledger. Since Planet9 is API based, we can easily swap services in and out of our PM systems.
+In retail, we were shown how the Planet 9 platform helps solve disconnects. In the live demo example, we saw how customer satisfaction data might be collected and acted upon during a purchase with the POS unit acting as the process trigger.
+The elephant in the room
+I was keen to visit this small customer focused event as another check in the never-ending quest to discover how different businesses are responding to the many competitive pressures and, like it or not, SAP is in almost all of those landscapes.
+Neptune came to market with Planet8 as a novel way to make mobile development in SAP landscapes much easier than was the case. With Planet9, Neptune pivots towards being application and device agnostic. SAP has its own play on this with SAP’s Mendix partnership and right now, this market is in landgrab mode. But…and I didn’t have to mention it, indirect access SAP style is a cross-industry discussion topic.
+Indirect access – again
+As noted by Jon Reed:
+
+I get the sense sometimes that SAP feels they are a bit singled out on this issue, given they are hardly the only vendors that have auditing complaints from customers. I believe that’s the wrong attitude.
+This winning approach would be an iron resolve to become an industry leader in how large-scale enterprise projects are priced. The document pricing model then becomes a bridge to further pricing innovation that is, to be sure, incredibly hard work, but is also inseparable from any transformation that so-called intelligent/cloud enterprises should deliver.
+
+Guess what – if you claim to run most of the world’s chocolate and beer production as SAP does, you’re going to get singled out.
+At the event, a number of people pulled long faces when the topic of indirect access came up. As expected, no-one wanted to go on the record since it is becoming clear that negotiating positions are hardening yet remain fragmented across industries.
+In retail for instance, there is a flat out ‘no’ to the document basis for pricing indirect access unless it is clear that the much promised ‘cost neutral’ issue is a reality, something the people I spoke with don’t have faith in. The view is that SAP is attempting to say it owns the data and that’s a philosophical nightmare for customers. As I expected and have predicted, some customers are actively looking elsewhere.
+But then customers are realistic. Many have seen value in integrated manufacturing and back office ERP from SAP. But that’s only because SAP can offer better language and localization support than any other vendor. Note, that’s not because SAP IS any better from a general functional viewpoint. Until something comes along to upset the status quo.
+My take
+It’s hard to beat hearing from genuinely excited customers but then developers don’t do BS and this was a largely dev focused crowd. And it’s equally hard to argue when seeing people from many parts of the world turn up to an event in Oslo.
+In positioning Planet 9 as an agnostic platform, Neptune is signaling to the market more generally that while it supports and will continue to support the SAP world as an add-on, customers are telling it that the world is a lot bigger than it once was. That’s a good thing.
+
+We were SAP based we’re now also REST API based
+
+says co-founder and CIO Njål Stabell
+Lo-code is an emerging theme that has pushed the twin ideas of software democratization and consumer-grade interfaces into the center of development discussions. But once you start thinking about how that will work in businesses that are only just starting that journey then you run into architectural debates that drive leaders nuts but which developers find interesting yet with something of a religious take.
+As Boyapati showed in the slide – developers love their own JS libraries. Just how do IT leaders make those kinds of architectural decision without engaging in intellectual warfare?
+Those I spoke with believe node.js, on which Planet 9 is built, is robust and scalable. So far, Neptune has not hit any limits on what they can handle. On the other hand, I have listened to developers wax lyrical about other JS libraries while still others think JS is a pile of cack.
+Those in the SAP world should look at this as a positive development and offering. It frees up SAP developers to do the one thing that SAP promised years ago and that is to operate in open environments rather than being stuck in the ABAP world.
+The competitive landscape is interesting with SAP having its own preferences, but that doesn’t worry Neptune. And why should it? When you can trust your keynote stage to some of the world’s best-known B2B brands then you’re on to something. And when one of those brands helps you bring a solution to market, that speaks louder than most.
+Image credit - via the authorDisclosure - Neptune covered most of my expenses for visiting the event Read more on: CRM and customer experienceDevOps NoSQL and the open source stackUse casesUser experience 

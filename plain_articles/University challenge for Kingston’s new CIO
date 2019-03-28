@@ -1,0 +1,35 @@
+
+
+Simon Harrison
+In the UK, around one in five university IT heads don’t believe their institution does enough to meet student demand for IT, according to a survey published earlier this year by virtualisation software company VMware.
+Even as vast armies of smartphones and tablets show up on campus, only 13% of the 150 IT leaders and departmental heads surveyed said that their institution offers campus-wide wifi, for example. For the vast majority of students and faculty members, it’s safe to assume that a complete mobility experience is still some years off.
+That’s not good enough for the 2,500 staff and 20,000 students at Kingston University in suburban West London, according to the university’s CIO Simon Harrison:
+Great connectivity is a must-have for our students and it’s increasingly important to staff, too, and it’s not just Internet access they expect. They also want access to a range of University services, information and applications, too. It’s becoming a fundamental enabler of the education process, whether they’re on campus, at home or elsewhere, both during term time and in the university holidays.
+In the 20 months that Harrison has been at Kingston University, he and his team have done an “enormous” amount of work to the IT infrastructure to build this vision of an ‘always on, always available’ university, he says. IT had been neglected and under-funded for some years and there was little in the way of a strategy for supporting the university’s strategic development, despite increasing competition among institutions in higher education to attract students from the UK and overseas.
+The work they’ve undertaken to create an IT environment that can support a thoroughly modern university experience falls into three broad categories, he says:
+1. Fix the infrastructure 
+Two data centers and the university’s wide-area network (WAN) have been completely refreshed, in order to create a robust platform on which to build for the future. By using VMware to virtualise servers (and decommissioning others), the university is saving around £700,000 on energy costs alone – and, into the bargain, boosting server virtualisation rates, making server and storage capacity more flexible and reducing the infrastructure management burden.
+Technologies from VMware are also key to the deployment and management of virtual desktops and a university-wide ‘bring your own device’ (BYOD) policy. Key among these are VMware Mirage, which enables centralised desktop image management across physical desktops; and VMware View, for the delivery of a wide range of over 600 teaching applications to a wide range of student- and staff-owned devices. Says Harrison:
+Now, it’s possible to access everything from 3D design apps to virtual learning environments from any device and in any location.
+2. (Re)Organise the IT department
+When Harrison arrived at Kingston, less than two-thirds of IT ownership and management fell to the IT department. Around 40% was scattered across various academic departments and functional areas, with servers under desks being a commonplace feature. This arrangement brought with it a stack of problems, he says:
+You get into this situation because no-one takes a big-picture view of IT. As a result, it’s really hard to get value from IT. Everything’s in its own silo, everyone’s pitching for a little bit of budget just to keep operating as they are already and no-one’s focused on using IT for business benefit. Plus, there’s no single approach to risk, security, compliance – the duty for those things is equally distributed and, in many cases, neglected.
+Today, all IT systems and skills have been brought into the IT department that Harrison leads. A team of around 100 people are now structured into three primary teams:
+
+A service management group that provides end-user support, runs the service desk and provides key ITIL service management capabilities in areas like release, configuration and service transition.
+An infrastructure group responsible for provisioning networks, servers and storage and keeping them up and running.
+An applications group, which focuses on business analysis for new capabilities, integration with existing systems and data governance.
+
+All groups report into Harrison’s ‘Office of the CIO’, from which high-level issues such as vendor management, risk, business continuity and security are handled.
+3. Build an applications roadmap
+This task has one big question at its heart, says Harrison:
+How do we build and run the capabilities that will support key processes, reduce costs, increase efficiency and help the University tap into new opportunities?
+Kingston campus
+Work has only just begun here, and he’s envisioning it will involve a journey of some two to three years, as his team look to see how IT can assist in improving teaching quality, boosting student retention rates and tackling many of the other issues that all UK universities face.
+For now, however, Harrison says he’s satisfied with the progress made, adding that he’s proud to be:
+bringing private-sector IT management disciplines and strategies into a higher-education sector that’s ripe for change.
+And he’s gratified to see that some much-needed business-savvy and commercial sense are rapidly changing the way that the IT department is viewed across the organisation:
+When I joined Kingston, IT was just seen as tin and wires, not an added-value operation. But with the journey we’re going on, month on month we demonstrate more and more how IT can add real value and insight to the organisation.
+So what’s happening now is a shift in opinion, not just at senior management level, but across the University, that IT is a trusted business partner.
+Read more on: Cloud ERP financials and supply chainEducationInfrastructureUse cases
+

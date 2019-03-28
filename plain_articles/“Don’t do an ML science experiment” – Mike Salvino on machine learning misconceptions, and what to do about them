@@ -1,0 +1,72 @@
+
+I’m don’t know about you, but these days, a “machine learning keynote” fills me with more dread than possibility.
+But at the HfS FORA event in New York City, keynoter Mike Salvino got on my good side pretty quickly:
+
+Salvino on ML hype: “Did anyone get approached by a machine learning expert this year who just happened to be a cloud and security expert last year?” ->lolz
+“The bottom line is these folks are scarce.” #HfSFORA
+— Jon Reed (@jonerp) March 7, 2018
+and:
+
+“Just because you know how to use TensorFlow doesn’t mean you know machine learning” – some machine learning tough love from #HfSFORA keynote
+— Jon Reed (@jonerp) March 7, 2018
+Salvino has seen the ML carnage firsthand as Managing Director of Carrick Capital Partners and the Executive Chairman of Infinia ML, a Duke spinout focused on Machine Learning. In front of a group of service industry leaders and practitioners at HfS FORA, Salvino blasted his way through the “machine learning epidemic,” with actionable advice mixed in.
+Connecting machine learning to RPA
+Only a minority of the RPA practitioners I talked to in New York City had any experience yet on machine learning projects. There were exceptions, such as the P&G use cases I highlighted in RPA hype versus reality – an early look at use cases and data from HfS FORA NYC). That lines up with the research Phil Fersht of Horses for Sources revealed at the show: 80 percent of companies have yet to connect AI capabilities with their RPA systems. Therefore, Salvino’s warnings (hopefully) arrived in time for the assembled buyers and practitioners.
+If you want business impact, don’t treat ML like a science experiment
+Salvino took us through his own ML ups and downs. One hard ML lesson: not connecting to a business case.
+
+Mike Salvino keynoting on machine learning: If you’re going to have business impact with machine learning, you have to get it into your core systems.
+And then you’re going to generate more data, and you WILL need refine the model from there. #HfSFORA
+— Jon Reed (@jonerp) March 7, 2018
+He shared his own learning curve on data models:
+This is one of the things I got wrong. I figured once we had the algorithms, no problem, let it rip. If you’re going to do machine learning, you have to come up with the model first. Before you come up with the model, you’ve got to have the data. This all looks really simple, but it’s incredibly complex. If you’ve got the data, and you finish with that, and you’ve created the model, then what you’re going to start doing is training the model.
+Training and refining the model is a lesson unto itself. Along the way, you better avoid the science experiment misstep. Even machine learning darlings like Google have tripped on that one:
+Most people, here’s where they fail. This is what I call the “science experiment.” Who remembers AlphaGo? There’s an ancient Chinese game called “Go” that’s supposed to be pretty intense and pretty complex to figure out. AlphaGo was the algorithm that basically performed that game at what they called a superhuman level. AlphaGo figured out the data; they configured the model, and they started training the thing.
+Sounds good so far – so what was the problem?
+AlphaGo had no business impact… It never got integrated into an enterprise to actually do anything with.
+For business results, you must tie into the core:
+If you’re going to make business impact with machine learning, you’ve got to get the algorithm into your source systems.
+Avoiding the machine learning misconceptions
+Then Salvino slammed the “machine learning epidemic.” Before giving us his list of undesirable ML phenomena, he issued this disclaimer:
+I’ve made all these mistakes myself. I’m not calling anybody out; I’m not making fun of anybody. If anybody, I’m making fun of myself.
+That brings us to machine learning misconception number one:
+
+Mike Salvino pushes back on that “Machine Learning Epidemic” ->
+#1- “I have a TEAM that knows ML” – probably not for advanced projects – building deep neural networks is not easy. The questions get harder – and most companies don’t have the expert ML talent yet. #HfSFORA
+— Jon Reed (@jonerp) March 7, 2018
+Salvino brought the point home with a picture of a single neural network (on the left) versus a deep neural network (on the right):
+I can’t tell you how many enterprises I’ve walked into, where I’m faced with either a CEO, a president, a CTO, and a CIO and they’re like, “Hey, we got this. We got the team. We’re doing everything that you guys do.” Then you start digging into it.
+Infinia ML has learned that a typical ML team can handle simple neural networks and supervised learning projects. But the “hidden layers” between the simple and deep learning networks will flummox:
+As soon as you start having some success with the simple stuff, what happens? Your organization starts asking you to do more, right? The questions get harder. When the questions get harder, guess what? You usually don’t have the talent to go from the left side of this page to the right… I’ve been to some pretty big companies over the last 18 months, talking to them about machine learning. They totally bare their souls and say, “I have centers filled with the left. We can’t get to the right.”
+Connecting machine learning to a business case – three questions to ask
+To avoid ML wheel-spinning, Salvino advises buyers to ask three questions:
+
+Is it a top three question on somebody’s mind that they want to answer?
+Does the project actually make any business impact? “Business impact as defined by us is either: increased revenue or decreased cost. There is no other business impact.”
+Is this project producing a unique data set?
+
+If you’re answering those three questions, you got a good project. If not, you have a science experiment. People hate it when I tell them that. “How can you say I’m doing a science experiment?” Well, what the heck are you going to do with that? You’ve got a great algorithm; what’s the business impact?
+Machine learning pitfall #3 – your data isn’t ready to go
+Salvino’s third machine learning misconception is a doozie: “my data’s ready to go!” Alas, that’s rarely the case:
+
+There is NO ML without data – keynoter Mike Salvino predicts: “Companies will spend as much if not more money dealing with data in the next five years as they have spend implementing mission-critical systems like SAP, etc.” #HfSFORA
+— Jon Reed (@jonerp) March 7, 2018
+Salvino asks clients these five questions to keep data quality on track:
+
+Accessible – can your ML team access your data?
+Clean – is your data clean, or is their junk in fields?
+Data Sets – have you created data sets or have you created data swamps?
+Maintain – do you have a process and team to maintain data (Data Science Culture)
+Utilize – do you have a strategy to ask questions that have business impact?
+
+Salvino acknowledged these data questions are deceptively simple. But they aren’t simple in practice. Example: machine learning needs big (usually cloud-based) data dumps. Security lockdowns can derail data downloads and limit access to data sets. No data sets, no ML. Another real-life headache of the “clean data” variety: a company with 27 variations on how to spell the “accountant” job title.
+The wrap – solving the ML talent problem
+Most of Salvino’s ML warnings boil down to data, talent, or business case problems. He discussed several different types of business results from his own clients; I hope to share those in a future piece. As for the talent gap that slows down advanced ML projects, that was a sticking point. The audience pressed Salvino on that topic during the Q/A. Salvino advises a centralized ML team:
+Magicians want to hang out with magicians. Organize these people on a central team that they can feed off each and learn from each other. Allocate them very judiciously out to the business unit. Meaning: have them work on some stuff, then bring them back… If you keep them as a core group, you will keep them longer.
+He also advised recruiting hardcore math and stats pros with advanced degrees. In other words: avoid the flawed service industry trick of “retraining” the aforementioned cloud and security experts who simply don’t have a data science background, and who can’t possibly spiff that up over a weekend or two.
+Salvino thinks this ML hype cycle has substance this time around. He spoke to failed “neural networks” of the past. Two factors have changed ML’s potential: cloud data capacity (+ more data to crunch) and high-performance CPUs, driven by the needs of the gaming industry.
+He issued a good-natured warning to our group:
+For you buyers that are out there – and you suppliers – if you go out after this talk and make these same mistakes, shame on you guys. I gave you the self-awareness to say, “don’t do this.” Fair enough?
+Yep.
+ 
+Image credit - Male mistake concept - © STUDIO GRAND OUEST - Fotolia.comDisclosure - HfS Research provided me with complimentary access to HfS FORA New York City. Read more on: Digital skills and trainingIoT robotics and AIMachine intelligence and AIThe new professional and IT as a service 

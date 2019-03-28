@@ -1,0 +1,26 @@
+
+Software development cycles are speeding up — developers want to test and deploy new code at ever-faster cycles, sometimes many times a day. But the difficulty of moving data around is still a big drag on those timescales. Either developers have to wait for hours or days to get their hands on a copy of the production data, or they skip that aspect of testing altogether and risk having to roll back the deployment if problems arise on go-live.
+Database virtualization provider Delphix believes it has the answer to this conundrum. The company has long specialized in creating virtual copies of databases. Its latest release, announced last week, packages that technology as part of a platform that gives developers and data analysts rapid access to their own virtualized ‘pods’ of data. It is targeting the new release at developers and data analysts working on application development, cloud migration, governance, and data science projects.
+As well as virtualizing the database, the Delphix platform adds security, management and self-service automation. By automating the various steps that would traditionally be done manually by data operations staff, the company claims this shortens data provisioning cycles from days or months to minutes. As this will be especially attractive in DevOps environments, Delphix is calling this new approach to data provisioning ‘DataOps’.
+Trapped in silos
+Enterprise data has traditionally been stored in many separate application and database silos, with cumbersome, time-consuming processes for accessing the data, explains Delphix CEO Chris Cook in a blog post:
+Today, most of this data is trapped in silos and constrained by outdated manual processes and regulatory concerns. This data friction inhibits the operators from supplying the consumers with the data they need at the speed the business requires.
+The Delphix platform extracts this data into a virtualized copy from which it can then replicate other copies for use by developers, analysts and other data consumers. It can connect to multiple data sources, including enterprise applications, SQL databases and unstructured data, whether on-premise or in the cloud, and then make the copy data available in personalized virtual environments — known as pods — to match the needs of data consumers.
+The data pod allows the developer or data analyst to access their own personalized view of data, from one or multiple sources, and manage it with self-service functions such as refresh, point-in-time recovery, versioning, bookmarking and sharing. The platform also includes security, data privacy and governance functionality, providing three main advantages, according to the company:
+
+
+Data and Application Acceleration — Companies can now treat data like code by recording every change and revert back to any point in time. Storing, compressing and replicating data in near-real time means data no longer slows businesses down.
+
+
+Data Privacy and Security — Enterprises can prevent unintentional release of sensitive data with control over access, retention, and audits. They can also mask sensitive data in critical applications to prevent release of personally identifiable information.
+
+
+Cloud Data Management — Enterprises moving data to the cloud can move massive amounts of data once but still refresh it from on-premise or hybrid sources speeding up cloud adoption and operations.
+
+
+Delphix also last week added Microsoft Azure to its list of supported public cloud platforms, alongside Amazon Web Services and IBM Cloud. When used with a cloud platform, Delphix significantly reduces the storage needed for replicated data, can automatically mask sensitive data before it is stored in the cloud, and provides continuous synchronization with source data systems to allow rapid data refreshes.
+My take
+As the volume of data being stored by enterprises expands, so the difficulty of moving it around grows. However much bandwidth there is available, there are still physical limitations on how fast it can be transferred digitally. That’s why cloud providers still offer physical shipment of large data volumes as part of their service — often a truck or a plane is actually faster than the ether.
+Some people therefore talk about the concept of ‘data gravity’ — the notion that data tends to collect in pools, and it’s easier to move processing near to data than it is to move the data somewhere else.
+In contrast, what Delphix provides could be called a ‘data anti-gravity platform’. By creating a lighter, virtualized copy of the data that stays in sync, Delphix allows data to sidestep the physical constraints that weighs it down. At a time when enterprises are looking to do more and more innovation with data, that’s a potentially very valuable capability.
+Image credit - Businessman in stream of data and light with blue background © Sergey Nivens – Fotolia.comRead more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureData privacyDevOps NoSQL and the open source stack 

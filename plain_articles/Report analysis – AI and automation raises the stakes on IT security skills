@@ -1,0 +1,54 @@
+
+Over the course of event season, reports come flying in. With a summer cocktail in hand (seltzer with lime in my case), I recently ranked all reports I had yet to write about.
+Staffing the IT Security Function in the Age of Automation, a joint effort by Ponemon and DomainTools, rose to the top (report free with sign up).
+Pretty much every day, we get news of a security breach potentially impacting millions (Today, it was Security flaws exposed partial addresses & social security numbers of 26M Comcast users). Some hail automation and “AI” as the key to keeping up with breaches and cyber attacks, but I’ve never bought in. Don’t bad actors have access to the same tools and algorithm libraries?
+“Staffing the IT Security Function” reinforces my view. This survey of over 600 U.S. IT and security professional found that rather than automation closing the gap, the cybersecurity skills gap has actually increased by five percent since the Ponemon Institute issued their first security study in 2013.
+Fresh data on the security skills gap – and the impact of AI
+Understaffed teams is still a big problem:
+Seventy-five percent of respondents divulged that their IT security function is typically understaffed and have trouble attracting qualified candidates.
+“AI” and machine learning tools haven’t made security staffing easier:
+Compounding the issue, 76 percent believe that machine learning and artificial intelligence tools and services aggravate the problem by increasing the need for more highly skilled IT security staff.
+This doesn’t mean companies aren’t investing in security automation. Staffing shortfalls have indeed fueled that investment:
+Forty-one percent of organizations say the inability to properly staff security positions has increased investment in cyber automation tools.
+The automation hype train is ahead of security results:
+
+Only 26 percent of organizations currently use automation tools as part of IT security.
+Only 15 percent state that AI is a dependable and trusted security tool for their organization.
+
+I expect that 15 percent number will go up in future years. Call it “AI” or not, there’s no reason automated security tools can’t become trusted tools. The increasing automation of patches and software updates is a basic but impactful area where automation can help, given that so many breaches are the result of poorly updated software.
+On the consumer side, Netgear routers with outdated firmware are an unwelcome example of frequently exploited equipment. During a recent, too-long-postponed firmware update, Netgear presented me with an option to enable automatic firmware updates. My first thought, after ticking the box: “Why didn’t Netgear do that years ago?” The stakes are too high for Netgear to push firmware duties on its users. Consider this Netgear router used by the Air Force that was compromised due to outdated firmware:
+Hackers have managed to gain entry to classified documents on an Air Force captain’s computer after they exploited a known flaw in a Netgear router… It appears that the U.S. Air Force fell behind on its updates, and a hacker was able to gain entry to a closed network in May through a Netgear router that had not been updated to fix a long-known exploit.
+Enterprises can’t just tick a box to keep complex software landscapes up to date, but automation can alert to upgrade issues. That doesn’t eliminate the need for security experts. But I’d rather have my security expert keeping up with the latest threats, and helping users get their devices locked down. I don’t need my security expert updating Microsoft Sharepoint on Windows 7 machines. The survey backed this up:
+Sixty percent of respondents believe automation will improve their IT security staff’s ability to do their jobs because it will enable them to focus on more serious vulnerabilities and overall network security (68 percent of respondents).
+However, the need to defend against sophisticated cyber attacks goes well beyond that. And this is where the nuances of human-machine collaboration must get nailed down. On the positive side: the potential for new levels of safety/security, as in this futuristic-but-plausible example of swarm robots for airplane inspections that could relay video feeds of hard-to-access areas back to human mechanics.
+Machines still need humans – the security skills shortfall gets worse
+But even this swarm robot example is about augmenting human abilities, not replacing them. And that’s where the staffing problem hits hard:
+One of the biggest barriers to a strong security posture, according to Ponemon Institute research, is having a team of security professionals that can deal with complex and serious internal and external threats to the organization. Unfortunately, improvements in staffing are not happening.
+The security skills shortfall is getting worse:
+
+Figure from Staffing the IT Security Function in the Age of Automation report.
+Another skills impediment: you can’t address all your security hiring with computer science graduates. On-the-job experiences and professional certifications are crucial, particularly for senior positions:
+
+Figure from Staffing the IT Security Function in the Age of Automation report.
+The report gets into the differences in skills expectations between entry-level and advanced hires. For example, only 18 percent of respondents expected entry-level candidates to perform cyber and technical threat analyses.
+But: 74 percent of respondents said highly experienced candidates are expected to do cyber and technical threat analyses. I would have liked to see more analysis on how difficult it is to find the senior talent that can do this type of threat analysis, but the hiring gap is obvious. So we have a clear problem – now what do we do about it?
+The report issues the following advice:
+
+Pay your security folks well – compensation matters for recruitment and retention.
+Create a viable career path for IT security staff, and promote from within – “Companies are at risk to losing their high performers if time is not spent mentoring and
+offering opportunities for advancement.” (Just 52 percent of respondents say their
+companies promote from within.)
+Consider job candidates that may not have all the typical technical skills but have the
+aptitude, people skills, communication skills and the willingness to be trained – “Fifty-seven percent of respondents say that when hiring, the softer skills such as being a team player and dependability are more important than technical skills.”
+Recognize that investments in automation and AI will not reduce your companies’ need for skilled IT security personnel. 
+
+My take – transparency and external white hats needed
+A good list of recommendations, but I’d add more. If we’re going to get security right, the days of ring-fencing security into a specialist role are over. We should be designing for security from the get-go. Designers and process experts must dig into how security impacts their disciplines.
+And every IT professional must now embed security into their specialization, whether it’s DevOps or cloud infrastructure or mainframe programming. This report tiptoed into that via the need for security pros with soft skills. Empowering users with better security practices is a big part of what the future of security roles looks like.
+Crowdsourcing security is now essential. Companies should welcome – and reward – “white hats” that bring security flaws to their attention (Comcast did a decent job of this if the above link is accurate). That’s a big culture change for most. I still don’t hear enough pro-active talk about security from the main keynote stage at tech events. But it’s a big concern on the minds of attendees, aka your customers, who are not impressed with AI hype festivals where security is neglected.
+A final word about this report: I was particularly impressed by a detailed section at the end acknowledging potential biases readers should consider, including web-based survey bias and self-directed survey limitations. Non-response bias, sampling-frame bias and self-reported bias are specifically mentioned, as in: “The quality of survey research is based on the integrity of confidential
+responses received from subjects.” Bias acknowledgement should be standard in all industry reports, but alas it is rare.
+I’ll add: small sample size and geographic limitations. 600+ respondents isn’t enough to generate a comprehensive view. However, this is mitigated by the welcome ability to compare five years’ worth of findings. Those five years of data paint a picture, and it’s not a picture companies should be feeling spiffy about. There is work to do, and plenty of clues here on what to do next to close that skills gap and put automation in play.
+I realize this analysis could go further. I plan to rectify that in future coverage, including a follow-on interview.
+Updated 8am UK time, February 11th with additional data on Netgear and a few links.
+Image credit - Feature image -  Businessman Building Up Tower, Challenge In Business Concept, by @ilkercelik, from Shutterstock.com. Two report images credited and linked above.Disclosure - diginomica has no financial ties to Domain Tools or the Ponemon Institute.Read more on: Digital skills and trainingGoverning identity privacy and securityMachine intelligence and AISecurity 

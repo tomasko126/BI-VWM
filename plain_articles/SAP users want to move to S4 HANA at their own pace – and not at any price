@@ -1,0 +1,66 @@
+
+Sven Denecken
+Yesterday I reported on the survey that came out of the SAP UK and Ireland User Group conference which found that its customers do not regard SAP as (a) a digital transformation leader or (b) particularly innovative.
+I said at the time that I thought that this conclusion, which can’t make for comfortable reading in SAP HQ, had wider implications for the S/4 HANA strategy outlined by the company back in February.
+This was dubbed at the time by CEO Bill McDermott as “our biggest launch in 23 years, if not in the entire history of the company”. In other words, it’s bet the farm time again.
+If that’s the case, then the muted reaction of the SAP faithful, both in the conference hall this week and across the wider SAP community, doesn’t bode well, for now at least.
+It seems that you can indeed lead a horse to water, but you can’t make it drink – or at least you can’t make it drink any faster than it wants to. And that’s all the less likely if you’ve managed to scare the horses in the first place…
+This week’s wasn’t the first downbeat survey to set alarm bells ringing in Walldorf. Back in September, DSAG, the German user group, released the results of its own study which found that over a third (37%) of survey respondents don’t feel S/4Hana provides value, 11% have yet to even look at it, while 42% are still “gathering information”. Only 6% of respondents had started to work on anything S/4-related, while only 4% had actually parted with cash for licences.
+Early days
+OK, all this was only announced in February so it’s still early days, a point that Sven Denecken, SVP Product Management for S/4 HANA, pushes:
+We are changing the DNA. The only way to do this is to show that it works.
+He adds:
+There will always be resistance to change. We’ll prove it by use cases.
+It’s a combination of skepticism and ‘how much does this effect me and what I’m in charge of?’.
+That skepticism to overcome is part of our legacy. There is a baggage which says you do innovation on the front end and the back end stays stable.
+Denecken argues that SAP is putting those necessary use cases into place:
+That’s why we are showing a product like Digital Boardroom. Our customers can see that as a good poster child. If we can prove to the CFO that he or she can close their books quicker and see business value and serve internal and external market clients, then they will take this on.
+But while Denecken’s point is well-made, a major sticking point with many SAP customers at the conference is in fact technological in nature. This is the fact that to make the most of S/4 HANA, the expectation – and the clue is in the name! – is that you’ll move off of your existing relational database (aka Oracle in the majority of cases) and onto the HANA in-memory database.
+Now quite clearly this is technically possible. And it may be the case that, once SAP sorts its messaging out a bit more, that a good case can be made for doing so.
+But, and it’s a bloody big but, it’s a big ask of the users. Denecken uses the current SAP in-vogue term of “the core” a lot. It’s a strong image, both for and against what’s being advocated.
+If it’s the core of your business, you need it running at its most optimised and most efficient, hence move to S/4 HANA.
+But if it’s the core of your business and it’s working just fine as it is, why risk ripping it out and venturing into uncharted waters?
+Philip Adams
+It’s a point that Philip Adams, Chairman of the SAP UK and Ireland User Group, picks up:
+It is slowly sinking in that you have to be on HANA. Some people are going to be comfortable with that, some not.
+He adds that users need to be pragmatic and practical about technology:
+The back office must stay alive. There is no point in risking the smooth running of that without significant benefit being seen. Newer technology is becoming easier to implement and adopt, but I don’ think there will ever be zero disruption.
+Denecken offers a counter-argument that SAP is simply ahead of the pack here and that others will follow in its wake:
+We happen to believe that the market will go [in-memory] anyway. Every vendor will capitalise on in-memory.
+But if so, that begs another question. If, ten years out, Oracle (or IBM or some still-undiscovered new database firm) does deliver its own version of a HANA database, will SAP be OK with its customers running S/4 business apps on that rather than the home grown version?
+The answer it seems is yes, if there is an alternative then that would be something that would be a market reality and therefore a possible customer choice. But, adds Denecken, the message here is that S/4 applications run better on the native HANA foundation and that will always be the case.
+Again, it comes back to the need for use cases to prove the point, he adds:
+2,200 customers have opted to move from their existing databases to HANA. This will be where the use cases come in.
+Nonetheless the very idea that S/4 suite applications might end up on an Oracle HANA analog is interestingly pragmatic. Adams can appreciate the argument being put forward by SAP here:
+The application is inextricably linked to the database and the application runs better because it runs on HANA. If I can have a simpler technology stack because it runs on that database, then that’s good.
+But he adds:
+You can shoot yourself in the face by saying that the only way to run this application is on our database. If that doesn’t happen, then they [SAP] have to react.
+Money, money, money
+That’s a longer term argument to play out of course. Of more immediate concern to the user group is the lack of clarity about what happens regarding pricing and licensing in the short term. At present there is an SAP promotion on which states:
+Existing SAP Business Suite customers have to procure the SAP HANA runtime license for SAP Business Suite (@15% HSAV = SAP HANA Software Application Value) and will get the SAP S/4HANA foundation-promotion license at no additional cost until end of 2015.
+Existing SAP Business Suite powered by SAP HANA customers with a valid SAP HANA limited runtime license for SAP Business Suite (LREA) are eligible for the SAP S/4HANA foundation- promotion license without additional cost until end of December 2015.
+New SAP Business Suite powered by SAP HANA customers have to procure the SAP HANA runtime license for SAP Business Suite (@15% HSAV = SAP HANA Software Application Value) and will get the SAP S/4HANA foundation-promotion license at no additional cost until end of December 2015.
+In other words, until the end of this year, no cost to upgrade, come and get it!.
+After that however, nothing is currently clear. Adams says the question of what happens from 1 January – just over a month away – has been asked “at the highest levels”, but to date no answer has been offered. He says:
+Not knowing is a concern.
+The user group argument is that for those in maintenance programmes, there should be no upgrade costs attached to following SAP’s lead and moving to the new suite. Adams says:
+ Absolutely we’ve been paying for it, in pounds, euros and dollars!
+For his part Denecken points to the promotion and says that there will be more clarification to come:
+There will be incentives and pricing and we will communicate those.
+But for now, he says, as the guy “in the engine room” and not a sales person, he can’t provide any additional information, although he does add:
+Where there is a value, there is a price.
+That’s unlikely to impress enormously in user group circles. Adams states bluntly:
+A lot of customers would say, ‘hold on a moment. There’s already a cost to move in having consultants come in and so on’. They’ll want to see the benefits. If people don’t appreciate there’s value then they won’t want to pay. It won’t help with adoption.
+My take
+Going back to that user group survey, it is tempting to ask at this point if what we’re seeing here is an issue related to S/4 HANA adoption or just something indicative of SAP customers being inherently conservative with a small-c?
+Adams denies the charge:
+We want to adopt new innovations, but we want to do it at our own pace. We don’t have the energy to do it all the time.
+Everyone wants to see that the product set is moving forward. We all want to see that we have a roadmap for the SAP products. But 2025 is a long way away.
+It is indeed and that’s going to be one of the challenges facing Denecken and his colleagues as they try to bring the users on board with their forward journey to S/4 HANA. In the short term, the tight-lipped stance over pricing beyond January leaves a bad taste and an inevitable sense of foreboding. There’s trouble ahead here.
+What’s clear for now, is that (a) the messaging around the benefits of replacing the core needs to be improved and (b) the best way to illustrate these is through use cases. Get the customers in front of the customers and let them tell the story.
+That’s going to take time. But, points out Denecken, SAP is used to playing the long game:
+We did just shut off the final R2 implementations two years ago.
+As for how long a game Denecken sees this as being, he ruefully smiles when he suggests:
+I will retire on S/4 HANA.
+Disclosure – at time of writing, Oracle and SAP are premier partners of diginomica.
+Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureCRM and customer experienceFinancialsInfrastructure 

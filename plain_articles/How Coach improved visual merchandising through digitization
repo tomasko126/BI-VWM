@@ -1,0 +1,39 @@
+
+Everyone sells fancy handbags, and every woman owns one or more. But all handbags aren’t the same and every brand provides a different spin on why their products are the best. This is true for Coach. It knew it needed to stand out from the crowd and wanted to promote its image as a warmer, accessible luxury lifestyle brand in all its retail stores across the globe.
+But their process for visual merchandising was complex with over eleven different communications tools. This is a story of how they simplified and consolidated the visual merchandising process and created an environment were engagement between Corporate and Stores was essential to Coach’s success.
+Visual merchandising at Coach before
+Coach has over 1000 retail stores across the globe; 470 of these are in North America, the rest in China, Japan, Korea and Europe. Coach stores sell more than handbags; it also began selling a ready to wear line of clothing for women and men and wanted to be perceived as very fashion-forward.
+To find success as a luxury lifestyle brand, Coach need its stores to offer a consistent look and feel and the visual merchandising team is the group who decides how the stores are designed.
+“A Visual Merchandiser oversees and coordinates the display exhibits in all parts of a retail store. Visual Merchandisers decide the theme and feel of a store, then evoke that environment through décor, visual displays and product arrangement.”
+Every month, the visual merchandising team creates guidelines in PDF format the describe what a store should look like. Sometimes they promote new products, other times promote specials, or sales, or base designs on Sales information. The goal with visual guidelines is to get each store to look the same as much as possible.
+Communicating store guidelines across one thousand stores was no easy task for the visual merchandising team. They had eleven different communication tools including their intranet, email and physical mail. The VM team would develop their guidelines, print them and mail them to the stores. It was challenging to know if the stores were following the guidelines. Coach does have field visual merchandisers, but finding the time to check in on so many stores wasn’t possible.
+Coach decided it needed a better solution to support its VM team. That solution came in the form of the VM Insights Intranet. I spoke with Christina Dellavale, a Visual Merchandiser with Coach about the new VM Insights Intranet.
+VM Insights intranet
+Dellavale told me that the VM Insights is an Intranet used for communications between the Corporate Visual Merchandising team and Coach Stores across the globe. It combined all the communication channels into a single platform, built on Liferay 6.2.
+VM’s post their guidelines to the Intranet where all the stores access the them. They make the required changes and take photos that are then submitted to the Intranet for review. Field VMs can comment on the submitted photos, and rate them. The stores would then make the required fixes and re submit their photos.
+Phase one of the VM Insights intranet rolled out to North America in the fall of 2015 and has been in the process of rolling out to its global stores since the summer of 2016. The phase two rollout includes translating the VM Insights intranet into five additional languages.
+According to Coach, VM Insights has been successful in a few different ways:
+
+Save 1.4 million sheets of paper which translates to over $500,000 annually
+Now have one global process that promotes two way collaboration between Corporate and the Stores
+Enable compliance with the Visual Merchandising process
+Publish 100+ MBs of high resolution, image heavy content per month
+
+The technology that digitized the visual merchandising process
+Liferay, a digital experience platform, is the technology behind the new visual merchandising process. Liferay might be best known as a portal platform, but it recently rebranded as a digital experience platform and added new capabilities that they were constantly building for customers on case-by-case basis.
+Coach’s VM Insights is not using Liferay’s DXP, it’s using an earlier version of Liferay, partly because Coach built its Corporate Intranet on Liferay four years ago and continued to use the version it licensed.
+“We implemented Liferay ~4 years ago and at that time moved away from SharePoint. Other tools were evaluated but we chose Liferay for its combination of flexibility, rate of innovation, and its comparatively low price point.” said Adrienne Sweeney, Senior Manager, Business Solutions at Coach.
+Features of Liferay used included:
+
+Notifications for major events: guideline uploads, audit submissions, email notification
+A number of out of the box portlets such as Web Content and metadata collection features, Asset Publisher, Site Map and Knowledge Base
+Localization for web content and other on screen text
+Full LDAP integration, as well as Liferay security including Roles, Teams and User Groups, and granular permissions.
+Integration with Solr for search
+
+Coach is also doing some proof of concept testing on the new Liferay DXP.
+My take
+This is story about ensuring that customers get a consistent experience no matter what Coach store they walk into and that all customers are treated similarly. We spend a lot of time talking about how to support a consistent digital experience regardless of digital channel, but it’s equally important to ensure a physical presence also has that consistency.
+It’s also a story about creating better communication and collaboration internally to ensure that consistent customer experience can happen.
+Manual processes that involve multiple communication channels don’t work. This is how technology can hurt us – too many technologies, no centralized view. But this is also a demonstration of how technology, when used right, can help greatly. The idea of trying to manage the physical presentation of over 1000 stores across the globe is mind boggling. Seeing how much easier it can be done with the right technology is encouraging for not just Coach, but other businesses in similar situations.
+Image credit - Technology, Internet, business and marketing. Young business per © photon_photo - Fotolia.com.Read more on: Collaboration sharing and digital productivityDigital and content marketingProductivityRetail e-commerce and the omni-channel 

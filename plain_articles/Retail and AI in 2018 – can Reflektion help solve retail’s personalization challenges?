@@ -1,0 +1,46 @@
+
+As we look ahead to retail in 2018 – with NRF’s “Big Show” right around the corner – there’s no doubt that the difficult pursuit of real-time personalization will be high on the retailers’ agenda. Now mix in the marketing rocket fuel of “AI”.
+That’s a lot of tech sludge for retailers to wade through, but wade they must – if they want to apply what works in 2018.
+At Shop.org 2017 in August, Kurt Heinemann, CMO of Reflektion, was good enough to field my skeptical views in real-time personalization – and show me some examples. Since then, I’ve looked harder at Reflektion customers’ web sites, and pulled some graphics that show how retailers are doing it.
+Real-time personalization on web sites – is it doable?
+I wanted to know: how are companies doing this on web sites? Email personalization is enough of a problem, and with email, you have data on an individual’s clicking behavior.
+Online, it’s mostly a stab at “personalization along the edges.” We are served up product recommendations and (allegedly) relevant ads based on our preferences. But what about shifting the entire page for visitors who are not logged in? The most common answer seems to be: segment into a likely demographic group, and do a brute force attempt. What say you, Mr. Heinemann?
+We’re storing individual profiles for everybody; we’re not leveraging segments. We’re actually leveraging their actions specifically and individually when they come back to the site, or in the same session. So we’re helping narrow down that endless aisle to a personal aisle as quickly as possible.
+What about the anonymous visitor, the one who has not logged in or who has never been on your site before?
+We pick up on the attributes they seem to have preferences for, understanding them through cohort analysis, what an anonymous visitor might like based on their geographic, based on time of day, even based on their operating system or device – and trying to use that information and get it down to the individual after one or two clicks, as quickly as possible.
+And how does Reflektion use cohort analysis?
+There’s two ways that we engage a customer. The first is real-time, with a response to everything they do. So we’ll help narrow down… If they’re a woman shopping, we know within a couple of clicks that it looks like at least they’re shopping female apparel. So now everything starts shifting very quickly.
+Site search is then customized as well:
+When they put in the word “shirt”, suddenly it’s women shirts prioritized on the top.
+Probabilities based on time of day are one starting point:
+On one of our clients’ sites, we know that if you’re coming between 2 and 5 in the afternoon on an iOS device, it’s 82% probability that you’re female. So we’ll make the website start working off of that hypothesis first, off of that cohort analysis, and then dive down quickly after the first few clicks to try to get it, once again, as close to that individual as possible and their interests.
+Hold up a sec! Even modern content management systems struggle to shift individual pages based on third party data. So how does Reflektion confront that problem?
+We’re doing it right at the DOM (Document Object Model) layer, so we’re doing it right at the browser level. So if you go to O’Neill site and you click on search, we pop up in the preview search window right away, but we’re not in their back end, we’re doing it at the browser level.
+Heinemann says that means the headaches of CMS-based integration go away:
+Essentially, we can work on any platform, it doesn’t matter. We’re platform agnostic. We work with the client to make sure it meets their creative standards, but we’re running on top of their instance if you will.
+Personalization in action – the O’Neill example
+When Heinemann gave me the O’Neill.com personalization tour, the first stuff I saw was men’s clothes (the system correctly thought I was a dude). Why? That’s the cohort analysis showing the most likely preferences based on whatever data points they can pull (time of day, geography, etc).
+That means the Reflektion pop-up when I initially hit “search” showed me men’s clothing and gear. But then Heinemann had me go into women’s shorts. Then when I went back to click in the search bar, it showed me this female-focused view:
+
+(This isn’t the full search pop-out – the rest of the results had women’s swimsuits). From there, I started seeing results pertaining to the clicking I was doing.
+When I was in women’s dresses, I got a feeling for how quickly the system adjusted. After looking at several long dresses with no sleeves, the “similar items” display below was exactly that:
+
+Yup, all short sleeves. Heinemann talked me through Godiva, another customer example. A luxury chocolate brand with 200+ stores, Godiva wanted to have the personal engagement on their web site to match:
+Their product site isn’t 10,000 SKUs It’s 500-700 SKUs. But they still wanted to make it easier to find what you were looking for, and explore at the same time, while being exposed to things that would be relevant to you. They worked with us to develop a very responsive site that has product recommendations that are firing across the website experience based on your individual interests.
+Reflektion was prepping to launch enhanced search on Godiva when Heinemann and I spoke, as well as personalized emails:
+So they have this very consistent consumer experience, that’s intelligent and intuitive. As opposed to that random thing where product recommendations are based on segmentation, and my email is a generic segment experience.
+My take – results matter more than “AI”
+In theory, personalized content sounds better than brute force segments. But the numbers must back it up. Heinemann told me that with Godiva, they did a 50/50 split test to compare the personalization impact:
+You can talk about how easy it is to find something, but if it is that easy, it should result in a higher conversion rate. Like any good kind of machine learning platform, we wanted to go 50/50 to understand how we were benchmarking against a control group, and make sure we were optimizing and tuning the algorithms.
+Each customer has a different audience to optimize for:
+We really have a recipe for every client that’s different. We don’t come with one set and say, “It works.” So it learns from that particular audience, that product set, and that brand. So we did a 50/50 test…  I can get you the numbers, it’s actually on our website as a case study. It’s a 24 percent increase in conversion rate.
+The increased conversion rate doesn’t surprise me. If we deliver relevant things to consumers and adjust in real-time to their needs, they’re going to buy more. Next time I speak with Heinemann, I’ll dig more into customer results, and why personalization is working.
+For now, I can say that the level of on-site personalization for anonymous visitors was about as good as I’ve seen. Caveat: I believe the future of commerce is largely via logged in shoppers – Amazon certainly does. But we’re not always going to have the luxury of logged in users. Logged in or not, dynamically adjusting entire web pages (and search) without getting into the nuts and bolts of CMS customization is the right direction.
+Of course, O’Neill now thinks I’m a female shopper that likes dresses with no sleeves, but a cookie flush should help with that.
+I liked that Heinemann didn’t overflog “AI” during our conversation. If machine learning helps retailers serve customers better, great. I still need to see better experiences from more retailers. There are way too many disconnects between on-line and in-store, purchase and post-purchase support/exchange.
+Heinemann says retailers need to conquer the “missing 97 percent’ of visitor data to achieve personalization:
+We think the purchase event is really the end of the story, you need the other 97 percent to understand what the customers are interested in to get them through to find what they’re looking for.
+Since Shop.org, Reflektion has been busy also. They picked up $12 million in funding for an EMEA expansion, and were named one of the world’s 100 most promising AI companies by CB Insights. We’ll see if the market agrees.
+
+ 
+Image credit - Feature image - Hand, tool and big walnut on wooden background. The concept of complex problems, the challenge can be solved. © sablinstanislav - Fotolia.com.Disclosure - NRF provided me with press access to Shop.org 2017.Read more on: Analytics planning and data analysisCRM and customer experiencee-commerceRetail e-commerce and the omni-channel 

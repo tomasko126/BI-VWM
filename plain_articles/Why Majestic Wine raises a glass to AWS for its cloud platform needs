@@ -1,0 +1,26 @@
+
+Majestic Wine is a UK wine specialist retailer founded in 1980. In the decades since its launch, the company has gone public, been acquired, and has been on an acquisition trail of its own.
+After going online with Majestic.co.uk in April 2000, the company acquired Le Celliers de Calais, Lay & Wheeler, WBI Ltd and Vinotheque Holdings Ltd, but it wasn’t until April 2015, with its acquisition of Naked Wines in a deal worth £70m that its online presence really ramped up.
+Unlike Majestic, Naked Wines was an online-only retailer which launched in 2008 in Norwich, England. The company used Amazon Web Services (AWS) from the outset, recalls Rob Kay, development manager at Majestic Wines:
+I wasn’t involved at that point but I’ve known the CTO [of Naked Wines] and he was one of the founders, and they started when AWS services were just called EC2 and S3, so the company has been along the whole ride with AWS.
+As Naked Wines grew over the last decade, moving into the US and Australian markets, AWS was used as the backbone, making it simple for the company to deploy applications wherever they were. Kay explains:
+We’re deploying the same applications that run our e-commerce stack and all of our call centre, and we build these out of our cloud on AWS and deploy them across the world.
+We’re a fairly new company and so we still have the legacy of what is a monolithic application, but it’s great we can use PostgreSQL on AWS RDS to manage and scale our databases. It started off on EC2 and when RDS came online we five years ago we were able to use that and it’s taken all the management away from us which has been great.
+Acquiring a more modern approach to tech
+In 2015, when Majestic Wine acquired Naked Wines, Kay explains that despite Majestic’s online presence, the company had made very little investment in technology up until that point:
+Certainly one aspect of that acquisition was about tech and enabling Majestic Wines to keep pace , and expanding its online business and going multi-channel.
+Since the acquisition, Majestic Wine has had to expand its development capability rapidly. he adds:
+We had a lot more to worry about, we started a migration process and didn’t do a great deal of ‘lift and shift’ – we took the platform Naked Wines had built which was as cloud ready as possible and migrated Majestic pieces onto its own versions of those systems.
+That move is still ongoing, with the company focusing last year on moving Majestic onto the platform and rebuilding their entire online proposition. Majestic wanted to regain control over its online presence as it was managed by a third party, and the company felt it was constrained by the platform.
+Now, Kay says the company can do what it likes with the platform as it’s in-house. In addition, the company has become leaner as it only needs two or three AWS operations experts managing the environment:
+That’s running the infrastructure for four companies and that’s a massive benefit to us..
+AWS tools
+As well as using RDS as its database, Majestic uses AWS Elastic Beanstalk in its e-commerce stack so that it developers can focus on writing the code, as the deployment and scaling is a matter of “pointing and clicking”, according to Kay. That is particularly helpful as the organisation is a very seasonal business.
+But the company strives to become more mature in its use of AWS tools; it has plans to use serverless technology and has a roadmap of getting to a micro-services solution:
+AWS are always doing things that support these plans; if we aren’t managing any servers then it’s even better so using things Lambda and API Gateway could be something we do soon, while DynamoDB seems a really good fit once you’re in that space.
+Meanwhile, the company is also ramping up its use of machine learning. This includes looking at matching customers questions with the right call centre staff, and enhancing its product recommendations to customers. Perhaps the most beneficial use of the technology for Majestic is in identifying where the company needs stock:
+We have 210 shops which don’t have a lot of space to hold thousands of bottles of wine so getting the right stock holdings in the whole country at the right time is a big target for us.
+In the long-term, Kay hopes that the company can better understand different types of new customers:
+We use a partnership model where customers come to us from different partners. So depending on if we’ve given a certain promotion to a customer, in theory we can extrapolate what the potential of the customer is based on similar customers we’ve seen before. In addition, we can better understand customer behaviours and how we can best serve customers, as well as predicting what customers want from us as well.
+ 
+Image credit - toasting with wine glasses © taa22 - Fotolia.comRead more on: Cloud platforms - infrastructure and architectureCRM and customer experienceDigital enterprise in the real worldUse cases 

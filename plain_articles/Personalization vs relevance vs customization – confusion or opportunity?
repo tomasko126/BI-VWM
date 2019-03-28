@@ -1,0 +1,65 @@
+
+Done right, personalization can make a difference in revenues, loyalty, and customer insight. Done poorly, personalization is tone deaf or intrusive.
+That may explain the surge of hype-laden terms, most with confusing definitions. While researching this piece, I ran into individualized personalization, hyper-personalization, relevance, contextual relevance, individualized insights, predictive personalization, and an absurd amount of overlap in their usage. And, worse yet – PURLs. So where does that leave marketers?
+Why personalization is superseding customization
+Bad news: I doubt I can clear up all these definitions in one article. But what I can do is look to the real world for some sanity. Let’s start with personalization versus customization. These definitions by the Nielson Norman Group are pretty coherent:
+
+Personalization is done by the system being used. Developers set up the system to identify users and deliver to them the content, experience, or functionality that matches their role. Personalization can be done down at the individual level (e.g., Amazon.com’s suggestions based on past browsing and purchase history), or at group or audience level (e.g., an intranet displaying information specific to those in a certain location or a certain role, such as a job function).
+Customization is done by the user. A system may enable users to customize or make changes to the experience to meet their specific needs by configuring layout, content, or system functionality. Customization may involve moving items around an interface to reflect the users’ priorities.
+
+For better and worse, customization is losing traction as a design philosophy. That’s because only a minority of super users takes advantage of customization. The rise of personalization is fueled by a desire give users a better experience out of the box, by interpreting preferences without any additional effort on their part.
+A growing body of stats indicate that personalization-done-right can impact the bottom line. During his presentation at Hippo Connect on How to Get Personalization Right, Authx CEO David Roe cited stats such as:
+
+91 percent of customers reported that personalized content had an impact on their purchasing decisions.
+61 percent of marketers prioritized improving the customer experience through personalization in 2016.
+
+A 2014 Infosys study reported similar numbers, with 86 percent of consumers citing personalization as influencing purchasing decisions.
+Personalization realities and roadblocks
+So what are the technical roadblocks? The biggest impediment: a single view of the customer is needed to drive personalization across channels. An Experian study in 2014 cited the top three obstacles linking personalization across channels: inability to link different technologies (40%); poor data quality (34%); and lack of relevant technology (32%).
+Personalization might work in one channel, but it’s siloed from another. Your personalized online experience falls apart in the call center, and so on. Personalization tech is certainly getting better. The most advanced examples of personalization I’ve seen are:
+
+retail – dynamic product page rendering based on an individuals’ perceived preference.
+advertising – dynamically placed “predictive” ads on sites like Facebook that are drawn from past shopping preferences.
+email – content based on user preferences is usually more advanced by email than on-site.
+
+Granted, the dynamic ads we see still have that tone deaf element, like Facebook making predictive assumptions based on a lawn mower we bought as a one-off gift. (Facebook recently showed off this suitcase based on a luggage purchase – not exactly my style).
+Most web sites that use personalized content use it as a “contextual” element, like content recommendations that surround a more generically-served article.
+So far, the best examples of dynamic personalization I’ve seen involve a CMS (content management system) that plays very nice with other tools. If your CMS is clunky or proprietary, it’s tougher to work the dynamic parts in. At Hippo Connect in Boston, I checked out a presentation with their partner commercetools (Hippo CMS has partnered with commercetools for e-commerce since 2015). The press release announcing the tie up quoted commercetools Founder and CEO Dirk Hörig:
+Hippo’s decoupled architecture – separating content from presentation – aligns perfectly with our API-first approach to E-Commerce. We reviewed the CMS market extensively, and found Hippo’s technology to be the ideal fit for our vision for digital experiences.
+I have no dog in this fight – diginomica runs on WordPress – but how many CMS solutions fit that
+Example #1: – all items on page are personalized
+decoupled/API-first description? I had several technicians tell me that doing personalization at scale requires this type of architecture. I don’t have a terrific screen shot for you, but I did get one of a commercetools shopping page with all products on the page dynamically generated (see left).
+Another example I saw was at SAP’s Hybris Summit, where customer Total Wine & More discussed a personalization approach that included tie-ins from Hybris to partner RichRelevance. RichRelevance seems to focus on personalized placement alongside editorial or product content, but it does add a significant element of personalization to a page
+Example #2 – personalization surrounds content
+(see the red boxes on right and bottom, both of which add Amazon-like “also bought” elements – click on picture for full view).
+Be wary of that “relevance” buzzword
+Some marketers now endorse the use of “relevance” over “personalization,” which has been deemed a contaminated buzzword:
+
+personalization still evokes the era of “mass personalization” mail pieces where the only personal element was your name, usually misspelled.
+personalization invokes a potential invasion of privacy or a “creepy factor” consumers don’t appreciate.
+
+I am adamantly opposed to a swap of these terms. “Relevance” should be distinct because relevance is the end game. Personalization in all its forms is just one avenue to relevance.
+Products can be highly relevant without any personalization. I have customized my Roku player with all my channels (Netflix, Amazon, Spotify, YouTube). The player is relevant to me without any personalization.
+Sometimes relevance comes down to segments. A shoe store launches e-commerce; their main categories are boots, dress shoes, and running shoes. They may benefit from segmenting their audience in those three personas and displaying product and content for those three personas. That may be all the relevance they need.
+That’s exactly what Roe recommended during his HippoConnect presentation. Starting with a so-called “customer journey”, you map out the different data touch points. From there, you can define the most likely personas and carry out structured campaigns.
+As you figure out the touch points for each persona, you also determine where to insert relevant content. Behavioral data can come into play here, starting with the “cookie” that tracks an anonymous user, which may become a logged-in user down the road. The more diverse your audiences’ needs, the more you may need to rely on cutting edge personalization to make sure they are seeing a reflection of their nuanced interests.
+What is “contextual relevance”?
+“Contextual relevance” is another over-used personalization buzzword that means five different things to five different marketers. I like this definition from a 2012 Journal of Media Psychology article:
+However, it is not always possible to provide personally relevant content. Under such circumstances, the best that a system can do is provide contextually relevant peripheral content (e.g., ads) based on the topic of the main content (e.g., search-engine output).
+Completely personalized content may be too steep a hill to climb. Personalized ads (contextual personalization) around topical content may be good enough. Which is exactly what this paper concludes:
+Results indicate that personal relevance and context relevance are fungible in contributing to user attitudes toward the site.
+I find that surprising, but the key points are:
+
+contextual relevance is an approach to consider in cases where it doesn’t make sense, logistically or technically, to personalize all items on a page.
+contextual relevance does NOT have to be advertisements. It could be content previews, blurbs for webinar sign ups -whatever makes the most sense.
+
+With these definitions in mind, the RichRelevance screen shot above serves as an example of contextual relevance.
+The wrap – PURLs, customizations, and a return to personalization sanity
+Then there is the “PURL” – a totally personalized URL, often used as an individual landing page for promotions. the PURL is a great illustration of personalization dilemmas. Or, as Digital Nirvana put it:
+Before spending the money, consider that the degree of personalization that can be created on PURLs is highly dependent on the amount of data your organization has gathered about its target audience. When good data is available, keep in mind that an overly detailed and personal level of information in a PURL may lead a visitor to feel his or her privacy is being invaded.
+Bingo. Digital Nirvana makes the case for relevance:
+The real driver of response rates is relevance rather than personalization. PODI.org cites research indicating that relevant campaigns generate, on average, 300% better response than those that are simply personalized. The level of customization to make something relevant to the recipient is usually not 1-to1 or even 1-to100. It may be more like 1-to-10,000.
+As Sailthru’s Neil Capel wrote for us in 2014, you can do personalization at scale. Relevance provokes a better question: do you really need it? If so, you’ll probably need a modern CMS that can play ball.
+Personalization is to real-time data as “relevance” is to “right-time” data. Throw out the absolutes. Who really needs the information – and when? Also: don’t abandon customization. Too many companies turn their backs on the minority of power-users who thrive on customizable displays and settings. They may be a minority, but they are socially influential.
+Personalization comes down to an inviolate trust between brand and customer. You can only personalize to the degree that visitors/customers willingly share their data. That’s the most important limitation of all.
+Image credit - Feature image - Confusion. © BillionPhotos.com - Fotolia.com. Screen shot from commercetools taken by Jon Reed at HippoConnect. Screen shot from RichRelevance form their web site.Disclosure - Infosys is a diginomica premier partner. SAP Hybris paid the bulk of my expenses to the SAP Hybris Summit. Hippo provided me with complimentary access to HippoConnect. Read more on: Analytics planning and data analysisCRM and customer experienceMobileUser experienceUX and application design 

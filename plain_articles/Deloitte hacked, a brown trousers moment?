@@ -1,0 +1,57 @@
+
+According to The Guardian, Deloitte, one of the Big Four global consulting firms, was hacked as early as late autumn 2016.
+While the firm is downplaying the incident, reports from multiple parties suggest Deloitte is being – how shall we say – at best economical with the truth. Unfortunately, none of what Deloitte claims is provable short of direct evidence from the top of the firm. But there is enough of a whiff to call foul, subject to the slo-mo replays..
+This hacking case is distinguished from others for a variety of reasons.
+Deloitte sells security services and claims:
+Deloitte ranked #1 by Gartner in Security Consulting Services for the 5th consecutive year
+Deloitte is pleased to announce that Gartner, the world’s leading information technology research and advisory company, ranked Deloitte #1 globally, based on revenue, in Security Consulting Services for the fifth consecutive year in its May 2017 report titled, Gartner: Market Share: Security Consulting Services, Worldwide, 2016.
+Sources tell me the information Deloitte gave Gartner in support of the claim and which was not adequately verified by Gartner is bogus. The way in which the numbers were described to me reads like something Pinocchio would be proud of spouting. While I have not (and do not expect) to directly confirm the numbers, I am told that Deloitte inflated its security revenue number by a factor of at least 450%, principally by counting whole deals that include security elements.
+Revenue exaggeration is far from new in the technology industry as vendors seek new and novel ways to demonstrate that they hold a given market lead. It is an ongoing technology media joke to count the number of press releases received in a week that start with “XX the biggest/largest…” based upon the flimsiest of data and/or an arcane definition. It is also a dark joke that some firms have elevated revenue counting to an art form that makes a proper assessment of financial claims almost impossible. This is one BIG reason why I am resolutely against non-GAAP earnings figures. But that’s another story.
+This case is rather more serious because Gartner, upon which many CXOs rely for technology verification, has blessed Deloitte in one of its beauty contests assessment reports.
+If that was not enough. Deloitte also says:
+Deloitte named a global leader in Security Operations Consulting by ALM Intelligence
+Deloitte is pleased to announce that ALM Intelligence has named it a global leader in Security Operations Consulting (SOC) based on the breadth and depth of its capabilities, in their report, Security Operations Center Consulting 2016.
+Hmm…how many boxes were ticked?
+What else can we say to supports this position?
+Fact, fiction or somewhere in between?
+Brian Krebs is a go to source and he says:
+Deloitte has sought to downplay the incident, saying it impacted “very few” clients. But according to a source close to the investigation, the breach dates back to at least the fall of 2016, and involves the compromise of all administrator accounts at the company as well as Deloitte’s entire internal email system.
+Which is it? Elaborating on the story, Krebs says:
+In a statement sent to KrebsOnSecurity, Deloitte acknowledged a “cyber incident” involving unauthorized access to its email platform.
+“The review of that platform is complete,” the statement reads. “Importantly, the review enabled us to understand precisely what information was at risk and what the hacker actually did and to determine that only very few clients were impacted [and] no disruption has occurred to client businesses, to Deloitte’s ability to continue to serve clients, or to consumers.”
+However, information shared by a person with direct knowledge of the incident said the company in fact does not yet know precisely when the intrusion occurred, or for how long the hackers were inside of its systems.
+This story is extraordinarily difficult to parse with any degree of certainty. Why?
+
+Deloitte is not about to spill the beans to a media outfit because however it is presented, Deloitte ends up with egg on its face – big time.
+The fact (or not) that all admin passwords were compromised does not man that all were used to gain access.
+Deloitte is not subject to external oversight in the same way as a publicly traded company. It can therefore remain opaque to public scrutiny.
+In circumstances like this, Deloitte can (almost) legitimately downplay any breach by referring but without clarifying, that information given relates to one of any number of legal entities through which Deloitte contracts.
+
+The last two points are critical to understanding what Deloitte is saying because while it presents itself as a global business, it is actually a set of local partnerships and companies that trade under a single marketing umbrella. We know this because Deloitte tells us:
+Deloitte LLP is the United Kingdom affiliate of Deloitte NWE LLP, a member firm of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (“DTTL”), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. Please see About Deloitte to learn more about our global network of member firms.
+(My emphasis added)Deloitte is not the only firm organized in this manner. KPMG, PwC and EY operate the same way, a topic that in the past, has irked so-called Tier-2 firms as well as making it very difficult for many of us in media to adequately investigate specific cases.
+Deloitte can, therefore, pretty much say anything it likes with a perfectly straight face while at the same time giving a misleading impression but without technically telling a lie.
+The more important question though is whether any of this matters? Yes it does.
+Deloitte – the problem child?
+For all the talk of audit, tax and consulting services, Deloitte is fundamentally in the trust business. Lose trust and you lose clients. This is no big deal in the world of audit where rotation among the Big Four has pretty much created a cartel. Drop a clanger, get caught up in some client’s fraud issue and you might get a slap on the wrist by the SEC but you know one of your competitors will end up in much the same boat sooner or later. No big deal. The world of consulting is rather different.
+Deloitte was already regarded by some as ‘problematic’ in its role of technology implementation services firm.
+If you run a search about Deloitte and project failure on ZDNet, you will learn that Deloitte is the most mentioned firm in publicly reported project failure cases. It is something I have heard from vendors at certain times.
+At one time, Deloitte’s name was turning up with such regularity that the running joke among some of us who contributed to ZDNet at the time was that the author of Project Failures must get bored, poking at a single target. Now rebranded to Beyond Project Failure, this story about Marin County and alleged fraud is both instructive and worrisome.
+In recent years, it appeared that Deloitte had cleaned up its act, most notably acquiring Aggressor in 2012 as a way of acquiring Workday HR consulting expertise. Reports in the following years suggested Deloitte had done a good job integrating the Aggressor team, developing a solid offering in the process.
+Client action
+How bad is it for Deloitte clients?
+Knowing what I know from a former life  in consulting and tax planning, this is what I call a ‘brown trousers moment.’ The fact this must be a commercially motivated attack and that Deloitte is not exactly clear about what was taken – or even if it truly knows – is deeply troubling. What should clients do?
+At the very least:
+
+Deloitte clients must trawl through any Deloitte related electronic correspondence to understand what, if any corporate secrets, have passed between client representatives and Deloitte.
+Clients must verify directly with Deloitte whether any of their correspondence has been the subject of the hack. Accepting bland coverall statements will not do.
+Clients might wish to ask Deloitte whether specific emails have been affected rather than rely upon blanket statements.
+Expect Deloitte competitors to knock on your door any time about now.
+
+My take
+Gartner does not go untarnished in this story because, once again, it raises the question of Gartner as a ‘pay to play’ actor on a corrupted stage.
+Deloitte, in common with other firms that have been hacked, has not done a great job ‘fessing up when faced with uncomfortable questions. Communication weakness is a concern.
+The more I read the reports on this story, the more difficult it becomes to parse with certainty. It is not, for example, clear to me which part of Deloitte’s email system was hacked. Reference to the ‘global’ system flies in the face of so-called Chinese walls that are supposed to exist between audit and consulting units. Deloitte is said to operate its email system in the Microsoft Azure cloud. It would be extraordinary to find that the whole of Deloitte’s global email was set up this way. Why? It would be difficult for Deloitte entities in non-US territories to claim confidentiality under local laws. Unless of course that’s a fiction too.
+I would not expect Deloitte to offer chapter and verse on what happened but the bigger problem is that however the firm parses its own story, it ends up compromising part of its positioning. And it is one story that ain’t going away any time soon.
+ 
+Image credit - via DeloitteDisclosure - Workday is a premier partner at time of writing. Read more on: Data privacyGoverning identity privacy and securitySecurity 

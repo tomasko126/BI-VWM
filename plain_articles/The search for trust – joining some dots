@@ -1,0 +1,55 @@
+
+
+The last few days a bunch of seemingly unrelated discussions has ended up posing the following question in my mind: are buyers losing their trust in business-driven tech? If that sounds a tad (say a year?) late to be asking the question then that’s because, despite the Cambridge Analytica brouhaha, I’ve felt that any loss of trust is largely restricted to consumers rather than business users.
+Even now, on the ground soundings, evidenced by, for example, better than expected Salesforce numbers, indicates that there’s plenty of enthusiasm to spend more on enterprise technology.
+I wonder whether that is a short-lived phenomenon. For example, in a PubExec article promoting an AI talk, the author said:
+As digital disruption has become a constant in the media industry, publishers have become fatigued from buying technologies that don’t deliver the ROI they expected. However, in some (many?) cases it might not be the technology that is the problem.
+Hosanagar’s (the speaker) point is that in order to truly realize the transformational potential of AI, companies must adapt their organizational DNA to support new skillsets, increase their tolerance for experimentation and failure, and boost organizational learning and consensus building.
+That’s a lot of grind around a technology that may (or may not) work as advertised (sic).
+A land of confusion
+In his latest edition of Next Draft, Dave Pell said:
+Let’s change things up a bit today and start with some non-news. This week, President Trump has been attacking Google (and by extension, all of big tech) for being biased against him and the other “victims” who support him. As Kara Swisher rightfully explains in the NYT, “the idea that Google and Twitter are rigging their platforms against him is patently false.” In The Atlantic, Alexis Madgridal adds, “There is a reason that Microsoft’s Bing News or Apple News have nearly the same mix of news sources as Google News: By reasonable, measurable standards, those organizations are the ones reporting the state of the world best.” Madrigal and Swisher are two of our best tech reporters and they clearly explain why the president’s attacks are dead wrong. Here’s the problem with this situation: The point of Trump’s attacks on Google are not intended to ‘prove’ bias at tech companies. Like all the manufactured controversies before it, this one is intended to get Americans to argue the issue, which gives validity to the debate, and ultimately leaves the masses wondering if anyone or anything can be trusted. It’s not about definitive proof or objective truth. It’s about broad confusion and general mistrust.
+(My emphasis added.) And if that isn’t bad enough, Facebook, Google, IBM, Microsoft, and others are hardly doing themselves any favors in proposing a Federal Privacy Law the framing of which, according to the New York Times, the companies would prefer to take to themselves.
+“We are committed to being part of the process and a constructive part of the process,” said Dean Garfield, president of a leading tech industry lobbying group, the Information Technology Industry Council, which is working on proposals for the federal law. “The best way is to work toward developing our own blueprint.”
+Oh yeah – that’s going to work just fine.
+The companies cited don’t like GDPR and they sure as heck don’t like the watered-down version of GDPR passed by Californian lawmakers in June and which comes into force in January 2020. They hope that a Federal law will neutralize the California law. They hope a Federal replacement will be something that’s watered down and voluntary.
+Decentralized trust
+Then there was this TEDx video with Sharon Goldberg on the importance of the blockchain as a means of restoring institutional trust through decentralized networks. The point made is not that centralized networks of the kind operated by Facebook, LinkedIn, Uber and others are ‘bad’ per se, but that they cannot be trusted. The alternative view is that decentralized blockchains provide a trust mechanism.
+
+Customer trust?
+Earlier in the week, Strativa put out an excellent story about how they view SAP recasting CRM. The story has plenty to offer but this early summation encapsulates the key point:
+Successful businesses have always depended on their customer relationships. However, early CRM systems were transaction oriented, treating customers based upon the number of sales opportunities, volume of purchases, and revenue earned.
+Today, customer relationships are starting to look different. With so much electronic commerce, businesses can now gain much more information about the customer in every transaction. But now, companies must use this information in a proper manner.
+Businesses have to get the handling of personal information right and maintain the trust of customers. For in today’s world of social media, a company’s brand can be damaged quickly. That damage is costly to remediate, and sometimes it can’t be saved. Moreover, there are so many other businesses vying for the attention of the same customer, and that consumer can now quickly go elsewhere.
+(My emphasis added.)
+And yet as I read that I wondered – do businesses really believe that? Don’t we have just too many examples where technology-enabled abuse of our privacy in the quest to sell us just one more thing takes precedence over every other consideration? I’ve heard plenty of arguments to say that we will willingly trade the convenience of Google Search for intrusiuons to out privacy but I remain far from convinced that’s a universal sentiment.
+The truth about trust
+And then finally, late last evening I saw this blunt set of Tweets from Jeff Nolan. For those that don’t know, Nolan is ex-SAP Ventures, he was largely responsible for enabling access to SAP’s C-suite by folk like me and has spent a number of years in companies that focus on identity. He’s wicked smart and a fellow foodie.
+
+I think we – tech industry – needs to internalize some hard truths. 1) unexpected consequences have been a dominant theme. It’s not that people will it to fail but are uncomfortable with the unknowns that will follow widespread introduction https://t.co/0n2kBS3FNU
+— Jeff Nolan (@jeffnolan) August 30, 2018
+
+
+2/ The second hard truth is that people, broadly speaking, don’t trust the tech industry and we have proven to be untrustworthy. If you don’t trust the companies developing these technologies, coupled with #1 then why would anyone be enthusiastic? https://t.co/0n2kBS3FNU
+— Jeff Nolan (@jeffnolan) August 30, 2018
+
+
+3/ Third hard truth, Silicon Valley is stunningly lacking in empathy for #1 and #2. We just don’t get it because we’re not an industry with a sizeable contingent of Empaths. https://t.co/0n2kBS3FNU
+— Jeff Nolan (@jeffnolan) August 30, 2018
+
+
+4/ final point, we lack appreciation for how much people value being in control. You say “freed from drudgery…” but for a lot of people the feeling of being in control of a journey, even when traffic sucks, is important. A compelling need for AV hasn’t been sold, it’s a want https://t.co/0n2kBS3FNU
+— Jeff Nolan (@jeffnolan) August 30, 2018
+
+To which Jonathan Becher, president San Jose Sharks  added:
+
+Read @jeffnolan‘s uncomfortable but accurate thread for why people do sometime rejoice when technology (aka Silicon Valley) fails. Point #3 is especially important. Empathy is a tough skill to learn. https://t.co/FmX6XQU8hB
+— Jonathan Becher (@jbecher) August 30, 2018
+
+The search for trust
+Do you see where this is going? Do you see the emergence of a pattern here? It may seem confusing but I keep coming back to the question of trust.
+If Nolan is right then by extension, the enterprise software being developed and very specifically around AI/ML and DL may turn out to be something of a poisoned chalice in the hands of companies who become distrusted by association or because they just didn’t think carefully enough about what they are endeavoring to achieve.
+In the end, I can’t see how the helter-skelter tech trip that declares customer centricity but which is really about selling us more stuff works out. Is it not time to take on board what Nolan is saying and develop the kind of customer empathy that Bill McDermott, CEO SAP has talked about so often and yet still eludes us?
+To developers, I say this. The time is now to get alongside those end users, those customers who are going to experience the impact of the magic you deliver. They really do want a say in what they get. You already get it. You’re looking at decentralized systems because you understand at a foundational level the importance attached to trusted networks. Just don’t forget that as you build application code.
+Discuss.
+Image credit - © Gajus - fotoliaDisclosure - SAP and Salesforce are premier partners at the time of writingRead more on: Customer service managementData privacyIdentityMachine intelligence and AI 

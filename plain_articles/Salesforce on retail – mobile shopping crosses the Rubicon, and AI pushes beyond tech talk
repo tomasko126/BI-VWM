@@ -1,0 +1,43 @@
+
+Usually when I meet with Salesforce at NRF’s Big Show, we kick off with their latest retail data.
+But this time, I had to ask Rob Garf, VP Industry Strategy and Insights at Salesforce Retail, a more immediate question:
+Why was your booth absolutely bonkers? Every time I was over there, it was standing room only. Yeah, the chocolate marshmallows, but that doesn’t account for it. Garf’s response?
+There’s been a ton of energy at the show for sure. Our customers are really looking to transform their business.
+Garf says avoiding the hype of point solutions is working:
+I think our message is really resonating in terms of: it’s not just about a point solution or a shiny object, it’s really about knitting together the historically disparaged shopping process.
+The value of personalization is limited in scope, if your data is disconnected:
+People are not just asking, “Okay, how do I personalize an email?” Although don’t get me wrong, there’s value in that. But they are also saying, “How am I really thinking about the customer journey, and the data that’s required to manage to make that happen?”
+Holiday shopping data – mobile purchasing takes hold
+And about those stats – what did Salesforce learn from the holiday season? Garf says that according to Salesforce’s timeframe of American Thanksgiving through Boxing Day (December 26), mobile shopping was the norm. Salesforce customers saw 66 percent of shopping traffic and 48 percent of orders from mobile devices. This was something of a Cross the Rubicon moment:
+It’s not probably a surprise, because we’ve been seeing that steady progression over the last three years, but it really was the first holiday season where mobile-for-orders was truly first.
+But the stat that really stood out came via Garf’s colleague Gordon Evans, VP Product Marketing, who told me that 26 percent of Salesforce’s Commerce Cloud holiday revenues could be attributed to AI-powered offerings, which obviously includes personalization.
+In my view, a lot of that “AI ROI” comes down to better use of data for personalized interactions, shopping preferences, targeted offers and so on. Garf responded:
+For the last 24 months, AI has been the focus, which is a technology at the end of the day. And what we’re now starting to see are the business outcomes, whether that’s personalization, or convenience, or automation.
+The mobile commerce learning curve has been steep:
+Mobile is such a small form factor. When you’re trying to, as a brand, get the right product at the right price at the right time, you have to get it right above the fold. You can’t require or force the consumer to swipe five times down to get to “If you like this, you might like that.” Because they’re already walking away virtually. It’s really getting that initial touch totally right.
+Personalization versus the race to the pricing bottom
+Another notable stat: consumers who clicked on a product recommendation powered by AI had a 14 percent higher average order value than those that did not. For Garf, that’s a change he hasn’t seen in 15+ years, going back to his analyst days. He calls it “discount chicken” – a perpetual pricing face off between the retailer and consumer. Too often, the end result is a race to the bottom. But now there’s another option:
+What I think AI or, again, personalization does, is it provides the antidote to discount chicken. What that tells us is if you serve up a personalized experience, consumers are more likely to buy, and buy more.
+Retailers are tackling the front office differently
+When we first heard the buzzphrase “omni-channel,” I thought the hype put companies in a tough position. Who wants to spend years consolidating all their data onto one platform to attempt to get a full customer view? Meanwhile, no results. Garf says companies have learned from their back office struggles:
+The way the industry tackled the back office was to do a multi-year, big bang ERP implementation that, to your point, didn’t see results for the amount of time it took to implement. And it was extremely disruptive on the business.
+Retailers are tackling the front office differently:
+As retailers are looking at reinventing the front office, meaning the consumer engagement, they’re taking a different approach, like you said. Yes, they are looking at how to create a single view of the customer, but they’re picking off specific use cases that spin off value.
+Garf was fresh off a Sunday NRF presentation by Salesforce customer Shinola.
+They’re tying together what’s happening in either an email interaction or a digital interaction and bringing that into their clientele-ing device in the store, so that their store associates are more intelligent, and more empowered.
+They are moving from a checkout process which is about speed and efficiency, to a check-in process which is about service and engagement.
+This is not an IT-intensive, boil-the-ocean approach:
+This is an example of what you’re talking about. In doing that, they’re starting to think about what data they need and how the data flows and how they clean it as well.
+We’re not solving for customer experience until we make retail employees’ lives better. Consumers come into stores informed on products, smart phones ready. Garf:
+We need to bring the same feeds and access consumers have into the store for the store associate.
+Storefronts versus digital – it’s not a zero sum game
+And now there’s another twist: just as retailers get better at online commerce, Amazon is pushing their storefront agenda. How will retailers respond? Not very well, in my view, unless brands can effectively blur the lines between digital and store. Garf’s take?
+First of all, it’s not a zero sum game, meaning it’s not digital or the store. Store transformation is going to be a hot movement over the next 12 to 24 months.
+But now we must define that transformation:
+When I say store transformation, I don’t necessarily mean rip and replace the core point of sale. What I mean is digitizing the store, and rethinking what the footprint should and will look like.
+The rethink of the store is a longer conversation. But it’s not just about using the store as a distribution center for pick up. Maybe it’s a short term daycare dropoff for kids, maybe it’s a Telsa-like configurable product showroom. Maybe it’s as deceptively simple as an easy curbside pickup. But it’s certainly using real estate differently.
+At this year’s NRF show, Salesforce announced a slew of Commerce Cloud platform enhancements. The theme? Expanding personalized or “connected shopping” experiences “anywhere.” By anywhere, Salesforce is looking to support brands who realize that their e-commerce apps or sites are hardly the only place where personalization needs to happen.
+One example is Instagram, another channel that is location-aware, where Salesforce can help brands to surface the same location-based product recommendations they are getting from their own sites. Consumers can see if items are in stock. If a retailer wants to run flash sales or real-time promotions, they also need a real-time inventory view to avoid overselling or missing out on sales.
+Garf thinks this all adds up to a “big cultural shift.” And it’s not just about store transformation, or blurring the lines between mobile and store. It’s also about brands moving away from brand-centric platforms, and going where the shoppers – and the culture – is percolating.
+In the lead up to NRF, I learned about a new Chinese consumer trend called shopstreaming, where consumers/influencers live stream their shopping or product trials. Evidently this was a factor with China’s last big “Singles’ Day” shopping event. The conversation rates from the shopstream events were ridiculously high, in the thirty percent range, at least from the video I saw. It’s no surprise that Chinese retailers are pushing these envelopes, and brands best pay attention.
+Image credit - Feature image - Salesforce at NRF booth photo by Chris Fralic, from the Twitter feed of @chrisfralic.Disclosure - NRF provided me with a press pass to attend NRF 2019. Salesforce is a diginomica premier partner. Read more on: Analytics planning and data analysise-commerceMobileRetail e-commerce and the omni-channel 

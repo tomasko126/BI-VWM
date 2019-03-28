@@ -1,0 +1,31 @@
+
+The last time I wrote about our WordPress experience in any depth was December 2015 when I said:
+As I said earlier, we are sticking with WordPress but we are re-engineering it, pretty much from the base core up. We are dumping as many plugins as possible and turning required functionality into the core. This will allow us to ensure that every major piece of functionality is battle tested against a common code line. It means we will have control over the code in ways that are otherwise not easy to parse, even in the open source world.
+Things have moved on and we got a lot done but…
+If you are one of the 30%+ of the CMS market that uses WordPress then I wonder if you’re starting to view WordPress as the SAP of CMSs. I mean that both in a positive and negative way. Let’s examine what this means.
+WordPress and SAP – similar?
+Owning an outsized chunk of a market is usually a sign of success and here, both SAP and WordPress can rightly claim leadership in their domains across multiple measures.
+SAP started life as a system that was designed to run your business processes – or rather your backend administration processes. It has since grown to be something on which you could (at a stretch) run most of your digital business. WordPress started life as a blogging platform that morphed into a sort-of CMS. With the right plugins and extensions, WordPress could be the hub of your digital business in some well-defined scenarios. Anything media related for example is an excellent candidate.
+Both systems are highly configurable and customizable. In SAP’s case, this has proven to be something customers love but which is starting to come under question as customers seek simpler solutions to common problems. The same is happening – at least for me – with WordPress. On the one hand, I love that our dev team can do pretty much whatever we want functionally but now, both getting there and keeping the whole thing afloat is starting to become problematic for some, but not all of the reasons that you might apply to SAP systems.
+Once customers understood what SAP can do, many of those same customers spent, and continue to spend, significant amounts of IT dollars building and refining their SAP landscapes. WordPress is a bit different. If you’re starting small then you can get away with pretty much everything off the shelf (OTS), either free or commercial (FOTS or COTS.) But the moment you scale, things take a quantum leap in complexity.
+In our landscape, for example, we have some ‘must have’ functionality that was originally a piece of FOTS which our developers hacked about to a limited degree. We’ve gradually added or replaced some functionality for sound commercial reasons but the end result is we now have something that is taking more and more resources to maintain rather than innovate. Sound familiar?
+It turns out that the code we’re using has not reached end of life but it sure as heck needs refactoring before it sinks us performance wise.
+Gentle giant or angry monster?
+It would be easy for me to point the finger at WordPress (and its merry band of open source devotees) to say that open source may be great but in this case, it’s more like the Wild West. There’s all sorts of crappy code that our devs have to push through an increasingly laborious testing process before releasing it to production. Even when it’s COTS functionality run off a remote server that’s not on our services infrastructure.
+But then we have seen some really poor practices from some well-known plugin outfits that are hitting our servers at a rate that’s not unlike a DDoS attack. From an email I got to today from our point person at DevriX, our preferred WP support, build and test partner:
+
+
+Blacklisting some malicious DDoS calls to our AJAX engine, i.e. blocking some known hacky attempts hitting non-cached pages
+Blocking the next set of user agents. SEMrush and Moz seem to be extremely annoying, they hit the site hundreds of times per hour, and crawl random pages, i.e. some are old and not in the recent cache pool (thus triggering non-cached requests).
+Trying to clean up some of the 3rd party calls in the dashboard to Contextly, CoSchedule, and others that show up in the Add Post screen in New Relic. They happen too often and too many times, I opened the dashboard yesterday and saw 18 calls from CoSchedule and Contextly on a single screen in “Add Post” on a page load which was WTF?
+
+
+Not nice is it?
+And that’s only a half of it. There’s much more.
+We can solve some of these problems by simply killing off the functionality that causes problems but then what? In our case we have some answers but it begs the question – has that wonderful toolkit of parts aka WordPress become too unwieldy for the time, effort and money our dev team is spending when we could be innovating against our next-gen business model?
+For its part, WordPress is due to release a fundamentally new version of its CMS under the codename GutenbergS which, it thinks, will make life much better for those who want to see WordPress become a modern CMS. The jury is well and truly out on that one. In SAP land we see similar conversations with many customers divided over whether a move to S/4HANA is the route to the future which should be adopted now.
+My take
+My comparison between SAP and WordPress is incomplete and, some will argue, inappropriate because they fulfill different purposes. I push back saying – as do SAP customers – that WordPress is embedded and, I’d say central to the delivery of our business model.
+To that extent, I understand the torn and angst driven nature of the decisions colleagues in the enterprise space take when they look at their SAP landscapes.
+And – one of the claimed benefits of S4/HANA is reduced database size which translates to better performance. You can do the same with WordPress but it is a bold step because it means dumping old content. Hmm…
+Image credit - Featured image: © pablographix - Fotolia.comDisclosure - SAP is a premier partner at the time of writing.Read more on: CRM and customer experience 

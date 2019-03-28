@@ -1,0 +1,40 @@
+
+If you thought herding cats was difficult, try herding bankers. That’s the task facing Open Banking, the non-profit organization set up in the UK to shepherd the country’s banking industry into a more open ecosystem. Regulators have imposed a tight timetable for complying with PSD2, the EU’s Revised Payment Services Directive, which opens up bank accounts to third party services. But there are still quite a few kinks to iron out in the implementation.
+That’s where Open Banking comes in — or to give it its full official title, the Open Banking Implementation Entity. It was set up in 2016 by order of UK regulator the Competition & Markets Authority (CMA), which mandated the UK’s nine largest current account providers (the ‘CMA9’) to get behind the initiative.
+The remit of its roughly 120 staff is to help the UK banking sector work out the practicalities of complying with the regulation — and in the process give the UK industry a global competitive edge. There are four main elements to its work, according to Chris Michael, Head of Technology at Open Banking, who spoke at a recent event in London organized by collaboration vendor Atlassian:
+
+Creating a set of API standards “that will define how banking in the UK works.”
+Defining a security model that lets customers grant granular third-party access to their accounts without having to hand over their login credentials.
+Creating a directory or “trust network” of certified banks and third parties.
+Technical support to help third parties and banks get up to speed.
+
+PSD2 — a “massive collaboration project”
+What makes the task difficult is co-ordinating all of this work across all the various stakeholders — incumbent and challenger banks, various third-party providers large and small, standards bodies and regulators — while keeping the momentum going. It’s not something you can do with email and Sharepoint, says Michael, which is where Atlassian comes in:
+This is the hardest thing I’ve ever done. It’s a massive collaboration project. We’ve got well over a thousand people on our Atlassian platform now across the industry.
+We’re on quite an aggressive timeline. Things are moving very fast, which is quite a challenge in the banking industry.
+The core of the collaboration platform is Confluence, where Open Banking publishes early versions of specifications and gathers feedback from participants as it goes through iterations. Once a version has been approved it is then made public in an area called the Developer Zone. There’s tight integration into Jira Service Desk so that issues can be dealt with quickly and also into the internal Jira system that the Open Banking organization uses for project management.
+Translating regulation into practical specs
+All of this has been essential for co-ordinating the massive task of translating the vision set out in the regulations into practical specifications that will work in the market. It has been important to involve a wide range of stakeholders to ensure that the specifications work for all parties, says Michael:
+[Our] approach in the UK, is probably much more collaborative with third parties as well as banks. Rather than treating this purely as a regulatory exercise and a banking-driven thing, we’ve looked at it as a market-driven thing.
+We have to comply with the regulations, but we also want to make it work. So we have to involve third parties in that — because they’re the ones who are going to build the applications.
+This has necessitated quite a bit of back-and-forth to reconcile different points of view, and then demonstrate that people’s views have been taken into account:
+You’ve got one group of people saying we want to do this and another group saying we want to do that — and we’ve got to find a middle ground. So that’s quite a challenge.
+The second area is actually getting people to collaborate, to agree on stuff and to provide governance on top of that as well. You’ve got to provide evidence that people have been listened to, that you’ve documented their feedback, their input — and then you’ve got some degree of evidence of decisions that have been made along the process as well.
+Documented in Confluence
+All of this is documented in Confluence, Michael explains:
+So we get very structured feedback that we collate, and everyone feeds back in front of everyone else. We respond to all of that feedback and the very structured way we’ve done this speeds up the turnaround, because we can evidence that we’ve gone from one version to another version and taken on board all this feedback.
+As it’s not always possible to persuade everyone to use Confluence, some feedback has to be inserted after arriving through other channels.
+We do get feedback via email and marked-up content. Lawyers don’t like using Confluence particularly, they like to have written-up stuff in Word. So we get different feedback from different places.
+Once the specifications have been made public in the Developer Zone, the support services team gives advice on how to implement them, says Michael:
+We provide clarification and support around understanding the standards. We have built some reference banking applications [and] reference third-party applications. We’re building a whole lot of testing tools to help banks do testing that their implementation complies to the standards.
+Bringing people together
+As well as online forums, it’s been important to bring people together for workshops too.
+We’re getting now 100-odd plus people come together once a week or couple of weeks, for a day or a couple of days sometimes, from banks, third parties, sometimes even the regulators. We flesh out some of the challenges in detail. A lot of it is also, we go away and we come up with a hypothesis or some amendment to the standard that we put across, get people to discuss it and get to vote on it.
+The fact that we are transparent and collaborative — we want people from across the ecosystem to give us feedback — that is really powerful.
+Michael concluded with some lessons learned from setting up Confluence.
+
+Get management buy-in from the start. “What you don’t want is half the organization using one tool and half using another tool. Collaboration works when people are using the same tool.”
+Get expertise in from the outset to set it up the right way. “Have really smart people in the team who know the tool inside out and can set it up for you.”
+Get the structure right when planning team spaces in Confluence. “Put in a much tighter structure around it as early as possible and that makes it easier for people to find stuff.”
+
+Image credit - Cats not herding in old European street © splendens - Fotolia.comRead more on: Collaboration sharing and digital productivityFinancial services and fintechRegulationUse casesUX and application design 

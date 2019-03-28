@@ -1,0 +1,26 @@
+
+
+Earlier this year Jessica Twentyman highlighted Sky Italia’s use of Salesforce and Vlocity as part of the broadcaster’s drive to overhaul its customer service operation.
+That in turn is part of a wider digital transformation for the firm, which Chief Technology Officer Umberto Angelucci  picked up on this week when we talked.
+Umberto Angelucci
+The jumping-on point for the conversation was Sky Italia’s decision to digitize all of its field service activities and squeeze down costs by a fifthp
+To that end, the firm has selected ServiceMax for use by 1,500 field service personnel and partners and 200 Sky Shop outlets.
+ServiceMax, which will replace an incumbent Siebel field service solution, will manage the dispatch of technicians, automate work orders, and enable cross sell and up sell opportunities onsite.
+It’s a big task – Sky Italia has 4.74 million customers and carries out more than a million service visits a year through its service partners.
+Angelucci explains that this is part of a big transformation of all B2C and core business processes:
+We have changed our go-to-market strategy and that obliged us to review our acquisition systems. We want to have partnerships with other companies, such as telcos. In terms of customer operations, we launched a big efficiency project looking at two main areas, customer service and field operations.
+One of the aims in field service was to digitize all the big processes so that meant a full review of the current ones. The key driver for us was to get a cost saving, but also to improve the customer experience at the same time. We wanted optimisation and reduction of errors.
+Two phase move
+Sky Italia has been a big Siebel shop for years, so the first question to be addressed was whether it was more appropriate to continue on that platform or find an alternative. In the event, the decision was made to move to Salesforce. With that decision taken, ability to integrate with Salesforce CRM was a factor in the selection process for next generation service management. Angelucci says:
+Using Salesforce as the baseline technology platform was one of the key elements, but not the only one. Staying inside the same ecosystem does help in terms of integration. We looked at other solutions.
+In the end, we found ServiceMax to be the best platform in terms of usability and mobility. It is important to have a good interface to encourage use among our 200 installation staff. We found all the key features we need in ServiceMax.
+One issue that needed to be addressed in the selection process was the fact that Sky Italia’s installers are external staff so it’s less easy to tackle optimisation of rules and processes among them.
+We can’t optimise when they do their jobs. We can’t oblige them to use only one standard mobile device. ServiceMax is running on both iOS and Android so that enables us to be device independent.
+The plan is to move across to ServiceMax in two stages:
+To get the savings we want, we’re launching in two phases. Mobility is the first thing we’re tackling because that directly impacts on the field service. We’re moving the data from Siebel to the back-end of ServiceMax to enable the use of mobile.
+That’s fundamental. For the technicians in the field, this is a big change. That will go live in June for 1,500 installers, internal and external.
+Then next February, we will replace the back end and close Siebel down. We’ll manage all the back end processes in ServiceMax.
+That will be the latest step in Sky Italia’s move towards being an increasingly cloud-centric organization. Angelucci says:
+Cloud is one of the key drivers for the efficiency program and for agility. The Italian economy is not so strong so we have to find ways to optimise costs. We need to be as agile as possible. So we are moving everything in the direction of private cloud integrated with public cloud. When we find a business application that is good for our needs and is in the cloud, we use it.
+
+Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceMobile 

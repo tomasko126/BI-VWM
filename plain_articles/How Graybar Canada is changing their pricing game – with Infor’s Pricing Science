@@ -1,0 +1,52 @@
+
+Boivin at Inforum 2016
+In 2015, Graybar Canada had a margin problem. As Operations Manager Mike Boivin told me, it wasn’t a crisis – yet. During their operations assessment, Boivin’s team identified a margin erosion trend.
+Part of the problem was growing pains. Boivin:
+The way our company evolved, we were doing pricing one way in Atlantic Canada, another way in Ontario, and a hybrid kind of a way out west. We were looking for a strategic pricing strategy for all of Canada.
+Boivin’s search for a solution led him to become a beta customer for Infor’s Pricing Science for Distribution solution (PDF). I spoke with Boivin about their project at Inforum 2016. Now that Pricing Science for Distribution is generally available, the tale is ready for the telling.
+Manual pricing wasn’t working
+Graybar Canada is an employee-owned company and wholesale distributor. A subsidiary of Graybar Electric Company Inc. – a Fortune 500 company – Graybar Canada manages thousands of items from manufacturers of automation, comm/data, and electrical products. Boivin’s team works out of their headquarters in Halifax, Nova Scotia. They operate over thirty locations across Canada, and must manage their pricing across those locations – which brings us to strategic pricing.
+Boivin’s search for pricing solutions was a long one. Past solutions just didn’t integrate well on the back end – nor did they fit their industry. The good news – Infor’s Dynamic Science Labs was starting to rev up their products (see Bring your own data (science) – a day with Infor’s Dynamic Science Labs, for more on Infor’s approach to data science).
+Boivin’s team was at the show where Infor announced Dynamic Science Labs and shared their pricing optimization plans. Not long after, Boivin got a call from Infor: would you like to be a part of the Pricing Science for Distribution beta program? They came to terms – work on the project began in November 2015.
+What is Pricing Science for Distribution? Short version: It’s a co-innovation between Infor customers and Infor’s Dynamic Science Labs, which enables companies to set competitive prices for their products. How? By helping companies to dynamically adapt their pricing to fluctuations in product demand.
+This is done by creating product grouping recommendations based on product visibility scores, which measure the customers’ price sensitivity for each product. Customers are then provided with pricing recommendations intended to make high visibility products more competitive – while increasing margins on lower visibility merchandise.
+Before the project, Boivin’s analysis showed that 46 percent of their prices were manually entered across the company. That was untenable:
+That’s an awful lot of overrides and potential to for margin dropping. You risk a customer calling and getting one price one day. Then they might call and talk to someone else and get a different price the next day. Or you might get errors entering the price.
+Prior to Infor, Graybar Canada applied a classic “good, better, and best” pricing approach to their products, which was tracked in a matrix. But: each region had a different matrix. And they weren’t able to price differently for their different markets: industrial, residential and commercial. That variation caused arduous manual pricing time.
+The project ramps up
+Boivin knew predictive science could help with dynamic pricing. But his team doesn’t build algorithms. Could an external data science partner grasp their business well enough? Graybar Canada has been using Infor’s SX.e enterprise distribution software since 1995, but this was a whole new proposition:
+They’d done a lot of proof of concepts with other customers, now they wanted us to actually use the product – though the the user interface wasn’t ready yet.
+Boivin felt he could get value out of the product without the modern UI. So they agreed to a beta workflow:
+We were going to send them a file, our line-item detail for the last two years, and they were going to slice and dice it, and come back with customer grouping recommendations based on certain parameters that we set. Once we agreed to that, the groupings of the customers, then they would start giving pricing recommendations.
+The first step was a success. Infor helped Graybar Canada to group their customers in a nuanced way for pricing:
+What we wanted to do was have geography, branch, the market that we’re selling to, the type of products that we’re selling, and then a level A, B, and C, within that. Infor’s Pricing Science is allowing us to do that.
+The next step: Infor sent pricing recommendations for import into SX.e.
+Infor produced pricing recommendations in a nice flat file we could just bring right into our ERP system.
+And do the pricing recommendations have a shelf life?
+No, they’re in there forever. We can put an end date if we wanted to, but for our base matrix, we typically don’t put an end price, so it’s supposedly the market price. After that, if there’s a job on the go, then the salesman will negotiate the price for the job., or just for individual customers. We might create pricing records that last a year.
+Project benefits – an early look
+The first benefit Boivin found? Reducing manual pricing time:
+One branch that we’ve had working with it, they used to override prices 41 percent of the time. Now it’s down to 7 percent of the time.
+Do the branches using the solution trust the output? Yes:
+They don’t have to decide a price. They basically just take it and run with it. We haven’t had a lot of push-back from customers, yet, so it seems that we are arriving at a market price.
+That’s a result Graybar Canada couldn’t have achieved on their own:
+The file we brought them was three and a half million records. For us to manually do anything with that ourselves was just beyond our capabilities.
+Combining algorithms with local flexibility
+The question bothering me: how would respond to a price being dictated by a machine? Boivin acknowledged this shift required good old-fashioned change management:
+We worked a lot with the branches to let them know this is what we’re planning. They always have input along the way, we’re not ramming anything down their throat.
+The first question from the branches was the obvious one:
+The first time you say “science,” they say, “The computer is going to toss out a price?” I say, “No, the computer is not going to tell you how to price. It’s going to hopefully get you a market price base.”
+Boivin’s team built flexibility into the new system. Infor’s pricing recommendations are guidelines, but they can be modified for local factors:
+Even when the recommendations come back from Pricing Science saying, “This customer should be at level 1 or level 3,” they have the right to move them up to a level 1 if they want to [Level 3 is the most profitable pricing level]. The next time we run Pricing Science, we can see if they’re performing at the level we’ve put them, and adjust.
+When a pricing override happens, Boivin’s team can analyze it, and spot trends:
+We haven’t taken the ability to override the price away. But with Pricing Science, we’ll have the ability to look at trends. Who’s doing the overrides, what products they’re doing the overrides for, what customers they’re overriding, and then make decisions. We can ask, “Is it a problem with the person, is it a problem with the price,” and make informed decisions.
+The wrap – “I don’t need to know all that math”
+So can a partner provide you algorithmic data as a service? Boivin says yes:
+They’ve got the algorithms working in the background. I don’t need to know all that math … I do know when they say, “We’re going to base your pricing on sales volume, margin, cost to serve, royalty, that all makes sense to me.”
+What made this solution work? One key was ease of integration with Graybar Canada’s ERP system. The other wasn’t math. It was the human side:
+Kathleen, who is working on the product from the Infor side, she understands distribution. She is very easy to relate to. She gets our industry, she gets our pain points, and comes up with solutions.
+When we spoke, it was too early to talk about margin gains, but Boivin was optimistic. One branch came up with a potential, based on past sales, of a 1.9 point margin gain:
+We’d be happy if we got half of that, one point. One point on our volume is going to be huge.
+Boivin is looking ahead to the addition of the Infor’s trademark Hook & Loop design, which will give Pricing Science for Distribution a brand new UI in May/June. Meanwhile, branch rollouts will continue:
+It’s been a pretty significant change for our company. Basically, we’re changing how we price our customers. It’s a huge thing.
+Image credit - Photo of Boivin at Inforum by Jon Reed. Disclosure - Infor paid for the bulk of my travel expenses to attend Inforum. Infor is a diginomica premier partner. Read more on: Analytics planning and data analysisDigital enterprise in the real worldMachine intelligence and AIUse cases 

@@ -1,0 +1,58 @@
+
+News of data breaches hits the wires so often that even when Yahoo announced a third breach affecting consumers last spring, the news came and went (though Verizon got a discount on acquiring Yahoo as a result).
+But last week’s Equifax breach has riled up even the jaded. No surprise, when you consider the ultra-sensitive nature of the information breached,  and the trust U.S. consumers place with the major credit agencies to safeguard their data.
+The sensitivity of the data was compounded by one of the most incompetent – and, in my view, unethical – handling of a security breach we have seen to date. By now, we know:
+
+More than one half of all Americans are potentially exposed by the Equifax breach.
+Equifax has known about the breach for months, but only recently announced it.
+Some Equifax executives sold off stock prior to the breach being announced, which Equifax claims is unrelated.
+Equifax’s web site for consumers to check if they were impacted was not well executed, and, in its first days live, was buggy at best, and, dismayingly, potentially insecure, though Equifax claims that the site is now giving out accurate info.
+Their PR efforts have been predictably mediocre and subsequently roasted.
+
+There will be plenty of stories on what individuals can do in this situation with Equifax, getting credit monitoring in place, and, alas, preparing for the worst. I’m not going to add much to that in this piece.
+Why this cybersecurity expert is frustrated
+But I am interested in how individuals – and enterprises – should respond to the bigger picture of a world where these types of breaches occur far too often. I heard from a rather upset cyber security expert, Mike Shultz, CEO of Cybernance, a cyber governance company.
+I get why Shultz is frustrated. These incidents usually have a preventable element. Now you have a crisis not easily rectified – if at all. Why weren’t Yahoo’s breaches – and all the ones that came before – enough of a wake-up call?
+I asked Shultz to dig deeper: how can we apply efforts towards real change? In his initial comments shared via PR, he said:
+The government has clearly endorsed the use of the NIST Cybersecurity Framework to strengthen enterprises from this devastating caliber of risk by focusing on people, policies, and processes.
+NIST and CIS Controls – valuable for enterprise security
+Shultz went on to make the assertion that if the NIST CSF been employed by Equifax, this breach would not have happened. So what is the NIST CSF?
+As per its web site, NIST is “voluntary guidance”:
+Based on existing standards, guidelines, and practices, for critical infrastructure organizations to better manage and reduce cybersecurity risk.
+The Framework was developed in response to President Obama’s Executive Order (EO) 13636, Improving Critical Infrastructure Cybersecurity, which was issued in 2013.  After pulling input from a range of stakeholders, the National Institute of Standards and Technology (NIST) published version 1.0 of the framework in February of 2014 (PDF link to version 1.0).
+The NIST web site includes upcoming events where NIST is speaking. Companies can also download a NIST Cybersecurity Framework (CSF) Reference Tool. This is a FileMaker Pro runtime database that allows users to e user browse or search the “Framework Core” by functions, and categories. The Framework Core is based on the five tenants of the CSF:  Identify, Protect, Detect, Respond, and Recover.
+Another key resource are CIS Controls, which are aligned with the NIST Framework. The CIS Controls are developed by field experts, based on actual threat data. CIS has a CIS Workbench community where members can collaborate and contribute to CIS Controls and Benchmarks (registration is free).
+The CIS Controls can be downloaded here. CIS bills these controls as a “prioritized set of actions that bridge technical security & risk management.” The Controls are a twenty point checklist intended to provide “practical steps proven to mitigate the most common attacks & reduce corporate risk.”
+Consumers can apply pressure for data accountability
+But there is a problem. While an encouraging amount of companies have endorsed the NIST and/or CIS Controls, these are voluntary guidelines, not enforced compliance. That raises the question: what pressure can individuals bring to bear to heat up the corporate accountability?
+Too often, we either take a passive approach to security, of find ourselves scrambling when our own data is exploited. So I asked Shultz: what should consumers do?
+My advice to consumers who might feel out of control of their own personal information after news of the Equifax breach surfaced last week is to get mad, and stay mad. Raise a fuss, because if ever there were a time to stand up for your privacy and confidential data rights, it’s now.
+Shultz advised four ways for consumers to focus their outrage/demand for change:
+
+Participate in the class action suit against Equifax
+Contact TransUnion and Experian to demand more regular, free credit reports
+Call your congressional representative
+Become your own credit reporting agency
+
+Even though the class action suit might result in a modest settlement amount for individuals, it’s still worth doing:
+The point is to prove to all other businesses, including the other two credit reporting agencies, that it’s now worth the investment to do the right thing.
+Shultz says the average breach costs $3.5 million, but the expense of finding and fixing vulnerabilities exceeds this. So, up until now, companies have chosen the “path of smallest cost.” Shultz thinks a successful class action suite against Equifax, which could be in the ballpark of $15 billion if each consumer is awarded $100, will motivate more companies to go the extra security mile, whether they are regulated or not.
+Consumers don’t tend to monitor their credit reports, unless they are involved in a major transaction like a house purchase:
+TransUnion and Experian all share data with Equifax. Consumers should feel empowered to demand more regular, free credit checks that don’t ding their scores in order to monitor for suspicious activity.
+Congressional action is also needed:
+Call your congressional representative to encourage fair regulations on behalf of consumer best interests… A lot of people don’t know that their credit report data is actually sold into targeted marketing lists that allow organizations to send you that mailer about your local car dealership, based on purchase history and location…  It’s clear there hasn’t been enough regulation to secure this data in a broader sense.
+Shultz believes with enough political pressure, the regulations included in the Fair Credit Reporting Act would be strengthened. As for “become your own credit reporting agency,” Shultz means that you need a thorough paper trail of your own purchase, payment, and credit history – especially in the case of identity theft.
+Should you be in the unfortunate circumstance where your SSN is stolen for a false identity, and credit reporting agencies can’t prove your validity given the lack of trusted, reliable information within their systems, you’ll be out of luck without hard evidence of your activity.
+My take
+There are plenty of business reasons for companies to get more aggressive about data security, from managing risk/legal exposure to gaining goodwill from consumers. Black hat hackers (the bad folks), exploit the area of greatest vulnerability, which includes web apps.
+As Nathan Wenzler, chief security strategist at AsTech, told Security Week, the Equifax breach did not occur due to the “social engineering” tactics of phishing emails to compromise an employee’s system, or via a malicious insider. The Equifax breach was due to an “application vulnerability in one of their websites”:
+This is something we in the security community continue to see rising, as organizations are getting better and better at defending servers, workstations and laptops, the cyber criminals simply move on to the next easiest target, which is most commonly the organization’s web applications.
+Other key tips organizations should factor in:
+Design for security – as I’ve written, organizations should involve security architects in the earliest phases of design. This is necessary to ensure security doesn’t alienate users, and is up to date with all modes of accessing data (e.g. voice controls, bio scans, and, yep – Internet of Things security)
+Extend the security efforts to “white hat hackers” (e.g. helpful hackers) – Some forward-thinking companies offer bounties and easy ways for white hats to disclose found vulnerabilities. Marten Mickos, CEO of HackerOne, did not see any signs that Equifax had done this.
+We looked at Equifax’s website and found no easy way for hackers to disclose anything. A couple bugs have been disclosed via Open Bug Bounty, a non-profit project designed to connect hackers with website owners to resolve bugs in a transparent and open manner. One of which was disclosed for their UK website that took nearly five months to resolve, and the second for the U.S. website, which has yet to be resolved.
+Mickos also believes that a relationship with the “ethical hacker community” can help companies alleviate their cybersecurity skills shortages.
+Invest in AI-driven and automated approaches to security – these technologies can be used for good or for ill, but companies should be pushing that envelope.
+Update old systems – security is only as strong as your weakest system. Old, outdated and unpatched enterprise software systems are easy targets.
+Finally, these data issues often have international ramifications, a topic covered frequently by my UK diginomica colleagues. You can follow that in our Governing identify, privacy and security cornerstone topic area.
+Image credit - Retro dressed detective © olly - Fotolia.comRead more on: Data privacyGoverning identity privacy and securityIdentityRegulationSecurity 

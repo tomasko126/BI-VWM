@@ -1,0 +1,70 @@
+
+I’m scared to write about SEO. I can see diginomica readers glazing over, bracing themselves for wonky talk about keyword throughput and landing page optimization. Don’t worry – I’m not going there.
+What if we shift to acquiring leads and building audiences – how does that grab you? I’ve been thinking about SEO lately due to the recent news that Google will start punishing sites with mobile pop-ups in January 2017.
+But the bigger picture is how search relates to lead gen and audience building. We keep hearing that search is a legacy mindset, that social traffic is superior due to its “engagement.” Yet most of what happens socially now is link-pimping, not engagement. And unless you’re Buzzfeed, if you look under the hood of your web stats, you’ll find that a substantial portion comes from search (assuming your site is content-rich).
+The friction has shifted from attracting visitors to winning audiences
+Last week, I got into a content debate with Hippo Connect keynote speaker/content marketing expert Robert Rose about where the friction in audience acquisition lies:
+Rose sees the biggest friction as acquiring audience for the first time. I actually see the tougher problem – at least in the B2B space – as keeping the attention. Search can win one-time visitors, and do it with regularity, as long as daddy Google smiles. But even visitors that like you don’t necessarily come back – hectic projects distract.
+B2B companies have posted enough content to get a relevant audience onto their site. Granted, there is always room for more and better content. But most firms I work with have figured out they need a blog, and content that’s populated around their specialties. Once people start sharing and linking to that content, that’s modern SEO in a nutshell. Nothing fancy, just content grit. Oh, and a CMS with an SEO plug-in for page titles, etc. We use Yoast.
+The friction of audience acquisition is now the problem. A one-time visitor is NOT an audience. All sites want visitors to take some kind of action before they leave – that’s why we see this desperate proliferation of pop-up ads and in-your-face newsletter sign ups.
+Audience acquisition for B2B companies means:
+
+Relevant content that draws visitors to the appropriate page, possibly by social referral or more likely by SEO.
+The visitor becomes part of the audience by opting into future contact through sign-ups, or perhaps a low-friction purchase like a mobile app.
+In rare cases, a first-time visitor might pay for an event registration with a corporate credit card. Usually, more touch points are needed prior to purchase.
+
+Those sign-ups could include:
+
+Sign up to topical newsletters of choice
+Sign up to view demos
+Sign up to view white paper or webinar registration
+Sign up to comment on a blog post
+
+Or, best of all:
+
+Sign up to become a free registered member of this site, based on depth of content resources and/or chance to interact with other members.
+
+I put the last one in a separate category because signing up to be a member of a community or to access a deep resource library – where you can manage your overall preferences and contact choices – is still a rare achievement.
+The need for sign-ups backs us into a UX corner
+Every form of sign up is a potential source of friction to the user. The less the friction (ease of sign up) and higher the perceived value, the more likely the opt-in. But there’s one more catch: the user has to be aware of the sign-up chance. If they leave, they might not be back for a while – even if they like the content. And that’s why we see the aggressive pop-ups.
+SEO is easy with effective content. Good content is still hard. But in the era of mobile distraction, audience acquisition is now the hardest part. SEO can’t help us with that. There are really only two choices:
+
+Get in someone’s face when they visit your site – treat it like it’s the last time they may ever visit. Many sites – even sites I used to respect – have embraced this option (Hi ZDNet!). Or:
+Keeping upping your content/value game. Become so indispensable to your audience they are compelled to sign up, due to your indispensability to their careers, skills, and project decisions. Make sign-ups available/appealing, but not to the point they irritate.
+
+Either of these choices can (and should) be supplemented by:
+
+Build major social distribution channels and make sure your content – and engagement around that content – is appealing/inclusive. Those who don’t subscribe may continue to stumble on your content via shares from friends and colleagues. Companies that depend on social stumble for traffic are making a mistake. The above choice still applies.
+
+Needless to say, I’m an advocate of number 2. That was part of my debate with Rose. Those like Rose who claim sign-up pop-ups work also accept that the fallout is worth it:
+Rose admits they use opt-in pop-ups on the CMI site, “because they work.” But in the B2B space, you have to be wary which influential readers you alienate with aggressive opt-ins. Rose granted the point. We settled on one thing: the biggest friction is getting the opt-in.
+“Nobody complains,” which Rose told me, might be fine in a B to C context like his. But it’s not reassuring enough for me. Not in the B2B space, where you run the risk of alienating a key influencer or decision maker. Not to mention the lost pride in tainting your own user experience.
+Do Google’s new pop-up rules change the equation?
+Will that choice hurt them with Google in January? This new announcement builds on Google’s mobile-friendly guidelines issued in November 2014. For those guidelines, Google issued a page tester, as well as a broader mobile usability report in its webmaster console (access required). The latest guidelines, announced in August 2016, specifically address pop-ups:
+While the underlying content is present on the page and available to be indexed by Google, content may be visually obscured by an interstitial. This can frustrate users because they are unable to easily access the content that they were expecting when they tapped on the search result.
+Targeting user frustration, Google issued images of the wrong “interstitial” positioning:
+
+Basically, annoying pop-ups that block text and make the page look like crap are punishable. No no’s:
+
+Showing a pop-up that covers the main content, either immediately after users navigates to a page from the search results, or while they are looking through the page.
+Displaying a standalone interstitial that the user has to dismiss before accessing the main content.
+Using a layout where the above-the-fold portion of the page appears similar to a standalone interstitial, but the original content has been inlined underneath the fold.
+
+I’ve grown wary of Google’s heavy hand. I’m still pleased by this ominous warning:
+Keep in mind that the opinions of website owners and managers of what is and is not intrusive don’t apply here. Google owns the definition and the enforcement of that definition in the search rankings.
+For baffling reasons I have been unable to determine, Google’s new guidelines only apply to mobile, not desktop. For the desktop user, spray-and-pray video pop-ups, newsletter broadsides, and condescending exit pop-ups from the bottom feeders at Bounce Exchange aren’t going anywhere. Thus:
+
+This was a full page desktop exit pop-up on an article on Google’s new rules. You really can’t make this stuff up.
+While researching this piece, I had the dystopian displeasure of running into pop-ups I found objectionable to my user experience – right next to verbiage about protecting the user experience:
+
+My take – be helpful until you are essential
+Bottom line: in-your-face sign-ups on desktop won’t be penalized by Google. On mobile, Google considers us warned. I’m hopeful more gripers will join me to vocally complain about over-aggressive sign ups. We shouldn’t have to resort to desperation tactics to justify value. Earn it with great content and marketing imagination. And, as Bob Warfield memorably wrote about his content/SEO success, stick with it.
+I just wrote about how Unit4 approaches its content marketing. Unit4 gets sign ups via sponsored placement on LinkedIn, where readers in their target demographic of CFOs sign up to download an appealing PDF, “content popcorn” if you will.
+That’s another way to go. SEO is web-site-obsessed by definition, whereas our audience is everywhere. I still maintain the web site is the hub, but bringing content to potential readers in new mediums, be it LinkedIn or Amazon Echo, is part of the puzzle.
+A one-time sign up doesn’t eliminate value friction. When I sign up for a webinar or a PDF, that doesn’t mean I am opting into receiving all your content. You’ve got my email – but not my trust. The sales team might get some quick hits, but as companies like Unit4 have learned, that’s only a small percentage.
+The rest have to be cultivated. You do that by being timely and helpful until you are essential. After his keynote, Rose and I talked further on that. Rose was downright lyrical in his views about the value of audience members who never become customers. They might still engage with your content, sing your praises on social channels, or even go to some of your events. They could refer others. Having a myopic view of customer, prospect, or “discard” isn’t the way forward.
+SEO as a way of gaming search results is fading into oblivion. SEO as part of attracting visitors and winning an audience still matters – as long as we understand our audience is the opposite of captive. They are free to come and go. We must adapt to them, embracing the continual challenge of proving relevance.
+End note: this in-depth piece on modern SEO on FirstRound is a recommended read.
+Updated 9/28/2016 a.m. with a few tweaks for reading clarity. I added a snide remark about ZDNet though Forbes.com is an even worse pop-up offender. However, I never respected Forbes.com.
+ 
+Image credit - Retro dressed detective © olly - Fotolia.com.Disclosure - Unit4 is a digiomica premier partner. Hippo provided me with complimentary access to Hippo Connect 2016.Read more on: Content marketingDigital and content marketingFrictionless enterpriseMobileUser experienceUX and application design 

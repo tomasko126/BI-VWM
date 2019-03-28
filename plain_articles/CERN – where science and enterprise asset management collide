@@ -1,0 +1,45 @@
+
+Looking for God
+CERN’s Large Hadron Collider – ‘the eighth wonder of the world’ – is the vast particle accelerator that runs in a 27km circle under the Swiss/French border. Here, scientists smash particles together at 99.99999% of the speed of light, in order to study the building blocks of matter by recreating the conditions that existed a fraction of a second after the Big Bang.
+Everything about CERN is big: it is the world’s largest research organisation for particle physics, with 22 European member states and 70 countries collaborating on science programmes. On a given day, 12,000 visiting scientists, 2,500 staff, and over 2,000 contractors work at the campus, which is the size of a small town. In such a superheated – or rather, supercooled – environment, system uptime and reliability are essential.
+The billions of collisions that occur every second in the LHC equal terabytes of data per second, which are fed to 600 universities and research institutes worldwide. But this unprecedented big data project all hinges on another mind-boggling statistic: over 100 million high-tech components, from the largest industrial unit to the smallest widget, via an antimatter factory, cryogenic plants, supra-conducting magnets, CERN’s own fire brigade, 20,000 servers, and even the single bottle of hydrogen that feeds the LHC itself.
+Any of these components could fail, and so problems need to be anticipated and avoided at best, or traced and fixed rapidly at worst: an asset management challenge on a colossal scale. Pity any engineer who has to drive around the 27km tunnel on a vehicle that only does 3km per hour, a round trip of 10 hours.
+David Widegren is the man in charge of the Asset & Maintenance Management unit at CERN, which manages the life cycle of each of the organisation’s millions of physical components and devices. His team provides the tools to ensure their safe operation, optimising performance and minimising the cost of running the facility. 
+So his work has an important output: more science. He says:
+
+People say to us, ‘You have such an advantage: all these clever people around to do things’. But they need something dead simple. If you come here with your PhD, then maintenance and EAM are important, but it’s a sidetrack. The important thing is the physics. The tools should not take over from what you’re trying to achieve. If you throw in lots of things and functions into an interface, then you don’t understand the user.
+
+So why is EAM of such critical importance to CERN? Widegren explains:
+
+Many of our assets have a long life, perhaps 50 years. Long life cycles combined with staff churn make documentation of assets and interventions a must. Outsourcing of maintenance is another must, but outsourcing makes it essential for there to be a single repository of assets, of history and deep knowledge. The work is not finished until the result is imported into the EAM system.
+So we have a strategy of having a single EAM platform, with close to zero modifications of the software – only standard configurations and external add-ons and integrations. By not doing modifications, you can typically upgrade within 24 hours and be up and running with a new version of the software. Common tools bring common processes, which create savings and internal efficiencies.
+
+CERN is using EAM EE 11.2, self-hosted on Red Hat Linux with an Oracle database.
+Widegren explains that – appropriately for an organisation that studies origins – asset management at CERN begins at the earliest stage:
+
+The work with our assets starts long before operation and maintenance: at manufacturing and installation. So they’re already in the system, with information on how they’re performing. Disposal and waste are important considerations, too – some things become radioactive.
+Also there is very wide range of user profiles on the system, such as maintenance managers, engineers, equipment specialists – who are often physicists – technicians, both internal and contractors, and so on; are all linked via Infor EAM, Infor EAM mobile, and EAM Light [in multiple languages].
+
+The latter is a proprietary version of the application that was developed internally at CERN, a cut-down version of the system for use in self-service storerooms, where users need a simplified interface and options. “Like self-checkout at the supermarket”, as Widegren puts it.
+Data from assets
+But it is not just data about the assets that is important at CERN, but data from the assets. Widegren explains that operational insight and data from each component is critical, in what is effectively a self-contained Internet of Things (IoT). He says:
+
+This combination of asset management with connected equipment, and the data we capture from the assets, is really the way forward. We call this the intersection of industrial IoT and EAM. This is the sweet spot for the future. 
+We take this data and see how we can optimise performance, minimise cost, and take the best from both sides. The data in EAM is about how the components are performing – so we have the costs about those things – while the IoT side of things is about how they’re being used. And by seeing how they’re used, we can optimise their maintenance, and we can see what is costly to maintain and what we need to focus on in terms of maintenance.
+
+CERN and asset management go back a long way: the organisation was an early adopter of what is now Infor’s EAM platform, a technology it has been using since 1989. The date coincides with Sir Tim Berner’s Lee’s proposal to create the World Wide Web at CERN, which was already the largest Internet node in Europe. (Sir Tim’s original Web server is preserved at the facility – together with its sticky label warning people not to switch it off.)
+This has grown exponentially in the past few years, notes Widegren of CERN’s usage of EAM, which he says has matured under Infor’s own development, acquisitions, and reinvention into a highly configurable, standard platform that can be used throughout the organisation:
+
+In the early days, it was a few technical groups who wanted to manage their maintenance interventions. And little by little as the tool has grown and our needs have matured, it has become the asset management platform at CERN. It has taken a much bigger role within the organisation.
+
+Everything is on the system, allowing users to see what other components will be impacted by any fault, to bring up technical documents, search for spare parts, and see where everything is on a detailed map. Indeed, a 360-degree view enables a Google Street View style visualisation of each piece of gear.
+During the recent planned upgrade of the LHC, EAM came into its own in other ways, too, with thousands of work orders scheduled and managed through the system. “It was the place where everything was being traced, so of course, on a higher level we have global planning, but it all boils down to maintenance in the field, and everything is in EAM.”
+So would it be possible to run something as massive and complex as CERN without an EAM system? Widegren says: 
+No, you could not! We could not run the place without an asset management platform. And these days, of course, everyone is mobile and expects to have all this information at their fingertips, when they intervene.
+“We were talking about Big Data before Big Data actually existed. [The science] has been capturing a terabyte of data per second for many years, while EAM itself captures about half a terabyte per day. But that’s nothing compared to the science.”
+My take
+Everything at CERN has a part number and a barcode, and so to visit the campus is to see EAM in action. Things break down, even at CERN, and an operator can escalate an alarm to a work order with a single click. 
+The system also allows CERN to look ahead, not just look back: the financial depreciation of assets is visible within EAM, allowing users to forecast equipment replacements and budgets over the next 25 years of scientific research.
+With one million store transactions, 10,000 corrective work orders annually, and three million work orders overall, CERN’s use of EAM has universal importance.
+
+Image credit - CERNDisclosure - Widegren was speaking at Infor's EAM Summit at CERN this week. At time of writing, Infor and Oracle are premier partners of diginomica. Read more on: Cloud platforms - infrastructure and architectureDigital enterprise in the real worldInternet of ThingsUse cases 

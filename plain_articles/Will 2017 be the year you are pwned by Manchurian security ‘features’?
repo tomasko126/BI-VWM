@@ -1,0 +1,52 @@
+
+Epson XP-625 nagware
+Over the holiday period, I got a salutary reminder that not everything I ‘own’ is truly mine. I was very nearly pwned. It should serve as a cautionary tale for those who have embarked on the ‘all in for services’ mantra.
+Here’s what happened.
+Ordering theater tickets online was a straightforward process with which many people will be familiar. Unfortunately, there is no universally accepted system of sending digital tickets to mobile devices. All tickets must be printed prior to attending the theater. Again, this is a common issue but one with which I can begrudgingly live, even though I try very hard to print nothing onto dead tree technology. Enter my Epson Expression Premium XP-625.
+Printer ink – the new pwned frontier
+In common with all inkjet printers, the ‘system’ nags when ink cartridges are close to empty. This time around, the printer refused to print until the black cartridge was replaced. A nice touch to ensure consistent print quality. Again and like many others, I recoil at the price of OEM ink cartridges. I chose to order a third party product at a fraction of the OEM replacement cost.
+Once I’d replaced the cartridges with the perfectly serviceable alternative, the XP-625 detected they are not OEM and proceeded to annoy me with four screens of nagware messages. Thankfully, the pinter works perfectly well. But when I took to Facebook to moan about this a colleague pointed me to a lecture delivered by Cory Doctorow entitled: Security and feudalism: Own or be pwned – Cory Doctorow (EFF).
+For reasons that are not clear, the video is unlisted but since it was embedded in Facebook and the speaker has strong calls to action, I have no problem in embedding it here. See the end of this story.
+Be warned – Cory Doctorow’s take
+The video, which was posted on 1st December, 2016 runs 30 minutes, which is 29 minutes and 50 seconds longer than the current average attention span. Even so, the content is incredibly important to buyers.
+Doctorow starts out by talking about how HP implemented hidden code in its inkjet printers that would reject third party cartridges. At the time, the topic did not get a huge amount of public coverage but a report by The Register included a statement from HP that included these words:
+The purpose of this update is to protect HP’s innovations and intellectual property.
+(My emphasis added.)
+However, the topic caused enough of a stink for HP to back pedal. This from The Guardian:
+The reversal comes after an open letter from Cory Doctorow, of the Electronic Frontiers Foundation, which called on the company to apologise, roll back the update, and commit to never again distributing “anti-features” through the software update process.
+Note that according to The Guardian, HP did not respond based upon the many complaints that customers made to third party providers of ink cartridges or the media attention. But they did respond to the voice of Doctorow, a long term campaigner against the restriction of consumer rights in areas like digital rights and specifically, the toxic impact of the Digital Millennium Copyright Act (DMCA,) a piece of US legislation designed to prevent DVD and games piracy.
+The video expands on the general topic of how technology companies are increasingly inserting ‘security’ features as a way of ensuring that buyers only buy services from the vendors who sold them the original equipment.
+Doctorow expands that argument to many softwares, arguing that there is no defensible business model for ‘internet of things devices’ many of which include embedded Linux as the operating systems and which peddle services atop the device.
+That makes sense when we think for example about how smart home technology has blossomed over the last year and how many manufacturers are getting in on the act.
+Doctorow goes on to argue that the only business models that work are those that allow the maker to tie the product to some form of required maintenance, add-on product or service.
+Again, this makes sense when we go back and look at the printer ink cartridge model but, as Doctorow points out, that is now being extended to many ‘things.’
+The sneaky internet of things
+Consider the example of the John Deere tractor which, according to John Deere, is no longer brought and owned in the conventional sense but is effectively licensed for its life.
+That take on ‘ownership’ allows John Deere to ensure that tractor owners must go back to the OEM for repairs. Modern Farmer describes this approach as ‘craziness’ and there are ongoing legal cases aimed at defeating what amounts to the creation of a feudal system of ownership rights.
+In a feudal system, the buyer trades only with the original maker of a product in exchange for using the product for as long as the product lasts.
+The curious side effect of this is that it is now in the maker’s interests to avoid built-in obsolescence but to continuously improve the product. That’s the pitch you’ll most likely hear.
+The flip side is that the maker insists that you get whatever parts and service are needed from them. It’s a fantastic business model because as Doctorow points out, DMCA allows the maker to:
+Convert your commercial preference into an iron clad legal right…it is the rectal thermometer that has put the DRM up our literal asses.
+But it gets worse. In Doctorow’s description of security under the DRM model, the normal ways of securing devices are not applied. He calls the methods used as ‘wishful thinking.’
+It explains for example how easy it was for Krebs to become overwhelmed by a record denial of service attack last September.
+To add a little more spice to the story, under the DMCA, researchers need to protect themselves from prosecution when they seek to reverse engineer DRM or other copyrighted material in order to discover defects in code.
+It should come as no surprise then that companies are reluctant to have that happen for fear they will be embarrassed in the public domain.
+Doctorow goes on to paint a dark picture of what happens when the malware being harnessed by crappy internet of things devices is turned upon the person using a device.
+The enterprise angle
+While those dangers are very real, I am more concerned about how this problem of intellectual property compliance under current law impacts the business user.
+Doctorow reeled off a list of mostly healthcare related products where software exists to protect business models. That can only serve to push up healthcare costs over the long term.
+More broadly, we have been concerned about the extent to which software companies use their intellectual property rights to handcuff customers.
+We’ve documented the fights over copyright waged between Rimini Street and Oracle. That’s one example where a company seeks to corral its users and uses intellectual property rights as the weapon of choice.
+Elsewhere, we saw how SAP has been using audits to extract money from its customers where those customers are using third party software to access SAP generated data.
+Oracle has a similar audit program but theirs is more attuned to identifying unlicensed usage, a problem that is easily created inside end user organizations and which requires considerable care in managing.
+My take
+What started out as a consumer issue – my printer ink cartridge replacement – quickly became a much broader issue in my mind and it is one that is too easily ignored.
+Doctorow says and I agree, that
+HP is a dress rehearsal for what will be for the future of the vulnerable, illegal to audit things on fire looks like.
+I’d go further.
+As more devices come into the business at apparently low or no cost, you have to start asking yourself what the real cost of ownership is looking like over the expected useful life of the software and products you are buying.
+While it may sound fiscally efficient to consider a world where ownership is subservient to use based renting, remember that relieves you of many rights  which are already under attack while likely locking you into a feudal system of rent seeking for benefits that the owners of products and software will determine.
+It should therefore be no surprise for me to say that the recently observed trend of companies attempting to hire their own software engineers will continue apace. The question remains – what will they be doing?
+
+HT – Mrinal Wadhwa
+Image credit - via the authorDisclosure - SAP, Rimini Street and Oracle are premier partners at time of writing.Read more on: Data privacyInternet of ThingsRegulationSecurity 

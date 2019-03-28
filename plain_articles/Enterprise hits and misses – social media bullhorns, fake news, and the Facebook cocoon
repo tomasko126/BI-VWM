@@ -1,0 +1,61 @@
+
+
+diginomica hit: Three ways to use social media other than as a megaphone by Barb Mosher Zinck
+quotage: “I’ve worked with enough brands to know that everyone struggles with social. It almost seems like a necessary evil more than an opportunity to build an audience and loyal customer base. There’s too much tweeting simple messages once or twice, trying to follow key people to get noticed, and in general, not thinking through how to build a presence that provides real value to the brand and the customer.”
+myPOV: If we handed out parking tickets to brands for each flagrant misuse of social media, a lot of companies would get their cars impounded. This piece was sparked by backchannel between Barb and myself on social media oversaturation – and if there’s a better way.
+Barb responded with this meaty piece that details several additional use cases for social that brands should be looking at, from social customer service to competitive intelligence. She also has some sharply-worded reminders on what not to do.
+From a marketing standpoint, I do think brands can accomplish more than just distributing content, but they must free up their employees to act like real people, as unfettered as possible from tone deaf corporate speak. Then the invaluable, real convos can happen. I was shocked recently to interact with TGI Fridays’ Twitter handle after a use case I wrote, and find their official brand channel actually behaved like a human, sly sense of humor and all. But that’s too much to ask for most brands I fear….
+diginomica three –  my top three stories on diginomica this week
+
+Deloitte – Primary care is failing to embrace digital health at scale – Derek on a mixed bag Deloitte report on health care in the UK. Good news: digital has promise to improve patient health care, including pro-actively managing their own health care. Not-so-swell news: “These technologies are not being adopted at the scale required to make any sort of significant impact.”
+Sainsbury’s upgrades retail e-commerce ambitions as it rolls out Argos digital stores – Stuart expands on his retail assessments of Sainbury’s now that it’s acquired Argos, a firm that hasn’t received enthusiastic grades from Stuart in the past. Will they win Stuart over now? Holiday shopping season should put it all to the test.
+Delivering devops tools to the tribes and squads at Sky Bet – Phil with a nifty devops story, which doesn’t gloss over the challenges of culture and cultivating/recruiting talent. It’s a “very different model” than classic enterprise development: “You’ve got these people that are looking after this service, they own it and it’s theirs.”
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Event report – IFS and first steps on industrial IoT path – Brian on a company turning an interesting corner: “The best ERP vendors develop solutions for the customers to come, not the ones they already have. If vendors build competitively vibrant and current solutions, a large enough group of existing customers will make the migration… The question then comes. can IFS’ customers make the bold digital changes or will they take the piecemeal digital path instead?“
+Oracle will be more like us in the future, says NetSuite CEO – Jess has the most intriguing headline of the week locked up. I’d say: “So where does NetSuite go next? The answer is maybe less obvious now, I suggested, than it has been in previous conversations that he’s had with diginomica. Forty-eight hours after the deal closed, there’s a limit to what can be said in public as yet, but ‘more of the same on a bigger scale’ seems to be one message coming out.”
+SAP TechEd 2016 – a halfway point HANA and business unit score card – I hardly ever pick my own content for this column, but since I hauled @ss to Barcelona and back, and since there was interesting news and a frank/interesting comment thread, I’m tossing this out there.
+
+A couple more vendor picks, without the quotage:
+
+Nutanix.Next – aiming at a marriage of on-premise and Amazon – Martin
+New Relic brings analytics clout to the media war rooms of election night – Stuart
+
+Jon’s grab bag – It’s a veritable smorgasbord of media disruptions coverage this week, starting with Den’s Friday rant – Facebook and falsehoods. What about advertisers? He followed that with a surprising piece on advertisers bailing on roach motels lowest common denominator publications in LEGO ends relationship with Daily Mail over hate filled content (that’s one way to reduce the schmuckery!)
+Stuart’s hits from another angle in New York Times pulls down paywall for US election, but digital monetization remains the focus, and follows it with a piece on News Corp’s digital push in News Corp takes digital beyond the headlines, but warns of ‘hip’ ad tech abuse. I’m not a News Corp fanboy, but I grudgingly admit this is a robust digital approach. Derek wraps my picks with an update on the policy issues of driverless cars in Europe. Oh, and diginomica is always scouring for customer use cases of note – as Den says, ping us with your keepers, dandies, and go-live lessons.
+Best of the rest
+ On social media cocoons, fake news, and the problematic importance of Twitter – by several scribes
+quotage: “To be clear, Twitter has a real abuse problem that it has been derelict in addressing, a decision that is costly in both human and business terms; there is real harm that comes from the ability to address anyone anonymously, including the suppression of viewpoints by de facto vigilantism. But I increasingly despair about the opposite extreme: the construction of cocoons where speech that intrudes on one’s world view with facts is suppressed for fear of what it does to the bottom line, resulting in an inert people incapable of finding common ground with anyone else.” Ben Thompson,  Why Twitter Must Be Saved 
+myPOV: I was planning to steer clear of election talk and the infotainment that plagued the news cycle, but that’s where the stories were. Thompson takes a break from posts which I find err on the side of Facebook appreciation to call into question the “cocoons” that Facebook creates around users, and Zuckerberg’s engineered utopianism.
+Probably a bad time for Zuckberberg to be waxing utopia given he was amongst the users Facebook mistakenly announced as dead this week in the latest engineering snafu:
+
+But the election-related fake news brouhaha was more disconcerting (Facebook admits it must do more to stop the spread of misinformation on its platform). Fake news has surged on Facebook after it replaced its human editors due to accusations of selective news bias. As Buzzfeed reported, clever teens in Macedonia were generating fake Trump vs Clinton news stories and pulling ad revenue to the tune of $3,000 to $5,000 per month.
+Facebook’s explanations have been soft and defensive, with one defense being “the fake news impacted both candidates equally” (my paraphrase), which should be of small comfort to, well, nobody. Josh Bernoff isn’t having it. As he wrote in Mark Zuckerberg’s delusions regarding fake news on Facebook:
+All of the skullduggery on these sites is at Facebook’s feet. You can blame the partisan fake-news spreaders all you want. But you can’t stop them, any more than you can stop a cockroach infestation by stepping on them. You need to clean up the kitchen. It’s Facebook’s kitchen to clean up.
+Bernoff is serious enough to start a non-partisan organization to address this – you can sign up on his site. This ties back into the enterprise in several ways, but the biggest thing is that Facebook is too important a platform for enterprises to ignore. How we engage on Facebook without succumbing to its flaws and algorithmic control is a complex issue I’ll return to in my digital media disruptions series.
+We should also note a role for Twitter here; Twitter remains a corrective to the walled garden, and for enterprises, Twitter should still be a big factor where events are concerned. The rest of the time it’s less important, and oversaturated with preaching-to-the-choir marketing tropes.
+Other standouts:
+
+The downside of infrastructure-as-code and the reality of micro-services – Neither of these New Stack pieces is what I’d call a classic, more like spicy hors d’oeuvres in search of a main course, but taken together, they bring needed checks on the limits of devops and micro-services hyperbole. We start with Buggy Software Foils Dreams of Infrastructure-as-Code, which raises questions on a core devops principle. The Reality of Microservices in the Enterprise hits on another devops angle, the problem of managing micro-services when your company is in the IT slow lane, or at best, “bi-modal.” A transitional phase, “mini-services,” is proposed.
+
+Honorable mention
+
+Bricks Without Clay – The bricks-and-clay thing is about data – wall competitors out, or wall others in – this could get pretty morbid. Understated killer line: “data-based businesses are inherently less vulnerable to the industry’s boogeyman – disruption.”
+Rimini Street CEO Seth Ravin: Competition drives real innovation and that’s what we do – Revealing interview on an enterprise player with attitude.
+Event Report – SAP TechEd Barcelona – Analytics, ML, PaaS and HANA 2 – Learn how SAP managed to impress an analyst who wasn’t so impressed with their Las Vegas event.
+Return of the business value suite spot – Don’t agree with all of this but it’s a chewy morsel and that’s what matters, right?
+Google’s DeepMind AI Now Capable of ‘Deep Neural Reasoning’ – Things are moving pretty damn fast aren’t they?
+Whiffs
+This one speaks for itself:
+
+PR rep to me: “Are you planning on writing a 2017 predictions piece?” Me: “How did you know how I spent my weekend?” #lovetechpredictions
+— Jon Reed (@jonerp) November 14, 2016
+That tweet set off a series of snarks about the vacancy of tech predictions blog posts – check my timeline if you want more. Hey – that reminds me of a failed PR pitch I’ve been saving, an email I received entitled: “Self-driving car smiles at pedestrians.”
+Supposedly, pedestrians will be uncomfortable with self-driving cars that don’t smile reassuringly at them, so the geniuses at a company called Semcon have developed what evidently passes for innovation these days: “The Smiling Car, a concept where self-driving cars interact with pedestrian traffic by smiling – a message that is easily understood by everyone.”
+Hmm – now I live in the northeast U.S., but around here, when a stranger gladasses a smile at you, you assume they are either: nuts, about to sell you something, or trying to put one over on you, e.g. they are playing the long con. Even the homeless people here scowl when asking for money – it works better. Anyhow, good luck with the Smiling Car – I’m glad big, world-changing ideas are alive and well.
+I promise not to go politics on you, but I’d be remiss not to link video of poll expert Sam Wang, who made good on his word to eat a cricket on CNN after vowing to eat bugs on live TV if Trump got more than 240 electoral votes. Next time stick with humble pie dude. Speaking of which, pass me a slice, I was wrong on the election too.
+Which #ensw pieces of merit did I miss? Let us know in the comments. Over to you, Clive.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang. Updated 11/15/2016 6:30am PT with small tweaks for reading clarity.
+
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and winner - Loser and Winner © ispstock - Fotolia - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, Rimini Street and Salesforce are diginomica premier partners as of this writing.Read more on: Collaboration sharing and digital productivityHits and missesSocial 

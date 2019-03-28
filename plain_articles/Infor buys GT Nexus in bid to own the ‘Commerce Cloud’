@@ -1,0 +1,44 @@
+
+Infor staked claim to dominance of what it is calling the ‘Commerce Cloud’ market with the news today that it is acquiring global trade and supply chain management platform GT Nexus for $675 million. This is Infor’s largest acquisition since it paid $2 billion for Lawson Software in 2011, and perhaps its most significant in terms of strategic impact on the vendor’s future direction.
+In an exclusive interview with diginomica today, Infor CEO Charles Phillips emphasized that GT Nexus focuses on purchases of components and goods that businesses sell on to their end customers, known as direct procurement. This represents a larger total spend by enterprises than the indirect procurement of administrative goods and services, which has traditionally dealt with by spend management vendors such as Ariba, Coupa and Deem.
+In response to questioning, Phillips did not however rule out the possibility that Infor might also acquire an indirect spend management player to round out its offering.
+This is stuff you’re buying for your customer so that you can generate revenues. It is just a bigger percentage of the spend and it’s more important because it’s what generates revenue.
+This is completely different from what Ariba does — [but] that’s not to say we couldn’t add indirect into this.
+We’ll still flush out the roadmap over the next few weeks but that is one of the things on the checklist we want to get to.
+Global trade logistics and finance
+Originally founded in 1998 with backing from private equity investor Warburg Pincus, GT Nexus started out as a SaaS vendor that managed freight forwarding. It has gradually expanded its footprint into other aspects of global trade logistics and has also added financial transaction capabilities. It now claims to serve more than 25,000 companies who manage goods worth more than $100 billion through its network each year, and “facilitates more than $20 billion in payments between buyers and their suppliers in 90 countries and in 8 currencies.” In remarks to Bloomberg today, Phillips said the company is profitable and had revenues of around $150 million last year.
+There’s strong synergy between the two companies both from a technology and a customer point of view. Both take a similar approach to integration, said Phillips, using a canonical object model to mediate between diverse systems:
+Our architectures are very similar. What they’ve built is a canonical model of each object in the network. Whatever format they get, they convert it to the canonical model — which is the exact same thing we do.
+Although it will take a while to connect the GT Nexus functions into Infor’s software portfolio, including the core CloudSuite, Ming.le social network, Rhythym e-commerce and a product lifecycle management app, Phillips said he expected significant progress will have been made by end of this year.
+There’s a similar convergence in customer profiles, with most GT Nexus customers drawn from the fashion, apparel and manufacturing industries.
+Co-ordinating the distributed supply chain
+Infor sees the acquisition as an opportunity to leverage the ongoing shift away from in-house manufacturing supply chains to a more distributed model. According to its press statement today:
+The continued shift to contract manufacturing moves the shop floor outside of the brand owner’s ERP system to the ERP of their suppliers … It is now common for a single product to be designed, manufactured, and shipped by different companies, requiring a common cloud for coordination.
+Infor believes it can capture market share by bringing together GT Nexus for order management across that external supply chain, connected back into its cloud-based, core enterprise apps. Again quoting from the press statement:
+The GT Nexus network integrates directly into the order management system of the buyers and suppliers. Buyers transmit order information through GT Nexus to their suppliers, financial institutions, freight carriers, and logistics providers. GT Nexus becomes the order management system for the entire network by managing the master record of the order across multiple partners.
+That will create opportunities to win accounts from SAP and Oracle because of the ability to track order status across multiple enterprise systems, Phillips told me:
+This becomes the system of record for the order, not SAP or Oracle, which has to leave that system to get the order. We know the status, the others don’t.
+We’re reinventing ERP to be in the cloud. This is where it belongs. We want to use this inside of single companies as well.
+We know companies that have multiple instances of SAP and they can’t get a single view of what’s happening in the order. It’s a problem at multiple levels, this distributed order management problem. Many can’t show the customer order status because they’re in different systems.
+‘Supply chain in a box’
+Charles Phillips, Infor
+Getting Infor customers to adopt the cloud-based GT Nexus network will help accelerate cloud adoption among its existing customer base, Phillips believes.
+Once customers are already using the very important function of order management in the cloud, it’s a very short step to saying, ‘Let me have all the other applications relating to my business in the cloud as well.’
+We hope this will energise the base to move and simplify their applications into one place.
+The combination of Infor and GT Nexus will also appeal to new ventures both within the apparel, retail and manufacturing industries and beyond, said Phillips.
+We can take this very efficient, low-cost network and take it to other industries. We think this is how manufacturing will get done going forward and we will make it easier for people to enter this market. We can give you a supply chain in a box.
+We think it’s liberating and going to create a lot of new jobs and new companies being created.
+Extending Infor’s cloud solutions into external order management across the distributed enterprise creates a competitive differentiation that will set the company apart, Phillips concluded.
+It catapults us into the thought leadership position in this industry, defining what the postmodern ERP suite will look like.
+It’s going to be about commerce and it’s going to be cloud-based. We’re defining that vision before anyone else.
+For the customer who wants innovation, which we’re known for, they’ll be attracted that we’re pushing these features where they get more value faster with us.
+My take
+Infor has made a smart move by thinking outside of the box of traditional enterprise applications. While both SAP and NetSuite have staked claims in the ‘commerce cloud’ arena, Infor is the first to make a lunge into the direct spend part of the market, where the majority of global trade takes place. It’s a canny pre-emptive move.
+It’s interesting that GT Nexus is not as well known as other vendors in the enterprise spend management space, despite its strong presence in direct procurement.
+I think this is symptomatic of the way the enterprise software industry tends to define itself in terms of internally focused operations where it has an established history. Anything that crosses the enterprise boundary, whether it’s e-commerce, external collaboration or direct spend, doesn’t count because the established vendors and their IT buyers have always left well alone.
+But in a connected digital world, these are the activities that deliver the most business value and there’s an increasing focus from forward-looking enterprise vendors on linking those external activities back into core applications.
+That fits with an analysis I’ve referenced previously, examining the new enterprise application stacks that are emerging in this new world.
+Phillips can claim special prescience having co-authored a paper at investment banker Morgan Stanley fifteen years ago with his then colleague Mary Meeker about the Internet’s potential to allow firms to aggregate supply chains from networks of suppliers. He may not have foreseen the precise shape it was all going to turn out fifteen years later but that ability to look beyond today’s received wisdom is an invaluable asset when the world is changing as rapidly as it is today.
+Disclosure: Infor, NetSuite, Oracle and SAP are diginomica premier partners. Coupa is a diginomica partner.
+Image credit: Business network on tablet PC © bluebay2014 – Fotolia.com.
+Read more on: Cloud ERP financials and supply chainOutsourcingSpend management 

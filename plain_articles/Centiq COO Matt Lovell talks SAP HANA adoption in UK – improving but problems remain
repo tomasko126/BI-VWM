@@ -1,0 +1,49 @@
+
+On every SAP earnings call, there’s always a variation on this question: how’s the sale of SAP HANA going? My question is a tad more nuanced: how’s SAP HANA adoption going? The difference won’t be obvious to the average analyst but is crucial to those interested in the customer experience because a sale doesn’t necessarily mean that something is in use.
+Major shifts
+Centiq, which was one of the first independent UK consultancies to focus on HANA implementations, has conducted its second customer survey as a way of assessing adoption levels and identify the issues impacting customers.
+
+Here are the top takeaways:
+
+The top 3 reasons for SAP HANA projects are (in order)  real-time decision making, integrating multiple data sources and consolidating platforms
+75% of all HANA projects are delivered on-time and to-budget
+HANA is increasingly being specified by non-IT teams, while 52% of projects were led by IT teams last time, that number has halved.
+88% of production HANA is in the public cloud versus just 79% of non-production data
+S/4 HANA will drive 84% of SAP HANA migration projects over the next year, BW migrations to SAP HANA will rise from 31% to 70% and just over half, 56%, believeHANA can deliver cost-savings from replacing legacy SAP
+
+Four big things
+I spoke with Matt Lovell, COO Centiq to get color on the results.
+
+First though this discussion needs placing in context. The survey covered 247 Centiq customers out of a universe of more than 5,000 delivered SAP HANA instances of which 1,000 are on physical nodes, the remainder are on cloud infrastructure.
+Second, as it relates to cloud/non-cloud, customers are predominantly using public cloud – which might be AWS, Azure and/or SAP’s own public cloud – for dev and test rather than production instances. I’ll return to this point later.
+Third, the decision to go SAP HANA is largely being driven by industry imperatives rather than any specific SAP marketing program. Again, I’ll return to this.
+Finally, while there are some S4HANA cases, the majority of customers are focused on BW, analytics and refreshing some business processes where the business case demands the ingestion of additional data types.
+
+Business case drivers vary
+What about the business drivers?
+18 months ago BW was the overriding driver with customers wanting accelerated speed to results. Today, organizations are now looking for more data integration points. The areas of most interest are accelerated reporting, integrating customer experience with data at the core and improved ordering and fulfillment. We are seeing that especially among retail which is feeling the impact of disruption.
+So the Amazon effect is kicking in hard among UK customers – as you’d expect.
+It’s absolutely a response to Amazon.
+In other areas like legal, the push to digitization is driving adoption albeit at the process level, while healthcare is seeing its own adoptive path focused on records handling and analysis. Among insurers, the linking of fitness data to predicted outcomes is another area where attention is rising. In short and regardless of which sector one considers, the Centiq data points to a single cause for adoption – competitive threats countered by cost reduction and speed to decision making. However, the pace of adoption almost always depends on the extent to which pain is felt inside an industry and/or, where the business case is straightforward:
+Other examples like public sector and utilities have much clearer starting points. Smaller organizations where there is a greater skills shortage and which have relied on external developers are finding it more difficult.
+This last point about skills raises an interesting question. When SAP HANA was first launched, SAP pitched this as something brand new. The reality is that the column store database as a concept has been around for more than 20 years but SAP was the first company to make that a central part of its database architecture, primarily aimed at analytics. Since that time, SAP HANA has been developed to be more of a general purpose database but for SAP applications.
+That has not helped from the skills standpoint, especially as many customers were grappling with ECC environments. Add in the fact that, like it or not, SAP is not considered to be the cool kid on the block, and it should not surprise that HANA skills are in short supply.
+From an IT standpoint, Lovell believes there has been:
+…a significant change in mindset. Customers have Mongo, Cassandra and other third-party systems generating data that needs ingesting into HANA environments. They only want a single column store database from which to drive decisions.
+Concerns but nothing we don’t already know
+However, it’s not all clear sailing. As we’ve reported elsewhere, there is still plenty of confusion to go around, not just on choice, as in the platforms on which SAP HANA should be run but also the impact on licensing.
+Customers have been given choice but this isn’t necessarily helping them solve for complexity and especially where they already have operations running on AWS, Azure and SAP’s cloud. Factor in questions about licensing and indirect license and I agree the decisions are not always as clear-cut as you might want them to be.
+From a production perspective, it is not yet clear that customers will go wholesale to SAP’s cloud vision. While dev and test fits naturally to cloud instances for both speed of deployment and cost reasons, those reasons change when considering production environments.
+CFOs are conscious of their existing infrastructure investments and look to a much longer time horizon for production. In those cases, there is still a good case to be made for on-premises deployments. The 2025 deadline (for when SAP drops ECC support in favor of S4HANA) is not figuring into their calculations.
+My take
+The Centiq data and color that goes around it makes clear why customers are making the decisions they are. Right now, the benefits seen in the current phase of adoption are helping customers make decisions to stick with SAP but manage the migrations in a purposeful manner rather than simply throwing money over the proverbial development wall.
+Customers are incentivized by lower TCO and better long-term ROI but much depends on the extent to which they can assemble a meaningful business model that aligns with future needs.
+Once again I am left wondering why an independent firm is having to undertake the work that SAP itself should be doing to make the SAP HANA case. I suspect that it is because there are legitimate concerns among long-standing customers who have seen themselves:
+
+Faced with unwelcome audits
+Pressure to fork over more money for systems they believe should be performant or that are otherwise stable but requiring a technical refresh at a time when
+IT budgets are constrained and where fresh investments in back office software are unwelcome without a clear business need.
+
+I have no doubt SAP is addressing these issues but believe it would be far better for customers if reports of this nature didn’t leave SAP in reactive mode. For instance, I’d be much more impressed if SAP could come forward with data basked metrics about benefits earned from SAP HANA deployments rather than fuzzy use cases or forced march stories. In short, I’d like to see the digital core (SAP HANA-S4HANA) story much more closely aligned with the surrounding innovations where breakthrough value can be found.
+I suspect though I will be waiting a long time. One of the major problems that you don’t hear about is the reality that companies like SAP, which has at its center the idea of a highly secure environment where your legs and regs are taken care of, is having to devote much more time to addressing problems like Specter and GDPR than it is in functional enhancements. Customers will have to bite those bullets as well.
+Image credit - via CentiqDisclosure - SAP is a premier partner at the time of writingRead more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architecture 

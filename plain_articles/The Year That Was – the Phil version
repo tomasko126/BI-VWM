@@ -1,0 +1,95 @@
+
+Looking back, I feel 2018 was the year when most of the remaining pieces fell into place. Look out for the denouement in 2019.
+(1) Frictionless enterprise takes shape
+For a long while I’ve argued that digital collaboration is a core pillar of the new model of frictionless enterprise that’s emerging in the digital era. [Digital challenger bank] Monzo showcases the distinctive collaboration patterns of this new organizational architecture — and their impact on the business.
+Why? Live examples of the principles of frictionless enterprise — diginomica’s framework for understanding and mapping digital transformation — are starting to appear. Look out in 2019 for my long-promised book that ties together all of the theory and practice.
+
+How Slack enables frictionless teamwork at digital bank Monzo
+AirAsia lands on Google Cloud to build a frictionless digital travel business
+Twilio proclaims a communications renaissance for frictionless enterprise
+
+(2) From XaaS to XaaX — everything as a connected service
+What’s new is the delivery of these capabilities as a connected service, establishing a continuous digital connection between the provider and its customers, through which the provider can iteratively engage, monitor and improve the customer experience.
+Why? The business model of frictionless enterprise is XaaS (which we pronounce X-ass), as outlined in our first downloadable d·book, The XaaS Effect, published in February. Expect a second edition in 2019 — let’s see if we can get everyone talking about XaaX.
+
+The missing word that adds new meaning to the definition of XaaS
+Forget cloud vs edge. It’s the connections, stupid
+The XaaS Effect and what it means for the services business
+
+(3) Robots and humans, working in harmony
+Machine intelligence is still pretty dumb, most of the time. It’s far too early for the human race to throw in the towel.
+Why? Thankfully, the rhetoric around artificial intelligence is starting to shift towards augmentation rather than replacement of human capacity. Meanwhile, whatever the future potential, the real-world use of AI in enterprise applications today remains rudimentary.
+
+Why humans will always be smarter than artificial intelligence
+Are coaching networks the big new thing in enterprise software? (1/2)
+Can vendors like Workday, Salesforce ever get enough AI?
+Meltwater pivots to let data scientists loose on the world’s biggest business dataset
+
+(4) Headless meets serverless in an API fusion dish
+In modern enterprise IT architectures, all of these tiers are being decomposed and their components made available via APIs.
+Why? Last year, I started writing about the trend towards headless applications, accessed through a conversational layer. This year, I think the trend towards microservices and the APIfication of other IT assets means that the underlying functions and data are becoming serverless. As a consequence, the old discrete enterprise applications are merging in new ways — which shakes up the entire landscape.
+
+Engagement, functions, resources – a connected digital enterprise architecture
+Salesforce buying MuleSoft hints at a seismic shift in enterprise integration
+Google advances Istio – this could be bigger than Kubernetes and serverless
+Dreamforce 2018 – it’s all about integration, says Salesforce product chief Bret Taylor
+Web founder Berners-Lee rallies Solid rebellion against digital empires
+
+(5) Contextual computing and the new face of BPM
+It’s no longer acceptable to wait for IT to manually forge each connection. Instead, IT must work out how to allow business users to make their own connections.
+Why? Everything in (1) through (4) above starts to come together when business people are actually empowered to get the job done faster, better, for less effort. The computing brings information and actions to people in the context of their work, and they can use automation tools to help them do that work more efficiently. This used to be called business process management (BPM) but it was never as easy as today’s tools now make it.
+
+Dell Boomi wants you to go with the flow of the connected business
+How Workato combines headless workflow with serverless integration
+Guru puts sales and service ‘how-to’ answers just where people work
+Workday loses its head for Slack – also Facebook, Google, Microsoft
+
+(6) The struggle to embrace cloud
+I think most of these on-premise companies that really don’t have a distinct value proposition and a technical strategy to be able to help the customer enable the move from here to there, I think over the course of several years most of them go away. Gone. By definition.
+Why? Thus spoke Mark Hurd, CEO of Oracle, at the beginning of the year. The challenge for Oracle — and its arch rival SAP — is to make sure it’s one of the survivors. They’re both on the way, but who will get there fast enough?
+
+Oracle CEO Mark Hurd on the looming transformation of enterprise IT
+The five things SAP must do next to find success in the cloud
+Reminder – Oracle 18c is autonomous only if Oracle runs it for you
+It’s back on – SAP SuccessFactors HANA migration take 2
+Can Oracle realize its ambition to compete as a hyperscale cloud?
+Sapphire Now 2018 – SAP’s legacy licensing bows to an XaaS world
+
+(7) The cultural effort to digitally transform
+Five years Soviet-style planning models just will not survive the environment we’re in. Agility, innovation — life — is continuous. We have to move from project-based thinking to continuous thinking against progress, and that’s a huge challenge.
+Why? The standout takeaway from listening to enterprise accounts of digital transformation, such as Mastercard quoted here, is the importance of cultural change. This is not just a technology upgrade. The entire operational mindset of the organization that has to change.
+
+How TBM underpins agile at Mastercard and turns IT into an asset
+Former Coca-Cola CIO reveals the recipe for AWS transformation
+Digital transformation, with empathy – a change management view
+Digital transformation is for life, not just for go-live
+
+(8) A scandal in the middle office
+Having led the company to this point, Krappe is no longer there to realize whatever ambitions he may yet have harbored.
+Why? For several years, we’ve followed the fortunes of quote-to-cash vendor Apttus, culminating in its acquisition in September by private equity firm Thoma Bravo. What we didn’t know at the time was the backstory subsequently revealed by Business Insider. Without commenting on the specifics, I’ll just make this general point. I think hubris is an ever-constant risk for founders of fast-growing tech companies — it’s too easy to start believing that success is somehow innate. Perhaps this applies to other spheres too. Whether you’re a high-flying tech entrepreneur, a property magnate or a politician, there’s a fine line between self-belief and self-delusion. As we’ve seen from countless examples, if you lose your moral compass, you risk everything you’ve ever worked for.
+
+Apttus IPO dream ends in private equity buyout by Thoma Bravo
+Middle office is an enterprise platform too, says Apttus
+IBM, SAP and more are making a new play for the middle office
+
+(9) The customer is always right
+if you can clearly communicate that future vision statement, and see what’s possible, I think all the technical difficulties of sorting out the organization just fall into place.
+Why? At diginomica, we love customer stories because that’s how you learn the true impact of technology in the real world, for good or bad. I’ve already cited several customer viewpoints above — here are some more that stood out.
+
+Cloud Next 18 – HSBC to run business banking on Kubernetes in Google Cloud
+An inside view of the engineering Jet.com is bringing to Walmart
+How SuccessFactors supports HR’s pivotal role as Teva navigates change
+Pilot Flying J fills up on Salesforce to drive its customer journey
+
+(10) And finally, some words from our sponsors
+I’ve looked for patterns, and I’ve found that it’s the cultural, rather than technological, characteristics that help companies thrive in a digital transformation and execution of digital strategies.
+Why? As I did last year, I’ll finish with a short sample of the most popular posts contributed during the year by our partners, whose content we publish separately from but alongside our own independent content.
+
+6 steps to put HR on track for GDPR compliance with employee data
+Five digital culture characteristics every business needs to drive
+Forget AWS Lambda, so long Kubernetes – this is the future of serverless
+IDC reveals secrets of success and top KPIs in digital transformation
+CHRO study highlights the changing role of aspiring HR leaders in the digital era 
+Database popularity is skyrocketing – and this is why you should care! 
+
+Image credit - Freeimages.com/Julie Elliot-Abbshire Disclosure - Infor, Oracle, New Relic, Salesforce, SAP, ServiceNow and Workday are diginomica premier partners at time of writing. Google ,Oracle, Salesforce, SAP, Twilio and Workday have funded the author's travel to attend events during the year. Read more on: Collaboration sharing and digital productivityCRM and customer experienceDigital enterprise in the real worldFrictionless enterpriseFuture of workInfrastructureMachine intelligence and AI 

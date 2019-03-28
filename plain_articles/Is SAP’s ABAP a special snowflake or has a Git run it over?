@@ -1,0 +1,76 @@
+
+Every now and again, a public discussion emerges around the SAP developer ecosystem that becomes an important talking point that reverberates around the SAP community. The topic of #abapGit is one such. It raises questions about the future and relevance of SAP across multiple topic domains.
+A Royal Flush
+It all started when I made a remark on Twitter about diversity at SAP. A few back and forths later and Nigel James (one of the co-founders of SAP Inside Track) skilfully finessed that thread to say this:
+
+#abapgit is the biggest non sap led thing happening in SAP
+Cc @LarsHvam
+— Nigel James (@njames) June 23, 2018
+
+As Nigel correctly gambled, I bit the bullet, looked at abapGit (it’s on GitHub) and came back with:
+
+Earlier today I took a look at #abapgit. It is seriously good stuff. The tragedy is that VERY few @SAPMentors or others are committers in the context of the #SAP ecosystem. Shout out to @grahamrobbo for waving the flag as vigorously as possible. cc @njames for poking me on this.
+— (((Den Howlett))) (@dahowlett) June 28, 2018
+
+SAPapalooza – game on
+There then followed a spirited back and forth over a number of days and across 12 timezones. By any measure, that’s one heck of a conversation and gives you some idea of the passion that SAP technical topics stir.
+Nigel rounded this conversation out with a blog post on the SAP Community Network with the provocative title: ABAP – The Special Snowflake coupled with the rather snazzy graphic which I have stolen for the purposes of this story. His summary covers the topic well:
+
+
+ABAP has legacy tools
+ABAP has legacy culture
+It is stuck there and will never ever move
+ABAPGit is the best thing that happened to the ABAP ecosystem since ABAPUnit
+Adoption of both of these toolsets are woefully low (Please see point 2.)
+These are exactly the tools that we need to create CI/CD platforms for SAP landscapes.
+
+
+If you’re not part of the SAP ecosystem, this might sound Chinese to you and if you are then it’s pure SAPenese and you ‘get’ it. For the coders in the crowd – I urge you to check out Nigel’s excellent story. There is a vigorous technical debate which, while opaque to many business users provides valuable insights into the tensions that exist in the SAP environment.
+A break in proceedings
+I frequently get asked what I believe is the future of SAP. I don’t know any better than the next person. But these are a few things I do know and which I have observed over the years and which are directly relevant to where SAP finds itself today.
+ABAP was a brilliant invention by co-founder Hasso Plattner’s team in the days of R/2. That’s pre-1992 to you. It was brilliant because it provided developers with a relatively easy (if, by modern standards) verbose way of building applications around the SAP core. If you want the full history then check out this Wikipedia entry.
+A winning hand
+ABAP is only meant to work directly with SAP systems. This has the side effect of creating a closed – as opposed to open – development environment. It is, in my view, the primary technical mechanism by which SAP locks its customers into its own environment. At the time it was being popularized, there was no internet and there was very little by way of integration as an imperative. So that lock-in was not obvious or even that important.
+As we know, the client/server breakthrough that R/3 represented put SAP on a rocket ship path. It was THE enterprise unicorn of its time and today can lay claim to running 50-70% of the world’s production in some shape or form. Evidence of that may not be obvious to the casual buyer but you can bet that at ANY enterprise business conference, a good number of customers will also be SAP customers. As an example, at an event I attended this week, one customer talked about 200 SAP systems in their company’s ecosystem. They are, quite literally, everywhere.
+A fatal flaw
+The problem is that SAP’s massive advantage of the 90s and 00’s has suddenly become a liability. The rise of the internet as the primary transport over which we all get our ‘stuff,’ the emergence of cloud, the development of SaaS, the emergence of easy to use, open source platforms and, most recently, the explosion in API-based microservices fueling the XaaS economy has left SAP vulnerable.
+On the one hand, the closed nature of SAP systems continues to provide the company with an advantage and one that it has tried to leverage through the concept of ‘indirect access.’ We have debated that issue here many times and it is a topic that remains very close to buyers’ hearts.
+On the other hand, I cannot think of a single recent example where customers look forward to attempting to leverage SAP generated data – or processes – with or through non-SAP, open source or open platforms into 21st-century applications. It can be done after a fashion, which is kind of where abapGit is trying to play.
+The cultural melee
+But as Chris Paine pointed out:
+
+The combo of abap unit test, a branch based repo and then bringing in tools to manage automatic migration and testing could have the possibility to pull ABAP based development into the 21st century. But why hammer the round peg into square hole?
+— Chris Paine (@wombling) June 28, 2018
+
+Then there’s the culture issue. SAP has a long and to my mind sad history of what is jokingly called NIH or Not Invented Here. SAP believes its German engineering heritage is the best in the world. I beg to differ. But what it means is that when SAP views technology, it rarely buys what it doesn’t have but it goes into a huddle an emerges with – ‘we can build it better.’
+At one time that might have been valid for MRP and back office applications. Maybe even SAP’s forays into CRM. But it is absolutely not valid in the 21st century where we are seeing brilliant ideas around RPA, AI, blockchain etc coming out of the startup community.
+Names we didn’t know existed five years ago are becoming powerhouses in their own right. Yesterday I met a software robotics company that’s coming out of stealth with 8-figure revenues, profit on the balance sheet and an expected cap of $200 million plus in the next year. It didn’t exist five years ago.
+Not so hot
+Even in the hottest of topics – blockchain – SAP’s partnership with IBM which produced Hyperledger is limping along at a time when blockchain technologies are being gobbled up in POCs at numerous SAP customers. Again, I saw that first hand this week.
+The last 8-10 years, various leaders at SAP have attempted to embrace the open source community and, in fairness, SAP is committed to big projects like Cloud Foundry. Its flagship database HANA is based on open source. But as with all things SAP, appearances are not always reality.
+Or, to put this into technical perspective, check out this part of the conversation that Nigel distilled:
+
+It’s the whole management of different patch levels of the core runtime that becomes hard. Do you manage with different branches that get merged when that patch level gets to prod? And an image per branch?
+— Chris Paine (@wombling) July 1, 2018
+
+and then:
+
+No, really not. It’s a PITA, but every other platform in the world handles platform version changes and branches at the same time. Once you have code decoupled from the runtime, then developing and testing on a new patch level is easy peasy.
+— Ethan Jewett (@esjewett) July 2, 2018
+
+The Special Snowflake
+and finally…
+
+I have to agree with @BoobBoo. The level to which many ABAPers are convinced that what they are doing is a special snowflake is astounding. Way beyond what I see on other platforms. I think SAP has to take some of the credit for that culture.
+— Ethan Jewett (@esjewett) June 29, 2018
+
+All of which brings me back to where I started.
+The final hand
+The technical topics that commenters made above will be solved – one way or the other. But I think this conversation is noteworthy on two counts:
+
+All of those involved are or were SAP Mentors which means that in the eyes of SAP, they represent the very best of what can be achieved in the SAP world.
+As the best, they have eyes wide open and see the issues. the frustration of some is palpable.
+
+While they won’t say it, I will. Those of us who have lived and worked in and or around SAP have a special affinity for a company that has been wildly successful and can still count on having a brilliant technical founder with whom we can not only chew the fat but enjoy valuable discussions. But – that won’t buy the goodwill of customers who want much simpler and productive solutions. If ABAP is holding them up then it only makes commercial sense to work around SAP.
+And that is where the real risk lays because when viewed through that lens, SAP becomes irrelevant.
+Image credit - Photo by Aaron Burden on Unsplash and via Nigel JamesDisclosure - SAP is a premier partner at the time of writingRead more on: DevOps NoSQL and the open source stackOpen source 

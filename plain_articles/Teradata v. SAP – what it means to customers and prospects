@@ -1,0 +1,130 @@
+
+Let’s be very clear up front. We’re not taking any position as it relates to the litigation. This story is solely concerned with matters that will be of interest to SAP customers and prospective customers.
+The background
+Recently, Teradata filed a lawsuit against ERP vendor SAP.  The suit alleges, among other things that SAP:
+
+“used its powerful position in Enterprise Resource Planning (“ERP”) Applications to gain entrance to and quickly grab market share in the Enterprise Data Analytics and Warehousing (“EDAW”) market”
+“SAP promptly terminated the parties’ joint venture, and it is now attempting to coerce its customers into using HANA only, to the exclusion of Teradata, by forcing its customers to adopt HANA in exchange for upgrading their ERP Applications.”
+“SAP could not have so quickly developed and marketed HANA in the first place without its theft of Teradata’s trade secrets.”
+“SAP’s anticompetitive strategy has resulted in irreparable and ongoing harm to Teradata in the form of lost customer relationships and opportunities, lost profits, and continued erosion of market share in the very industry Teradata pioneered.”
+
+Teradata wants an injunction, monetary damages and other relief.
+As we said at the top of this story, we will not argue the merits of the case as SAP has yet to file a counter compliant. SAP did make this comment:
+Teradata has been aware of the allegations made by a former SAP employee for some time now. SAP offered to discuss and address these allegations with Teradata in 2015. Unfortunately, Teradata did not accept this offer and instead chose to file a lawsuit over 2 years later.  While SAP remains willing to discuss Teradata’s stated concerns, it will vigorously defend itself.  The filing of this lawsuit does not impact SAP’s ability to continue to deliver value to all of its customers, including SAP HANA customers.
+One former SAP executive, Vishal Sikka, has commented on this and his remarks can be found in this Business Today article.
+Slamming the charges, Sikka in an emailed statement to PTI said: “Although this lawsuit is not directed at me, I categorically deny the baseless and outrageous allegations made by Teradata that attempt to diminish the hard work, passion, and the irrefutable and fully legitimate achievements by the Hana team, including myself.
+What this article will address are the possible actions relating to pursuing a case of this magnitude and the implications of these actions might have on SAP customers and prospects.
+The potential timeline
+Litigation is an occupational hazard for corporations. The bigger your firm gets, the more likely it will attract big lawsuits. A company will even attract more suits if it behaves in a reckless manner.  When one big firm sues another big firm, the legal warfare can reach epic levels. Since each side has the funds to fight a protracted case and hire top-flight attorneys, the case can get drug out for years.
+Since both Teradata and SAP are large firms, readers shouldn’t necessarily expect a rapid cessation of litigation. (Teradata has annual revenues of approx. $2.2 billion and SAP has annual revenue of approx. $27.3 billion.)
+What could happen in a case of this size, should it go to trial, is. There’s a lot of ifs, buts and maybes but this provides a flavor of what you can expect:
+
+The defendant will file a counter complaint/countersuit or request summary judgment to dismiss
+There will be a response to the original complaint
+Each side will file motions, including motions to dismiss
+A lengthy discovery process could be triggered
+Both sides may need substantial amounts of time to review the discovered documents
+Depositions of employees, customers, executives, experts, etc. will need to be scheduled and conducted
+Expert witnesses will need to be hired
+More motions may get filed (e.g., Daubert motion to challenge an expert witness)
+Settlement conferences may be conducted, although they may not be productive
+Both sides may press for a courtroom trial
+Post-trial, one or both sides might appeal a decision/award. Many appeals are possible.
+One side might press for a re-trial if they believe there have been errors in the earlier trial
+
+That process flow is the LONG path to a decision. There are shortcuts should both sides want to afford themselves of the options at each step. One of these could include an early settlement. Such a settlement might involve licensing of patents, cross-licensing of each firm’s patents, a financial payment, etc.
+To better understand the timeline that could occur, one should look at cases like:
+
+Oracle v. SAP AG (original complaint here) That case was launched in 2007 (two years after SAP bought TomorrowNow), went to trial in 2010, and, finally ended in 2014.
+Apple Inc. v. Samsung Electronics Co. (find amended complaint here). This case was filed in 2011 and then pursued in dozens of countries globally.)
+United States v. Microsoft (1998-2001)
+
+How big can these cases get? CNET reported that in the Department of Justice v. IBM case:
+
+
+974 witnesses were called
+104,400 pages of transcripts were completed
+200 attorneys were retained
+13 year investigation initiated
+
+
+Bottom line: this could take a (long) while
+Why customers, prospects and partners should care re: Teradata v. SAP
+This case, if the complaint has merit, puts doubts as to the legitimacy of the HANA environment and it comes at a time when SAP is ramping up sales and upgrade activities re: S/4HANA, HANA Cloud Platform, C/4 HANA and other applications.  This case could also slow down deals and/or upgrades from ECC and R/3 to S/4HANA applications. Most of all, it could provide a window of opportunity for SAP’s competitors to sow FUD (fear, uncertainty and doubt) in the market for buyers of modern ERP products.
+UpperEdge identified three concerns this lawsuit surfaces:
+
+Current users of the SAP HANA BW database that are now currently at risk of having to dispose of their existing software.
+Potential future SAP customers who will have a legitimate reason to delay upgrades until the issues associated with product tying are resolved.
+Investors who now have reason to doubt SAP’s growth strategies and profit projections and concerns regarding potential damages associated with the lawsuit.
+
+How important is HANA to SAP? A glance at this screen shot from SAP’s product page shows HANA to be key to several solutions.
+
+Image source: https://www.sap.com/products.html
+Potential customers of S/4HANA applications or custom HANA apps may seek indemnification from SAP for infringement claims by Teradata. Prospects may want more than the usual indemnification language found in a software agreement or the language that their procurement department insists is added to a contract.  Indemnification may also need to cover the costs a customer might incur if it must replace HANA with Teradata products or pay a license to Teradata. In some rare cases, customer might want to peruse their own worded contracts to ensure they have included indemnification rights.
+Teradata could win an injunction that halts sales of HANA-based products. That could have an adverse effect on customers, resellers and systems integrators. It could also impact hosting firms that are providing hosting and/or application maintenance service to S/4 HANA customers.
+Prior Art
+This case may not be a slam dunk for either party. While the original complaint by Teradata makes for interesting reading, readers should note that SAP may possess a lot of prior art on its own. Besides its own HANA development efforts, remember that SAP acquired:
+
+BusinessObjects (2007)
+Sybase (2010)
+Coghead (2009)
+Right Hemisphere (2011)
+Roambi (2016)
+Altiscale (2016)
+
+Within some of those deals, there may be patents, products and other prior art that could bolster SAP’s case. The Sybase and Altiscale deals may be very important in this matter. Readers should see this Sybase piece in Wikipedia, especially the Timeline section, for insights into the products and relevancy. Also of importance may be SAP’s TREX tool that was “written in 1998 and TREX became an SAP component in 2000”. It searched columnar data.
+I also have a copy of SAP co-founder Dr. Hasso Plattner’s book “In-Memory Data Management” (copyright 2011). My discussions with Hasso re: in-memory databases go back to the 2005-7 timeframe.  He, personally, is especially knowledgeable on such matters.
+And some prior art that may be relevant may turn out to rest with the commons under an open source software licence. Readers might want to review this SlideShare presentation on massively parallel processing databases to see some examples.
+This case could get interesting as each party tries to prove their prior art was the first with the contested ideas.
+Teradata needs a win
+I reviewed the financial condition of both firms. Teradata will want to win this case. A quick glance of Teradata’s financial fortunes provides a window into this aspect. Teradata’s revenues have declined and operating income has declined even more steeply in recent years.
+According to Yahoo Finance, we see these Teradata financial results (amounts in 000s USD):
+
+
+
+FY Ending
+12/31/2017
+12/31/2016
+12/31/2015
+12/31/2014
+
+
+Total Revenue
+2,156,000
+2,322,000
+2,530,000
+2,732,000
+
+
+Operating Income or Loss
+70,000
+321,000
+294,000
+508,000
+
+
+
+ 
+SAP’s numbers are many times larger and growing.
+Possible paths forward
+Down the road, we could see:
+
+Litigation to the bitter end – Either (or both) party could choose to fight this for as long as possible. A war of attrition could trigger one side to reluctantly give in but the resultant publicity a long process could trigger could hurt both firms. This is a common approach to wear down or dissuade financially challenged litigants or litigants that are just looking for a settlement.
+Quick settlement or licensing deal to make the matter go away – This approach could mitigate PR damage and/or help prevent any impact on sales (especially for SAP).
+Countersue – SAP could countersue Teradata. Doing so helps SAP get its side of the story out to the market and help blunt some of the claims alleged in the Teradata complaint. A countersuit could also move both parties closer to a reasonable, early settlement.
+Cross-license or license patents – The parties could agree to cross-license each other’s patents and drop the litigation.
+Litigate globally – Either side could decide to take the matter to other courts in other countries. This type of venue shopping could trigger different decisions over time. This adds time and cost to the equation.
+Rewrite objectionable code/logic – This approach would require SAP to re-do any potentially offending parts of the HANA related products. It wouldn’t necessarily end the litigation but could help take some of the economic sting out of the suit.
+Injunction – Teradata could get a judge to block sales of HANA-related products for a period of time (or indefinitely).
+Case dismissed – The case could get tossed due to any number of reasons.
+Etc.
+
+Regardless of the path or the outcome, one thing is certain: the attorneys will be the winners. Competitors of SAP may use this case as an opportunity to sow FUD (i.e., Fear, Uncertainty and Doubt) in the minds of potential SAP software buyers.
+For Now…
+SAP customers and prospects will need to wait until SAP responds to this suit beyond their statement at the beginning of this piece. No one should assume anything about either firm’s case or merits until more is known.
+Customers will need to watch as this litigation progresses. While the whole affair could be much ado about nothing, it still may require customers and prospects to take additional precautions.
+See also: 
+This TechTarget story
+This Corevist story – Note: The Corevist piece has a link to read the original complaint filed by Teradata
+This UpperEdge piece
+Image credit - via Brian Johnson, FotoliaDisclosure - SAP is a premier partner at the time of writingRead more on: Cloud ERP financials and supply chainOpen source 

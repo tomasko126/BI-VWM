@@ -1,0 +1,46 @@
+
+IT automation vendor Chef Software believes the adoption of devops culture and tools provides an opportunity to fundamentally transform how enterprise IT operates. At a recent meeting in London, the company’s EMEA general manager Justin Arbuckle set out three ways in which that transformation will play out:
+
+Automated processes will slash compliance delays and risks
+Big bang projects will be replaced by smaller, incremental ones
+Traditional systems of record that cannot operate at high velocity will be abandoned
+
+In this follow-up to my earlier post on Chef’s plans to enable continuous delivery of iterative change across the entire IT stack, here’s what Arbuckle, who was formerly chief architect at global finance powerhouse GE Capital, told me about these three predictions for the impending future of enterprise IT.
+1. Software eats compliance
+If you’re delivering new software at speed, what’s the next hurdle? In many organizations, it’s compliance. Before an application can roll out, it has to go through a separate, long-winded and largely hands-on process to review and check it for regulatory compliance. Problems that surface at this late stage often put the application back into development for reworking or can even lead to a project being canned. As Arbuckle explained:
+Before you’re really able to deploy, because you’re unable to test for compliance at build time, you can only really validate it at runtime — which if you’re a risk-averse organization is high-risk. So you don’t let your applications go out until you’ve literally done them soup-to-nuts in terms of overview.
+It’s now possible, believes Chef, to take the same approach to compliance that has been used to dramatically speed the deployment of new IT systems in cloud datacenters. Instead of slowing down application delivery by making it go through all those endless paper trails, laborious review processes and multiple sign-offs that spread over days, weeks or even months, why not bring compliance into the same high-velocity, software-automated build pipeline?
+Automated deployment has been proven to work for infrastructure, server runtimes and applications. Now it’s the turn of regulatory compliance to be expressed in code, Arbuckle believes.
+In that world where you have a high-velocity pipeline that’s able to deliver changes, you need to have a robust process. What if you also had a method whereby you could take a particular regulation and translate it into some formal language?
+This is becoming a necessity in industries such as financial services, he believes, because the rules are growing in number and complexity and changing so frequently that conventional compliance processes can no longer keep up. Coupled with massive competitive challenges from a wave of digital innovators invading their markets, incumbents have to find a way to manage both change and compliance at high speed.
+My contention would be, I don’t think it’s possible to be a highly compliant organisation if you are not high velocity.
+Arbuckle admits this is a novel proposition — compliance is more often cited as a reason for delay than for speed — but points out that it has only recently become feasible thanks to the emergence of new, systematized approaches to building and delivering software from the devops world in which Chef made its name.
+What you see is, for the first time, I think, high-velocity organizations can be high-compliance organisations.
+If you’d challenged me with that maybe a year ago, I would have said you were probably crazy. The practice that is inherent in the actual software build process [of a continuous delivery pipeline] fundamentally changes the game.
+Now it’s not about just buggering about with widgets, it’s about creating a process that enables the management of features, and some of those features are compliance.
+The compliance pressures that organizations face today in many industries will create ready demand for this approach, he believes.
+It’s amazing the amount of risk there is out there for officers of companies. So this is definitely the place that we see a huge opportunity within the enterprise market, certainly within EMEA but also globally.
+2. Bye bye, big bangs
+Justin Arbuckle, Chef
+Part and parcel of a high-velocity approach to software build and delivery is a more bite-sized approach to development — one that typically first penetrates an enterprise in one or two projects but gradually becomes pervasive over time. That’s in stark contrast to the traditional, top-down approach to enterprise application roll-outs, said Arbuckle.
+These large technology transformation projects are often driven from the center in that way. They are so big that even though they all talk about, there is no such thing as a big bang, we all know it’s essentially done all in one go. Probably in the case of an SAP implementation, 300 people in a large enterprise suddenly just get taken out of their day jobs, just to focus on that. We are not talking about that.
+In general you put together a small team and you pick a project with a specific scope and a specific clear outcome — something that is non-trivial but also non-mission-critical. Do that, and you begin to learn what it feels like, and the organization begins to see what it feels like. Some of the organizational politics that you begin to experience around, how do you manage to get resources from across business domains, that all begins to be increasingly important. You learn it that way and you begin to scale, one project at a time.
+Eventually the organization reaches a tipping point where the numbers of people working on these projects forces a re-evaluation of the entire IT function, he said.
+It’s what we call the operating chasm. At some point, the scale of high-velocity devops transformation projects becomes such that it begins to eat into the main rump of the enterprise. Where you’ve now got, let’s say, forty percent of your nodes running in this new way, you’ve got a bunch of applications, you’ve got 400 people working on it in a 2000-person-IT company, you begin to start asking questions about the structure of how the core department works.
+3. From 2-speed to high-speed
+The final transformation will see the gradual shelving of older systems that can’t adapt fast enough. Arbuckle rejects the notion of 2-speed IT as a persistent state in which high-velocity systems of engagement coexist alongside slower-paced systems of record.
+What we know is going to happen, given previous experience, [is that] this newer, faster moving technology slowly begins to transform how [enterprises] think about their core technologies.
+What we’re going to see businesses do over the next five to seven years is transform all of their core business assets into high-speed assets.
+My understanding is that most of the narrative around 2-speed IT is essentially based on the untransformability, or at least the ill-advisedness of transforming all of the assets in your business. I disagree with that. I think the market will make it clear that that’s not sustainable.
+Enterprises will use the bite-sized approach to redevelop their capabilities one step at a time until there’s nothing left of the core system, he predicted.
+The key message is, the transformation happens a piece at a time, and over time we will see more and more of those pieces happen in sequence and in parallel as organisations begin to scale those smaller projects across their enterprise.
+Once you start seeing serious commitment to this across enterprises, you’ll start to see some of those traditional IT systems that have been slow to transform, that are being referred to as systems of record, you will begin to see those being replaced by newer systems. Because as the transformation happens, greater skill builds up within the enterprise.
+My take
+Why can’t compliance be configured from a checklist of pre-tested options, the same way we’ve done for every other aspect of software delivered from the cloud? It’s never been done that way before, but then we’ve never before had the capability. It’s just another example of digital transformation eating into areas of activity in ways that were simply inconceivable a few years ago.
+The key learning of the adoption of infrastructure as code is that, if you succeed in automating a previously long-winded process to the extent that it becomes instantly repeatable, you not only save money and effort, you can also innovate much more easily.
+Now the folk at Chef are applying that same learning to compliance, and the impact will be far-reaching.
+There’s a tendency to look at concepts such as devops and infrastructure-as-code simply as tools for achieving greater operational efficiency. It’s been the same story with cloud computing. But the bigger picture is what they then make possible. Rather than enhancing the existing structures, they can inspire entirely new forms of operation and ways of working.
+Disclosure: SAP is a diginomica premier partner.
+Image credits Man with head in hands and flying papers © microworks – Fotolia.com. Headshot by Chef Software.
+
+Read more on: Cloud ERP financials and supply chain 

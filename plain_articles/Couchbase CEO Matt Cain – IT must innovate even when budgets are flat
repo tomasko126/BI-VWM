@@ -1,0 +1,48 @@
+
+Matt Cain, CEO Couchbase
+The best thing about the event season is the surprises. I didn’t expect my week of events with Couchbase and Talend to be highlights of the season, but they were.
+That’s because I saw compelling examples of how IT can disrupt itself from within, without expensive overhauls or pinning hopes to premature tech promises like blockchain.
+As I wrote in How TD Bank avoided data swamps and built their digital engine with Talend:
+The Talend Connect 18 keynotes pushed a heady new phase in next-gen applications, where portable/cleansed data (via Talend) and portable apps (via containers and orchestration a la Docker and Kubernetes) allows IT shops to avoid futile fundraising by moving from (expensive) legacy IT to cost-effective, modern infrastructures.
+Docker CEO Steve Singh, who was a guest keynoter at the Talend Connect show, doubled down on a similar vision during our interview, citing customer proof points:
+What we’re seeing at companies like MetLife or Northern Trust is they’re taking their app and infrastructure management cost, and cutting it in half. Let’s say that you can cut 50 million dollars out of your app and infrastructure management cost, which by the way, some of our customers are at. That’s 50 million dollars you can go spend on innovation. That’s not going to the CEO and saying look, I need another hundred million dollars in my budget. That’s freeing up 50-100 million dollars of your existing budget.
+I went on to write:
+Here’s the interesting part: the buzzword overdose of AI, ML, IoT and blockchain aren’t really the driving forces here – though perhaps automation is.
+That doesn’t mean this fund-your-own-innovation approach is without tech hype:
+There are some buzzwords in play, however – ones that executives preoccupied with customer outcomes probably find way too techno-geeky. Yes, this vision is about container orchestration, microservices and app portability. That means portability of data (Talend‘s focus) and portability of services/infrastructure (Docker‘s focus).
+How does Couchbase fit into the next-gen apps mix?
+And yeah, there’s loads of Kubernetes and serverless talk in this mix – not to mention DevOps. So how does Couchbase fit in?
+It’s about shifting legacy IT investments into a DevOps-style delivery. That “continuous delivery” framework then becomes the platform for next-gen apps (Couchbase and other NoSQL players enter here, arguing you need a cheaper/faster/different type of database to build these apps on).
+This is not just about cost savings and doing it on the DevOps/open source cheap. As my colleague Derek du Preez documented in Centrica adopts Couchbase to give field engineers full view of customer data, Centrica chose NoSQL over relational databases for a business reason. It’s about better apps with better performance. As Centrica’s Alan Fairhurst said:
+It wouldn’t have given us the performance we needed. There are 16 million records. It needed to be very responsive from an app. The initial offering that we gave was an iOS app, which we called the Customer Information App. It needed to be very responsive, so when someone put in a postcode or customer details, they got a response back immediately. Couchbase was there for speed.
+Vendors like Couchbase, Talend, and Docker are speaking more confidently than ever about a vision of modern architecture, IT cost reduction, and shifting legacy investments into something better. One key ingredient? The ability to start small, but with big scale in mind. As I wrote in How BD Digital Health built a smart diabetes app on their own platform with Couchbase:
+
+A core goal is using that shifting IT budget to build out apps that matter… What isn’t negotiable in this vision is a platform. You might start small and go for a quick win, but you want the process to be “repeatable and scalable,” as the cool kids put it.
+The key is that IT operational efficiencies aren’t enough. There has to be a “digital engine” constructed in the process, one that delivers insights to users and apps to customers – without a multi-year, rip-and-replace bog pit overhaul.
+
+Reconciling flat IT budgets and the pressure to innovate
+But Couchbase wouldn’t call this trend fund-your-own-innovation. Their preferred tagline is “start your Couchbase revolution,” or the short version, “revolutionaries wanted.” At Couchbase Connect in May, I asked Couchbase CEO Matt Cain about this trend of reinventing IT from within. To be fair to Couchbase, the core of their pitch is their positioning as an “engagement database.” In other words, they want to reach beyond an IT-centric view. Their emphasis: a platform that brings their customers closer to their customers.
+Du Preez covered that off in Couchbase CEO on the balancing act of creating an engagement database that caters to all. Basically, Derek scooped me. Hey, it happens, tip of the cap. So I didn’t write up my Cain talk right away. But now, as I’m following this through, it’s a good time to revisit. And yes, Cain does see the same dynamics. In his view, that’s one plank in the Couchbase value prop: reduction in IT cost of ownership. Cain:
+
+I could go into a lot of statistics, but you’re absolutely right. The demands of technology teams within enterprises are higher than they’ve ever been and they continue to increase. If you just look at data growth alone, average enterprises are seeing a doubling of data, yet IT budgets and IT organizations are flat to down.
+Those two things don’t reconcile. So you do have to come up with new approaches.
+
+So what is Couchbase doing to help customers fund next-gen projects?
+We can get at workloads at a fraction of the cost with higher performance. So that is reducing both capital and operating spend with environments that are up and running, and improving them at the same time.
+Cain believes Couchbase works well in the context of an existing DevOps approach:
+When you then get into the areas of DevOps and architecture and, you know, operations teams, this is where the efficiency of our platform and architecture and the operating tools that we surround that with comes into play.
+Bridging the NoSQL skills gap
+Cain brought up a vital point that I should have spent more time on: bridging the skills gap. Too often, next-gen IT projects are held up by a lack of available/affordable talent. That’s certainly the case in data science and machine learning. Cain believes Couchbase’s investment in their N1QL programming language gives IT reinventions a big head start (N1QL uses a SQL-like query language). Cain:
+How do we ensure that the migration to a new platform is possible, while minimizing the cost of change to that very platform… You take all of the goodness of SQL, and combine that with the power of our document-oriented database, you’re benefiting in the area that you need, but you’re not asking developers to relearn a query language. So you’re saving operating expense for the developers.
+In du Preez’s Centrica use case, he shared Centrica’s advice that N1QL is still an area to plan for:
+Make sure you get your training in place to really understand not only what you can get from Couchbase, but also how to use N1QL. When is the right time to use technology like Couchbase.
+I’ve heard from several customers that N1QL has helped them hit the ground running. The most recent example? How ClearCaptions conquered data obstacles to bring help to the hearing impaired.
+
+N1QL clinched it. It was the ability to just give this to the development team and say, “Hey, look. You can do a query just like you can with SQL Server.” It looks almost exactly the same… Different data model underneath. But you don’t need to know that really.
+
+We’re still learning about the extent that microservices, Kubernetes, and serverless concepts will transform IT from a results angle. Both Talend and Couchbase made the expected Kubernetes-related announcements, but here, I don’t yet have customer proof points from my own digging at these shows. For now, I’ll give Cain the last word:
+
+As you point out, building next-generation applications from the back office is where you start to increase your top line. That’s where the platform becomes very strategic, and why we have so many customers that are willing to talk about it.
+
+That’s one offer I won’t refuse.
+Image credit - Photo of Matt Cain by Jon Reed, taken at prior Couchbase Connect event.Disclosure - Couchbase paid the bulk of my expenses to attend Couchbase Connect 2018 in New York City.Read more on: Analytics planning and data analysisDevOps NoSQL and the open source stackNoSQLThe new professional and IT as a service 

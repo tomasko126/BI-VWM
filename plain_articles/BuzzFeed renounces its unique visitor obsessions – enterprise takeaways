@@ -1,0 +1,65 @@
+
+Despite its viral/listicle preoccupations, BuzzFeed remains a digital media bellweather. So when BuzzFeed announces it’s shifting away from unique visitors as the binding metric, it’s worth asking: why?
+In my recent post, Content strategy takes a big shift – why I was wrong, I explained why great web content no longer flies without other attributes (UX, distribution, engagement). I elaborated on the impact of UX on content here.
+One big factor: the receding dominance of the web page – particularly the trusty home page. Audiences now consume content wherever they see fit, causing all kinds of analytics and business model conundrums.
+Why the unique visitor obsession is becoming outdated
+And that’s exactly what BuzzFeed and other media outlets are grappling with. Traditional approaches to measuring web traffic are suddenly limited. We need a better handle on:
+
+How content sparks social interaction and engagement.
+The best ways to measure consumption across web properties, many of which we do not own or have back end access to.
+How to best use multi-media, and properly measure its ROI.
+
+For enterprises using media to earn vertical audiences, I’ll add two more:
+
+How to connect content to lead conversion, especially when that content is posted on external sites where lead conversion events are harder to trigger and track.
+How to foster (and monitor) community interaction across networks, as constituents spend less time engaging on our web properties.
+
+Which brings us to BuzzFeed. As Wired recently noted, BuzzFeed is changing the way it measures popularity. Re/code took a more cynical view in BuzzFeed Wants to Use a New Measuring Stick to Tell You How Big BuzzFeed Is, noting that Buzzfeed’s shift from unique visitors as its core metric has uncanny timing: BuzzFeed’s own unique visitor counts have flatlined.
+This graphic from Buzzfeed tells the story:
+
+Graphic from Buzzfeed
+What you don’t see from this chart: BuzzFeed.com’s unique visitors are flatlined in the 75 to 80 million per month range. In BuzzFeed’s own blog, Dao Nguyen discloses that the total monthly global reach is closer to 400 million.
+What accounts for the difference? BuzzFeed now publishes on over thirty platforms in 11 countries and seven languages. Platforms include everything from Facebook Instant articles to Facebook videos, Instagram posts, and Snapchat.
+The problem of validating analytics across platforms
+Validating analytics across those platforms is an issue. Nguyen explains that UVs (unique visitors) are “decreasingly relevant.” The internal UV numbers they measure with Adobe and Google Analytics only count unique browsers of their web site, along with mobile apps and Facebook Instant Articles. comScore, which provides validated analytics numbers, measures those numbers within the U.S., along with desktop YouTube viewers.
+But comScore doesn’t measure mobile YouTube viewers (half of BuzzFeed’s YouTube views are on mobile). Nor does comScore measure who watches BuzzFeed videos and comics on Facebook, Snapchat Discover, Instagram, Yahoo, Tumblr, and Vine. Visitors who use BuzzFeed’s website and mobile apps outside the U.S. aren’t factored into comScore’s 80 million UV total for BuzzFeed either.
+So how did BuzzFeed come up with the 400 million total global monthly number? Nguyen:
+We estimate that our current comScore metric of about 80 million UVs represents less than one-fifth of our actual global reach, based on ad hoc data provided by partners.
+I wonder how BuzzFeed’s advertisers feel about these global “ad hoc” numbers, versus the firmer numbers unique visitors used to provide. Peter Kafka of re/code raised the same question:
+As many more publishers focus on audience and views beyond the properties they own, my hunch is you’ll hear other big publishers asking people not to focus on UVs, either. So the real question is whether advertisers and investors and potential acquirers will play along.
+New metrics emphasize engagement, subscription, and attention
+So now that BuzzFeed is moving beyond “one metric to rule them all,” what is it trying to measure? Nguyen cites these:
+
+Content views – defined as views of BuzzFeed content (videos, articles, lists, illustrations) “regardless of the platform on which it lives.” BuzzFeed excludes home page views, feed views or “impressions of link promos on social networks” from this content view metric.
+Time spent versus total views – BuzzFeed also looks at “time spent,” a particularly useful metric for video consumption. They also compare time spent versus total views for each platform. This can raise interesting questions, such as: why is the “time spent” versus “total views” metric better on the BuzzFeed site than on other platforms? (BuzzFeed’s own site still does better on the “time spent” side, probably because visitors are moving from one BuzzFeed story to the next rather than clicking on a friend’s baby picture). The time spent stat also addresses a video analytics issue: Facebook, YouTube, and Snapchat all track video views in different ways. Nguyen says that “Hopefully though, they count minutes in the same way.”
+Subscriptions – Note BuzzFeed’s subscriber definition: “We define subscribers as people who have taken an action to show an interest in the BuzzFeed brand, such as people who use our mobile apps, sign up for our newsletters, visit our homepage, or follow our social feeds. This helps us understand different affinities and how they are growing.” For enterprises, all subscribers aren’t created equal – more on that shortly.
+Engagement – BuzzFeed dragged its heels on acknowledging the value of “engagement” stats, but is now changing tunes. Engagement, which BuzzFeed defines as shares, hearts, comments, likes, repins, and so on, is a stat that matters in enterprise settings also. Nguyen offers a weak excuse for why they didn’t weight engagement stats in the past, but the point is they are changing now.
+
+Other digital media giants are changing metrics too
+BuzzFeed is not the only media outlet grappling with which data to measure. The Reuters Institute for the Study of Journalism recently issued a monster report, Editorial analytics: how news media are developing and using audience data and metrics. It’s a treasure trove on how publications are transitioning to digital, structuring their editorial and social media teams, and so on.
+In the editorial analytics section, the authors summarize over thirty interviews on analytics and audience development. Note the move away from UVs and page views as the decisive metrics:
+We see how old metrics like pageviews and unique browsers are increasingly accompanied by new measures of social interactions, engaged time, and loyalty, and how new tools like chartbeat, Parse.ly, and NewsWhip, which aim to help specifically editorial decision-making, supplement more generic tools like Omniture, Google Analytics, Facebook Insights, and the like.
+Check this salient point about content volume:
+We examine how short-term optimisation of websites on the basis of article placement and testing of headlines and photos is increasingly combined with a broader effort to extend the shelf-life and distributed reach of quality content and with longer term analysis aimed at developing loyal and engaged audiences and doing smarter, more timely, and more effective journalism.
+For enterprise publishers, the need for content quality over pure volume is better understood. But mass media publishers are learning the hard way that a content mill governed by SEO keyword servitude no longer works. Note the phrase “quality content” above. Even mass media is learning that quality combined with kickass distribution/social engagement has supplanted cranking out web site filler with the hopes of an exponential search benefit. Yes, junk content is still created, but usually with the hopes of social virality, not search optimization.
+The Guardian’s advertising model still emphasizes global reach, whereas the Financial Times is focused on converting visitors to subscribers. That means the Financial Times (FT) has an imperative to reach the “right audiences.” The FT approach is closer to enterprise publishers:
+The Financial Times’ audience engagement strategy has as its basic aim growing the reach and impact of FT journalism, driving quality traffic to the website, and growing engagement on and offsite. This traffic, in turn, can potentially be converted into FT subscribers. the aim is to achieve this by transforming the newsroom and the reporters into audience-first journalists.
+“Quality traffic” is a phrase loaded with implications for how content is produced, distributed and measured. Too many marketers still think trending on Twitter actually matters. Sometimes it does; often, the right audience is not being reached.
+Final thoughts – enterprise nuances
+Whether advertisers will support these new metrics remains to be seen – especially where numbers are more difficult to validate.
+The Reuters report noted problems that enterprise marketers also struggle with:
+
+
+In most cases, it is very hard to link users to specific demographics (unless a site requires registration and can verify information entered by registered users).
+It is hard to integrate metrics not only across different digital channels (website, app, thirdparty platforms), but also with offline media (print, broadcast, etc.).
+
+
+A third problem, which we know all too well: better metrics might not lead to better decisions. Using the data to get a better result is hardly a given.
+Enterprises can improve their demographic know-how through sign-up content, something most pure media sites don’t do a good job with. BuzzFeed tracks “total views” for advertisers, whereas total views is not a super-helpful metric for enterprises – unless they can also measure a corresponding action, such as event sign ups, and attribute it back to campaigns, or influencers who generated actions via sharing.
+
+“We reached a ton of people” – feels good but means little.
+“We reached the right people” – a big deal, and MUCH harder to measure.
+“We reached the right people – and they took action” – the enterprise marketer’s holy grail.
+
+For enterprises, all subscriptions are not created equal. We might find that 1 in 20 email subscribers becomes a customer, whereas only one in 250 Twitter followers do, or one in 500 Facebook likes. That number impacts content/distribution investments. That’s why these benchmarks are only a sample, not a firm guide. Try, tweak, and adapt. Companies should define their own return on content, but there is much to learn from these new reports.
+Image credit - Male hand knocking down a line of domino with the first one hold © Gajus - Fotolia.comRead more on: Analytics planning and data analysisContent marketingDigital and content marketing 

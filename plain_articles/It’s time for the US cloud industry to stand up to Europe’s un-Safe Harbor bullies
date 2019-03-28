@@ -1,0 +1,46 @@
+
+Time to speak up
+The European Court of Justice (ECJ) is shaping up to be a major thorn in the side of the largely US-dominated cloud industry.
+Next Tuesday it’s likely to deliver its verdict on an opinion published this week by the Yves Bot, Advocate General of the court, which essentially decided that the Safe Harbor agreement, put in place to allow US firms to handle and host European Union (EU) data outside the borders of the region, is in fact completely not safe.
+If the ECJ backs this line of thinking on Tuesday, and it seems almost certain to do so, then that’s going to create an immediate potential crisis for US cloud services firms trying to do business within the EU.
+The opinion was issued based on a case against Facebook brought in Ireland, where the firm and many other cloud services providers have European headquarters, and was triggered by the Snowden revelations about the NSA spying on global communications.
+But it would also impact on firms such as Salesforce, Oracle and NetSuite which have significant skin in the game in pushing into Europe. Salesforce and Oracle already have in-region data centers which are intended to address data hosting concerns, while NetSuite is expected to confirm its opening of one next week.
+(Ironically NetSuite will be hosting a big cloud event in London just as the ECJ is expected to deliver its ruling. Take this as a clue to one line of questions, guys!).
+On Thursday, the US authorities laid their anger on the line, warning of damage to trade between the US and the EU if the court backs the un-Safe Harbor idea.
+In a statement, the US Mission to the EU said that Bot’s opinion doesn’t take account of efforts in the US to beef up protection and to add additional weight to the 15 year old Safe Harbor rules:
+We hope that the final judgment of the European Court of Justice takes note of these efforts, inaccuracies in and far-reaching consequences of the Advocate General’s opinion, as well as the significant harm to the protection of individual rights and the free flow of information that would occur if it were to follow the Advocate General’s opinion.
+It adds:
+The [Safe Harbor] framework was conceived as a living document, and this is not the first time the two sides have engaged to improve its operation. On both sides, there has been a strong desire to make sure that we improve the framework, and these efforts should be encouraged.
+Time to speak up
+To date the big cloud services players have kept their counsel on this matter, almost as though they’re all eyeing one another up to see who’s ready to take the lead and risk incurring the wrath of those in Brussels who would welcome such a ruling as another piece of ill-thought-out back-door protectionism for European companies.
+Plus they’ve all seen with Google and Microsoft what happens when you annoy the European Commission.
+As such, not a peep so far out of Oracle, Google, Salesforce et al. Whether they can maintain their silence after Tuesday is another matter. We’ve also not heard anything from European companies operating in the US, such as SAP and Sage. It’s to be hoped that one of them will stick their heads above the parapet and take much-needed leadership over this.
+Smaller companies have begun to speak up though, such as data science consultancy Profusion, whose CEO Mike Weston who warns:
+The biggest losers aren’t necessarily going to be companies such as Google and Facebook because they already have significant data storage capacity in countries like the Republic of Ireland. Medium-sized, data-heavy businesses will be under the most pressure and they will need to consider whether they continue operating in Europe.
+He adds:
+The bigger risk is that Europe enters a tit-for-tat battle with the US in relation to data protection. Disrupting the free flow of data will severely impact how technology companies throughout the world operate and develop. The main casualties in this scenario will be consumers.
+Well said, that man. I sincerely hope that others in positions of greater responsibility and influence will be considering their positions. There will be many who will be asked some stiff questions on Tuesday, I suspect.
+And more trouble ahead
+Meanwhile, as though warming up for Tuesday’s decision, the ECJ on Thursday fired off another data protection ruling that has serious international trade implications.
+This particular ruling stems from the relatively obscure case of Slovakian property company Weltimmo, which handles details of Hungarian properties. Weltimmo passed on client details to a Hungarian collection agency, which led to it being fined €32,000 by the Hungarian Data Protection Office for infringement of that country’s data protection laws.
+This in turn led to an appeal case at the ECJ to secure a final ruling as to whether nation states are allowed to apply their national data protection laws to companies registered and operating in another EU state. According to the ECJ, the answer to that is:
+The Court states that each supervisory authority established by a Member State must ensure compliance, within the territory of that State, with the provisions adopted by all Member States pursuant to the directive. Consequently, each supervisory authority is to hear claims lodged by any person concerning the protection of his rights and freedoms in regard to the processing of personal data, even if the law applicable to that processing is the law of another Member State. However, in the event of the application of the law of another Member State, the powers of intervention of the supervisory authority must be exercised in compliance, inter alia, with the territorial sovereignty of the other Member States, with the result that a national authority cannot impose penalties outside the territory of its own State.
+Or in other words, yes.
+And that’s where it gets complicated for US firms, particular those who’ve chosen to set up in those countries that are seen as having more liberal data protection regimes, such as the UK and most notably Ireland, than those of states like Germany.
+A second consideration for US firms in the wake of this ruling is that companies must have an office in the country in which they are being sued. The more offices you have in the more countries, the more at risk you are from legal action by each country’s authorities.
+So, the way to stay out of reach of this ruling, is to not have an office in too many countries. That’s really going to help inward-investment in the EU!
+Ashley Winton, UK head of data protection and privacy at international law firm Paul Hastings, warns that internationally-operating companies need to take heed of this ruling, which he says:
+dramatically increases compliance costs, particularly where a website is targeted at multiple member states, and makes the company subject to multiple data protection authorities.
+And don’t think the powers afforded by this ruling won’t be used, he adds:
+We expect that this case will be welcomed by data protection authorities, and as a result, social media and e-commerce multinationals will need to urgently consider their European data protection compliance strategies.
+With the appetite for enforcement high across a number of member states, the repercussions for non-compliance could be huge.
+My take
+I look to Tuesday with some dread. The propensity for the ECJ to come down on the side of daft legislation that is ultimately damaging to the cause of inward investment in the EU, is becoming legendary.
+On the heels of the odious, history-rewriting Right to be Forgotten comes this data protection ruling this week and the potential scuppering of Safe Harbor next week.
+It’s as though the court won’t be happy until it’s put Europe firmly in the internet slow lane, while US firms decide it’s easier to place international investment in other regions.
+That said, it’s time for the major US cloud firms, both B2C and B2B, to speak up over the Safe Harbor ruling on Tuesday. The message to them is simple.
+I understand why you don’t want to say anything and why you seem to be waiting for someone else to take the lead.
+But this is really, really important. The protectionist bullies in the EC will use this as another stick with which to beat you if you don’t. There comes a time to stand up and be counted. Tuesday would be a good day to start.
+ 
+Disclosure – at time of writing, Oracle, NetSuite, Salesforce and SAP are all premier partners of diginomica. 
+Read more on: Data privacyRegulation 

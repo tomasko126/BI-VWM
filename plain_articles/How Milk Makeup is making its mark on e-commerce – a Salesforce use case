@@ -1,0 +1,46 @@
+
+With my pit stop at NRF’s Shop.org 2018 coming right up, a closer look at who’s winning in retail is in order. Given Shop.org’s digital focus, it’s a good time to revisit one of the best e-commerce use case interviews I conducted this year.
+Now, I am usually not intimidated prior to an interview. But this time I was in over my head. It will come as no surprise to diginomica readers that my expertise in makeup is, well, severely lacking.
+I knew about Milk Makeup’s success before my interview with their Ecommerce Director Morgan Fleming. At Salesforce Connections, some impressive numbers on Milk Makeup made the rounds:
+Milk Makeup, a New York City-based e-Commerce retailer, has driven revenue growth at an annual rate of more than 100% since February 2016, when it first deployed Salesforce Commerce Cloud.
+60 percent of Milk Makeup‘s online traffic is driven by mobile devices, sparked by “shoppable videos” and personalized promotions. Milk Makeup’s move to the Salesforce Commerce Cloud was part of their push to reinforce their brand via better visibility of site content and products. When you are competing with the e-commerce giants, keeping a commerce site fresh matters. But let’s face it, content management can be a huge chore. Retail Touch Points quoted Fleming:
+We’re refreshing our home page constantly so that the shopper has something new to check out when they come back. Being able to schedule content versus doing that in real time has been super helpful.
+On vegan makeup, and the power of Instagram
+Fleming was gracious about my makeup industry know-how (or lack thereof). But one thing I do get is competing via a differentiated message and specialized products. So… what about Milk Makeup’s March 2018 move – going 100 percent Vegan? Fleming:
+Our line is now 100 percent vegan. And with every product that we come out, we always try to innovate. For example, we recently launched a mascara, and because mascaras are normally made with beeswax which is not vegan, we had to innovate in terms of the ingredients there in order to have a vegan mascara.
+I’m not an Instagram expert either, but I can tell from Milk Makeup’s 717,000 Instagram followers they know something about social engagement. So what’s their secret? Fleming pointed me to the roots of Milk Makeup, in Milk Studios in New York City.
+Our target customer is 18 to 26, so New York City and Los Angeles is where a number of them live. Milk Studios is a photo studio in New York and L.A. A lot of big fashion brands do their shoots there. It was also the home of MADE Fashion Week for a few years. So, they nurtured a lot of indie designers like Public School.
+Culture, content and community – the origins of Milk Makeup
+They were basically embedded in the heart of the fashion community.
+They also have all the tools at their disposal to make really amazing content. So, they have the culture and the content and the community. They’re also known for throwing really great events. So, as far as New York City, everyone kind of knows who they are, and that gave us a great start.
+So what inspired the team behind Milk Studios (Zanna Roberts Rassi and Mazdack Rassi) to move into makeup? Fleming:
+They saw all these people going through their studios, these creative designers – and they thought there wasn’t a product for them on the market. They looked amazing, and they had such cool personal styles. But they didn’t have makeup that was easy to use on the go, because they’re always traveling – and makeup that also had good ingredients.
+And what motivated Fleming, who has a beauty and e-commerce background, to make her own move to Milk Makeup in 2018?
+I knew about Milk Studios. When I was looking at the position, they had just gotten an article in Vogue before the Milk Makeup brand actually launched. It was a preview of what was coming. I looked at the products that were listed in that article and I just thought, oh my goodness, I’ve never seen anything like this before. Between the packaging and the ingredients and the stories that they were telling with the products, it was so innovative that I was like – “I have to work on this.”
+Moving to Salesforce Commerce Cloud – no IT solutions allowed
+When Milk Makeup launched, they weren’t on the Salesforce platform. But as Fleming told me, they quickly ran into problems with Shopify Plus:
+There were a lot of features we wanted that didn’t come out of the box on Shopify Plus. Also, content is such a big piece of the pie for us, that we needed something we could update our content very regularly with.
+Prior to Salesforce, updating content was heavy lifting:
+On Shopify Plus, if we were going to change over the imagery or content on the site, I would have to do it live, or we would build it on a staging platform and push it over to production. But I couldn’t work on edits that would roll out over multiple dates. I could only build staging for one release, and then I’d have to get started again. So, it wasn’t really working.
+Fleming wants Milk Makeup’s marketing team focused outward, not on content admin. They ruled out a custom solution, opting for Salesforce Commerce Cloud instead:
+We don’t have in-house tech resources. So, we didn’t want to build a custom solution. We wanted to invest our time in creating great content or promotions for our customers. That’s what Salesforce allows us to do.
+Milk Makeup went live on the Salesforce Commerce Cloud in October 2017, right before the holiday season. No stress there, right?
+That was really fun. We decided, for our cyber week, to do a different deal every day. It was like a little flash sale every day. We tested the promotion capabilities to the max immediately. So, that was great for us in terms of taking our training wheels off, and getting to know how to use things really quickly.
+And how did it go?
+It went really well. We wouldn’t have been able to do what we did without it. And the same thing is true today. We are offering a lot of really great gift-with-purchase, and other sort of deals combining different products, teaching [customers] how to use our products together.
+The numbers look good too. Though Fleming didn’t have an exact growth number for me beyond what Salesforce already cited above, she did say that the year-over-year cyber week revenue growth was “significant.”
+The wrap – yes, you can win alongside Amazon
+You can’t get through an e-commerce chat without mention of that looming behemoth, Amazon.com. I asked Fleming: what’s been their keys to e-commerce success in the Amazon era?
+There’s so many different levers that are being pulled at the same time.
+Fleming cites:
+
+Content-rich, quick-to-update web site
+Social media brand passion for Milk Makeup
+Web site UX – getting shoppers to convert once they are on the web site
+Partner storefront strategy (Milk Makeup is carried by Sephora and Urban Outfitters)
+
+And last but not least, staying agile. That goes from the e-commerce side to the product development side, where it’s Milk Makeup’s job to keep things interesting:
+The product development team we have are rock stars. They put things to market so fast, and they’re so good. When you’re saying, “What brings our customers?” It’s the product. We have really innovative products, and they’re so ahead of the trend. For example, in 2016 we came out with a holographic highlighter. And then a bunch of other brands came out with this holographic look.
+Sounds like the kind of story I’ll be looking for in Vegas.
+
+Image credit - Feature image - close up of teacher hand with marker © .shock - Fotolia.com.Disclosure - Salesforce paid the bulk of my travel expenses to attend Salesforce Connections 2018. Salesforce is a diginomica premier partner. Read more on: Digital and content marketinge-commerceMobileRetail e-commerce and the omni-channelUse cases 

@@ -1,0 +1,42 @@
+
+Readers know from my event reviews and show recap podcasts with Brian Sommer that we’ve been belly-aching about a major weakness for most cloud ERP players – an inability to pull in external data sources.
+That inability handicaps everything from process automation to analytics to data-enabled decisions.
+One of the few bright spots in this area was at the PowerPlex user event, where a Baker Tilly event showed how Plex customers could move ahead with industrial analytics, informed by external IoT data (Bringing industrial analytics to bear on real-world problems – a Baker Tilly example with Plex).
+I didn’t have room in that piece to hit on a key point: as much as I liked what Baker Tilly was doing, I’m always a bit concerned when a partner comes up with their own integration with the vendor. I want to see the vendor provide a data platform that all vendors and customers can easily utilize. Integrations should be based on those platform protocols. And, ideally, some of the important ones are pre-built, ready to customize or use.
+Today, Plex took a big step towards that goal with their announced acquisition of DATTUS, as per their press release: DATTUS Technology and Solutions Becomes Part of Plex Systems (note: I am not going to put DATTUS in all caps again for the rest of the article, sorry Dattus, love your work, but I find all caps company names beyond a few letters distracting).
+To get a first look behind the announcement, I caught up with the Plex team. CPO Richard Murray answered the kicker questions: Why Dattus? And why now?
+At our PowerPlex meeting, you were quizzing me about the new team I’d built, and you said: “Are you done?” I said, “Not quite,” and so here we are.
+At the analyst briefing in May, I announced the new team and new organization… That was all about becoming a true platform.
+But, as Murray acknowledged, there was a missing piece: incorporating industrial IoT (IIoT) data into the Plex Manufacturing Cloud.
+We also talked about this need to embrace the next wave of transformation of the shop floor, that being IoT, bringing more data into our cloud, providing more actual insights, enhancing our foundation. I think I gave a coded signal to the analysts. I was a little bit too polite, because it was a bit further advanced at that point in time. We were talking to Dattus and Anurag Garg (Dattus’ CEO, now VP Product, Analytics & IoT at Plex Systems, Inc).
+So what does Plex gain from this acquisition? Murray points to two things:
+
+Technology and product IP – “Especially around the edge, as well as a modern backend web application for data collection, aggregation, and management. This helps us make good on our IoT plan, but also help us make good on our platform organization plans.”
+IoT data management talent infusion – “We’ve also acquired a great team… We’ve acquired a great leader, Anurag, who was the CEO of Dattus. He now will lead our industrial IoT analytics at Plex.”
+
+It’s always natural to wonder if the CEO of an acquired product has one foot out the door, but on the call, Garg sounded like he was all-in with Plex and ready to push the team forward. Garg made a good first impression on me; I expected him to be all aboard the IIoT hype machine. Instead, Garg warned that too many companies are going about IoT in the wrong way, with bloated waterfall projects.
+As much as the world has talked about smart machines and smart manufacturing, the reality in the industry is IoT connectivity and connected manufacturing has a very steep adoption curve.
+Companies looking to deploy these technologies usually have to spend 6-18 months on infrastructure upgrades, professional services and managed IT custom development.
+That approach might fly for the largest manufacturers (I have my doubts), but Garg says it’s a non-starter for the vast majority of U.S. manufacturers:
+If you consider the fact that 90 percent of manufacturing in this country, it’s with companies that employ less than 500 employees. Those companies don’t have the type of budget to go on an 18 month experiment.
+Garg believes there is a better way, inspired by our consumer IoT experiences:
+What [these manufacturers] really want is the simplicity that we have in our personal lives. I want to change my thermostat with a Nest device, and in 30 minutes I’m done, or slap a smart watch on my wrist, and I’m done. That’s what we set out to do with Dattus, to lower the adoption barrier for IoT in the manufacturing space, and make it very, very easy for manufacturing facilities to collect and consume data.
+How does Garg see Dattus impacting Plex customers? Several ways, including:
+
+Last mile “plug and play” data connectivity to shop floor systems – That helps to solve a bugaboo that can be a time and resource suck – especially if you are forced to build custom integrations.
+IoT data management – This is where the external data I’ve been banging on about comes into play: “Some of that innovation that we bring in will significantly extend the volume and variety of data in the Plex Manufacturing Cloud, opening up a lot of possibilities for what we can do.”
+Advanced IoT analytics – Now, with a more complete data picture, comes better industrial analytics: “We’ve made significant advances in our analytics infrastructure… We help customers understand what has happened in the past, but we use that data to help them understand what might happen in the future, and help them establish benchmarks that they could use to affect decision making down the road.“
+
+My take
+I’m always reluctant to issue a report card on an acquisition because so much of it depends on execution. But if Plex can fuse the Dattus functionality and talent, they’ll be ahead in this important aspect of the cloud ERP game, not just in IIoT, but in the effective use of external data for decision making.
+It’s not hard to list the obstacles to pulling this off: everything from retaining the talent to integrating the products, to providing analytics tools that users find intuitive and not daunting. That was my one concern from the Baker Tilly session at PowerPlex. The Plex customers gathered clearly enjoyed the session, but it was also a lot to absorb. Plex will need to provide guidance and easy steps for companies to get started.
+Plex can also build on what Baker Tilly has done, by presenting a potent analytics business case to customers. As I wrote about a Baker Tilly Plex client: During a customer proof of concept for industrial analytics, they were able to identify a problem their prior approach hadn’t solved. As Baker Tilly says, that’s your business case right there.
+
+What we were able to figure out is they’ve got thirty outstanding issues in any one month. If we can reduce that just by one, it’s going to be in excess of a million dollars savings just in terms of engineering time and the number of the people they have looking into it.
+
+Cloud ERP players need to claim their advantage over external analytics providers like Tableau or Qlik, or they will lose ownership over the analytics domain in their customer base. They can do that by focusing on collaborative, embedded analytics that require process know-how to design. Embedding collaborative analytics into operational systems takes time, but that’s something a third party analytics tool can’t offer. Sorting out those priorities will be a key job of Michael Hart, Plex Director of Product Management. From what he told me on the call, he sees the potential:
+
+Being able to take outside data, whether it be OES data or machine capabilities, all of that into one model, and presenting it out to even a machine operator – it’s going to be extremely powerful for us.
+
+I’ll be eager to see how that expands to include weather and other geodata. That brings us to the final question: the Plex-Dattus integration roadmap. That’s a “too soon” question for now. But Murray was able to say this much: Plex has already announced “Plex IoT” for early 2019. That edition is still on track, but now we can expect some Dattus functionality will be included. As for the rest, we’ll be tracking the progress.
+Image credit - Feature image -  The businessman clicks barcode product network icon, by @StanislauV, from Shutterstock.comDisclosure - Plex paid the bulk of my expenses to attend PowerPlex 2018. Plex is a diginomica premier partner. Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architectureProductivity 

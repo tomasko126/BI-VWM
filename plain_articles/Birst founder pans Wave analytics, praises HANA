@@ -1,0 +1,32 @@
+
+Cloud BI vendor Birst has been talking about its concept of ‘2-tier’ business intelligence for a while. Unlike other visualization solutions, Birst adds a data management layer that connects into back-end data sources and which ensures the consistency of the data being fed into the analytics.
+Yesterday Birst added an “adaptive user experience” as the front end into that data with the launch of Birst 5X. The new product brings together three core ingredients:
+
+Updates to Birst’s dashboards and visual discovery capabilities, enabling people to seamlessly transition between the two modes. As well as consuming pre-built analytics through dashboards, they can also perform more freeform visual discovery to produce their own insights.
+An enhanced Birst Mobile experience that includes support for offline analytics so that people can interact with live data without requiring network connectivity. A responsive design adjusts presentation of content according to the device form factor, so that there’s no need to design separate dashboards for different devices.
+An Open Client Interface that enables people to use the front-end tool of their choice as the analytics tier to view trusted data managed by Birst’s user data tier. So instead of Birst’s own visualization tools, people can use Tableau, Microsoft Excel or R.
+
+I caught up with Birst’s chairman and chief product officer Brad Peters earlier this week in San Francisco as he prepared for the vendor’s first analyst day Monday and yesterday’s launch. He was characteristically scathing about competitors but surprisingly upbeat about SAP’s HANA in-memory database technology (Birst partners with SAP to use HANA as an analytics engine).
+Unicorns and rainbows
+Brad Peters, Birst
+Peters has the conviction of someone who’s held an unpopular view from long before it was fashionable and now begins to see his position vindicated.
+He’s critical of what he calls the “negative professional services model” of competitors like Domo, GoodData and Salesforce Wave. The implication being that these companies are losing money on the work required to set up each customer, and will never reach a break-even point. Wave could have a useful role as the basis for prepackaged analytics built into Salesforce’s applications, he said, but not as a standalone analytics product.
+The flaw he sees in all these competitors is their lack of a proper data management layer. Without that, they’re selling “unicorns and rainbows,” he suggests.
+We provide robust, production-grade, analytics-ready data. We’re built for production-grade, enterprise-grade applications.
+The problem we solve is, how do you automate that process of taking application data and dimensionalizing it — and making it secure and role based.
+Where Birst excels is when a customer wants to measure and analyze data from business processes that straddle multiple applications, he told me. Its average Salesforce customer is working with between five and seven different applications — although since the tie-up with SAP, Birst now has more connections to SAP than to Salesforce.
+Having worked with quite a few HANA customers, Peters had praise for HANA:
+As an analytical database, the thing screams. It’s expensive but man is it fast.
+The other database he likes working with is the Amazon Redshift data warehouse service.
+Redshift works well at scale because data can be flexibly recombined.
+Redshift is the most affordable database in the world, HANA is the fastest.
+Having these capabilities available is changing the scope of what’s achievable with analytics. The challenge now is educating the market about what is and isn’t possible, he told me.
+We’ve got to get people to understand the problem isn’t super easy, but you can make it easier.
+My take
+If you’re being sold an analytics solution that sounds too good to be true, then according to Peters, it probably is.
+There’s still a lot of hype around the potential of analytics, and it seems plausible that much of it is overdone. The Birst proposition certainly seems to make sense in an enterprise context, where consistency of data is always a challenge.
+Peters has uncompromisingly strong views but there is a coherent logic underlying them.
+Disclosure: Salesforce and SAP are diginomica premier partners.
+Image credits Blue shapes © iStockphoto. Headshot by Birst.
+
+Read more on: Analytics planning and data analysisMobile 

@@ -1,0 +1,34 @@
+
+Software multi-tenancy refers to a software architecture in which a single instance of a software runs on a server and serves multiple tenants. A tenant is a group of users who share a common access with specific privileges to the software instance. With a multi-tenant architecture, a software application is designed to provide every tenant a dedicated share of the instance including its data, configuration, user management, tenant individual functionality and non-functional properties.
+
+ 
+At risk of upsetting cloud purists, my answer to the question in the title is a resounding no.
+A long time ago, back in the smoking remains of the dot-com collapse, multi-tenancy did matter, and a new breed of solutions rose from the ashes. Salesforce.com is the best-known enterprise software company among this new breed, but there are many more. What differentiates this new breed is that they take a multi-tenant SaaS approach to developing and delivering enterprise applications. In fact Salesforce was a pioneer of this approach in the 2000s. The application software was architected, designed and constructed with cloud deployment in mind. As of 2015, Salesforce is one of the most highly valued American cloud computing companies, with a market capitalization at the time of writing of more than $50 billion.
+Over the last fifteen years there has been an ongoing debate about application multi-tenancy. Discussions center around software architecture, data models, practical problems with operations, data separations between tenants and so forth. All good topics and definitely worth discussing; however, no one today seems to question multi-tenancy’s relevance. I personally do not believe the original problem it addressed exists anymore.
+An expensive exercise
+Fifteen years ago, infrastructure was expensive. There was no cloud – at least not like we have today. Meaning companies wanting to offer SaaS solutions had to build their own data centers. Very expensive. They also had to run them, also expensive. Virtualization technologies were still in their infancy and there were no devops tools, making it hard or even impossible to automate instantiation of new instances. Meaning even more manually intensive activities. And do I have to say it? Expensive.
+In essence offering SaaS solutions was an expensive exercise. As nearly everything concerning data centers was expensive – hardware, software, people and so forth – people naturally tried to limit, by means of software, the usage of those expensive resources.
+This is where multi-tenancy comes into the mix. Implementing multi-tenancy at both the application and database tier allows you to maximize utilization of those resources. This is achieved by having more customers running on the same instances, limiting the number of instances required, allowing you to save on hardware and software licenses.
+Today using new technologies, such as Docker containers or virtual directories in IIS, efficient resource utilization is fairly straightforward, but 15 years ago these technologies were not available. If you wanted those capabilities you would need to design the software to allow for customer co-existence in the same application server: multi-tenancy.
+It’s different today
+Claus Jepsen, Unit4
+Long story short – multi-tenancy was originally driven by a wish to lower the cost of operating SaaS solutions. Today, 15+ years after the inception of application and database multi-tenancy, things are different.
+Today we have huge clouds offering cheap infrastructure and tooling for automatic scaling in and out, creating new instances and tearing them down again without any of the manual interventions that used to be necessary. There are new services popping up every day, like databases being charged per transaction rather than per instance, which means you do not have to pay in the event the tenant is not using the database. You have availability zones offering service redundancy, ensuring that your application, services and database are – nearly – always available. Best of all, these cloud resources are very cheap, and there are lots of them. The economic necessity for multi-tenancy at the application tier has gone away.
+With all these new infrastructure technologies available at a low price, vendors could and should question the value of retrofitting multi-tenancy into their database and application layers. It may quickly turn out to be a bad investment compared to building installation and upgrading automation scripts into the underlying cloud management system for handling quick, on-demand instantiation of new tenants.
+While there are many other reasons for updating existing software, simply adding multi-tenancy should no longer figure on the list. When building a completely new system, there is no reason not to design the application tier as multi-tenant, but it is not the overriding imperative it once was for a SaaS application. Rather than saving cost, as it did fifteen years ago, in some cases it may even add unnecessary complexity and overhead to the design of your application.
+To summarize
+
+Do not refactor multi-tenancy into existing apps just for the sake of it.
+Focus on installation and upgrade automation, so no human intervention required to
+
+Instantiate new tenants
+Conduct horizontal scaling
+
+
+For net new or major refactoring, do include multi-tenancy into the architecture provided this does not add unwarranted complexity and overhead to your software.
+
+Why would customers care?
+Beats me! Seriously they should not care – all they should care about is the SLA. So why is it that customers do seem to care about a software architectural construct? Salesforce and other SaaS pioneers greatly succeeded in persuading customers that multi-tenancy is a feature of the product rather than an architectural construct originally created to save operational costs for the software providers themselves.
+Although I agree that 15 years ago application multi-tenancy was important to lowering cost and therefore a great USP for the SaaS providers; today I’d say it doesn’t really matter.
+Image credit: Decorated cow looking dejected © flocu – Fotolia.com.
+Read more on: Cloud platforms - infrastructure and architecturePartner ZoneUnit4 

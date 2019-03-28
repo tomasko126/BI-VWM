@@ -1,0 +1,39 @@
+
+When your service is responsible for moving 1.7 billion people from place to place every year, you probably want to make sure you always have a pretty good sense of what’s actually happening under the hood.
+That’s true, of course, for finance and cash flow – but when you are also a business whose sole product is software as a B2B service, that’s even more true for your current software structure.
+Before you say it, no – this isn’t a story about a cloud service provider, who doubtless need to do both of these things. 
+Instead, it’s about a commercial company that you wouldn’t normally think of as a technology company at all – but it really is, and indeed is classed as one of the 15th biggest ones in the world by Forbes, Amadeus.
+Based in Madrid, Amadeus’s latest results (full year 2017) announced in February shows it to be a €4.9 billion revenue operation, with sales coming mostly from its airline ticketing system but increasingly from things like hotel room bookings, too (595 million in 2016, 632 million 2017), 40 offices and 15,000 staff.
+And what’s interesting about the way Amadeus solved this problem is its use of graph – a non-SQL data handling approach that claims to be all about mapping and finding connections in datasets. That could be handy, given the scale of what Amadeus’s value proposition, as Thomas Lawrence, an Enterprise Architect at the reservation systems giant, explains: 
+
+We produce a lot of data – we have nearly 50 petabytes of storage in the data center. Depending on who you compare us to, we can be up there with Google.
+
+So this is about working at enterprise levels, for sure. Amadeus uses a special internal tool called the YAC, or Your Architecture Cartography visualiser, which Lawrence says performs a useful service keeping the company on top of the software it uses to work at that enterprise scale: 
+
+Over the past four years we have been building a cartography, a landscape of our applications, of our transactions, of the components of those applications, which programming languages, where is the code stored, and so forth.
+
+It’s important to note that this ‘map’ keeps getting more and more detailed, too – starting at a very high level of abstraction with only 6,000 objects in it even two years ago: now it has 90,000, which capture the inter-relationships of 700,000 connections in the Amadeus platform – and just over 1.3 million separate relationships, from everything from every virtual machine to every item of customer or business data.
+Why is that ability to change so important? Simple – the system is constantly evolving, says Lawrence:
+
+I can tell you that some software we have in place now wasn’t existing a year ago. Technologies are changing really fast.
+
+Journey to graph
+Four years ago, Amadeus had a system in place to keep on top of this, but it was based on a rigid data model and on a fat client basis for team members which made it a time-consuming process to add in developer changes. Lawrence notes: 
+
+If I ask a colleague in Australia to connect onto the system and it takes an hour to download the file, he’s going to give up with that in 10 minutes.
+
+Hence YAC, which can instead flex from a very high level to a very low level one when needed – which is where graph came in:
+
+We decided to do something different – to do something which we hadn’t seen in the market. We started by realising that what we had with our high-end meta model was that it looked quite a lot like a graph, in fact. It’s just things connected to other things, with labels on top.
+It isn’t as simple as just knowing what we have inside our system – we have over 200 applications and over 10,000 different components. We want to be able to look at one piece and see what else it’s connected to. And we also wanted to visualise and interact with it all.
+We didn’t want to forget our business users – they have their own hierarchy of how they build up their products and that was quite crucial for them to know, as well. Now, you can travel from our business unit, where our customers are actually buying products from, down into the depths of our functionality – our application lair, the integration between them as well.
+
+While there have already been real achievements with graph at Amadeus, this is all really just the start of what Lawrence and his team think graph can do for the business:
+
+There are much bigger graphs we can create [as] we can also start incorporating properties of information, as well and I can find who’s responsible for them: I can give them a phone call and say, ‘Hey. I noticed a bit of an issue on this’.
+
+These are the core relationships users want to see, he says, but work is still needed to try and make it easier for staff beyond the other 250 Enterprise Architects working at the company to get involved; part of that approach is to make it easy for business users to output relationships they need as Excel spreadsheets whenever they need, he says:
+
+If you understand the meta model – If you eat, breathe, and live this stuff, you can go into the system and get what you want, but we want to make that easier for everyone by moving to a Golden Record – to have one storage point of information.
+
+Image credit - AmadeusDisclosure - Lawrence was speaking at the European end of graph vendor Neo4j’s ‘GraphConnect’ user conference series.Read more on: Digital enterprise in the real worldUse cases 

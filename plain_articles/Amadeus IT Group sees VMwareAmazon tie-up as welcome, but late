@@ -1,0 +1,46 @@
+
+
+The cloud services partnership announced by VMware and Amazon last month offers considerable promise for enterprises moving to the cloud, such as Amadeus.
+Wolfgang Krips is the Executive VP and General Manager of the Amaedus IT Group. The group, based in Erding in Germany, lies at the heart of the Amadeus business of keeping the travel industry moving. It is responsible for just about all of the world’s airline ticketing and passenger handling requirements, from initial flight searches, through pricing management, ticketing and reservation management, and on to managing check-in and departure processes.
+For Krips, the news of the VMware/Amazon partnership was both welcome and late. Amadeus is already an on-premise VMware user, but had looked elsewhere for ways of moving into the cloud:
+
+We’re using the public cloud – but we had basically finished our platform before the Amazon announcement came out, which will obviously require us to rethink certain parts, because if you have at home your VMware stack and you run a certain payload, and then Amazon provides you with the same stack, you can basically take the binaries and run them in Amazon.
+
+This is a real, practical issue of cloud migration with established on-premise applications, for businesses have to rebuild the application if they want to run it on another stack. Even if the business has a nice orchestration layer that works on top of Google, Amazon, Microsoft Azure and OpenStack the payload must be binary compatible with each of those systems. 
+That means users have to produce the payload four or five times. It also means additional risk of induced errors and production complexity. This is even more of a problem with well-matured, legacy applications, where the original developers have moved on and documentation is either poor or non-existent:
+
+If you then get an announcement that Amazon provides you with a VMware stack, you say ah! I can take this application here, drop it there and it runs. Binary compatibility is very cool.
+
+Specialist applications
+For now Amadeus is using Google cloud, but not how most will use it, mainly because its applications are pretty specialised, and certainly not off-the-shelf. For example, one, called Availability, is designed on the back of a specialist search engine, focusing on the needs of many thousands of simultaneous users wanting not only to undertake complex multiple searches based on queries such as ‘I have €500 and next weekend free. Tell me where I can go’, but then make a booking based on the results.
+Answering that search query is in the realm of big data analytics, where the data is not held locally. As Krips said, this is likely repeatedly searching the known universe to get a list of flights with available seats to a range of locations within the defined price band. Once out in the public cloud latency can become an issue, because those searches are already being conducted globally. And every customer search can involve Amadeus making thousands of individual searches. There are currently around 22,000 searches a second. The danger is the response times can become unacceptable to the users.
+So far the company’s response to this problem has been to split the Availability application in a cache and a master database, with the cache  – effectively one cache per airline – as close as possible to the application running in a Google cloud. This cuts down the wait by a factor of 10 and gets known by the name Amadeus Distributed Cloud Availability. It is already deployed in Google, and will be deployed in AWS and Microsoft Azure.
+The company has been running the Availability suite as a private cloud for some time, not least because the cloud has still not been price competitive for the type of workloads it runs. For example, one application can be running on up to 1,000 machines, 24/7, at full load. Cloud providers work on a maximum loading of between 60 and 80% utilisation, on which they then calculate their margins and pricing. So on-premise private clouds can still, be cheaper, concludes Krips:
+
+At some time that’s going to change, at which point that application will go to the cloud. It’s fully cloud-ready but it’s too expensive for me to bring it into the cloud.
+
+As well as the Availability suite, Amadeus also provides the business management end of the process for customers……everything that needs to happen after someone hits the ‘Book’ button. As a specialist full service provider, it has built all the applications required. These include check-in, boarding and baggage tag printing, and calculation of how the plane is loaded. It also handles the ticket and boarding pass kiosks, and the gate management software. 
+For all of these, reliability and fast service are crucial, given that Amadeus is responsible for much of the customer experience of the airline customers. Krips says: 
+
+The question is from my perspective – what benefits are we getting from the cloud.? We’re not going onto the cloud because it’s currently in vogue. We’ve been thinking about doing disaster recovery out in the cloud, because that’s an interesting use case. We looked at the big cloud providers but they use a different stack to us, which would mean we would have to produce all of the applications that we have in the data center for their cloud. 
+Then we went to those providers that offer the VMware stack. There were a few of them but they were a bit smaller. We talked to them about our need for around 10,000 server capacity but we got almost zero response, none could provide it bar one that offered to build a new data center to house what we needed. So this Amazon deal is potentially very interesting for us because these guys might just have the 10,000 servers. And now they’re offering a VMware compatible technology stack, that becomes interesting. So, we will be re-looking at all of this.
+
+Future
+Most of the Amadeus portfolio is already on VMware, and most of the rest is currently being moved over. This includes virtualising the databases so that maintenance and server replacement is straight forward. This will also allow Krips to decouple the physical provisioning of the servers from the service provisioning. 
+By virtualising everything any applications can be loaded on any server, which helps him meet the company’s business agility requirements. That means having the ability to provision resources within minutes, if not seconds, rather than the three months it would traditionally take.
+From Krips’ point of view, with AWS now joining Microsoft Azure and IBM as VMware partners, this is only likely to attract more cloud service providers to offer binary compatible VMware stacks as service options for customers. He is also aware, however, that getting into that game could represent a big investment for them, though it is obviously a market with big potential:
+
+Think about the SoftLayer acquisition by IBM; that cost them a billion and they’re a tiny player. The Amazon guys get custom hardware; they’ve developed their own CDUs. They’re so big they’re getting their own network chips specifically for them. Then it becomes a bit tricky.
+
+Krips has already had discussions with VMware about Amadeus’ requirements and its payload is fully compatible:
+
+They do they’re magic internally and the interface is ours. We need binary compatibility otherwise the thing is a non-starter. What I want to do is take the image from the data center, go over to Amazon and say ‘run’ and if that thing says anything else but ‘Ok, executing’, then I have a problem.
+
+This is now the next stage for Krips but any implementation is still some way off. AWS is now very much a part of the plan but the announcement is still very new and the company has some 5,000 developers and 900 staff and, as he observes, “like all big companies everyone is filled up to the brim”.
+It may also mean the disaster recovery plan can be moved to AWS Amazon was one of the service providers he couldn’t talk to because they had a different stack. It is, as he readily acknowledges, also the biggest cloud services player by far. That means the resource requirements of disaster recovery and scaling out services should be much easier, he concludes: 
+
+If those guys don’t have it then I don’t know who does. That’s why we’re interested.
+
+My take
+This is an interesting test case for all three companies. As a big, well-established and heavily IT-committed business with a huge responsibility to deliver excellent end user experiences to their customers’ customers, Amadeus has much to gain, and even more to lose, in what it now does with AWS and VMware. And the vendors in turn have much to gain from the experience Amadeus has with dropping existing binaries into a new world.
+Image credit - AmadeusRead more on: Cloud platforms - infrastructure and architectureCRM and customer experienceDevOps NoSQL and the open source stackUse cases 

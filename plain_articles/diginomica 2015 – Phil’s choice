@@ -1,0 +1,50 @@
+
+12. Ambitious start-ups
+While fast-growing success stories tend to make eye-watering losses in the early years, so do high-speed flame-outs. How to tell who’s destined for glory and who’s on a hiding to nothing?
+Why? Richly funded unicorns, so named because start-ups valued at $1 billion or more were once a rare breed, became so plentiful in the first half of this year that a reversal was inevitable. Now many are destined to become ‘unicorpses’ and in Three red flags when cloud startups lose money I highlighted some warning signs to look out for.
+The year kicked off with the controversially anticipated arrival of Box on the public markets. Since then several of the enterprise software startups we follow have raised large sums, including $115m for subscription economy standard-bearer Zuora, $82m for service management provider ServiceMax and two rounds of $41m for CPQ vendor Apttus in February followed by a further $108m in September. It’s the kind of venture largesse that Zoho CEO Sridhar Vembu warned of when he told me cloud’s in a bubble, Salesforce is the new Siebel. The wise among them will be putting money aside in case of rainy days ahead.
+11. Seeing sense on security
+The OPM’s discomfort is well deserved but no one should be smirking at it, as almost every enterprise is making exactly the same lazy and self-deluded assumptions about the rigors of its own security regime.
+Why? Hardly a week went by without some massive new enterprise data breach hitting the headlines. In July I made the case that the theft of data on 21.5 million people from the US Office of Personnel Management (OPM) should be a warning to us all, citing Google’s identity-centric approach to its enterprise security as a better way.
+In August there were more lessons to learn from the wholesale theft and online revelation of personal data from adulterous matchmaking site Ashley Madison. The Google approach is still rarely adopted, but Ping Identity’s CEO told me his company is working with Google to make identity the steel thread at the heart of security. Meanwhile, as SAP SuccessFactors president Mike Ettling warned, data privacy regulations are getting even tougher to comply with.
+10. Cloud ecosystems come of age
+Salesforce … has to make sure it is doing enough to encourage the healthy growth of an ecosystem that is already as large as the GDP of a middle-ranking country.
+Why? This year’s Dreamforce reinforced the importance of the Salesforce partner ecosystem, with IDC research hinting that its total value is some $30-40 billion. This coincided with Accenture’s acquisition of leading cloud integrator Cloud Sherpas, inspired in part by Cloud Sherpa’s change management expertise.
+For all cloud vendors, it’s becoming increasingly important to manage the evolution of their partner ecosystems. This raises questions on strategy for the partners themselves but could mean even more for the ultimate destiny of Salesforce, Workday, Microsoft and others.
+9. Microsoft assembles its cloud platform
+Becoming the primary collaboration, analytics and user interface platform for as many enterprises as possible is far more strategic for Microsoft than winning a battle to be the midmarket CRM or ERP application of choice.
+Why? A mid-year reorganization of the company led me to ask, Will Microsoft buy into Dynamics or sell it off?. I had been impressed earlier in the year at the aptly named Convergence conference by Microsoft’s emphasis on showing off how other products such as Office 365 and Azure work with its Dynamics business software products — and also warmed to CEO Nadella’s message that every business has to become a SaaS provider.
+Approaching the end of the year, I got a detailed briefing on the cloud-native release of Microsoft Dynamics AX, the flagship ERP product that is now delivered on Azure. Whatever happens to individual products, Microsoft is honing a strong cloud platform message.
+8. Redefining ERP
+In the space of a generation ERP has undergone a dismal transformation, from enterprise lifeblood into digital deadweight.
+Why? The transition from old-school ERP into a new class of software better able to suit the needs of business in the digital age continues apace. Each vendor has their own take on this.
+SAP has its message about business networks and is meanwhile proving out the capabilities of its HANA database. Infor has a business network story too after its acquisition of GT Nexus, and meanwhile is investing in accelerating its customers’ migration to the cloud. Cloud-native vendors are extending ERP into adjacent functionality, with NetSuite focusing on omnichannel capabilities while Kenandy has recently added configure-price-quote.
+7. Exploring the industry cloud
+There are other factors coming into play that allow cloud vendors to do a better job of offering vertically tailored functionality than was possible in the old, on-premise, client-server model.
+Why? In August and September, I put the trend towards vertical industry cloud applications under the microscope, focusing on companies in the Salesforce ecosystem such as Veeva, Vlocity and Rootstock.
+Salesforce itself firmed out its industry cloud strategy, introducing offerings for financial services and healthcare. I also got the inside track on how Accenture is working with Salesforce on vertical solutions.
+6. Building intelligence into apps
+At first it seemed like a trickle, but in the past few months the cascade of data science-driven products and strategies from enterprise software vendors has become a raging torrent.
+Why? In 3 big data science trends that will change business software I examined the rapid incursion of predictive analytics, big data platforms and everyday analytics into enterprise IT. This trend towards augmenting human capabilities within software shouldn’t scare us but there’s no question that, as InsideSales CEO Dave Elkington told me later in the year, data scientists are the new kings.
+5. Connecting products
+Field service is the most sexy occupation in the world.
+Why? We’re approaching a time when field service engineers will have all the latest technologies at their fingertips, according to Hari Subramanian, co-founder & CTO of ServiceMax. Its customer Schneider Electric discussed why this means a completely rethink of how it designs products.
+During the year, I proposed five thoughts to help make sense of the Internet of Things, gathered a further five thoughts from the father of the Internet of Things and ended up suggesting seven factors that will hamper enterprise IoT adoption.
+4. Putting collaboration first
+Understanding and harnessing these emerging patterns of collaboration is absolutely fundamental to the success of digital transformation.
+Why? Collaboration doesn’t get paid enough attention but I’ve come to the view that it’s the secret of success in digital transformation. Not only in the sense of enabling virtual workgroups but also by making it easier for people to connect up apps, complete processes electronically and simply get on with what they do best.
+3. Disrupting enterprise IT
+Enterprises that have embraced digital technology are giving bimodal IT a bad rap
+Why? I ended the year taking a swipe at Gartner’s notion of bimodal IT, which suggests enterprises can do their digital innovation on the side without interfering with their core systems. That’s not what I’ve seen this year.
+On the contrary, several conversations with the team at devops automation vendor Chef Software had suggested digital disruption rapidly invades the core. I liked the 5-piece framework for modernizing enterprise IT advanced by French office automation expert Louis Naugès. But beware the many different definitions of platform-as-a-service you’ll hear from vendors.
+2. Disrupting the enterprise
+For established IT vendors, therefore, digital Darwinism has a double whammy. Not only do they have to rapidly transition their own offerings to compete in the fast-growing markets for digital technology — often rendered in the acronym SMAC, which stands for social, mobile, analytics and cloud — but they also have to ensure their customers are equally successful in transforming into digital enterprises.
+Why? The question whether IBM can run fast enough to survive digital disruption is really about its customers’ readiness to change. I’m convinced that going digital means rip-and-replace, not just of systems but also of outdated processes. These are especially prevalent in procure-to-pay and in traditional HR/HCM.
+Digital nemesis is on its way, appearing where you least expect it. I’ll be expanding further in 2016 on what I’ve said this year about navigating the path to a frictionless future.
+1. Enterprise goes cloud
+You cannot separate system change from broader organizational change. You have to adapt the two, and you have to deliver the two at the same time.
+Why? Wise words from Telefonica’s director of global HR transformation on lessons learned from its global SuccessFactors roll-out. There’s been much to learn over the year from various large-scale enterprise stories, and many recurring themes.
+Letting business take the lead in digital transformation came through in the stories from Rentokil Initial and Williams Sonoma. Encouraging collaboration emerged as a theme in very different fields from both Adobe and Philips, while collaborative software development was the story at Whole Foods Market. Complementing Telefonica’s story, more advice on cloud HR and HCM roll-outs emphasized the need to shake up existing processes, with big changes at both Alcatel-Lucent and Sanofi.
+ 
+Disclosure – at time of writing, Infor, NetSuite, Salesforce, SAP, ServiceMax and Workday are premier partners of diginomica.
+Read more on: Best of archivesCollaboration sharing and digital productivityFrictionless enterpriseHCM and the digital future of workInternet of Things 

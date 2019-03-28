@@ -1,0 +1,40 @@
+
+There’s an emerging media trend of slapping any old commentary/graphs around any old set of stats. The theory is simple: we all like pretty pictures and we all like to keep things simple. It helps our poor addled brains absorb information one factoid at a time. Everyone’s doing it. It makes them look smart. Except there’s a few problems in presenting data. In no particular order:
+Choosing facts of convenience – a common practice among those filing the SEC because when you file with those guys, you can dream up any old numbers you like as long as:
+
+IFRS numbers are in there somewhere.
+You state your assumptions, which can be as fantastical as you like.
+
+The most common one being to exclude the real cost of labor by using SBC (you didn’t part with cash and therefore obeyed your VCVs instructions), interest on money borrowed (well if it’s less than 5% then it’s a rounding error – right and in any event probably has conversion rights that dilute the crap out of small shareholders but who cares?) and depreciation on assets (because WTF you’ll be in those buildings for 100 years.)  The net effect is that when these figments of imagination gain prominence, then they take on a mythology of their own. Check this S-1, page 14 and then restart at page 62.
+Make the facts fit the headline – Business Insider got a tad inventive with this one: Millions of people are paying for Jay-Z’s music streaming app. while Statista preferred the more sedate: Where Tidal Stands 12 Months After Its Relaunch:
+
+You will find more statistics at Statista
+Nice use of celebrity status linkbait to tell a non-story but all too common.
+Forget the facts, concentrate on design – Tammy Powlas is one of the smartest BI people I know but if you’re having to teach this then I wonder what kind of skills exist among analysts in the ASUG universe. If you have to worry about presentation first then what does that say about data selection? Having said that, Tammy might have put this out as a gentle dig.
+
+We’ll redesign this dashboard during today’s #ASUG #CloudAnalytics webcast pic.twitter.com/I7enn0bQBn
+— Tammy Powlas (@tpowlas) April 4, 2016
+
+
+
+Remove the 3-D advises Jacob Stark #ASUG Webcast pic.twitter.com/KsbX6zNaE9
+— Tammy Powlas (@tpowlas) April 4, 2016
+
+Strange facts made overly complex – Maybe Tammy is right after all. Check out the image to the right. 
+HBR produced an interesting story entitled: A Chart That Shows Which Industries Are the Most Digital (and Why) talks about the progress towards digitization across a variety of industries and type. At first blush, the chart (see right) looks convincing but a closer look implies questions.
+For example, agriculture is one of the most technology advanced of any and data is routinely used to help farmers optimize production. On the other hand, the degree of digitization claimed for information technology seems over stated. That leaves me wondering what they mean by ‘digitization,’ but then part of the answer might lie in the term ‘relative.’
+
+Looking at the linked piece from McKinsey made it even more of a head scratcher. McKinsey claimed that those which are at the forefront of digitization enjoy a 4x advantage over their peers but the charts they produced looked more like 40x. Even though that’s not the case when reading the legend, the fact remains this is misleading to anyone except the studied observer. (see image left.)
+Stand alone facts that don’t reflect reality – I found this example to be most egregious. Most of Europe Is a Lot Poorer than Most of the United States screamed the headline from the Foundation for Economic Education. It makes the caveat:
+As a quick caveat, it’s worth noting that there’s not a one-to-one link between gross domestic product and actual living standards. Some of the economic activity in energy-rich states such as North Dakota, for instance, translates into income for shareholders living elsewhere in America.
+But if you look at the US average ($54,629), it obviously is higher than economic output in European nations. And if you prefer direct measures of living standards, then data on consumption from the OECD also shows that America is considerably more prosperous.
+Caveat aside, I really dislike this kind of cherry picking. To me it’s on a par with creative accounting of the non-GAAP variety. The writer should know that there is no correlation between wealth and GDP. The trouble is that it is easy to lull people into believing that’s the case. But then we quickly discover the author’s motivation:
+I’m simply making the modest — yet important — argument that Europeans would be more prosperous if the fiscal burden of government wasn’t so onerous.
+Modest? Let me put it another way. Whenever reading stats or reviewing charts you should always ask yourself two simple questions: what is the motivation and why are these ‘facts’ being presented in this manner?
+My take
+I worry that we are awash with so called facts that can be readily presented for easy consumption yet we are missing what to me are vital points. Facts never live in isolation, there is always a context. An example – I was recently asked to provide some data to a partner. That was all they asked so I made a variety of assumptions. The answer that came back could not have been more clear: “Thanks Den but useless, I need…” I then understood what was required and needed to find a way of getting the new set of stats onto a single page.
+Earlier today I was asked to complete a pre-implementation questionnaire. It asked for some facts. My problem was that I have lots of data  but I’m not sure they lead to facts upon which I can take sensible action. In this case, I offered a range but caveated based upon the context of where those facts were derived.
+This kind of thing has special relevance to marketing initiatives. Say for example that your 10,000 person mailing list has an open rate of 10% but a clickthrough rate of 1.8%. Is that cause for alarm? Do you see any patterns? How about a subset of 1,000 where you have an open rate of 45% and clickthrough rate of 4.5%? See what I mean?
+There’s no doubt that presenting data appropriately is an important skill but doing it right is far from simple.
+ 
+Image credit - All graphics courtesy of mentioned copyright holders. Read more on: Analytics planning and data analysis 

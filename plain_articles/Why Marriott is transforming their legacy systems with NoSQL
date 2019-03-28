@@ -1,0 +1,50 @@
+
+Couchbase Live at Cipriani
+Yesterday, I joined some very excited NoSQL enthusiasts at Couchbase Live New York City. The event was timed with the official GA of Couchbase’s Server 4.0 release, a much-anticipated milestone release two years in the making.
+While on the road in New York City, I got a skeptical question from a Twitter follower about Marriott’s Couchbase move.  (As part of the keynote, Thomas Vidnovic, Solutions Architect at Marriott International, presented on “Replatforming for the digital economy with Marriott.”)
+Yesterday, I tweeted:
+
+Interesting to hear Marriott, hardly a startup, talking replatforming on open source/NoSQL to better compete in digital – at scale #cbliveny
+— Jon Reed (@jonerp) October 6, 2015
+I got into an Twitter debate about hotel industry disruption with Ohad Yassin (see the longer convo here)
+The gist was Yassin’s blunt question:
+
+@jonerp but to my point: replatforming should support biz model. Why NoSQL supports Marriott better than SQL?
+— Ohad Jassin (@ohadyas) October 7, 2015
+Fair enough Mr. Jassin! To provide more context, I reviewed my notes of Vidnovic’s keynote. Vidnovic spoke to three areas: Why replatform? Why opensource/NoSQL? And why Couchbase?
+Why did Marriott decide to replatform?
+Why would a hotel behemoth with 4,200 properties in 79 countries decide to move its operational crown jewel, the central reservation system, off a legacy server? Vidnovic started with the short version: “It was  time to replace the legacy infrastructure to better compete in the digital economy.”
+But that simple decision invokes a number of complex issues, including open source versus proprietary systems, and NoSQL versus RDBMS. Ultimately, Vidnovic said, Marriott decided to transform their infrastructure to a “modern, open modern open source platform which allows Marriott to deploy new applications faster and more reliably.”
+Moving the central reservation system, which Marriott affectionately calls “Marsha,” was not without risk. Marsha processes 38 billion dollars in reservations annually, running on a single mainframe with 160 gigs of memory. Referring to Marriott’s customers that count on the system 24/7, Vidnovic noted that “the most important thing is uptime.” Any new system must maintain that uptime commitment.
+Other factors in the decision to move Marsha off the mainframe:
+
+Moving from mainframe to server-based distribution eases the sourcing of available technical skills.
+Taking advantage of open source initiatives reduces Marriott’s application development costs. It’s “very expensive” to make changes or additions to the mainframe software.
+Reduced infrastructure costs – Vidnovic says it’s also been “very expensive” to maintain Marsha on a legacy system
+Cloud moves – shifting from the mainframe also meant a better solution to Marriott’s cloud-based forward strategy, where web customers will be served from localized data centers.
+
+Why did Marriott choose open source and NoSQL?
+Thomas Vidnovic at Couchbase Live
+Vidnovic boiled down the open source decision to several factors, including ease of cloud deployment and commodity hardware:
+We wanted to take advantage open standards versus proprietary vendor solutions… If you search on Google, you can mostly likely find an open source option that’s already available, with many more flexible choices for technology. You’re not stuck with the technology of the vendor that you selected.
+Licensing costs were another factor:
+Licensing cost savings are always big for open source. If you don’t need production support in your environment, most open source software is free. For enterprise support of those initiatives, it’s certainly much less expensive than some of the proprietary vendors.
+And why NoSQL? Vidnovic highlighted these factors:
+NoSQL is a better fit for object oriented development – “I came from a development background. For many many years, we said, ‘Wouldn’t it be nice to have a data store where we could go from the Java object right into the database and back, without a big translation and lots of overhead?’ Well, this is it.”
+Scalability with commodity hardware – “Enterprise-class boxes cost lots and lots of money. We can scale and be highly available with commodity hardware.”
+High availability and no downtime – “Version upgrades and maintenance can be done online… Downtime is always a big deal, especially with many relational databases, where they say, ‘Oh, I have to take a twelve hour outage to do this upgrade.’ Your uptime is not there when you have to do that. With NoSQL solutions, especially Couchbase, you can do on-the-fly upgrades.”
+Speed, performance, and fast response times – “When your customers are on your web site, with mobile or whatever, they want a quick answer. NoSQL definitely gives that to you.”
+Why Couchbase?
+Vidnovic’s NoSQL evaluations led him to Couchbase. He reference-checked against other large-volume organizations. “Large, high transaction corporations are using Couchbase,” says Vidnovic. “We saw some other folks with similar infrastructures, similar use cases. Some with data volumes actually much larger than ours were having success with Couchbase.”
+Vidnovic conducted in-house benchmarks between Couchbase and its NoSQL competitors.”It performed for us,” he says. Other that influenced the Couchbase decision included built-in cache (“Couchbase provides that for free”), data sharding across clusters, ease and flexibility of moving/adding nodes to the cluster, and disaster recovery with easy replication (“That was a big, big deal for us.”).
+As for Couchbase 4.0, count Vidnovic amongst those who see this release as a genuine advancement: Marriott is planning to move to 4.0 by early 2016, and standardize on 4.0 for forward projects. Amongst new 4.0 features, Vidnovic is particularly stoked about N1QL pronounced “nickel”), a SQL-like query language that is intended to help customers open Couchbase queries up to SQL-savvy business analysts and developers.
+N1QL is a “Major, major plus – much more familiar, much more flexible.” Vidnovic also cited LDAP support for identity management, another 4.0 feature which should help keep his security team happy with his NoSQL pursuits.
+The wrap – digital requires flexibility and scale
+Marriott’s initial Couchbase rollout put 13 million documents in Couchbase, accessed at a rate of 200 transactions per second. Once all Marriott’s global properties are live in Couchbase, there will be 30 million documents, accessed at 4,000 transactions per second. Vidnovic’s team will replicate data from their internal data center to cloud instances on data centers around the world.
+Marriott’s customers will be served with data from the data center nearest to them globally, optimizing response times. “This brings up a lot of opportunities,” says Vidnovic.
+It will be interesting to see which new business projects Marriott goes after with this new infrastructure in place. One thing Vidnovic knows for sure: change is in the air. In his concluding remarks, Vidnovic said he believes that NoSQL has matured to the point that companies sticking to their mainframes can realistically think about a move:
+RDBMS is no longer the only data store in town. Developers have been telling their managers for a while that NoSQL is the way to go. But up to now, companies have been saying, “No, that’s way too cutting edge”… Now, NoSQL has finally arrived in the mainstream. More and more people are using it – you’re going to see it a lot more… Even risk-averse companies are beginning to look at open source and cloud to modernize their infrastructure.
+Vidnovic’s concluding slide
+Image credits: Couchbase Live photos by Jon Reed
+Disclosure: Couchbase covered most of the travel expenses for my attendance at Couchbase Live New York City. Diginomica does not have a financial relationship with Couchbase.
+Read more on: DevOps NoSQL and the open source stackNoSQLUse cases 

@@ -1,0 +1,43 @@
+
+Rei Kasai, ServiceMax
+Cloud-based field service management provider ServiceMax is adding a performance dashboard and a configurable set of predefined service performance metrics in a new version of its software launched today.
+ServiceMax, which runs natively on the Salesforce platform, now faces competition from Salesforce’s own service management product as well as its traditional competitors, so it’s keen to add features that will keep its offering ahead of rivals. The Spring 16 release also includes early access to a completely new mobile app for tablets and laptops, and introduces a set of preconfigured implementations to help customers get up-and-running faster.
+Service managers will be able to use the new metrics to see how their teams are performing on parameters such as attach rate, contract uptime, utilization, first-time fix rate and repeat visit. ServiceMax says these key performance indicators (KPIs) reflect industry best practices and will help its customers identify and target opportunities to deliver improved outcomes, as Rei Kasai, senior VP of product, told me in a pre-briefing last week.
+If you cannot measure you cannot improve. Operationally, the most mature businesses do this well.
+We saw an opportunity to codify all those best practices into the product and democratize those practices for all customers.
+Knowing what to measure
+Many enterprises that are rolling out new technologies in the field service function are eager to harness the potential to improve margins, build customer engagement and grow their business, says ServiceMax. But they often lack the insight and tools to properly monitor and track how their teams are performing, which is where the new KPIs come in. Knowing what to measure is just as important as having the right tool, says Kasai.
+To capture those events you need some kind of standard concepts. There are variations but there are core processes that are universal.
+For the moment, ServiceMax isn’t offering customers the option of benchmarking their own KPI results against industry norms to see where they’re under- or over-performing. But that’s an obvious next step considering that ServiceMax can aggregate data from across its customer base, if it has the right permissions in place.
+The new mobile field service app introduced today provides a unified user experience across iPad, Android tablets, and Windows laptops and hybrids. It consolidates separate iterations of the ServiceMax app into a unified architecture, says Kasai.
+It’s a standardization of that user experience across all mobile platforms. It helps us deliver faster, and from a customer point of view, it’s having consistency in those best practices.
+The final piece of today’s announcement is an implementation package called ServiceMax Catalyst, which includes pre-configured service processes, business objects and functionality to help new customers quickly get to first base when rolling out the technology. As well as predefined operational processes such as account and location management, installed base management, inventory visibility, and mobile deployment, the package also includes seven preset KPIs.
+Large company adoption
+ServiceMax cites its experience of more than 500 deployments as the basis for defining the KPIs and processes built into today’s new functionality. That extends to very large, global implementations, with the largest now standing at more than 50,000 user licenses.
+Kasai, who came to ServiceMax last year from a similar role at SAP, says he is seeing an acceleration of adoption at large companies, despite the change management impact of moving to a cloud solution.
+Very large companies are working with us to power their entire business. We’re starting to see massive acceleration in deployments — multiple regions and companies. It’s not a simple thing and it’s painful. It takes time for customers to roll out on that scale.
+The broad experience ServiceMax has built up in the market leaves it feeling confident in spite of Salesforce introducing its own field service product. Kasai told me:
+Field service as a market is a multi-billion dollar market. The market’s large enough for multiple competitors and no one size fits all.
+Being in the market nine years we have a head start in competitive advantage.
+He also told me that ServiceMax has no plans to port its application to other platforms, despite the multi-platform precedent recently set by Salesforce-native Apttus. Everything introduced in the new release has been built on Salesforce.
+We’re sticking on the Salesforce platform. They are our technology. It is for that reason we became so successful.
+Extending into new areas
+Meanwhile, the market is starting to become more sophisticated and he says customers are now asking for more from their cloud implementations than simply “faster, better cheaper.” The future product roadmap therefore extends functionality in three new areas:
+
+
+Internet of Things — but it’s the insights that you can drive from that data. You need the infrastucture to do that.
+
+
+The next area is accelerating knowledge around virtual reality (VR) and augmented reality (AR). The bigger problem is enablement of our workforce. A lot of the technology has been developed in the medical field around telepresence, using VR and AR to do procedures in the field. It’s maturation and democratizing that technology into consumer devices, and using the technology to accelerate skills transfer.
+
+
+The third thing is empowering individuals. How do you push the tools such as analytics into those mobile devices?
+
+
+In other words, ServiceMax is just getting started, according to Kasai.
+This is the first act of ServiceMax. We don’t have to worry about the nuts and bolts and basics. Moving into these new areas is how we really change the game.
+My take
+ServiceMax is shining a bright light on its proven experience in field service management with this release, emphasizing its differentation against more recent market entrants.
+That experience I suspect is quite important in its field service niche, where the change management challenges when introducing cloud solutions are more complex than in other enterprise functions such as HR or sales. People need to learn to work in new ways, but at the same time it’s important not to lose the tribal knowledge that’s out there in the field and that still largely hasn’t been automated.
+There’s a lot of change to digest, and the cumulative experience of others can help illuminate the most productive approaches.
+Image credit - Courtesy of ServiceMax.Disclosure - At time of writing, Salesforce and ServiceMax are diginomica premier partners. Read more on: Analytics planning and data analysisCustomer service managementInternet of Things 

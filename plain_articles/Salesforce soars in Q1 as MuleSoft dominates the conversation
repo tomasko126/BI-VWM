@@ -1,0 +1,37 @@
+
+Going up
+A powerful start to its 2019 fiscal year for Salesforce as revenues rose 25% year-on-year to hit $3.01 billion. Net profit was $344 million. All of that’s led the firm to raise full year expectations to around $13 billion.
+Breaking down by cloud:
+
+Sales Cloud grew 16% year-on-year to $965 million.
+Service Cloud grew 29% to $848 million.
+Marketing and Commerce grew 41% to $422 million.
+Lighting Platform grew 36% to $575 million.
+
+The numbers in themselves gave a lot for Salesforce CEO Marc Benioff to be pleased about, but on the post-results analyst conference call, it was the firm’s $6.5 billion acquisition of MuleSoft that dominated the conversation.
+While the size of the deal raised a few analysts eyebrows when the acquisition was announced, Benioff pitched it as a key strategic move for Salesforce:
+
+I was in Europe last week and I was with the CEO of a very large life insurance company. They’re a very large Service Cloud customer. He actually has the Service Cloud running at his desk and we were going through that. And it turned out he is also a very large MuleSoft customer as well. [The MuleSoft acquisition] expands our relationship with that customer, and it makes us much more strategic with them.
+And then at that point, my ability to consult with that customer is really around, ‘okay, now let’s look at each one of your policyholders and your ability to have 360 degree vision with them’. And that goes everything from their internal systems and their policy management systems, to even their capabilities that they have in other public clouds that they’re using.We’re going to wrap all of those things with all of our customer capabilities, because what [the CEO] is mostly focused on is, what are his customer relationships and how is he driving those customer relationships forward? That ability to have that conversation, well, it just gets extended each and every year.
+
+He added that the elusive single view of the customer, the Holy Grail of CRM, remains the critical factor for organisations everywhere:
+
+In each and every case, they’re working to understand and have a 360 degree view of their customer. And the power of that is really augmented by our suite of CRM applications that do that for them. Things like our sales, commerce, service, communities, analytics, our core platform, collaboration, marketing. By adding integration in that, it helps us bring in data from multiple public clouds, because many of our customers are now using multiple public clouds. They might be, let’s say for example, the healthcare company seeking data from the healthcare system itself , an insurance system, or maybe some other type of key databank associated with the healthcare industry. Integration is mission-critical for our customers to gain that 360 degree view of their customer.
+
+The time was ripe to have integration capabilities built-in, rather than sourced from third parties, he added:
+
+Now, we’ve always known [the need for integration] at Salesforce, that’s why we built up an open system and that’s why we’ve had an Application Program Interface. That’s why we’ve had an AppExchange. That’s why we focused on ISVs and had relationships with companies like MuleSoft. But it has become more important for our customers to be able to have and rely on an Integration Cloud. This idea [that],deeply embedded inside our products, they can rely on this technology to be able to integrate all the key data so they can build that single view of the customer.
+
+Integrated priorities
+Chief Product Officer Bret Taylor argued that he sees multiple customer priorities around integration:
+
+They want to create customer experiences that transcend individual customer touch points. They want to integrate sales, service, and marketing into a single seamless customer experience. They want to make sure that they have multiple acquisitions and multiple regulatory climates, because they exist across international borders that they can accomplish that with our platform. And they want to unlock the data from other legacy systems, and bring it into these customer systems. So they can do these transformations around their customers.Taylor also sees gains to be had through the combination of MuleSoft and Salesforce’s Einstein AI tech:
+[Customers] know that their AI is only as powerful as data it has access to…think of MuleSoft unlocking data. The data is trapped in all these isolated systems on-premises, private cloud, public cloud, and MuleSoft they can unlock this data and make it available to Einstein and make a smarter customer facing system. And that’s what we’re hoping to achieve with MuleSoft.I’ve heard over and over again from customers…that integration is a strategic priority for our customers, because without it they can’t move fast enough on their customer facing systems. So we’d like to say it unlocks the clock speed of innovation, and that’s what we’re really seeing from our customers. And I hope we’ll accelerate our ambitions with Einstein.
+
+MuleSoft offers both cloud and on-premise options, which raises the question of whether Salesforce might be prepared to offer customers non-cloud deployments. Taylor didn’t rule this out:
+
+MuleSoft is interesting, because the power of integration, as you can integrate every system, every device and every user you want to reach, every customer. And that means you have to go wherever your systems are, on-prem, on mobile devices, everywhere. We are extremely committed to the neutrality of the MuleSoft platform. When I say neutrality, it means it connects every system, whether or not the system is related to Salesforce, because that’s the power of integration. And we want to unlock data from every system and bring all of that data to wherever your customers are, on every device. And so I think MuleSoft is special in that respect, because that’s the power of integration.From a technology standpoint, we’re committed to the cloud, because it means we can deliver innovation to the customers faster, three times a year, consistently since the company was founded. And we think that’s the power of the cloud. But as you’ll see what MuleSoft is, if our customers need us to have different architectures to unlock innovation, we’ll go there. And I think you’re seeing that with integration.
+
+My take
+A confident start to fiscal 2019 for Salesforce, complete with the signing of its largest-ever deal. As has been seen at the recent World Tour events around the globe, the MuleSoft story is a really big deal for the firm and is front-and-center right now in any keynote. Expect more of the same at the forthcoming Connections event. We’ll have Jon Reed on the ground there with more to say on this, no doubt.
+Image credit - DreamforceDisclosure - At time of writing, Salesforce is a premier partner of diginomica. Read more on: Cloud platforms - infrastructure and architectureCollaboration sharing and digital productivityCRM and customer experienceMachine intelligence and AI 

@@ -1,0 +1,50 @@
+
+Bryan Smith, Chief Scientist with PokitDok, doesn’t care for the “data scientist” label, though he concedes it hasn’t hurt his career. Smith, who has a Ph.D. from Caltech in Neuroscience, has crunched numbers in less glamorous circumstances, like in 2004, when analyzing a 400 gig data set required dozens of networked computers. After appearing on the Consensus 2016 Enterprise Blockchain panel I wrote about Wednesday, Smith joined me to dig into the viability of the healthcare blockchain.
+PokitDok, which bills itself as a “Cloud-based API platform designed to make healthcare transactions more efficient,” is not technically a blockchain startup. But PokitDok intends to organize a blockchain healthcare consortium, and is now developing blockchain functionality for some use cases, with one of them live on Azure as of this writing.
+4,000 apps have already been developed on the Pokitdok platform, with a couple hundred live in production. That growth allows Smith to view blockchain’s potential with a careful eye, knowing PokitDok isn’t dependent on blockchain adoption.
+That said, blockchain figures prominently in Pokitdok’s plans (see Dokchain.com for an early look at their intentions). During our chat at Consensus 2016, Smith told me about his “gotcha” moments with data science, and how he now applies that to healthcare scenarios. Then we talked in more detail about blockchain’s healthcare prospects, and the obstacles ahead (for more context on blockchain itself, check my prior piece).
+Applied data science – “holy [email protected], this stuff works!”
+Jon Reed: When did you start to see the potential of “data science” to solve business problems?
+Bryan Smith: About five years ago, at a social media gaming company. I landed that job because they posed to me a very interesting problem, which was: “We have a bunch of users playing our game; our conversion rate is lower than we’d like it to be. Can you come in and help us acquire high-propensity spend users?”
+Reed: And you said – sure, no problem.
+Smith: (laughs). Yeah – I was like, “Yeah sure. Easy.” It was one of my first successes with analytics of that sort in a business context. I came in, did some modeling. We charted users in a Facebook graph. The results of the model and conversion more than doubled from that effort. The amount spent per spending user went up by one third. And I was like, “Holy shit this stuff really works.”
+I already knew the math worked; I knew that the algorithms would work in order to answer the questions. But seeing real-time application of that to this problem of acquiring users, and solving a business challenge, was extremely eye-opening for me.
+Healthcare and the blockchain – chances for adoption
+Bryan Smith
+Reed: I was fascinated by the contradictions you were raising around the healthcare blockchain. As we look for blockchain use cases beyond financial services, healthcare looks like the perfect “low hanging fruit” given the issues of compliance and trust and regulations where blockchain has promise. But on the other hand, it’s double-edge, because there’s also some pretty conventional stuff you have to cut through regarding approvals…
+Smith: Like fax machines?
+Reed: Yeah, that’s one thing.
+Smith: Healthcare is the one industry that keeps the fax machine paper manufacturers in business. It’s between that and the photo copiers, right?
+Reed: And then HIPPA compliance, which is a double-edged sword in itself, right?
+Smith: By mandate, HIPPA is designed to accelerate technology adaption, so that data can be sharable for clinical purposes, but still maintain privacy. Instead, it has become the bane of the existence of anyone trying to analyze data in the healthcare space.
+Reed: So how can you get around that?
+Smith: Well, first of all, our first healthcare blockchain use case are not in the EHR (electronic health records) space.
+Reed: Why stare the beast straight in the mouth, right?
+Smith: Exactly. There are sufficiently large beasts elsewhere in healthcare. If you look at the healthcare ecosystem, there’s the patient, the insurance companies, and there are the providers. Sitting between each of them is some kind of intermediary. Even between the patient and the provider there’s EHR, which is an intermediary of sorts. And in between the providers and the payers, there are the clearing houses/trading partners.
+Reed: And you think blockchain has a role to play there?
+Smith: Blockchain has the power to disintermediate these kinds of systems. If we were to go after EHRs, we would be dealing with Epic and Cerner and all these folks. We’d have to worry more about the HIPPA stuff. Everything we do at Pocket Doc is HIPPA-compliant, because we do have patient data. We run an eligibility check for example. You’re getting back all this personally identifiable information.
+However, when we are engaging with the clearing houses and the kind of business they’re conducting, it’s a whole different set of things than when you’re dealing with actual diagnostic, and all the stuff that goes in the EHRs. That’s part of why we decided to focus first on the clearing house transactions instead of on the health record.
+Honing in on healthcare use cases
+Reed: What would be some of the examples of some of the clearing house transactions?
+Smith: There’s a whole set of them. Everything from checking eligibility to pre-authorization to submitting a claim, checking claim status.
+Reed: On the panel, you mentioned there’s this huge sum involved in delayed claim processing, where three months after some type of medical visit, you might get an annoying bill for something.
+Smith: Yes, and the overhead is significant. On average, the processing for a claim like that accounts for 20-40 percent of the total bill.
+Reed: It’s kind of a hostile process for everyone involved. It’s frustrating for the patient, and it’s frustrating for the provider. It’s equal opportunity frustration.
+Smith: Yes. The only people not frustrated by it are the clearing houses and the payers. The payers, in many cases, own stakes in the clearing houses. So that makes it a fun game for us to get to play.
+Reed: So how can Pokitdok change that?
+Smith: That’s what we’re working out now. We think that some of the core tenets of blockchain as a technology help solve these industry problems. We don’t have to solve the problem; we just have to bring this technological solution and help drive adoption, which is a good position to be in. It’s still a challenge. You’re talking about the disintermediation of literally a multi-trillion dollar business.
+How do you overcome institutional resistance?
+Reed: So how do you overcome the resistance by entrenched interests?
+Smith: I estimate the national healthcare expenditure will be $3.2 trillion this year. Any marginal fraction of a percentage point in efficiency gains in that system are huge dollar gains. We – and some of our customers – are motivated by those efficiency gains. There are parties who probably do not want to see these efficiency gains. Not just because they employ hundreds of people to do these things, but also because their business models today are predicated on some of them.
+So we are building a healthcare blockchain consortium. We are bringing to the table technology partners, payers, health systems, hospital systems, banks, and the BPO/SI folks.
+Reed: You hope to change the perception from blockchain as a threat, to gaining from blockchain adoption.
+Smith: Yes- we’ll see if it works. I can’t talk about our partnering strategy yet, but I think the players we will be bringing to the table will make this considerably less difficult than people might imagine it’s going to be.
+The wrap – why push for the healthcare blockchain?
+Reed: So if your own products/services don’t require blockchain, why the push?
+Smith: I think it will make selling our existing solutions easier, because we can come in with an immediate value proposition and say, “Look because of efficiency gains that will be realized by this blockchain implementation, you will offset by ten times whatever we’re going to charge you for the other stuff we want to do.”
+Reed: What would be an example?
+Smith: We have a product we call the Health Credit Outcome Score. What we’ve done is we’ve integrated open lending information and census information, under both HIPPA as well Lending Regulatory Constraints. We have a cool algorithm that will return a score that’s related to the patients’ propensity to pay. We have some banks who are working with us to figure out how they can integrate this into their lending decisions for non-acute healthcare services. If we add blockchain efficiencies to this product, the client doesn’t have to believe that the Health Credit Outcome Score works, or that my Claims Decision Score works. I’m already selling them something that’s going to give them enough marginal gain.
+Reed: Much of what I heard about business blockchains this week seems to be about efficiency plays. Is there anything for consumers here?
+Smith: Definitely. Take this EHR example: let’s say I have my full health record in the blockchain, and I have a great app that lets me walk into a doctor, and I can decide with a couple swipes what I want to share with them. As a consumer, I am realizing the value of my data as an asset, which is important. I can select what to opt-in and share with a provider, based on what I think are my needs.
+We’ll leave the conversation there, with Smith’s team working on their healthcare consortium, while adding blockchain capabilities to their apps and APIs (such as their clearinghouse X12 APIs). I’ll check in on their progress down the line.
+Image credit - Feature image - digital pixel EKG electrocardiogram blue background © ninog - Fotolia.com. On-site photo of Smith by Jon Reed.Disclosure - Coindesk provided complimentary access to Consensus 2016; diginomica covered travel expenses.Read more on: Analytics planning and data analysisHealthcare transformation 

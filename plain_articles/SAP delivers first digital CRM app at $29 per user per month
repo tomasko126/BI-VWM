@@ -1,0 +1,32 @@
+
+Notes on mobile apps from 2011
+Four years ago, I showed Bill McDermott, CEO SAP a set of ‘back of napkin’ calculations I’d done which suggested that $1, $2 and $5 a month mobile applications could deliver SAP revenue running at $2 billion. As is mostly the case, SAP didn’t take that idea anywhere.
+Today, SAP announced its first digital for customer engagement (DCE) application, available on 30-day free trial but then costing $29/user/month. There is a SAPPHIRE Now 2015 discount of 15% available on that figure. So, I got it wrong in one sense but am excited in another.
+Back story: a few weeks ago, Paul Greenberg told me I needed to go see what SAP is doing in the digital space and specifically in CRM. His words:
+This is some of the best, most awesome stuff I’ve seen in years.
+I got that opportunity at the back end of last week at SAP’s Palo Alto facility and was more than happy with what I saw.
+From what I saw at the time, DCE is a reworking of an application SAP first tried to launch around the 2011 timeframe. It was a SaaS SFA solution with an added twist around embedded notes a la Yammer while being a bit more user friendly than you’d expect from SAP. All in, it was an OK solution but at $50-65/user/month was never going to fly despite my being told it was working well within the SAP salesforce.
+Price wise, SAP had done its usual thing of applying a high end champagne sticker price on something that was never going to be taken into the field by bag carriers who need minimum $100,000 deals. This time around, they’ve learned the lessons of the past and are going to market on a self service basis at a price anyone can afford. This presents other problems but first – functionally it’s certainly good enough to be useful and as more than a contact manager. Key features from the blurbs:
+
+Contact, lead, and opportunity management: Track all your customer information and interactions in one place
+E-mail service ticket management: Improve customer satisfaction by quickly responding to customer inquiries
+Import contacts from Gmail, Microsoft Outlook or CSV to get up and running quickly
+Collaborate using built-in tools that help you sell as a team
+Personalize the solution to work the way you do
+Sell anywhere with included mobile apps for iOS, Android, and Windows devices
+Leverage powerful, out-of-the-box reports and dashboards to gain the insights you need to make smarter business decisions
+
+The key here is that it has analytics baked into the solution. This is important because as many readers know, we are all becoming more data driven.
+SAP store – digital solutions
+It looks good. I would use it – heck, I’m going to trial this mofo and I’ll let you know how I get on.
+Finally, the direct, self-serve sales channel approach is the one way SAP can go to market in the expectation of building interest. But…
+This solution isn’t without problems, most of which have everything to do with the way CIOs view the SAP landscape. They own it, as does IT and having what would be a rogue app isn’t exactly in their job description. But this is also a mobile app so all those customers with BYOD policies will be hard pressed to lock down an app that users can drop into their personal smartphone space. If that happens then IT is out of the picture – at least temporarily.
+At this point we should remember that there are numerous companies out there that have SAP in their landscape that also have multiple instances of Salesforce. CIOs in that position are having to evaluate whether to consolidate and keep Salesforce or do something else. If DCE takes off in those same places, then you can quickly see where this goes. Indeed, during the media Q&A this morning where the solution was showcased, Bill McDermott, responding to the obvious questions around a Salesforce takeover used that opportunity to say regarding product:
+We will be cheaper than Salesforce
+Woah tiger!
+Now – SAP has a lot to do to compete in a market where Salesforce isn’t the only player and where SAP is coming from a standing start. The good news is that the SAP digital team have been ring fenced both financially and physically within the SAP mothership structure. This, for the first time, gives an innovation center a real opportunity to succeed.
+Game on? We will see but in the meantime we have video to produce from a conversation with Jonathan Becher who leads that team and later in the week, one of the people who has been architecting this solution the last couple of years.
+And while we’re at it – check out the other showcased solutions at price points you’ve never seen before. (see image above)
+Disclosure: SAP and Salesforce are premier partners at time of writing. SAP part funded my attendance at SAPPHIRE Now 2015.
+
+Read more on: Future of workMobile 

@@ -1,0 +1,41 @@
+
+We talk about “right place, right time” – but not enough about drive and curiosity. That’s how Jarod Halpain transformed from a VP of Sales to a VP of Business Intelligence.
+Halpain’s self-education on building QlikView reports led to Modernize asking him to lead their business intelligence pursuits. The use of Qlik within the company is now close to 100 percent adoption. But those adoption stats aren’t the most compelling part.
+The hook is how Modernize uses QlikView to grow their business with data. During a recent chat, Halpain told me how they did it.
+Founded in the Bay Area twelve years ago, Modernize is now based in Austin Texas. Their aim? Be the invaluable home improvement resource for consumers, including connections to the best local contractors. Modernize’s consumer services are free; their paying customers are building contractors. But like most B2B companies, Modernize is now obsessed with the experience of their end consumers.
+The construction industry – not for the faint of heart
+The volatility of the construction industry is not for the faint of heart. Demand fluctuations are a big challenge. Halpain:
+When the construction industry is gangbusters, then we have a ton of supply, so we have a ton of homeowners coming to us looking for projects. Especially in some markets, it gets harder to acquire new contractors, because they’re super-busy. Then we see the inverse, so whenever you see the market dive, then you have contractors banging on our door like, “Hey, we want more leads.” But the homeowners aren’t looking as much.
+Despite the difficult balance, something is working; Modernize has pulled off growth rates of 20 to 100 percent year over year. One key? Sustaining their marketplace balance:
+The crux of the business is that balance… We actually have to build the inventory on a daily basis, so we’re spending money across the entire ecosystem, and digital marketing on a daily basis. So that cost has to be met with sales from those leads, those matches, if you will. That is the balance, and that’s what we’re constantly working to do.
+The first goal – an analytics platform that doesn’t stress out IT
+The other key? Better use of data. And that’s where QlikView comes in. One thing that struck me: Modernize’s first motivation wasn’t insights. It was about putting in an analytics product that wouldn’t be a huge IT burden. About five years ago, Modernize’s COO selected QlikView. Halpain also had prior experience with Qlik:
+I think the reason for the original investment into Qlik was less about the direct insight we were searching for. We didn’t have a direct question that we were trying to answer. It was more about: how do we build a more stable platform, so if we scale, we don’t have to make the same type of investments into the BI infrastructure our COO had to make [at his last company].
+Scaling with growth in mind was the criteria:
+Our COO said, “We can scale greatly with very limited cost to us from a head count perspective if we go in this direction.”
+As he got further into QlikView, Halpain realized Qlik could help them in a way that spreadsheets couldn’t:
+The first reports I built were really simple. I was doing the exports from a third-party system, daily, into a CSV, and then I would take that file and just attach it to the bottom of an Excel spreadsheet, and I would then reload it. And then it would build analytics off of it. I was like, “Man, why do people use Excel if you can just do this?” Because you have so much more that you can do with it.
+They were off and running:
+Quickly we realized that we needed to invest more in QlikView, and more into the development.
+Modernize’s first QlikView reports were SQL-based. They expanded into building QVD-based reports in QlikView. Then they brought in expert QlikView consultants to take it further. “It is very core to our business,” says Halpain.
+Becoming a data-driven business
+Adoption has spread:
+One of the things that I really like about having QlikView is that we’ve adopted it across the entire company. Almost every single person in our company uses it every day. Our account management team, they use it to measure their count on a day-to-day basis.
+We use it to optimize accounts… We have reports that are built specifically for certain groups or certain business units. We have some that are more holistic, that give overall views of the company.
+If the project was originally about keeping analytics simple for IT, it’s now about insights:
+It’s just amazing to be able to really take, from a business perspective, “Hey, here are the macro KPIs that are driving my business” or, “Here are the things that I want to track and measure.” And being able to look at that across all of the dimensions you want. QlikView’s ability to do that really speeds up the analytics, and has been really important for us in our growth trajectory.
+Halpain cautions: access to data doesn’t mean a result. There is a difference between running reports and really using data:
+When I say our people use QlikView, they don’t just log in and do their GPS reports, they use QlikView. They go in and they do analysis on a day-to-day basis, and go back to their accounts and say, “Look, you’re not performing well in South Carolina. What do we need to do to change that? Do you have different sales personnel there? Do you have different call-centers there? What’s driving this huge difference between this market and this market?”
+The company is moving away from gut feel and customer assumptions:
+Having QlikView at our disposal helps us expedite that and really allows us to be more objective as an organization. I think that’s very critical to our culture, is trying to base our decisions and our strategy around the data, instead of just saying, “This is what we feel” or “This is what the customer said they want.”
+This means a big shift with their building contractors. They can now challenge assumptions and help their clients to better results:
+[We’ll say to them] “Let’s figure out if we can validate if that’s actually what’s going on. And then help them come up with a different strategy if we can prove that.” And we have, over and over again, been able to out-perform their businesses, in most cases, from an analytics standpoint, and really help guide them or change their trajectory. That winds up being way more advantageous for their company than what they had originally asked for from us.
+As Modernize pushes towards bigger clients, their data-savvy is winning accounts:
+It’s a key differentiator for us… We still do business with some small contractors, but the majority of the business we do now are from the enterprise, the 5+ million dollar revenue companies out there in the space.
+Being well-versed with data makes an impression:
+When you’re working with, say, Home Depot, you’re talking with a marketing professional who understands the data that you’re showing. So it makes you way more credible in that type of situation.
+The wrap
+Collaborating with clients’ data has proven fruitful. Modernize can show clients how their leads are performing. That leads to data sharing. Most of Modernize’s enterprise clients now send back data loops programmatically, from their CRM system via ETL, joined with Modernize’s data, and presented back to the client. They can now review the same KPIs together. This can lead to practical changes, such as Modernize recommending that a client to expand their service radius geographically, into a more profitable area.
+Halpain knows that data-driven business is a goal, not something you can relax into. So far, he likes the progress:
+It’s very powerful, and it’s a lot of fun. And like I said, it allows us to remain core to who we are, which is a very objective, data-driven company. That’s what we like most about it.
+Image credit - Dreaming about new kitchen. © gstockstudio - Fotolia.com.Disclosure - Qlik has no financial relationship with diginomica. They approached me with an interesting use case - let's hear yours. Read more on: Analytics planning and data analysisCollaboration sharing and digital productivityDigital enterprise in the real worldUse cases 

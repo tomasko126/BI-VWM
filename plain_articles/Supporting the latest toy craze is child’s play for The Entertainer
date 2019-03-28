@@ -1,0 +1,27 @@
+
+Toys galore
+The team at The Entertainer prides itself on being able to spot the ‘next big thing’ in toys and games. A new craze, after all, represents a potential cash bonanza for the UK-based retailer and, in that respect, 2014 was a bumper year.
+The February UK release of The Lego Movie provided a healthy sales boost, as did the mid-summer frenzy over loom bands. Both trends sent customers flocking to The Entertainer’s 98 bricks-and-mortar stores, as well as to its e-commerce website, which accounts for around one fifth of all sales.
+Christmas 2014, meanwhile, was all about Disney’s hit movie, Frozen: in one particular two-hour period pre-Christmas, the website sold 3,000 Snow Glow Elsa dolls in just two hours, peaking at one point at 40 dolls per minute.
+Spotting a trend and being able to successfully exploit it demands careful planning, excellent stock management and a robust e-commerce platform, according to The Entertainer’s head of IT services, Ian Pulsford. In recent years, he and his team have worked hard to put in place what’s needed to support a sophisticated online retail business – and the results speak for themselves.
+In the five weeks leading up to 27 December, online sales were up 60% on the corresponding period of the previous year. Click and collect sales, meanwhile, were up 82% over the same period. He says:
+If, as a company, we can support a craze or fad, we will – especially at Christmas. But this can be a very testing time for toy retailers. You need to have the ‘hot’ toys in stock and you need to make it easy for customers to buy them. Often, they’re in a big rush to get hold of them, too, and they visit the website in large numbers, at all times of day and night.
+So we need scalability, obviously, but we also need services like click and collect, which help to set us apart from the many other retailers that are selling toys and games at Christmas. The company that can put a toy in the hands of a customer that wants it, in as short a time as possible, is the one that wins.
+Keeping ahead of demand
+The Entertainer’s online webstore and the SAP Hybris commerce package that underpins it are hosted in a private cloud provided by Rackspace. Over time, Pulsford and his team have been able to build new services on top of this foundation, including:
+
+a Click and Collect service, which was rolled out 18 months ago
+responsive web design features that allow the website to be optimised for presentation to different mobile devices
+a tablet solution currently being rolled out to in-store sales staff
+and ‘drop ship’ services that allow large and bullky inventory – like trampolines and climbing frames – to be delivered to customers directly from suppliers, saving The Entertainer the problem of storing it in its own warehouse or stores.
+
+Says Pulsford:
+A crucial aspect of Click and Collect is having an effective stock management system, which we also power by the cloud. Every evening between midnight and 4am, we monitor the stock available in each store – every SKU [stock keeping unit], in every store – collecting data on 17,000 products. This ensures that the availability we offer our Click and Collect customers is accurate.
+Let it go (Please!)
+Since The Entertainer typically generates half of its annual revenue in November and December alone, its IT infrastructure needs to be primed to handle significant spikes in traffic and transactions. The 20 December 2014, for example, was the busiest day in the company’s history, by a factor of about 25% according to Pulsford:
+What we tend to do is start planning in April or May, looking at the new online services we plan to launch between Spring and Christmas; we get estimates from the business of the traffic that they want to be able to handle in terms of order and visitor numbers, and we get together with our IT partners, Rackspace and Conexus to understand how we can grow the website in a temporary fashion.
+Using the expertise of these partners, we plan to get additional resources in place for the website. In effect, we create a temporary peak-trading platform with additional servers, more database capacity, extra application servers, more bandwidth. We get that implemented in late September and spend a few days testing it, which basically involves absolutely thrashing the system to breaking point, to ensure we can take the traffic loads that we’re expecting – and a lot more than that, preferably.
+But we also want the website to ‘fail gracefully’ if it’s going to fail at all. If we suddenly get a flood, it will send customers to a holding page and explain the situation to them. But hopefully you don’t get to that situation.
+Disclosure: at time of writing, SAP is a premier partner of diginomica. 
+
+Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureCRM and customer experienceDigital and content marketinge-commerceInfrastructureMobileRetail e-commerce and the omni-channel 

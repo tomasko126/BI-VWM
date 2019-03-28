@@ -1,0 +1,51 @@
+
+Larry Augustin
+In the hubbub of the cloud marketplace, we tend to listen to those who shout the loudest. But one of the risks of crowd-pleasing pitches from the corporate soapbox is the comedown that customers will experience if the product doesn’t live up to the hype.
+This is especially true in the CRM space, where depth of service truly needs to match the spin. But it’s not uncommon to hear of customers moaning about the lack of depth and agility within the very application suites that are supposed to give them that depth and agility.
+One of the quieter CRM voices in recent years has been SugarCRM, and in a cloud-centric world that makes them interesting. While CRM peers focus on growing bigger and broader, and building further and further away from their foundations, SugarCRM has taken the opposite approach –  the perennial ‘best of breed’ vs. ‘do it all’ strategy. According to SugarCRM CEO Larry Augustin:
+
+The problem is [the cloud industry] has recreated the vertical stack, and it’s operated by a single vendor. There are benefits, in that it’s easier for the vendor, and the customer gets some agility in terms of being able to turn things on and off, but you lose that integration with other applications and with your own data. In the short term, there are benefits in the current cloud model, but in the long term, integration and platform issues are problems that they really need to solve.
+There has always been this divide between best-of-breed and integrated suites. The best-of-breed focus gets you strength and depth around a particular business area, while you often find that these giant suites are really put together through acquisitions, and they still need to be integrated.
+
+A case in point might be Salesforce’s recently announced plans to acquire e-commerce firm Demandware for $2.8 billion. Augustin says this is not a surprise move from his perspective:
+
+[Salesforce’s] business has been about expanding their suite of applications, not about investing in CRM. They’re building a whole suite, but we see our business as being about the depth of CRM. We’re going deep because we think there is so much more to be done in the CRM world.
+
+That’s not the only differentiator for SugarCRM, he adds. For example, while the Oracles, SAPs, and Salesforces of the world have invested vast sums in building data centers across the world, only to find the international political climate becoming more complex for data, not less, SugarCRM has left infrastructure up to the infrastructure specialists. This, says Augustin, has left the firm free to focus on product depth:
+
+One of our differentiators is that we can run on different cloud platforms and in different hosting environments, offering better security and more control. We can go in country, but also run closest to where the business is, which is increasingly important for regulation and data protection.
+We don’t invest in our own data centers, we run off other people’s. We’re a CRM company, not an infrastructure provider, so we’ve decided to leverage the growth of the cloud through others. It’s been a good choice for us. We run off Amazon Web Service (AWS) data centers in Europe and we also have an agreement with Deutsche Telekom; we operate and sell through them.
+
+(Other resellers also offer SugarCRM solutions.)
+Brexit bother?
+But those international complexities don’t just disappear, whatever your business model. Fifty-six per cent of SugarCRM’s business is non-US, and the UK is the biggest European territory for the company. How might the prospect of a UK withdrawal from the European Union (EU) impact on a business that helps customers manage their own data? 
+At a time when other cloud firms have taken a vow of silence over Brexit, Augustin is comparatively candid: 
+
+Good question. We don’t see a big impact for us, though. We have the ability to run in different data regimes. Potentially, some different data protection and privacy laws may emerge from a Brexit. We would have to see if we still comply with any changes that might result. But in a broader sense, there is the bigger question of what does it mean for companies in the UK and on the continent of Europe, as you have a common data security and privacy regime, and were that to change…
+
+The UK is hardly alone in existing in a shifting landscape of regulations and political uncertainty. The US Safe Harbor agreement is gone, no-one’s happy with the replacement Privacy Shield and the EU is at odds with the US over data transparency, transfer, and security. Says Augustin:
+
+For us, it doesn’t create problems, because we’ve chosen a business model where others host our products and we have resellers who are local, so we can always deliver to our customers within regulations. But we see more and more countries moving towards data security and privacy laws that require their data to be kept within the country, such as Russia and Canada, and potentially others.
+
+This need to run applications on multiple infrastructures is not just being driven by data security and privacy laws, explains Augustin, but also by the business need to interrogate data:
+
+The challenge that cloud vendors face is the volumes of data that you have to push off to a remote cloud service through an API call rather than have a high bandwidth connection into your own database. SaaS vendors really have to shift their model to leveraging other cloud infrastructures, because customers increasingly want other capabilities, like analytics on big data or the Internet of Things, and integrating that with other applications.
+The more data becomes remote, the more problems proliferate with vertical SaaS vendors. Customers want to be able to drill down into the depths of their data, and that will force SaaS vendors to rethink. Vendor-managed and operated data centers made sense for a time when consolidation and managing the resources suited the vendor. After all, most of those SaaS models started before there was a proliferation of IaaS options and cloud portability. But now it makes sense for countries and companies to have their data locally.
+
+There’s mounting evidence that Augustin may have had the right strategy all along. While Salesforce runs the overwhelming majority of its service from its own data centers, it recently named AWS as its preferred public cloud infrastructure provider for use on initiatives such as its IoT Cloud.  That’s an interesting change of tack. 
+Human interaction
+SugarCRM’s annual customer event, SugarCon, takes place next week in San Francisco, on 13-16 June. The theme will be business transformation and transforming relationships, says Augustin:
+
+CRM is a business transformation technology, and we see digitisation driving business more and more. But for customers, most buying happens before they talk to anyone in a company. Businesses used to control a lot of the communication and played a large part in educating the consumer, whereas today the consumer educates themselves on the internet. So a company has to figure out how to insert themselves into that channel. The single most influential part is still the human interaction with a company.
+
+But what about those customer organizations – banks, utilities, and telcos among them – that use CRM and automation in anger to slash costs and keep customers at bay? Says Augustin:
+
+You want CRM to add value, not cut costs. If you take the human out of the equation, you create a poor customer experience. But of course, consumers don’t always want to go through a person; I don’t need to talk to a human being to check my balance. But that’s about convenience for the consumer, not about cost savings for the company. 
+We espouse customer journey mapping. You walk through the process by putting yourselves in the customer’s shoes. You talk about how customers use your services, not how you as a company want them to use it. Automation should never get between you and the customer, driven by cost savings. 
+CRM has to span the digital and the human and enable human interaction. As you transform your business, you have to enable human interaction. It’s still the most important thing.
+
+My take
+At last, it seems that SugarCRM is engaging in more human interaction itself, by opening up and sharing its story with the world.
+Augustin makes an interesting case about the giants of the SaaS world growing ever larger, and the danger of growing ever more remote from their founding purposes (and perhaps their customers too). Maybe as the hubbub of the cloud market dies down and a modicum of good sense, pragmatism, and transparency replaces it, the quieter voices will have their day.
+A major new customer win and SugarCRM could find itself much more in the spotlight than it has been of late. Could a big announcement be in the offing? I’d bet on it.
+Image credit - SugarCRM/FreeImages.com Disclosure - At time of writing, Oracle, Salesforce and SAP are premier partners of diginomica. Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceData privacyInternet of ThingsOpen source 

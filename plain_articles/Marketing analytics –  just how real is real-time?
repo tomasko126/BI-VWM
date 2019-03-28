@@ -1,0 +1,44 @@
+
+There’s a shift happening in the marketing analytics industry. One that is pushed by the need for real-time insights that not only tell us what’s happening in the moment with a visitor but also automatically feeds the applications that adjust that visitor’s experience at that exact moment in time.
+Last week I wrote about the need for analytics to do more than just report insights; about the shift to digital intelligence technologies that provide customer data, analytics and optimization all integrated into a nice neat approach to improving the customer’s experience.
+How real is real-time?
+But let’s step back and talk about a couple of challenges with analytics that could keep this shift from happening. Most web analytics solutions:
+
+Store aggregate data, not individual visitor data.
+Provide a set of real-time reports that aren’t necessarily “real-time”. Many time I’ve spoken to analytics providers that acknowledge that real-time is “near real-time” which can mean anything from 24-48 hours lag time.
+Don’t have direct connections to marketing tools such as marketing automation or personalization to provide real-time insights that feed the next steps in the visitor’s experience automatically.
+
+Historical trend data is useful; marketers can use it to see how campaigns or websites perform over time. What products or content is driving more conversions, where prospects are dropping off in the purchase journey and so on.
+But any marketer can get that information from their analytics and use it smartly. It’s not a competitive differentiator – it’s table stakes.
+It’s the ability to see the data in real-time. Not “near” real-time, but right here, right now. And not only see it in a set of reports but have it directly and automatically influence the next interaction you have with a visitor or a customer.
+Even better, connect that real-time visitor data with their historical visitor data and, mashing it all together, better predict the next step in the journey.
+Sounds lovely, doesn’t it? Are we there yet? Not really. Not just from a technology perspective (because we are getting closer as I’ll explain in a minute), but from a people and process perspective. And from a “don’t freak out the visitor because you seem to know just a little too much about me right now” perspective.
+But let’s leave the visitor alone for now. Some of us demand the highly personalized contextual experience, some of us don’t. We could spend hours debating privacy.
+To infinity and beyond
+Okay, so that title doesn’t really mean anything, I just thought it was a fun way to introduce Webtrends Infinity Platform.
+The Infinity Platform is a big data warehouse, combined with a real-time streaming data pipeline and open, real-time reporting of all data from a single user interface. From a high level, it seems like everything a marketer needs, even if they aren’t quite ready for it.
+Webtrends Infinity Platform offers the following:
+
+A big data store that stores all data at the individual visitor level, including session and event information.
+All the yummy standard reporting marketers do today for websites, mobile and social properties.
+True real-time reporting all the time.
+Ad-hoc data exploration and segmentation of all data.
+Integration with other marketing systems that feed data to influence personalization and marketing automation activities (including its own).
+The ability to export the entire visitor data set into your data lake or data warehouse, combining marketing analytics data with other customer data (and using that data in BI tools for other analysis).
+
+Webtrends believes the future of analytics is changing; the data is changing, the way you use data is changing, and it is building a platform that supports that future. It’s aligning with Forrester’s view of digital intelligence, although it doesn’t offer all the capabilities digital intelligence implies.
+But Webtrends isn’t the only analytics vendor playing the big data, or real-time analytics game.
+A 360 degree customer view
+We aren’t comparing apples to apples here, but seeing that Webtrends is doing with its analytics platform, it’s worth get a glimpse at how Google is applying similar ideas.
+Two things to point out from the Google Analytics 360 suite (there’s a lot more than I’ll mention here as the focus now is the big data analysis, real-time reporting and personalization capabilities).
+The first is that the standard Google Analytics service isn’t serving up real-time big data insights for everything (although it does have real-time reports available). But it does offer the ability to do analysis on all the raw data it collects.
+To do that, Google exports the analytics data at the session and hit level into the BigQuery Project where you can then analyze the data any way you want. This service speaks more to a data scientist or a highly experienced analyst – but it’s there to do when you need it.
+The other interesting aspect is Google Optimize 360 which is currently in beta. Optimize is testing and targeting (personalization), but it’s audience-based personalization, not individual-user and the personalization applies to the web experience, not to integrations with other systems for things such as emails, SMS or other engagement approaches.
+And then there’s Adobe
+Perhaps what Adobe is doing with its analytics is much closer to what Webtrends is doing. Adobe Analytics does provide ad-hoc analysis of visitor information, although it is a separate application.
+It also provides a set of reports for real-time viewing of what’s happening on your properties, and you can customize them. It integrates with Adobe Target to support testing and personalizing experiences, but it’s unclear from what information I found if that personalization can happen at the individual user level, or just the audience level.
+I could go on, but let’s pause
+There is so much to know and understand about analytics that I’m only scratching the surface of a few specific capabilities that are needed to create better customer experiences. Webtrends’ decision to go big data and real-time all the time requires some substantial technology to keep it running smoothly, but that technology is becoming available.
+Both Adobe and Google may get to this point quicker than we think, considering the capabilities are already there in some capacity. Or maybe they’ll focus on other areas. Both are leaders in digital marketing analytics according to Gartner, so they certainly know what they are doing.
+It is interesting to see how the analytic market is evolving. Webtrends has come a long way in a short amount of time, prepared to support marketers on a very necessary level. There are others in the market working hard to do the same, many worth checking out.
+Image credit - Stock price chart © Marc Pinter - Fotolia.com.Disclosure - Diginomica has no financial ties to Webtrends or Adobe; diginomica is a Google customer and uses Google Analytics.Read more on: Analytics planning and data analysisContent marketingDigital and content marketing 

@@ -1,0 +1,38 @@
+
+I can see you
+Whilst most people agree that it is necessary for the government to carry out some sort of surveillance of online communications data, it is also true that the devil is in the detail. The balance between security for society and individual democratic freedoms is a fine line and governments have a tough job in pinning down exactly where that line is drawn.
+However, I would argue that given what is at stake (our liberties), there is no room for ambiguity in legislation that gives governments mass surveillance powers. Which is exactly what the current proposed Investigatory Powers Bill has a lot of: ambiguity.
+I am aware that a lot of our legal system has its ‘grey’ areas, but I believe that this is a bill that should leave little room for confusion.
+The Science and Technology Committee in the UK, which is formed of a number of MPs, has just released a report saying that the bill does exactly that. It lacks clarity where clarity is in fact needed.
+It’s important to note, however, that the Committee did not set out to comment on whether the Bill itself is proportionate. It set out to determine rather whether the technical capacity of the bill is fair on the communication service providers and ISPs that will be tasked with storing a year’s worth of data for each customer. There report states:
+In our inquiry we have focused on critical technological aspects of the draft Bill. We have not addressed the need or otherwise for the communications monitoring provisions or whether they are proportionate to the threats they are intended to deal with.
+Our focus has been on how the main technological issues involved might affect the communications businesses that will have to collect data and provide access to the security authorities. If we do not get these technological aspects of the Bill right, not only will the Bill fail to achieve its security objectives but it will also damage our digital economy.
+The evidence
+ However, I believe that in doing this, the Committee has touched on some fundamental flaws that also have an impact on whether the Bill fairly reflects the scale of the threat from terrorism.
+For example, the Committee heard evidence that there is real concern about whether the measures will actually work in practice, given developments in technology and whether or not overseas communications service providers will cooperate.
+Professor Ross Anderson, a professor of security engineering at the University of Cambridge, said:
+… technology just changes too fast. You cannot expect to have a Bill that will last for 25 years unless you have lots of Henry VIII clauses in it and do everything by statutory instrument, which creates problems of its own.
+The thing that is about to hit us, of course, is the internet of things. The Bill makes some provision for that by talking about things as well as persons, but the true implications of what it means to allow bulk equipment interference, for example, with road vehicles will probably have to be revisited once people start using autonomous vehicles at scale.
+Simply put, what is agreed now is hardly going to stick in two or three years time when the technology landscape may well be very different. Will the legislation agreed this year still stand?
+However, the most critical part of the report, in my view, relates to the definition of ‘internet connection records’ (ICRs), which are essentially the data that the ISPs will have to store.
+The Home Office defines ICRs as the ‘who’, ‘when’, ‘where’ and ‘how’ of a communication, which is also often referred to as the metadata. But importantly, the Home Office has said that it doesn’t want this data retention to include the content of a communication.
+So for example, it would recognise that you had visited google.co.uk, but it wouldn’t recognise the searches you carried out on that page.
+However, according to the evidence heard by the Committee, distinguishing between content and metadata is not necessarily straightforward because “the web is not a single application”. The report states:
+For a typical internet user, a number of different services are used at any one time, all of which blur the lines between content and metadata. According to Cisco, at present, in order to understand what someone is doing online, CSPs effectively need to track all of the data all the time.
+Equally, the Open Rights Group told the committee that ICRs could be used for a “much broader range of purposes than stated in the guidance”. They added:
+ICRs are defined by their use and access regime, and could be understood very narrowly as a list of websites visited or services used, or quite broadly as covering almost all the types of communications data. … The creation of ICRs of web interactions could require the recording of full URLs … [which] would then be edited in order to generate a history of sites visited, which is not as simple as it seems.
+James Blessing of the Internet Service Providers Association went as far as to say:
+An ICR does not exist—it is not a real thing in the Internet. At best it may be the collection of, or subset of, communications data that is retained by an operator subject to a retention order which has determined on a case by case basis what data the operator shall retain.
+It will not be the same for all operators and could be very different indeed. We would like to see the term removed, or at least the vague and nondescript nature of the term made very clear in the Bill and explanatory notes.
+Recommendations
+The report is quite broad ranging and I’ve only picked up on what I believe to be the most interesting parts in this write up, but here are some of the recommendations and conclusions that the Committee notes:
+
+“While we are encouraged to learn of the Government’s ongoing engagement with the internet industry, there seems still to be confusion about the extent to which ‘internet connection records’ will have to be collected. This in turn is causing concerns about what the new measures will mean for business plans, costs and competitiveness.”
+“The Government, in seeking to future-proof the proposed legislation, has produced definitions of internet connection records and other terms which have led to significant confusion on the part of communications service providers and others. Terms such as “telecommunications service”, “relevant communications data”, “communications content”, “equipment interference”, “technical feasibility” and “reasonably practicable” need to be clarified as a matter of urgency. The Government should review the draft Bill to ensure that the obligations it is creating on industry are both clear and proportionate.”
+“There is some confusion about how the draft Bill would affect end-to-end encrypted communications, where decryption might not be possible by a communications provider that had not added the original encryption.”
+
+Notice what word keeps popping up? ‘Confusion’.
+My take
+As I noted above, whilst the Committee didn’t set out to comment on the balance between personal liberties and security for society, in highlighting the lack of clarity in the proposed legislation, it has brought attention to the fact that the Investigatory Powers Bill provides scope for confusion around what is appropriate and what is not.
+There is a lot at stake here and the public can’t afford for the government to get this wrong. Whilst surveillance is necessary, so is privacy. And any ambiguity needs to be ironed out prior to the Bill being passed.
+Read more on: Data privacyRegulation 

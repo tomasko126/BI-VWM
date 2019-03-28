@@ -1,0 +1,26 @@
+
+We are on the cusp of the Fourth Industrial Revolution, which will see humans handing over many of their traditional functions to machines. However, as we consider the role of artificial intelligence (AI) technology in our future society, concerns are already being raised about inherent biases built into computer systems, a hang up from the prejudices and views us humans have ingrained in us.
+Recent scientific research revealed that in one AI system, the words “female” and “woman” were more closely associated with the arts, humanities and the home, while “male” and “man” were linked to maths and engineering professions. The AI technology was also more likely to associate European American names with pleasant words such as “gift” or “happy”, while African American names were more commonly associated with unpleasant words.
+So how can we ensure that AI systems, which are going to have an increasing amount of influence over our lives, can shed themselves of these biases? A panel of experts at Dreamforce came together to offer advice on this issue, offering useful tips on how businesses can ensure that AI technology they develop or make use of is neutral rather than biased.
+KG Charles-Harris, Quarrio CEO, noted that a core problem around understanding AI bias is that the maths that underlies the data science is usually opaque; most people don’t have an insight into how the different algorithms function. As evidence of this, he asked how many people in the room understood how the algorithms of Salesforce’s own Einstein AI technology work – just one person raised their hand, who happened to be a Salesforce employee. Charles-Harris added:
+It’s very difficult for us normal people to understand why things are happening. Bias by its definition means error. If you have a data set with a group of customers or potential customers with certain types of characteristics, these characteristics are based upon the data set.
+But what do we know about the data set – where does it come from, who collected it? There are a number of questions we as data scientists need to ask in order to understand where the data set will actually drive us in the wrong direction or overemphasize something that will be very negative for a certain population group.
+Kathy Baxter, User Research Architect at Salesforce, said a first step for organisations should be researching the biases that exist within the business.
+AI is a mirror that will hold up your biases. You need to be aware of what the biases are that exist in your data set or in your algorithms. Otherwise recommendations that are being made will be flawed.
+Baxter said that a common problem with AI systems is that customers who are highly engaged with a company’s product will be overrepresented in the data set, meaning those who are not represented on a large enough scale are going to be ignored.
+Revisting
+Charles-Harris encouraged businesses to revisit original data fed into AI systems to ensure fair representation for everyone, not just certain groups:
+Technology by itself is a false multiplier. Anything that we want to happen or anything that has an unintended consequence is multiplied many times over. When we’re looking at the essence of how these things can go wrong, we have to understand that unless we look at it from the beginning, at the data set and algorithmic level, things will go wrong.
+You may not explicitly enter race, for example, into your algorithms, but if you enter an income and zip code, that is a proxy for race. So biases can come in whether you intend them to or not, so it’s a matter of being aware of the factors being used and the factors being excluded.
+A core part of this is getting non-technical people to have conversations with the data scientists, to ensure these issues are considered.
+Charles-Harris admitted that one of his downfalls in entering the AI domain is how narrowly focused he has been on the technology. He added:
+This has caused errors for me, for my company, for the customers that were completely unintended. Literally half an hour’s conversation with a sociologist could have saved a couple of million dollars.
+Ilit Raz, CEO at Joonko, an AI-powered diversity and inclusion coach, called for all stakeholders to get involved in the process of creating the data and shaping AI systems. She cited the example of Netflix, which likely bases its content decisions on its most engaged users, as that small vocal minority will be producing the vast majority of the data:
+Every stakeholder in the process can contribute to the discussion even by just asking some questions. Just asking these questions is probably going to lead these data scientists to the right point.
+However, the fact that AI bias is now being discussed is a positive step in tackling it, according to the panel. Baxter noted:
+There’s much more discussion now because there’s much more awareness of these biased algorithms. People might not have been aware that they were a victim of these algorithms and now people are starting to ask questions. It’s a matter of going back to truth and values, and what are the factors that we use in the algorithms.
+ 
+ 
+ 
+ 
+Image credit - Madeline BennettDisclosure - At time of writing, Salesforce is a premier partner of diginomica. Read more on: IoT robotics and AI 

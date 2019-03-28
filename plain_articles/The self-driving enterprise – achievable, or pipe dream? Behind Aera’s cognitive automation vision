@@ -1,0 +1,67 @@
+
+Let’s face it – most companies are still grappling with automating transactional workflows. But the team at Aera is pushing ahead into cognitive automation, putting pressure on stale ERP models as they go.
+Analytics players should feel the heat also. As Aera CEO Frederic Laluyaux told me, they’re pushing beyond the dashboards ERP and BI vendors have seized upon. Aera’s goal is to automate your analytical pursuits, anticipating the best actions.
+Ever since the notoriously crusty hard-to-impress Brian Sommer wrote a glowing review in A new Aera for ERP in the search for productivity gains, I’ve been wanting a closer look. I got just that during Constellation Research‘s Connected Enterprise 2017 event, where Laluyaux was also a panelist. Laluyaux also played me the Alexa-like productivity demo that wowed Sommer and audience at a prior accounting event, AI and Big Data – three years in the evolution of accounting  (scroll down for my Aera demo recording).
+The challenge of massive external data sets
+I recommend Sommer’s prior Aera post for context; I won’t repeat that here. But Sommer makes a point that launched my discussion with Laluyaux. As Sommer wrote, Aera is amongst a new wave of vendors with solutions that reckon with external data:
+
+Use massive datasets from the get go. They’re not limited to the constrained, highly structured accounting and other internal transactions that ERP solutions use. They use giant social sentiment, sensor, weather, email, graphic image and other data stores to get more of the ‘picture’ than an ERP solution gets within the four walls of a typical enterprise.
+Complement, not replace, ERP products. ERP is good for basic, internal transaction processing but it wasn’t designed for the age of large data sets, social media, personal digital exhaust, etc.
+
+Definitely a void that needs filling. But what sets Aera apart? Laluyaux says it’s the pursuit of something he calls the “self-driving enterprise.” And what the heck is that?
+Making bad decisions faster is a fail
+That brings us back to Aera’s launch on June 19th of this year. Laluyaux admitted he was nervous at launch:
+The reaction in the market’s been really strong. You never know when you launch this concept, whether people are gonna think you’re out there, you’re too behind, you’re ahead, or you’re right there.
+And?
+From an enterprise perspective, the demand is there. I talk every day with large companies who still have the same problem: “I need to reduce my working capital; I need to reduce my inventory by X billion of dollars.”
+That’s the limitation of optimizing transactions:
+I’ve optimized my transaction automation process, but it doesn’t yield to anymore real improvement anymore, so what else is there?
+Frederic Laluyaux
+What else is there? That’s the kicker question. Part of the answer is real-time data. In order to move beyond transactions into the holy grail of the intelligent enterprise, we need real-time data visibility.
+But real-time data is easier said than done. Data volumes are surging. Visibility across channels is harder each day:
+We’re being asked to make decisions in real time all the time, with limited visibility on the impact of the decision on the entire value chain. It’s getting increasingly complex.
+We talk about time to decision, but so-called “analytics” can backfire:
+A lot of the tools we’ve had available to us as information workers for the last twenty years were really helping us make the bad decision faster.
+Why do we need a self-driving enterprise?
+Making bad decisions faster isn’t a nice outcome:
+When you’re an account executive in a CPG company, and you have to define a promotion, there’s too many variables. You cannot think through them all, and you can’t do it fast enough. You need to define the level of inventory you need to leave the shelf at one, you need your point of sale data – you don’t know how to do this, it’s too complex. You just talked about external data – we keep adding components to the model.
+So what’s the alternative? That’s where Aera’s self-driving enterprise comes into play:
+I need to be autonomous, I need to execute the actions quickly, and I need some help. Our belief is that we’re moving from an era of transaction automation, into cognitive automation.
+Sounds a lot like what a BI vendor might say. But Laluyaux disagrees:
+That’s different from BI. It’s different from data visualization. Yes, we have all these components in our software, but our fundamental belief is that companies are going to start spending a lot of attention on how decisions are being made.
+That means automating decision-making wherever possible:
+It’s not about “Can I make that decision faster or better; it’s about how they are being made, in which context, and how can I automate how decisions are being made and executed?
+Laluyaux came up with the “self-driving enterprise” phrase while struggling for a catchy way of describing Aera’s impact:
+[Today’s enterprise] is fundamentally operating in real time, and it’s fundamentally always-on. Hence, the analogy with the self driving car – the self driving enterprise, right? The cognitive operating system in your car is real time, always on, and autonomous. We need that at the individual company level, but also as a network.
+Cognitive automation in action – Aera’s live voice UI demo
+Cue our two minute voice demo. Laluyaux emphasizes that voice is just one interface into Aera, but it makes for a catchy example. Here’s Laluyaux querying the Aera system:
+
+You can also listen or download the two minute audio demo on Sound Cloud at Aera – cognitive automation voice UI demo. (Yes, that’s a bird chirping at the end – we did our interview on the sunny deck).
+
+As you can hear, an inventory backlog in Latin America is identified by the voice assistant, and a solution with excess inventory in Mexico is recommended. During the recording, Laluyaux explains this demo is the “tip of the iceberg”:
+Laluyaux: What’s interesting is not the fact that it speaks; that’s pretty easy. It’s what it says: It’s the “I found.”
+Reed: And also the why – it was able to provide you with an explanation/recommendation. You could have spent an hour trying to figure out why there is a backlog, and now you know.
+Laluyaux:  And that’s not even AI – I didn’t use any AI there… it’s just some modeling. If I’m an analyst, and you ask the the question, “What is my backlog and why?” I’ve got to follow a series of steps. Aera [automates that].
+Sommer witnessed the power of this “what’s my revenue this month?” voice demo at an accounting and big data show:
+
+In seconds, Fred showed how natural language technology understood his request. AI technology had already learned that people follow patterns in how they deal with shortfalls or excesses in revenue. The software assessed the current situation and recommended relevant courses of action. And, finally, it was linked to workflow and the underlying ERP and other operational systems to make the changes happen.
+
+The reaction?
+
+The audience spontaneously burst into applause at the completion of his example. And, in that moment, everyone knew this: Big Data, AI, etc. had not only intersected with accounting, but, the technology was no longer a vision but very real and do-able.
+
+My take
+Laluyaux isn’t an enterprise newbie; he’s been trying to conquer these types of problems since the 1990s. So why does he think we finally have a shot at it now?
+
+The tech is finally ready
+We can now combine transaction-level information with complex business models and real-time collaboration.
+
+Once you’ve got those three keys, you unlock the kingdom of cognitive automation.
+He cited a big data customer example:
+Today, for one of our customers, we’re pulling 1.2 billion rows of data in our system every day. We’re doing 2,800 calls inside their transactional systems every day, and they have real time access to this data. They’re now working towards a self-driving supply chain, and that’s real, and it’s one of the most complex companies in the world.
+Laluyaux acknowledges we are on the beginning of the cognitive automation journey. Like self-driving cars, the self-driving enterprise will be a process, not a flip of the switch. We’ll gradually turn over more decision automation to intelligent machines, designed with proper human interventions.
+Honestly, I don’t really care if the buzzwords Aera uses end up sticking to the wall or not. But asking your system about revenues, learning of shortfalls, and obtaining recommendation actions, all with a few conversational queries – that works.
+I’ve written before about the stages of cloud ERP value realization, and how most vendors – and their customers – are, at best, in the “real-time visiblity/dashboarding” phase, mostly with internal data. The next push will be digital business models and predictive approaches that require an ability to pull in reams of diverse and unwieldy external data. That’s a data beast ERP vendors are mostly just beginning to grapple with. Analytics and planning vendors are giving this a go also. I like how Aera articulates both the problem and the solution.
+Aera is still pushing to integrate with the big players. Laluyaux  says they’ve mapped to 18,000 fields of ERP, and integrated to SAP, Oracle, and Salesforce, with more on the way – “We probably still have ten times more to do.” And last week, Aera announced its full suite of “data enabled cognitive skills” for the supply chain.
+I look forward to tracking the progress – the next step for me will be a deeper profile with a customer or two. As soon as Aera has one for me to dig into, I’ll take them up on that.
+Image credit - Thumbnail of Frederic Laluyaux provided by Couchbase. Feature image - Fast internet concept. Autonomous self driving vehicle car technology © pathdoc - Fotolia.com.Disclosure - Constellation Research provided my accommodations and media pass to attend Connected Enterprise 2017. Diginomica has no financial ties to Aera Technology. SAP, Oracle, and Salesforce are diginomica premier partners. Read more on: Analytics planning and data analysisCloud ERP financials and supply chain 

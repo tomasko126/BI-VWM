@@ -1,0 +1,60 @@
+
+Girsch of Auto Europe at OpenWorks ’19
+At this year’s MariaDB OpenWorks event, MariaDB emphasized its enterprise push with the announcement of the MariaDB Enterprise Server.
+No surprises there – open source databases with enterprise ambitions always hit this crossroads.
+Then the kicker question: where do we go from here? Broad open source activity doesn’t guarantee enterprise-level adoption.
+No matter how compelling your value prop, without a different level of attention to scale and security, you’re not going to win the confidence of massive enterprise workloads.
+MariaDB believes they have those cost/performance/security expectations nailed down, which explains MariaDB CEO Michael Howard’s attitude on the main stage, where he laid down his version of open source smack talk:
+
+"The shackles of herd mentality,
+anemic database templates
+all cause a weak link"
+It's as though the industry has lobotomized data"
+-> MariaDB CEO Michael Howard is fired up early at #MariaDBopenworks 🙂
+— Jon Reed (@jonerp) February 26, 2019
+
+And:
+
+If the database market is in upheaval, what should the heir apparent look like? MariaDB CEO Michael Howard sees these characteristics as central. One key – live up to open source promise without taking advantage of communities' goodwill and draconian licenses. #MariaDBOpenWorks pic.twitter.com/3gz6Psj57y
+— Jon Reed (@jonerp) February 26, 2019
+
+I look forward to probing the plans behind Howard’s open source swagger in a chat later today. But what really counts are customer proof points. First up? Tom Girsch, Lead System Architect at Auto Europe.
+Auto Europe – reducing travel headaches and complexity
+Auto Europe has a nifty business model, but to be clear, they aren’t based in Europe – their headquarters is in Portland, Maine. And: their business isn’t limited to Europe either. But it’s fair to say that Auto Europe’s bread-and-butter is a rental car booking platform for European travels. It’s a car rental wholesale company, solving the problem of complex European expeditions. Or, taking the complexity out of the automobile aspects.
+It may be hard to believe now, but in the early days of Auto Europe in the 1950s, travelers to Europe who wanted a car at their disposal had to resort to buying a car for their trip, and selling it afterward. Today, Auto Europe is more than just a rental car booking platform. It’s a problem solver for complicated road trips. Girsch:
+When you start traveling, like say for example in Europe, and you want to make sure that you’re legal in multiple countries, or you want to pick up in one country, or drop off in another, or you want insurance packages, GPS that you know is going to work there, and so on. That kind of add-on package deal. That’s where we do well.
+As you might guess, there is a considerable amount of back-end data required to finesse those transactions. That’s where Girsch’s team comes in. So, how does MariaDB fit into that picture?
+Moving to MariaDB – a CMS move away from SQL Server
+Auto Europe has been running MariaDB for about a year and a half. Compared to some MariaDB users, Girsch considers himself a newcomer. But he’s learning fast – you have no choice when you’re responsible for supporting almost 70 web sites. Yes, the content management needs across those sites are intense.
+Auto Europe had been using a content management system (CMS) called FarCry, with a Microsoft SQL Server back end. That gave way to a new CMS – Mura. Girsch:
+They started to put it on Microsoft SQL Server again, but because of the licensing costs and the very restrictive nature of Microsoft, we wanted to get it off of that. They offered two choices, either Microsoft SQL Server, or MySQL. I happen to know, just from having my finger on the pulse in the industry, that MariaDB is MySQL minus Oracle.
+We wanted more of the true open source approach. So we approached MariaDB and said, “We’re interested in making this change.”
+They brought in an expert from MariaDB:
+We engaged a MariaDB consultant who came to our site, helped us do our set up, and also helped us get started on migrating what had already gone to Mura on SQL Server. He set up a system where we could run the same data in parallel between SQL Server and MariaDB.
+Once our customers were satisfied, when I say customers – I mean internal customers of the IT department – we decommissioned the Microsoft SQL Server side. We started all of this with smaller websites, smaller subsets of our customer base. Once we got all those over, any of the larger migrations went directly from FarCry/Microsoft SQL Server, to Mura and MariaDB.
+On results, and growing pains
+Girsch says the bulk of the CMS migrations are now complete:
+I think there might be two or three very small websites that are still kicking around on FarCry, but all the big guns are all running MariaDB, and running well.
+The cost savings of MariaDB is welcome – but that’s a given. But you can’t lose performance and stability. So how is it working out?
+It’s worked very well. I mean there were some growing pains. We didn’t have anybody on-site that had MariaDB or MySQL expertise. So we had to learn it as we went, but by and large, it was pretty seamless.
+Girsch is a stickler for redundancy:
+These websites allow us to do bookings and if the websites are down, nobody can book. We don’t make money and that’s bad.
+The MariaDB consultant recommended the Galera Cluster. Now, Auto Europe has a three node Galera Cluster running their MariaDB installation. One of those nodes is in a separate data center from the other two, so even if an entire data center goes down, Auto Europe is still up.
+I asked Girsch about the learning curve. The MariaDB consultant was able to transfer knowledge in a short amount of time – he only spent two days on site. There is a third consulting day allocated, which Girsch likes having in his back pocket, but isn’t currently needed.
+Almost half the IT team now touches MariaDB in some way. Basic SQL knowledge has proven to be a sufficient foundation; mostly, the tech team is simply tweaking the Mura CMS.
+The wrap – wading bravely/cautiously into MariaDB microservices
+I shouldn’t be too breezy about the cost savings aspect. Girsch’s comments on that were eye-opening:
+It’s massive. Back of the envelope ballpark, cost of ownership is about ten percent of what it is on other platforms.
+Does that include MariaDB paid services?
+Yes, that’s with full support through MariaDB. It’s not an insignificant savings. On comparable hardware, other products would be close to eight to ten times as expensive.
+Open source software might be free, but Girsch looks at overall costs:
+The open source is free. The support is not the free part. I will say the support organization has been excellent, and it has already paid for itself several times over in terms of what we paid for support. They’ve been very, very responsive.
+We talked about data security and compliance. Girsch is happy with how MariaDB fits into their security plans. His criteria? Always be audit-ready:
+I always want to make sure that when the audit comes around, whatever they find isn’t it in my yard… I want to make sure that I’m ahead of that as best I can.
+In my opinion, an underplayed theme of OpenWorks is the use of MariaDB in cloud and container scenarios. Does any of that resonate with Girsch?
+I hate going into the buzzword soup, but here we go. We’re doing a lot with microservices. We’re setting up new microservices in our environment, and the idea for a lot of these, is to have a little private MariaDB that would serve the microservice when there’s some sort of data storage requirement to operate the services. Then those can be deployed out on virtual machines and little mini virtual machines throughout our environment, and eventually out into the cloud.
+But don’t worry, bare-metal-lovers, Girsch isn’t becoming a cloud krishna. Yes, he sees use cases for cloud-based microservices, but mostly for non-mission-critical services. He wouldn’t advise a book-a-car-rental microservice, for example. He wants that on “super-redundant bare metal.” Still, there are benefits worth pursuing:
+Because it scales very easily. Rather than having one big server that can get bogged down, you have a little one that does it. Then if you need more, you spin them up as you need them.
+So why does Girsch brave New York City in February? His OpenWorks benefits include educational sessions and personal networking. Learning the gotchas and tips from other MariaDB users is a big payoff.
+But Girsch’s team is on another mission at OpenWorks this year: they’re for someone to join their team. I haven’t seen Girsch today, so I don’t know yet if his recruiting mission was successful. If you’re interested, you know how to find him.
+Image credit - Photo of Tom Burke of Auto Europe at OpenWorks 2019 by Jon Reed.Disclosure - MariaDB paid the bulk of my travel expenses to attend OpenWorks 2019 in New York City.Read more on: Cloud platforms - infrastructure and architectureDigital enterprise in the real worldInfrastructureOpen sourceUse cases 

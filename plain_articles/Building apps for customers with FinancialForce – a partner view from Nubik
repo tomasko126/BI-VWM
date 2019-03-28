@@ -1,0 +1,44 @@
+
+Camil Bourbeau of Nubik at Community Live
+At recent cloud ERP shows, I’ve been doing an informal series of on partners who build apps – and extend functionality for customers on the platform.
+At FinancialForce’s Community Live event, I had a revealing conversation with Nubik about how they go about this work. There are three big reasons why I’ve been chasing these stories:
+
+SaaS ERP platform extensibility is crucial for striking the right balance between structured processes and differentiating functionality. SaaS ERP configuration (with no code customization) impose a welcome discipline on customers, but that shouldn’t preclude the ability to build /customize an app that delivers a vital service. As cloud ERP vendors stake vertical claims, industry-savvy partners who can extend apps will factor in.
+I believe the ERP services firms of the future will combine cloud ERP “partnering” on the implementation/optimization side with the ability to design apps for customers – and advise then on when to configure versus when to extend.
+Eventually, the “apps ecosystem” that springs up around a good platform is an asset to the SaaS vendor’s sales pursuits.
+
+Platform experience matters
+Which brings me to Nubik. At Community Live, media/analysts heard from a partner panel, but those partners spoke mostly to cloud implementation lessons – not app building. Given the apps abundance of the Force.com platform, I figured if I hit the exhibit halls I’d find a partner that could speak to my questions. Of the partners I spoke with, Nubik was the standout. Camil Bourbeau, VP of Business Devlopment for Nubik, was up for an impromptu booth interview.
+I asked Bourbeau why some of the FinancialForce partners I heard from didn’t seem clued into the power of app development. Bourbeau credits Nubik’s extensive experience on the Salesforce.com side (Nubik consults across Salesforce and FinancialForce products). Bourbeau:
+I think that’s a key differentiator in the FinancialForce partner ecosystem, where it’s really an ERP world, but we come in from the CRM side, and we worked on the platform for over 14 years now. We’ve got the experience; we’ve got the certifications working with all the different pieces on the platform, and it allows us to really leverage the flexibility and power of the Force.com platform and bring it to FinancialForce.
+We see a lot of partners in the FinancialForce ecosystem are really focused on ERP, and as you know, it’s two completely different processes and ways of operating. We come in on the CRM side and push it to the ERP side.
+So what would be an example of an extension they’ve built for a customer? Bourbeau shared the example of enhanced mobile time sheets:
+Some users leverage their FinancialForce PSA time sheet entry in the mobile application, but in specific cases, it’s not necessarily optimized for users… We developed a fully responsive webpage so users can actually enter time, and it’s completely optimized based on their needs. It’s not always one-size-fits-all, especially when it comes to the ERP world, and this is where we can leverage the power of Force.com.
+I gave Bourbeau my abbreviated stump speech on the balance between SaaS standardization and platform differentiation to see what he thought of it. Bourbeau responded:
+That’s our approach, essentially. It’s not reinventing the wheel. We tell our customers that “The platform in Salesforce gives you the flexibility to do this, but you have to be able to deliver on it and leverage what the platform has to offer.”
+Bourbeau credits this as a key to delivering for FinancialForce customers:
+
+Building apps, and the whole App Exchange on the Salesforce platform has been a game-changer for over 10 years now. For us to be able to bring these innovations in the FinancialForce world makes a whole lot of difference to our customers.
+
+Add-ons from ISVs matter also
+I asked Bourbeau about some of the functional areas he’s looking at next. He’s seeing a lot of momentum on the CPQ side (Configure Price Quote), functionality from the Salesforce side which sets up the need for FinancialForce PSA once the customer is signed. He’s also seeing action on the other end of the spectrum, once the project is delivered, where Field Service functionality on the Salesforce side comes into play.
+Bourbeau emphasized that while they do pull from the Salesforce side of their development team sometimes, they also have ERP-experienced talent to help with FinancialForce related apps. Bourbeau pointed to the strength of the FinancialForce ISVs that help to flesh out key areas, from expenses reports to payment processing: “The network of ISVs is very rich.”
+It’s important to note that FinancialForce counts “hundreds” of apps, both on and off Force.com, as viable for FinancialForce customers. That includes the 40+ Ready Apps that have configurable integrations. These add-ons include heavy hitters like Expensify and Docusign, as well as Salesforce itself (and now, of course, ADP for HCM). Offhand, some of the Ready Apps I heard good things about include:
+
+Avilara for sales tax management
+Conga for document generation and reporting
+Vena for cloud-based performance management (including validated spreadsheet integration)
+
+My take – as partners expand, these issues take center stage
+Add-ons like these are terrific for customers, but they don’t take the place of partners who can assist in extending functionality with apps, either custom-built or quickly modified from app store offerings.  Bourbeau:
+For our users and customers, it’s important to work with a partner that understands the big picture, not only the PSA or FM (Financial Management) portion.
+The topic of “what type of partners do we need?” is timely for FinancialForce given their focus on partner ramp-up. As my colleague Phil Wainewright reported in Five ways FinancialForce is changing under CEO Tod Nielsen, NIelson envisions a big partner push:
+Success is a team sport. We’ve got to go in with our partners and make this happen. I think today we’ve got forty partners. I’ll be disappointed if we don’t have hundreds of partners at this time next year, as far as people that are adding value and driving it.
+Given that FinancialForce partners are responsible for 50-60 percent of all implementations, the question of what capabilities new partners should have is a potent one. Obviously I’m biased towards an implementation + app development model, but that’s not the only consideration.
+I’m sure FinancialForce will also be looking at partners with vertical expertise as they look harder at the vertical aspects of their pursuits, with high tech, software, health care, financial services and government being some current areas of market strength.
+It’s really about living up to what a “partner” was supposed to be all along in the ERP world, but rarely was. This should be in the forefront during partner ramp-up. “Hundreds” of new partners only works if they can deliver on the kinds of issues raised here.
+During a quick post-dinner chat with Johnny Ola, VP of Alliances at Financial Force, it sounds like he is thinking along the same lines. He told me there are plans to add more developer tools for partners that want to build FinancialForce apps – in other words, stay tuned.
+But in the meantime, it’s full speed ahead for Nubik. At the end of our chat, Nubik CEO Katie Bussieres joined us. With FinancialForce in growth mode, they like where they are positioned:
+It’s an exciting journey and we’re very happy to be with FinancialForce -the growth has been phenomenal.
+Now that’s something you don’t hear everyday in the ERP world.
+Image credit - Photos by Jon Reed. Disclosure - FinancialForce covered the bulk of my travel expenses to attend FinancialForce Community Live. FinancialForce is a diginomica premier partner, as is Salesforce.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureDigital transformation - frictionless enterprise 

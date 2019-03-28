@@ -1,0 +1,62 @@
+
+The European Commission (EC) has issued its adequacy decision on the so-called Privacy Shield, the successor to the Safe Harbor mechanism to allow transatlantic data transfer. 
+The Commission is very pleased with itself over what it sees as a major success. Digital Commissioner Vera Jourová said: 
+
+Protecting personal data is my priority both inside the EU and internationally. The EU-US Privacy Shield is a strong new framework, based on robust enforcement and monitoring, easier redress for individuals and, for the first time, written assurance from our US partners on the limitations and safeguards regarding access to data by public authorities on national security grounds. 
+
+ For the US, Secretary of Commerce, Penny Pritzker says it’s an “historic” agreement:
+
+The EU-US Privacy Shield is a tremendous victory for privacy, individuals, and businesses on both sides of the Atlantic. We have spent more than two years constructing a modernized and comprehensive framework that addresses the concerns of the European Court of Justice and protects privacy.
+
+More impartial observers might find it hard to ascertain exactly what’s really changed between this and the old Safe Harbor, other than some platitudes about surveillance restrictions. 
+Other than that, there appears to be a lot of lipstick applied to this particular porkie. 
+Inadequacy
+An “adequacy decision” is a decision adopted by the Commission which establishes that a non-EU country ensures an adequate level of protection of personal data by reason of its domestic law and international commitments.
+The US government has provided strong commitments that the Privacy Shield will be strictly enforced and assured there is no indiscriminate or mass surveillance by national security authorities. The EC says this will be guaranteed through:
+
+Strong obligations on companies and robust enforcement. The EC says: 
+
+The new arrangement will be transparent and contain effective supervision mechanisms to ensure that companies respect their obligations, including sanctions or exclusion if they do not comply. The new rules also include tightened conditions for onward transfers to other partners by the companies participating in the scheme.
+
+Clear safeguards and transparency obligations on US government access. The EC says:
+
+
+For the first time, the U.S. government has given the EU written assurance from the Office of the Director of National Intelligence that any access of public authorities for national security purposes will be subject to clear limitations, safeguards and oversight mechanisms, preventing generalised access to personal data. US Secretary of State John Kerry committed to establishing a redress possibility in the area of national intelligence for Europeans through an Ombudsperson mechanism within the Department of State, who will be independent from national security services. The Ombudsperson will follow-up complaints and enquiries by individuals and inform them whether the relevant laws have been complied with. These written commitments will be published in the US federal register.
+
+Effective protection of EU citizens’ rights with several redress possibilities. The EC says: 
+
+Complaints have to be resolved by companies within 45 days. A free of charge Alternative Dispute Resolution solution will be available. EU citizens can also go to their national Data Protection Authorities, who will work with the Federal Trade Commission to ensure that unresolved complaints by EU citizens are investigated and resolved. If a case is not resolved by any of the other means, as a last resort there will be an arbitration mechanism ensuring an enforceable remedy. Moreover, companies can commit to comply with advice from European DPAs. This is obligatory for companies handling human resource data.
+
+Annual joint review mechanism. The EC says: 
+
+This mechanism will monitor the functioning of the Privacy Shield, including the commitments and assurance as regards access to data for law enforcement and national security purposes. The European Commission and the US Department of Commerce will conduct the review and associate national intelligence experts from the US and European Data Protection Authorities. The Commission will draw on all other sources of information available, including transparency reports by companies on the extent of government access requests. The Commission will also hold an annual privacy summit with interested NGOs and stakeholders to discuss broader developments in the area of US privacy law and their impact on Europeans. On the basis of the annual review, the Commission will issue a public report to the European Parliament and the Council. 
+
+What’s new?
+An awful lot of this is still hinged on self-certification by US companies. The process is that US companies will register once a year to be on the Privacy Shield List and self-certify that they meet the requirements set out. 
+The US Department of Commerce will have to monitor and actively verify that companies’ privacy policies are presented in line with the relevant Privacy Shield principles and are readily available, although there’s no actual detail about how this will work in practice. 
+The US authorities will keep an updated list of current Privacy Shield members and remove those companies that have left the arrangement. If companies do drop off the list, then apparently the Department of Commerce is going to make sure they still abide by the principles of it for as long as they hang on to personal data they received when they were signatories to the Privacy Shield list. Again, how they’re going to do this remains unclear. It also appears to render signing up to the Privacy Shield list just a gesture for PR’s sake.
+There are also some curious contradictions at play. For example, the EC’s press release makes great play of: 
+
+no indiscriminate mass surveillance by national security authorities. 
+
+Well, it depends here on what we’re calling indiscriminate, as Annex IV of the Privacy Shield Decision affirms that: 
+
+intelligence collected in bulk can….be used for six specific purposes: detecting and countering certain activities of foreign powers; counter-terrorism; counter-proliferation; cyber-security; detecting and countering threats to US or allied armed forced; and combating transnational criminal threats , including sanctions evasion. 
+
+So, there’s a fair bit of wobble room there, as well as a clear presumption that data is going to be collected in bulk, regardless of what the EC boasts of having achieved. 
+The one area of ‘victory’ for the EC appears to be signing of the Judicial Redress Act by President Obama last week. Once in force, it should give EU citizens access to US courts to enforce privacy rights in relation to personal data transferred to the US for law enforcement purposes. The Judicial Redress Act will extend the rights US citizens and residents enjoy under the 1974 Privacy Act also to EU citizens.
+This was a big demand by EU President Juncker who said: 
+
+The United States must…guarantee that all EU citizens have the right to enforce data protection rights in U.S. courts, whether or not they reside on US soil. Removing such discrimination will be essential for restoring trust in transatlantic relations.
+
+Where to from here? In Europe, a committee composed of representatives of the Member States will be consulted and the EU Data Protection Authorities (Article 29 Working Party) will give their opinion, before a final decision by the College. In the meantime, the US side will make the necessary preparations to put in place the new framework, monitoring mechanisms and the new Ombudsperson mechanism.
+My take
+I’m going to leave it to Max Schrems, the man who finally torpedoed Safe Harbor, who sums up my views in a splendid tweet today: 
+
+Schrems casts doubts on whether what he sees as a PR exercise in the main will appease the European Court of Justice or the various national Data Protection Authorities (DPA) around Europe: 
+
+The Court has required the European Commission and the US government to go an extra kilometer – the ‘privacy shield’ is an aggregation of a couple extra inches. There are obviously some minor improvements, but this is far from what the Court required for an ‘adequacy decision’. 
+Even if they try to cover this in a major PR exercise, this does unfortunately not seem like a stable solution.
+
+It doesn’t indeed. We’ll be back in the European Court of Justice over this very, very soon. 
+Read more on: Data privacyGoverning identity privacy and securityRegulation 

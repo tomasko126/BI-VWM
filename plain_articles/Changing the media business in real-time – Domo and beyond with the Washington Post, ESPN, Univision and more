@@ -1,0 +1,50 @@
+
+Domo media panel in action
+The media business remains a heavily disrupted industry with business models in flux. But as I noted in How The New York Times is operationalizing its ad yield business with Domo, we’re starting to see good news with digital revenue. I see two reasons:
+
+The subscription economy is improving – as the downsides of “free” services like Facebook become clearer, consumers are more willing to pay for online content they value.
+Digital advertising and content models make sense as companies move to real-time “experiences” that are personalized – rather than the impersonal blasts of older online ad models.
+
+Domo customers on media transformation
+Obviously, both these trends are dependent on proper use of data. That means the tools to analyze/monitor/react to data are crucial. Not to mention the increasing pressure to respect data privacy while avoiding the stigmas of distrust and fake news. All of that made for a compelling media panel at Domopalooza 2018.
+This keynote panel had a surprising twist: Domo had the fortitude to get the heck off the stage and let the customers do the talking.
+
+Enterprise vendors – take a nod from @Domotalk , which had an all-customer keynote panel *moderated by a customer* (@univision) That was a rare and worthwhile surprise. #DP18
+— Jon Reed (@jonerp) March 15, 2018
+Yep, this was a customer-only keynote session, moderated by Simone Knight, VP, Marketing Strategy and Media Intelligence at Univision. The panel began with optimistic views on the media industry – something you might not have heard a few years prior. The two big themes are: delivering personalized experiences, and balancing ads with subscriptions.
+During my chat with Jay Glogovsky of the New York Times, Glovoksy told me that even though his purview is digital advertising, paid subscriptions are at the heart of the emerging models:
+We still regard advertising as an important revenue stream, but believe that our focus on establishing close and enduring relationships with paying, deeply engaged users, and the long-range revenues which flow from those relationships, is the best way of building a successful and sustainable news business.
+Domo use cases – real-time reactions and business user adoption
+The traffic backs that up: Half of The New York Times’ 1.5 billion monthly page views are from subscribers. The panelists use Domo in different ways, but I saw two common themes:
+
+Using data for real-time (or near-real-time) reactions and troubleshooting.
+Driving user adoption of Domo via mobile use, dashboarding, and moving away from the sluggish cadence of static reports.
+
+During the panel, Glovosky hit on a key use case: adoption by sales. Enterprises have learned the hard way that getting sales to adopt new tools is (usually) an uphill battle:
+We’ve been using Domo to help empower our sales team globally to be more self sufficient. That’s something that has been a really big challenge for us, and I believe it’s a challenge for all of the publishing world. But right now our global sales team can go and log in to Domo and troubleshoot, and understand what’s happening in their accounts, and have more intelligent conversations with advertisers and agencies.
+We’re seeing promising results already… Domo adoption has been growing quite substantially within the Times.
+For ESPN, Domo is a tool to collaborate with cable affiliates, addressing viewer experience in real-time. Doug Kramon, Director of Customers, Operations, and Fan Support explained:
+ESPN is a publisher, so we push content through all the cable providers, satellite providers, local providers, the new over the top providers; Hulu, YouTube TV – all of them. To [get that experience right in real-time], we have to be the best partner with the cable provider.
+Kramon’s team does this via a custom Domo view:
+We utilize Domo as a detection tool. We call it Domo Detect. And we’re able to see in real time if fans are experiencing any issues of latency, delay – anything that may prevent them from having a quality streaming experience. And with Domo, we’re able to know their experience probably faster than some of the cable companies.
+At The Washington Post, the core Domo use case is about campaign and delivery management. As per Jason Tollestrup, VP of Programmatic Strategy and Yield:
+If you’d asked me three years ago how much we would grow over the course of the last three years. I would’ve said no way, that’s insane. And yet we find ourselves with a much more complex business, with more advertising business coming in.
+Growth is good, but campaign management is complex. Extending the view to managers is a big win:
+It’s terribly complex, and it’s hard for people to manage. Domo has allowed the visibility of how things are doing go up a level or two. Our client services team will normally execute our campaign, but the manager may not know exactly what’s going on. Now, that visibility has basically elevated to the manager level.
+Action steps can be taken:
+We are a lot more proactive about fixing things before they become a problem. You usually find out about a problem when you try to go and bill for it, and you realize you can’t bill for an entire campaign. But now we’ve moved into a lot of trade metrics like a diagnostics dashboard, which has been extremely helpful for us.
+That beats the heck out of static reports:
+We are able to catch problems right when they happen, and figure out what the solution is. As opposed to waiting for our traditional monthly reporting where again, you do your monthly reporting and you’re like, ‘Oh when did this happen?’
+My take – confronting fake news and earning trust
+If you’d asked me three years ago about mainstream media’s biggest problem, I would have said business models. Now, I’d probably say earning/retaining trust. So-called “fake news” and an anti-media mentality has put media companies on the spot.
+Add to the trust issues: the temptation of blurring the lines between ads and news. Example: sponsored content can a significant revenue stream. But when it’s not clearly labeled, distrust of all content sets in. Resentment over local blackouts and firewalls are also obstacles.
+Glogovsky acknowledged:
+I know at The Times, my biggest fear is getting an email at 2:00 am saying that there’s some kind of ad on the site that’s targeting a fake news site. It is a huge fear of mine, both personally and for the organization.
+No simple solutions here, but the panelists mentioned transparency as an imperative. For Kramon at ESPN, that transparency can be an asset, delivering live sports moments that are raw and unscripted. That type of transparency engages the viewer:
+We deliver this information directly to the production team. It allows them to work with our talent to make better decisions. We’re listening to the fans in the moment.
+I was asked on social media if this panel felt scripted. Afterward, Knight told me it was indeed an unscripted event, albeit with topics/themes they planned to cover. It’s a shame more vendors don’t take a chance on this format, rather than the tired, vendor-moderated “don’t let customers go off script!” yawnfest.
+As for Knight, she was too busy moderating to share her own views. But in a prior one-on-one interview by Domo CEO Josh James, she shared Univision’s Domo story, which included their initial “Alexa, open Domo” integration.
+And yes, GDPR came up as well. The panelists welcomed the increased data regulation, probably because their future models are about personalizing experiences for those who opt-in. Rigor on the opt-in side provides clean data that can be used for personalization. As Knight told James:
+We’re going to tailor experiences using the data that we have, behavioral information and really provide what you need to see, what you want to see, how you want to see it. Because this time, everyone has more choice than ever before in terms of how we consume media.
+That leads us into AI/machine learning, and algorithmically-delivered content that, in theory, boosts engagement. But that’s a whole different article.
+Image credit - Domo media panel photo by Doug Henschen of Constellation Research.Disclosure - Domo covered the bulk of my expenses to attend Domopalooza 2018.Read more on: Analytics planning and data analysisDigital and content marketingDigital enterprise in the real worldUse cases 

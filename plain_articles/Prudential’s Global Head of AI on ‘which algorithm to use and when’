@@ -1,0 +1,27 @@
+
+Prudential’s global head of AI, Michael Natusch, took to the stage at RE•WORK’s Deep Learning in Finance event in London this week to explain the global financial services firm’s approach to artificial intelligence (AI) – explaining which algorithm to use and when.
+Natusch gave a top level view of Prudential’s thinking around what AI user interfaces to use in what situations and which algorithms should be applied, depending on the requirements for causation or correlation.
+He began by explaining the fundamentals of AI (see below image), stating that organisations need three fundamentals: data, intelligent agents (data scientists/algorithms) and user interfaces. Natusch said:
+Very clearly we need data. On top of data you need some sort of model that sits on top that makes sense of what’s in that data. That alone isn’t enough, because if that was all, you’d need lots of people like us that understand the models, that understand the data.
+Mere mortals, people in the business, they want to make sense of the data and make predictions. For them to be able to do that, we need some kind of user interface. So they don’t need us every time they want to ask a slightly different question.
+Those are the three ingredients that we need. That stuff then goes to our customers, agents, our employees and partners. Ideally they drive some kind of action. But the key thing is, learning from the actions we are trying to drive.
+
+Correlation vs. Causation
+Going beyond these fundamentals, organisations need to think about the unit cost of AI versus the volume of transactions. Natusch used the example of a hospital versus Google’s search engine (see image below). He said:
+What algorithm do you want to use [and] when? My reckoner for that has two different axises. One of them is a volume axis, very few transactions that you’re trying to reason over lots of transactions.
+Imagine for instance, 3.5 billion Google searches a day – huge volume. And the other one is a cost element, which is essentially the cost of making a wrong decisions. Imagine Google, lots of searches, the cost of showing you the wrong ad for a particular search is virtually zero. A very low cost of getting it wrong, huge volume.
+Think about another extreme. Think about a hospital calculating the radiation for cancer treatment for a patient. Far lower volume and the cost of getting it wrong is embarrassingly high. Two very, very different regimes.
+
+He said that at the Google end of the spectrum, understanding correlation is absolutely good enough – i.e. knowing that one thing correlates with another is sufficient to drive any kind of action (because the cost of getting it wrong is so low). Whereas, on the other side of the spectrum (the hospital) you need to have some sort of understanding of causation. Natusch said:
+Just saying ‘Fred looks kind of similar to Sue, so I gave the Sue the same radiation pills’ – it’s probably not going to answer well in your general medical council hearing for malpractice. In finance that’s also true, our regulators want to be able to explain the circumstances, why we made a certain recommendation to all of our customers. Our sales people like to understand arguments that are causation based.
+As you can see from the image below, for the hospital end of the spectrum (causation) Natusch advices that organisations use probabilistic graphical models. At the Google end of the spectrum, deep learning is good enough. For everything in the middle, he advises gradient-boosted decision trees.
+
+Applying the UI in these situations, you can see from the image below where Prudential is applying different AI interfaces. So at the causation end of the spectrum, agent productivity is still required. Whereas, at the correlation of the spectrum, Prudential is making use of audio search tools. In the middle record retrieval tools, robo advisers and service bots are being used (some of which are managing over £1 million in assets a week.
+
+Levels of maturity
+Finally, Natusch summarised by giving his five levels of maturity for AI in the enterprise (see image below).
+
+He said:
+If you think about the maturity of what you’re trying to build. At level one, as soon as the analysis is done, it’s already out of date. At level two, at least you have some sort of real-time data feeds. The next level up, where you have your model exposed as an API, a real developer can put it into some kind of real system.
+Next level up is when it continuously learns, using that feedback loop, in a realtime manner, automatically, continuously. and does something to a user at the right moment in time. And finally, it does all of this autonomously.
+Image credit - Images either photographs taken by author or via Prudential website. Read more on: Analytics planning and data analysisDigital enterprise in the real worldFinancial services and fintechIoT robotics and AIMachine intelligence and AIUse cases 

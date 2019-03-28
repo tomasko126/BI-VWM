@@ -1,0 +1,35 @@
+
+Pat Garrehy, Rootstock
+If cloud ERP is a tough sell, as many vendors assert, then selling cloud ERP to manufacturing industry might appear to be the toughest proposition of all. But even as early as 2008, Patrick Garrehy, founder and CEO of cloud ERP manufacturing vendor Rootstock Software, believed it was only a matter of time before even this traditionally conservative industry would adopt cloud applications.
+We saw an opportunity to only go after manufacturing companies that were interested in the cloud.
+We said to ourselves, this is a market that for complex manufacturing and for replacing legacy is not here yet. One of these years or decades it will be. The opportunity right now is the greenfield smaller companies. Even though we’re going to build this full-function, we’ll mask [that] and go after the smaller companies.
+Like other industry cloud players, Rootstock has built its software on the Salesforce platform and will be exhibiting at next week’s Dreamforce conference. But it arrived there by a circuitous route, first partnering with NetSuite and only switching to the Salesforce platform three years later, after an investment round in which Salesforce participated.
+In 2011, we looked at the market. We said, ‘We’re going to really build this to scale because we’ve got time.’
+The guys you would have thought would take ownership of this market — Oracle, SAP, Microsoft — they weren’t there.
+We knew we would explode if the Salesforce ecosystem really took off. It’s only a matter of time before this legacy replacement begins.
+We said, ‘Let’s keep our nose down and make sure we have a very full featured product so that when the market does hit we can scale.’
+Taking hold
+That product was ready to preview in 2013 and by the end of the year, sales began to take hold. In the past two years, says Garrehy, Rootstock has added sixty customers.
+We are the fastest growing ERP company in the cloud on Salesforce for manufacturers and distributors.
+We’re really starting to explode. We basically built this in a way to prepare ourselves for market.
+Rather than targeting a specific industry vertical within manufacturing, Rootstock has built its software as a horizontal solution that works across the discrete manufacturing sector, adding only a limited set of industry-specific solutions. Its customer base ranges from Newark-based headwear manufacturer Unionware to Australian macadamia product maker Brookfarm and Madagascar-based machinery distributor Aris. Within this breadth, there are some fast-growing, newer industries have yielded clusters of customers, says Garrehy.
+There are certain industries that are just popping up. Solar companies for example (customers here include industry leaders such as Elon Musk-backed SolarCity and Direct Energy Solar along with smaller specialists such as AstrumSolar and 1st Light Energy).
+Those growing industries within that horizontal, you’ll find more and more of those companies going out there, looking for something in the cloud.
+Increasing maturity
+Meanwhile, the increasing maturity of the cloud market is accelerating the moment when cloud ERP will become the mainstream choice, he believes.
+Look where the market is. Now everybody knows this is going to be a big market and I’d be willing to bet the large corporations are now looking at breaking up their companies into smaller divisions and saying, ‘We don’t want that heavy cost [of a conventional ERP system].’ We feel very good about this marketplace.
+Not all Rootstock’s customers are already using Salesforce as their CRM system, but most are — around 85 percent, says Garrehy. Running on the same platform gives Rootstock a strong advantage when going into those customers, he says.
+As we’re going upmarket, we see a lot of larger organizations now. They’ve bought these legacy systems in the mid-nineties and now they’re twenty years old.
+Today they want to go cloud. The next logical question is, which cloud? Then somebody says, ‘We’re already on Salesforce. Is anybody on that platform offering what we need? Then we only have one cloud to deal with.’
+Meanwhile, Rootstock benefits from all of the functionality that Salesforce continues to build into the underlying platform and which it can pass on to customers even as they tailor the Rootstock product to their own needs.
+That’s wonderful because we don’t have to do those kinds of thing. That is quite a competitive edge over anybody else that has their own platform.
+For Rootstock, we just make sure our cloud engine for ERP manufacturing and distribution is very solid.
+My take
+Rootstock is approaching the industry cloud opportunity from a different angle than the other Salesforce partners I’ve looked at in recent articles. Both Veeva and Vlocity are building industry-specific CRM functionality on top of the Salesforce application platform — and Salesforce is doing exactly the same with its own industry cloud portfolio.
+Rather than sticking to CRM, Rootstock has created an entire ERP manufacturing application set that works alongside CRM. That will likely have involved creating more functionality of its own, such as custom objects, than a CRM-specific vendor might need to do. But on the other hand, it requires less verticalization to differentiate itself than a vendor would do in the CRM field.
+At the same time, it has extended aspects of the Sales Cloud and Service Cloud functionality in certain areas that are specially relevant to manufacturers. So there is an element of industry cloud CRM even though the main aspect of verticalization is the addition of an entire ERP manufacturing suite.
+As Garrehy notes, that gives it a powerful appeal to manufacturing companies that are already users of Salesforce. Competitors include Kenandy, also on the Salesforce platform and more closely watched (though with substantially fewer customers, says Garrehey) because of its rich venture funding, and Plex, which runs on its own platform and has a larger customer count concentrated in automotive and a few other verticals.
+Whether Rootstock’s chosen path will prove as successful as Garrehey believes it will of course remains to be seen, but this is certainly another company that’s worth keeping an eye on.
+Disclosure: Oracle, Plex, Salesforce and SAP are diginomica premier partners. I am traveling to Dreamforce as part of a paid consulting engagement with Salesforce ISV partner Vlocity.
+Image credit: Manufacturing robot on tablet in hands © vege – Fotolia.com.
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architecture 

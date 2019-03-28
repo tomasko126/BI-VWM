@@ -1,0 +1,64 @@
+
+Nudge Rewards employee engagement app
+In NRF 2018 live – retail apocalypse? No. Data problems and store/online convergence? Yes. I shared some of the crucial themes from NRF 2018, aka “The Big Show.” I’ve got loads more interviews to share, which will shed more light.
+But before I go there, let’s round out the big surprises and takeaways. I’ll also hand out another demo award. The bullet point review from the first piece:
+
+From retail apocalypse to online shopping traction – it’s no wonder the retail apocalypse talk has died down. As I discussed with Jeff Warren, Oracle Retail Vice President of Solution Strategy, Black Friday sales showed that online shopping is getting traction.
+Dark side of mobile traffic bumps – conversion issues – there was some debate on how serious the mobile conversion problem is. See:  Salesforce’s Rob Garf shared optimistic mobile conversion data.
+Personalization at scale remains elusive – as in, “the number of retailers IDC notes at the highest level of personalization are only about five percent – or, in some cases, even less.”
+Omni-channel customers are more valuable – but harder to serve – an interesting one here: “I typically think about omni-channel as serving all customers effectively across touch points. But Oracle’s Jeff Warren takes it further, with data that “omni-channel” customers actually spend more.“
+ If you don’t have a good value proposition, data science can’t help you – it’s not just about value prop. It’s the growing sense amongst retailers that “AI” is useful, but not a cure all –  it must be put under the microscope, and evaluated in a use case context like anything else.
+
+From my follow-on, Has mobile commerce turned a corner? – Rob Garf reveals Salesforce’s holiday retail data, we can add a couple more:
+
+Progressive web apps could help with the mobile conversion and app adoption problem – “progressive web apps” may sound boring as heck, but several experts, including Garf and Magento’s Peter Sheldon, believe progressive web apps can boost mobile conversions while addressing that consumers aren’t going to download an app for every retailer. (I’ll delve further into this in an upcoming piece).
+GDPR is a concern for retailers with European interests, but privacy regulations are also an opportunity to win consumer trust – and get on the winning side of the data exchange.
+
+With that in in mind, two more themes jumped out:
+Don’t pretend you care about customer experience if you can’t inspire your own employees
+Customer experience matters in retail. But “CX” is only as strong as your weakest link. A crummy interaction with a disgruntled or poorly informed in-store employee absolutely qualifies as a weak link. After years of neglecting the “employee experience” part of the CX equation, retailers are finally taking this weak link seriously.
+During an on-site interview with Nudge Rewards co-founder Jordan Ekers, we got into why Nudge Rewards is betting heavily on the need to “Engage, educate and reward frontline managers and employees.” Ekers explained the frustrating “delta” between the empowered customer and the disempowered store associate. It starts with the informed online/mobile consumer:
+Over the last four or five years, retailers have invested so heavily in improving customer experience investments. So we as consumers, we can buy something online; we can research online; we can have something shipped to our door, and so we have these amazing expectations for what it means to be a consumer in all of these touchpoints.
+But we still value the store interactions:
+At the end of the day, 65, 70 percent of consumers still want to walk into a store and have that human interaction. We now live in a world where you have the knowledgeable consumer, and what we often call the inadequate or under-supported employee. The delta between the customer experience and employee experience is a frustrating experience which is not optimizing every customer that walks through the front door.
+Retailers aren’t suddenly going to start paying their customer-facing staff huge wages. Yet mobile-savvy employees are, in many cases, eager to learn more and work with better technology. The hope? Putting better retail tech in the hands of employees can make their lives better, and also improve the customer interaction:
+Our belief is that software can help make the average employee exceptional.
+Empowering employees is far more than software. There are tricky issues I’ll get into in a longer piece. But it was a welcome surprise to hear employee engagement discussed as a priority issue across NRF 2018.
+Grappling with voice is an urgent issue – “conversational commerce” is coming on strong
+Although I saw (and heard) a pretty big emphasis on voice, one expert felt retailers are far too lackadaisical when it comes to reckoning with the surge in conversational commerce. Speaking to their NRF-timed report, Conversational Commerce: Why Consumers Are Embracing Voice Assistants, Capgemini Consulting’s VP, Retail North America Shannon Warner issued a warning to retailers. Stop experimenting with voice, and get serious:
+Retails are definitely dipping their toes; they’re experimenting, but most seem to be IT -ed experiments. “We’re just creating an Alexa skill, or we’ll just create a capability on Google Home,” but there’s not a whole business behind that.
+Warner wants to see retailers asking tougher questions:
+
+Are we going to drive traffic to our voice channel?
+How are we going to service customers through our voice channel?
+What does the future of the voice channel mean for experiences within our stores?
+What do we need to do with data?
+Do we have to create a new voice based text-onomy?
+Do we have entirely new insights come from the tone and the pace, and the emotion in the voice when consumers are interacting with our voice channel?
+
+She didn’t see much evidence of that at NRF:
+We’re definitely not there. They’re barely nascent.
+Citing stats from the report, Warner made her case:
+I think what’s remarkable, given how nascent the technology is, is that nearly half of consumers are engaged with voice, and 35 percent have actually made a purchase via their smart speaker.
+I’ll get further into the numbers and implications in a future piece.
+Flip the script – time to make the in-store experience more like the online
+One more twist at NRF 2018: we’ve been deluged on how retailers can recreate their store experience online. But for many, the script has flipped: now it’s about giving the informed consumer a better in-store experience. There are several reasons:
+
+Consumers expect the same access to data in-store. If you don’t give it to them, they’ll hop on their phones and go to Amazon, your competitor, etc.
+With individual configuration of more and more products, it’s unrealistic to expect even a large storefront to maintain the inventory in-house for all the configuration options. Somehow, those choices must be simulated.
+The same goes for “pop-up stores” and other retail experiments that require a much more agile approach to inventory.
+
+My next NRF 2018 demo award illustrates these points. It’s an impromptu five minute video I shot with Brian Kelley, CTO of June20. It’s a hands-on example of configuring a Tesla Model S in-store, and how the online and in-store experiences are converging (not coincidentally, the June20 platform is called Converge):
+
+Though this Tesla demo is just a scenario, the Converge technology that powers this is in use at Home Depot. It’s one solid example of how retailers must be creative and tech-savvy to meet the expectations of today’s in-store shoppers. June20 has designed this to earn data from consumers, both in aggregate and via opt-in when they request that their product preferences be saved.
+This data could be a “warm lead” but either way, it gives insight into behavior and preferences. Winning with data via the right kind of value/experience exchange is the overriding theme of this year’s show.
+My take
+Retailers have a long way to go to get that in-store/online mix right. The desirable omni-channel customer is also very tough to please. Usually, I mock the idealization of the “empowered consumer.” For example, in the airline industry I don’t believe such a consumer exists (United still breaks lots of guitars). But for most retailers, consumer choice absolutely is an issue. And Amazon still looms.
+We really are segments of one. One speaker from IBM said that the segment-by-individual is the only way to get this right. If she’s becoming a grandmother, suddenly that changes her purchase inclinations and preferences. Retailers will struggle to track such changes. Meanwhile, the cynical temptation for email spray-and-pray remains.
+Still, this show was marked by optimism. Better holiday shopping numbers, encouraging mobile commerce stats – it all shows retailers have the chance to turn a corner.  As a Cisco customer panelist said:
+The dark night of retail soul is over, and digital is helping us get out of it.
+A tad dramatic perhaps. An NRF media panel member put it more modestly:
+Maybe Amazon isn’t going to put everyone out of business right away after all.
+I’ll break out these stories in future pieces – watch this space.
+
+Image credit - Feature image of Nudge Rewards app demo by Jon Reed. Disclosure - Oracle and Salesforce are diginomica premier partners. NRF provided me with a press pass to NRF 2018. Diginomica is an NRF 2018 media partner.Read more on: MobileRetail e-commerce and the omni-channelUX and application design 

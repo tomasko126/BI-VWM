@@ -1,0 +1,49 @@
+
+ 
+Last week at ServiceNow’s annual user conference in Las Vegas one of the most interesting customer sessions came from Ashley Sprague, director of employee technology at Netflix. Please note Sprague’s job title isn’t something along the lines of CIO, or director of IT, it very specifically relates to providing employees with the tools they need to get their jobs done. She said:
+
+So I thought I’d start with what I think about traditional IT, I think it’s pretty popular for them to just say no. IT is a bad word in some companies. So what I’m always trying to do with my organisation is to be the complete opposite of traditional IT. And so we have rebranded our department as ’employee technology’, because that’s what it’s really about, we are providing everything as a service.
+
+What was so interesting about the Netflix session was that it gave me a really clear view of how much of a challenge these next generation companies, which are inextricably linked with the structures of the web, pose to traditional businesses that are still struggling to deal with their legacy technologies.
+Even when you look at the culture of Netflix and how this impacts technology, it is soon apparent that it is worlds away from what many companies and employees are used to. Sprague explained:
+
+We are able to say yes and we able to do this because of our culture. It’s built on a foundation of freedom of responsibility, this is really something we are trying to ingrain in every employee, so that they can have a platform to make the right decisions, to innovate and to spend their time wisely.
+It’s a balance though, it is a balancing act. And I think it’s something that mostly affects new employees as they come in. They come in from larger corporations where they have been taught a lot of structure, a lot of process. And so they often come back to my team for some guidance on how they can live in this ‘freedom of responsibility’ world.
+What my team does is try to empower them with education and knowledge to make the right choice, rather than acting like the police and putting up blockers.
+
+Highly aligned and loosely coupled
+Netflix operates 100% in the cloud
+Time and time again we see examples of where process and structure have proved to work as blockers to innovation. However, most companies aren’t able to get rid of these processes and structures because they have worked well for them in the past and offer protection from the risk of doing things differently. However, Sprague and Netflix work in a completely different way.
+Netflix aims to have all of its employees working to a very tight strategy, but with the freedom to let them get there via the route they think is best. Sprague said:
+
+One of our values that we talk about a lot is being highly aligned and loosely coupled. This allows for a lot of innovation and a lot of pace to happen at Netflix. This is where we can bring strategy to every employee, allow every person at Netflix to feel like they all know what they’re working for and what they’re working towards. It also helps with a lot of cross functional meetings and involvement between teams, where they can just move quickly together, because they are all aligned on what their goal is ahead.
+
+And much of this is helped by Netflix encouraging an environment of ‘context not control’. Sprague said that what makes every group at Netflix successful is that everyone is given as much information as possible, they are given the context, so that they can make better informed decisions, much more quickly. For example, managers always give their teams information on how much money the company is making, what the strategy is, where mistakes were made, where things went well – instead of people operating in the dark. Sprague added:
+
+With meetings, since we moved to Google Apps a few years ago, we have been able to really innovate by switching the whole business to a memo driven culture – this allows for meetings to go much smoother, because people come into a meeting having read a memo or Google doc about what the meeting is about, then they can make decisions on the fly and we know what our next move is. Rather than scheduling the next meeting to go and discuss that.
+With rolling out technology we also really benefit from campaigns. My group can really campaign around new ideas and then they can provide the context back to every employee at Netflix, so that they can actually feel like they have their own voice heard, as they read memos, add comments, provide feedback about something we are going to go and change. It makes the change more successful in the end.
+
+As one would expect, Netflix also operates completely in the cloud, using a combination of suppliers that
+Daredevil
+include Workday, ServiceNow, AWS, Google and Numerify. Sprague explained:
+
+Because of our philosophies we have been able to get to 100% cloud at Netflix, this includes the corporate infrastructure and services, which also allows us to bring everything as a service. We have been able to benefit from platforms like these. With our infrastructure being in the cloud, we are able to allow our application developers to go ahead and test and deploy instances as fast as they’d like to, as fast as they want to move. Rather than requiring them to go back to traditional IT and have them spin up hardware environments that take days, or even weeks.
+Also with everything in the cloud we are able to count on reliability, scalability. We are able to make changes with services like Google, where we are able to reinvent identity access management in Netflix, where we are going to use Google as our primary identity provider and get rid of the legacy directory services.
+
+NERDS
+One of the other examples raised by Sprague, was how Netflix operates its desktop support. Although it was presented in a tongue-in-cheek way, it again highlights how these next generation internet companies are streaks ahead of the competition, with regards to daily operations. Netflix has labeled its desktop support team as the ‘NERDS’, which stands for Netflix Emergency Room for Desktop Support, and replicates the principles of Apple’s in-store genius bar. Sprague said:
+
+Waiting for NERDS at Netflix
+NERDS – we are trying to make this a genius bar inside the company. We came up with the idea to bring this same kind of environment to every campus as we grow, internationally as well as domestic. We want people to be able to come in and get help, without having to go through some kind of process to get it.
+We have got a waiting room, where you can watch Netflix, we have got tablets available to get a quick ticket via ServiceNow, and we have a screen with an always-on Google Hangout so that people can always walk up and get help if the room is empty, or people can stay in contact if issues arrive.
+
+And finally, in line with giving people freedom of choice, Netflix also has introduced vending machines that distribute technology. Want a new memory stick? It’s in the vending machine. Sprague said:
+
+It was getting kind of annoying, people walking up and asking for things, we are just going to hand it to them anyway. Why not put it in a machine where they can vend it themselves? But we have put tags on there detailing how much stuff costs.
+So if they decided that they needed ten 8GB cards that day, they can also understand how much money they are spending for the company. But we will never require a badge or an approval, they can take as many items as they need.
+
+My take
+If things don’t work out at diginomica, I want to work at Netflix.
+Disclosure: Workday is a premium partner at time of writing. 
+
+Read more on: Future of workIT service managementUse cases 

@@ -1,0 +1,25 @@
+
+Larry Ellison, CTO and co-founder, Oracle.
+Oracle continued its OOW17 march to the cloud yesterday with an overstuffed day of keynotes, briefings, and panel discussions.
+After years when the company had barely anything to say about the cloud, it very much seemed to be making up for lost time. The big story would have to be the autonomous database, Oracle 18c, that Larry Ellison previewed on Sunday night. But rather than the poetry of Sunday night, Ellison fell back to earth in a prosaic presentation and demo on Tuesday afternoon that gave all of the detail.
+You can find much information about the new database here and here so there’s little reason to repeat it. But it should be noted that all of the self-patching, self-provisioning, and nearly automatic security features are fully articulated in a configuration that includes a good deal of Oracle hardware to support the database.
+The clear message to the assembled faithful is, “You really don’t want to try this at home,” unless you plan to invest in the gear. That’s precisely where the cloud comes in and the way it all fits together is brilliant.
+It’s clear now, as it wasn’t even a month ago, that Oracle is in the process of remaking even the most commoditized and quotidian parts of its stack to be differentiated, branded products that will command top dollar. On that last point, yes, Ellison’s mantra
+You can get all of this [performance] but you have to be willing to pay less,
+notwithstanding, you can expect Oracle’s products to be cheaper than current lines but likely more expensive than the commoditized competition.
+Fine. So Oracle has made infrastructure important again with devices that store data in memory and produce several orders of magnitude performance improvements, powerful security features, and reduced labor demands.
+It has made database important again by fusing functionality with advanced hardware and taking on the security threat that robs the global economy of productivity and trust in its core functions. It is delivering applications embedded with AI and machine learning features that help bring the promise of next generation business.
+Oracle isn’t the only company doing these things but it appears to be the only one doing all of them at once in line with preserving its vision that the biggest suite of products functions the best for customers.
+My take
+But all this doesn’t suggest to me that a new economic era is forming, just a new era of IT is beginning, just the opposite.
+These moves toward greater security, less human involvement, and greater reliability suggest an industry that’s rapidly consolidating and moving, not to the cloud, but to the utility.
+Utility computing was the term and metaphor we used in the Dark Ages to describe the cloud’s ultimate configuration.
+When cloud computing was new we talked about the idea that no one today generates his or her own electricity, hauls and purifies water, has a natural gas well in the backyard for cooking and hot water. We all share a common telecommunications network too.
+We all agreed on the reasonableness of the modern utility, a 19th century invention by Mr. Edison. We even grandfathered in the cable industry which is ungraciously refusing the moniker of common carrier, but that’s for another time.
+So IT is becoming a utility and the Oracle innovations announced at OpenWorld only serve to buttress that point. Any utility worth its name has to provide more or less continuous uptime, has to take on all comers, be ubiquitous, and be low cost enough to serve any market. All of these things become much easier to deliver with cloud computing and the features Oracle is introducing.
+This doesn’t mean that the rest of the IT industry will go away; it’s too diverse and too unruly for that. Imagine the energy industry with one provider; it can’t be done.
+Even Vladimir Putin a child of the Communist era can’t reduce everything in Russia’s energy industry to a Soviet singularity. But what’s likely to happen is that more companies and probably industries will now flourish in the spaces between the behemoths.
+It is a new, formative IT paradigm. Right now Oracle has a pretty good position but it is not sacrosanct.
+Oracle, at this stage, is not likely vulnerable to being disrupted from below, there’s too much capital and too much money involved in staging that kind of turnover and in any event, business doesn’t have those resources to spare.
+But the rest of the industry including Microsoft, Salesforce, Amazon and Google will all have a hand in shaping the IT utility’s direction and they’ll certainly have some surprises too. But for now it’s important to note that this OpenWorld turned an important corner.
+Image credit - From OOW17 livestreamDisclosure - Oracle is a premier partner at time of writingRead more on: Cloud platforms - infrastructure and architecture 

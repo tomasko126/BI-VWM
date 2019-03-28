@@ -1,0 +1,35 @@
+
+The long-awaited cloud-native makeover of Microsoft’s flagship ERP suite Dynamics AX is officially launched today, with a public preview now available and general availability scheduled for the first quarter of 2016.
+The new release has been completely rebuilt to take full advantage of the Microsoft Azure cloud platform and Windows 10 client functionality. Mike Ehrenberg, Microsoft Technical Fellow (effectively CTO) for Dynamics ERP, told me in a pre-briefing last week that the “transformational” release represents a new dawn for the vendor’s business software suite.
+It’s really for us the beginning of a new era for Dynamics AX. In 12 years that I’ve been here it’s really the most significant thing that we’ve delivered.
+The release includes an all-new, consumer-style user experience designed to work across desktop and mobile devices, embedded, “near real-time” analytics using PowerBI, and close integration with Office 365 and Skype, including the ability to use Excel to drive business processes such as budget creation and management. According to Ehrenberg:
+It really has to be about empowering users to get work done and it’s all about giving them the right scenarios and the right experiences on the device they want.
+Embedded analytics
+In our conversation, Ehrenberg highlighted several key attributes of the new release, as well as answering questions about running on the Azure environment. The embedding of analytics directly into the application is one that will stand out for business users. Ehrenberg said:
+People invest in a business app not so they can key data into it but so that they can analyze data that can drive actions. That can’t be based on data from last week, last quarter. It’s about what’s going on now.
+The new release taps into Azure SQL to perform analytics using in-memory column store sequences, and then delivers the results directly in the application using PowerBI. Ehrenberg explained:
+A PowerBI user can create an analytic and publish it to AX users. They can click on the PowerBI tile, go directly into a fullscreen PowerBI experience and even drill back to the transactions in AX that are powering that analytcs. So it’s near-real-time analytics throughout the experience.
+The functionality can also take advantage of Azure ML to do predictive analytics, he added.
+The magic of these systems is when they can use the data to make users smarter and drive key actions.
+Excel for budgeting
+Another feature of special interest to financials specialists is the tight integration with Office 365 and particularly Excel, which enables the spreadsheet application to be used as a front-end for managing the budget process, said Ehrenberg.
+AX has budget management and formulation capability. There’s a built in capability to push the budget out to Excel. So we create the spreadsheet using our metadata, we push the data into Excel, and then we actually manage the workflow of people making or declining requests and we can refresh the data from AX.
+Excel becomes an integral part of how you manage budgets within AX.
+Targeted workspaces
+A new feature in the product that is particularly focused on enabling business outcomes is called Workspaces. These are templated scenarios that bring together various information and processes tailored to helping a specific job role to complete a task. Ehrenberg cited the example of a financial period close.
+What we’ve done is created a workspace for period close that brings together all the process steps, who’s working on them, where they stand, all the key analytics and all the data that those finance users need to do the close.
+Other examples include cost administration for a manufacturing user, or employee and manager self-service.
+What we’re doing with Workspaces is saying, within my role there are sometimes very focused tasks that require me to have significant amounts of data, actions and processes at my fingertips.
+It’s something that really elevates the productivity of users to help them get a task done.
+All the new functionality is delivered in a single unified client based on HTML5 that is available across modern browsers, all Windows 10 device formats and IoS and Android.
+We’ve taken the principle of highly visual, immersive apps from consumers and brought them into mission-critical applications in the workplace.
+To me, to use the words beautiful and ERP in the same sentence has not before been possible, but we are really there with this.
+To help users get up-to-speed quickly with the new experience, the application includes onscreen guidance called Task Guides, with the option to interact through voice using Cortana.
+Pivot to Azure
+Underneath the hood, the shift to the Azure cloud platform is a massive change which Ehrenberg said had also involved making some changes to the underlying Azure services.
+We thought about lifting the on-premise product onto cloud infrastructure. That didn’t feel like enough. We took the bet that we’re going to pivot to an architecture that’s optimized around, how do I do this in the cloud?
+Honestly that took a lot of evolution of our cloud products too. There are things we’re doing with Azure SQL and Azure that weren’t possible 12 months ago.
+Read more about the pivot to Azure in part two of this interview on how Dynamics AX delivers cloud ERP.
+Image credits: Courtesy of Microsoft
+.
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architecture 

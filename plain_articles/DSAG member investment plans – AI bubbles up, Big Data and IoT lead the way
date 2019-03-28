@@ -1,0 +1,42 @@
+
+
+DSAG, the German-speaking SAP user group has released the results of a survey that talks to member investment plans along with the usual assortment of pain points in the SAP world. Before getting into the detail, it is notable that:
+For 40 percent of those surveyed, IT budgets have risen by approximately 16 percent compared to last year. Budgets remained the same for approximately half of the respondents. Investment amounts do not vary by industry: retail, service, and manufacturing sectors are showing comparable trends.
+Here are the highlights from the DSAG member investment survey:
+Budgets are growing but responsibilities are shifting. 
+42 percent of companies report that SAP investments saw an increase of 27 percent. This is 10 percent lower than in 2018.  In 28 percent of cases, specialty departments are assuming budget responsibility. The survey analysis suggests that digitalization has led to
+…responsibility for and expertise in modeling business processes are migrating to specialty departments, as is the relevant budget.
+Category winners and losers
+Big Data and the Internet of Things are either on the to-do list or have already kicked off…almost one-fifth of companies are neither investing in these areas nor planning any relevant projects.
+Digitalization waning?
+A full 62% consider their digitalization efforts have not gotten very far. The survey analysis is not entirely clear but Marco Lenck, DSAG chairman suggests that member firms are now a lot more realistic about what is possible (and the effort needed) but that lack of clarity around required budgets is likely problematic.
+Switching to cloud?
+The survey makes a stark statement:
+A lot of companies have already outgrown Business Suite. Main investments in the ERP solution fell considerably, for the third year running (2017: 33 percent, 2018: 29 percent, 2019: 10 percent). However, investments in S/4HANA are not growing at the same rate and remain at 14 percent.
+What of cloud then?
+
+16% are planning medium to large scale SuccessFactors investment (same as 2018.)
+SAP Analytics Cloud interest climbed significantly by 6 percentage points to 9 percent.
+Investments in the SAP Cloud Platform doubled to 8 percent.
+Investment in the planning solution Integrated Business Planning also rose to 8 percent. 1
+12 percent of companies are making medium to large investments in C/4HANA, which includes solutions such as Hybris.
+
+S/4HANA?
+75% of member firms have some sort of plan to migrate to S/4 but the timescales vary:
+
+5 percent aim to migrate this year
+39% plan to in the next three years (+6 percentage points).
+30% are 3+ years out (+10 percentage points).
+
+Strikingly, go-lives remain sluggish with only 3 percent reporting project completion.
+Ramping existing investments
+Despite all the talk about IoT etc, DSAG members appear mired in ERP projects. From the report:
+The number of those focusing on existing business models has again risen (+5 percentage points) and is up to 90 percent. “Lots of businesses are busy with ERP and that means they are looking at existing business processes. This explains the high number of planned S/4HANA projects, since S/4HANA is often equated with digitalization,” says Marco Lenck. Almost two-thirds of those surveyed consider investments in new business models to be important, an increase of 2 percent when compared to last year.
+My take
+I am not surprised by this survey as it confirms trends I saw late last year at vendor events. Even so, surveys of this kind provide valuable insights into real-world activity in important geographies.
+One thing to bear in mind. It might seem that DSAG members are overly cautious but that would misread the way in which German-speaking firms execute on their business strategies. As I implied last year, these companies are far more purposeful than may appear to be the case. they fully understand the macroeconomic climate, threats, and opportunities. The fact that IoT figures so strongly should not surprise since so many are engaged in manufacturing enterprises.
+DSAG says it wants to emphasize the value of digitalization while ensuring that long term on-premise ERP customers are not left out. Given SAP’s planned roadmap, that should not be a problem. However and despite DSAG’s clear support for pushing SAP’s innovation message, what’s not clear here is the extent to which budgets are moving elsewhere.
+SAP competitors have been circling the German bunker for some time and in the last year, we have seen Oracle, Salesforce and Workday make increased investments in that locale. We are led to understand that Microsoft is also on the German investment trail. The Salesforce ecosystem of partners, in particular, represents a credible existential threat to SAP because that ecosystem has a good set of strong ISV developed applications that have cemented their place in the critical, customer-focused parts of the broader CRM market. With budgets devolving to departmental heads, it will be difficult for SAP to maintain the degree of account control it has in the past.
+However, that’s not a slam dunk. There are plenty of situations where departments might think they have control but then IT steps in and kiboshes a deal. That isn’t so easy in cloud scenarios and the rise of Dell Boomi, Mulesoft and Workato as ‘gluing’ technologies may yet serve to persuade IT departments that SAP is not the only game in town.
+I still think that Qualtrics – which was not mentioned in this survey – represents an opportunity that changes the value delivery emphasis for SAP but I need to learn more in order to be more certain about its place in the SAP panoply. Watch this space as I have another update coming on this topic in the next couple of weeks.
+Image credit - DSAGDisclosure - SAP, Workday, Oracle and Salesforce are premier partners at the time of writing.Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCRM and customer experienceHCM and the digital future of workMachine intelligence and AI 

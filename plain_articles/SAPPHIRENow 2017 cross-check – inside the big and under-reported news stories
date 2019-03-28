@@ -1,0 +1,50 @@
+
+SAP CEO Bill McDermott kicked off the Sapphire Now day one proceedings with a high stakes keynote. His job?
+
+Make a case for customer empathy with the looming background of SAP litigation that has made “indirect access” a hot button and tech media circus.
+Present a compelling view of SAP’s innovation roadmap, and why customers should double down on SAP in digital ventures – most of which will draw heavily on the same data that comes up in “indirect access” discussions. That means rolling out an expanded SAP Leonardo as the IoT/AI/blockchain platform.
+
+McDermott wasted no time wading into the indirect access issue:
+
+Good announcement, framed on the back of @billmcdermott speaking of empathy and challenge of balancing protection of IP with customer needs https://t.co/Y7dyRiHVqO
+— Jon Reed (@jonerp) May 16, 2017
+To reinforce, McDermott cited:
+
+Three year published roadmaps across SAP products
+Improvements in pricing/licensing transparency and simplifications
+SAP’s cloud trust center
+
+The diginomica team is about to have important sessions with SAP board members, so I’ll hold deeper analysis until then. But after a slew of customer videos and news chasing, I’m seeing a mix of expected news and overlooked stories. (see our diginomica Sapphire Now video playlist as we add them). Here’s  a quick roundup.
+1. SAP Leonardo is officially SAP’s “next big thing.” Those who thought that Leonardo was a tentative IoT play must now rethink. SAP is banking on Leonardo, to the point that S/4HANA Cloud was a side dish in the day one keynotes. As my partner-in-video-crime Den Howlett wrote in SAPPHIRENow 2017 – the opening keynote assessment:
+On positioning, I liked that SAP reminded attendees the company has a storied history in bringing radical change to the world through its R/3 systems and that what is coming down the pipe in the shape of Leonardo is another example of how SAP leads the world in radical change.
+Leonardo now spans a range of IoT/AI/ML tools and vertical apps, and is “delivered on the SAP Cloud Platform.” See also: ​SAP sends Leonardo digital innovation system into full swing, by ZDNet’s Asha McClean. Den posted his Leonardo views after meeting with Hasso Plattner and video debating with Holger Mueller in SAPPHIRENow 2017 – how to parse SAP Leonardo.
+2. SAP takes concrete steps on the indirect access issue, but big questions remain.
+On the specific issue of indirect access, McDermott announced three licensing clarifications:
+
+Procure-to-pay and order-to-cash scenarios will now be based on orders.
+Static read access to third party systems will not be charged for.
+
+As Chris Kanaracus wrote in SAP Makes A Concession on ‘Indirect Access’ Fees: What It Means for Customers, this leaves open other questions, specifically the ramifications of moving third party data back into SAP systems. UpperEdge, which is in the enterprise contract advisory business, issued a checklist of concerns/predictions in SAP’s SAPPHIRE 2017 Indirect Use Update: Show of Empathy or Lip Service?:
+The key question to be answered this week will be whether SAP’s message is a genuine show of empathy or purely lip service.
+McDermott’s announcements were clearly intended to prove SAP’s empathy talk is not lip service. But whether SAP went far enough will be a point of debate – and a critical issue for customers. We’ll revisit.
+3. SAP Cloud Platform (SCP) goes primetime, runs on AWS and on Cloud Foundry GA
+This was a big event for SCP, from its ties to Leonardo to the “multi-cloud” announcements our Dick Hirsch  (pretty much) predicted ahead of time, including the SCP-on-AWS news. (for context, see Hirsch’s, SAP Cloud Platform: the multi-cloud (almost) realized – a SapphireNow 2017 tech preview).
+One keynote announcement that flew under the radar but matters to developers was the announcement of SCP on Cloud Foundry GA. In SAP Cloud Platform – The next level, SAP’s Matthias Steiner commented on the import of a GA his team has been working towards since 2014:
+Given that Cloud Foundry has become the de-facto standard in enterprise PaaS, it was a no-brainer.
+“GA” doesn’t mean that SCP on Cloud Foundry is complete. In a subsequent meeting with CTO Björn Goerke, he acknowledged that the move would be a lengthy process of adding tools and capabilities. For that reason, no firm timeframe for a complete move is set.
+Important update: some readers of this piece got the mistaken impression  that SAP is moving SCP to Cloud Foundry and this replaces SCP as is. SAP assure me this is not the case, nor is it what I would advise.
+My view is that SCP should be defined by two different goals:
+
+Openness and choice for non-SAP developers, and cloud provisioners. This includes the continued expansion of SAP’s API Business Hub (one S/4HANA Cloud customer told me he was looking for many more APIs, though he was pleased with the additional API access with each S/4HANA Cloud release).
+Beefing up SCP with enough business services and ease-of-extensions that SAP customers will choose SCP over other PaaS options. I heard good things about the extensibility of the S/4HANA Cloud on SCP from a couple of customers.
+
+4. SAP finally consolidates its app stores. No, not the sexiest headline, but in the longer view, a coherent app store matters for SAP customers, partners, and startups. SAP is notorious for proliferating app stores, apologizing for the confusion, and adding more new apps stores. With the announcement of a new App Center and “unified portal”, SAP seems to have finally decided that “run simple” should apply to its apps store.
+5. Business ByDesign is not only alive, but growing. You probably won’t hear a peep on ByDesign this week, but this so-called failure, shockingly impervious to its own rumored demise, is at 4,000 customers and counting, with SAP planning deeper ByDesign investments and the ByDesign leadership doing their out-of-spotlight thing. Executive Board Member and new cloud head Rob Enslin went so far as to say:
+“SAP Business ByDesign is SAP’s lead offering for mid-market customers. Our customers often share how the solution enables them to run more effectively as they grow and thrive,” said Robert Enslin, president of the Cloud Business Group, SAP.
+Once S/4HANA Cloud matures, there will finally be a viable way to think about the two products together, with S/4HANA Cloud serving large enterprise and ByDesign as a cloud ERP midmarket and subsidiary play. But you can expect confusion and misconceptions to continue until S/4HANA Cloud is totally focused on large enterprise (the two customers we filmed here were smaller, and could also have worked on ByDesign in my view). Update: if it plays out this way, it will be comparable to Oracle’s two tier cloud approach with NetSuite.
+The wrap – surprises and open questions
+As I wrap, there is a slew of fresh content to process, including more user group reactions to SAP’s licensing announcements, and a “five guys” shoot where we also assesses SAP’s innovation strategy.
+Next up: I’m going to shift gears and write up some of the customer stories we encountered. Those will shed light on some key topics, such as early adopters of the S/4HANA Cloud, and mature S/4HANA customers who are starting to see benefits that impact beyond IT.
+One big surprise from this show has been the aggressive outreach of SAP user groups to the diginomica team. Vocal user groups are crucial to SAP’s transition to data-driven “Leonardo” solutions. Their vocal input will be needed for the next-gen pricing models – and industry co-innovations – Leonardo will require. Soon, you’ll see user group interviews pop up on our playlist and hear their views on “indirect access” and SAP’s innovation roadmap for yourselves.
+Updated with a few minor tweaks for readability, 9pm PT 05/17/2017.
+Image credit - Image of SAP's "Cloud Trust Center" from Sapphire Now's official Twitter handle.Disclosure - SAP is a diginomica premier partner, and paid the bulk of my expenses to attend Sapphire Now 2017.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureIoT robotics and AI 

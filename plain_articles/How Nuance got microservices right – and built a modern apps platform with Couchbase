@@ -1,0 +1,38 @@
+
+In my enterprise year that was, one top surprise was funding IT from within – next gen apps come into focus.
+Given that so much tech is overhyped, it’s refreshing to learn how IT shops are building from within – by moving to cost-effective, modern infrastructures.
+So why not kick off the new year with another use case on how that’s done? Tom Coates, Senior Principal Architect at Nuance Communications, has a good story to tell. Coates is one of those rare individuals who focused on what he wanted to do in college (computer science), got a job doing it (with Varolii), and remained at that same company for almost 19 years, and counting.
+Finally, in 2013, there was a twist. Varolii was acquired by Nuance Communications. At the time, Coates was already knee deep in pilot projects at Varolii with Couchbase – despite Varolii’s long history with Oracle. So what prompted the shift? Coates’ team ran into the limitations of supporting “monolithic” applications:
+We were dealing with a couple of super large, monolithic applications that were tied at the hip to a really large Oracle relational database. It was built as a multi-tenant platform, where we were going to build all of these customer applications, and run lots of customized apps for clients, side-by-side on the same system.
+Prior to being acquired by Nuance, Varolii had a history of providing customization to their customers – well beyond a boilerplate.
+We had a lot of really good tech around call center integrations. Almost everybody wanted to control how calls would flow back into their agents and all of that. Our ability to work with them on all those finer details is what really made us successful – and probably still makes us successful in this area.
+But opening up customizations to customers put pressure on their architecture:
+We were sort of hamstringing these guys. Their ability to customize things was such a big deal for us. That’s why we realized that was the secret sauce – and so we wanted to open that up.
+Challenges of scale and cost – NoSQL comes into focus
+So how do you do that? Challenges of scale – and cost – brought the NoSQL option into focus. Coates:
+These sorts of problems, combined with scalability, was a bit of a challenge. Certainly using a large relational database at the time, our options were either bigger hardware, or go very expensive and complicated with a rack system or something like that. We decided we really needed to go back to the drawing board, and rethink this thing from the ground up. That was when we really seriously considered moving to a NoSQL store.
+Bring on the demos. Coates evaluated a number of NoSQL options, before narrowing to the usual suspects: MongoDB, Cassandra, and Couchbase. Coates and team were thinking microservices, before microservices were cool:
+The whole re-architecture was basically re-architecting as microservices before we knew what to call them. That wasn’t a phrase yet, but it was basically what we were doing.
+Once they narrowed their NoSQL options, they put all three to the test:
+We took one of the smaller ones, and actually built a proof-of-concept using all three. We just wrote three copies of this thing using each data store. We were able to get some hands-on experience, and see what we liked and didn’t like.
+Why Couchbase?
+So why Couchbase? At the time, there were two active data centers in play. Bi-directional data replication was a must:
+That was something that Couchbase was really, really good at. Setting it up is just a breeze. It’s a couple button clicks and you’re there… We were going, “Holy cow, we can be doing a lot here.” So that was definitely feature number one.
+Other Couchbase standouts? The APIs and SDK documentation. Then there was performance, a key consideration for future scaling:
+I don’t know that the service that we use as our sandbox really pushed any of those databases to their logical limit. But you can say,”Okay, that was clearly very slow, or this was fast enough that I couldn’t tell.” And so I think Couchbase passed the test in that sense.
+Cost was another key factor:
+I could go on about the different criteria, but we had to be able to scale it out. We had to be able to buy support. That was a big thing for us that we needed. We needed that support license to not be ridiculously expensive.
+So you make a big database/app platform decision, sign a new contract, begin your re-platforming – and then you get acquired. That’s life in tech, eh? So how did Nuance react?
+Acquisition time – a microservices architecture pays off
+Good news for Coates and team: Nuance wanted Varolii to keep doing what they were doing. Coates did have to provide a “re-justification” of the Couchbase decision. Nuance is a big Oracle shop themselves, but for the acquired Varolii team, the green light to continue with Couchbase was given:
+In some sense, they just didn’t want to mess with us too much. The company was doing okay, and they didn’t want to rock the boat a whole lot out of the gate. We already had this sort of massive re-architecture underway. I think they liked where we were going with that.
+Moving into a microservices architecture looks prescient now:
+As I understand it, at the time we were one of the only groups that had seriously considered a more modern, service-oriented approach. They liked where we were headed with that. They were looking at it as a model, I think, for some of their other existing lines. And to a certain extent, that’s carried over.
+Coates is now in the middle of moving that architecture to the public cloud. So did the prior Couchbase move help with that?
+Being architected in this way makes that so much easier. Trying to move the old platform to the cloud would have been a full nightmare. This is like, “Okay, so I take this thing that’s already a small little service, and I wrap it up in a container. Now I can go deploy it in Kubernetes and the cloud of my choice and everything just works, without really having to make a lot of code changes”, which is wonderful. Couchbase is a big part of that.
+The wrap – on security, the public cloud, and an AI-ready platform
+We talked about public cloud security. Security is a big priority for Coates given that many Nuance customers are in health care, where compliance and security is high stakes. Their solution involves letting the public cloud vendors do what they are good at (security and encryption), but also utilizing in-house HSM (Hardware Security Module) encryption key generation where required. New Couchbase tools are helping also, such as the recently released Couchbase operator for Kubernetes:
+The timing was perfect on that, because that’s the orchestration framework we’re looking to use.
+That means the architecture for customer apps will be based on Couchbase containers deployed in a Kubernetes environment. So far, says Coates, the tests are going well. It’s a good lesson: even when business circumstances change, a forward-looking tech platform serves you well. And yes, that applies to AI also:
+So many of these decisions were made before our acquisition. We had no AI tech or anything like that. And then lo and behold, we get acquired by Nuance, who does have all these things. Suddenly the architectural decisions we had just made played really well with the new options that we had available to us.
+Image credit - Side view of a man climbing the concrete stairs made in the shape of a graph - by @ImageFlow from Shutterstock.com.Disclosure - Diginomica has no financial ties to Couchbase. Read more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackNoSQL 

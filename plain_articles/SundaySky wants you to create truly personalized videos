@@ -1,0 +1,38 @@
+
+What if you could reach your customers through a personalized video that hit at the very core of their problems or opportunities? I’m not talking about a generic video that inserts your name here and there and tells everyone in your “persona” the same story; I’m talking about real personalization – a video made just for you.
+This is the objective of SundaySky, and it’s changing the way we think about personalized video experiences.
+SundaySky started about ten years ago. Founded in Tel Aviv, its founders were interested in improving the way video worked for companies, wanting to get away from the one-to-many, non-data driven videos. They believed if they could infuse data into a video they could make it personal and relevant to the customer.
+One of their first customers was AT&T. AT&T wanted to reduce call volumes from customers who couldn’t understand their bill. They also wanted to move customers towards paperless statements and encourage auto-pay. Personalized explanatory video seemed a good option to achieve these goals.
+Enter smart video
+Smart video, according to SundaySky CMO Eric Porres, is video that is rendered on the fly and disappears after it’s watched. Generated in real-time, it pulls in data from a company’s data warehouse to build personalized video for every customer:
+
+Image from SundaySky personal presentation
+In the case of AT&T, it’s a personalized video explaining a customer’s phone bill. Different scenes were developed that align to different states of a phone bill. Customer data is connected via a data warehouse that feeds into the SundaySky SaaS solution. Every time a customer clicks to view the video, it’s rendered on the fly (usually within two seconds or less said Porres), explaining different parts of that customer’s phone bill. When the customer is done reviewing the video, the video is gone.
+You want the video always to reflect the current data and keeping copies of videos that may never be watched again doesn’t make sense from a storage cost or a compliance perspective (thinking regulations like GDPR, HIPPA, SOX2 here).
+What about the voiceover? How is that personalized? SundaySky has talent that creates the voice over for videos. Part of the planning process involves atomizing the content and pre-recording it. This includes the customer’s name. SundaySky has a database of thousands of names pre-recorded by professional talent (interestingly they didn’t have “Barb,” only “Barbara.”). The customer can also define a set of special names, and in cases where the viewer’s name may not be known, a generic introduction is inserted.
+What about the timing of scenes? Some text may take longer to say for one customer than another. Porres called this “smart timing” – the video will automatically expand or contract to the audio and video necessary for a scene.
+SundaySky also optimizes scenes, including the data represented and the voice used to support ADA compliance.
+That’s how it works:
+
+Define the use case
+Break down the video into scenes
+Atomize the content and record the voice over
+Apply “if then else not or” logic to build the video flow
+Create the video
+
+On the one hand, it seems complex. On the other, easy. SundaySky has a professional services team that helps companies get up and running with the Designer Studio and the video creation process, and then for some, that team becomes a co-pilot training the customer to do scene program management on their own and offering support when needed. Other customers have used the solution all on their own as a true authoring environment.
+Porres said that one of the most challenging aspects of this type of personalized video is getting the data together to feed it into SundaySky. This is the job of the customer, and it can be hard to do considering the siloed way that most companies store their data.
+Once you connect the right data though, the use cases are many.
+
+Explainer videos – like the AT&T bill, or a healthcare spending statement.
+Customer onboarding to use a new solution or explain how a product works
+Membership videos.
+Upsell/cross-selling videos
+Personalized advertising videos
+
+Some videos are more personalized than others, but it really depends on what the customer wants to achieve. They even showed me how they built a personalized video for just me (watch it here). My video is an example of a marketing video they create for prospects. It pulls data about me from LinkedIn to provide the personalized information.
+Taking video to the next level
+I have received personalized videos before. They have my name in them – usually at the beginning and end, and sometimes a piece of personal information stitched in between. They are okay, but you don’t feel it’s personal.
+The demo video SundaySky did for me was simple. It pulled in my LinkedIn info and took data points to build a set of scenes that gave me the impression they spent time building a custom video for me (in some places). Compared to the other videos (which Porres referred to as including “bumper personalization,” it did feel more personalized.
+But I think what captured my attention was the SundaySky Design Studio and how easy it was to put together a new video (of course much of the work on scene development, voice over and flow was already done). The content marketer in all of us would love to have a tool that lets us build personalized videos like this to win new customers and build stronger relationships with existing customers.
+Image credit - Feature image - Businessman with magnifying glass focused on one person, by @Jakub-Jirsák, Fotolia.com. SundaySky video credit noted above.Read more on: Content marketingCRM and customer experienceDigital and content marketingUser experience 

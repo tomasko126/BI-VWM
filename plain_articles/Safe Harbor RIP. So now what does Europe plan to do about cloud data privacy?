@@ -1,0 +1,45 @@
+
+The court declares the Safe Harbor decision invalid.
+With 8 words, Europe’s highest court today struck down the main mechanism that allows US cloud services firms operating in Europe to handle transfer personal data outside of the region. More than 4,000 companies have signed up to the agreement, which was introduced 15 years ago.
+But as of this morning, Safe Harbor is officially unsafe.
+The ruling had been widely expected after the court’s Advocate General issued an opinion to the same effect last week. But the European Court of Justice (ECJ) went further than expected by slamming the European Commission for signing the deal in the first place back in 2000.
+The court said that the terms of the Safe Harbor agreement doesn’t give European Union citizens the right to complain about the handling of their data, nor does it even meet the standards set out in the Commission’s own Data Retention Directive.
+In its judgement, the court states:
+No provision of the directive prevents oversight by the national supervisory authorities of transfers of personal data to third countries which have been the subject of a Commission decision.
+Thus, even if the Commission has adopted a decision, the national supervisory authorities, when dealing with a claim, must be able to examine, with complete independence, whether the transfer of a person’s data to a third country complies with the requirements laid down by the directive.
+It also takes a shot across the bows of the US intelligence services by arguing that:
+The United States Safe Harboor scheme enables interference, by United States public authorities, with the fundamental rights of persons.
+What now?
+Safe Harbor is struck down with immediate effect, leaving EC negotiations with the US authorities about a replacement for Safe Harbor in limbo and tech providers contemplating what the longer term impact will be. Nicky Stewart, commercial director of UK firm Skyscape Cloud Services, said:
+This ruling is unsurprising, given the background to the case and the recent calls from the European Parliament to suspend Safe Harbor, but will be a major blow for the European Commission and US companies. Thousands of US companies are self-certified into Safe Harbor, and rely on it to facilitate data transfers between the EU and the US.  The implications of the ruling will be profound and wide ranging for all who have relied on Safe Harbor.
+The issues are highly complex, and there are real tensions between the need for international trade, and ensuring European citizen data is treated safely and in accordance with data protection law.  We would urge potential cloud consumers not to use this ruling as a reason not to adopt cloud.
+Matthew Fell, CBI Director for Competitive Markets, said there are clear wider implications for the EU’s digital agenda initiative:
+The ability to transfer data easily and securely between Europe and the US is critical for businesses in our modern data-driven digital economy. Businesses will want to see clarity on the immediate implications of the ECJ’s decision, together with fast action from the Commission to agree a new framework. Getting this right will be important to the future of Europe’s digital agenda, as well as doing business with our largest trading partner.
+Meanwhile Mike Weston, CEO of data science consultancy Profusion, raised the prospect that the US will hit back at the decision:
+There is  a risk that this move opens the door to retaliation from US authorities. European companies have a significant amount to lose if the US increases its data standards and requirements.
+He added:
+The biggest casualties will not be companies like Google and Facebook because they already have significant data centre infrastructure in countries like the Republic of Ireland, it will be medium-sized, data-heavy tech companies that don’t have the resources to react to this decision. Many of these businesses will reconsider how and whether they operate in Europe, which is bad news for everyone.
+Antony Walker, Deputy CEO at technology trade group techUK, added:
+This is a hugely significant ruling and will cause real confusion and uncertainty for all sorts of businesses that need to transfer data between the EU and US.
+The ability to transfer data lawfully across borders is fundamental for a growing and dynamic digital economy. Businesses need stability and certainty in the legal framework that enables this to happen.
+View from a cloud
+Some US firms, such as Oracle and Salesforce, do have in-region data centers in Europe.
+As we noted last week, most of the major US cloud services firms have been keeping their heads down and not squaring up to the European Commission’s attempt to enforce ever stricter data protection and privacy legislation.
+That’s remained the case today with Salesforce initially issuing a careful two line statement from Burke Norton, Chief Legal Officer to the effect that:
+We have always complied with EU data privacy laws and we will continue to do so. At Salesforce, trust is our #1 value and nothing is more important than the success of our customers and the privacy of our customers’ data.
+That statement was later updated to read:
+In light of the European Court of Justice’s decision regarding the EU-US Safe Harbor Framework, Salesforce is immediately making available a data processing addendum that incorporates the European Commission’s standard contractual clauses, commonly referred to as “model clauses.”
+Oracle declined to make any comment.
+NetSuite on the other hand, with immaculate timing, announced the opening of of 2 European data centers, one in Ireland, one in Amsterdam. Evan Goldberg, CTO of the cloud ERP firm, told diginomica:
+We have a very sort of self-contained operation in Europe. Our largest group of developer resources is in the EU. We have enormous fiduciary responsibility for customers data so we are very careful about what happens to it.
+Goldberg said that NetSuite will on occasion ask for permission to look through data in order to improve the service provided, but will only do that if explicit permission is given and that this operation can be completed in-region:
+Our internal resources can access the data, but we can do that neatly in Europe. We are well-placed as this decision [by the ECJ] evolves. We have the resources so that if you choose, you can keep everything internal to Europe.
+He added that there is a need for a universal response to data privacy legislation:
+The companies that we deal with are global companies. Ultimately there is going to have to be some form of global consensus around this.
+My take
+A landmark decision with long-lasting ramifications for the US cloud market and for Europe’s cloud adoption curve.
+I called last week for the US industry leaders to up their game here. Looks like I’ll be waiting a while yet for that to happen.
+In the meantime, the US and European authorities need to drill down on a more robust alternative to Safe Harbor.
+The criticism of the European Commission in the ruling was interesting. EC officials will be holding a press conference to put forward their response later today. We’ll update this story as it unfolds.
+Disclosure – at time of writing, Oracle, NetSuite and Salesforce are premier partners of diginomica. 
+Read more on: Cloud platforms - infrastructure and architectureData privacyRegulation 

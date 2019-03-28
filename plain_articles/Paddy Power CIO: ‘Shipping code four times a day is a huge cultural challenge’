@@ -1,0 +1,57 @@
+
+Fin Goulding
+CIO Fin Goulding is spearheading a cultural shift within Irish bookmaker Paddy Power, where he is leading a movement away from the assumption that ‘Scrums’ are quick enough for effective development, towards an approach that focuses on three work-style principles – Lean, Kanban and DevOps.
+Goulding believes that these principles, which mean shipping code three or four times a day, continuously building new features and integrating development functions within operation teams, results in products that produce greater business value at a lower risk.
+However, getting 500 people to change the way that they work, at scale, is no small feat. And whilst Goulding says that DevOps and APM tools help to streamline these processes, the biggest challenge has not been a technological one – it has been getting an organisation to think differently about how they work.
+Communication has been central to Goulding’s approach.
+He was speaking at SplunkLive! In London today, where he was talking about the use of Splunk as a monitoring tool in a development environment, and where I also had the opportunity to interview him on how he is getting Paddy Power to a position of continuous development.
+And for those of you that haven’t had a chance to speak to Goulding, or hear him present, I urge you to do so. His insights on organisational changes in a digital environment are incredibly useful.
+It’s a lonely job
+Goulding explains that when he joined the team three years ago, Paddy Power as a business was very unhappy with the service that it was getting from IT. And it was something that he needed to address through a dramatic cultural change. He says:
+
+There were times that I felt quite lonely. I brought everybody together in IT and did an all hands meeting and said that it was the first time that I had felt really lonely as the leader. Because I wanted to do this Lean/Kanban/DevOps stuff and I had the feeling that people didn’t want to come on this journey. I think that really helped because when you start to get a bit personal, people start to feel a bit sorry for you.
+Last year they hated me. Everybody, above me and below me. But then it just changed.
+But at the other side of the cultural change, I talk about rolling up your sleeves; it’s not just about being there every day and being a part of the project team, I actually had to meet with every single person at some point just to explain why we need to do this, why we need to increase our agility and change the way the way that we work.
+
+Lean > Scrums
+Paddy Power had been working in an agile way, but had been using Scrums. And for many Scrums were a radical way to work, according to Goulding, as this meant that instead of building systems over a number of months, you could get stuff out in three weeks. But he argues that this means that if someone has a new idea two days into a new sprint, you aren’t going to see the results of that idea until the end of the next sprint – almost six weeks later.
+And this is why Goulding has been determined to move towards a Lean approach to development, where the focus is on ‘features’ and you ship code every three to four days. Goulding explains:
+
+The challenge with using lean as a practice is that you have to use different techniques as an analyst or a product owner – you have to describe what you want in very clear succinct english, with business outcomes and each thing that you want has to be shippable in its own right.
+That’s what is kind of hard. Some business analysts can’t get their heads around it. And the teams have to be separated from each other, so that code doesn’t have to be merged. What you get in scrum is three or four teams bringing code together. We try to avoid any collisions or any branching if we can. And that’s also architecturally quite difficult. But constantly putting it into production reduces the risk of failure, rather than big bang approaches.
+
+Goulding presented a diagram (see below) that shows how a Waterfall approach means waiting for everything to built to see 100% of the value, with a huge amount of risk carried up until that point. Whilst Scrums might mean getting through 80% of the project to get the value required, with the risk reduced to smaller chunks. However, if you work in a Lean approach, development cycles are significantly shorter, meaning that the risk is significantly less and you get value much sooner. Goulding says:
+
+But actually what we are finding with Lean is that delivering 20-80% of what functions are required is something that the customers can use. We derive all the value that we need quite early.
+Scrum vs Lean
+And alongside Lean, Goulding is keen on using Kanban as a method for pulling work in and actually building. Developments essentially use Kanban as a view to see what needs doing, what things are being done and what things are completed. He explains:
+
+Development teams use Kanban predominantly and they use it because it demonstrates WIP [work-in-progress] limits as we call it – if you’ve only got five people, they can only do five things. If you’ve got 100 things on the lean wall, you only need to bring five in for the development teams.
+
+And finally, Goulding explains that DevOps was introduced because he discovered that whilst Paddy Power had great agility between business and build, features were suffering from a wait time before it was passed on to a DBA or engineer. He says:
+
+So DevOps helped us to handle these wait times and hand offs, so we put the DBA or the engineer in the dev team. We started redistributing a lot of those engineering and DBA skills and started co-locating them into development teams. Emulating little start-ups, that’s what we are doing. And what that allowed us to do is build the automation frameworks, the continuous delivery and integration.
+
+One of the main tools that Paddy Power is using across this entire environment is Splunk. It was first deployed as a security tool, where it monitored who was making what changes and where they were being made. It has since been deployed in the operational environment, because of monitoring and live information feedback. And is now being used for problem resolution – for example, why did this Saturday not look as good as last Saturday on a certain feature? Paddy Power, interestingly, is also considering how it can use Splunk for broader CRM and marketing analytics, as the data could provide it with some interesting insights on what customers are using and why they are switching to certain products or features. Goulding calls Splunk Paddy Power’s “best kept secret”.
+A seismic shift
+However, Goulding is adamant that the shift to continuous development, and ensuring a company gets it right, has very little to do with the tools. Goulding speaks about “getting out of your ivory tower” and asking people what’s working and what is not. He is an advocate of sharing ideas and understanding what employees need to get their jobs done.
+For example, he meets with a group of ten people every couple of weeks to ask them what he and the management team could be doing to remove blockers. However, Goulding isn’t soft. He has also implemented some ‘stick-like’ approaches, such as putting all leaders on call. He jokes: “It’s amazing how many things get fixed when your leaders are on call, they don’t want to get out of bed at 3am.”
+He also admits that Paddy Power isn’t an environment that everyone will enjoy and says that if you’re not happy coming to work, then you’re doing an injustice to yourself. Goulding gives an example of a team member going to “do the best work of their careers somewhere else”, where that person went on to be a CIO of a much larger company – and was much happier doing so.
+However, the priorities at Paddy Power are on creating a collaborative environment, one that is less competitive internally, but more competitive externally. It is obvious that Goulding is deeply invested in this cultural change. For example, he makes sure that he takes the time to interview every new employee himself. He says:
+
+The biggest investment you make is in people and it ensures cultural change happens.
+For me it became a communications exercise. In smaller groups, I was engaging with teams of about 30, 40, 50, asking them if I was stupid, asking them if it made sense and if it could work. And I got some great feedback on things that could and couldn’t work.
+
+A top-down approach
+Goulding also believes that this shift requires someone at the top driving the change throughout the organisation. It’s not something that’s easy to do naturally and it requires a huge effort. He explains:
+
+Yeah, I had to come in from the top and get down a bit further. You can’t just say “you’re going to do this!”. We have actually had some coaches and people with psychology skills helping with taking people through change curves. And actually saying what they were and weren’t happy with.
+You can take a risk and do what I did and just beg for forgiveness, just do it and have the strength of your conviction. Roll your sleeves up and don’t dilute your passion. But if you’re in an environment where there is a lot of control, it’s going to be really hard.
+
+And Paddy Power is beginning to see results. Goulding says that CEO Andy McCue has begun to see the benefits himself from this new development environment – because some of the work that is being done is being done more efficiently, this means that they are able to get more work done.
+However, that doesn’t mean that there aren’t any remaining challenges. When asked what’s next for Paddy Power, Goulding quips that the next job is “finishing it off and continually improving it”. He says:
+
+The fact is that people still need to go through refreshers and take the training wheels off. And also to get the metrics that prove it – because you have got to prove you got the productivity, you got the quality. The metrics piece is the hardest to implement around this because you’re doing more frequent releases, but they’re smaller, so they’re not easy to measure.
+You were doing four releases a year, now you’re doing four a day, so getting like for like is quite tricky. And feeding through the big initiatives as well, because big programmes are hard to do in this manner. But that’s quite good challenge to be honest.
+
+Image credit - via Paddy PowerRead more on: DevOps NoSQL and the open source stackUse casesBest of 

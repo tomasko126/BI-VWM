@@ -1,0 +1,46 @@
+
+Automated Insights CEO Marc Zionts
+I’m a sucker for a show floor demo. I always learn something, but then again, I’m rarely blown away. Well, I was blown away at Tableau Conference 2018 by Automated Insights.
+What these folks are doing by embedding text intelligence across Tableau is truly eye-opening, a potent example of how there is amazing power in data – if we can only grasp its context. But can a machine help a human grasp context?
+I came into my meeting with Automated Insights CEO Marc Zionts with a skeptical chip on my shoulder. The PR pitch was something over-the-top about “revolutionizing BI.” But Zionts immediately distanced himself from that, opting instead for a practical view. He told me:
+Gartner says that only a third of the people in an enterprise can read and process a dashboard or visualization with the intended meaning. So if you’re in the BI space, your audience is somewhat limited.
+Hard to argue with that. I’m continually flummoxed by vendors that show off dashboards that look pretty, but are low on insights. Or: dashboards that are too complicated to derive an insight or action from. But Zionts sees a more serious problem:
+Here’s what we see all day long. People look at a visualization, and they come back and say, “Oh, that’s really interesting. I just have one question, what does that mean?”
+That’s not what BI vendors have in mind. Every time an analyst is asked to explain such data, you’re taking up the time of a “super scarce, expensive resource.” Or, as Zionts points out, there is a much more expensive mistake:
+You actually have people making decisions based on their lack of understanding.
+So what can Automated Insights do about that? They’ve built a two-way integration with Tableau. An Automated Insights Tableau extension called Wordsmith embeds narrative text alongside each Tableau dashboard. This text pulls key takeaways from the dashboard, quickly summarizing charts, or describing an insight from the chart that would have taken time and concentration to dig out.
+When you adjust the visualization, changing a time slider or selecting a geography, then the Wordsmith text automatically changes. The text might contain highlights not included in the chart itself. Zionts jumped right into the demo. I took photos of his laptop screen. In this S&P chart example, Zionts drilled into the Technology Sector:
+
+As soon as he drilled into the tech sector, the Automated Insights text popped in automatically on the left. I’m a stickler for slicing and dicing by industry. So, we used a loans visualization by sector and geography, drilling into the utilities industry. This picture isn’t great, but the immediate insights were notable:
+
+The second phrase reads:
+Utilities loans that were overdue from 60-90 days had the largest percentage of the total amount of loans among the selected states ($528,063, 100%).
+This must be selling like hot cakes, eh? Zionts acknowledged:
+The customer traction is significant.
+Here’s another one, this from a natural gas energy sector example, with Automated Insights text “automagically” appearing on the left:
+
+Or, a sales example, with Automated Insights quickly pulling out the salespeople who haven’t met quota, and are now in for some mandatory sales training (middle column):
+
+Wordsmith also has a tab format that allows users to go through Descriptive, Diagnostic, Predictive and Prescriptive scenarios for a data visualization. I’ve fastidiously avoided the use of the Natural Language Generation (NLG) buzzword, but I can’t dodge it any longer, because Descriptive/Diagnostic/Predictive/Prescriptive are the four main types of NLG.
+Automated Insights bills their Wordsmith platform as the “the only NLG tool capable of delivering narrative to accompany each of these four analytical styles.” I was especially keen on seeing how Wordsmith would fare with the predictive and prescriptive aspects. Zionts showed a predictive shipping example:
+
+Now, are we going to assume that shipment delays from Federal Amulgated Shipping will persist just because they’ve risen over the last three months? Nope. We probably should have been on the phone with the fine folks at Federal Amulgated already to see if we could isolate the source of the problem.
+Getting these shipments right going forward is a big decision we are not going to rush. But these predictive items can certainly prod our thinking, and call attention to possible outcomes. As Zionts said to me:
+It’s kind of like you have an analyst on your desktop, telling you what the data means.
+Here’s the prescriptive version:
+
+Again, we are not going run out and do exactly what is recommended here. But this is a good place to start, a fine way, for example, to kick off a “Q4 shipping strategies” meeting. And it’s a heck of a lot better than poring over pie charts, or hoping your business users have time to do the same.
+Zionts says Automated Insights has three goals:
+
+increase data literacy
+democractize data accessiblity
+expand the reach of BI vendors
+
+Rather than think of this as a revolution, it’s really a re-dedication to the oldest conceptual tradition: storytelling. Zionts:
+The amount of people who can interact with data visualization expands when you add a concise, relatable narrative. People grasp the world through stories.
+Automated Insights has more irons in the fire than the Wordsmith BI tool. They are also known for their machine-authored newspaper articles (e.g. fantasy sports updates, press releases). I told Zionts that while machine-authored articles have their place, I’m far more impressed by their BI pursuits.
+Automated Insights is compatible with a range of BI vendors. We just happened to be at a Tableau show. During my traditional talk with Tableau’s CPO on the state of the company, Francois Ajenstat told me that opening up the Tableau platform for extensions in 2017 has generated a massive growth in third party extensions.
+Automated Insights was one of several worthwhile partners with extensions I spoke with. Zionts said they are at 78 employees and counting. They are privately owned by Vista Equity Partners, a heavyweight in the software investment space.
+I don’t know if others will agree with my optimistic assessment of Automated Insights, but this is a great example of why data platforms are more powerful than one vendor trying to build a comprehensive solution on their own.
+Updated, 5:30pm PT, November 27, with small edits for reading clarity.
+Image credit - Photos of Automated Insights in action by Jon Reed and used by permission of Automated Insights. Photo of CEO Marc Zionts by Jon Reed.Disclosure - Diginomica has no financial ties to Automated Insights. Tableau covered the bulk of my expenses to attend Tableau Conference 2018. Read more on: Analytics planning and data analysisIoT robotics and AIMachine intelligence and AI 

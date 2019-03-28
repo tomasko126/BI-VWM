@@ -1,0 +1,37 @@
+
+The crowded, competitive, noisy North American HR market
+Whenever I hear a nautical reference in software, I think of Larry Ellison of Oracle  or Dr. Hasso Plattner of SAP. But what got me thinking of the sea was a new-ish HR vendor, Fairsail , that I’ve been quietly observing for a couple of years.
+What first caught my attention with Fairsail was that the product line was built on the Salesforce platform – Salesforce1 (nee Force.com).  I also couldn’t help but notice their frequent mentions of beating Workday for HCM work.
+Fairsail is a UK based HCM vendor. Their sweet spot has been selling to firms with 400 – 5000 employee equivalents. The company has enjoyed solid success in the midmarket in its home geography and is branching out aggressively to other parts of the world. A number of US based companies have already selected and implemented Fairsail.
+Talking points
+In a recent conversation with Fairsail CEO Adam Hale, we discussed the following:
+
+Large numbers of midmarket firms are still utilizing products such as Microsoft Excel and Microsoft Access to handle a number of human resource functions. That’s either just sad or a sign of how little IT attention these mid-market HR groups get in their firms. Cloud solutions, hopefully, are changing that dynamic.
+On-premises style thinking is still present in the in the human capital market. Many customers or prospects that Hale speaks with frequently think in terms of 2-4 quarters to go live versus the 2 to 3 week time frames that products like his require.
+It’s not just that Fairsail was built on the Salesforce1 platform, the software also has built-in integration with the Salesforce CRM solution as well.
+Customers benefit from the built-in Salesforce integration as they can take advantage of built-in analytics, dashboards and other functionality common to other applications built on the same platform.
+Fairsail is an HR-only software company and has no plans to develop a financial suite to complement its existing solutions. Adam indicated that it is their intention to “remain great at HRMS”.
+The Fairsail software handles the tracking of time, benefits, vacations, etc. for employees. According to Hale, Fairsail can provide payroll data to in-country service providers in 128 nations. This is accomplished via their PayFlow Service. This service also has links to benefits, insurance and other providers.
+Fairsail currently has a number of direct sales professionals and is hiring additional personnel in North America.
+Fairsail also has some implementation partners to help them with the delivery of the solution. Different groups of delivery partners exist for the United Kingdom and the United States markets.
+
+Workforce experience
+Most recently, Fairsail has announced the availability of a new solution WX.
+WX is a workforce experience solution that provides a portal front end to the HR products. The goal of this solution has been to make HR software more than something that is only sporadically used by many rank-and-file workers. A notable feature of WX is its new responsive user interface. When companies first implement WX, it often starts with the business creating a landing page complete with user definable multimedia content. New landing pages often follow to help onboard new workers. The technology supports confirmation buttons to ensure that employees have read and received new or updated documentation relevant to them.
+Fairsail WX
+On the mobile front, an all-new mobile application will be available sometime this year. All-new user interface work is being created with a mobile first strategy in mind. This, of course, means that screens are being re-factored for an HTML 5 format.
+The software also supports a graphical calendar so that workers can schedule time off and managers may prove such via a familiar interface. Additionally, an organizational display appears on the right side of many screens to more quickly orient and facilitate organizational changes, performance management activities, etc.
+Fairsail also supports performance management functionality. Users can capture objectives, skills, recognition and review information about workers.
+Fairsail core HR
+Interestingly, the software does not support an active integration with Salesforce’s Chatter functionality. Demand for this functionality within an HR application has not been great, according to Fairsail executives. Additionally, these executives expressed concern over how some potential confidential HR information may get passed within a firm to individuals without the proper security protocols in place.
+My take
+
+Fairsail is definitely a very real and growing HCM vendor. Customer accounts and quality of customer acquisitions continue to improve year over year.
+As Fairsail has utilized the Salesforce platform-as-a-service (PaaS), they are able to take advantage of an almost built-in prospect base full of Salesforce CRM customers. As a result, future deal flow should not be a challenge for this company although it is not a done deal as others have found.
+Expansion into the North American market, while currently well under way, will be different than the UK experience. The US software market, particularly for human capital solutions, is a very competitive and noisy space (see image at top.) Marketing here will have to be many decibels louder than what the company has been accustomed to in its home market. That said, the company is already off to a good start in getting name recognition in North America.
+The product suite already is relatively robust and broad. How well the software conforms to numerous state, local and federal requirements across the entire United States is not known to me at this time.
+Fairsail will be going after many of the same midmarket customers that Ultimate and Ceridian’s Dayforce target. To win effectively in this competitive market, Fairsail will want to develop deep robust verticals solutions or extensions, such as the retail sector functionality found in Ceridian’s products today.
+
+Disclosure: SAP, Oracle, Workday and Salesforce are premier partners at time of writing.
+
+Read more on: Future of work 

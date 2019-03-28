@@ -1,0 +1,51 @@
+
+Charles Phillips on stage
+Time flies when you’re turning around a software company.
+Remarkably it’s five years since Charles Phillips stepped up as CEO of Infor and kicked off a radical reinvention of a firm that had, over the years, become best known as a collector of other software firms.
+But as Phillips put it on day one of the Inforum Europe conference in Paris today:
+There’s nothing wrong with a software company that can’t be fixed if you have great products.
+Five years on and $2.5 billion in investment later and Infor’s now boasting north of 45 million users in the cloud at 75,000 companies across 96 countries. That includes 17,260 new customers over the five years.
+On the product front, much work has been done to unify the Infor portfolio and to place design at its heart, courtesy of the firm’s Hook & Loop operation in New York.
+Among the priorities now for the firm is to invest more in a number of areas, including boosting the brand profile of Infor. This hasn’t been a priority to date. That said there has been an uptick in media coverage over the past 18 months, up 56% in the US and 17% in Europe.
+The Infor X upgrade programme has had a good deal of traction, supplemented now by a new offering Lift and Shift. Or as Infor President Stephan Scholl pitches it:
+Give us your data center.
+We will take your mission critical applications and run them on Infor Cloud Suite. So before you do an expensive hardware refresh, we can get you up and running in 4-6 weeks.
+After that ‘Lift’ period, the Shift modernization can take place between two to 24 months, at the user’s own pace. Then from 24 months onwards Infor assumes responsibility for innovation and upgrades.
+Differentiation
+Phillips differentiates Infor from the “two legacy vendors” in the market – that’d be Oracle and SAP in Infor terms –  in a number of ways, not least its rejection of the engineered stack mentality:
+We are leveraging a hyper-scale platform; Oracle and SAP are trying to build a stack, but you can never build out enough to compete with Amazon Web Services (AWS).
+You’re asking the wrong question is you’re asking how you can get an engineered stack. You don’t ask how to build a car. You need to ask how you deliver a transportation service. That’s what’s of value.
+You don’t need to own data centers. We’re in a transition to a time of server-less computing where you use what you pay for.
+We are also building the cloud industry by industry. The business processes in different industries are different, so the clouds should be different.
+One of the keys to this is Infor’s decision to build on the AWS public cloud. Phillips says:
+By using AWS get some of those benefits around the automation of IT. We’re taking all the labor-intensive stuff and automating it. IT is still pretty manual.
+The ability to fire up Amazon instances in Europe is also Infor’s answer to the concerns surrounding Safe Harbor and data transfer issues. Customers can, if they want to, have data remain resident in Europe.
+Longer term, something has to be done about Safe Harbor though, says Phillips:
+The situation is untenable. We [as an industry] will have to get it resolved. It has raised awareness and concerns.
+Phillips also points to the number of Infor customers now in the cloud. It’s expected that next year will see cloud revenues tip over the 50% mark, with recent cloud deals scaling up in terms of value, with some now topping the $20 million point:
+The uptake is accelerating. For the first year, we spent our time figuring out which applications, processes and which industries should go to the cloud, how do we do the migration work, how do we work out the business case valuation? We know how to do all that now.
+In addition, customers have become more comfortable with the cloud. We are seeing customers who once said that they would never go to the cloud, like big government agencies, who are now ready to do so. So I expect to see that uptake accelerate further.
+Phillips adds:
+There are a lot of opportunities out there. Some of the newer CIOs, who didn’t buy SAP 20 years, ago are ready to buy something different. We tend to do well with newer CIOs. Then there are a lot of customers who did do that enterprise deal 10 or 20 years ago and now they have a lot of shelfware. They’ve tried SAP and they’ve tried Oracle.
+New and old
+There were a number of new and existing customers on show at Inforum. New to the roster of Infor clients was hotel chain Travelodge, which has chosen Infor SunSystems to support growth in its UK operations as it continues to grow its business. Hosted by AWS, the application will be used to help streamline operations by focusing on financial reporting, procurement, invoicing and financial management across the estate.
+Nick Taylor, Director of Operational Finance of Travelodge, says:
+As the UK’s largest independent hotel chain, we are a growing business. We have recently invested £100 million upgrading our hotels with a new contemporary brand look and feel. We have exchanged contracts for more new hotels in the first half of 2015 than we did for the whole of 2014, and we have plans to open in at least 250 further locations over the years ahead. To support these growth plans we need a world class operations and financial infrastructure and by working with Infor SunSystems via a cloud model we are able to do exactly that.
+One existing customer is Dutch maritime construction firm Boskalis is an early adopters of the UpgradeX program. CIO Rien Krijger explains the company has a cloud first strategy in place:
+I have a target to close the last of our data centers at the end of next year. We work around the world and as such we need to be able scale up and down.
+He cites a project to widen the Suez Canal, which needed to scale up an organisation from zero to 200 people, operating in “the middle of nowhere”:
+Cloud is very much providing the environment that lets us do that. Cost is not the first thing that drove us to the cloud. We did some quite extensive examination of cost v on premise. From our standpoint, it’s actually about the same cost as on premise. It’s not that cheaper.
+One of the longest standing Infor customers is CERN, the European Organization for Nuclear Research, in Geneva, a major user of Infor Enterprise Asset Management. Its relationship with Infor dates back over 25 years, albeit via companies that have been acquired over the years, culminating in Infor.
+David Widegren, Head of Engineering Processes Support at CERN, approves of the changes to Infor over the past 5 years. He likens the CERN/Infor relationship to:
+a marriage. It goes up and down over the years. It has been going very well in recent years.
+When you compare to other suppliers, Infor is much more open to listening to us. If we have ideas about things that they can do better, they do listen to us. That ‘being available’ aspect is quite rare. We have had examples where things don’t work and I’ve been able to phone up [senior management] and things happen. There’s not a hiding behind many levels of hierarchy.
+For the moment, CERN isn’t planning a Lift and Shift into the cloud, although it’s not something that Widegren rules out in the future:
+Once various technical things are resolved, then why not? We do have some systems already in the cloud, so it is something that is on the list of possible things to happen.
+We have some questions about the cloud, such as who owns the data, how would we get it back and in what what form. There are some vendors who jump on the cloud bandwagon who may not have thought through some of those questions.
+My take
+The ability to wait for the likes of CERN to proceed at its own pace to the cloud mindset is a benefit Infor enjoys as a privately-held company. While the transition from on premise to cloud revenue models will have the same impact as it does on the likes of SAP and Oracle, Infor is not exposed to the public glare of market investors.
+Infor’s reinvention continues and is delivering results. The Amazon relationship, which some saw as a gamble when it was first announced, has actually proved to be an asset according to Phillips, with many new customers already having experience of using it and as such finding it an enouragement to move into the Infor version of the cloud.
+There will be bumps in the road and adjustments along the way of course. Remember all the publicity around the Inforce cloud ERP partnership with Salesforce of a few years back? It seems Infor’s purchase of Saleslogix has taken its toll on that. As Phillips describes it, the firm decided it needed its own CRM offering. So while Inforce is still something that customers can buy, it’s not something that Infor leads on any longer.
+Such pragmatic shifts of gear are entirely to be approved of. ‘New’ Infor needs to be built on such pragmatism as well as beautiful design. This remains an impressive story in evolution.
+Disclosure – at time of writing, Infor, Oracle, Salesforce and SAP are all premier partners of diginomica. 
+Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceDigital and content marketing 

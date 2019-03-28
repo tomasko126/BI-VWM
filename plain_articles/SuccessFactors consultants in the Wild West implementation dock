@@ -1,0 +1,65 @@
+
+Jarret Pazahanick, he who commands a LinkedIn group dedicated to all things HR but with a strong SuccessFactors spin is not a happy camper. Back in November 2017, he wrote a scything piece: Wild West of the SAP SuccessFactors Consulting Partner Ecosystem which got plenty of attention. To give you a flavor:
+SuccessFactors re-launched Professional Certification about 2.5 years ago, which has a requirement of three projects and customer references to be able to qualify, and as of October 25, 2017 only 49% of official SuccessFactors partners currently have at least one consultant with it across any the 11 certifications. It is crazy to me that more than half of the of the 191 SuccessFactors Service/Implementation Partners do not have at least one consultant with Professional Certification in any of the 11 modules. Here is the information on the 94 SuccessFactors Partners that meet this criteria by region by module of certification.
+Wild West implementation actors
+Move over Clint Eastwood – here come some seriously badass Wild West implementation dudes.
+Ever since Pazahanick wrote that polemic, he has been doggedly surfacing numbnuts ‘consultants’ who sound like they’d have trouble finding their own asses even with the aid of a compass, flashlight and route map. Check this most recent example:
+
+Good old #SuccessFactors “Wild West” ecosystem as a recently certified consultant sent by an #SAP partner to lead an Employee Central implementation has “no idea where to start” and SAP/SF wonder why customer satisfaction is bad #ASUG #DSAG #SUGEN pic.twitter.com/QUbfzfEXMb
+— Jarret Pazahanick (@SAP_Jarret) August 24, 2018
+
+Or how about this:
+
+Here is another #SuccessFactors Partner with OBVIOUS no clue or experience or expertise in Employee Central trying to get information to win implementation work. Why does #SAP allow this to occur as hurts customers. #WildWest pic.twitter.com/HKvslEFZi6
+— Jarret Pazahanick (@SAP_Jarret) August 29, 2018
+
+Or how about this bunch of scumbags:
+
+Here is an outfit offering full #SuccessFactors Certification Questions & Answers & when all that is needed is 80 multiple choice questions to lead a SF Project no wonder customer satisfaction is so poor #WildWest #SAP https://t.co/rNr6kmEM5Z
+— Jarret Pazahanick (@SAP_Jarret) August 29, 2018
+
+These are not isolated incidents and, as far as Pazahanick is concerned it is hurting SAP’s reputation in the market. A recent Gartner report graded SAP’s custsat as ‘below average.’
+
+Customer satisfaction for #Oracle was “above average” and #Wday was “among the very highest” and #SAP #SuccessFactors was “below average” https://t.co/cNzG6Cl6co <- The #WildWest partner ecosystem “strikes” again as they play a big part. pic.twitter.com/WKqFZTJwF6
+— Jarret Pazahanick (@SAP_Jarret) August 17, 2018
+
+Let’s be clear – Pazahanick is one of the most passionate cheerleaders for SuccessFactors I know. That’s because his career depends on it. But he rightly points out that for all practical purposes, SAP has no control over its ecosystem of partners and when you’ve no control…then it’s a roll of the dice whether your project will come in on time, on budget and to spec.
+What is the problem?
+SAP has an institutional blind spot when it comes to partners that carries over from its days as an on-premises provider.
+In those days, SAP could throw the software over the proverbial wall, take the license fee and hand off any problems to the implementer. It was a great arrangement from SAP’s perspective but, as history has shown, was not always so great for customers. SAP attempted to compensate by having an extensive certification program but as I along with others demonstrated in 2010, it wasn’t worth the digital paper it was written on.
+At the time, SAP was not prepared to make the kind of sweeping changes we felt were necessary and in effect, did nothing of substance. the pity of it was that SAP Mentors with many years of experience were happy to help SAP formulate a better way.
+The problem as I perceived it was that SAP Education was a declining line item in the P&L account and SAP could not see past the cost element to understand that value given would deliver value rewarded down the line. What’s more, SAP was too afraid of its large partners like Accenture and IBM who often command account control and who themselves often refused to certify their own staff in any appreciable numbers.
+SAP still hasn’t learned that lesson because when ‘certified consultants’ can pop up with inane questions of the kind Pazahanick surfaces then you know something is seriously out of whack. To make matters worse, the current SAP partner mantra is ‘Partners 1st.’ This runs 180 degrees counter to CEO Bill McDermott’s message of ‘Customers first.’ The two expressions are incompatible.
+What’s to be done?
+Invariably in these back and forths, the topic turns to Workday, which by all measures I can find both formal and informal, is setting the gold standard for project delivery and customer satisfaction. As I told Pazahanick who rightly queried whether Workday really is the shining light it is portrayed, I have yet to come across seriously pissed off Workday customers. It will happen for sure but just not so much now.
+You can argue that as a relatively small player – Workday is tracking $2.3bn in revenue for 2018-19, can more easily control its ecosystem. I say ‘nuts’ to that. From the get-go, Workday established assurance programs for its projects which have been iterated over time to reflect the different needs of different customer types and size. What’s more, Workday now counts thousands of customers which in turn means it faces the same organizational issues around partner management as any other vendor.
+That’s not to say they’re perfect. The recent Sacramento case which, quite frankly looks like a royal mess, tells me that like any vendor, Workday is not perfect. But then Workday doesn’t fight shy of ridding itself of contractors who don’t meet customer requirements or who are failing on an implementation.
+SAP has not done the same. Far from it. But is that all?
+Watching the back and forth on Twitter, I saw something else which made me wince.
+
+A scenario that will NOT change as long as every decision gets taken on cheapest unit cost. Disrupt the legacy procurement function, and this world will look MUCH better
+— Vijay Vijayasankar (@vijayasankarv) August 30, 2018
+
+I don’t see how you can disrupt anything until you level set what needs to happen going forward. And, as Vijay well knows, the past practices have evolved to the point where SIs ‘know’ they’re going to hit the procurement wall and so low ball deals while holding a clutch of change order templates ready to flash in front of customers on day 2 of the project.
+In short, the enterprise implementation shell game has become one of playing cat and mouse for SIs hell-bent on maximum bench utilization while knowing that customers are not as well informed as they could be. Yeah, it really is a shitty business. I know, because I’ve been there.
+In my mind, it starts with the incentives. I suggested that people should be incentivized on outcomes, not deal size or hours billed. Steve Bogner agrees:
+
+Yes it’s worse with time and that is what amazes me. IMO it persists because this is the way the ecosystem is structured, this is where the incentives drive it. And there are too many entrenched interest all around for it easily change
+— Steve Bogner (@SteveBogner) August 30, 2018
+
+Implementers complain that customers want the cheapest deal but I am of the view that is a matter of experienced conditioning. For too long, enterprise implementations have largely failed to deliver on time or to budget and if I was in the position of having been burned then, of course, I’m going to hammer the SI as hard as possible.
+But that should not be necessary in the SaaS world where the software vendor should be proposing the implementation of repeatable, standard, non-custom but configurable processes to a blueprint that is well understood long before anyone starts doing a moment’s implementation work. It can’t be that hard or every vendor would be failing but as we know, that’s not the case.
+I can certainly hear arguments about scope creep, change orders and customers whose own project management is not up to par but a good consultant will spot those problems well in advance and tackle them head-on.
+My take
+The days of the asymmetric relationship between SIs and customers is long overdue for overhaul.
+In today’s world, there is no reason why customers should not be excited about the prospect of implementing and benefitting from modern systems. But for as long as the incentive and engagement models follow the path of the 20th century then SAP SuccessFactors will continue to ‘earn’ its bad rap.  And that’s a shame because in 2018, the product is compelling and competitive in its own right.
+The concentration of effort on growth numbers rather than growth outcomes is misplaced and as a result, I expect that while SAP may get some great looking top line sales numbers in the current hot market, it will ultimately lose for reasons that are wholly avoidable.
+The fact is that the answers are right in front of them. For all the ‘aaah buts’ I can already hear, I know there are good examples out there that SAP could tap into if it so chose. After all, if you’re going to be a Partner, does that stop at supporting the sales engine?
+My final word goes to Brian Sommer who says:
+
+1 finer point: A mgmt consultant should be a professional (e.g., someone who puts the client’s interest before his/her own). As such, they shouldn’t be getting referral fees, jt. marketing $, etc. from vendors. Implementers aren’t held to the same standard. It’s a big difference https://t.co/Rd6gCm4YKq
+— Brian Sommer (@BrianSSommer) August 30, 2018
+
+Yeah – there’s a reason Accenture, his alma mater, is often positioned at the top of the SI pile.
+Bonus Points:  A new face on the block Raven Intel will publish SI rankings from its own studies next month. It promises to be ‘interesting.’
+Image credit - via © pathdoc - fotolia and Photo by Eniko Polgar on UnsplashDisclosure - SAP and Workday are premier partners at the time of writingRead more on: HCM and the digital future of workHR admin and payrollTalent management 

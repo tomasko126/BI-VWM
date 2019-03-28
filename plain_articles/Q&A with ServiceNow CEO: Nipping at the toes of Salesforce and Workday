@@ -1,0 +1,40 @@
+
+ 
+Frank Slootman
+I’m day two into ServiceNow’s user conference in Las Vegas and the phrase du jour seems to be how ServiceNow is ‘nipping at the toes of Workday and Salesforce’. That and the increasingly ‘blurred lines’ of the cloud software industry.
+I’ve heard both a number of times today.
+And CEO Frank Slootman agrees, he argues ServiceNow is beginning to encroach on both CRM and HCM territory. And whilst he doesn’t necessarily believe that ServiceNow is going to be the first choice for enterprise buyers when considering a system of record for those capabilities, Slootman does believe that his platform brings the level of engagement needed to HCM and CRM to make the true difference to businesses processes.
+Slootman argues that ServiceNow is the “system of engagement”, whilst the likes of Salesforce and Workday are simply the “systems of record”. The same being true for the more traditional back-end players, including SAP. And whilst ServiceNow needs to tap into those systems of record, it isn’t necessarily trying to be those systems of record. It is sitting underneath, acting as the platform that orchestrates and structures the workflows. It creates the touchpoints.
+For background, it may be worth reading my post yesterday on how I think ServiceNow could be the platform to beat in the cloud industry – if it can sell the message that ServiceNow isn’t an application business that is competing with HCM or CRM, it’s an enablement platform that operationally improves all enterprise workflows.
+The messaging isn’t yet finessed, but we got a clearer pitch today from Slootman in a press and analyst Q&A. For example, he said:
+
+The lines and boundaries are blurring. Everybody is seeing that. Our customers are seeing it. Mr Benioff is seeing it. Service management is very task orientated, whereas CRM is more record keeping orientated. We are more of a system of engagement, rather than a record keeping system. The same thing with HR, we don’t manage the records of HR, but we manage the work of HR. Because HR is a lot of work.
+
+He said that whilst you might use Workday to manage all of the records relating to a new employee, ServiceNow has far better capabilities for orchestrating complex workflows relating to the on-boarding of a new employee, for example.
+For instance, during one of the keynotes, Slootman highlighted a new on-boarding app, operating on the ServiceNow platform, that showcased how an employee turning up to their first day of work could see within a designated portal a picture of their new office, with the location and mapping integrated, as well as a list of the people they would meet on the first day, with pictures of those people, the information they needed to provide before getting there, and a list of equipment that they would be given.
+This is why Slootman sees ServiceNow as the engagement app, as it allows a company or organize a number of tasks that employees can interact with. He said:
+
+We think of that as a service management application. Essentially the service is a unit of work, it’s a task. An on-boarding application is a complex task, it’s preparing somebody to be able to start work and there’s a number of tasks that need to be completed prior to that person starting work.
+We think of on-boarding as a service management application, but essentially service is the same as saying a unit of work or a task. It’s very generic.
+
+And this, Slootman said, is not just happening in HR. But it’s happening in CRM, financials and in a number of other areas.
+
+It’s a very symbiotic relationship. It’s the same with SAP. We will do the purchase requisition, but SAP will do the purchase order. We combine all these service requests into a single service platform, whereas SAP is just SAP. You cannot have a system just for purchasing, because employees have a million needs, not just purchasing. That’s really our claim to fame.
+Pat Gelsinger at VMware is my former boss at EMC, we know each other very well, and he’s being told by his customers that they have to run provisioning through ServiceNow. That’s very upsetting to him.
+
+You can see where Slootman is going with all this. He’s essentially saying that ServiceNow’s platform complements an enterprise’s existing application and back-end architecture, it integrates with the existing systems of record, but it does the more interesting stuff. It organises and creates the wrap around for a lot of employee interaction and touch points.
+I’m not sure Salesforce, Workday or SAP would entirely agree with the claim that they aren’t systems of engagement, but Slootman makes a strong case given that ServiceNow, if used in this way, is the platform layer integrating them all together.
+But he still wants to play nice. He said:
+
+We are a fully federated platform, we always have been. We are never an island, we are always pulling data and other systems are pulling data out of us. We are being pushed and pulled all the time. Half of the orchestrations that we are doing require integrations with other systems. We don’t live in our own little cloud world.
+
+I proposed to Slootman that people don’t yet quite understand the impact or potential of ServiceNow because they don’t know how to pigeon hole the company beyond IT service management – which, let’s face it, isn’t as exciting as HCM or CRM. However, he argues that ‘service management’ should be how ServiceNow is defined going forward. He said:
+
+The bucket [we will be put in] will become service management. We are still an ITSM player, obviously. Because that’s just a flavour of service management that is very strong and very mature. Everybody has one. There is no IT organisation on the planet doesn’t have one. But there is no IT about this, this is a very generic request/response workflow process. And our customers have started to apply it to many things.
+I think platform companies are dangerous because they branch into many different places without even trying. This isn’t our doing, this is our customers doing.  How excited can you get about incident, problem and change? It’s a hygiene thing, you have to have it. But pursuing these other workflows, they [customers] find that incredibly exciting.
+
+My take
+It was good to hear Slootman flesh out more of what I wanted to hear from the company. I still think that ServiceNow needs to distance itself from its ITSM past and talk more and more about business change as a result of service management across the enterprise. It shouldn’t be afraid to talk about how it is enabling other cloud apps and back-end systems to become more engaging, if that’s the end-game.
+Disclosure: SAP, Oracle, Workday and Salesforce are premier partners at time of writing. 
+
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureIT service managementThe new professional and IT as a service 

@@ -1,0 +1,68 @@
+
+Computer Economics’ IT Spending and Staffing Outlook for 2017 is a well-researched hot potato for the CIO – a nuance of good and bad news. The good? Despite macro-economic questions, the spending and business climate seems to be modestly/surprisingly positive. And: cloud is spurring efficiencies.
+The bad? CIOs don’t get to bask in the financial rewards of those efficiencies, or even re-invest the gain. Instead, they are asked to grow with less. Or, as Computer Economics puts it:
+Business leaders in North America are positive about the economic outlook for the coming year but not optimistic enough to open their wallets for the IT organization.
+Cloud is driving a modest IT spending increase:
+For the second straight year, IT organizations in North America plan to increase IT operational budgets by just 2.0% at the median as they continue to shift operations into the cloud.
+This hold-the-champagne vibe explains the reports’ subtitle: “efficiency over exuberance.” To explore these tensions, I got a behind-the-report scoop from Computer Economics President Frank Scavo. (You can see a report summary and paid subscribers can download the full report, or it can be purchased a la carte).
+IT spending analysis – takeaways and surprises
+Alas for CIOs, Scavo says this is the “new normal”:
+The big takeaway is that small increases in IT budgets are the new normal. Unlike previous recoveries, we have not seen a large jump in IT spending over the past five years. So if a CIO is only seeing a two or three percent increase this year, he or she should understand that is pretty much in line with other companies.
+Don’t expect IT spending to outpace the economy:
+When the US economy is only growing at two or three percent per year, IT leaders shouldn’t expect to get spending increases that are greater than that. In fact, we find that IT spending growth is actually trailing corporate revenue growth across all organization sizes.
+One unhappy surprise for CIOs: they’re expected to pursue digital, but with boostraps, not blank checks:
+The big surprise is that for all talk about technology disruption and digital business, business leaders do not seem to be willing to write big checks to get there. They are expecting IT leaders to find money through efficiencies in ongoing support.
+Cloud is a big efficiency driver
+Cloud and automation gives CIOs a chance:
+Fortunately, there are a lot of ways for CIOs to do that, through cloud migration, virtualization, and increased use of automation for routine support tasks. That’s why the subtitle of the report is “efficiency over exuberance.”
+Operational wins won’t get the CIO’s name on a plaque:
+It’s as if business leaders are saying to CIOs, thanks for your efforts on cost savings, and we’re going to pocket some of those savings instead of letting you reinvest them. We saw some complaints from our survey respondents about this.
+Cloud has definitely impacted one aspect of the IT budget: a long-term shift from capital to operational spending. Scavo sees far-ranging implications for the hardware business:
+Another surprise is how much IT capital spending has flattened. For the fourth year in a row, IT capital spending growth is zero at the median. We attribute this largely to the migration of applications and infrastructure to the cloud. This mirrors the financial results of tech vendors, such as Oracle, who have seen their hardware business in the tank while the rest of their business is growing. Selling boxes has not been a good place to be for the past four years.
+Why business applications and network infrastructure are spending priorities
+Figure 11 is a clear illustration of where the IT spending is – and isn’t:
+
+Reprinted with express permission of Computer Economics
+The emphasis on business applications is no surprise given declining network and hardware costs. Business applications have been taking over IT spending for years; Computer Economics sees that accelerating. Network infrastructure spending intrigued, given that “networks” tend to be perceived as unsexy LAN activities. I asked Scavo if the rise of IoT and security concerns were responsible:
+Yes, absolutely. Most high priority spending initiatives require increased investment in networks. Cloud apps, cloud infrastructure, mobile apps, and security all depend on internal networks that are fast, reliable, and secure.
+Computer Economics also drilled into spending priorities by initiative:
+
+Reprinted with express permission of Computer Economics
+No real surprises on this one. The emphasis on operational and security functions is another reminder that CIOs are not, by default, strategic. They must push for resources for strategic initiatives (business intelligence qualifies, and to some extent cloud applications).
+Security, meanwhile, has become a board level preoccupation; no surprise to see the spending there (see my recent writeup on why CFOs are also pressing the security questions due to board pressures).
+Outsourcing isn’t dead, but it’s more targeted
+With all the hyperbole about robotics and process automation – not to mention outsourcing shops struggling – you’d think outsourcing was heading the way of the Tasmanian Tiger. But Computer Economics reports a different picture, with outsourcing not only holding steady, but gaining:
+
+47 percent plan to keep outsourcing at current levels
+37 percent of IT organizations plan to increase the amount of outsourcing
+Only 16 percent plan to reduce outsourcing
+
+I asked Scavo about these semi-surprising results. It turns out that as a percentage of the total IT budget, outsourcing levels are fairly stable:
+You know, what IT leaders say about outsourcing is a funny thing. Every year, there are a greater number of IT leaders who say they are increasing outsourcing than who say they are cutting outsourcing levels. But when we look at outsourcing dollars as a percentage of the total IT budget, the level has pretty much remained constant since 2013. There was a small increase, less than one percent, this year, but who knows, we might see it drop back down in 2017.
+The big change Scavo sees? A more targeted outsourcing approach:
+We think IT organizations are getting a lot more selective about outsourcing. We see very few organizations that do those massive deals where they turn over everything to a handful of IT service providers. Rather, we see them selectively or partially outsource certain IT functions, such as Tier I help desk support, or maintenance of certain legacy systems, or some aspects of IT security, where an outside provider can give better quality of service. Sometimes it is about saving money, but increasingly, it is about who can do the better job – my inside team, or some third party?
+Final thoughts
+It’s always good to keep a survey’s methodology in mind. Computer Economics conducts this outlook survey in conjunction with their annual tech trends study. Though the sample size isn’t large (190 responses), they are carefully validated.
+The U.S. and Canadian respondents were segmented by organization size:
+
+Large companies with more than $1 billion in annual revenue accounted for 23 percent of the sample.
+Midsize organizations with revenue ranging from $350 million up to $1 billion made up 21 percent of the sample.
+Small organizations with less than $350 million in annual revenue made up 56% of the sample.
+
+North American respondents comprise the biggest group: fifty-one percent of the sample is from the U.S. and Canada. 28% are from the Europe, Middle East and Africa region, 15% are from the Asia-Pacific region, and 6% are from Latin America.
+In North America, the most common industries were:
+
+Professional/technical services (21 percent of the U.S. and Canada sample), followed by
+Government/nonprofit organizations (18 percent)
+Manufacturing (15 percent),
+Financial services (9 percent)
+Construction/trade services (8 percent)
+Healthcare (7 percent)
+Retail/wholesale (6 percent)
+Other industries (16 percent)
+
+Though the survey data gives us a breadth of industry views, with this sample size, we wouldn’t expect to drill into an industry’s IT spending nuances. These results paint a conservative spending picture that assumes CIOs are on top of cloud efficiencies and operational functions – while keeping the company safe from security and data loss meltdowns. That’s a full plate before you add innovation projects. And yes, innovation is expected, but largely on the CIO’s own dime and time.
+If that’s a challenging view for CIOs who want to prove their worth as digital transformation ninjas, there is decent news in the background. Despite the macro-economic questions raised by Trump’s-as-yet-unproven trade policies, Brexit, and other pressing EU topics for buyers, the economic picture isn’t too spooky. IT leaders can navigate without the burden of economic chaos or dives – at least for now.
+Scavo’s clarification is a good one to end on:
+We used the word “upbeat” in regards to IT leaders’ view on the outlook for their businesses, not in regards to IT spending. So, yes, their outlook on the economy is generally positive. Brexit and the US election did create quite a bit of economic uncertainty. But if anything, we’ve seen anxiety levels falling after both the Brexit vote and the US election results. Just look at the Dow.
+Image credit - Affari in vista © Gianfranco Bella - Fotolia.comDisclosure - Computer Economics is a diginomica affiliate partner. There is no financial arrangement, but we do get previews of select research for editorial purposes. Read more on: Cloud platforms - infrastructure and architectureDigital transformation - frictionless enterpriseOutsourcingThe new professional and IT as a service 

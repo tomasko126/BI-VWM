@@ -1,0 +1,63 @@
+
+ 
+Adaptive Insights, a CPM/EPM (corporate performance management/enterprise performance management) vendor, held its annual user conference last week in San Francisco. A number of announcements were made at the heavily attended event.
+The quick recap
+
+The company announced its first vertical: a software planning & analytics solution. This product is targeted for firms with multiple components to their revenue (e.g., product, services and warranty) with Software-as-a-Service/subscription economy firms being the key users.
+The company continued to promote the “Active Planning” concept. Data from a recent CFO study was used to reinforce the problems companies are experiencing with “static data” and unchanged planning processes.
+Release 2017.2 would be available at the end of the week. A number of enhancements are included in this release (see below).
+Release 2017.3 details were also teased to attendees.
+Customers were generally quite pleased with their Adaptive product experiences – some weren’t happy about the sold out breakout sessions though.
+Several larger customers were featured in keynotes including PF Chang’s and the University of Arizona.
+Revenue and customer count growth numbers would suggest an IPO for the firm is possible by late next year. However, this could be affected by a number of other factors (e.g., Wall Street’s low interest in completing IPOs this year could continue into 2018).
+
+Essential Adaptive numbers
+
+
+Approximately 1400 persons attended this event
+Adaptive now has 140,000 users of its software globally triggering 1.5+ million page views daily
+Customer acquisitions have been solid with a 75% growth in new customers over the last 3 years. Total customer count now stands at 3,500.
+In a rarity for a privately-held company, Adaptive shared its revenue numbers over the last few years. 2017 revenue was pegged at $81 million (USD).
+
+Release 2017.2
+Adaptive’s release 2017.2 is now available. It includes enhanced functionality in a couple of areas.
+First, the software has a new time modeling/slicing capability.  The purpose of this capability is to give users the ability to use ever more granular time slices when planning or forecasting. Users no longer have to plan or model with timeframes that exactly match the accounting or planning calendar. What this means is that users can plan at one level (e.g., daily sales estimates) while other planning figures can be at a higher level (e.g., monthly rent costs).  Adaptive customer, University of Arizona, can now create plans aligned along its university calendar and those of 3000 different contract calendars.
+In a Q&A exchange during a breakout session, I asked for additional clarity on this. Specifically, I wanted to know if some planning items could be done on one accounting calendar basis (e.g., 4-4-5) while others used another calendar basis (e.g., calendar months). It turned out that this is not supported. What is supported is the ability to roll up planning data from a detailed date segment (e.g., hours or days) to a summary planning level (e.g., calendar month). These rollups must be hierarchical. If not, the software will not spread or allocate a balance across two accounting periods.
+2017.2 also included new self-service capabilities for users to create more visually interesting and interactive dashboards. This release also had new “click, not code” functionality that permits users to have global formulas and cube linked accounts. It also permits users to drag and drop plans or forecasts straight into a dashboard. Dashboards can be personalized, too. Users can do drill downs and avoid error-prone copy/paste activities from spreadsheets or other tools. Enhanced data integrity is a result of this. Adaptive also added waterfall and other functionality to their dashboards.
+What both of these major enhancements accomplish is giving firms ever more reasons to quit using spreadsheets and all the potential errors they can introduce. I support that outcome.
+Planning and analytics vertical solution
+Adaptive has developed additional functionality to support its 400+ software customers and other ‘as-a-service’ firms. Why is a solution like this needed? Cloud and ‘as-a-service’ firms use an entirely new set of metrics and KPI’s than other firms. These metrics include measures like Monthly Recurring Revenue (MRR), Lifetime Customer Value (LTCV), Cumulative Annual Growth Rate (CAGR) and Churn, just to name a few. To develop plans and/or report financial results, these new economy firms require tools that support these calculations.
+To make these metrics more valuable, Adaptive has partnered with a benchmarking firm OPEXEngine. OPEXEngine provides software industry performance benchmarks that Adaptive customers can use to model/compare their performance to other new economy firms. These GAAP and non-GAAP benchmarks come from public and private software companies.
+According to Adaptive, the software vertical solution includes:
+…prebuilt, configurable models for topline forecasting, planning renewals, sales capacity planning, marketing demand generation modeling, prebuilt KPI dashboards, including benchmark targets; visual analytics; and prebuilt, one-click SaaS board packs.
+Customers speak
+
+The graphic above demonstrates two things:
+
+Customers come from all kinds of industries.
+Customers come in all shapes and sizes.
+
+In short, Adaptive has successfully appealed to a very broad set of customers with a much needed horizontal play. Of the many customer breakouts, I found the ones from TuneIn and CallidusCloud to be especially interesting.
+The TuneIn discussion was interesting in that the company is pumping large volumes of mobile content viewing information into the Adaptive cloud for analysis and subsequent billing. It was a quasi-Big Data presentation.
+The CallidusCloud folks have built a sophisticated tool in Adaptive Insights to determine the exact time and quantity of sales professionals the company must add to meet its targeted revenue goals. That was doubly interesting as CallidusCloud sells a cloud based set of sales planning tools.
+I had the opportunity to rub shoulders with a dozen or more customers while attending the event. They represented a cross-section of the industries and company sizes that Adaptive sells to and supports. From those interactions, I learned that:
+
+Customers were generally pleased with the level of innovation coming from Adaptive. A couple of customers did feel that innovation had slowed a few years back when Adaptive was re-working its User Interface but really liked the momentum of late. In the breakout sessions, a number of new features coming out in releases 2017.2 and 2017.3 got lots of applause.
+On-premises CPM solutions held no allure for these software buyers (not totally surprising). When I asked what other solutions they considered before deciding on Adaptive, customers reported reviewing competing solutions from Host Analytics and Anaplan. No one seemed to have any appetite for an on-premises CPM product.
+Many firms have replaced their CPM solution with a modern cloud solution but their core accounting solutions remain woefully out-of-date, on-premises and limited in functionality. Adding a modern planning tool, like Adaptive, might ease some immediate pain points but I was left wondering whether this short-term technology decision was the right long-term solution. It seems like someone added a turbocharger to some 30 year-old beater of a car.
+By and large, customers were quite happy. There was no grousing about software audits, vendor litigation of customers, lack of innovation, etc. like I hear at some ERP vendor events. And, this is a big point as too many older vendors are so money grubbing, they’ll destroy their brands to acquire a few more pennies of revenue from their long-term customers. Bad behavior from vendors damages their brands and possibly their long-term success. I’d encourage Adaptive to continue to do right by customers.
+
+NetSuite and other integrations
+Adaptive has long had a tight integration with NetSuite. In fact, the two companies appear to share some 700 common customers. One recent joint customer announcement involved HR solution provider HireVue. (I’ll be covering their upcoming user conference in a few weeks.) HireVue used the two solutions to drive greater sales forecasting accuracy.
+Adaptive may have only scratched the surface with this market though as Oracle/NetSuite may have 40,000 customer organizations/subsidiaries. It’s this large market opportunity that also attracted competitor Host Analytics to develop tighter integration with NetSuite, too. Another competitor, Centage, is creating a NetSuite connector to its Budget Maestro solution. (And let’s not forget that Oracle/NetSuite also has its own CPM solution: Hyperion.)
+Previously, the NetSuite software showed up as a tab within the NetSuite software. The two products even had a single sign-on. At the Adaptive conference, we saw new integration capabilities being announced. Users can now open a window and select from an array of data sources they’d like to import data from. Imports from Microsoft Dynamics GP, Microsoft Excel, Intacct, NetSuite, Salesforce and other solutions were displayed. Integrations are now easier to complete.
+Support for NetSuite’s custom dimensions has also been added as has the ability to automate the movement and scheduling of data from NetSuite into Adaptive solutions.
+My take
+Going forward, I would like to see:
+
+What other verticals Adaptive will support. I got no guidance re: other verticals at this show. However, Adaptive competitors are pursuing new horizontal (e.g., Sales Planning applications) and new vertical solutions.
+A greater focus on Big Data. Adaptive’s continuing to build out deeper functionality to support accounting and finance users but the real long-term opportunity for them might be to support more operational, sensor and consumer digital exhaust information into their plans and forecasts. I’ve worked with the American Accounting Association to show how Big Data can be used to improve the forecast accuracy of almost every major line item on a P&L. I think it’s time for Adaptive to get really focused on this opportunity area.
+Create an aggressive marketing effort to de-install all of those on-premises CPM tools in use in the market. Adaptive, like other cloud CPM firms, has clearly targeted firms with an over-reliance on spreadsheets. But if the company’s products can deliver value for larger customers, then it should be able to take out on-premises solutions in larger firms. Host Analytics has done a lot of this already.
+
+ 
+Image credit - Graphics via the author, featured image via AdaptiveDisclosure - NetSuite is a premier partner at time of writing. Adaptive covered most of the author's travel and expense for attending the conferenceRead more on: Analytics planning and data analysis 

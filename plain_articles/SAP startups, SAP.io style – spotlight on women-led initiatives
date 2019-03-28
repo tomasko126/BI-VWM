@@ -1,0 +1,53 @@
+
+SAP and sundar (startup) in NYC
+Back in the heyday of the SAP startup program, aka SAP Startup Focus, Den Howlett and I were knee deep documenting upstart SAP companies on video. Most had a big data or analytics focus, targeting industries in dire need of fresh solutions.
+The vast majority were exploring – or actively using – HANA as part of their data platform. SAP Startup Focus continues on, now “encompassing 6418 startups globally.”
+But to be honest, I haven’t seen the same energy and visibility I did when the program was first launched. That’s why I was eager to learn about a new SAP startup initiative, SAP.io, which has a different twist, including an emphasis on female-led startups. At an SAP Influencer event in New York City, I got the low down on SAP.io. I also met with two compelling startups, StyleSage and sundar. Both aim to make their mark on the fashion industry with design chops and data-savvy.
+SAP.io – a different startup program for an open enterprise
+So what makes SAP.io different? SAP.io is a new approach sparked by a changing enterprise, where open platforms and choice of solutions trump proprietary technology. Even before the HANA-inspired SAP Startup Focus, there was the “NetWeaver Fund” for startups back in the late 90s/2000s. But that was really about add-ons to SAP systems. The SAP Startup Focus continues a “build on” SAP philosophy, albeit in a big data/cloud platform era.
+But as Deepak Krishnamurthy, Chief Strategy Officer told me, SAP.io fits into a more ambitious agenda:
+For the 2020 SAP strategy we shared a couple of years back, the idea was: how do we  actually go to the cloud? How do we create a new extended ecosystem around SAP? For that, we said there would be two approaches. There will be a “build on” approach and a “build with” approach. The build on approach will elevate the SAP platform; the different platform components could be IoT components. It could be the machine learning component. The ecosystem, from the large ISVs to startups, would build on the platform.
+SAP.io is about “build with”:
+We also said in a world that is more and more heterogeneous, we just can’t have a build on approach. We will also have a build with approach. The build with approach is what SAP.io largely focuses on.
+The SAP.io business unit focuses on two things: deep incubation and acceleration with local foundries. It also manages an early stage enterprise startup venture fund, investing in companies that are “white spaces” for SAP. There are a number of SAP.io Foundries across the world, in startup hubs like Berlin, Tel Aviv, New York City, San Francisco, and up next, Paris.
+One refreshing angle: there isn’t a heavy push on SAP technologies here. Neither of the startups I spoke with are using SAP tech at the moment. SAP’s support comes via the incubation space, and potentially, venture funding. Access to SAP technologies and SAP APIs is, of course, available as needed. But access to mentorship and, potentially, SAP customers is even more important.
+The SAP.io NYC cohort launch – female entrepreneurs in focus
+The New York City Foundry is primarily a women-led B2B enterprise tech cohort. The companies are all in the seed funding to series A stages. They are all using “deep tech”, from AI to machine learning to blockchain to augmented reality. The New York City “cohort” launched in April – thus my chance to meet two startups before their launch party. As Vanessa Liu, VP SAP.io NYC told me, this ushers in a sixteen week intensive:
+The founders will be sitting here working alongside with us. We’ll be giving them access to our data, our technologies, and also, on a case by case basis, to our customers.
+Getting women-led ventures to the next level is a top priority:
+Women founders account for 17 percent of tech startups. In the B2B enterprise tech world, that number is even lower. So as a company, we’ve decided that we want to really be a leader in terms of making significant strides and changing what that statistic looks like. This is about deep mentorship, so it’s a very curated program.
+StyleSage – helping retailers making smarter/faster decisions
+First up was StyleSage. As Elizabeth Shobert, Director of Marketing and Digital Strategy told me, StyleSage is an AI-based solution for fashion and retail brands:
+ I like to tell people that we’re like the nerds of fashion, which might sound contradictory, but that’s us.
+At the core of StyleSage is image recognition. It’s about combining the discipline of a machine with the creative eye of a designer. The apparel industry is a monster $2 trillion market. But as Shobert explains, retailers battle with speed to market. They struggle to monitor their competitors’ pricing moves, with spreadsheet heavy lifting still the go-to approach in many shops:
+What we’re trying to do is equip these brands with not just taking the gut-based decision, but actually looking at data and making more informed decisions, ultimately more profitable decisions.
+The stakes for retailers are high:
+We’re seeing a lot of stores closing. Social media has such an impact on how people purchase apparel and accessories now. We’re in a really interesting spot.
+Yes, e-commerce has advanced, but the ability to quickly adapt to trends has not:
+If you’re looking at a product on a page, you see a shirt consumers might be shopping for. You can see the pattern, the color, the fit of it…  But at the macro level view, what are your competitors doing, and are you missing opportunities in the market that you could otherwise be taking?
+The proliferation of data isn’t a help unless you have the talent and tools to act on it:
+There’s no shortage of data out there, but one of the things that we’ve learned is that either it’s sitting in all these different silos, or you don’t have the right talent in place to actually utilize and find insights in that data… How are your competitors making moves in the market? What are consumers even searching for? How do you incorporate social media and influencer data into your product decisions?
+StyleSage helps companies conquer these problems with three main tools:
+
+An analytics platform driven by image recognition to assess the competitive landscape.
+E-commerce smart tracking – this can be a real pain point with retailers. StyleSage uses image recognition to automatically spot missing product information and get products in front of consumers faster.
+Price matching – tracking and identifying matching products across competitors’ websites, and within your own as well.
+
+sundar – building a new digital supply chain for the fashion industry
+The SAP partnership is paying off; a number of StyleSage’s early customers are also SAP shops. Next up is sundar. As founder Jag Gill vowed:
+At sundar, we’re building the digital supply chain for the modern responsive sustainable fashion industry.
+As you might guess, behind this modern ambition is a legacy problem. The fashion industry supply chain is notoriously out of step with the digital world. Gill:
+If you take a look at my lovely dress, it takes a year to get this dress from a sketch and a concept to a garment. And we learned in our work that over 70 percent of that time – almost nine months – is spent procuring and sourcing the raw material. So the textile, the trim, the components vendors need to make the garment are [out of sync]. That’s because the apparel supply chain is particularly antiquated, right? The supply chain looks the same as it did 50 years ago.
+That doesn’t work for today’s customers:
+The customer is now digital and connected. So the customer is now influenced by social media, finding fashion online.
+It’s a see now/buy now world:
+The customer seeks product on a daily basis that’s on trend, high fashion, at the right price, at the right cost. And yet we have a supply chain that is very analog. So it’s this disconnect which excites me and my team as innovators.
+Sundar charged out of the gates by building a new marketplace , a software platform to connect brands and retailers with manufacturers and suppliers of textiles, raw materials and services:
+We enable basically in minutes what normally takes weeks and months to accomplish.
+But as they picked up customers and worked with SAP, sundar found that larger enterprises already have their own networks. So sundar is also offering a licensed version of its product to larger companies who can then invite their own intensely-vetted suppliers on board.
+I was impressed by the sophistication of sundar’s marketplace and will elaborate on that in a future piece. But for now, it’s worth mentioning the marketplace has a number of compliance filters to support sustainable business and ethical material sourcing. Buyers and designers will also be able to rate suppliers based on their environmental, labor and social compliance. Gill:
+We hope to change behavior at the very start of the creative process.
+There is more to say on both of these startups but for now, the conviction and imagination of these female entrepreneurs left a lasting impression.
+As we head into Sapphire Now this week, I believe these stories fit in well with the narrative that I call the “best of SAP” – diverse workforces building smart software that makes an industry better, without busting IT budgets. Let’s hope these are the kinds of stories we see on the ground in Orlando.
+ 
+Image credit - Photo of SAP's Lio and sundar's Gill in New York City by Jon Reed. Disclosure - SAP is a diginomica premier partner. Read more on: DiversityFrictionless enterpriseIoT robotics and AIRetail e-commerce and the omni-channel 

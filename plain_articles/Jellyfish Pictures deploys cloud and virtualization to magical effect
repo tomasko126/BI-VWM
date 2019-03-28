@@ -1,0 +1,28 @@
+
+Jeremy Smith
+When diginomica last caught up with Jeremy Smith, CTO at Jellyfish Pictures, in mid-2014, the London-based visual special effects (VFX) house had recently opened a second site in Brixton, south London, using cloud technologies to help it expand beyond its base in the West End. 
+A lot has happened at Jellyfish since then. Last year, the firm picked up a graphics design Emmy for its work on the three-part PBS documentary on human evolution, Your Inner Fish. That adds another trophy to its collection of prizes from BAFTA, the Royal Television Society and the Visual Effects Society. 
+It also got a namecheck from Microsoft CEO Satya Nadella at the software giant’s Ignite 2016 conference in Atlanta for its use of the Azure cloud for computational rendering. And using CGI (computer generated imagery), it brought to life the swarm of drone bees hell bent on assassinating social media users in the season finale of Charlie Brooker’s brilliant Black Mirror series for Netflix. 
+Perhaps most importantly, Jellyfish has continued to grow, to reach over 170 employees and prompting it to open a third site near The Oval in late 2016. Alongside this expansion, its commitment to using cloud and virtualization technologies to give its artists the tools they need to create monsters and magic has grown, too. 
+DaaS
+Back in 2014, the company had just begun using desktop-as-a-service (DaaS) from cloud provider Exponential-e to provide staff with remote access to heavy-duty workstation and graphics-intensive software technologies, as and when they needed them, in a more cost-effective way. But the new office in The Oval takes that vision a great deal further; the company claims it is Europe’s first virtual visual effects studio. As Smith explains:
+
+What that means is that we’ve set up The Oval office so that there are no servers or computers there – a different kettle of fish from our other two sites. There are just zero-client desktops. Users just plug in a monitor and a mouse and they’re ready to go, because they’re connecting to a machine that’s running in Brixton.
+By underpinning different cloud technologies with Exponential-e’s network, we had the building blocks for a new virtual office, allowing us to simply extend the workloads that we already had to set-up our new premises.
+
+This network is vitally important, because the dataflows involved in modelling, animation and visual effects, including all the tweaking and rework that artists need to do in order to perfect their creations, are pretty prickly when it comes to latency. They simply don’t tolerate it at all, demanding instead a network that’s not only high on bandwidth, to accommodate high-resolution, high-complexity imagery, but also delivers on short round-trip response times.
+The low-latency, high-speed Ethernet network that Exponential-e supplies enables Jellyfish Pictures to virtualize distributed workstations from Strongbox Technology, via cloud access software from virtual workspace specialist Teradici. There’s also software-defined storage from Pixit Media in the mix. So effectively, and with a good helping of caching and configuration technologies, there’s no lag in performance or speed for the team at Oval. As Smith explains:
+
+All of our people in all of our three locations can access all company resources, production files, creative assets and so on, over this network. It’s the ‘glue’ that brings all that work together.
+
+The beauty of this set-up, according to Jellyfish Pictures CEO Phil Dobree, lies in being able to respond quickly to new projects and the spikes in demand they create and treat all resources as if they are centralized, regardless of whether they are based in the private or public cloud: 
+
+We have the capacity to scale computing power and deploy virtual workstations in an instant, to execute even the most demanding of projects.
+
+In Phase 2 of the project, scheduled for this year, Smith will be working on enabling staff working from home to also connect into the network that now connects its central London, Brixton and Oval offices. 
+That will be vital, as the Jellyfish team is currently getting down to work on bringing to life a couple of characters much-loved by many Brits of a certain age and quite a few younger fans, too. In 2016, CBBC (the BBC’s strand for kids aged six to 12) announced it was giving Dennis the Menace and his dog Gnasher a CGI makeover for a new series to be broadcast late this year. Jellyfish will be designing, creating and animating that series and much of the work will be done from Oval, but supported by staff at the other two sites, says Smith:
+
+We’ll be hiring a bunch of new people for that so we needed to find a way of working smarter, but not necessarily harder. It made more sense for us to go down this cloud and virtualization route, and expand on what we’d already built at the Brixton studio, rather than buy a stack of new hardware.
+
+
+Image credit - Jellyfish Read more on: Cloud platforms - infrastructure and architectureDigital enterprise in the real worldUse cases 

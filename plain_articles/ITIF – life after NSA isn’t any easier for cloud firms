@@ -1,0 +1,37 @@
+
+NSA
+There was a throwaway comment from Rackspace CEO Taylor Rhodes last month when the firm lowered its revenue expectations for the current quarter, in part because:
+For data sovereignty reasons, one of our largest and longest-tenured customers was forced to move the production element of a large environment from our data center in the UK to a location in Africa, where Rackspace does not have a data center.
+It was a rare example of a cloud services provider admitting that post-Snowden, data sovereignty concerns were impacting on its bottom line. The party line from the overwhelming majority of the B2B US cloud industry has been that it’s seen no financial hit stemming from heightened fears, despite there being dire predictions of what the consequences would be from the NSA spying revelations.
+Those claims haven’t gone away despite the USA Freedom Act coming in supposedly to reform the NSA’s practices. Two years ago, the industry-funded think tank Information Technology and Innovation Foundation (ITIF) estimated that the NSA surveillance would cost cloud computing companies somewhere around $21.5 billion to $35 billion.
+But last week it upped that figure to an unspecified amount. Daniel Castro and Alan McQuinn, authors of a new ITIF report, say:
+Since then, it has become clear that the US tech industry as a whole, not just the cloud computing sector, has under-performed as a result of the Snowden revelations. Therefore, the economic impact of US surveillance practices will likely far exceed ITIF’s initial $35 billion estimate.
+ITIF hit out at what it sees as a lack of strong enough action by the US government to address the situation the impact of programs such as PRISM:
+Foreign companies have seized on these controversial policies to convince their customers that keeping data at home is safer than sending it abroad, and foreign governments have pointed to US surveillance as justification for protectionist policies that require data to be kept within their national borders. In the most extreme cases, such as in China, foreign governments are using fear of digital surveillance to force companies to surrender valuable intellectual property, such as source code.
+In the short term, U.S. companies lose out on contracts, and over the long term, other countries create protectionist policies that lock U.S. businesses out of foreign markets. This not only hurts U.S. technology companies, but costs American jobs and weakens the US trade balance.
+Certainly there are signs that countries around the world are toughening up their stance on sovereignty. Russia, for instance, has passed a new law requiring all tech firms operating within its borders to store information about their customers in servers located within the Russian territory.
+The likes of Salesforce and NetSuite are building data centers in European countries in order in part to satisfy localisation of data concerns, particularly in order to target the public sector in countries such as the UK.
+To improve the prospects for US cloud providers, ITIF wants the government to:
+
+Increase transparency about US surveillance activities both at home and abroad.
+Strengthen information security by opposing any government efforts to introduce backdoors in software or weaken encryption.
+Strengthen US mutual legal assistance treaties (MLATs).
+Work to establish international legal standards for government access to data.
+Complete trade agreements like the Trans Pacific Partnership that ban digital protectionism, and pressure nations that seek to erect protectionist barriers to abandon those efforts.
+
+How social firms measure up
+One sign of the ongoing pressures facing US firms was the release last week of a transparency report by Amazon. Despite running the largest public cloud infrastructure business in the world, the firm had resisted pressure to publish such a report. Facebook published its first report in 2013, while Google has done the same since 2010.
+Stephen Schmidt, AWS’ chief information security officer, says:
+While we recognize the legitimate needs of law enforcement agencies to investigate criminal and terrorist activity, and cooperate with them when they observe legal safeguards for conducting such investigations, we oppose legislation mandating or prohibiting security or encryption technologies that would have the effect of weakening the security of products, systems, or services our customers use.
+Amazon said it received 813 subpoenas from January 1 to May 31 of this year, and fully responded to 542 of them. It received 25 search warrants and fully responded to 13 of them. One hundred and forty-five subpoenas did not receive any response from the e-commerce firm.
+In contrast, during the second half of 2014, Facebook received 35,051 requests from international governments for user data, while Twitter saw the number of government requests rise 40% overall during that period, to 2,871 individual requests.
+For the same period, Google received 30,138 requests globally for information about more than 50,585 users or accounts. It provided data in response to government requests in 63% of cases.
+Meanwhile one of the UK’s leading intelligence officers has flagged up Google as being the most ‘co-operative’ social media giant when it comes to government requests, a compliment the implications of which might arguably leave the provider less than entirely comfortable.
+Sir David Orman, former director of the spy centre GCHQ, said at a public event in London that Google is far more willing to co-operate than some other providers:
+ If you provide a warrant to Google, Google will provide the material, albeit rather slowly as it’s based in the US and they require Department of Justice processing. Other companies won’t help.
+It’s difficult to track too closely how accurate that is as Google’s public transparency data relating to the UK only goes as far as 2013. That shows the company received 708 requests for data from the UK between 2009 and 2013 and approved 64% of them.
+My take
+I’ve been asking execs at B2B cloud providers about the so-called Snowden effect for a couple of years now and had the standard response on almost every occasion: it’s made buyers more sensitive to data issue, sometimes slows down the decision-making process, but hasn’t translated to an actual material impact on the bottom line.
+That makes the Rackspace admission all the more striking. Will we see other examples starting to emerge now? Whatever the case, I still find it hard to reconcile ITIF’s doom and gloom predictions with what we’ve actually seen to date.
+
+Read more on: Cloud platforms - infrastructure and architectureSecurity 

@@ -1,0 +1,50 @@
+
+Last week the UK government opened up the 8th iteration of its G-Cloud framework, a model that’s been used as a template for other administrations around the world, from India to Australia. 
+Now the Canadian government has set out its own cloud stall – and it’s an interesting departure from the Cloud First policies of the UK and US. 
+Rather than mandating Cloud First procurement, the Canadians are taking a more pragmatic stance with a Right Cloud strategy that leaves public sector CIOs the freedom to use on premise tech as well as cloud offerings. 
+The Government of Canada Cloud Adoption Strategy, published last week, is the culmination of consultations with the IT industry and various government agencies that began back in 2014. 
+The cloud adoption strategy is meant to achieve three broad goals:
+
+To help bring the supply of IT service into balance with the demand for those services.
+To provide a consistent approach to managing the risks of cloud adoption.
+To prepare the IT workforce for cloud.
+
+Scott Brison, President of the Treasury Board, said: 
+
+Canadians expect governments to make the most of available technologies to improve service delivery. Cloud computing will help the Government of Canada (GC) get better value for taxpayers’ dollars, become more nimble in its operations, and meet the evolving needs of Canadians.
+
+The continuation of on premise options for CIOs is a reflection of existing investments. 
+The report notes: 
+
+The GC’s IT landscape reflects the past five decades of IT evolution, comprising tailored solutions, commercially acquired solutions, legacy solutions and much more. Given such diversity, a one-cloud-fits-all solution will not serve all needs. Instead, the GC will adopt a Right Cloud strategy that will enable CIOs to have a number of cloud- and non-cloud deployment models to choose from. The ability to align solutions to a particular business context will ensure that as many IT solutions as possible will migrate to the cloud.
+
+It adds: 
+
+The GC’s Right Cloud adoption strategy recognizes that different deployment and service-delivery models will deliver, to varying extents, the benefits that the GC seeks from Cloud, however CIOs must weigh those benefits against their business requirements. Depending upon requirements, Public Clouds and Software-as-a-Service (SaaS) may offer the greatest benefits.
+
+Sovereign issues
+The Canadian government is taking a tough line on data sovereignty. Only data categorised as “unclassified” will be allowed outside of the country’s borders, but still heavily encrypted. But essentially all personal data will have to be stored in data centers inside Canada, forcing suppliers who want to bid for government business to invest in infrastructure within the country. 
+There will also be a G-Cloud-like marketplace in the form of the Canadian Public Sector Community Cloud (CPSCC), which consist of: 
+
+public cloud services with security that the government has accredited and that has been made available to all Canadian public sector organisations through a marketplace.
+
+The eternal skills crisis that plagues government everywhere is also part of the strategy document: 
+
+CIOs must understand the changing environment, undertake the necessary workforce planning, and invest in their workforce in order to provide their IT professionals with the necessary learning and developmental opportunities. For the adoption of cloud to be successful, the GC must immerse itself in a cloud ecosystem, surrounding itself with both skilled employees and experienced professional services. The professional services industry that serves the GC must be ready to provide teams with cloud skills and experience. Making the transition from the physical to the virtual will provide our IT professionals with exciting new opportunities and competencies.
+
+Particular needs are: 
+
+business acumen, to better understand the services and expectations of business partners in their departments and across government as a whole.
+analytical capacity, to evaluate the various options for delivering IT services, based on a broad range of criteria.
+vendor-management relations, for example, evaluate, negotiate, monitor and enforce contracts, service-level agreements, to ensure that the government receives full value for its funding and full benefits under the contracts or arrangements.
+new technology adapted to emerging areas such architecture and deployment of solutions to the cloud.
+
+There’s also an interesting emphasis placed on the role of the Cloud Service Broker to act as intermediary between cloud service providers and cloud consumers.  In this case, the existing Shared Services Canada organization will take on the role. The strategy document notes: 
+
+Cloud service brokers have the expertise to procure cloud services, manage relationships with providers, manage billing, and monitor consumption of services. Instead of choosing the Right Cloud solution for a given business context, which is a task left to Chief Information Officers, Cloud Service Brokers provide Chief Information Officers with a menu of services to choose from. 
+The GC cloud broker will provide a low-touch cloud-brokering service by implementing contracts with cloud service providers, thereby enabling departments to use a self-service model for provisioning cloud resources (e.g., compute, storage, platforms). As the GC cloud broker, Shared Services Canada will have responsibility for configuring the cloud environments as extensions of end-state data centres with a catalogue of cloud resources pre-configured to the GC’s OS hardening standards and network topology. Public cloud environments authorized to process and store data at the unclassified level, followed by Protected B, will be priorities for procurement.
+
+My take
+Canada’s taking a very pragmatic approach to promotion of cloud adoption. Given the resistance to change seen in other government circles, it will be interesting to see whether the ‘non-cloud’ option will be seen as less of a stick to beat CIOs with than Cloud First mandates, which can have the side effect of fuelling that resistance. 
+Image credit - Freeimages.com Read more on: Digital government and public services
+

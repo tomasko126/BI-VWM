@@ -1,0 +1,50 @@
+
+Larry Ellison, Oracle
+As sure as night follows day, colleagues who have otherwise more important things to do, eventually piled in on Twitter to opine about Larry Ellison’s announcement of a new, automated Oracle database in the cloud, that is aggressively priced in an effort to put the wind up Amazon Web Services. It was entertaining and informative.
+First up, I’ll repeat my position in brief:
+
+This is primarily a defensive move to keep customers on board who might be persuaded to move workloads to AWS.
+The focus is not OLTP per se but, as Ellison puts it ‘mission critical’ workloads. This is much more likely to mean workloads going to Redshift rather than Exadata. Sidenote: Oracle claims 10K Exadata customers. Not shabby but a tiny fraction of its whole customer base.
+Instead of focusing only on price, Oracle is offering something that no other major DB maker is doing – offering self healing, automated pretty much everything and pretty much anywhere (cloud, your, Oracle data center, on-premises if you must)
+Oracle has been smart in pre-announcing this and providing enough detail for both CFO/CPOs and IT leads to chew over the implications in advance of what will be the big push at Oracle OpenWorld.
+The fact that the Twitterati have weighted in gives Oracle free PR/AR insight against which it can push out counter measures for the naysayers and bolster the boosters.
+
+On to the meat of what was said.
+Ron Miller, journalist at TechCrunch was early in showing his disdain for Oracle that in many ways only repeats complaints we’ve heard many times down the years.
+
+But do you believe it, that’s the question?
+— Ron Miller (@ron_miller) September 21, 2017
+
+For my part, I was a tad teasing which revv’d up Miller nicely:
+
+To use @rwang0 vernacular: My POV: more hot air from Larry.
+— Ron Miller (@ron_miller) September 21, 2017
+
+Others were more sanguine. Holger Mueller chipped in with:
+
+They’ll get their piece of marketshare, but they aren’t going to beat AWS at the infrastructure game.
+— Ron Miller (@ron_miller) September 21, 2017
+
+…which as you can see got Miller to be definitive. At which point, the usually pugnacious Chris Kanarakus chimed in with:
+
+This is I agree with, but can Oracle live in a world of tighter cloud margins and no big maintenance contracts?
+— Ron Miller (@ron_miller) September 21, 2017
+
+Perhaps Miller’s not been reading the 10-K’s as closely as others. Oracle is going for a margin well in excess of Amazon’s reported numbers. Whether it gets there is another matter but the target is writ large in the executive payout deal. Mueller comes back with  a more reasoned view:
+
+Absolutely. But @Oracle is closer to pull this off than ever before. Far from done. Tons of challenges. But this was a key step.
+— Holger Mueller (@holgermu) September 21, 2017
+
+By this stage, Miller was finding it harder to make his position meaningfully helpful:
+
+That helps anyone. But when was @Oracle ever the only game in town? Customers always had choices. What am I missing ?
+— Holger Mueller (@holgermu) September 21, 2017
+
+I hope Miller won’t mind me picking on him but while Oracle has a sometimes well deserved bad-ass reputation, don’t be fooled into thinking that it is not alive to market realities. Remember that Mark Hurd, co-CEO and Safra Catz, along with Ellison are under some pretty ambitious targets if they are to earn their mega-bucks variable pay in the next five years. They can’t do it alone. There has to be an army of sales and marketing people willing to support the proposition PLUS buyers in droves. And Oracle is hiring them.
+Nor should anyone confuse Ellison’s natural tendency to bloviate as all good showman do, with the on the ground grind of selling a story that makes business sense. For all the ‘mouth flapping’ as Miller puts it, in other business critical areas, I am consistently hearing good things about how Oracle is behaving as it seeks to transition from legacy to 21st century. I don’t think this will be any different.
+As you can see, the banter was good natured if a tad acerbic.
+My take
+Good analysts are always prepared to take a position but continue to ask questions rather than state facts as immutable. It’s good to see folk like Mueller weighing in, it always adds nuance. Even so, Oracle will be alive to the fact there is a contingent of coverage out there who will not be persuaded any time soon.
+Taken in the round, I’m prepared to keep an open mind because if nothing else, the market and buyers do better when there is healthy competition.
+The devil remains in the contractual detail to which users sign up or switch.
+Image credit - Story credit Phil Wainewright, featured image - the authorDisclosure - Oracle is a premier partner at time of writing. Read more on: Analytics planning and data analysisInfrastructure 

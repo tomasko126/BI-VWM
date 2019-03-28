@@ -1,0 +1,31 @@
+
+The growing proliferation of connected digital technologies — cloud computing, smart mobile devices, big data analytics, and the agile development styles that accompany them — have given many enterprises a huge headache. Their existing IT was simply not built to perform at the same pace. It dates from an era when people accepted having to wait days or weeks for answers, and when change was planned far in advance over multi-year timescales.
+Many business consultancies have recommended adopting a two-speed IT strategy to cope with this dichotomy, among them Boston Consulting Group (see Digital transformation goes beyond mobile to the API layer), McKinsey (see To transform into a digital enterprise, first reinvent IT) and the London School of Economics (see Ambidexterity and the 2-speed enterprise software market).
+Leading IT market analyst Gartner has even coined its own term, bimodal IT:
+Bimodal IT is the practice of managing two separate, coherent modes of IT delivery, one focused on stability and the other on agility. Mode 1 is traditional and sequential, emphasizing safety and accuracy. Mode 2 is exploratory and nonlinear, emphasizing agility and speed.
+Converge, don’t divide
+But enterprises that have embraced digital technology are giving bimodal IT a bad rap. In the latest example, William Hill’s CTO, Finbarr Joy, emphasized the need for convergence over modality in an interview with diginomica’s Derek Du Preez last week:
+That whole movement around two-phase IT, we are not subscribing to that. You bring everybody along with you, you make sure the whole team is on that journey.
+The legacy guys have the domain knowledge, you need them to be on the same path. They’re actually the breakthrough into some of the fast stuff you’ll do, because they know the business so well. We have to bring the whole operation with us.
+Knowedgeable analysts have also cast doubts on the Gartner model. Writing in CIO Magazine earlier this year, ActiveState CEO Bernard Golden warned of the dangers of separating the two modes rather than bringing them together:
+As this bimodal reality sets in, one can expect many companies to experience huge conflict as the two camps engage in pitched battles for influence, resources, and power. The topic may be technology, but the participants are human, and the result is going to be like any other domain where people fight over limited resources.
+Why conflict is inevitable
+Simon Wardley of the CSC Leading Edge Forum is even more scathing on bimodal IT:
+In 2014, I came across bimodal / dual operating system and twin speed IT. I can’t tell you how much this caused me to howl with laughter. I’m no fan of these concepts. I view them as old ideas, poorly thought through and dressed up as new.
+Wardley explains why conflict is inevitable, using a model of implementing change that recognizes three types of people: pioneers, settlers and planners. He argues that the bimodal approach ignores the crucial role of settlers in mediating between the creativity of pioneers and the industrialization skills of planners. Without the settlers to play that role, he writes:
+You’ll create a them vs us culture. None of the novel concepts will ever be industrialised because the Pioneers won’t develop them enough and the Town Planners will refuse to accept them for being underdeveloped. Both groups feel they are the most important and both ridicules the other.
+Independent analyst Jason Bloomberg, president of Intellyx, recently rounded up these and other criticisms of what he called Gartner’s ‘recipe for disaster’, adding his own recommendation for a converged approach:
+What many organizations are finding is that for digital transformation to be successful, it must be end-to-end — with customers at one end and systems of record at the other. Traditional IT, of course, remains responsible for those systems of record.
+What’s the attraction?
+So why is Gartner peddling this discredited notion? A former Gartner analyst once explained to me that the firm aims to pitch its advice to always be just slightly ahead of the thinking of enterprise IT buyers. It has to sound fresh but not too outlandish. I suspect Bloomberg puts his finger on it when he suggests:
+The reason so many CIOs fall for Gartner’s bimodal IT canard may be because of the perceived intractability of modernizing legacy IT systems. Many enterprises have been struggling with modernization for years, often with little but consulting bills to show for their efforts.
+Enterprises want to hear that they can adopt these disruptive new technologies without too much disruption. They know that they have a huge hill to climb if they are to completely overhaul those entrenched legacy systems and bring them up-to-date (or replace them entirely) for the digital age. Often, the longstanding vendors who support those legacy systems (and who, let’s face it, are the primary source of Gartner’s revenues) also want to encourage the least disruptive path.
+Bimodal IT conveys a reassuring message that updating those systems can be be postponed and isolated. It encourages procrastination and condones a drawbridge-up mentality instead of fostering the collaboration and convergence that is the true secret of success in digital transformation.
+Enterprises that reject bimodal approaches and instead seize the nettle of digital transformation often find that it’s not as difficult as they at first feared. Earlier this year, the CEO of devops automation vendor Chef Software told me that its customers can complete the shift in IT delivery models in less than two years. He cited two key success factors that again emphasize collaboration and convergence:
+
+Ensure that the project team is cross-functional rather than confined to a specific department such as IT or marketing.
+Achieve a top-to-bottom focus on outcomes by involving people from developers right through to product management or business development.
+
+My take
+As with all considered harmful topics, this is a polarized debate. Be sure to be on the right side.
+Image credit - Business man clutching head superimposed on two-lane highway © .shock - Fotolia.cRead more on: Best of archivesDevOps NoSQL and the open source stackFrictionless enterpriseThe new professional and IT as a service 

@@ -1,0 +1,42 @@
+
+The explosive growth in cloud services is nothing new and with Google finally breaking out results for its cloud business we know that the three domestic mega clouds(AWS, Google and Azure) all boast multi-billion dollar quarterly revenues.
+The implications for enterprise IT are obvious; fewer workloads, particularly new ones, running on internal systems and a concomitant need to integrate on-premise networks and storage with cloud-based resources.
+However, as I’ve previously written, the ramifications down the equipment and software food chain are perhaps more significant as cloud spending accounts for a larger share of their revenue meaning that the needs of cloud vendors increasingly drive product strategies and R&D roadmaps.
+An update to a comprehensive report on cloud usage and Internet traffic details how fast the change is happening and the infrastructure areas in which the cloud is fueling exponential growth.
+The Cisco Global Cloud Index (GCI), a comprehensive look at trends in cloud computing and data center virtualization with a five-year time horizon is built from a composite of measured data from enterprise and Internet/cloud data centers and estimates from several analyst firms and international agencies. The report takes a data center- and network-centric view of infrastructure growth, thus it’s easy to overstate the magnitude of cloud dominance by extrapolating Cisco’s data to all IT spending since as Gartner and IDC point out that’s a $3.5 trillion pie of which IaaS, SaaS and related services are but a tiny sliver.
+Nevertheless, Cisco’s report shows that while so-called hyperscale data centers number only in the hundreds, by 2021 they will contain 53% of installed servers, accounting for 69% all processing power, 65% of all stored data and 55% of Internet traffic. As should be clear from the relatively small number of hyperscale data centers, Cisco’s criteria for inclusion is strict, namely meeting one or more of the following:
+
+More than US$1 billion in annual revenue from Infrastructure as a Service (IaaS), Platform as a Service (PaaS), or infrastructure hosting services, e.g. AWS, Azure, Google Cloud
+More than US$2 billion in annual revenue from Software as a Service (SaaS), e.g. Salesforce, ADP, Google Apps
+More than US$4 billion in annual revenue from Internet, search, and social networking, for example, Facebook, Yahoo, Apple
+More than US$8 billion in annual revenue from e-commerce/payment processing to include services like Amazon, Alibaba and eBay.
+
+By Cisco’s count, 24 operators make the cut, with the number of facilities in use growing 13% annually through 2021, the majority of them in North America or Asia Pacific. (see graphs below)
+
+ 
+
+ 
+The immense size of hyperscale data centers is impressive when one considers that just a few hundred facilities will soon account for the majority of deployed processing power.
+Such scale is the primary reason that cloud service providers are coalescing into an oligopoly of companies that can afford these multi-billion dollar investments. According to a credible analysis looking at just the big-three domestic cloud service players, AWS, Microsoft and Google have collectively spent nearly $100 billion building their hyperscale infrastructure. Indeed, these are the manufacturing plants for the digital economy.
+No matter how you slice it, the growth in cloud infrastructure is astounding. For example, Cisco estimates that:
+
+The information stored in big data volumes, which it defines as data deployed in a distributed processing and storage environments such as Hadoop, will increase eightfold between 2016 and 2021. According to Cisco, such applications typically have a data set size of 100 TB or more, with high-velocity transactions moving more than 10 GB of data per second.
+While the total number of workloads across both traditional and cloud data centers will increase a mere two-and-a-half times over that span, by 2021, Cisco projects that 94% of them will be in cloud data centers.
+Total network traffic to and from cloud data centers is expected to increase 3.25x, a 27% CAGR.
+
+When looking at the types of workloads running in the cloud, Cisco slices the data by service type and finds that between 71 and 75% of hyperscale workloads will be devoted to SaaS applications, with IaaS in the high teens and PaaS making up the rest, albeit growing faster than IaaS. While I agree with this summation from the report, the important note is “shares of workloads”, since, make no mistake, total IaaS and PaaS usage will also increase,
+As trust in adoption of SaaS or mission-critical applications builds over time with technology enablement in processing power, storage advancements, memory advancements, and networking advancements, we foresee the adoption of SaaS type applications to accelerate over the forecast period, while shares of IaaS and PaaS workloads and compute instances decline.
+Equipment vendors going where the money is
+As is evident from the CapEx numbers, cloud vendors are different from you and me, even if you’re running IT for a large enterprise. Aside from the facilities, the difference has been manifest in the divergence between the equipment and even components used by a company like Google versus what the typical IT department buys. As I’ve pointed out several times (most recently here) cloud vendors aggressively invest in equipment designed for their unique needs, such as:
+
+The Facebook-inspired Open Compute Project for rack-scale systems to which Microsoft has been a prodigious contributor, most recently with Project Olympus hyperscale system. Although they keep it to themselves, Google and Amazon also built custom servers and network gear.
+Custom chip development tailored to various workloads such as Google’s TPU designed for deep learning, an Amazon network accelerator and Microsoft’s use of programmable logic chips (FPGAs) to accelerate search and other Azure services.
+The growing share of the server market controlled by ODM (direct manufacturers) and second-tier white box labels, many/most of which go into hyperscale facilities by the truckload. Indeed, IDC estimates that the two categories account for 45% of the worldwide server market, with ODM shipments growing more than 45% annually.
+
+The cloud vendors aren’t just investing in fully custom designs, they also have the buying power to make Intel and others tailor to their specification while also gaining early access to new products. As Intel executives have stated in briefings and my friends at The Next Platform detailed, the chip giant routinely builds custom SKUs of its Xeon processors for various cloud customers. Likewise, Google Cloud took delivery of Intel’s latest Skylake generation CPUs about six-months before their general release.
+My take
+Cloud services and the giant vendors providing them are merely the IT version of consolidation and centralization that have happened to most other industries, whether automobile manufacturing, oil and gas production or retailing.
+Not only do mega-vendors enjoy economies of scale, which they mostly pass on to customers, but the sheer capital investments required to build competitive facilities acts as a natural moat limiting competition. As their investments in custom hardware and private fiber cabling demonstrate, cloud vendors are competitively differentiating themselves in ways that conventional IT organizations can’t match.
+The IT equipment industry is increasingly bifurcated, with distinct markets for hyperscale clouds and everyone else. Hyperconverged vendors like Nutanix and Dell EMC VMware that cater to the latter have been extremely successful by addressing the needs of traditional IT organizations.
+For IT leaders, the bifurcation is embodied in the stark buy-versus-build choice between cloud services and privately-owned, self-managed service delivery. For most organizations, the answer will be both, with the trick being where and how to exploit the competitive benefits of the cloud while retaining the control and customization of private infrastructure. However, as the Cisco data shows, the ratio will increasingly skew towards the cloud.
+Image credit - via Cisco reportRead more on: Cloud platforms - infrastructure and architectureInfrastructure 

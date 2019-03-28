@@ -1,0 +1,44 @@
+
+In the rush to embrace digital technologies, companies in the insurance industry have held back, taking a more conservative stance – but there are signs that, even here, disruption is starting to be felt. 
+On the stage at this year’s CeBIT technology trade show in Germany, for example, Allianz CEO Oliver Bäte summed up the general mood in the sector pretty well:
+
+An industry that used to be a bit boring, but is getting pretty exciting these days, because digitalization is coming our way as well.
+
+While customers can already compare car insurance prices online pretty easily, he pointed out, that’s still difficult with life insurance policies. And while a few apps exist here and there that let customers notify a provider that they’re about to make a claim, or to track their claims as they’re processed, these are just the beginning, said Bäte. 
+In short, while the insurance sector’s traditional model and offerings have thus far proved pretty resilient to digital disruption, he said:
+
+That is going to change – very soon, very quickly.
+
+At Allianz UK, the pressure’s already on for head of strategy and architecture Adam Rates. Among the five strategic goals set by Bäte as part of Allianz’s company-wide renewal agenda is ‘digital by default’ and, in the UK business, that imperative keeps a team consisting of 200 in-house developers and 200 offshore developers extremely busy, Rates says:
+
+IT, as in all large organizations, is seen as a cost, and our responsibility is to be as cost-efficient and effective as we can in delivering stuff for the organization. So naturally, for our developers, that means focusing on code efficiency and development speed. 
+The business will say this to us in various ways, but what they all boil down to is, ‘I want more and I want it faster.’ They may follow it up, of course, with ‘I want it cheaper’, too. The first two are important but the third is never far behind.
+
+The demands come thick and fast from all areas of the business. Like many insurance companies, Allianz has a long history of acquisitions and of introducing new lines of business, with the consequence that its IT team has a stack of different, disparate systems to support. Each system has an ‘owner’ within the business, Rates explains, and each owner wants to make regular, often frequent changes to their systems in order to drive new business benefits:
+
+So what we have to do is balance the desires of the organization, the IT budget that owners are prepared to spend, the degree of change they need and the priority at which things need to be done – and effectively, the more things we can do, the more satisfied my business customers are going to be and the happier my life is.
+
+Moving to CI/CD
+With a view to meeting demand with a healthy supply of new code, Rates is moving towards a development process based increasingly on continuous integration (CI) and continuous deployment (CD). This merges development with testing, and adds a healthy dose of automation, so that developers can build code together and get it tested often and early, with a view to catching bugs before they become a headache. 
+Here, Allianz is using Jenkins, an open-source automation server for CI/CD, which in simple terms works by running standardized tests each time new code is pushed into a source repository and, following a successful test, automatically releasing the latest version of that code. 
+In effect, Jenkins acts as an ‘inspector’, standing between the developers’ code repository and the company’s production servers, checking for changes in the repository every few minutes, testing them and deploying where appropriate. To do so, it must oversee a bunch of different tools, automating their use, as Rates explains:
+
+Jenkins kicks off those processes without the developer having to do so. But more importantly, it standardizes the process, so as many of our developer teams as possible are using the same development process sitting on top of their coding. That means it doesn’t really matter what they’re coding, or what technology they’re working in – the over-arching process will be the same.
+
+Since Jenkins is an open-source product, there are a number of ways to deploy it. Allianz chose to go with Cloudbees, which provides CI/CD services powered by Jenkins. At first, the insurance company used Cloudbees’ cloud-based offering, before bringing it back in-house in recent months, in accordance with Allianz’s risk-averse and security-conscious culture, says Rates:
+
+The cloud deployment allowed us to spin it up very quickly and without much commitment. We were able to very much control what went into that environment, and check our assumptions around efficiency [improvements] were right and work with Cloudbees to optimize the process.
+
+Bringing it back in-house, he continues, has enabled Allianz to maintain control over security and data on the platform. In addition, it has tackled connectivity issues: the cloud deployment was getting ‘heavily bashed’, according to Rates, because of Allianz insistence on a VPN that was slowing things down. 
+Cultural changes
+Either way, most development teams at Allianz, including all those engaged in Java development, are now using the Cloudbees Jenkins platform. It’s hard to measure the results, Rates says, because you’re comparing two different things: a more traditional ‘waterfall’ method, versus a very different CI/CD approach that involves people checking in code and running tests far more often:
+
+So it’s kind of an apples-to-pears comparison but, finger in the air, I’d say we’re doing three or four times as many builds in around a quarter of the time. So for example, where a deployment might have taken us a week previously, we can now do it in day.
+
+The accompanying cultural changes have needed sensitive handling, a process in which Cloudbees has been a big help, says Rates, but the biggest result has been a happier, more productive development team:
+
+As a developer, when I’m hooked up to Jenkins, my test results are being output to the whole team, so my build quality and improvement is much more visible. So what you need to ensure is that developers are happy that you’re not looking to see how good a developer they are, but that effective code is being built efficiently. The reports we get from Jenkins aren’t there to beat developers around the head, but to make code better, so there’s a communication challenge that goes alongside that.
+But from a developer point of view – and as a developer myself – I’d say that developers love writing code. What they don’t particularly enjoy is spending time running tests and doing documentation, so anything we do that allows them to spend more time cutting code, basically makes them happy.
+
+
+Image credit - AllianzRead more on: DevOps NoSQL and the open source stackDigital enterprise in the real worldFinancial services and fintechUse cases 

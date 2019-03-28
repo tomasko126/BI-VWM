@@ -1,0 +1,70 @@
+
+diginomica hit: Brexit redux – diginomica ponders and Benioff airs it out, by Stuart, Den, and Martin
+quotage: “It seems to me that the mood among citizens across Europe is ripe for the kind of social change that can provide the breathing space for enlightened governments to act in just fashion while at the same time allowing technology to proceed in improving all our lives. Whether they will is the open question.” – Den, Finding balance in the post-Brexit era
+
+myPOV: At diginomica, the mood on Brexit shifted from first reactions to (mostly) sober reflections, bolstered by dogged research. While the UK’s exit from the EU is still the expected outcome, there is time for this to play out in ways favorable – or not – to the global economy.  The theme stems from Den’s quote above: the potential for enlightened government and tech progress on the one hand, versus a yawning/terrifying digital and labor gap on the other. Where we land remains to be seen, but voices are going public, including tech vendor leadership from Salesforce and Infor:
+
+Benioff on Brexit – Cameron was ambiguous, tentative and it was all too little, too late – Stuart on CEO Marc Benioff’s revealing public comments. In addition to Cameron’s voice being late and tentative, Stuart asks if similar can’t be said for tech leaders.
+Brexit to impact US retailers? Not so fast – How’s this for Den’s summary/teaser: “Quick, ring the alarm bells – US vendors will likely have a tough time selling to the UK post-Brexit. Or so BusinessInsider would have you believe. It’s nonsense.“
+Brexit, Amazon – no worries, says Ocado CEO – A different slice on the retail angle, this one from Stuart. Nutshell: uncertainty blows, but if your business model is good, you proceed and get it done.
+Brexit – a GDPR deep-dive – For the uninitiated, the GDPR is the EU’s General Data Protection Regulation. It’s due for enforcement in less than two years, and, as Martin advises, requires a compliance plan, wherever Brexit might land.
+
+diginomica three, plus MongoDB: my top three diginomica picks, plus a motherlode of MongoDB customer stories:
+
+Derek filed on the big news from MongoDB World: MongoDB finally takes cloud into its own hands with launch of Atlas, then he and I went into full-on customer use case mode, including Derek’s Florida Power & Light puts energy into predictive maintenance with MongoDB and YouGov powers its research with MongoDB. Here’s one of mine: Can Capital One change banking with open source, mobile apps, and NoSQL?
+Anticipatory budgeting, planning and forecasting – a radical future – Brian with a definitive post on the (very near) future of CPM, EPM, or whatever you want to call it.  Gist: these “radical”, shifts are NOT restricted to large companies. Brian: “Focus your pre-existing and deep industry knowledge to create the powerful and valuable big data fed algorithms and planning predictions that will power next-gen CPM tools.”
+Two nifty use cases: Jessica filed SGS Automotive overhauls field service after earlier backfires, backed up by results on improved productivity and decreased SLA penalties. Phil had a good ‘un with AGS Airports lifts off to ERP in the cloud, including frank tradeoffs on public cloud SaaS (mostly good stuff, but refreshing to hear the tradeoffs).
+
+Vendor analysis, diginomica style. Here’s my top choices from our vendor coverage:
+
+SAP v Nucleus Research – uncomfortable customer truths or flawed research? – Stuart parses a controversial report, weighing the question “Is this SAP-baiting or a fair analysis of the market?” I haven’t read the report but the essence of Nucleus’ critiques/finding certainly resonate with the challenges SAP now faces. That said, in terms of producing customers, it must be said that SAP did a terrific job of exposing us to a slew of S/4HANA customers at Sapphire Now with interesting use cases, though not all fit the core of an older ERP customer migrating forward. DSAG and ASUG’s joint position on SAP’s digital transformation approach also merits consideration here. Speaking of SAP customers, fresh use case from Jess: Opening the curtains on Hillarys Blinds bold SAP upgrade.
+$2.5 billion, the price of Zenefits shenanigans – Den sweeps up after the party: “I’d argue that employees are gambling with their careers because having Zenefits on your resumé is unlikely to be viewed terribly favorably at this time.” Yikes.
+
+A couple more vendor picks, without my running asides:
+
+digibyte – Infor buys Predictix as it preps new retail solution – Phil
+Accenture’s Bhaskar Ghosh on a ‘tipping point’ in IT services – Stuart
+
+Jon’s grab bag – Should Sales own Marketing? Should Marketing be subsumed into Sales? Barb plays provocateur in Can content marketing change the relationship between sales and marketing?.  And how did Dell go from “all that is wrong with the tech industry” to a sophisticated approach to corporate social responsibility? Cath has the story.
+Just when you thought the excesses of page view clickbait schmuckery couldn’t get any worse, Den explains how machine learning could add another layer of stench to the bad aroma in  The dangers of machine driven content publishing. Quotage: “We see a an ongoing skewing towards headline grabbing clickbait. Machines can readily take over that process. It is already happening.” Yuck! Given I am in the media biz, you’d think I’d care more about the travails of Barnes and Nobles but I really don’t. However this notion of bookstores morphing into hyperlocal centers of the omnichannel is intruiging stuff. Stuart’s got the story in Barnes & Noble CEO in search of “digital blowback”.
+Best of the rest
+ Forget about Omnichannel hype when your Basic Customer Service Sucks by Melissa O’Brien
+quotage: “One of the biggest opportunities, and yet most troubling elements of this omnichannel notion is where contact center fits into the paradigm.  The conversations consumers have with businesses are at the heart of creating a differentiated experience, but let’s face it, right now contact centers are not pivoting to be strategic differentiators.   Most of us deal with this pain regularly in our personal lives.“
+myPOV: Yeah, deconstructing the omni-channel is a blog cottage industry, but I have an (intellectual!) crush on Melissa O’Brien of HfS already, for invoking the “creepy side of personalization” I have been railing about on diginomica since our launch. O’Brien is also in tune with the thorny problem of the call center, which is stuck between cost control and relationship opportunity, and failing at both. The omni-channel is only as strong as its weakest link, and that’s the call center. This ain’t getting better anytime soon:
+Stories of omnichannel success are few and far between.  Many buyers are just grappling with implementing digital channels, and a total redesign of customer experience is far too daunting.
+Please continue to hold...
+Other standouts
+
+No Technology — Not Even Tesla’s Autopilot — Can Be Completely Safe – Another big tech story this week. Not calling it a whiff. Someone died tragically, but deaths and autos are always going to be a package deal. FiveThirtyEight puts it in context: “Complex systems will never be safe. You can’t engineer away the risk. And that fact needs to be part of the conversation.” Yep.
+Bimodal Backlash Brewing – I’m breaking my ban on Forbes content (due to ad-tech excesses) for this piece, which explores potent bi-modal IT issues. There isn’t one right answer but all organizations should be grappling with this debate. For my part I am in between. I don’t mind a two-paced IT *but* the core muse be modernized one way or the other.
+Ethics of emotional intelligence in UX research – One of the better UX pieces I’ve seen in a while, looking at the problem of emotional manipulation in design. This is a big issue for enterprise media, where the downside of alienating influential readers is high.
+
+Honorable mention
+Oracle owes HP $3 billion in damages for breach of contract, jury says – Not sure how big of a news story this is for the long view, but $3 billion does buy a load of printer cartridges.  And yeah, Oracle will appeal.
+Blockchain: Revolutionary Technology Or Over-Hyped Bandwagon? – How about neither? Blockchain is a new technology that has specific enterprise use cases still in the pilot/formative stages. I realize that’s not sexy but…
+10 simple rules for finding and keeping great technology talent – Looks like the source report is probably better than the summary article. Also must be wary of any post with “smash the hierarchy” in it.
+Post Brexit Analysis Webinar Recording – Just in case you’ve got Brexit analysis withdrawal. No sign up required.
+Internet of Things, Machine Learning & Robotics Are High Priorities For Developers In 2016 – Developer trends by the numbers.
+Home Remodeling, Moving To SaaS, And Life Lessons  – Good news for beleaguered home remodelers – those lessons can be applied to SaaS selection.
+Whiffs
+As harmless a whiff as they come, but I got a kick out of House candidate quotes musical ‘Hamilton,’ attributes it to founding father. And a collective whiff on all publishers who got seduced by Facebook’s sweet Newsfeed nothings:
+
+Algo change: so much for all of Facebook’s BS advice to brands about “creating engaging content.” | @scoopithttps://t.co/H7jti6Qs3J
+— Jon Reed (@jonerp) July 2, 2016
+So whaddya do if your Twitter account gets hacked, and the hackers send out messages about how much you like, err, poop? Well, you can’t do much better than the Sporting News:
+
+?? happens.
+¯\_(?)_/¯ https://t.co/mMKAG75YGz
+— Sporting News (@sportingnews) June 30, 2016
+Well played indeed. Bonus: here’s a piece on how your Twitter is most likely to be hacked (through your weakest third party app).
+So I put the woodsaw chip on my shoulder for Robert Cringely’s howl in the wind about the state on online journalism:
+I remain amazed at how hard it is to reach a large audience. The idea when I was teaching was that there were gatekeepers at big newspapers, magazines, and news networks who decided what was news and what was not. Well the Internet was supposed to change all that. But it really didn’t.
+Righto. Which led a commenter to meekly argue:
+But Bob, you can write books (like your IBM book) and write stories on your own blog more easily than ever before in history. Monetizing them might be more difficult…
+Ya think? Yeah, just the wee issue of monetization, in other words, THE ONE INGREDIENT THAT MAKES A CREATIVE CAREER SUSTAINABLE. Yeah, aside from monetization, all is well. Isn’t it swell that Internet krishnas are always ready with life vests.
+Officially off-topic
+I can’t leave you on that gristle, so how about a YouTube pick: John Cale’s sublime cover of Leonard Cohen’s Hallelujah, perhaps?  Or maybe Donny Iris’ one hit AOR wonder Ah Leah! (complete with cheezfest music video?) Or the army vet who saved an eagle by shooting it out of a tree?  That should do it. Now I’m gonna commiserate with Celtics fans who lost out on the Kevin Durant sweepstakes. I’ll leave you with this fine tweet. See you next time…
+
+A beautiful soul has left us who reminded us to fight for what we believe in and never be indifferent. pic.twitter.com/Q4UMEEHE7X
+— Marc Benioff (@Benioff) July 3, 2016
+Image credit - Image credits - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Laptop and glass of lemon juice on beach table, Beach vacation © lily - all from Fotolia.com.Disclosure - SAP, Oracle, Infor and Salesforce are diginomica premier partners as of this writing.Read more on: CRM and customer experienceCustomer service managementHits and misses 

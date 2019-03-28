@@ -1,0 +1,39 @@
+
+There is no kind way to sugar coat this. SAP has released public pricing for its SAP HANA Cloud Platform (HCP.) This should be a cause for celebration because pricing has always been something that SAP has held close to its corporate chest and there is at least one great offer on deck. Unfortunately, the site as I am seeing it, is a disaster area with a combination of confused pricing, dead links that fire up secondary browsers that in turn provide nothing of use and an application store that has all the coherence of a house clearance.
+I first heard about the news via a Nuzzel alert and it seems that 22 people blithely retweeted it without checking it out.
+It started out so well
+Here is what we have. SAP laid out a series of scenarios under four broad groups: Get Started, SME, Enterprise and Dev Admin. So far so good. Under those headings we find another set of options including the developers favorite: ‘Free.’ A nice surprise comes in the form of a free production version for 10 users but it does not offer HANA. You get to use a 120MB ASE database. Check this image:
+
+Want the first option? Sign in with your SAP credentials or sign up to get them. The sign up process is very straightforward. So far so good. But this is where things take a downwards turn.
+I don’t know why I need to contact SAP to get the SAP HCP Free Edition but when I click on the ‘Contact SAP’ button, this happens:
+
+I was working in Firefox and the above is a very pretty Chrome page. If I go to the SAP HCP page in Chrome and then hit the Contact SAP button then it opens a fresh tab with a mailto: URL. Others have reported that it does this AND opens their email client. I don’t use desktop clients for email so I wasn’t so fortunate. Here is what Robin van het Hof had to say:
+
+@dahowlett Yup…the ‘target=_blank’ in the contact button code should not be there :-S cc @steinermatt pic.twitter.com/1ZcLSeDa23
+— Robin van het Hof (@Qualiture) July 28, 2015
+
+Then we come to the third option. Notice the ‘starts at $507/month’ pricing for unlimited users and 32GB of HANA? That’s not bad. But when I click on the ‘Buy Now’ button, the following screen comes up:
+At first, I could not make head nor tail of what that price is supposed to represent. I finally figured out that it is asking me to pony up three months in advance and is using a USD/GBP conversion rate of $1.60/£.
+That fits with HCP HANA pricing for this edition but the point is that the inconsistency in language use between screens and no clear signpost in that sign up area made it initially confusing.
+All the other options in the grid are asking me to contact SAP and yes, you guessed it, I got that pesky Chrome screen again.
+AppCenter inconsistencies
+SAP App Center – messy
+Moving on to the App Center, I could not believe just how unpolished it looks. Different offerings from third party vendors punch you right out of the site, sometimes to generic web pages and in a few rare cases out to a site that has the product details. In other cases you are taken to a contact page that needs completing rahter than the ‘Get It’ I was promised on a previous screen. It is hard to fathom how SAP thinks it can encourage developers to operate in this environment.
+Apart from that, I don’t see how SAP has adequate control over the offerings unless they are purely there as window dressing. If so then I can kind of buy that; but then SAP hasn’t made any progress in the way it was bringing app stores to market around three years ago.
+That’s a really big problem because any app store isn’t just a shop window, it is a user experience. If users get an inconsistent experience then will they put that to one side as their attempting to get through a buying process? I am doubtful.
+Needless to say, I quickly gave up.
+Back channel is foaming
+I contacted various sources in the SAP ecosystem. Nobody is happy. Acknowledging that this is ’embarrassing’ and a ‘disgrace,’ one person close to events said the situation I am seeing has already been escalated.
+While I may be reasonably OK with what I am seeing in the pricing structure at first glance, the devil is, once again, in the detail. One person told me there is a furious discussion between some prominent ecosystem users and SAP. People are getting shoved around from one person to another in an attempt to get clarity on the pricing structures. It was described to me as a ‘horror story.’ Some are asking why there isn’t a credit card style checkout system available.
+The general sense is that SAP is far from having this right and it is hard to disagree.
+My take
+
+As I said at the top of this story, there is no kind way to sugar coat this mess and even if SAP is trying to resolve the issues, there is no way this should have been pushed into the public domain in the current condition. It smacks of a rushed job where testing was far from complete.
+Situations like this only add fuel to the fire that seeks to ridicule SAP’s efforts at ‘simple.’
+This situation is bound to add fresh doubts about SAP’s seriousness in making a proper fist of cloud platforms and it’s claim to be ‘all in on the cloud.’
+Shooting itself in the foot in this manner is a gift to SAP competitors. SAP can be sure that competitors’ sales people will be quick to point up the facts of the situation to any potential customer looking for a cloud platform to complement their SAP investments.
+
+Update: SAP resolved all the “front door” navigation issues by 8am UK time 29th July.
+ 
+Disclosure: SAP is a premier partner at time of writing.
+Read more on: CRM and customer experienceDevOps NoSQL and the open source stack 

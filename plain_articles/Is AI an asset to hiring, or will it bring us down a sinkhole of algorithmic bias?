@@ -1,0 +1,54 @@
+
+I’ve been blowing gaskets about AI hype lately, and I’m not the only one. The use of AI in hiring and recruitment – and HR in general – is a subject of heightened concern.
+We should be focused on expanding the talent pool. We should be closing the so-called talent gap by raising up the marginalized. I remain skeptical that machine-powered tools, however “intelligent,” can identify human potential.
+But I know machines are darn good at screening out applicants based on pre-established criteria. No one said it better than Brian Sommer in his 2015 diginomica classic, “You’re not our kind of people” – why analytics and HR fail many good people:
+I’ve heard from a lot of HR people in high turnover industries (e.g., food service and retail), that they should be able to target recruits with highly probable retention characteristics. What they’re really saying is that it is okay for them to discriminate if a math model told them it’s okay to do so.
+That said, there’s no percentage in being a close-minded crank. I liked what I heard from Anixter about how they were integrating “AI” into recruitment. One standout from Anixter’s approach: start slow, assess results, make sure you are getting a better applicant pool. In Anixter’s case, automation expanded their interview reach – and thus their applicants.
+Independent HR analyst Thomas Otter is also feeling my AI fatigue. He raises the issue of “AI washing” as well:
+Most of what I’d seen recently labeled AI was really just adequate analytics with a new label, or of chatbots replacing screens with rather cumbersome text based chat. Also the role of AI as a magnifier or enabler of workplace bias was laid open with the recent Amazon recruiting incident.
+Data on AI for hiring from Montage
+Crunching fresh data is a great way to purge the crust from your narrative. While on the road this fall, I heard from Montage, an HR hiring vendor with an obvious AI dog in this fight. Hot on the heels of a new solution that aims to reduce unconscious bias from the hiring process, Montage also released a study, The State of AI in Talent Acquisition (free, no sign-up required).
+To compile the report, Montage surveyed 500 talent acquisition professionals at companies with more than 500 employees. They also surveyed 500 individuals who indicated they were actively
+looking for a job, or had applied for a job in the past year. Some highlights from the job seeker side:
+
+44 percent of candidates admit they’ve experienced discrimination in the job search – indicating that bias and discrimination remain notable problems in hiring.
+
+A modest majority believe machines could do a better job:
+
+Among candidates who say they’ve experienced discrimination, 56% said they believe AI may be less biased than human recruiters.
+
+There is some hope that “AI” could change this:
+49% of those who have experienced discrimination also believe AI may improve their chances of getting hired.
+Montage warns, however, that the vast majority of job seekers also worry about the limits of AI:
+Though it’s clear that job seekers have faith in AI’s potential to drive down bias in the hiring process, they’re not comfortable with all forms of the technology – only 6% of job candidates who responded to Montage’s survey said they would be comfortable being evaluated through facial recognition technology.
+Behind the data – how can machines decrease bias?
+Kurt Heikkinen, President and CEO of Montage, gave his take:
+Though both TA professionals and candidates recognize the potential of AI to mitigate bias and improve diversity, it’s important to keep in mind that there is no out-of-the-box solution.”
+While sitting on a tarmac somewhere in event oblivion, I emailed Heikkinen a few questions about the issue of bias. First up: why are machines potentially less biased than humans?
+Because they are able to process more information. For instance, every second of the day an individual receives approximately 11 million pieces of information. However, the human brain can only consciously process about 40 pieces, meaning that humans often make decisions without consciously thinking – and the decisions are influenced by their background, culture, environment and personal experiences.
+Heikkinen contrasts that with machines:
+Machines, when trained properly, can process more information objectively; they can be less biased when making hiring decisions. For example, our own Unbiased Candidate Review solution leverages AI to ensure candidates are only evaluated on the content of their response.
+Details about a candidate’s identity that could influence hiring bias are withheld:
+When an on-demand video or voice interview is completed, candidates’ identity and voice is concealed until after the hiring manager enters feedback and a yes or no decision to advance the candidate is recorded in the platform.
+Heikkinen is obviously an AI-for-hiring optimist, but he acknowledged the technology isn’t perfect. So what needs to change?
+Technology, specifically algorithms used in recruiting, need to be proved through science and research before they are deployed at scale. For example, Amazon’s recent decision to abandon AI as a hiring tool proves that AI is still in its infancy in hiring.
+At this juncture, removing humans from the loop would be a mistake:
+AI can still be used to inform better, faster, smarter hiring decisions when applied to the right parts of the hiring experience but should be used to inform hiring decisions, not make them.
+Heikkinen reinforced the view from Anixter about reducing the effort of early-phase recruitment tasks:
+Currently, AI should also be used in the earlier phases of the hiring process that intelligently automate high effort, low value tasks.
+The data on how companies are using AI backs that up:
+According to our recent research, of the 51 percent of organizations that use AI, most leverage the technology to automate administrative tasks like screening (57 percent), sourcing (52 percent) and scheduling (52 percent).
+It’s not just about keeping humans in the workflow. It’s making sure the machines are accountable for a more diverse applicant pool. So how do we do that? One aspect: vendor accountability.
+To monitor machines and improve diversity and reduce bias, talent acquisition leaders should expect their HR technology partners to periodically re-examine their algorithms to ensure their programmed goals are being accomplished.
+Heikkinen says we also need analytical precision on the hiring steps:
+Specifically, companies should understand which specific parts of the hiring process are causing a lack of diversity and understand what solutions are available to help address your challenge.
+My take
+The smart use of AI is two way accountability: use the strengths of machines to take the edge off human (mis)behavior, and use the thoughtfulness of humans to keep machines in their lane of productivity.
+We’re not going to slow this train down. If companies can legally employ facial recognition in HR and beyond, they probably will. I believe that ethical companies have a good chance of using AI ethically if they apply rigor. That’s why I find Amazon’s decision to shelve its AI-for-hiring plans ironic. Amazon is high on my list of companies I respect for ruthless execution. For ethics, not so much. A cynic might argue that legal and PR pressures forced Amazon’s hand. Regardless, the quotes from inside this failed project are concerning:
+In effect, Amazon’s system taught itself that male candidates were preferable. It penalized resumes that included the word “women’s,” as in “women’s chess club captain.” And it downgraded graduates of two all-women’s colleges, according to people familiar with the matter
+Still, there are smart people with conviction who believe in AI’s potential for better workplaces. Otter points to one example: a startup, Spot, applying AI to address the ugly/persistent problem of harassment in the workplace.
+I’ve intentionally avoided the terminology bog pit of how we use “AI” versus automation versus predictive analytics. That’s a longer convo; I addressed that for HR here. Precision in language matters, but I ultimately side with Anixter’s Mackins when he says, about his results:
+I don’t know how much of that is AI. I don’t know how much of that the machine kind of learns from. Frankly, I don’t think I care because to me, what “AI” is at this point is a way to simplify the tasks that we do, and allow us to be more productive.
+If I go further with Montage, that’s where I’ll head next. I’d like to talk in-depth to a customer using their Unbiased Candidate Review tool. I wouldn’t mind digging into Spot’s plans as well. Let’s see if I can get both done in the new year.
+ 
+Image credit - Feature image - Young businesswoman pulling a tightrope for business people against rocky landscape, by @wavebreakmedia - from Shutterstock.com.Read more on: Analytics planning and data analysisDiversityHCM and the digital future of workMachine intelligence and AIRoboticsTalent management 

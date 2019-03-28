@@ -1,0 +1,50 @@
+
+Mike Ehrenberg, Microsoft
+According to Mike Ehrenberg, who leads technology for Microsoft Dynamics ERP, moving Dynamics AX into the cloud on Azure is a big change for the vendor’s flagship ERP product. It’s a bet that pivoting to a new architecture will empower users to get their work done more effectively.
+One telling sign of how things have changed is that the latest release has no date attached to its name. Whereas the previous version was Dynamics AX 2012, the new release will have cloud-style continuous upgrades, on a cadence of weeks and months rather than one major release every few years. The 2012 release could be hosted on Azure but was not rewritten, as this one has been, to run as an Azure-native service.
+For the moment, there is only a cloud version although Microsoft intends to bring out an on-premise option for customers that aren’t yet ready to go cloud. Ehrenberg told me:
+Initially we’re only available in the cloud. We remain absolutely committed to the idea some customers will still want on-premise.
+We wanted to make sure every architecture choice we made was optimized to be great on Azure.
+That has included making some changes to the underlying Azure building blocks too, he told me. Once on-premise equivalents of those foundation pieces become available, including Windows Server 2016, SQL Server 2106 and Azure Stack, Microsoft will then ship a Dynamics AX product that customers will be able to run on-premise.
+We will get a platform on-premise that enables us to take that architecture and render it on-premise for a customer.
+Appetite for cloud ERP
+Not all customers are ready for cloud ERP, Ehrenberg told me.
+Sometimes it’s scale, sometimes it’s about security — and honestly, different customers are showing different willingness to go to the cloud.
+But at the same time, there is a growing appetite among the installed base to consider the cloud option, he said.
+The progress we’ve seen, the hunger for cloud delivery is absolutely accelerating. I don’t want to make a prediction about what percentage is going to wind up where. We wanted to make sure we had an architecture that was optimized for the cloud and then we get the ability to deliver that same service to someone that wants to operate on-premise.
+It’s not just about where the software runs, but what are the business benefits of cloud that customers want: very simple sign-up, immediate provisioning, the ability to create extra instances for dev and test when you need them, elastic production capacity for when you need a peak load, and obviously to transform the conversation around software upgrades.
+Running on Azure also brings the advantage of a global cloud platform with built-in high availability and disaster recovery. It even includes the ability to cater to data sovereignty requirements in specific regions and countries, for example the recently announced plans to have Azure managed in Germany by T-Systems rather than Microsoft itself.
+Ehrenberg promised simplified pricing too, with details due to be announced at the Convergence EMEA conference in early December.
+We’re really happy about the simplicity of what we’re going out with from a pricing point of view. It’s really dramatically simple.
+The way we’re taking concepts like elasticity and letting a customer pay for what they need in a way that works for business, it’s going to be exciting not only technically but also from a pricing point of view.
+Keeping pace with technology
+Ehrenberg said that Microsoft’s management reorganization in June, which saw the Dynamics development teams becoming part of the Cloud and Enterprise team that builds Azure, had been beneficial for the Dynamics AX project.
+The direct collaboration has accelerated to a level we’ve never seen before.
+We can really accelerate the flywheel for the technology … the pivot since we moved into Cloud and Enterprise has been tremendous.
+One of the reasons enterprises are considering cloud, he said, is because it makes it easier to keep pace with rapidly evolving technologies.
+Azure IoT, machine learning, Cortana — it’s really hard for enterprises to grab brand new technology like that and figure out what to do with it.
+We become a great vehicle to create the solutions that take that technology and drives it to an outcome.
+Flavors of multi-tenancy
+Under the covers, Dynamics AX has followed the same principles as its sister product Dynamics CRM, retaining a separate database instance for each customer. This model of multi-tenancy, which I first discussed with Ehrenberg two years ago, is sometimes known as ‘isolated tenancy’, and more recently I have used the term multi-instance. Essentially what this means is that, instead of having all tenants share a single, massive database instance, the architecture maintains each customer’s data in a separate database, while tapping into the resource pooling of the underlying Azure infrastructure.
+While this helps balance performance and allay security concerns, it’s not quite as simple as keeping everyone’s data on separate servers. While transactional data is held in these separate database instances, other types of data are passed over to multi-tenant services such as PowerBI or Azure Blob storage. It’s probably more accurate to think of the Dynamics AX application as one service that interacts with many others in the Azure fabric. Ehrenberg explained how the data layer works:
+From a data level we run on Azure SQL. Each tenant has their own database but that database is running on the Azure SQL platform as a service.
+In the on-premise world, if the customer had a SQL database server, the goal was to put every bit of data in that database server. In the cloud, we use Azure Blob storage next to Azure SQL and PowerBI.
+The application layer is more of a classic multi-tenant model:
+We use an elastic pool of Azure VMs that we can scale up and down based on the need of each tenant.
+Cloud integration
+Dynamics AX takes advantage of many other multi-tenant services within the Azure infrastructure. User authentication takes place through Azure AD, which provides the option of single sign-on across all business cloud properties, including Office 365, Skype and so on. Migration and integration of data can use Azure Integration Service. Lifecycle Services helps ease applications lifecycle management through implementation and deployment to quality testing and upgrades. Ehrenberg concluded:
+This is about as modern and as cloud integrated a stack as you can envision, driving AX.
+Another important change in the new release is the replacement of development tools that used to be specific to Dynamics AX with MS Visual Studio as the development toolset.
+For Microsoft’s own Dynamics development team, investment in instrumenting the cloud application means they will get much more feedback about what’s working or not working, and will often be able to proactively correct problems before customers have noticed them. The re-architecture has also adopted a cleaner split between layers in the application stack, so that changes to the interface, the application logic or the underlying infrastructure can be independent of each other. Consequently, the pace of development will be much faster, said Ehrenberg.
+Platform for ISVs
+Becoming part of Azure adds functionality that ISV partners and customers can build on. Through early access programs, Microsoft expects a “record number” of ISV partner solutions to be available at launch. Ehrenberg told me:
+We don’t want to ever think about our stuff as defining a platform, but really it is becoming part of the complete MS platform that lets an ISV get what they need.
+They have to naturally be able to use all of the core platform components. That’s definitely a step that we’ve taken by getting a great architecture on the Azure cloud.
+In addition to today’s Dynamics AX launch, which targets organizations with 250 employees or more, Ehrenberg told me that Microsoft is preparing a new platform-as-a-service (PaaS) version of Dynamics NAV on which partners will build solutions to take out to smaller companies as SaaS offerings.
+We’ll offer Dynamics NAV on Azure as a PaaS to those ISVs who can spin up a set of tenants they can offer to their customers as SaaS. It takes an ISV-centered product and creates a really strong cloud architecture for it so those ISVs can deliver a SaaS offering.
+I love all my children. Don’t think of this trying to change the segment targeting, just having a great solution in both places.
+My take
+Well worth the wait, this is a cloud application that exploits a great deal of Azure functionality. Microsoft’s big challenge now is to make sure that ISVs and enterprises understand how to build on it, taking full advantage of those Azure services.
+It will be interesting to see how many of its customers decide to make the jump to Azure rather than waiting to implement the on-premise version. The arguments for staying on-premise are considerably weaker given the many advantages of this new cloud-native architecture.
+Image credits: Courtesy of Microsoft.
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architecture 

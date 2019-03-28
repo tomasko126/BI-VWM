@@ -1,0 +1,31 @@
+
+One of the pitfalls of digitalization is that people often make an existing process digital without taking the opportunity to simplify and streamline it at the same time. This is a particular problem with e-signatures, believes Whitney Bouck, COO of HelloSign, a vendor that aspires to be a platform for digital transformation rather than merely a digital signature provider.
+Although it’s an advance to sign digitally rather than on paper, there’s often much more that can be done at the same time to streamline a process, she argues.
+The ability to completely revamp a process, to get to speed and rate of completion are really the interesting part. We can do a lot better than the electronic version of paper.
+To that end, HelloSign’s flagship offering is not its eponymous digital signature service but its recently launched HelloWorks platform, which Bouck describes as “an engine for any contract-based transaction related to revenue.”
+Faster sign-ups at Instacart
+On-demand grocery marketplace Instacart became the new platform’s first production customer earlier this year, having been a HelloSign user for several years already. The workflow has made a huge difference to the onboarding process when signing up individual contractors to shop, pack, and deliver groceries to Instacart’s customers. The old process had required these personal shoppers to sign a PDF in an email exchange, a difficult task on a mobile device. Many gave up just at this crucial point, says Bouck.
+They’re onboarding thousands of shoppers every month.
+They were having this real challenge where they’d lose a ton of people jumping into paper. The actual signing of the contracting paperwork had to be done in a separate email process. 30% didn’t sign.
+After switching to the HelloWorks process, completion rates jumped from 70% to 96% and the average time to complete was almost four times faster. That’s the kind of outcome that directly impacts the bottom line, Bouck points out.
+When it is a process directly related to revenue, that’s real money.
+API-first, white-label e-signing
+The workflow engine is a logical fit with HelloSign’s API-first approach, which Bouck describes as the vendor’s “crown jewels.” She sees little value in offering a standalone web application.
+It’s far more interesting when it’s part of a larger process or workflow application. The e-signature product has to be embedded into other processes easily.
+A readiness to white-label, so that customers can present the e-signature process under their own brand, complements the API-first approach and has helped win some important deals.
+To their end customers, it really does feel like one end-to-end experience. That really is important to a lot of customers. That was the one reason Oracle chose to embed us in their cloud applications.
+The Oracle agreement relates to the enterprise software vendor’s content collaboration cloud services for sites, process and documents. It doesn’t extend to transactional applications currently.
+HelloSign also offers integrations to the likes of Box and Microsoft OneDrive, but its three flagship partnerships are with Oracle, Google and Salesforce. An innovative integration with Gmail pops up a ‘Sign’ icon when hovering over a PDF attachment, to go direct to the signature process from within the email.
+HelloSign and Salesforce Essentials
+At this week’s Dreamforce, HelloSign is a launch partner for the new Salesforce Essentials bundle for small businesses. Customers who select HelloSign can send documents for signing under their own branding directly from within the Salesforce record, and track progress in Salesforce. They can use templates to set up reusable contracts which are automatically populated with Salesforce data. These functions are similar to the existing integrations into Salesforce editions for larger businesses, including native integration to Salesforce CPQ.
+B2B sales processes — and many in the consumer world too — are closed with a signature, so incorporating digital signature functionality helps speed the sale, says Bouck.
+All business is based on mutually agreed terms, and that ultimately needs to be signed. If we can make that truly frictionless, then we’re taking all the barriers out so that people get to the point of value faster.
+The company’s strongest markets are in real estate, financial services and on-demand marketplaces. It also has a presence in healthcare with its HelloFax product, where fax is seen as more secure for sharing patient data or images than email or web access.
+Digital signatures in real estate
+It is currently working with customers in the real estate industry to streamline the escrow and title process when buying and selling a home. The plan is to use HelloWorks to convert a cumbersome, form-based process into a series of questions and answers on a mobile phone, with built-in checks as part of the workflow. As well as being faster and more accurate, it gives the provider an opportunity to capture additional customers because of a more modern user experience, says Bouck.
+You end up with a beautiful experience that gets you through that process ridiculously quickly.
+This is a revenue game changer, and a cost saver, and a better customer experience.
+My take
+Taking paper out of business processes is just the start — going digital makes it possible to reinvent those processes to be faster, more accurate and easier to use and track. This makes HelloWorks an interesting offering in a market where other providers prefer to insert their own separate digital signature application into the workflow. An API-first approach allows customers to embed the functionality into their own email templates or mobile screens for a much more fluid experience.
+It’s also in tune with the trend towards headless applications, where the user experience is all about the workflow, while applications do their work behind the scenes. Aligning itself with that trend is a smart move on HelloSign’s part.
+Image credit - via HelloSignDisclosure - Oracle and Salesforce are diginomica premier partners at time of writing. Read more on: CRM and customer experienceFuture of workProductivityUser experience 

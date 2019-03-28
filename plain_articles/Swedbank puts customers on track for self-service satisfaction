@@ -1,0 +1,33 @@
+
+
+Swedbank
+For all the rhetoric about tailored services and personalisation in financial services, there are times when customers just want a simple answer to a simple question. 
+In other words, we’re happy to self-serve, without having to jump through security hoops – and many banks are more than happy for us to interact with them in that way in certain situations. 
+For them, there’s the cost-to-serve equation to consider, after all. If I just want to know where my nearest branch is, it doesn’t make economic sense for my bank to put a member of its customer services staff on the case. 
+At Swedbank, the company’s 700 contact centre agents dealt with 3.6 million inbound interactions in 2014. The Swedish bank, which has operations in its domestic market as well as the Baltic states of Estonia, Latvia and Lithuania, was looking for a way to divert more of those interactions to self-service mode, enabling agents to focus more of their time on sales, and less on providing simple answers to simple questions. 
+Today, visitors to Swedbank’s website are presented with the question, ‘Hej, hur kan vi hjälpa dig?’ (‘Hi, how can we help you?’), placed top and centre on the homepage. Underneath is a text box and, by typing their question into this, they are typically provided with an answer or a link to the area of the swedbank.se site where they’ll find answers. 
+It’s a fairly simple deployment of intelligent assistant technology, using natural language understanding (NLU) – in this case, Nina Web from Nuance Communications. But it’s producing impressive results, as well as taking some of the strain previously shouldered by human contact centre staff, according to Hans Lindholm, a business analyst at Swedbank. 
+Nina is now handling around 30,000 contacts per month, with a first-contact resolution rate pushing 80%, he says. When that 80% gets broken down, in around three out of four cases, the customer gets what they need and no further action is required by them or the bank. The remainder get an answer – but that answer tends to be that the question they’re posing is one that the bank can only answer over the phone, so they do need to get in touch. 
+It’s not just customers using Nina either, he adds. Swedbank’s contact centre staff can also type questions into the text box while they’re taking a call. In that way, he explains:
+
+They get to see the answer the customer would be given and they’ll also be shown internal information which gives them a guide on how to solve a particular issue and what to say to the customer.
+
+Skittish
+While accuracy of this type of solution remains a concern for some business leaders – skittish, perhaps, after being on the receiving end of a faux pas from Apple’s Siri – Lindholm says he’s impressed, but cautions that a careful implementation made all the difference:
+
+Accuracy is a concern, because this is a defined approach, not a self-learning approach. It’s more controlled, so you have to quality assure this thing from the start. You have to spend some time upfront to train it how to answer. You couldn’t just launch from scratch, because you’d get a really bad customer experience.
+
+With Nina, this involves creating a natural language model, representing the most common questions that a company expects its customers to ask. In Swedbank’s case, the team came up with 100 FAQs, then got customer service staff to help in defining the many different ways that individual customers might phrase those 100 FAQs. A collection of pre-defined answers is also required, along with constructing the programming logic needed to access external information resources. 
+Having settled on those 100 FAQs and their responses, Swedbank launched the service to the public. With the benefit of hindsight, that’s something that Lindholm says he might change:
+
+I wouldn’t say we got it wrong, but what we might do differently next time is launch for a small group at first and give ourselves more time to adjust and correct the system. If you needed to be 100% sure before a launch that might be the best way to move forward – start small.
+
+Right now, Swedbank’s implementation of Nina works in unidentified mode; in other words, customers are not signed in when they pose their questions. They may not even be Swedbank customers at all – but where the bank hopes to take the project next is to move to signed-in mode. Lindholm says:
+
+That’s our main challenge heading forward, because when a customer’s signed in, we know who they are. That will mean they ask different questions, so we’re going to have to create a list of those. And it will mean we want to answer those questions differently, depending on what we know about that individual customer, so that will require some careful thinking, too.
+
+Swedbank is also considering rolling out Nina Mobile for its mobile banking platforms and plans to create new connections between Nina and the rest of its technology stack, so that for some questions, the caller is diverted in real time to a chat session or call with a human. Says Lindholm: 
+
+It’s been a really interesting exercise and continues to be so. By seeing what questions customers ask and how they’re answered, we learn more all the time about them and about our customer service capabilities. It’s been a lesson in understanding.
+
+Image credit - SwedbankRead more on: CRM and customer experienceCustomer service managementFintech 

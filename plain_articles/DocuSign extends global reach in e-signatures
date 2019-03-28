@@ -1,0 +1,40 @@
+
+Gordon Payne, DocuSign
+With an astonishing $500 million of venture funding and 55 million users to date, DocuSign is busily building out a global infrastructure for its cloud-based digital signature services. This is essential to providing the trust its enterprise customers demand, COO Gordon Payne told me during an interview last week at the company’s San Francisco headquarters.
+We’re not just any old SaaS company where you just put up a website and everybody accesses us. We have to deal with legal and regulatory issues around the world.
+That means building out an infrastructure with the same trust characteristics as the Visa payment network, said Payne, who joined the company early last year after a nine-year stint at enterprise software giant Citrix.
+I think being a global company is important. You can get ten people and create a little startup and call it ‘SomethingSign’ and away you go. But if you want to deal with enterprise customers, [you have to] operate like a bank.
+I have a larger security team than I had in my previous company here. We’re audited by the banks. We have to meet their requirements.
+DocuSign, at our core, our brand value is trust. We compare ourselves to Visa. Visa runs a global network, they’re trusted. They’re trusted by enterprise and also by the end users.
+Expanding global footprint
+DocuSign started out as a US enterprise, getting its first successes in the real estate business. But in the past few years it has been aggressively expanding its global footprint, initially across largely English-speaking countries where signatures are governed by common law principles, and more recently extending into jurisdictions that follow the civil law principles of continental Europe, where the rules surrounding digital signatures are more prescriptive. People now use DocuSign to sign in 43 languages and 189 countries.
+Business is global but trust is local. In Brazil we need to be a Brazilian company. In the UK we have to be a UK company. In France we need to be a French company, in Germany we need to be a German company. In Japan we need to be a Japanese company.
+So DocuSign has been on the acquisition path to add local credibility to its global footprint. In March 2014 it bought Brazilian digital signature firm Comprova. This brought a significant local customer base, a technology and R&D team and, crucially, an understanding of local legal and regulatory requirements that drew their inspiration from European civil law.
+Outside of the US, generally people look to Europe for standards. Brazil has done that in this world of electronic and digital signature and it’s one of the most advanced or comprehensive digital signature solutions in the world, because to do things like file your taxes, etcetera, you have to use a digital signature. That’s mostly to avoid fraud.
+It’s also to avoid traffic, he joked:
+[There are] 20 million people in Sao Paolo. Traffic is so awful you would never want to deliver any piece of paper anywhere in Sao Paolo, so DocuSign works well.
+Legal and regulatory requirements
+The Comprova acquisition was followed this year by Israeli digital signature technology specialist ARX and, earlier this month, the purchase of the Trusted Documents and Transactions division of its longstanding French partner OpenTrust. Payne explained:
+If you take those three moves, what we’re doing is we’re changing the company from being a US SaaS company to being a global SaaS company.
+By working and making sure that we meet the legal and regulatory requirements of each country in the world, what it means for a large enterprise customer is that when you use DocuSign you don’t really have to worry about, ‘Am I legal in this jurisdiction?’ etcetera. We’re working to build the infrastructure, the platform to be able to do that.
+All of that complexity has to be included while keeping DocuSign as simple to use as possible, he added:
+Our challenge is meeting the legal requirements of all of these countries, build the platform that will actually meet those needs, and then make it really simple for people to use. That is the hard bit — doing something this complex and making it easy.
+The trick for us all here is how do you keep it a simple, easy-to-use service and yet meet the legal requirements, the performance requirements, the reporting requirements for a large enterprise. That’s the trick and the fun.
+Enterprise developers
+DocuSign has forged partnerships with many of the leading cloud vendors that need to incorporate digital signatures into their processes, including Salesforce, Microsoft, Google, SAP and Apple.
+Now that everything’s moving to the cloud, there’s a set of partners that you can connect to drive a solution. The interesting thing is DocuSign is right in the middle of so many of them.
+These partnerships drive many of the simple use cases where DocuSign can deliver a quick result, such as tying an electronic form back into a Salesforce record. But it is also frequently embedded directly into an enterprise application by IT developers calling the embedded function through an API. Its global developer community now numbers almost 20,000. This is helping enterprises drive digital processes both internally within their organizations and across the enterprise boundary in relationships with partners, suppliers and customers.
+You go from two weeks to get an agreement signed to — we’re at 80 percent of agreements are signed within less than an hour, 90 percent in less than a day.
+Generally in the systems in-house in your company you’ve digitized a lot of things. The minute you go outside of your company, that’s when you go back to paper.
+By automating that we now have the ability for all businesses to actually — assume they’re at 50 percent digital or at 70 percent digital, whatever the number is. If we can integrate DocuSign with their major business process we have a shot at everyone going 100 percent digital.
+Catalysts for adoption
+Smartphones have been a massive catalyst for adoption in the past few years, he added.
+If I can sign something while I’m climbing a mountain or I’m hiking through somewhere in Japan or I’m in Nepal, the fact that I can do this without sending faxes and all that kind of stuff, all of a sudden the user has changed and the user is saying I’d like to do it this way.
+That’s an interesting thing because now there’s a race on for all the enterprise customers. If your competitor goes and has a great digital experience with their customers, you’re left behind. For us to be in that wave is a good thing. This is a no-brainer. Paper is going to go away. It’s just a function of how fast.
+In a future where the contractual mechanisms are becoming digital, and where simply waving your phone at something has the same force as a physical signature, DocuSign is looking to position itself as the trust network for all those digital contracts.
+A digital transaction that needs to be trusted doesn’t have to be between you and I. It could be between your iPad and the refrigerator, in the long run. We’re starting with the processes that are highly visible to folks. As we evolve in the coming years, trusted transactions will take on different kinds of characteristics. A signature may be a digital signature as opposed to a scribble sign that you do now.
+I’d say we’re penetrated less than one percent into the opportunity. We build this platform and infrastructure and help people get to trusted agreements, we’ve got an opportunity to build something that’s significant and long lasting.
+My take
+I’m a big fan of taking paper out of enterprise processes and services like DocuSign are a key component in making that possible. Its ability to encapsulate all the legal complexity of different jurisdictions around the world into its service is clearly a major benefit for global enterprises wanting to move to digital signatures.
+Image credits: Businessman’s hand signing with cloud and sky background © Sergey Nivens – Fotolia.com; portrait by @philww.
+Read more on: Frictionless enterprise 

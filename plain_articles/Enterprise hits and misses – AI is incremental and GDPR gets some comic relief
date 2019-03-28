@@ -1,0 +1,72 @@
+
+
+Lead story – The I in AI is dumb leading to incrementalism not transformation – by Den Howlett
+
+myPOV: Den punctures enough hype balloons to cause a recycling crisis, raising two fundamental points:
+1. The sloppy way we use AI-related terminology (without defining terms such as ML, DL, AI) leads to muddy thinking.
+2. AI in its current state is not as transformational as those selling software/ideas/disruption/project pan flutes would have us believe.
+Both issues matter. The terminology issue is more easily overcome, if we can all agree that “general AI” is harder to find than a unicorn. Example: Google’s controversial Duplex “AI” voice demo only works in a limited context of a routine restaurant reservation, and even then, it gets awful phony threadbare when you scratch, resulting in a techno-hangover.
+The transformational point is the real potsticker, given the carnival barking incessant keynote promotions about “intelligent” everything. Den:
+If anyone seeks to wrap all this up in the pretty bow of transformation then ask what they mean. This is vitally important because, without an adequate explanation, it is impossible to know where the change element of the story starts.
+Does that mean we dismiss the techniques that fall under the “AI umbrella”? Nope. Den quotes Derrick Harris:
+We can give deep learning its due without automatically taking the discussion into the realm of “what if …” and complete economic transformation.
+Then there is the Google ethics quagmire. Den argues that when we show off what’s possible, we can’t push the AI ethics question to the side. As I wrote last week:
+Verbal bot disclosure is not a footnote – it’s the toughest design element of all.
+Den wrote that digital transformation must pass his butterfly test. Looks like “AI” is still a caterpillar.
+Diginomica picks – my top three stories on diginomica this week
+
+Macy’s looks to 3 Cs of curation, culture, convenience as ‘miracle’ continues – Stuart updates on a surprising retail transformation. He’s not signing up for miracles just yet, but “double digit growth from digital channels” ain’t shabby.
+Community managers delivering stellar ROI despite extensive burnout – Den parses fresh numbers from the 2018 Community Roundtable survey. So many vendors have missed the community boat, or left it straggling in shallow marketing waters… Also see how Marriott does it in Den’s What TIPPLE are you on today? Where social media should be but mostly isn’t.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Salesforce World Tour – Benioff calls for ‘GDPR-US’ – As your inbox implodes with crudtastic privacy “updates”, Marc Benioff is looking ahead. Stuart’s quote from Chief Marketing Officer Simon Mulcahy brings it home: “Many of you will be rolling your eyes and saying GDPR is a compliance issue. It is a compliance issue, but it’s also a phenomenal opportunity to give your customers what they want. What they want is to know that when they give you their data, you’re looking after it appropriately.” Also see: Martin’s What the world needs now is GDPR, says Salesforce’s (newly minted) Data Protection Officer.
+City & Guilds plans to make certified success of cloud migration – Jessica with a Microsoft Azure use case on moving past managed services, a “leap of faith” that challenged the organization: “They took some convincing that the cloud was a place where we could safely and reliably run business-critical systems and I had to work to build their confidence, along with our partners at Microsoft and Ensono, that we could achieve that.”
+Slack woos developers with new ways of connecting to apps – Phil on Slack’s first-ever developer conference, as Slack ratchets up its enterprise ambitions, tying into Phil’s “headless apps” analysis: “This trend means that the messaging layer becomes more and more important as the fulcrum of where work gets done. Slack’s focus on bringing more and more application functionality into its ambit is an astute strategic move that is helping to bolster its position against strong competition.”
+
+A few more vendor picks, without the quotables:
+
+SAP Hybris retires YaaS.io – where do SAP microservices go from here? – Dick
+Nokia and SThree show why a helping hand is useful for cloud success – Madeline
+PowerPlex ’18 – Polamer Precision uses a culture of data visibility to compete with the aerospace giants – Jon
+Can IT finally deliver innovation without busting its own budget? Docker’s CEO says yes. – Jon (sidenote: one of my fave interviews of the spring season)
+
+Jon’s grab bag – Den riffed on a Constellation Research report on the state of the CFO. No surprise, he has a countervailing view (Why the modern CFO needs to dislike the numbers). Stuart’s mastery of the satirical headline hit a new peak in Zuck you, Europe! Facebook CEO dances rings around EU politicos as the Apology Tour hits Brussels.
+Finally, if you are up-to-your-freaking-gills in “we care about your privacy” GDPR email blasts from companies that didn’t give a Starbucks point about your privacy until the spectre of gritty compliance smacked them about, you’ll dig the comic relief in Den’s Light relief from GDPR emails courtesy of Twitter. Lots of delightful Twitter snark to choose from here – I’m partial to the GDPR-indifferent kitty cat. And Maggie Fox:
+
+If nothing else, GDPR is reminding me of how many dumbass organizations I have given my email address to.
+— Maggie Fox (@maggiefox) May 22, 2018
+Best of the rest
+ Lead story – A.I. Is Harder Than You Think – by Gary Marcus and Ernest Davis
+
+myPOV: Hitting on similar themes as Den’s AI incrementalism piece, Marcus and Davis bring some cold AI water to the New York Times. My view is that AI just hasn’t evolved enough. But Marcus and Davis take it further:
+Today’s dominant approach to A.I. has not worked out. Yes, some remarkable applications have been built from it, including Google Translate and Google Duplex. But the limitations of these applications as a form of intelligence should be a wake-up call.
+In other words: it’s not a matter of time or AI maturity; we’re on the wrong track.
+If machine learning and big data can’t get us any further than a restaurant reservation, even in the hands of the world’s most capable A.I. company, it is time to reconsider that strategy.
+Marcus and Davis aren’t trolling; they advise a different approach, called “knowledge engineering,” which would simulate human cognitive abilities via complex rules. Whether that unfinished project will bear fruit is open to debate, but their demand for fresh thinking resonates.
+Honorable mention
+
+
+News Analysis – Informatica Announces Spring 2018 Release General Availability – Constellation’s Holger Mueller returns to his always-fruitful, blow-by-blow press release analysis format. Hits/misses reader Greg Saulmon dubbed this format “reverse marketing engineering.”
+Experience? Engagement? Same Difference! Right? – Esteban Kolksy bolsters his grumpiest dude in enterprise tech curmudgeon credentials by purging the marketing rainwater of “customer experience management” until the pond is drained, and all that remains is a fervent desire for something better – and maybe a dusty offshore call center. What his fix? Outcomes baby, outcomes.
+ServiceNow: Solid and uncertain — a company in transition – ServiceNow is a fascinating enterprise player, and not one that’s easy to wrap heads around, especially with its CRM and HR forays and aggressive growth plans. Paul Greenberg sorts it out – and grades the event to boot.
+Things I’d Like to See Go Away – Unrealistic ROI and TCO Calculators – Hank Barnes continues clearing chips off his shoulder, turns out he has quite a few. Like Barnes, I’m surprised more vendors don’t publish extensive business case development content. Instead we get “fake calculators.”
+AI trust and AI fears: A media debate that could divide society – We’ve heard about the digital divide, but are we growing an AI divide as well?
+
+Whiffs
+Folks, there’s no way around it, people are getting dumber (Publix censors graduation cake to remove the cum from “Summa Cum Laude”).
+
+Fave reader comment: “How do you say “oh for [email protected]’s sake” in Latin?” Meanwhile, things got pretty tense in Florida City during a power outage, when residents were warned to look out for “extreme zombie activity” (an investigation into the bogus warning is pending).
+Nudging closer to the enterprise, Apple had to turn in its “above the fray on privacy” card:
+
+Apple bends to Chinese government demands… again https://t.co/hT76A8dlrJ -> Apple’s principled stand for user data privacy gets a little wobbly when real profits are at stake
+— Jon Reed (@jonerp) May 21, 2018
+Speaking of Facebook, there are some nice things you can say about the site itself, but… paying geek tribute to their page load speeds? “Snappy”? Well, The New Stack was almost right – the adjective they were looking for rhymes with “snappy.” If diginomica was as slow-loading as Facebook, our site would be lining gerbil cages right about now.
+Josh Bernoff gave Adobe and Magento a snarky skewering for their adjective-laden press release in Adobe acquires Magento to become “shoppable” – and maximally buzzword-compliant. I liked: “It’s hard to believe that ‘’seamless integration’ is still a popular term decades after it became a cliche.” Finally, in keeping with our AI concerns, here’s one more:
+
+If computers can be creative what does that mean for humanity? https://t.co/qBzUV5i5EQ -> more bad music for one thing
+— Jon Reed (@jonerp) May 20, 2018
+ If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does. P.S. don’t worry Clive – I’ll get to the Google News redesign next week…
+
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, ServiceNow, Plex Systems and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and misses 

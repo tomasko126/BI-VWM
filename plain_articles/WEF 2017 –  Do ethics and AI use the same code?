@@ -1,0 +1,58 @@
+
+Ginni Rommety
+With the market for robotics and artificial intelligence booming worldwide, how can industry leaders design principles and technical standards into their products that will benefit society as a whole?
+That was a key question debated at the World Economic Forum in Davos, yesterday. Among the panelists were IBM Chairman and CEO Virginia Rometty, Microsoft CEO Satya Nadella, and MIT Media Lab Director Joichi Ito.
+Chairing the debate, CEO of Vista Equity Partners Robert F. Smith, said:
+
+We must bring a comprehensive and well-thought-out approach to managing the creative destruction that is inherent in embracing these ever-more-powerful tools, and frankly we must use these tools to repair the deficiencies in this capitalistic system and restore the social contract with the people on this planet.
+
+Bold words from a private equity firm with a $28 billion portfolio, and in Smith’s view, AI has a central role to play in restoring that contract. 
+AI has been central to IBM’s latest reinvention as an enterprise services provider, via Watson in the cloud. What were the guiding principles behind the move?  Rometty explained:
+
+The reason is that [people] would be so overwhelmed with information, it would be impossible for any of us to internalise it, to use it to whatever its full value could be. But if you could, you could solve problems that [are] not yet solvable. 
+For all companies, data would become the basis of competitive advantage, but you could not make use of that data unless you had technologies that… you don’t programme, [but instead] they understand, reason, and learn. That became the cognitive era that we’ve placed our big bet on.
+
+Rometty said that transparency is essential, and she believes that trust will grow if organisations adopt three basic principles:
+
+One is understanding the purpose of when you use these technologies. For us, the reason we call it ‘cognitive’ rather than ‘AI’ is that it is augmenting human intelligence – it will not be ‘Man or machine’. Whether it’s doctors, lawyers, call centre workers, it’s a very symbiotic relationship conversing with this technology. So our purpose is to augment and to really be in service of what humans do.
+The second is, industry domain really matters. […] Every industry has its own data to bring to this and to unlock the value of decades of data combined with this. So these systems will be most effective when they are trained with domain knowledge.
+And the last thing is the business model. For any company, new or old, you’ve accumulated data. That is your asset. Data is a competitive advantage. So we believe strongly as a business that you need to be sure that the insights you get from your data belong to you. And that also applies to how these systems are trained.
+
+Democratising AI
+Nadella’s Microsoft has been engaged in a reinvention similar to IBM’s. He had a theory on democratising AI’s benefits so that everyone may benefit:
+
+The key for me is not the tool that we build, but the technology underneath it: how do we make it broadly accessible? That’s the true benefit of AI. 
+In our case, one of the things that inspires me is the state I was born in in India, and the state I now live in the US: both are using statistical machine learning to be able to improve high school outcomes and use scarce state resources smartly. That to me is democratising AI.
+And it is about putting AI tools in the hands of oncologists and radiologists, so that they can use cutting-edge object recognition technology to not only do early detection of tumors, but also to predict tumour growth so that the right regimen can be applied. 
+
+It’s also about how individuals with the right tools can make a difference, he added:
+
+There’s one gentleman out of our Cambridge office who is visually impaired […] He’s building glasses that will recognise people and emotion in real time. For large businesses, a bank that is able to give credit to the unbankable. […] To me, the key in this next phase of AI is how do we put tools [around which] others can create intelligence into every walk of life.
+
+But aside from this vision of AI as an ethical, cancer-battling tool, to what extent could the technology itself be malignant in the wrong hands? Nadella responded:
+
+Before we get into the ethics, the law, and so on, let’s get into a set of pragmatic principles that can guide AI creation. It’s augmentation versus replacement. That’s a design choice. You can come at it from the point of view that replacement is the goal, but in our case it’s augmentation.
+
+Satya Nadella
+But this sidesteps the question of who are the designers and why?  Ito works with the next generation of technologists at MIT who are among those shaping the governance of AI in this new world? Describing some of his students as “oddballs”, he admitted that there are serious problems at the design end of the technology:
+
+This will offend some people, but I think people who are very focused on computer science and AI tend to be the ones that don’t like the messiness of the real world. They like the control of the computer. The like to be methodical and think in numbers. You don’t get the traditional philosophy and liberal arts types. 
+
+There are also equality and diversity implications, he added:
+
+The way you get into computers is because your friends are into computers, which is generally white men. And so if you look at the demographic across Silicon Valley, you see a lot of white men. 
+One of our researchers is an African American woman, and she discovered that in the core libraries for facial recognition, dark [sic] faces don’t show up. And these libraries are used in many of the products that you [the audience] have. If you’re an African American person and you get in front of it, it won’t recognise your face. And she discovered this because, probably, there was no one who had a dark face in the place where they were building and testing.
+“So one of the risks that we have in this lack of diversity of engineers, is that it’s not intuitive which questions you should be asking, and even if you have design guidelines some of this other stuff is a field decision.
+So one thing we need to think about – and this is very much a Media Lab point of view – is that when the people who are actually doing the work create the tools, you get much better tools. And we don’t have that yet [in AI]. AI is still somewhat of a bespoke art. You have a super-duper engineer who listens to the customer and tries to understand. But the customer can’t imagine the tool yet.
+
+
+My take
+Ito made the point to Rometty and Nadella:
+
+What I’d like you both to think about is that, instead of creating a solution, you need to integrate the lawyers and the ethicists and the customers to get an intuitive understanding of the tool.
+
+AI will benefit human beings in countless ways and help many of us to do our jobs better, but Ito is right. The first things to be automated in a robotic world aren’t repetitive, replicable tasks, but business leader’s – and governments’ – assumptions about the world in which they live and work.
+Any false assumptions, together with bad or incomplete data, can quickly be cast into algorithms that spread throughout human society. But unlike a biological virus where there is a ‘patient zero’, in the digital world there might be an infinite number of patient zeroes running on the same badly conceived or incomplete algorithms – a racist facial recognition system, for example, designed by people who are poorly integrated with everyone other than their peers.
+This is the real ethical dimension of artificial intelligence: it is not so much in the applications of the technology – many of which will be genuinely transformative and positive – it is in the thought processes that occurred before the coders were brought in, combined with the mindset and world views of the coders themselves.
+Microsoft’s Tay AI chatbot proved this last year beyond any doubt.  Any tool released into the world by naïve, culturally unsophisticated researchers can be a destructive force. 
+Image credit - WEFRead more on: Digital skills and trainingDiversityIoT robotics and AIMachine intelligence and AIRobotics 

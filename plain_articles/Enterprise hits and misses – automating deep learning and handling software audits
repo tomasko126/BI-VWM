@@ -1,0 +1,60 @@
+
+
+Lead story – Automated deep learning – finding the right model is half the battle – by Kurt Marko
+
+Quotage: “We are still decades from Star Trek-style artificial general intelligence that could pass the Turing test or outperform humans on a gamut of unrelated cognitive tasks. In the meantime, a promising compromise would be the ability to automate model selection and tuning based on the problem and available data, and then select the best options from a portfolio of deep learning software each designed for different applications.”
+myPOV: Rather than give you a blowhard brain freeze bloviated definition of how deep learning fits into the AI universe, I went for the money quote from Marko, which hits our preoccupation: what the heck can the enterprise do with it? Thus the theme of Marko’s useful offering, which gets into the practicalities of “automated algorithm selection,” where the proper algorithm for a narrower use case is machine-determined.
+I can see why Marko argues that helping companies sort the right algorithms could make up for lack of internal data science expertise. The catch? More APIs and “metadata taxonomies” are needed. And, given a big debate I had on Twitter last night about whether you can automate talent evaluation processes like resume screening, I’d add: smart judgement on which tasks can be fully automated, and which should have a human-machine mix:
+
+I thought that was called LinkedIn 🙂
+— Jon Reed (@jonerp) August 15, 2017
+Diginomica picks – my top three stories on diginomica this week
+
+Technology for social good: Mastercard – Cath continues a superior series on tech for good. I generally find “do gooder” tech pieces tiresome, as so much of it, historically, has felt as much like a cynical PR play and shareholder writeoff. But as Cath has amply demonstrated, that’s changing: “All of these case studies demonstrate is that using tech for social good can also very much benefit the business concerned too in terms of everything from employee engagement to increased revenues and a positive brand identity.” Also see: Technology for social good – reducing the environmental impact of parcel delivery at Parcelly.
+JC Penney sinks to all-time low despite omni-channel claims of success – Stuart on an omni-channel dream going sour, perhaps before its real expiration date? Shareholders are a cruel mistress indeed: “The trouble for JC Penney is that time appears to be running out, despite Ellison’s protestations that digital channels are beginning to prove their worth. ” Trying to suppress the “cleanup on aisle 9” jokes…
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Workday CIO says IT teams should get political – Madeline gets the lowdown from Workday’s first IT chief, Diana McKenzie, 18 months in. On the front burner: helping customers manage diverse data streams. “The answer to this problem is due in the Autumn, with the release of Workday’s Prism analytics platform. The result of last year’s acquisition of Platfora, Prism will let firms develop a virtual data warehouse blending Workday and non-Workday data.” Good stuff on workplace diversity/Workday culture as well. Also see Den’s latest use case, Boston Medical Center time warps from 1864 to the present day with Workday.
+Vishal Sikka, CEO Infosys under proxy fire – speaking of fire-by-proxy, check the doozy of a comment thread. Den takes a position and explains exactly why he’s taking it. Some readers struggled with that. Lessons-a-plenty here.
+Delphix spins up data anti-gravity platform to accelerate DevOps – “Anti-gravity?” Now there’s an cringeworthy adrenaline-pumping headline achieving buzzword I haven’t heard before. Phil takes a look behind the techno-curtain in search of DevOps goodness, and finds a contrasting approach at Delphix that’s worth a look – buzzwords or not.
+
+Jon’s grab bag – Derek delves into the trance-inducing glorious details of Brexit with two diffferent customs proposals on the table – one of which has never been tried before (Brexit – UK proposes “innovative and untested” customs system with EU).
+He also dishes on Disney’s anti-Netflix manouvers (Disney to launch own streaming service, pulling movies from Netflix). Sidenote: how many streaming services will consumers have to shell out for to get the content they want? Something’s gotta give. I’m not sure brands should stress as much as they do over the social herd and its celebrity-fawning cattle calls, but Barb’s got a point about that social silo dysfunction (How do we get past social silos to a better customer experience?).
+Best of the rest
+ Lead story – Software Audits Continue to Rise: Understand the Software Vendor’s Audit Playbook by Len Riley of UpperEdge
+
+myPOV: Readers know I grapple with the UpperEdge blog, with its beneficial contract advisory mixed in with too much self-promotional flavor. But they got it right this time, with an informative piece not overbranded. Imagine that – good info with a short/direct call to action really works.
+In the era of AI happy talk, vendors still bare their contractual teeth. That’s where UpperEdge’s posts come in.  As Riley points out, audits can serve as a sales tactic in the absence of a natural upselling event (Or, I’d add, if such an upsell is met with disinterest). I liked Riley’s tip on self-assessment:
+For most organizations, 80% of its software spend resides with the top 15 to 20 of software vendors. Focus on these vendors and conduct self-assessments, before third-party audits occur. Aggressively evaluate user requirements vs. entitlements, reclaim and re-allocation licenses.
+Even a good partnership requires vigilance.
+Two top standouts:
+
+A CFO Success Story: Sajid Malhotra, CFO of Limelight Networks – thought you might enjoy a break from the endless AI picks. The classic Q/A format can still reap insights. Good stuff on culture-building. Big ups for: “I am a firm believer of not reducing workforces and in giving the incumbents the first chance.”
+What Artificial Intelligence and Machine Learning Can Do—And What It Can’t – And now for the AI picks. Nothing fancy here, just a gut check on potentials and limits. Also check The New Stack’s Why Artificial Intelligence Needs Neuroscience for Inspiration, which makes the argument that we’ll have better AI when we understand the mysteries of the human brain a bit better. That holds true for general AI, but grasping the brain may not be needed for vertical use cases. It could even impede us from pushing the limits of what machines do well.
+
+Honorable mention
+
+Summer 2017 News Analysis – SAP Leonardo event July 2017 – A lot more glowing than how I feel about SAP Leonardo at this juncture (I’m on the prove-the-model-before-getting-a-biscuit train), but Holger Mueller always brings something to think about.
+Tech’s Damaging Myth of the Loner Genius Nerd – I thought we were over this one by now, but yeah, cubicle cowboys kinda suck. On the other end of the spectrum…
+I’m a woman in computer science. Let me ladysplain the Google memo to you – A tad dogmatic for my taste, I guess that’s my soft spot for dissenting voices kicking in, but her core point, that the inequalities in tech should be addressed before we make any sweeping statements about biological predispositions, is better than I tried in last week’s column. Nice to know my feared irrelevant long-dusted liberal arts degree comes in handy at diginomica though.
+Former CIA operative Valerie Plame says privacy is precious — and she should know – I don’t think they’re listening Valerie (about privacy encroachment, where we’re all lobsters warming up to the surprise boil). But thanks for speaking out.
+
+Whiffs
+Small blessings file: if you’re gonna light a Tiki torch and hang out with a bunch of gutless racist pukes, some tech-savvy hackers are gonna identify you, expose you, and you’re gonna lose your wiener gig. (Sidenote – rough weekend to be a Tiki manufacturer).
+Closer to the enterprise, amazing the triviatia that passes for news:
+
+Microsoft just officially listed AI as one of its top priorities, replacing mobile https://t.co/A8PJay15V7 -> such an exciting story
+— Jon Reed (@jonerp) August 3, 2017
+Instead of “choose your own adventure,” shall we play “choose the most unflattering headline award?” Your three contenders are:
+
+24 hours later, ANOTHER massive Wells Fargo fraud scandal – good times for shareholders and customers alike.
+Comcast argues that charging customers more than the advertised price isn’t false advertising – well, the judge didn’t see it that way.
+FCC faces backlash for saying Americans might not need fast home Internet – another stuffed inbox for the foot-in-mouth agency.
+
+See you next time.
+
+If you read an #ensw piece that qualifies for hits and misses that I overlooked, let me know in the comments as Clive always does.
+
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Beach vacation © lily - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and missesIoT robotics and AIMachine intelligence and AIThe new professional and IT as a service 

@@ -1,0 +1,52 @@
+
+ 
+A recent report from the UK’s Energy and Climate Change (ECC) parliamentary committee has highlighted some serious concerns with the government’s £10.9 billion smart meter rollout, which claims that the project could be headed for “costly failure”.
+Although I haven’t been following the rollout closely, which has been ongoing for a number of years, with a deadline of 2020 – the report begs the question: would the government have been better off leaving the general public to invest in consumer targeted smart meters/apps instead, saving both time and money?
+With growing interest in companies such as Hive and Nest, which are targeted at creating the ‘smart home’, it seems to me that the government and energy suppliers in the UK are in a race to compete with the private sector, which is innovating at a faster pace.
+Also, off the back of my recent IoT piece, which urges the industry to realise that IoT isn’t “up for grabs” and that it will evolve naturally like the web, suggests to me that perhaps the smart meter rollout is somewhat misguided.
+Having had feedback on Twitter from some people more informed on the rollout than I am, there seems to be some issues with a consumer-led approach, and some good arguments for a government-led rollout, but nonetheless I think it is highlighting both sides of the debate.
+But first, some background. The ECC committee states:
+
+Smart meters allow energy suppliers to get remote electricity and gas readings from households and businesses using mobile phone-type signals and wireless technologies. The potential consumer benefits from smart meters include lower energy bills through reduced energy consumption alongside energy efficiency. The roll-out of smart meters in the UK is due to take place between 2015 and 2020 with an estimated 53 million devices to be installed by energy suppliers in 30 million homes and businesses. DECC estimates that the roll-out of smart meters will cost around £10.9 billion and these costs will be passed onto consumers. However, the cost is expected to be offset by expected savings of £17.1 billion, in part from energy efficiency.
+
+However, there appears to be a few technical problems that are causing problems for the rollout. Most notably, there are technical communication problems with multiple occupancy and tall buildings, where multiple energy meters are unable to talk to each other, which is a problem that the ECC committee claims should have been solved by now.
+In fact, British Gas told the ECC (which supports my argument for a consumer-driven rollout) that an industry solution would have been “a lot less expensive, a lot cheaper, than having each supplier going into a building installing their own technology”.
+Equally, there seems to be big problems with interoperability, which means that customers wanting switch energy suppliers may also have to switch out smart meters. Hardly an efficient outcome.
+In addition, the report highlights that there has been a slow start to full engagement with the public on meter installation and long-term use.
+Flush it away?
+Tim Yeo MP, chair of the Committee, commented on the findings and said:
+
+Time is running out on the Government’s plan to install smart meters in each of the UK’s 30 million homes and businesses by 2020. Smart meters could generate more than £17bn in energy savings for the country yet a series of technical and other issues have resulted in delays to the planned roll-out.
+This Committee first looked at this programme in 2013, highlighting issues which we urged the Government to address. While some progress has been made since then, it’s not enough. The energy industry told us that it needs the Government to enable industry-wide solutions, rather than the less efficient alternative of letting each energy supplier develop its own solution.
+Without a significant and immediate change to the Government’s present approach which aims to install smart meters in 100% of UK homes and businesses, the programme runs the risk of falling far short of expectations. At worst, it could prove to be a costly failure. So, the Government is at a crossroads on its smart meters policy. It can continue with its current approach and risk embarrassment through public disengagement on a flagship energy policy, or it can grip the reins, and steer the energy industry along a more successful path which brings huge benefits for the country.
+
+Having had a quick skim of the report – which you can read for yourself here – I asked the question on Twitter:
+Is it just me, or is smart meter rollout completely unnecessary? Wouldn’t consumers just end up adopting the likes of Hive/Nest themselves?
+— Derek du Preez (@Derek_duPreez) March 9, 2015
+Now, the main problem with my argument seems to be that whilst the consumer led apps allow for tenants to control their energy in the home, which would help with lower priced bills, what it doesn’t do is give the energy suppliers access to aggregated data to manage demand and supply on the energy market. It also doesn’t allow for dynamic pricing.   Here are some of the responses (all completely valid) from some well informed analysts/writers on the subject:
+
+@Derek_duPreez big opportunity is for energy sector to use aggregated data to even out demand, not sure Hive will handle that aspect — Eddie Copeland (@EddieACopeland) March 9, 2015
+
+
+@derek_dupreez Smart meters are supposed to support things like dynamic pricing, which smart thermostats can’t (yet)
+— Gareth Morgan (@garethwm) March 9, 2015
+@EddieACopeland @Derek_duPreez Hive/Nest controls heating but doesnt communicate with energy co. or market in the way that smart meter will.
+— Richard Howard (@RichardHowardPX) March 9, 2015
+@Derek_duPreez @EddieACopeland Also question how widespread Hive/Nest rollout will be versus universal rollout of Smart Meters .
+— Richard Howard (@RichardHowardPX) March 9, 2015
+
+
+@Derek_duPreez those who may benefit most (poor/elderly) may also be least inclined to buy for themselves, a question for @RichardHowardPX
+— Eddie Copeland (@EddieACopeland) March 9, 2015
+
+My counter-argument would be – wouldn’t the government have been better off demanding that the suppliers install meters that had open APIs instead? That would allow for smart meter companies to connect and share data, whilst saving the hassle of multiple suppliers trying to install their own smart meter solutions and create their own apps?
+
+It seems to me that the government is trying to compete in a market that is innovating ahead of it – the smart home is seen as one of the most lucrative IoT segments for grabs and I’m sure companies such as Nest and Hive will come up with solutions that better than what we end up with in 2020. I would argue that the government needs is a smart meter rollout that is open and allows for consumers to choose what solution best suits them.
+However, there were a also a couple of counter-arguments for this from the Twitter debate:
+@Derek_duPreez @RichardHowardPX, Perhaps yes. Smart meters=most tangible form of IoT for most ppl, so there’s big focus on data security
+— Eddie Copeland (@EddieACopeland) March 9, 2015
+
+My take
+My instinct tells me that the government-led solution isn’t going to be sufficient.
+
+Read more on: Internet of Things 

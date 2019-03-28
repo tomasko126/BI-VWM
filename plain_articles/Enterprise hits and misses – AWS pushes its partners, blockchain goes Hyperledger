@@ -1,0 +1,69 @@
+
+
+diginomica hit: The all new AWS managed services forces important buyer and partner decisions by Kurt Marko
+quotage: The AWS strategy is clear:
+
+avoid IaaS commodification that could turn partners into service brokers by expanding its platform application and management features
+push partners up the IT value chain from operations and migration to business consulting and development.
+
+myPOV: Kurt breaks down Amazon’s latest twist: offer up a Manage Service (MS) that seems to overlap – if not directly compete – with previously celebrated partner offerings. It’s the oldest partner game an aggressive behemoth can play. Kurt hones in on implications for buyers. Kurt also points to tensions between the mix-and-match approach to cloud, and the value-add partner model. The AWS type of partner adds services, but may increase lock-in. So much for the “cloud changes everything,” eh?
+diginomica announces diginomica/government – A banner week for the gang here as we launched a new sister site. As Derek writes in Introducing diginomica/government:
+“It shouldn’t be hard for citizens to deal with government – the public sector has the potential to deliver the same experience as the best internet-based organisations out there. Where citizens are put at the centre of everything that it does. We want to play a part in this and are claiming ourselves as the ‘go to’ resource for those interested in and working on digital transformation in the public sector.”
+Yep, that’s what we’re going for. Derek warns we must be vigilant, discern real change from rhetoric: “We are at risk of going backwards.” Based on the flurry of news, we launched diginomica/government in the nick of time:
+
+Breaking – Number 10 puts the brakes on Government Transformation Strategy (from last Friday)
+Labour and Lib Dems demand answers over delayed Transformation Strategy (today’s update)
+
+We’ll feature contributors with hard-won public sector chops, such as: On the front line – Buckinghamshire County Council’s Digital Chief, Matthew Cain. There’s more juicy bits to the announcement, check the details. As always, tell us what we’re getting right and what we’re not. Onward ho!
+Two more standouts: 
+
+A CRM teachable moment – qualitative customer data matters – As a quantitative survey hater, Denis had me smiling ear-to-ear. It’s the qualitative data of messy customer feedback that forces process change. And what’s the best way to get both quantitative and qualitative? Glad you asked. Denis: “Communities offer a unique way to quickly and inexpensively capture both qualitative and quantitative data and feed it back into reputation building approaches for the business.” Can we get an “amen”? Or at least a “Bingo”?
+Interview – Martyn Atkinson, Metro Bank’s Director of Digital and Change – Derek with another good ‘un: “Atkinson explained that where a digital presence complements a physical presence is actually ‘where the magic happens.‘” And that should keep Metro Bank busy the next 36 months!
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Oracle tops $1 billion cloud quarter, but hardware slides – mixed news for Oracle as a high stakes transition takes place. Stuart’s on the case: “License sales declined in the latest quarter, with Ellison arguing that this is down to waning adoption of traditional applications, not to the database side of the business. He predicts there that database license revenues will remain on a steady keel, even with the growth of the IaaS market.”
+EDF iterates and engages with users as it moves to cloud HCM – Phil’s got a nifty SuccessFactors use case from the energy sector: “The experience at EDF replicates what we’ve seen at other organizations, such as Jaguar Land Rover. The ease of getting started with a cloud HCM system leads to initial optimism that the project can be completed rapidly. But that assessment underestimates how much work people have to put in to get to a new set of HR processes that fully exploit the potential of the digital platform.”
+Carewatch targets ageing population challenge with Infor – Jess on a worthy non-profit. Keeper quote: “Care professionals come into this industry to deliver care, not to master IT systems, so we want to make sure that it’s as easy for them as when they pop online of an evening to do their own shopping.” Bonus points for describing vendor evaluation as a “beauty parade.”
+
+A couple more vendor picks, without the quotables:
+Adobe’s gambit pays off as subscription revenue accounts for 78% of total – Stuart
+Salesforce’s Vivek Kundra – ‘We need to rethink government institutions’ – Derek
+Between Einstein and Watson, Bluewolf boss sees AI as a ‘now’ technology – Stuart
+Jon’s grab bag – Yeah, there was a wee tech summit this week, a Trumpian thing, but I didn’t put this one in lights as I figured you might need a break from the political chew-em-up. But Stuart’s got your catch-up: “There’s nobody like you” – Trump’s tech summit wins on propaganda points, but trouble’s still ahead.
+That ties into tech spending and your favorite topic, macro-economics, which is where Den’s buyer-centric analysis fits in: Managing currency uncertainty in your buying decision and Why informed technology buyers need to read and hear Dr Mark Blyth. Barb talked to pretty much every CMO that knows what they’re talking about before writing the jam-packed CXM – looking back and forward to 2017.
+I rarely feature my own stuff in hits/misses but I can’t hold that against Brian, my partner-in-mischief for our first-annual 2017 enterprise software un-predictions, loaded with “visionary non-insights.”
+Best of the rest
+ Enterprise blockchain heads to a gut check year – all eyes on Hyperledger
+quotage: “‘When you look back at the beginning of the year, there were a lot of folks kicking the tires and imaging the art of the possible. When you look at this ecosystem … This has gone beyond the conceptual stage and they’re doing real stuff,” said Jerry Cuomo, IBM vice president of blockchain technologies, of the New York meetup. ‘There’s a real energy around it.”’ – Blockchain Hyperledger Project Generates Interest in the Enterprise, by Susan Hall
+MyPOV: 2017 looms as a gut check year for the enterprise blockchain. Skeptical views and regulatory hurdles must be overcome, with no live examples of enterprises running blockchain at scale – yet. A year ago, Ethereum seemed like the enterprise platform of choice, but the Ethereum hard fork undermined confidence. Hyperledger, the platform IBM is investing in, now has the hot potato mantle as most promising enterprise blockchain platform.
+From the vendor side, IBM is making the most aggressive blockchain moves, investing in the “ecosystem” of startups, SIs, and developers around them. Chris Kanaracus and Steve Wilson have the update in Why IBM’s Blockchain Ecosystem Plans Make Sense. I have more Hyperledger content on deck; we’ll see what 2017 holds.
+Other standouts:
+
+The Opportunity Cost of Debating Facts – Dave Kellogg posted one of the most useful election/fake news inspired pieces for enterprisey types like you and me. It’s a concise practical example of how you can advance a project discussion by documenting facts that are previously agreed-upon, and no longer subject to the kinds of soul-crushing pseudo-debates that dominate our political landscape.
+On the Myth of the 10X Engineer and the Reality of the Distinguished Engineer – RedMonk’s newest – though not all that shiny new anymore – analyst Fintan Ryan makes his first appearance in hits/misses, fortunately on the hits side, for this terrific piece on the truly good engineers. We’ve seen this topic before, but I like this angle, with eight themes of oustanding engineers, including political savvy and a “relentless focus on delivering to customers.” Yep – with a double-down on relentless!
+Constellation does MapR, let’s hope it was mutual – tasteless innuendo on my part, sorry folks – blame the spiked eggnog. Anyhow MapR, one of the top three Hadoop vendors, recently held an analyst confab, ably covered by two of Constellation’s finest. Doug Henschen posted on MapR’s Ambition: Next-Generation Application Platform (big NoSQL and streaming plays now in the mix). Holger Mueller filed his (I think) last (update: now confirmed last) patented events reports of the year, adding the usual color, concerns, slides, attendance record, but inexplicably, no car seat video in MapR has platform ambitions – now it has to deliver.
+
+Honorable mention
+
+The SAP platform and digital transformation – nice to see a non-techie (bravely) dig into SAP TechEd culture, and come back with a different take on SAP’s digital play.
+Oracle finally targets Java non-payers – six years after plucking Sun – hey, one of our 2017 tech un-predictions already came true.
+Wearables Are Generating A Tsunami Of Useless Medical Data – this piece isn’t as cynical as the title, a discrepancy which usually bugs me, but I’m still giving this one the coveted enterprise title of the week award.
+The cloud will demote the CIO in 2017 – another exaggerated title – but perhaps not by much.
+The State of Manufacturing: A conversation with Jason Blessing, CEO of Plex Systems -a tad self-promotional (for Plex), but still plenty of industry meat on the bone.
+On Digital Minimalism – I’m gonna write more about this post, which I don’t totally agree with but provokes vital holiday thinking. A must-read if you haven’t yet thrown in the towel on work-life balance.
+Whiffs
+So I already put Evernote and Yahoo on the barbie (digibyte – Evernote and Yahoo pay misguided tribute to privacy – as an artifact). Oh, and then there’s Apple, which decided that life works better with your head in the sand (Apple MacBook update removes battery life estimates).
+Den’s been sending me a steady slew of PR gaffes and mud bogs. As predictions season slips half-assedly away from us, Zylo would like to pass along these guru-guided views of 2017:
+
+Data-driven cloud purchasing decisions will cut costs and increase satisfaction.
+Enterprises that move to a cloud-first technology strategy first will win.
+
+Hey, at least they didn’t have to borrow a ladder to go out on that particular limb. By sheer coincidence of course, Zylo is in the SaaS optimization biz. From their PR: “Any interest in seeing the full explanations of the predictions?”
+Me: Nahhh, I’ll wait for the “white paper.”
+A quick thanks: Before I sign off, diginomica recently won a stocking full of industry writing awards from ERP Focus. Thanks for your support of my work, and this column in particular. You’re the ones that make this worth the push, and keep me on my toes. I never really dreamed I’d be able to participate in our industry in such a creative way. For that I must thank my diginomica colleagues – and you as well.
+Over to you, Clive.
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Checking his special list. © gstockstudio - Fotolia.com - all from Fotolia.com. Disclosure - SAP, Oracle, Workday, Plex Systems and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and misses 

@@ -1,0 +1,40 @@
+
+ 
+For those following diginomica regularly, you may know that I’ve always been quite positive about Splunk’s capabilities as a data analytics tool. And that’s largely because in amongst all the noise and marketing hype surrounding ‘big data’, Splunk consistently delivers me high profile enterprise customers to talk to that are using its products and are seeing a decent ROI.
+That speaks volumes.
+However, having been to a few of its annual user conferences in the US and a couple of its regional events here in London, I’ve always highlighted that Splunk’s user base was incredibly technical. The events are always filled with developers, data scientists and security experts that love staring at screens filled with incomprehensible log data, and yet are incredibly excited about what it all means.
+And that’s not particularly surprising, considering that Splunk’s core business has typically focused on tools that helped companies analyse the performance of their machine data.
+But back in November at Splunk’s annual user and partner event in Las Vegas, the company began making a push to target the casual business user through the introduction of new tools that would make it more intuitive to onboard and analyse data, as well as introduced some automated analytics – reducing the need to search and query logs.
+And at Splunk Live this week in London, it became apparent that this push has been accelerated. Splunk is making moves to fill out its offering in the hope that companies will perceive it as an ideal choice to be their business-wide data platform.
+It is doing this through the introduction of things like the Splunk Cloud (running on AWS), Splunk Light (for smaller IT departments), by adding more value to data through applications running on top of the platform and by reorganising its business internally to match the use case needs of its customers.
+What you are also seeing from the customer’s point of view is that they are also starting to realise that this isn’t just a security play, or just an operations analytics play, but this could be extended out to things like customer experience or marketing – because of the broad scope of data that Splunk can bring in. For example, Paddy Power’s CIO had been using Splunk for applications management in a DevOps environment, but is now beginning to examine how it can be used to analyse customer data.
+Splunk CEO, Godfrey Sullivan
+Splunk CEO Godfrey Sullivan pointed to this at the event in London this week. He said:
+
+The thing that has been an evolution over the past couple of years has been the evolution of the use case. Probably most of you either fit into app monitoring or into infrastructure/security. But once customers have that data in the index and start using it for operations or security, find that the more data you put in, the more use cases you get back, including analytics and some customers have even gone on to use it for IoT.
+Our hope is that all of you will think of Splunk as your data platform and have all of your departments get value out of it.
+
+I got to speak to Matt Davies, Splunk’s head of marketing for EMEA, who agreed with Sullivan that this is a growing trend. He said:
+
+We have seen people saying that they’ve got data for IT Ops and then realising that that same data is security relevant, analytics relevant and customer experience relevant. We have started to see that light bulb moment, where that the same data tells them about security, IT Ops and customer experience. Shazam (a Splunk customer) went the other way, they knew that the data was telling them about mobile analytics, but then realised that it was also telling them about their underlying infrastructure.
+
+And all this is obviously good news for Splunk. If businesses are beginning to realise the value of Splunk as a data platform, as opposed to a data tool for mining and analysing a specific operation, that’s an incredibly valuable proposition. And I believe that this is happening from conversations with customers.
+That’s not to say that Splunk doesn’t still have some challenges. Davies recognises that if the use of Splunk is extending, if it has typically been used by one technical person that knows how to query, the business needs to skill up in other areas. Davies said:
+
+That makes an interesting challenge inside the company, because that one person that knows how to ask the questions and get the answers, everyone descends on them.
+
+Paddy Power CIO Fin Goulding said the same thing to me about Splunk in his organisation. He is now facing a challenge around educating people to use it as a platform and evangelising the product across the business.
+I also asked Davies about how Splunk as a platform compared to other platforms that are emerging, such as Salesforce and ServiceNow. One of the points I was interested in, was whether or not Splunk was going to specialise in certain verticals or across certain business divisions, which appears to be the current trend.
+However, Davies said that this wasn’t entirely appropriate for Splunk at this time. The focus at the moment is getting more data in and adding value to that data across certain use cases. He said:
+
+It’s different but the same. If you look at the two things we are trying to do, we are trying to add more data into Splunk – with Stream you can bring in network data, with Mint you can bring in mobile data, more data types, but also quicker time to value and more out of the box functionality with the applications on the top.
+It’s about getting value out of the data more quickly, having more out of the box functionality for security, for IT ops, for application management, for DevOps, for Internet-of-Things and for analytics. We have market groups now with their own leaders and they have their own set of partner alliances. But they are on a use case, rather than an industry at the moment. We haven’t gone here’s the Financial Services solution for Splunk.
+If you look at the amount of data and the diversity we have, there aren’t many gaps in that. I think the work that needs doing is to put more value into the data on top of it. We are working on that.
+You wouldn’t want to go too far the other way and just be telling customers here’s a packaged application for security. That’s not how they work. It’s about getting that balance right. I think a lot of other companies are also trying to get the balance right between out of the box and rich functionality, but not a packaged app.
+
+My take
+This is the direction that Splunk needs to be heading in. Pitching itself as the data platform for the enterprise is a smart move – but in order to do that, it needs to emphasise business value all the way down from the operations logs, all the way up to customer experience. I’m told that there are going to be some big, new products being launched at the next user event in September, and I expect these will continue to accelerate this latest approach.
+However, whilst Splunk talks up the benefits to customer experience and marketing, those examples (in the public domain anyway) are few and far between. It needs to get its customers figuring out how Splunk can be used for these use cases and then get them talking about it. Only then will the business value of Splunk as a data platform be realised.
+Disclosure: Salesforce is a premier partner at time of writing. 
+
+Read more on: Analytics planning and data analysisIT service management 

@@ -1,0 +1,26 @@
+
+Plex is the grand master of the cloud ERP space having been founded in the late 1990s as a cloud ERP solution from the get-go. Initially, the company acquired a significant number of customers in the Midwest US. and Canada that manufacture goods for the automotive and related industries. That industry focus has been broadened over the years to include sales in verticals such as medical devices, food manufacturing and other spaces.
+Andrew McCarthy of Plex gave me an update a couple of days ago. Some of the highlights of that conversation included:
+We need platforms for iteration and innovation not more concrete to chip at.
+There was an old adage in ERP that systems were infinitely flexible and configurable UNTIL you installed them. At that point, it seemed that you had poured concrete into a Jello mold.
+I couldn’t agree more with Andrew on this point. The market wants solutions that can change with the speed of business and with record ease. Platform based solutions are the closest to delivering this vision today.
+The system of record for a manufacturing solution must be dynamic not just scalable. ERP solutions must accommodate new kinds of data, new kinds of products (and most importantly “Services” as in the As-A-Service capabilities that many manufacturers must now provide). New data types (e.g., unstructured, email, social sentiment, etc.) and data sources (e.g., sensor data) are going to trigger big changes in what ERP systems report and analyze.
+Latency in data is no longer acceptable. In fact, latency simply cannot exist in production environments anymore.
+Reliability suffers as data ages and sits unexamined or not acted upon. This is why IoT or IIoT solutions must be able to handle massive volumes of some data in real time. Complex organizations must decide what is an acceptable level of data latency will be in their firms if they are to drive further productivity, cost containment and efficiency gains.
+There is “lots of hobbyist activity” out there re: IoT (Internet of Things) and IIoT (Industrial Internet of Things). Much of the IoT focus according to Andrew has been around “earning the label” – a concept where companies use sensor information to ensure all production steps have been completed and to specification before the good earns the right to wear the product label.
+Earning the label activity is overwhelmingly an internal-facing set of metrics. It is not transformational but incremental. The big frontier, using the digital exhaust from products post-production is still a ways off for many firms.
+Decisions around data are very important. Businesses have to think about more than ERP transaction data. For example, they have to look at new kinds of equipment or sensor driven data to determine whether a product is ready to move through the production process. Not all machine captured data is needed for these decisions but may be needed for other purposes.
+Deciding what data is needed, where it is needed, how it will be stored and analyzed, etc. are just some of the new decisions manufacturers must address. Simply accepting the contents of an ERP’s data model is no longer viable.
+Specific to Plex, Andrew added that:
+
+Plex will offer trial periods of analytic applications. The company is confident businesses will like these enough to become subscribers that they’re providing a try-it-before-you-buy-it period. Several new analytic applications have been developed in areas such as scrap, customer retention, etc.
+Related to the analytics, Plex wants all of its analytic dashboards to be self-evident. Plex doesn’t want its customers to have to hire armies of data scientists to get immediate value from its data and analytics. A key design concept behind this is “N+1” where the analytic should be anticipating and answering the next user question. Customers should see new analytics in finance, sales, production and procurement.
+Plex is anticipating more two tier ERP sales opportunities. They expect to see more deals, for example, where a solution like Workday is used for enterprise HCM and Plex for divisional manufacturing.
+
+Proliferation of cheap consumer devices in the shop floor will continue. Andrew indicated that many customers are deploying all manner of low cost consumer technologies (e.g., tablets, cellphones, etc.) in their plants. He specifically mentioned Apple iPod Touch and Kindle Fire while I’ve seen lots of sub-$75 Android tablets being used for all kinds of roles including acting as time clocks and employee HR self-service devices.
+Plex also recently produced its latest State of Manufacturing Technology Report based on survey data from 200 manufacturers. While I rarely recommend a vendor’s thought leadership material, this one is a substantive albeit quick read. A couple of IoT factoids within in it included:
+
+25% of manufacturers have deployed “smart” thermostats or lighting controls.
+25% of manufacturers have already deployed 3D printers.
+
+Image credit - Author Disclosure - At time of writing, Plex is a premier partner of diginomica. Read more on: Cloud ERP financials and supply chain 

@@ -1,0 +1,60 @@
+
+Charles Phillips kicks off Inforum 2018
+At Inforum 2017, Infor joined the intelligent chorus of enterprise software vendors with their formal announcement of the launch of Coleman AI.
+Infor also named their AI after a historical figure, in this case, pioneering NASA scientist Katherine Coleman Goble Johnson.
+But since the initial fanfare, we haven’t heard much on Infor’s AI progress. At Inforum 2018 in Washington, D.C., Infor brought us up to date, via a day one keynote with CEO Charles Phillips.
+Did Infor avoid AI announcement mistakes?
+Among the seventeen Infor press releases that engulfed my inbox was the formal announcement of the GA (general availability) of the Coleman Digital Assistant, as well as the launch of the Coleman AI Platform for embedded machine learning models, which Infor “expects to deliver in the Spring of 2019.”
+Enterprise software vendors typically make several big mistakes with their AI announcements. One is the ill-fated on-stage voice assistant demo that almost always nosedives. The next mistake? Implying that AI is the cure-all for the ROI problems that have always plagued ERP.
+No voice demo at Inforum? Good call. No AI-as-miracle-cure message either. No sprinkling “intelligence” on legacy systems and data silos and crossing your fingers. For Infor, AI is about automating the routine and solving for industries – while creating a more productive/diverse workforce. Workplace productivity might sound obvious, but it’s proven to be elusive:
+
+Infor CEO @cpinfor explaining non-impact of digital tech on workplace productivity:
+Personal productivity is different than enterprise productivity – personal productivity, impact of smart phones etc “did not migrate to the enterprise”
+How to fix? A core theme of #Inforum2018
+— Jon Reed (@jonerp) September 25, 2018
+To back this up, Phillips shared these sobering workplace stats:
+
+Phillips cited the discrepancy between unemployed U.S. workers (6.7 million at the end of April), versus 6.3 million unfilled job openings. Phillips said that gap points to the urgency of better workforce training – and better HR tools that that help busy hiring managers cast a wider hiring net. That’s why a considerable amount of keynote time was devoted to connecting data science to HR – via Infor’s now-mature Talent Science solutions:
+
+On the flip side, panel now talking about the positives of taking humans out of some front end screening/hiring decisions. @Infor team says companies that used Talent Science recommendations – diversity of hires went up 26 percent. #Inforum2018
+— Jon Reed (@jonerp) September 25, 2018
+I don’t know about you, but I find vendor AI talk goes over better when it includes a vision for the future of work – and how we need to support workers to succeed amidst machines. Phillips went there:
+
+I’ll go further into why Infor is playing up cloud HCM connectivity (alongside its micro-vertical strategy) in my next piece. But with the question of AI and workplace productivity in mind, I attended an AI deep dive session for media with Rick Rider, Infor Coleman Product Director.
+A year into Coleman AI – what’s new?
+There’s a catch for Infor customers who want to use Coleman: they must be running Infor OS, Infor’s modern OS which was first released in 2011, with a cloud emphasis since 2015.
+Riders updated us: there are now 9,000 Infor OS customers, with 3,000 in the multi-tenant cloud. Some Coleman services are limited to the multi-tenant cloud, for example the GA of the Coleman Digital Assistant is for multi-tenant Infor customers. But the Coleman AI/machine learning platform announced this week will be accessible to all Infor OS customers, even those who run Infor OS on-premise.
+However, as Infor’s Massimo Capoccia re-iterated to me at press time, Infor advises customers to pursue AI projects in the cloud. You can put Infor’s Data Lake on-premise, Capoccia said, if you are willing to invest in the computing power. From there, you can interact with Infor’s cloud-based AI models. But with AI’s cloud advantages, from the cost of big data computing, to the ease of connecting to external cloud services, Infor has taken a clear position: the future of AI services is cloud-based.
+Rider says with Infor OS, the implementation services and support team are directly tied into their development team. Why should we care? Because Infor wants customers to be able to build out their own Coleman “skills” quickly:
+We want the people that are out in the front lines talking and building these solutions with customers to be directly integrated with the development team.
+Behind Infor’s Coleman AI strategy
+Though Infor wants to infuse their vertical solutions with AI, they also see AI as a “horizontal” technology, built on an API-enabled platform that doesn’t require customer updates. Rider:
+If I wanted something related to inventory predictions, or related to predictive maintenance and manufacturing, it should all be done within one platform that updates itself over time.
+Infor has no intention of building all AI tools from scratch. Rider dropped this Alexa nugget:
+We partner with AWS on a lot of different things, but one thing that we’re working on, that will be GA by the end of the year, is an integration with Alexa for Business.
+Coleman AI beta customers share their progress
+For AI to get traction, customers have to carry the message – and see the tech as relevant. To that end, Rider shared a video with Coleman beta customer Grimco. Rider:
+We knew that working with someone like Grimco could help keep us in check, and keep us focused on the things that we need to do to make sure that Coleman was the proper product.
+During the video, Grimco shared their side:
+We had the benefit of having Rick come onsite, and we just came up with a bunch of different use cases that would be relevant to Grimco.
+Now we’re getting into the vertical use of AI, in this case, applying AI to inventory:
+One of the areas within AI that we have explored is taking a look at inventory and finding a quicker way that we can find products, to make better decisions for our customers, to be able to say “Hey, do we have this in stock in Toronto, or do we have product Z in stock in Montreal?”
+It is all about the speed of information that we can pull out, and be able to speed the response times that we get out to our customer base.
+Another Grimco scenario uses Coleman to receive an order:
+If we have our receiving guys out in the warehouse and a PO comes in, they’re able to immediately receive that PO using Coleman, letting them know that it has been received, if there are any damaged products to mark… And then to give that sort of feedback, so again they’re not paper pushing, they’re not having to fill out information on paper.
+Another Grimco Coleman option: taking customer orders.
+Our goal at Grimco is to let our customers order from us as easy as they possibly could want. If there’s potential to utilize AI for ordering purposes or them finding out information from Grimco about lead times, we want to be on the forefront of providing them that ability.
+These projects are intended to move quickly. In Grimco’s case, Rider and two Grimco project managers built fifteen Coleman skills in a single day, deployed them, and did the video – without a developer or IT involved.
+My take – Infor must overcome AI announcement cynicism
+Amidst my analyst colleagues there is considerable skepticism about these types of AI announcements. I think there are three reasons:
+
+It’s all in the execution. Announce all you want – let’s see you embed this tech into products in a way that helps your customers.
+The messaging isn’t differentiated – pretty much all AI and machine learning announcements sound the same. “We’re doing it too” isn’t very compelling.
+Some analysts think customers aren’t ready for AI/machine learning. They have more pressing concerns.
+
+Infor hasn’t steered clear of these three objections yet, but at Inforum 2018, they laid the groundwork for something better. All of these concerns can be overcome with more industry examples like Grimco.
+Unfortunately, customers sharing stories with the media was not a strong point at Inforum this year – AI or otherwise. However, on the second day keynote, Rider went onstage with Headwater Companies, a Coleman beta customer looking into how they can avoid stock outs with Coleman’s helpful assistance. If Headwater can use AI to predict what items will be out of stock, even a percentage increase in accuracy from 98 to 99 percent would be financially impactful.
+In a year and change, Infor has gone from announcing their AI ambitions to early stage customer use cases. Next year, we’ll need to see more advanced results. I also want to see more on the challenge of data cleansing. AI is limited by the caliber of customer data. Data silos kill “AI.”
+If you’re an on-premise customer modernizing complex landscapes, you might be able to build a Coleman skill in a day, but I doubt you’ll be able to benefit from accurate predictive models without some intense data cleansing. Forget a day – that could take a year. Infor should share how they help customers on the data side. They should share Coleman data preparation advice onstage and off, and warn that quick AI projects are only as good as your data infrastructure. I hear some of that in their positioning, but there is room for more.
+Even if an upgrade to a modern ERP product like Infor CloudSuite is a ways off, it’s never too early to rethink your data architecture. Consumers can fire up their smart phones and talk to Siri or Alexa. If Infor can get enterprise users to that point, be it for voice, text, or the newly-announced “Coleman Vision,” it will a big milestone for their self-described ambition to build “beautiful business software”. Making ERP easy to interact with may not sound beautiful, but for users, it sure is.
+Image credit - Infor photos and live screen shots by Jon Reed. Disclosure - Infor paid the bulk of my expenses to attend Inforum 2018. Read more on: Digital skills and trainingHCM and the digital future of workIoT robotics and AIMachine intelligence and AI 

@@ -1,0 +1,73 @@
+
+Since we launched diginomica, I’ve written more than 50 pieces on content strategy. The most important is Why UX has fundamentally changed content’s winners and losers, which stemmed from Content strategy takes a big shift – why I was wrong. I get into why even the best content is now subservient to user experience and distribution platforms. The fourth criteria, engagement, is elusive but requires the other three before we can get there.
+That brings us to SEO (Search Engine Optimization). My experience is that enterprisey types don’t care about SEO; they find it to be wonky or irrelevant to their obsession with social content “engagement.” But the latest stats confirm that for most sites, organic search still dwarfs social in terms of traffic referral power. SEO matters because many enterprises are looking to attract and convert the smaller portion of their audience that might purchase something substantial.
+Yeah, SEO matters – but you don’t have to get too deep in the tech weeds
+Your web site is still the most potent lead attraction hub, simply because you have the most control over the real estate (that doesn’t give the green light to throw up annoying pop-ups or sign-up offers, however!). So it goes to reason that SEO does matter. That fits well with a focus on content distribution platforms.
+There is good news for folks sick of SEO wonkiness: a good chunk of “white hat” SEO – the kind that doesn’t get you in line for a Google penalty – is not technical. Most content management systems, combined with an SEO plug in of some kind (we use Yoast for WordPress at diginomica), get you pretty far along the path. But there are new SEO dynamics to consider that didn’t even exist five years ago, including auto-suggest search, video consumption shifts, and of course mobile.
+While at Collision 2016 in New Orleans, I caught the tail end of a sharp presentation on SEO by Rand Fishkin, who describes himself as the “Wizard of Moz.” You can check the presso online; some of the slides are tough to decipher without benefit of audio context, but I’ll hit a few high points for you here.
+Five SEO trends to monitor – and some tips as we go
+Fishkin hits a lot of trends; not all are equally relevant for our purposes. Here’s my picks:
+1. Organic search still matters – Fishkin shared surprising stats from SimilarWeb on the Top Global Online Marketing Channels:
+
+Direct traffic: 43.38%
+Referalls (web sites): 21.232%
+Search: 27%
+Social: 5.81%
+Email: .36%
+Display ads: 1.52%
+
+We could piddle this piece away debating the significance of these numbers (this is raw traffic). For example email referral traffic, while not high in volume, can be potent and targeted. Social can also be powerful if it’s the result of subject matter experts pushing relevant traffic, rather than a viral, off-topic surge.
+Display ads can be mocked but if those ads are leading directly to sustainable product conversions, that’s nothing to scoff at. For now, the takeaway is that search is still potent, and Google remains the dominant search player in North America, to the tune of 60-85 percent of the total search market, depending on who you ask.
+2. Facebook’s dominance now includes a serious run at YouTube for video views – This is less relevant to on-site SEO, but Facebook is making a big run at video views, narrowing the gap with YouTube to about 20 percent less total video views. Den has written on Facebook Live for enterprise, but there are ways of linking out from both YouTube and Facebook videos (as well as embedding videos) that may prove beneficial.
+3. Google now penalizes sites with poor mobile UX – Fishkin notes that “Google has gone mobile.” Since April 21, 2015, Google’s algorithm now factors in mobile site friendliness. The need for mobile-first looks is a no-brainer, but I still see some clunky sites out there. A related metric that Google also accounts for is page loading speed – a non-negotiable mobile characteristic. (Google has a free mobile-friendly test, your mileage may vary so consult an expert if the results confuse).
+Fishkin points to a related tactic called “answers,” where you will now see in-line results for one listing at the top of many searches, particularly on mobile. It varies whether referral traffic goes up or down when an answer is shown online; I’d guess that for most enterprise sites being featured as an “answer” site would be a good thing, as most enterprise answers require context that should lead thoughtful searchers back to your site.
+4. Google+ wasted our time with “authorship”, and G+ results have now been replaced again by Twitter. (G+ also got its ass kicked by Yelp). Google Plus isn’t dead, but it’s search relevance is. Most of the local integrations to G+ are gone. I still advise businesses that care about local ratings to pay attention to Google’s organic reviews using Google Maps/Search on mobile. But no more messing around with local shops on G+. Twitter has also become Google search’s social graph. At Collision 2016, Fishkin estimated 7 percent of Google’s search results from Twitter.
+At a time when many enterprisey folks are giving up on Twitter for being a useless marketing noise machine, the search prominence of tweets should give pause. Surprisingly, Fishkin suggests continuing to post on Google Plus. Fine – if it’s fully automated. I advise:
+
+Be wary of over-investing time on Twitter, but use it for events and use it just enough to maintain Google search viability on key content topics.
+Walk away from Google Plus, though you can auto-post content there if you like.
+
+5. Links still matter greatly for SEO, though link volume is only helpful from quality sites. Yep, links are still the heart of good SEO. When authority sites in your industry link to you, good things happen. Google won’t be impressed with thousands of links from one low-ranking site that has you in their resource directory. But the more quality links you have from authority domains in your industry, the better. The problem is you have to earn those links the hard way, with terrific content. Fishkin references a site, SEOauv, that goes in-depth into why linking matters, with stats. Comparisons with other SEO tactics are included.
+ Tip: if you have expert employees who blog on other sites, make sure they are adding contextual links back to authority content on your own site (contextual links are links that indicate the content they are linking to. Example: my old SEO guide).
+A few more trends to parse –  Amazon, new search channels, machine learning
+Amazon is closing the gap on web search for how people begin their product searches (from 12 percent starting on Amazon in 2012 to 34 percent starting on Amazon in 2014). This matters to consumer products companies in particular, though clever companies could also offer their content in Kindle format and look to win some of those Amazon search results.
+Fishkin advises not to ignore other search channels that aren’t Google. He lists Bing, though I don’t care about Bing. I care more about segmented audiences. Examples:
+
+Yelp – a serious factor all businesses with retail/storefronts must reckon with. Yelp basically owns hyperlocal search right now.
+Amazon – retail/products/publishers as per above.
+YouTube – still one of the dominant search engines, dictating the need for cross-posting video content and careful thought into YouTube titles/keywords.
+
+Fishkin goes into detail on Google’s increased use of machine learning. One area this impacts is engagement, such as how many people click on your search listing. If folks are clicking on your listing often, that might override page rank regarding the prominence of your listing.
+Other tips from Fishkin:
+See where your competition gets its traffic – the tools for competitive analysis are plentiful, and getting better. Fishkin uses a slide from SimilarWebPro; diginomica has used competitive analysis from a paid Buzzsumo account.
+The wrap – how my old SEO advice shows its flaws
+Many years before diginomica, I published a Defiant guide to search engine optimization. At the time, lashing out against SEO wonks made sense. After making fun of keyword stuffing and other discredited tactics, I wrote:
+[SEO] is amazingly simple when you come down to it: people like edgy, original, authoritative content from industry specialists who know what the heck they are talking about.
+That still stands. But in the article, I also weighted the percentages for on-page SEO. Those haven’t aged so well. Here’s the old version:
+
+80 percent: Inbound links from well-regarded web sites in the your field.
+10 percent: An appropriate browser title that contains a keyword-rich phrase that matches well with the content featured on the page.
+2.5 percent: URLs that contain the relevant keywords from your content.
+2.5 percent: Appropriate use of “H” tags in an article, particularly the use of H1 and H2.
+2.5 percent Ensuring that most of your content is not buried too deeply in subdirectories or in a proprietary framework that Google can’t understand.
+2.5 percent: Page-specifica meta descriptions.
+
+Here’s how I would rank them today (note the new additions):
+
+60 percent: Inbound links from well-regarded web sites in your field.
+20 percent: A fast loading, extremely mobile-friendly site.
+10 percent: An appropriate browser title that contains a keyword-rich phrase that matches well with the content featured on the page. Browser titles must also be catchy – without being misleading or sensational.
+2.5 percent: URLs that contain the relevant keywords from your content.
+2.5 percent: Appropriate use of “H” tags in an article, particularly the use of H1 and H2.
+2.5 percent Ensuring that most of your content is not buried too deeply in subdirectories or in a proprietary framework that Google can’t understand. This means rigorous compliance with Google Search Console, a free tool provided to webmasters. This 2.5 percent now includes uploading sitemaps, fixing dead pages and so on.
+2.5 percent: Page-specific meta descriptions, which means inserting your own language using an SEO tool.
+
+You could argue 20 percent is far too low for a fast, mobile-friendly site today. The article page title is a very sticky wicket: we still need a keyword-rich title, but not at the expense of a catchy headline. We live in the tyranny of social headlines today – that means the bland, keyword-loaded titles of old don’t fly.
+I keep hearing that social engagement is key to search engine positioning, but I have yet to see any stats or examples that support it. Doesn’t mean social engagement is irrelevant, but in purely algorithmic terms I need to see more. I also hear experts assuring us that “there is no such thing as a duplicate content penalty.” Since I personally know of businesses that have gone under due to this issue, I know different.
+For enterprises, a better way to think about it is: if you cross-post an article on different channels, Google is going to pick one of those public postings as the prioritized version of that content. If that’s a thought leadership style piece, getting more exposure for it on LinkedIn might make sense, even if it costs you on-site traffic. But if the article is specific to your products and keyword rich to your industry, I’d advise posting it only once, on your own web site, and living with lesser exposure if needed to gain search authority and lead conversion possibilities.
+Finally, I found Fishkin’s advice on Google search answers and auto-suggest a bit lacking, given that there isn’t a lot you can do to influence that aside from building your brand and putting out kickass content. Perhaps auto-suggest will convince some B2B brands not to change their product names so spastically, but that’s about it.
+Out of Fishkin’s 52 slides, I had to push to 51 to hit the motherlode. This slide speaks volumes:
+
+From The 5 Biggest Trends in SEO: 2016 by Rand Fishkin
+Fishkin nails it – our content needs to meet the needs of our audience wherever they might be in the process. Research and discovery content matters just as much as pre-sales content. That part of the “old SEO” carries well into the new. It compels us to treat our audiences as humans with problems, not just leads to convert.
+Image credit - Male hand knocking down a line of domino with the first one hold © Gajus - Fotolia.com. Screen shot from Fishkin presentation linked and credited above.Read more on: Content marketingDigital and content marketingMobileUser experience 

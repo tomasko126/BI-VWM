@@ -1,0 +1,44 @@
+
+So you and your tech-savvy friends want to do a startup in Brazil. But there’s a catch: you want to solve a big social problem. In the case of Pedro Dusso and his friends, they found a cause to embrace: fighting hunger. And they uncovered a way to pursue it with their tech/data savvy: by creating a smart farming solution for Brazilian farmers.
+Their journey led them all the way to Orlando, where their company Aegro placed second in SAP’s 2016 HANA Innovation Awards (see their entry background here). We got Pedro on the diginomica video couch, which led to one of the highlight videos on our Sapphire Now playlist.
+On their HANA award entry, Aegro makes a powerful case for easing hunger through agricultural efficiency:
+
+As per the World Food Program, 805 million people go to bed hungry every day. 3/4 of the affected population live in the countryside, almost solely dependent on agriculture for their subsistence.
+Hunger in the countryside is still a reality, especially in small villages of Asia and Africa. These populations are vulnerable to crises.
+The land these at-risk populations try to farm on is precarious, exposed to natural disasters such as drought or flooding.
+
+Smarter agriculture can help with everything from erosion to productivity loss:
+
+The World Resources Institute estimates that nearly 40 percent of the world’s agricultural lands are depleted in some way.
+Depletion of arable lands is happening through either the development, or through agricultural practices that lead to erosion, salination, or simple loss of productivity through over-use.
+The depletion of groundwater used for irrigation is a particular problem in certain parts of the world.
+
+The startup path to smart farming
+All this leads to production inefficiency, an unacceptable circumstance given the vast problem of hunger. And that’s where Dusso and his colleagues stepped in, founding Aegro in Brazil two years ago, hoping to go from ideas to impact. I picked up the video story there. In 2014, Dusso and his friends had just moved back to Brazil from Germany. They wanted to make a difference, but how – and in what industry? Dusso:
+We were looking for something to innovate, searching for some real problems to start working with… Then one of our co-founders had a problem to discuss between us, about how agronomists have to handle such large amounts of data nowadays. They spend hours using spreadsheets and trying to make graphs and stuff.
+But all that poring over data doesn’t necessarily lead to meaningful action:
+It’s really just data, because they really can’t get any information from that. You spend like six, eight months recording stuff on the hope that if you need it in the next year you have it there, but in the end, you never consider that again.
+So why is the Aegro team so excited about smart farming?
+I think the most exciting thing about smart farming are not the sensors, in the end, are not the links, are not all that big data stuff. It’s simply the decision supporting system that concentrates all of that. The real thing about smart farming is giving agronomists and farmers the power to make better decisions based on the information which is always there. We just have to make the connections.
+Dusso and his team went into the fields, talking to farmers firsthand. What they learned made them even more determined:
+First thing we learned when we went to the fields was that farmers don’t even know what they buy, how much they spend on seeds, or how much they spend on spraying. They don’t have basic skills of management.
+Another issue: the farmers weren’t experts with smart phones. But they did know a lot about complex machinery:
+They are smart people, they are used to driving John Deere machines, which cost millions, and I don’t how even to turn one on… but they are not used to smart phones and computers. Sometimes they are even afraid to make mistakes, et cetera.
+That meant Aegro had to think beyond pulling in machine data. The end result had to be an app that was super easy for farmers to use. They decided to build an app, get feedback, and build trust from there: “[Usability] was a really big challenge.”
+HANA and the SAP startup program – a timely encounter
+Aegro decided to design a simple app, get feedback from farmers, earn trust, and go from there. It had to be easy for the farmers to do queries, and access useful tools. So they built the app, but pulling in the data sources was posing problems. Then, Dusso and team received a fortuitous introduction to the SAP startup program, via SAP Lab’s São Leopoldo office – not far from Aegro’s location in Porto Alegre:
+It came at a really great time, because we were starting to put our product outside and starting to receive the first feedback. As you said, we were thinking about matching all the different data sources. In the first moment we said, “Okay, this is a little bit too much for us to handle. If every farmer starts reporting from their mobile, we will have some troubles, especially in the beginning.” And then the partnership with SAP came.
+HANA showed promise to handle the data ingestion issues, as well as the querying needs and clustering algorithms: “Everything was ready there; we just had to pull information in.” So Aegro joined Startup Focus, the SAP startup program for big data and analytics applications. Four months later, the product was technically validated and released into the wild. Dusso describes Aegro as a platform for managing the agriculture production system, which involves productivity, financial control, and commercial control of farms.
+Fast forward to Sapphire Now, When I spoke with Dusso, they had fifty people using their system, from several clients. With, hopefully, many more to come.
+A real-world example – pest control
+When I asked Dusso for an example of how Aegro can help farmers, he brought up the damaging issue of pest control. An infested farm can ruin a whole season, or put a farm at risk. So how can data help? Dusso told me that traditionally, farmers go out to their crops and spray, usually based on a manual check. But that doesn’t provide historical insight:
+All that historical information is lost. You don’t how many years it been the same thing, or in the same place, and that if you just tweaked something, you could solve the problem… That’s why registering all this information is so important.
+Then there is the power of a cloud-based app, which can pull together data from neighboring farms to spot patterns:
+My farm can be near your farm, but if we don’t know each other, we can’t share this information. Putting this on the cloud, we can start sharing it: “Okay, Jon. Pedro just reported some insects on his farm. Why don’t you get prepared, buy your products, start spraying?” For these scenarios, Dusso sees how real-time HANA alerts will be a real asset.
+For Aegro’s aspirations, it’s still early days, but how have farmers received the system so far?
+It’s incredible. For them, sometimes it’s magic, but it’s nice to sell magic. When people see it and it works, they say, “Oh my God. How could I live without this before?”
+That type of feedback is all the motivational fuel Aegro needs. I look forward to tracking their progress.
+
+Editor’s note: some quotes from video slightly edited for reading clarity. Hopefully no readers take offense at calling Aegro “award-winning” though it finished in second place. The competition was steep and Aegro was officially a finalist.
+
+Image credit - Screen shot from video shoot with Aegro.Disclosure - SAP covered the bulk of our travel expenses to Sapphire Now, and funded the majority of our technical expenses pertaining to these video shoots, including equipment shipping. However, we filmed and produced these shoots at our own expense, and had full editorial control over the contents. SAP is a diginomica premier partner. I served as a judge in the HANA Innovation Awards, a volunteer commitment. Aegro was one of the applications I rated, but SAP chose which of the innovation award finalists to confirm for our video interview.Read more on: Analytics planning and data analysisFuture of workInternet of Things 

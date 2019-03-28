@@ -1,0 +1,54 @@
+
+Aaron Levie
+Box remains unprofitable, but Wall Street was cheered yesterday by 40% year-on-year full year revenue growth and a forecast of 30% growth for the next 12 months.
+The cloud collaboration firm ended its 2016 fiscal year with revenue of $303 million and an operating loss of $201 million, up from $166.6 million. But the share price rose 13% after the results were issued with investors seemingly cheered by stats such as: 
+
+3,000 new customers in Q4.   
+13 Q4 deals over $500,000.
+66 Q4 deals over $100,000. 
+57,000 total paying customers. 
+Customers representing 59% of Fortune 500, compared to 55% in previous quarter. 
+
+Box founder and CEO Aaron Levie cited the Box Governance compliance offering as a major contributor to growth across the year, with deployments doubling in Q4 to hit the 200 mark. Alongside the more recent Box KeySafe encryption key management offering, Box Governance leads to a 20-30% price uplift, said Levie:
+
+
+Organizations like Genentech, Bain Capital, and The Home Depot, all adopted Box Governance as part of choosing Box. As one example, a Fortune 500 financial services company adopted Box Governance as part of its decision to deploy Box across its entire organization. The company is moving forward with an aggressive innovation agenda to modernize how they work and collaborate across their workforce.Box is one of the key elements in this strategy. In general, we are seeing growing interest from our customers who want to use Box Governance to meet legal and compliance requirements for data retention.
+
+ October’s launch of Box Platform has clearly yet to have a particular bottom line impact, but Levie pointed to what he called “significant traction” in industries such as financial services, legs and health care:
+
+Essentially any business that is trying to digitize its collaboration and sharing of content to its customers or to its partners is a very relevant potential customer of our platform.
+
+He picked out one early win: 
+
+LegalZoom will be leveraging Box Platform to build a secure, collaborative portal for its customers. Given the confidential nature of legal documents, it’s essential that LegalZoom create experiences that are not only customer-centric and personalized, but also highly secure. With Box Platform, LegalZoom customers will access, edit and store their legal documents digitally, as well as share them securely with attorneys, accountants and partners. We’re seeing similar use-cases emerge in almost every industry, where secure collaboration around content from medical images to documents is an essential part of everyday workflows.
+
+Who you know
+Box has also been putting a lot of effort into building stronger partnership relationships in the increasingly competitive collaboration space. These include: 
+
+An extension to the firm’s sales relationship with IBM, which led to “a couple of our largest deals in the quarter”.
+An upgraded Salesforce technology partnership, such that Box will be available as a native experience to let users store and share files from the Salesforce interface.
+An announcement from Microsoft of real-time co-authoring of Office files from Box, native integration of Box into outlook.com and the ability to edit files from within Office on IoS.
+
+These relationships are paying off commercially, said Levie:
+
+Many of our largest deals in Q4 came from customers rolling out Office 365 alongside Box. Customers see incredible value in being able to deploy Box and Office 365 together. For example, in the quarter, Flex, previously known as Flextronics, a global supply chain solution provider, needed a content management platform that would make it easy for 200,000 employees to share files and collaborate globally on any device.
+
+He added that there are certain trends that are emerging from the Microsoft relationship: 
+
+The first is customers that have deployed Office365 maybe a year ago, a year-and-a-half ago, are starting to recognize that there are still major deficiencies from a content management and a file sharing and collaboration standpoint. And so, some customers post-Office365 deployment come to us. I assume they’ve kind of recognized that need in that gap.
+But a more exciting trend for us that we’re starting to see is at the point of deploying Office365, when a customer is really trying to think through their long-term content management strategy, in the context of their overall IT architecture, not just Office365, they tend to recognize that they need something that’s going to sit between Office365, Salesforce.com, NetSuite, any one of our third party partners as well as solve a lot of the extended content management capabilities that we offer.
+So we’re seeing a trend where the teams that are driving the deployments of Office365 are doing that alongside a Box deployment, where Box comes as the file sharing collaboration and content management capability. Office365 is towering the office suite, Outlook and user productivity services and we’re going in together as a single deployment. So it’s really about solving for a much broader set of problems than what Office365 solves.
+
+Looking ahead, Levie sees the potential for more partnerships to come, pitching Box as a SaaS-agnostic solution: 
+
+As enterprises have 10 or 20 or 30 different SaaS applications, they don’t want to have silos of files in each of those applications. They need a single model for governing that content, for encrypting it, for searching it, for sharing it. And you can’t do that if you have 20 or 30 different systems that all have completely different approaches to dealing with files. 
+You can kind of think about our growth trajectory as going alongside the more SaaS that an enterprise has and the more heterogeneity of the vendors that they work with, the more that they will need a singular content management platform. So any place where you would want to have access to content or document or media, but you don’t want to store that in a silo-ed approach, you’re going to want to have a universal or agnostic backend from a content management standpoint.
+
+Levie concluded:
+
+Last year was a pretty symbolic year for us. It was the first time that we introduced additional services to sell on top of the core Box offering. And so, for us last year was really building some of the early kind of methodologies and this is based on technology we’ve been working on for two or three years in many cases. Now, it’s all about sort of accelerating and amplifying those efforts.
+
+My take
+It’s as much about who you know as what you do sometimes. Clearly the IBM and Microsoft relationships are paying off for Box. We’ll have to wait and see how the Salesforce technology tie-up goes in coming quarters. It’s not clear from where I’m sitting if Salesforce intends to put ‘go to market’ push behind this for Box in the same way that Microsoft appears to be doing. 
+But Wall Street was clearly cheered by both those ‘big name’ relationships and encouraging customer growth numbers. This remains a hugely competitive market sector and there’s still no clear winner. That said, Box appears to be holding its own for now, despite its continuing losses. 
+Disclosure - At time of writing, Salesforce is a premier partner of diginomica. Read more on: Collaboration sharing and digital productivityData privacyGoverning identity privacy and securityUser experience 

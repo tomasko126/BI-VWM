@@ -1,0 +1,52 @@
+
+Marc Benioff
+There’s a sort of irony – albeit one that won’t be appreciated at Salesforce right now – that as the Connections conference in Atlanta was flagging up the social outreach capabilities of Marketing Cloud, the firm itself was fire-fighting the impact of a major outage using those same tools. 
+Problems began with the outage of the NA14 instance, one of 45 database instances in the US, on 10 May. The NA14 instance had reportedly been moved to a new site in Washington DC eight hours before the outage. Prior to that, a circuit breaker failure caused two hours of downtime at its former primary home in Herndon, Virginia.
+Yesterday morning, the instance was back up, but as of this morning (12 May, GMT) is still showing performance degradation to be an issue, according to the Salesforce Trust page.
+According to Salesforce Trust: 
+
+We have resolved the service disruption impacting the NA14 instance.
+
+There was an initial performance degradation beginning at 12:41 UTC followed by a service disruption beginning at 13:31 UTC on May 10, 2016. The disruption was resolved as of 09:30 UTC on May 11, 2016.
+The NA14 instance continues to operate in a degraded state. Customers can access the Salesforce service, but we have temporarily suspended some functionality such as weekly exports and sandbox copy functionality.
+
+As of now, Salesforce has a number of challenges facing it over this outage. 
+Firstly, getting NA14 back up and running properly. While there’s yet to be a full explanation of what’s gone wrong, it looks to have been a problem with the back-end Oracle database technology:
+
+The service disruption was caused by a database failure on the NA14 instance, which introduced a file integrity issue in the NA14 database.
+
+Secondly, and from a PR and messaging PoV a tricky one, the fix that’s been put in place has carried a high price – the loss of at least five hours worth of customer data. As Salesforce Trust explains: 
+
+The issue was resolved by restoring NA14 from a prior backup, which was not impacted by the file integrity issues. We have determined that data written to the NA14 instance between 9:53 UTC and 14:53 UTC on May 10, 2016 could not be restored.
+
+ Clearly this can’t have been an easy decision to take, but was preferable to Option C as outlined on Salesforce Trust, which would have taken another day to kick-in:
+
+But if you’re a customer who’s lost five hours of data on top of a long period of downtime, you’re probably mad as hell this morning.
+In fact, inevitably, there were plenty of customers who were already hacked off and venting their frustrations on Twitter and other social channels:
+
+
+CEO Marc Benioff took to Twitter himself to try to calm the situation:
+
+But there was criticism from customers about lack of information and even an accusation of lack of transparency:
+
+
+This is something that will – and should – ring alarm bells within Salesforce. After the firm’s first major outage during the holiday season in 2006, Salesforce Trust was set up in order to enable customers to have a real-time view of service levels worldwide. Since then, Benioff and the executive team have pointed to Salesforce Trust as emblematic of the firm’s desire to be as transparent as possible. 
+But that doesn’t seem to have been enough for some users, who complained about the lack of information available:
+
+Now there’s a balance to be struck here, of course. If you’ve got an outage on your hands, you want all your resources dedicated to fixing that, not to providing a running commentary on the situation.
+But customers need to be kept in the loop and in this case, clearly there were unhappy users who didn’t feel they were being kept up-to-date.
+And of course, while the complaints began with NA14, the opportunity was taken to air other grievances in a public domain:
+
+All told, not the best of days for Salesforce – but an even worse one potentially for some of their customers. An outage like this has a serious impact on business performance:
+
+For a self-styled customer company, that’s the real pain point.
+My take 
+Customer data was lost. 
+We don’t know how much or how many people were affected or what the ultimate impact of that will be, but those four words aren’t what anyone in the SaaS industry needs to be reading. 
+This was clearly a major outage that’s caused problems for a sub-set of the Salesforce customer base – the main point at issue here, needless to say – and a big PR and marketing problem for the company to head off. 
+The next question – already being asked online – is what Salesforce intends to do to compensate/placate those customers whose data has been lost. Whatever the marketing problems for Salesforce, it’s what the impact was on the customers that has to be the priority. 
+Then there will be the question of how to handle the inevitable FUD (Fear, Uncertainty and Doubt) that will be chucked over the wall by competitors. (To those who do, just be careful what you wish for here. Could be you next and spreading FUD about the SaaS model isn’t going to help anyone in the long run.)
+As Connections winds down in the US, the Salesforce World Tour is back in Europe next week at London’s Excel. Back in March, the EU2 instance went offline for 10 hours, seemingly the result of a storage issue. This isn’t going to be a life-threatening issue for Salesforce, but there will be organizations attending the World Tour next week who might be found looking for some assurances. 
+In the meantime, with an eye to the future and the inevitable outages that will occur, a revisiting of the crisis comms strategy might be in order. Having the CEO hit Twitter is great and shows willingness to engage, but he can’t DM everyone. 
+I’m not sure what the answer is here, but I’d suggest it’s worth kicking around some ideas, because this isn’t the last time Salesforce – and other SaaS firms – will be in this position. 
+Image credit - Salesforce Disclosure - At time of writing, Oracle and Salesforce are premier partners of diginomica. Read more on: Cloud platforms - infrastructure and architectureCRM and customer experience 

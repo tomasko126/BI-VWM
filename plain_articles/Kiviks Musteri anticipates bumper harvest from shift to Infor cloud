@@ -1,0 +1,25 @@
+
+
+In 1888, Henric Akesson planted the first apple trees on his property in Kivik, Sweden that would go on to become the country’s first commercial fruit farm. He also laid the foundations for a business, Kiviks Musteri, that remains in the hands of the fourth generation of Akesson’s family, albeit operating on a rather grander scale. 
+Today, Kiviks produces a wide range of fruit and berry-based foods, including cider, juices, sauces and cakes. Visitors to Kivik, meanwhile, will find a farm shop, a restaurant and cafe, a museum and a tree nursery at the company’s site, as well as orchards boasting apples of 70 different varieties. 
+Respecting the traditions of the past, while embracing the opportunities of the present, is a big theme at Kiviks, according to company chief financial officer Mattias Wistrand. Over the past seven years, he says, the company has doubled in size, both in revenue terms and in staff numbers. The stock keeping units [SKUs] associated with its large product range have grown even more, he says. 
+That growth has introduced new complexities with which the company’s ageing IT systems have struggled to contend. For almost twenty years, Kiviks has been running Movex as its enterprise resource planning (ERP) system on IBM’s AS/400 midrange proprietary servers. That makes sense, given that Movex was still owned by its original developer, Swedish software company Intentia, when Kiviks invested in the system back in 1998. Since then, the software has changed hands several times: Intentia merged with Lawson in 2006 and Lawson was in turn acquired by Infor in 2011. Says Wistrand:
+
+We’ve adapted all our processes to that old system and it was time for a change – both in our systems and in our working processes.
+
+But in a nod to the long service that its ERP system has put in over the years – and in part to sidestep the complexities of a wholesale shift to another system entirely – Kiviks is sticking with Infor, investing in Infor CloudSuite Food & Beverage, which is built on Infor M3, the software that’s evolved from the original Movex package. Says Wistrand: 
+
+In a sense this was not such a difficult decision for us. Since we’re such a small organization with a long history with Movex, it was quite easy for us to see that the migration project, even to a modern M3 cloud suite, would be much less complicated to handle. We did of course look at other systems, but in every case we looked at, we realized our small company couldn’t handle a move to Microsoft Dynamics AX or something like that, because it would be too abrupt and too complex for our IT team of 1.5 people. So we’ve looked at this as more of an upgrade than a migration.
+
+Coming up
+With the system now being tested, ahead of a ‘go live’ date set for 4 September, staff at Kiviks have been enthusiastic about what they’ve seen, he adds:
+
+Staff recognize themselves and their roles and our products in the new system because everything is called by the same names as in the old system. It looks very different, much more modern, of course, but everyone feels at home. And that was one of the main goals we had, to ensure the organization feels at home from the start because elsewhere the changes will be big.
+
+In terms of those changes, he points to new features and functions that will help Kiviks with the timing of harvesting and the traceability of its raw materials. Apples grow more slowly in Sweden, due to its cold northern climate and take time to develop the best aroma and flavour – but they must be picked at precisely the right moment and the processing window is short. Says Wistrand:
+
+The right IT platform can ensure rigor in our processes, helping to maximize yield and boost revenue opportunities. And with the move to the cloud, we secure the possibility to continue to grow without having to take care of IT resources ourselves. That’s very important to us, because we have a growth strategy to follow and we’ll continue to do that over the next five to ten years – so we need a platform that will grow with us, without having to hire new staff or buy new servers. We need the scalability of the cloud.
+There are still lots of things to be done and the pressure is on as we work on our processes, documentation, testing and data migration. But I always wanted to change this system since I first started working at Kiviks [two years ago] and now I get the opportunity to do it the right way.
+
+
+Image credit - KiviksDisclosure - At time of writing, Infor is a premier partner of diginomica Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureDigital enterprise in the real world 

@@ -1,0 +1,50 @@
+
+Barth at Connected Enterprise 2017
+With all the happy talk about AI and blockchain we’ve been hearing, we can lose track of where the traction really is. The open sourcing of the enterprise immediately comes to mind.
+At Constellation Research‘s Connected Enterprise 2017, I tracked down Alex Barth of Mapbox to talk about their location-platform – and how open source has driven their growth.
+Mapbox is a location platform for developers and designers. If you’re looking to build a location-based app, and you want a customizable map component, that’s where Mapbox fits in. With 800,000 registered developers on their platform, the “sign up and get to work” model is paying off. 300 million unique IPs access Mapbox every month.
+All those users bring data into the platform, improving Mapbox with each iteration. For Barth, VP of Business Development and a long-time open source advocate, that’s huge:
+What’s special and unique about Mapbox is that the usage of our customers improves the map down the line map. We’re collecting about 200 million miles of road and telemetry today from our embedded mobile SDKs. It’s a lot of data. This is about 4, 5 rimes what Waze did when Google bought it. That helps us discover new roadways, runways, build realtime traffic, and build predictive traffic – to really understand how people get from A to B.
+Think Waze, but you can take it and customize:
+It’s a little bit like we’ve built Waze except it’s not an app; it’s a platform and you can plug this directly into your application. This is huge for logistics, ridesharing, delivery on demand, supply chain management, and so forth.
+And yeah – it’s useful for IoT scenarios also. Mapbox began as an internal product to serve their own clients better, but once they released into the open source wild, it took off. Mapbox now counts 300 employees and offices in San Francisco, DC, Bangalore, Shanghai, and Berlin. They’ve been through a few funding rounds:
+Recently we announced the SoftBank investment worth $164 million, so it’s really just going to put the rocket boosters on now.
+So how do they monetize without excluding smaller developers?
+No matter whether your company’s big or small, it depends on how much of Mapbox you use and what value you get out of that. So the vast majority of our customers would be the ones who sign up with a credit card, and buy as you go from Mapbox.com.
+Building an open source business model
+As clients pick up steam on the platform, they can engage Mapbox further:
+We have enterprise tiers where we’re tailored our offering for our customers. When you talk about customers like the Weather Channel, or Snap, they would be in an enterprise tier, where we tailor our offering to their specific needs. It’s always usage-based. It always comes down to, “Okay, what is the value that you get from the Mapbox platform?” Then we tailor this to your cost structure and your reality.
+Mapbox uses range from a realtor who wants to customize an app with their own neighborhood names for a curated showcase, or the example of Snap, which uses Mapbox to give users an instant geolocation of their connections around the world. Here’s a sample view of the “Snap Map”:
+
+(see more demo pictures and tech of Snap Map on Mapbox.com)
+Mapbox lets customers fork Mapbox code, which in turn informs the product:
+Our code is in open repositories on GitHub. Often times, the rule will be that our customers fork from there, and we see what they’ve modified. And if it helps us, that can form a future road map. Sometimes we just take exactly the code from them, because it’s actually very good code that they have written.
+Crowdsourcing map improvements sounds cool – but what about privacy implications?  Barth:
+We’re very, very careful to draw a line of what Mapbox is interested in… We’re focused on collecting the anonymous, the aggregated information that helps us improve our maps. We don’t want your advertising IDs, your PII information, or the PII information of your customers. That is all yours.
+Barth says that “open source has helped us subvert the market.” They’ve created standards that are being adopted across the industry because they are open source. Their Mapbox vector tiles standard covers spatial data protocols in map tiles.
+That’s a completely open standard. We maintain the standard, but it’s published and completely open… There’s no licensing costs of patents incurred by using that standard.
+Mapbox also works with as many open source components as possible. “Open data” is the driving principle:
+We build substantial parts of our maps on open data sources like OpenAddresses or OpenStreetMap or Wikipedia’s Wikidata. Those provide a foundational layer for some of our customers to engage with.
+The open source approach has proven itself on the talent side:
+Open source is also a recruiting tool. We find some work of the smartest developers out there in open source spaces. They start contributing and using Mapbox tools as developers and they become, over time, Mapbox employees.
+Future customers bubble up from their use of the platform. Unlike the typical enterprise sales process, some of these customers are literally “no touch”:
+They have actually been working with Mapbox before we had a conversation with them. It’s the combination that our code is open source, but it’s also very easy to sign up to the platform without a human interaction with Mapbox.
+Contrasting virtual reality and augmented reality
+At Connected Enterprise, Barth appeared on a Virtual Reality/Augmented Reality panel. He makes a big distinction between the two:
+VR and AR are two very different animals. They sound very similar, but they actually drive very  different applications. The tech is in some ways similar, but the use cases you end up driving are just so different. The way we’re interacting, and what we’re powering with AR and VR, is our ability to bring geospatial content into these environments.
+Barth sees the AR/VR momentum from their integration with Unity, the game engine, and Mapbox’s mobile SDKs, which are big on the AR side. He also sees a “massive sea change” with Apple and Google’s investments in ARKit and ARCore respectively – “those are now really huge enabling factors on the AR side.”
+AR is the focus, with less barriers to entry. Use cases stem from smart phones and industrial devices:
+
+Location-based gaming – “this is going to be a huge exploratory field for people to discover new use cases.”
+Automotive – “navigation and safety applications are going to be huge.”
+Supply chain management – “industrial use cases where location-based information becomes relevant.
+ Real estate and asset management –  example noted above.
+
+VR has equipment and adoption obstacles that push timelines out. But Barth sees potential in immersive VR down the road:
+In VR, this is a lot more about, “How realistic can you get? How immersive can you get?” The immersion part is just so much stronger there, and so much more important. What’s so interesting about AR is that it’s about “How much can I augment and contextualize the information you look at, and make this useful for you to take an action on?” It’s just much more casual, like I’m just going to quickly use AR for a split second, and then I’m going to go back.
+Google Glass might be all-time goofy at conferences, but the industrial use cases are there. VR is getting traction in hands-free settings:
+I think ODG is doing really remarkable stuff there, and how they’re [building] step-by-step their use cases from military and industrial applications because it’s useful. If I need to be hands-free and need to look at a manual as I’m repairing something, I don’t need to have perfect mixed reality superimposition of 3D objects in the real world. I just need to look at something. I need to be able to pull up documentation and throw it away when I don’t need it anymore, and I think that’s interesting. That’s huge.
+Update: I didn’t see the story on Snap’s struggle with Snap goggles until two days after I interviewed Barth (It has been alleged by a couple reputable tech sources that No one is buying Snap’s Spectacles, though Snap has yet to respond and has offered rosier views of its Spectacles adoption in the past). I don’t see a conflict here with Barth’s views; Snap’s Mapbox use requires no change in user behavior or gear. The AR/VR Spectacles do. I’m bullish on wider adoption of virtual reality but in the near term, I don’t expect Snap to be the last company to scrape knees getting too far in front of VR equipment demand.
+Updated 7am UK time, October 30, with addition of last paragraph, resource links, and a few clarifications for ease of reading.
+ 
+Image credit - Screen cap of Snap Map from Mapbox.com, as credited above. Disclosure - Constellation Research provided my accommodations and press pass to attend Connected Enterprise 2017. Read more on: DevOps NoSQL and the open source stackOpen source 

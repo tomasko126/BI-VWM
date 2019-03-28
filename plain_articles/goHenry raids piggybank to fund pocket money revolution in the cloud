@@ -1,0 +1,31 @@
+
+It’s never too early to teach children how to spend their money wisely and to save for a rainy day. The 2016 pocket money survey from UK bank Halifax, which polls more than 1,200 British kids and 575 parents each year, shows that allowances have hit a nine-year high, with young people between the ages of eight and 15 receiving on average £6.55 ($8.55) per week, up from £6.20 ($8.09) a year earlier. Halifax also found that the number of children receiving pocket money rose to 81%, from 78% in 2015. 
+But what good are these new-found riches if their recipients don’t learn a little discipline around managing them well? That’s the thinking behind goHenry, which claims to be the UK’s first fully digital family banking solution designed to help young people manage their money and is aiming to fuel a ‘pocket money revolution’. 
+The start-up is sitting on some pretty hefty funds itself. It recently raised £4 million ($5.2 million) over three months through a crowdfunding exercise on CrowdCube, roundly beating its initial fundraising goal of £2 million. Of the 2,300 participants that invested in goHenry through CrowdCube, over half were current customers of the service, says CEO Alex Zivoder:
+
+That was extremely pleasing to me because it’s a great validation of what we’re all about. Parents recognize the value in helping their children to learn a skill – dealing with money – that we believe you need to acquire early on in life, the earlier the better, in fact. It’s like learning to swim or to read and write, because the more practice you get, and the more time you have to practice, the better you get at it.
+
+When parents subscribe to goHenry, at a cost of £2.49 per child, per month, their kids receive a pre-paid Visa card. The parents, in turn, get access to the goHenry mobile app, which controls that card, Zivoder explains:
+
+Using the app, they can turn off the card if it gets lost, which happens a lot with children. You can set limits to how much money your children can spend in a given week or on a given item and set rules around where the card can be used. So that’s how they learn how not to spend more than they have and because it’s a debit card, they can never go into overdraft. We steer away from the concept of credit.
+And on the earning side of things, we provide a way for parents to pay in a weekly allowance, a fixed amount each week, and also to make additional task- or chore-based payments, so if children walk the dog every day, they get an extra 50p; if they unload the dishwasher, that’s 20p, and so on.
+
+Today, there are around 300,000 UK family members in the goHenry community – around 130,000 parents and 170,000 children and the company is adding new members at a rate of around 15,000 per month. But Zivoder’s eye is firmly on international expansion: 
+
+I’m not building this business only to be a UK business. The goal is to bring financial education to children and their parents in other countries and continents.
+
+Infrastructure shift
+Since the former Expedia and Viagogo exec joined goHenry in June last year, the company has moved the infrastructure that underpins its website, its app and its back-end infrastructure to Rackspace. 
+Originally, he explains, the servers on which these systems sat were hosted by the IT services company that originally built the goHenry app. That approach came with several problems that threatened to undermine the company’s growth plans: the app was not under goHenry’s own control and the infrastructure frequently experienced outages. Zivoder explains: 
+
+That made our technology a constant subject of discussion. The goal was to put an end to those discussions, by moving to a partner that could deliver stability and reliability, while remaining more or less invisible to us.
+
+After a re-coding of the goHenry app, the migration to Rackspace was performed in the third quarter of 2015. Today, goHenry uses Rackspace’s VMware Managed Virtualisation service for both its front-end presence and its back-end operations. In this way, prospective customers use the public cloud to investigate the goHenry offering and are transferred to the private cloud for sign-ups and transactions. 
+The scalability of the service, meanwhile, means that goHenry keeps running during busy periods when young people are keen to spend their money – such as Saturday mornings, when the website receives five times more traffic than any other day of the week, school holidays and Christmas. 
+This, of course, means that goHenry’s own IT staff can focus their efforts on developing the service, improving the customer experience and introducing new features and functions. And its management team can devote their time, says Zivoder, to taking goHenry to the next level: 
+
+It’s impossible to focus on achieving large-scale growth if you are constantly distracted by day-to-day tasks that only maintain the business’s current growth. This is one of the main reasons we chose a managed cloud solution, because I can trust that our IT infrastructure will be run at a high standard by a team of Rackspace experts, so I can concentrate on work that helps us progress to our key growth goals.
+
+Speaking of growth goals, the Halifax survey shows that just over two-fifths of children are not satisfied with their weekly payouts, with 42% saying they should get more money than they do. At least with goHenry, parents have evidence on their spending patterns at their fingertips, allowing them to provide kids demanding a raise with a more detailed response than a simple ‘No chance’.
+
+Image credit - goHenryRead more on: Cloud platforms - infrastructure and architectureCRM and customer experienceDevOps NoSQL and the open source stackFinancial services and fintech 

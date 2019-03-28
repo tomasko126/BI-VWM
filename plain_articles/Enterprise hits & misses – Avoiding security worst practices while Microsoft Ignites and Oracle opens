@@ -1,0 +1,68 @@
+
+
+Lead story – Study reveals IT security and risk management need work at all companies by Den Howlett
+
+MyPOV: On the exhaust fumes of some of the worst breaches in data privacy we have ever seen (Equifax for consumers, Deloitte for enterprises comes this timely/disconcerting report from our research affiliate, Computer Economics. Den parses the data for our edification.
+Good news? Security has matured to the point there really are so-called “best practices” we can turn to. Bad? We’re not turning to them (enough).  Or as Den puts it:
+We often hear that security is considered ‘hard’ by both users and IT managers. The data in this report suggests that those ‘hard’ perceptions are used as an excuse to simply not bother, in some cases, even with the most basic safeguards. That was the conclusion among the cognoscenti following my piece on the Deloitte debacle.
+For the second straight week – ouch.
+Diginomica picks – my top two stories on diginomica this week
+
+Shifting mind-sets for a digital future – the real HR challenge –
+Janine dons her Virtual Reality goggles BS filter and pierces through HR tech for the real bugaboo: culture and policy.
+NIKE’s sporting chance to score digital success in retail – Stuart posted a flurry of retail updates, including his assessment that NIKE “remains a solid example of digital transformation in practice.” Bonus: for more retail coverage check my forays into Shop.org, where diginomica was a media partner.
+
+Oracle OpenWorld – blowout coverage begins
+Our diginomica OpenWorld coverage is in mid-swing – you can already check out a load of fresh analysis, interviews and use cases. Here’s a few picks:
+
+OOW17 – A conversation with Steve Miranda on SaaS progress and the pragmatism of Oracle’s vision – Den’s pre-conference Miranda interview hits on the future of SaaS/ERP, and how exhausted buzzwords like AI and machine learning boil down into pragmatic use. Is Miranda right? Den gives an early take, we’ll see what the week proves.
+OOW17 – How GE Digital accelerated Fusion integration with Oracle ICS – Jess with a use case winner – an “accelerated” Fusion ERP deployment, and boatloads of integrations via ICS.
+OOW17 – eliminate human labor, eliminate human error – Stuart got the short straw lottery winner and nailed our keynote review, with plenty of Ellison bluster to parse (AWS gets a slappin’). But the big news is the self-driving database, which, as Ellison (convincingly) argued, would have prevented the Equifax breach.
+
+Vendor analysis, diginomica style. Here’s my other top choices from our vendor coverage:
+
+State of Salesforce 2017 – AI adoption is being driven by C-Suite, but best owned by IT – Bluewolf’s sixth annual state-of-Salesforce report is heavy on – you guessed it – AI, but that’s “Augmented” Intelligence. Stuart’s on the case: “Of course all these AI ambitions are fine in theory, but need to be rolled out in practice and that’s where the IT department comes to the fore. The most successful companies will be those where IT ‘owns’ the Salesforce platform internally, suggests Bluewolf.” Stuart also points to notable limitations such as a U.S. heavy focus, and the tensions between Bluewolf and Salesforce which add a welcome dash of intrigue to the Dreamforce run-up.
+Out with the old, in with The New – outsourcing re-invented at Accenture? – Just when we thought we had relegated outsourcing to the back pages of the tech lexicon, with “robotic process automation” getting the wank phrase awards bandwidth, Accenture polishes outsourcing up again – but only to, buzzhell alert, “reinvent” it (ugh). As Stuart notes: “What is The New? It’s digital and it’s cloud and its AI and it’s all the stuff that Accenture’s been betting the farm on for the past few years. In so doing, Nanterme argues that the old outsourcing business models of the past have been re-invented.“
+
+A few more vendor picks, without the quips:
+
+Sky TV Germany views Couchbase as answer to omni-channel problems – Derek
+DocuSign sees time to value driving digital transformation – Phil
+One year on – Appirio CEO on the drive to transform Wipro – Phil
+
+Jon’s grab bag – Denis gets to the crux in Taming the world’s wild web and why you should care. Basically Facebook, Amazon and Google are facing a new level of regulatory scrutiny. Healthy, methinks – if can we hold feet to fire without red tapin’ – a pretty big if, I”ll grant you. Stuart squeakily deftly nabs title of the week honors with The Privacy Shield piggy – fetch the frying pan, it’s bacon time!. Gist: the lipstick on the data protection pig is getting a tad thin, with no queens or perfume counters in sight…
+Best of the rest
+ Lead story – Microsoft Ignites – bloggers digest, by several smart peeps
+myPOV: Microsoft Ignite pulled in a big crowd during a bonkers event week. Constellation’s Doug Henschen, who can be a bit grouchy with marketicture is not easily impressed, had good things to say in Microsoft Stresses Choice, From SQL Server 2017 to Azure Machine Learning:
+Together all these options give data scientists and developers yet more flexibility around where they do their experimentation, training of models and operational scoring. Significantly, there’s more choice on frameworks, with Microsoft executives saying that algorithms shouldn’t matter – use whatever is best for the task at hand.
+RedMonk’s Fintan Ryan honed in on the hippy dippiest coolest conference topic in Microsoft Quantum: A Trudeau Moment for the Wider Industry?
+In bringing Quantum Computing directly into his conference keynote, Satya Nadella has shifted the conversation away from the esoteric and into the mainstream.
+With an OMG to boot, Gartner’s Merv Adrian wrote about SQL Server’s growth – and the subsequent “heated” competition in the database market in The Era of Microsoft on Windows-Only Is Over – OMG. If you’re wondering where the Microsoft Dynamics 365 announcements were, I was too – though I didn’t find this buried bit about – you guessed it – adding AI to the Dynamics mix.
+Honorable mention
+
+
+SAP Data Hub debuts at SAP TechEd 2017 – SAP had a relatively quiet TechEd from the outside view, but plenty of action for long-time developers. Here’s a good roundup of the key developments, including a new Data Hub solution that could be a factor for customers bogged down in data sources. My thoughts with all attendees, as this event was in Vegas last week and that could not have been easy.
+5 IT Practices That Put Enterprises at Risk – We did some so-called best practices – here’s some of the worst.
+Kubernetes Unicorn Kris Nova – Terrific storytelling from The New Stack via Clive Boulton. From homelessness to influential developer: “Kubernetes is the first time in my life that I actually got to be a trans woman in software,” she said. “I decided I’m just going to be myself from day one.” The community has been “outrageously great,” she said.”
+Summoning the Courage to Redefine Forecasting: Upending the Apple Cart – We have the tech, but do we have the fortitude? “Unlearning traditional forecasting processes is hard.”
+AWS fires back at Larry Ellison’s claims, saying it’s just Larry being Larry – Not sure this is worth an article, not sure this is an article, but it’s probably worth noting that AWS sees a need to correct Ellison’s trash talk. Guessing Ellison will take that as the highest compliment – relevance.
+Scenarios – The Missing Link in Simplifying B2B Buying and Selling? – B-b-but if you make vendors talk about practical scenarios during their sales pitches, they can still sprinkle in plenty of AI and blockchain, right?
+
+Whiffs
+ Let’s get one thing straight:
+
+The Universe May Be Conscious, Say Prominent Scientists https://t.co/u01uZ5iycA -> “prominence” may be in peril now – but… interesting
+— Jon Reed (@jonerpnewsfeed) September 30, 2017
+Scientists don’t whiff – they pontificate.
+Kind of sad when even The Washington Post has to resort to linkbaity headlines like Death of gas and diesel begins as GM announces plans for ‘all-electric future’. Yeah, if “death” means 18 new electric models by 2023, then sure. May we all die so lackadaisically.
+
+Equifax Made Major Errors That Led to Hack, Ex-CEO Concedes – all that heartache – and the hell to come – over a negligent security patch. Good job/good effort. Enjoy prison. OK, you’re probably not going to prison. But it felt real good to say it.
+Facebook Does More Explaining Ahead Of Its Date With Washington – Facebook’s doing a nutshrinking lovely job of trickling out how its platform was bent around an election. Hey, only 10 million Russian ads were viewed during the election cycle. Yeah, enjoy that regulatory oversight. Hmm that felt good also.
+
+Oh, and if you’re relying on your GPS, maybe don’t follow it out onto a boardwalk. (Especially if you’re driving a truck). I get the feeling most of us have had rough days lately. But I’m guessing no one had a worse one – at least on tape – than Lawrence O’Donnell. If you missed this, hits/misses reader Frank Scavo has you covered.
+Finally, one of my musical heroes hit the great wide open yesterday, leaving us behind in the same unassuming way that characterized his greatness. Turn the volume up a piece if you like, nothing would please him more. You showed me stars I never could see…
+
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does. Thanks to Clive for forwarding a ton of good links this week – track him on Twitter at @iC.
+
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Data privacyHits and missesSecurity 

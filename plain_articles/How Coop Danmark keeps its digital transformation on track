@@ -1,0 +1,30 @@
+
+With 150 years of history, Coop Danmark is typical of many retailers seeking to rapidly transform itself for the digital era. At this crucial juncture in its evolution, much of the IT estate needs modernizing or replacing, says Jeppe Hedesgaard Lindberg, Application Performance Manager:
+There’s a huge transformation going on right now. We’re standing in front of a change of 80% of our core systems.
+Last year saw a major test of the chain’s ability to roll out a major new application. Coop Danmark launched a loyalty app that allows customers to collect redeemable bonuses from the retailer and receive special offers from partners, and then pay at checkout with their mobile phone. Conceived to celebrate the 150th anniversary, it had to be delivered on time — the anniversary date was fixed. But it was no easy task, as Lindberg explains:
+We had to spin up a competely new technology stack in the cloud, and combine it with our on-premises systems all the way to the back-end, which has been running here 50 years.
+In between the mainframe back-end and the new microservices-based digital applications, there are a range of mainly Microsoft .NET systems. Denmark’s largest retail group, Coop operates seven different supermarket chains across the country, ranging from quality luxury foods to discount supermarkets and large hypermarkets. There are two different point of sale (POS) systems dating back more than a decade, various SQL-based partner and marketing applications, and some file transfers running on AIX. Less than a fifth of the company’s systems are in the cloud, running on Azure.
+Real-time monitoring
+Moving to a more agile environment to build Coop Danmark’s new applications has created a need for real-time application performance monitoring, says Lindberg:
+If we had followed the good old ITSM rules you could have said, ‘Do we need all that monitoring?’ In this new DevOps world you need that monitoring because everything cannot be mapped out before you deploy.
+Furthermore, there are certain parts of the retail chain’s systems that can’t realistically be tested before a new application goes live:
+Load test has to bypass the mainframe. There are some excluded parts during test where we can’t see what happens before we go into production.
+While IT has adopted agile development, Lindberg is mindful of the legacy constraints and is cautiously preparing the move to DevOps:
+DevOps in an enterprise is a different beast from running DevOps in a startup. You cannot run DevOps on a 50-year old mainframe dataset. That’s a long journey to get it done right in a 150-year old business.
+AI smarts
+A new cloud-based monitoring system proved its worth last year on the day the new loyalty app went live. This required an update to the point-of-sale software, but a problem developed which meant checkout tills started to freeze when trying to print out receipts. Suddenly, Coop was facing the prospect of having to shut 500 of its stores on a busy Saturday morning because its payment systems were down.
+But two minutes after the first problems occurred at a couple of stores, the Dynatrace monitoring software was able to pinpoint the cause, says Lindberg:
+We had symptoms from a couple of supermarkets. Dynatrace within two minutes came back and said you have a problem in your cloud instance and we span up extra resources.
+So we avoided having to close down supermarkets and disappoint customers waiting in line.
+The speed with which the APM software was able to isolate the problem was due to its AI smarts, says Lindberg, which help it recognize patterns and provide root cause analysis. Other issues that it has helped to resolve include slow response times after the weekly email of coupon offers to the 1.6 million loyalty account holders, identifying a problem caused by slow garbage collection in a legacy software package, and isolating a logging mechanism as the cause of a POS slowdown in a recent deployment to Azure. Lindberg says the system can be set up to send alerts that keep the right people informed:
+You can track all the way down to a process to connect the alerts to the right team, and you can tag it for criticality. It sends a text message to stakeholders and managers when critical services go down. So via the tagging mechanism and the AI we’re not overloading people with alerts …
+Connection with customers
+The Coop loyalty app uses data on individual shopping habits that goes back 20 years to when the membership program originally launched. This connection with customers as individuals and families is important to Coop Danmark. The ability to connect digitally with people as they use the physical stores is a crucial part of the retailer’s digital transformation, says Lindberg.
+IT is not everything. Vendors want to believe omni-channel is all about sites and websites, but our main flow is still through the stores.
+I don’t believe the future supermarket will die out, because there is a human factor. People like to talk to their local grocer or butcher. You cannot put everything into an app and have nobody working in the store. But it will change the way they work out there.
+For example, the loyalty app’s support for payment direct from the phone points toward a future when the staff in store no longer need to sit at the checkout, says Lindberg:
+It’s pretty groundbreaking. You put your groceries in your trolley, go to the checkout, tap your phone on a Bluetooth connection and swipe it, and you’ve actually paid …
+We have a vision of getting rid of the checkout till and just going round with an iPad and just serving people.
+My take
+A classic story of how an established business must juggle history, brand and innovation while renewing its proposition for the digital era.
+Image credit - via Coop DanmarkRead more on: CRM and customer experienceInfrastructureRetail e-commerce and the omni-channelUse cases 

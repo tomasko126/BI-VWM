@@ -1,0 +1,39 @@
+
+Zach Nelson on stage
+After two days of announcements, presentations and pitches at SuiteWorld, I caught up with CEO Zach Nelson to fill in a few gaps and flesh out some of the talking points from what has been a content-filled conference.
+We started with the main announcement of the event, SuiteBilling, an offering that we were told has been five years in the making. Nelson told me:
+It’s five years of evolving development. We had time-based billing when we released Services Resource Planning and its’ evolved from there. We’d also been building a platform-solution around subscription billing and learning about some the challenges around that.
+With mention of subscription billing, I wondered if this was in fact effectively NetSuite’s Zuora killer? It seems it is, but only up to a point, said Nelson:
+If you sell more then subscriptions, then Zuora’s already been killed. If you’re a very rapid, low-end B2C, then Zuora is a nice fit, but not once you get into complex billing. No company in the world wants to have multiple billing systems.
+The second piece of the puzzle here is around revenue recognition, added Nelson:
+Those technologies [like Zuora] don’t really deal with rev rec. That has to be tied to General Ledger.
+Revenue recognition is going to be sexy for us. When I talk to people who are hardcore accountants, they say, “Thank goodness people are talking about this’.
+Nelson attributed much of the credit for the rev rec focus to COO Jim McGeever, whose finance background led him to build out the strategy to tackle the challenge/opportunity presented by changing and new revenue recognition rules.
+But it’s not just the hardcore accountants who get the need for a new approach, he added:
+CFOs worry about this. And when the CEO opens the Wall Street Journal and sees that there are going to be new rev rec requirements and wants to know, ‘What are we going to do about it?’. But it ultimately goes back to the CFO. When it comes to reporting actual financials, the whole organization sits up and pays attention. That’s the ultimate measure of a company’s success.
+Verticals
+Another aspect of this SuiteWorld was the decision to split the Day 2 keynote into five vertical streams. Derek’s covered off the retail stream and Jessica the not-for-profit one. Despite this decision, NetSuite’s approach to verticalisation is relatively cautious.
+This year the “true vertical” push is around retail apparel and in years to come, the expectation is that NetSuite can tackle one or two verticals a year by itself. Alongside that, it will be looking to partners to flesh out the vertical push, encouraging them to develop new applications on top of the NetSuite platform.
+These can be new verticals or niche applications within existing verticals, said Nelson:
+We might build out into retail apparel, but we’re not going to do assortment planning, so even within the verticals there are opportunities for partners. We’re always wiling to bring in partners to complete the solutions.
+This building out of a partner ecosystem is akin to Salesforce’s AppStore approach, although Nelson said NetSuite is a long way off from the growing situation in the Salesforce ecosystem whereby partners find that the cloud giant moves in on their markets, such as field service management:
+Someday we might have that problem, but not yet. When you really verticalise the back office, some of the problems you end up codifying are so obscure that only a few partners can realistically do that. It’s not like the Salesforce situation, where you’re picking winners and not winners.
+Partners
+Earlier in the conference, NetSuite named HCM firm Ultimate Software as its partner of the year. Nelson pitched this relationship as an interesting example of partnership in action:
+We’ve never really depended on partnerships for our success. Nobody ever really sells your product for you, you have to go out and do it yourself. But Ultimate has been very different. It wasn’t me and [Ultimate Software] CEO Scott Scheer deciding from on high that ‘we shalt partner’. It was actually rep-to-rep. They were bringing us into their opportunities and we were bringing them into ours. There’s really no money changing hands, it’s just a way of finding solutions that work for customers.
+And it’s not competitive to NetSuite’s own Tribal HR ambitions:
+Tribal is very low end HR and we’ve redeployed those resources on NetSuite. So we have HR capabilities in NetSuite, but not at enterprise level. We are extending HR to make the employee record richer, but we’re about transactional information about employees. It enables us to work better with the likes of Ultimate.
+The partnership that dominated last year’s SuiteWorld was the ‘Nixon goes to China’ moment when Microsoft CEO Satya Nadella was beamed in via video to announce a new Office365 integration alliance with rival NetSuite. One year on and Nadella popped up this week down in Orlando to announce a new tie-up with SAP.
+I wondered what value had come out of the deal for NetSuite. Nelson explained:
+We made a big commitment to Office365 and Microsoft has given us a lot of technical support.
+It’s not going to be a revenue generator for us, but we don’t really get any revenue from the Ultimate Software partnership. But we’re not really going to lose a deal through not having Office365 integration, but it’s good to be able to offer it.
+A slightly different form of partnership was seen on Day One with augmented reality helmet provider Daqri in what was really the Internet of Things (IoT) pitch of the conference. What Daqri is able to do is to aggregate the data from the connected devices of the IoT so that useful analysis can be made based on that data.
+This ability to aggregate and break through the ‘noise’ is what will make the IoT credible as an actionable business conversation, said Nelson:
+It’s really very similar to our perspective on social when that began to happen. If it’s not a conversation within the context of a business conversation, then it doesn’t make a lot of sense to just be able to capture random conversations.
+As our time drew to a close, Salesforce reported its first quarter numbers, upping its full year expectations to $8.2 billion. NetSuite, a year older than Salesforce, is aiming at its first billion. It’s a completely different sell of course. Salesforce pitched into a CRM market in which, as Nelson quipped,”Siebel didn’t work!”.
+On the other hand, ERP replacement is a different prospect. Nelson affirmed:
+It’s a much slower-to-churn marketplace. There’s always a bit of a gaming factor, because you don’t choose to do elective heart surgery. But there are a lot of hearts out there that are getting older. Between 2010 and 2105, we were the only ERP vendor that did have accelerated growth.
+My take
+It’s been a positive SuiteWorld for Nelson and his executive team. The customer presentations were impressive, the partnership announcements, such as with Alphabet, fleshed out the wider proposition and SuiteBilling looks like a lucrative opportunity to tap into.
+The firn’s now outgrown the San Jose Convention Center, prompting a move to Las Vegas next year. In the meantime, the push to raise profile in Europe continues. The next big NetSuite gathering will be in London in October, which I hope will follow the customer-led, ‘show as well as tell’ format of SuiteWorld.
+Image credit - NetSuite Disclosure - At time of writing, NetSuite and Salesforce are premier partners of diginomica. Read more on: Cloud ERP financials and supply chainDigital enterprise in the real worldHCM and the digital future of workIoT robotics and AIRetail e-commerce and the omni-channel 

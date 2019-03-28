@@ -1,10 +1,24 @@
 from scraper import *
+import preprocess
+from sys import stdin
+from sys import argv
+import search
 import yaml
-print(__name__)
+import index
+
 if __name__ == "__main__":
+    if 'scrape' in argv:
+        with open("sites.yaml", 'rb') as file:
+            pages = yaml.load(file)
+        Scraper(pages).downloadArticles()
 
-    with open("sites.yaml", 'rb') as file:
-        pages = yaml.load(file)
+    if 'lemmatize' in argv:
+        preprocess.lemmatize()
 
-    s = Scraper(pages).downloadArticles()
+    if 'index' in argv:
+        index.index()
+
+    if 'search' in argv:
+        for line in stdin:
+            search.search()
 

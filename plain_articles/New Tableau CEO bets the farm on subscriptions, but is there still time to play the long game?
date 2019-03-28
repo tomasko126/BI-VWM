@@ -1,0 +1,40 @@
+
+Going out on a subscription limb
+Six weeks into the job and troubled Tableau Software’s new CEO Adam Selipsky had his first public outing yesterday as the firm missed its third quarter revenue targets and bet the farm on a shift to a subscription licensing model. 
+The analytics firm’s revenue did actually score a 21% increase year-on-year to hit $206.1 million, but missed Wall Street expectations by around $8 million. It turned in a loss of $30.3 million, which was less than analysts had forecast. 
+The emphasis on a subscription-based future was Selipsky’s big play on the conference call with Wall Street after the results were announced. Licence revenue for the quarter was up 7% year-on-year to $116.7 million, but the direction of travel is for higher growth from a subscription-model. Selipsky said:
+
+I believe strongly in the future of cloud computing. Over time, more and more Tableau customers will want to run their analytics in the cloud. Tableau’s products are well positioned to meet demand as businesses move all of their operations, including analytics and data storage, to the cloud. We will continue to ensure that Tableau works beautifully when customers deploy it on their cloud of choice, and we will continue to innovate and enhance our own SaaS version of Tableau, Tableau Online.
+Based on what we’ve seen in 2016, our customers are increasingly interested in purchasing software on a subscription basis. Subscription licensing is a simpler model that’s more aligned with customer value. It will benefit our customers. It will make it easier for businesses to get started with Tableau by lowering the initial investment required. It will provide more flexibility to scale Tableau widely, and it will reduce risk for customers. It will also make it simpler for our customers to support cloud and on-premise hybrid deployments of Tableau, something that enterprises and other customers increasingly require. This shift is consistent with where the market is moving. Industry analysts predict that by 2020, more than 80% of software vendors will have switched to subscription models.
+
+That said, the road to the new model will be a potentially bumpy one, he cautioned:
+
+In the near term, we expect that this transition will put pressure on both our top and bottom line, given how these numbers are reported. But it can actually create more customer adoption, activity and value, and over the longer term, we expect to see these benefits reflected in our financials. Recurring revenues will increase visibility and predictability and enable us to focus on longer-term and more strategic relationships with our customers. 
+
+Selipsky said that in his first six weeks as CEO he’s spent time out and about meeting with customers in order to a get a feel for their needs: 
+
+Our customers’ data volumes just continues to explode. Petabyte scale of data stores are now commonplace, but none of this data has any value unless you have the platforms and tools to easily see it and understand it. Those who do will reap great rewards as they gain previously unimaginable insights and unlock entirely new business models in some cases.
+
+Cloud success
+The company claims “5000 customer accounts in over 100 countries” for its own Tableau Online. Cited among them was beer manufacturer Miller Coors, which is using Tableau Online to enable bar and restaurant sales team to access data in the field and analyse the impact of promotional campaigns on sales in specific venues.
+MillerCoors is a good example of a ‘land and expand’ customer for Tableau, beginning with a small Tableau Online deployment four years ago. Such upselling into existing accounts is also a priority for Selipsky’s vision for Tableau: 
+
+A few weeks ago, I visited a customer with tens of thousands of employees already on Tableau Server. They told me they want to go even bigger. Many of our customers share this desire to deploy our product more broadly in their organizations. Therefore, one of the key next steps on our journey is to enable these wide scale deployments in the world’s largest enterprises. To do so, we’ll continue to focus on the product features necessary for mission-critical application deployment. We’ll evolve our messaging to make the benefits of Tableau crystal clear to enterprises and we’ll refine our licensing and pricing model for broad enterprise adoption.
+
+That’s going to need some work, admitted Selipsky:
+
+
+We have to have a laser focus on product development in areas like security, compliance and governance, where we have already been focused, but I think those requirements from big enterprises will escalate quickly. It also means that our marketing and our messaging needs to be better aligned to what the problems and opportunities within those enterprises are. It certainly means that we will have to provide absolutely stellar enterprise-class support to customers after we sell and, of course, it means that we have to align our selling as well.
+We are going to continue to look hard at what the appropriate licensing model structures are for large enterprise deployments so that we make sure that the economics work for all sides, and that also the deployments can be significant and as broad as these enterprises would like to see in their data platforms. I think we’ve done a lot of good work. I also think we have work ahead of us on all of those dimensions. I think the enterprise opportunities are absolutely there, and we have to execute to make them happen.
+
+Selipsky concluded by setting long term expectations for the new roadmap for Tableau, wise given the struggles that Wall Street has had coming to terms with the economic realities of moving from licence to subscription models in other vendors:
+
+
+What happens to our different licensing models, including subscription and more perpetual models, will be guided by where our customers want us to go. Now that being said, we believe the customers are going to want to move faster rather than slower towards subscription models. That means that we have to be set up with the licensing models as well as the ability to execute to meet that customer demand.
+I don’t think that that’s going to be a big binary switch that would just be flipped overnight. But if customers are aggressive as we anticipate in their desire to move to subscription models then we will be aggressive in enabling that.
+
+My take
+It’s clearly early days for Selipsky and there’s work to be done on transitioning to his own way of running Tableau internally, never mind the external offerings. The question is whether investors are going to give him the time to execute on his plans. Tableau’s shares are down nearly 50% this year.
+Unmentioned on the analyst conference call was Tableau’s presence on the leaked potential acquisition targets list from Salesforce last month. While many of the names on the list were exploratory ‘what ifs’, Tableau was different, marked up as “In Play” as of May this year. 
+There were only two other firms on the Salesforce list that had the same tag – Qlik Technologies and Demandware. The former has been acquired by private equity firm Thoma Bravo, while the latter was indeed bought by Salesforce. Unless Selipsky can stop the Tableau share price falling any lower, the firm looks awfully like one of those ‘seize the moment’ opportunities that Salesforce CEO Marc Benioff talked about at Dreamforce. 
+Image credit - Freeimages.com Disclosure - At time of writing, Salesforce is a premier partner of diginomica. Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureMachine intelligence and AI 

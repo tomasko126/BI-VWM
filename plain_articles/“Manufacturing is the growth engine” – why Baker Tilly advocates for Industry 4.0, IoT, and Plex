@@ -1,0 +1,55 @@
+
+In the midst of the “as a service” hype festival, it’s rare to hear someone extole the virtues of manufacturing, much less say, “manufacturing fuels our economic growth.”
+But that’s exactly what Baker Tilly’s Peter J Pearce said to PowerPlex 2017 attendees during an Industry 4.0 session.
+To be clear: this isn’t your grandpappy’s assembly line. As Pearce told us:
+The days of large manufacturing plants making the same part or product are gone. [We are moving to] near, localized manufacturing, supporting people within a very specific region. And you’re going to need to manufacture what the customer demands based upon agility and sequencing.
+This new approach to manufacturing is at the heart of Baker Tilly’s Plex Manufacturing Cloud practice, led by Pearce, Principal – Enterprise Solutions at Baker Tilly Virchow Krause, LLP. To grasp it, we must wade through some buzzword-heavy concepts, such as the Industry 4.0 initiatives launched in Europe (sometimes called “connected manufacturing” in the U.S.). Then there is the hype-filled “Industrial IoT.”
+The problem for manufacturers runs deeper than  hype. Companies aren’t ready for this level of manufacturing “agility”:
+If I want to go buy a vehicle, I’ll go find a lot and pick a vehicle out on that lot because they have it. But if I talk to my daughter about doing that, she’s like “No! I’m going to go buy a vehicle and it’s going to have a purple racing stripe, and it’s going to have a wing, and it’s going to have a certain type of wheels.”
+She is not alone:
+These folks are going to demand that we build very specific vehicles to customer order and preference. So agility is a key component of what we’re doing.
+Old manufacturing tech can’t handle on-demand needs:
+Information’s going to come into your system. It’s going to tell your PLCs (Programmable Logistic Controllers) what they need to make, what components need to go in for that specific operation. It’s going to tell the operators what to do.
+Manufacturers are trying to keep up:
+We talked about additive printing, additive component design. Ford is huge in additive prototyping. So they’re coming up with methods to build components on the fly.
+Pearce isn’t making predictions, but he told me the automotive winner could surprise:
+My belief is that the first organization could be Apple. You’ve heard of the Apple vehicle, right? The first organization that can quickly adapt and build vehicles that are specific to the consumer – whoever does that is going to win.
+Pearce shared a slide with Baker Tilly’s Industry 4.0 Maturity Model – intended to help companies visualize these transitions. It was so dense it made my eyes water, but the info on each phase was useful.
+How do we get to Industry 4.0?
+Since PowerPlex, Baker Tilly issued a web version of their Industry 4.0. maturity diagram that is easier to navigate. You can scroll through each maturity phase for areas like software integration, big data analytics, and robotic automation. Pearce’s July 6 blog post on Plex.com, Understanding the Technologies Behind Industry 4.0 Manufacturing, sheds light on the “stepping stones” to Industry 4.0:
+1. Cloud Computing – Pearce advocates a “single instance, multi-tenant environment scales with your business…. This is the platform on which manufacturers need to build their Industry 4.0 environment.”
+2. Industrial Internet of Things (IIoT) – “Leading manufacturing companies are automatically receiving goods into the facility and the next thing a human does is drive the truck out the door — which may be changing in upcoming years once vehicle automation is a reality.” From shipping to receiving, everything is automated: “It’s all done through PLC integration and controls, which is highly efficient, higher product quality, and better customer satisfaction. IIoT connects devices from the shop floor and to ERP.”
+3. Agility and Sequencing – “Similar to just-in-time (JIT) inventory strategy, sequencing is where components and parts arrive at a production line, in a specific configuration, at the exact time the product is required for the customer’s specific product configuration.”
+4. On-Demand Manufacturing – “Consumer preference and demand patterns are starting to drive how the companies are going to be providing products to the market” – a point we’ve covered off.
+A move to the cloud must be about transformation
+During his presentation, Pearce exhorted the attendees:
+Don’t make this a system replacement event. Challenge yourselves and be transformative as you do these implementations.
+He made two things clear:
+
+A move to the cloud is about business transformation, not lifting and shifting IT.
+Moving to a manufacturing cloud is not about sacrificing functionality needs.
+
+In our subsequent chat, Pearce criticized compulsive cloud moves:
+The big mistake folks make is they just want to replace their core of the table stakes, just to get off the whatever problem system they have. The don’t want to hire architects and DBAs. They’re [just reacting] to an immediate pain point.
+To counteract this, Pearce’s team at Baker Tilly uses a method to assess the big picture before customers start any cloud moves. My concern: sometimes deeper methodologies result in bogged down implementations. But Pearce says they’ve got Plex implementations down to six months, and sometimes three:
+You literally have access to business technology from day one. What do we do? We start prototyping business processes early. I don’t go and debate the AR accounting processes, right? Because it’s very similar across whatever business section you’re in. We focus on what’s important to that business, which is the shop floor. We’re able to go in with pre-configured engineering models and production models.
+You must pose the right questions:
+We ask very challenging questions when we show up. What’s important for your business? How are you going to outperform your competition? Oh, and by the way we know who your competition is. We know how they’re performing. We know how to get you to be better than them. We have the tools and the methods to align the manufacturing cloud to support you with this endeavor.
+Pearce’s challenge to customers – create new metrics
+It’s easy to talk about outperforming your competition. So during our one-on-one, I challenged Pearce to explain how his team asks manufacturers to think differently. This is a revealing exchange, so I’ll give it to you verbatim:
+Jon Reed: You said to the crowd today, “Get ready, because we are going to ask you some challenging questions.” But how do you get customers to think differently?
+Peter Pearce: OK, here’s an example: “Tell me, which supplier provides you the most efficient and effective steel that gives you the best yield. Tell me that right now.”
+Reed: Let me guess – a lot of times, they can’t.
+Pearce: They’ll say, “We don’t measure that.” Or at the worst they say, “We just plan for scrap in our process.”
+Reed: Give me another metric.
+Pearce: Here’s another one: “Give me your top ten performing yields.” They’re called steel heat – manufacturing steel. But it can be anything. Give me your ten best performing raw materials.
+Reed: And the response?
+Pearce: Often, they’ll just say “What? What do you mean?” So we’ll say, “Well, how do you know if that raw material is giving you the best utilization? Are you more efficient in your machines, in your equipment, in your tools?” Things they’ve never even thought about before.
+Pearce says he built a Plex practice precisely because Plex helps customers get to these issues:
+The reason we’re able to do that is in the case of Plex, it’s architected to support that particular business issue. We’re asking analytic questions. Tell us your 15 best performing production jobs. Which ones are you making money on, and which ones are you losing on?
+My take
+A big reason Pearce gets into these provocative questions early with customers is because he wants to configure Plex to address the right metrics. Learning about new needs late in the configuration process is something to avoid – better to unearth them upfront.
+Pearce acknowledged that customers can be in very different stages in the Industry 4.0 model: more advanced on mobility, but behind on robotics. We both like the potential of analytics. Customers make strides when they go beyond the transactional to make use of the data visibility a cloud ERP system provides.
+It doesn’t matter one bit whether the term Industry 4.0 ever takes hold in the U.S., or whether some other catch phrase comes along. I’m still a fan of maturity models as a gut check. I’m also partial to the “cloud means transformation” message Pearce is preaching – we preach it at diginomica also.
+Whether or not a customer uses the solutions advocated here is a matter of use case and careful evaluation. The big takeaways are that faster implementations do not have to sacrifice a business transformation – if the right solutions/templates are used, and the right questions are asked. Oh, and that next-gen manufacturing is still up for grabs, with chances to fill a localized need before the giants figure out what’s happening.
+Image credit - Industry 4.0 concept . Man hand holding tablet with performance check screen software and automate wireless Robot arm in automobile smart factory background. © zapp2photo - Fotolia.comDisclosure - Plex Systems paid the bulk of my travel expenses to attend PowerPlex 2017. Plex Systems is a diginomica premier partner.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureInternet of Things 

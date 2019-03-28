@@ -1,0 +1,34 @@
+
+The hand-wringing over Twitter ending DataSift’s firehose access overlooked a key point: DataSift also has a partnership with Facebook underway. (At this time, DataSift is Facebook’s only topic data partner). Not such a bad consolation prize, eh?
+The Facebook-Datasift partnership involves using Facebook topic data to provide a new level of insight into Facebook audiences and demographics. This type of partnership raises vital questions about privacy on the one hand, and business relevance on the other (companies have learned the hard way that investing in Facebook can lead them down a path of diminishing returns when goal posts are moved).
+i recently had a chance to attend a DataSift webinar for an update on their Facebook partnership. They were also good enough to address some of my pesky follow-ups after the fact.
+If you’ve used Facebook Ads, you know that demographic targeting is already available on Facebook. But topic data is a different animal entirely. Facebook topic data gives marketers a view of what audiences are saying across Facebook about events, brands, and relevant subjects – well beyond the scope of a company’s own page. Facebook explains:
+While this type of data has been available from third parties before, the sample size was often too small to be significant and determining demographics was nearly impossible. With topic data, we’ve grouped data and stripped personal information from Facebook activity (not including Messenger) to offer insights on all the activity around a topic. That means marketers get a holistic and actionable view of their audience for the first time.
+So how does DataSift fit into the picture? Facebook looked to DataSift to help them “develop and scale” topic data, and to make sure the information generated is actual worthwhile. Basically, it’s DataSift’s job to turn this data into “insights” businesses can use.
+What kinds of insights? Facebook provided these examples:
+
+A business selling a hair de-frizzing product can see demographics on the people talking about humidity’s effects on their hair to better understand their target audience.
+A fashion retailer can see the clothing items its target audience is talking about to decide which products to stock.
+A brand can see how people are talking about their brand or industry to measure brand sentiment.
+
+During the webinar, DataSift used a demo of an immediate spike in Facebook mentions/hashtags around the Toyota Supra brand, linked to the Fast and Furious movie franchise. This instant spiking across conversations is identified and visualized:
+
+ 
+One potential area of confusion: Facebook already has Open Graph capabilities. I asked the DataSift team how their partnership differs:
+Facebook topic data is anonymous and aggregated content data about specific activities, events, brand names, and other subjects that people are sharing on Facebook. The Open Graph provides insights into the topic, but provides no information on the Audience or Engagement that is happening inside Facebook on a given topic. This information has never been available before.
+For those interested in the plumbing, DataSift shared a slide on how this all works:
+
+(Vedo is DataSift’s rules engine that gives companies the ability to tag and “score” unstructured data by attaching meta data tags and providing a more consumable data output).
+The other glaring concern is privacy, an area where Facebook has often stumbled. But from what I’ve learned so far, the privacy protections in topic data are well-thought. DataSift relayed this to me:
+In the case of topic data, privacy is protected via the following: social data is processed inside Facebook; raw information never leaves Facebook’s data centres and user identity is removed before being processed. All results provided are aggregated and anonymised, with the only those results containing 100 or more unique authors being visible. Data is only available for a 30 day rolling window from when an analysis is started. Finally, information from anyone under 18 is removed to protect minors.
+Final thoughts
+Facebook topic data is an example of data services that can make a difference to marketing and social media teams who are too often flying blind, or at least driving with a dirty data windshield, unable to parse and track conversations as they are happening across a mass of pages.
+Privacy is a concern to be taken seriously, but in this case, individual data is really not needed; topic data is more about trends that create a chance for meaningful action. The only caveat: while moving from data to insight is an accomplishment, the real win is turning that into a business outcome.
+For the consumer space, turning a customer into a fan (in the emotional sense) is a milestone. But knowing what fans care about is not the same as inducing or enabling a purchasing behavior. In the B2B space, we often need more than demographic understanding; we need to foster individual relationships with key buyers/influencers who willingly opt-in and share their contact data and preferences with us, in what they perceive as a genuine value exchange.
+Demographic data that tracks real-time sentiment is potentially useful for re-allocating resources and inventory quickly. But the business models built on top of these insights are the most interesting part. Just because someone is talking about you doesn’t mean you’ll be able to sell them something.
+Still, at a time when unstructured data is still a big ol’ bugaboo, DataSift’s advances in structuring and visualizing social data quickly enough to act on is a story to watch. Even grouches like me who enjoy roasting Facebook concede that Facebook data is an ideal sandbox for tracking consumer behavior. Now we need to figure out how to personalize responses in ways people will actually welcome.
+End note: for more context on the DataSift/Twitter partnership and the future of DataSift, I recommend my colleague Phil Wainewright’s recent piece, 3 ways cutting us off harms Twitter’s business – DataSift CEO.
+
+Image credit: Images captured by Jon Reed, used with exclusive permission of DataSift, all rights reserved.
+Disclosure: diginomica has no financial ties to DataSift. I wrote this piece because I checked out the webinar and unlike many webinars, found the content interesting enough to write about.
+Read more on: Analytics planning and data analysisFrictionless enterpriseSocial 

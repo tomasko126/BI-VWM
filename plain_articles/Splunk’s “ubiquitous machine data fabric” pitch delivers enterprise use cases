@@ -1,0 +1,33 @@
+
+Gatwick Airport security
+Gatwick Airport boasts that it has exceeded its target of processing 95% of passengers through security within five minutes – and it’s in large part down to its use of analytics tech from Splunk. 
+The airport is using Splunk Cloud to analyze and optimize each step of the customer journey – from scanning a boarding pass to the speed at which the trays go through the x-ray. It picks up data from a range of customer touchpoints including its transit system, ground handling, airlines and security services. 
+Gatwick also correlates data from its own systems, social media activity, the Highways Agency and Network Rail to predict passenger flow ahead of time. This enables the airport authorities to allocate more resources to meet demand and get passengers through to departures as quickly as possible.
+Chris Howell, head of business systems at Gatwick Airport, says: 
+
+Splunk Cloud enables our teams to closely monitor real-time performance through an easy to use dashboard which plays an important role in the smooth running of the airport/ By monitoring a wide range of passenger information and performance data, our teams are able to stay ahead of the game and effectively deploy resources in real time to deliver an enhanced service for our passengers.
+
+It’s a good use case of machine data being deployed as a strategic asset to gain a competitive advantage and the kind of exemplar that Splunk CEO Doug Merritt points to to demonstrate the firm’s go-to-market pitch as “the ubiquitous machine data fabric” for organizations.
+There were plenty others at the company’s recent dotcom user conference in Las Vegas, he says: 
+
+Two of my favorites were Cox Automotive, who uses advanced analytics and machine learning, where Splunk and IT Service Intelligence ensures their revenue is flowing by keeping their auto options up and running. And Dunkin’ Donuts, who had a line out the door for their session – and it wasn’t just for the free donuts. They use Splunk Enterprise to analyze the preferences of their 5 million loyalty program members, and gain real time insights into the effectiveness of their marketing campaigns. Splunk helps Dunkin’ Donuts increase revenue and customer loyalty.
+
+Machine data
+There’s opportunity across a range of business sectors, says Merritt, with Splunk able to ride the wave of digital transformation: 
+
+Machine data is the lifeblood of the secular change, and Splunk is the leading technology that enables customers to realize value from this data, but the move to digital, e-commerce, mobile and social organizations, is now increasingly using machine data to provide critical context to the transactional data stored in ERP and CRM systems and relational databases and data warehouses.
+They are doing this so they can make data-driven decisions in real time. Splunk continues to be a leader in operational intelligence with our customers indexing, searching, and analyzing orders of magnitude more data daily than ever before. Splunk’s platform provides the best solution to enable customers to easily and cost-effectively collect, analyze, and get maximum value from this largely unstructured and voluminous data.
+Increasingly, Splunk is evolving towards becoming our customers’ ubiquitous machine data fabric, solving their big data and analytics challenges and IT operations, application delivery, security compliance and fraud, business analytics, and the Internet of Things. We are focused on these use cases and markets, because each is going through a shift to an analytics based approach where Splunk continues to deliver for our customers.
+
+Splunk’s customers are also transitioning to the cloud, although there will always be an on premise requirement, reckons Merritt: 
+
+Data has gravity. There’s a whole bunch of physics around it and it’s really risky to move data around if you don’t need to. It’s also really expensive. So any good CIO or technologist wants the data indexing and storage and retrieval source to be as close [to the] data sources as possible, which is why we predict that will always be a hybrid company. There always be some percentage on-premise, some percentage on cloud. Who knows if it’s 50/50 or 40/60,  but [we] won’t see it swing into 90/10 at any point in time.
+
+Merritt concludes: 
+
+We recognize that we are in a classic tornado market. By the nature of the term, tornado markets have tremendous opportunity, but also test the company’s going through them. Splunk is no different, and this is part of the fun of the fast-moving world that is Splunk. We have a once-in-a-generation opportunity, that’s immediately in front of us.
+
+My take
+There’s certainly lots of opportunity out there for Splunk. In its most recent quarter, the firm signed nearly 500 new enterprise customers. That helped revenues to rise 40% year-on-year to $244.8 million, beating Wall Street guidance. 
+As we’ve said so often, it’s the use cases that are the real proof points of success and Splunk is delivering more of those to make its pitch compelling to the lucrative enterprise prospects. Demonstrable benefits, such as those reported by Gatwick Airport, are the kind of incentives CIOs are looking out for. 
+Image credit - Gatwick AirportRead more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackDigital enterprise in the real worldGoverning identity privacy and securityIoT robotics and AI 

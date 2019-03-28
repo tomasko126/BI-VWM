@@ -1,0 +1,47 @@
+
+Eric Xu, Huawei Deputy Chair
+With the theme of ‘Activating Intelligence’,  Huawei Deputy Chair Eric Xu  used the keynote address at Huawei Connect 2018 to speak of Huawei’s mission of “working together to bring digital to every person”.
+He argued that we are now on the verge of an intelligent world that will change every industry, with intelligent transportation, personalized education, efficient communications, and more. AI will transform every organization, job, and skill, he said – including coding itself.
+Into this connected world, Huawei is bringing a complete stack of AI products and services, with the base layer being its new Ascend family of chips, which Xu claimed constitutes the world’s first dedicated “all-scenario” AI chipset.
+By this he meant chips for AI installations across everything from public and private clouds to industrial IoT and consumer devices, via the edge environments that bridge these worlds by bringing processing and intelligence closer to the point of need.
+The portfolio also includes: the Compute Architecture for Neural Networks (CANN) – an automated development toolkit; MindSpore, a unified training and inference framework for device, edge, and cloud; and application enablement, including full-pipeline services (ModelArts), hierarchical APIs, and pre-integrated solutions.
+Xu claimed that MindSpore is “design-time friendly”, runtime efficient, and “adaptable to all scenarios” – the subtext of this year’s event. The complete version will be available next year.
+New stack
+In September 2017, Huawei released Huawei Cloud EI, an AI service platform for enterprises and governments. And in April this year, Huawei announced HiAI, its AI engine for smart devices. The company’s full-stack AI portfolio, launched this week, is designed to support both Cloud EI and HiAI, said Xu.
+The core of this new offering is the Ascend family of AI chips. Available in the second quarter of 2019, the Ascend 910 offers the greatest computing density available in a single AI chip, said Xu.
+Huawei will soon be making a cluster of 1,024 Ascend 910 chips available, offering 256 petaflops of computing power in the cloud.
+The second chip, Ascend 310, is available now. It’s a system on chip (SoC) optimised for low-power computing – in other words, for Internet of Things (IoT) and edge deployments, where low-power, intelligent devices will be key to the spread of low-latency services and smart environments.
+The new chip family extends all the way from smart earphones (Ascend-Nano) to data centre (Ascend-Max), via always-on devices (Ascend-Tiny), smartphones (Ascend-Lite); and laptops and edge servers (Ascend-Mini).
+Inference is available throughout, with training available in all except the Nano and Tiny range. “Pervasiveness equals diversity”, said Xu.
+However, Xu clarified that the chips are not being made available to third parties, apparently scotching longstanding rumours that Microsoft has bulk-bought Huawei chips – a story he described as a media fabrication. Instead, Huawei will solely offer them within its own hardware (AI acceleration modules, cards, edge stations, appliances, and mobile data centres) from February next year – and via cloud services.
+Conversations have taken place with Microsoft, said Xu, but he wouldn’t be drawn on the details.
+Huawei’s core message of scalable, pervasive, and fully connected devices and services extends to the Da Vinci architecture that unifies the new chip family. Pressed for more information on Da Vinci – a project he is thought to be running himself – Xu said that he could confirm the project’s existence, but not its strategic import to the company (In China, this type of announcement is greeted with laughter and applause.)
+However, Dang Wenshuan, Huawei’s chief strategy architect, explained that the benefits of a unified architecture are “quite clear”, including: one-time ops development, consistent development and debugging, and smooth migration across device, edge, and cloud.
+Eating your own dog food
+Xu also used the conference stage to set out Huawei’s own AI strategy.
+By 2025, the company predicts that he world will see upwards of 40 billion personal smart devices, and 90 percent of device users will have a smart digital assistant – even if they don’t use it regularly. Data utilisation will reach 86% and AI services will be “as prevalent as the air we breathe”, Huawei research suggests.
+In this world, AI will become a new general purpose technology (GPT), rather than the preserve of an expert few, echoing recent Gartner Hype Cycle predictions about AI democratisation within a decade.
+To help bring about this new world, Xu defined ten essential changes that the tech development community needs to pursue. These are:
+
+Faster model training. Training complex AI models currently takes days or months, he said, adding that it ought to take place in minutes or even seconds.
+More abundant and affordable computing power.
+AI deployment should be pervasive, yet remain private and secure.
+The industry needs new algorithms that are data and energy efficient, yet also secure and explainable.
+AI needs to be increasingly automated, rather than labour intensive – especially in areas such as model design, and data labelling and collection.
+In addition, AI needs more of a focus on practical application. Currently, models perform better in tests than in execution, said Xu. In the future, AI will need to be industrial grade and reliable at the point of use.
+AI also needs to become a real-time, closed-loop system, he added.
+Also essential is much greater synergy between AI and technologies such as cloud, the IoT, edge computing, and blockchain.
+At present, AI remains a job carried out by highly skilled experts. Moving forward, it needs to become a one-stop platform, with AI as a basic skill shared by all app developers.
+There is also a scarcity of data scientists, data science engineers, and subject matter experts. That needs to change, said Xu.
+
+These ten changes were the inspiration behind Huawei’s own AI roadmap, added Xu:
+Huawei’s AI strategy is to invest in basic research and talent development, build a full-stack, all-scenario AI portfolio, and foster an open global ecosystem.
+Within Huawei, we will continue exploring ways to improve management and efficiency with AI. In the telecom sector, we will adopt SoftCOM AI to make network O&M more efficient. In the consumer market, HiAI will bring true intelligence to our consumer devices, making them smarter than ever.
+Our Huawei EI public cloud services and FusionMind private cloud solutions will provide abundant and affordable computing power for all organisations – especially businesses and governments – and help them use AI with greater ease.
+Our portfolio will also include an AI acceleration card, AI server, AI appliance, and many other products.
+Huawei’s strategy itself has five areas of focus: Invest in AI research; build a full-stack AI portfolio – which the company has now rolled out; develop an open ecosystem and the talent to match; strengthen the existing portfolio; and drive greater operational efficiency within the company.
+My take
+Despite the ambitious, end-to-end strategy, AI can only solve some problems, admitted Xu. So far only four percent of enterprises have invested in AI, according to the keynote presentation. And the marketplace for AI talent is only one percent of what’s needed, said Xu.
+This is where real-world challenges clash with vendors’ future vision. At present, Huawei and others are running far ahead of the market they’re trying to create, building a technology platform for the future and hoping that the buy-side catches up with the sell. And that there are enough data scientists and subject matter experts to make it all add up to real business value.
+This may be why Huawei doesn’t like the word ‘transformation’, according to Xu. What Huawei has done is not a transformation, he explained, but rather moving forward one step at a time.
+Image credit - HuaweiRead more on: IoT robotics and AIMachine intelligence and AI 

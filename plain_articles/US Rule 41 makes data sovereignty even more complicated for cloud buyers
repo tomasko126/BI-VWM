@@ -1,0 +1,56 @@
+
+As if there wasn’t already enough fuss and controversy about data sovereignty, a change to a US law just added potentially a whole new world of pain to the cloud services industry and its customers. 
+An amended Rule 41 of the Federal Rules of Criminal Procedure by the United States Department of Justice came into effect last week, making it easier for US law enforcement and intelligence agencies to get authorisation to hack into Americans computers and electronic communications devices. 
+The older version of Rule 41 forced bodies such as the FBI to go to a specific jurisdiction to obtain a hacking warrant,  but the new version permits a federal judge to approve a single warrant for accessing multiple computers remotely. 
+Supporters of the amended rule argues that the changes are necessary to enable searches in cases where anonymizing technology is used to mask the location of a computer. US Assistant Attorney General Peter Kadzik insists that there’s nothing to be concerned about in terms of privacy: 
+
+The use of remote searches is not new, and warrants for remote searches are currently issued under Rule 41. 
+
+But this ignores the fact that remotely could mean in a different state in the USA or it could potentially mean in a different country. This clearly has some serious implications for US cloud services providers operating overseas and their customers, as Virtual Private Networks can be regarded as anonymising technology.
+The US Congress has not held any hearings on the new rule, which was approved by the Supreme Court last spring and takes effect automatically on 1 December  without congressional action. A last-ditch effort by a bipartisan group of senators Wednesday to allow a vote to block a new rule was itself blocked by Senate leaders. 
+Civil liberties groups such as the Electronic Frontier Foundation, the Open Technology Institute and the American Civil Liberties Union (ACLU) have been campaigning to raise concerns about the change to the rules. 
+For the cloud industry, Google has been airing its concerns about the situation, with Richard Salgado, Legal Director, Law Enforcement and Information Security, commenting as far back as February 2015 that there’s a big question mark over the geographical reach of the amended rule: 
+
+Even if the intent of the proposed change is to permit U.S. authorities to obtain a warrant to directly access and retrieve data only from computers and devices within the US, there is nothing in the proposed change to Rule 41 that would prevent access to computers and devices worldwide. 
+The US  has many diplomatic arrangements in place with other countries to cooperate in investigations that cross national borders, including Mutual Legal Assistance Treaties (MLATs). Google supports ongoing efforts to improve cooperation among governments, and we are concerned that the proposed change to Rule 41 could undermine those efforts.
+
+
+In flux
+Since Salgado wrote that, Safe Harbor has been struck down and replaced by the so-called Privacy Shield. This in itself has come under scrutiny and criticism from opponents who say it doesn’t carry enough weight. Critics include the EU’s own Article 29 Working Party data protection watchdog!
+Last month, privacy group Digital Rights Ireland issued a legal challenge to be heard in the European Union Court of Justice, claiming Privacy  Shield does not sufficiently protect the personal data of EU citizens. In separate proceedings, French digital rights group La Quadrature du Net has launched its own challenge, questioning the effectiveness and independence of the promised Privacy Shield US Ombudsman in dealing with complaints. 
+Elsewhere the US Justice Department is still in hot pursuit of emails stored on a Microsoft server located in Ireland, arguing that the vendor’s status as a US company means it should be subject to US law regardless of where data is physically stored. 
+So all told, it’s fair to say that data sovereignty and data residency and the reach of the US law enforcement and intelligence agencies remains a hugely controversial and explosive mix. 
+In reality, the impact of Rule 41 is uncertain, but the potential for trouble clearly exists. This is something that will inevitably end up being challenged by privacy advocates outside of the US as well as within American borders. Techmarketview analyst Martin Courtney makes the point that: 
+
+We probably won’t know if the amended rule extends beyond US borders until it is actually tested in court though. And any attempt by US authorities to access the private data of EU citizens which is stored only in European data centres and never transferred to the US (and beyond the remit of the EU – US Privacy Shield) is bound to clash with national and EU data protection laws.
+Like everybody else, we’re waiting to see how the application of Rule 41 actually plays out. In the meantime the tussle will continue as US providers like Microsoft, IBM and Amazon Web Services make big investments in expanded UK-based hosting facilities to head off any concerns, whilst UK companies like UKCloud proclaim immunity to intrusive US legislation.
+
+For the cloud services industry, the uncertainty around the reach of Rule 41 is another unhelpful contribution to a decision-making climate already hit by Brexit and the election of Donald Trump as US President, with the subsequent lack of clarity around trade agreements that has ensued. 
+For enterprise and government buyers, the question is increasingly one of how up to speed they are – or indeed, can be – with what is a morphing and evolving state of affairs. 
+As noted by Techmarketview’s Courtney, US cloud services firms have been invested in data centers within the European Union in order to ‘tick the box’ around data residency and data sovereignty concerns and legislation. 
+This may no longer be enough, suggests Nicky Stewart, Commercial Director at UKCloud, which as a cloud services addresses only UK public sector customers and falls entirely under UK regulation. Stewart argues that the residency and sovereignty are terms that are due some re-examination: 
+
+Data sovereignty and data residency have been used interchangeably with the assumption that where data resides is where it’s covered by legislation. So if you keep your data in the UK, then it’s assumed it’s only subject to UK law. That looks like a mistaken assumption. Data sovereignty should be about having data subject only to the law of where it is resident. 
+
+Added to the mix of ongoing issues is the forthcoming introduction of the European Union’s General Data Protection Regulation (GDPR), which will provide consumers and citizens with more rights to deny organisations the right to hold personal data on them. Stewart asks: 
+
+Where does that leave you if you’re an enterprise buyer? If just 5% of your user base says, ‘We don’t like the look of what Trump is going to do about surveillance’ or ‘We’re worried about Rule 41’, that’s going to be a big problem. 
+There aren’t really many cut-and-dried answers in all of this. The answers are being made up on-the-hoof through legal process and there’s a lot of legal process that’s going to have to happen before we fully understand what it means. Is the average enterprise or government buyer up for that? 
+We are potentially moving into a dangerous scenario. This is a topic that is just going to get bigger and bigger. Rule 41 puts things into the serious category. 
+
+My take
+While the amendment to Rule 41 has been on the cards for some time, this is a case of a piece of legislation coming in under the radar and with conspicuously little political scrutiny, both in the US and internationally. 
+It’s a hugely unhelpful contribution to the increasing ‘bugger’s muddle’ around data sovereignty/residency/transfer. We’ve said from the get-go that the so-called Privacy Shield was a comfort blanket knitted from wooly thinking. Away from the legal challenges, that’s due to come under review next year and may well come unravelled at that point. 
+Meanwhile the DoJ is clearly hellbent on taking Microsoft on as far as it can to prove its point and set an appalling precedent in the process. And GDPR is just around the corner, with a horrifying number of organisations not up to speed with the impact that’s going to have. 
+Add to this, the likelihood that the Trump administration will be highly supportive of efforts for increased surveillance. The day after Rule 41 kicked in, the President Elect picked up on his campaign commitment to ‘closing’ parts of the internet: 
+
+Somebody will say, ‘Oh freedom of speech, freedom of speech.’ These are foolish people. We have a lot of foolish people.
+
+He also added: 
+
+We have to go see Bill Gates and a lot of different people that really understand what’s happening.
+
+Unfortunately for Trump, Gates (and most of the ‘different people’ he’s presumably alluding to) will also fall into his categorisation of foolish people. But hey, if North Korea and China get to shut off the internet, why not the USA?
+Meanwhile for cloud services buyers around the world, things just get more complicated – and that’s not helpful for anyone. 
+Image credit -  Sky background. © creative soul - Fotolia.comRead more on: Data privacyDigital government and public servicesGoverning identity privacy and securityRegulation
+

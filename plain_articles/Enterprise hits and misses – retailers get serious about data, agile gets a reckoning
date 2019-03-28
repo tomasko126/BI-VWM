@@ -1,0 +1,65 @@
+
+
+Lead story – Retailers go all-in on digital and analytics – stories by Stuart Lauchlan, Sooraj Shah and Angelica Mari.
+myPOV: When you’re trying to outmaneuver a market gorilla with uncanny tech chops (Amazon), you’ve got to be relentless about data/analytics/modernization. The diginomica team surfaced use cases of retailers of all stripes doing just that.
+Start with Stuart’s Amazon alliances and analytics – digital plays to stop Lands End becoming a cliff-edge? In this case, co-existence with Amazon looks like the smart play. If half your apparel searches start on Amazon, leveraging the channel works better than ignoring it. (By the way, Stuart, we see what you did with that cliff’s edge wordplay).
+In Managing cloud skills at Travelex on its digital journey with AWS, Angelica explores the talent lessons of Travelex’s 2020 digital transformation plan, now 25 percent complete. To win in digital, Travelex is working hard to answer this talent question:
+The people Travelex wants are attracted to fintechs and the perks they can offer, rather than traditional businesses. So what is the company saying it will provide to its staff regarding career development once the heavy-lifting of its digital transformation is completed?
+Another retail cloud story comes via Sooraj in Hotels.com goes all-in on AWS to power decisions with machine learning. One big revelation? Data visibility:
+One of the main differences in the way data is used in the company has come as a result of machine learning. Fryer explains that data now flows back around the source instead of being analyzed in isolation – and this has given engineers who track, build and send data into the data stack a completely different experience.
+That brings us to the underlying trend Stuart calls attention to: it’s the gritty data work underneath the sexy customer stuff. Ergo, it’s the platform:
+There’s a need, of course, for the flashy front end and the mobile commerce/app play as well – de rigeur these days – but building a solid platform to support such activities is critical long-term.
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+“We’re playing offense not defense” – a conversation with Aneel Bhusri, CEO Workday – Den goes straight to the source for context on the Adaptive Insight acquisition. Bhusri’s practical rationale: “Our view, especially since we’re selling the core accounting suite as well is that we had to delight the CFO. That is Adaptive’s vision. That’s why they were so attractive to us. They’re very CFO-focused.” Meanwhile, Brian tackles this from the Adaptive customer perspective: 5 things Adaptive Insights customers should consider before the Workday deal closes.
+The five things SAP must do next to find success in the cloud – Phil got an earful of SAP’s intelligent-enterprise-beyond-CRM-cloud-company-future-is-fantastico themes this spring. Here’s his five points for SAP to realize its cloudy ambitions. Phil’s right on integration, but my pick for the top of that list would be “partner education” (and transformation).
+Salesforce Connections 2018 – inside DoorDash’s plans to transform its customer support with AI – Though I didn’t see as much of Chicago as Ferris Bueller once did, I came back from Salesforce Connections with a slew of use cases like DoorDash (service) and USA Today (marketing), as well as context on the B2B commerce news as the blurring of B2B/B2C continues.
+
+A couple more vendor picks, without the quips:
+
+Couchbase CEO on the balancing act of creating an engagement database that caters to all – Derek
+Tibco’s Scribe buy – does the eco-system matter more than the tech? – Martin
+
+Jon’s grab bag – Janine issues one of her periodic wake up calls to HR departments in Hey HR, are you ‘digitally hungry’? You should be! This time, she’s got the motivational help of Helen Rosethorn’s six archetypes for the HR evolutionary scale. If you can move through “cultural shaper,” you might even get to the highest level of maturity, “provocateurs,” who are, evidently, full-on pioneers and disruptors. I’m just pleased that provocateurs can be considered mature individuals – something to shoot for.
+With so many enterprise software companies flailing for leaderhip hiring exciting new CEOs, who better than Brian Sommer to break out a satirical how-to for the aspiring? (How to ace your software vendor CEO interview). On a serious note, Stuart put tech leadership in moral focus with Trump’s child separation policy challenges more than just Microsoft to take a lead. As Stuart says in his analysis, diginomica does not aspire to be political. But: we don’t sit on fences either. Take it away Stuart:
+
+In consultancy engagements with tech vendors around their messaging, one of the things I’ve advised over the years is a simple rule-of-thumb – no sex, no religion, no politics.
+But we live in a different time, one in which corporate activism is on the rise and the tech sector looks to be the better for it. At diginomica, we’ve made no secret of our commitment to equality, diversity and basic fairness in society – not just in the U.S – and that remains hardwired into our own corporate DNA. It will surprise no-one then that looking at pictures of distressed children in cages sickens us.
+
+Best of the rest
+ Lead story – Has Agile Programming Lost its Way? by David Cassel
+
+myPOV: So one of the seventeen authors of the Agile Manifesto isn’t happy with how the agile methodology he espoused has gone from provocative new approach to overhyped techno-marketing hype-drivel lipstick on a self-congratulatory project pig.
+Last month, said author, Ron Jeffries, ruffled the feathers of true believers with his admittedly link-baity-title of Developers Should Abandon Agile. The New Stack’s David Cassel pulled a smart blogging move we don’t see nearly enough: he pinged Jeffries, and pulled out the context behind the rant.
+I can’t capture all of that here, but Jeffries hasn’t wavered in his belief in “extreme programming,” an agile way of getting code out the door in iterative, customer-accountable chunks. But as Cassel reports, he worries about the “‘Agile-Industrial Complex” of larded-up ideas that get away from its jugular core. Jeffries calls out “faux agile” and even “dark agile” (sounds kinda scary, I wouldn’t want that near my project!).
+Cassel also refers to concerning studies which indicate agile hasn’t paid off in business outcomes – at least not to the degree agile advocates hoped. Jeffries sees another danger, with agile used as a management hammer to pressurize the development team, without providing adequate training or resources.
+Alas, this baggage comes with the amount of traction agile methodologies have achieved (it’s a problem of success, not neglect). Collaborative/iterative programming is here to stay, but Jeffries and Cassel frame a healthy debate regardless.
+Other standouts:
+
+SaaS Cloud Subscriptions: When “On-Demand” Really Isn’t – SaaS hasn’t solved the problem of lock-in. UpperEdge’s Adam Mansfield lays it down: “Most SaaS cloud subscription agreements don’t reflect a truly on-demand highly flexible model. They are not structured for precision metering of actual consumption.” Yup.
+Top SAP watchers grade Sapphire Now – I know all three of these guys; you could say they are saps from time to time, but they aren’t saplings. They’ve notched enough Sapphire Nows between them to recall when Jon Bon Jovi was Justin Timberlake. That benefits their analysis here, with Josh Greenbaum issuing frank reflections in The Bad, the Ugly, and the Good: Speeding Through SAP’s SAPPHIRE Show. TEC’s PJ Jakovljevic provides context on SAP’s C/4HANA play in Espousing a “Holistic and Trusted Customer Experience” with SAP C/4HANA. Given Paul Greenberg’s CRM chops, his detailed take on SAP’s reinventing-CRM bravado (what he liked, what he didn’t), is welcome: SAP pivots as the customer turns 2018.
+
+Honorable mention 
+Things I’d Like to See Go Away – Fake Personalization – Hank Barnes has had it up to here with fake personalization: “It’s driving the people you want to engage with crazy.” All the while, companies pat themselves on the back about their “email engagement rates.” Don’t worry John Sam Fred Hank, we’ll figure out a way to get these pseudo-personal fools… someday.
+Adobe could be the next $10 billion software company – I would have framed this title as a question, and answered “no,” but Ron Miller is more optimistic. To be fair, he isn’t the only smart enterprise person who recently told me they like Adobe’s chances. Full disclosure: I’m just getting over a nasty PDF conversion affair.
+Voice assistants: Moving from party tricks to practical applications – Brent Leary continues his fruitful series on voice UIs. Also check his embedded video; Leary has been sneakily building up a huge amount of video content shooting informal (but well produced) event shoots.
+Practical AI in focus – a chat on customer use cases and AI hype overload with Brian Dennett of Enable AI – If you’re in a podcasty mood, here’s a live one I taped at Sapphire Now (it’s safe to consume regardless of your SAP interest level).
+Whiffs
+Let’s start with the goofy: my headline-of-the-week award goes to devonlive: Huge sex-crazed moths have arrived in the UK – and they are looking for love. Close second: Georgia county fears thousands of hippies might come to Bull Mountain (I’m rooting for the hippies, FYI).
+Less goofy, more concerning: You can now get Amazon’s Alexa in your hotel room — but concerns rise about privacy. (It’s actually a Marriott pilot program for now, but smart devices listening to whatever the hell we are doing sure looks like the future. It will be on us to know how – and when – to opt-out). Amazon seems determined to give Facebook and Google a run in the privacy meltdown circus: Amazon shareholders to Jeff Bezos: Stop marketing facial recognition tool.
+This went well:
+
+Unbreakable smart lock devastated to discover screwdrivers exist https://t.co/G9JCeRuc0V -> wonder how the seed money investors are feeling right about now. #boneheadalert of sorts? cc: @fscavo
+— Jon Reed (@jonerp) June 17, 2018
+I usually vent about the dangers of lock-in. Well, here’s one time when making sure users were locked in would have been a good idea. My last word:
+
+maybe there is a bigger market for sorta-secure locks than we realized
+— Jon Reed (@jonerp) June 17, 2018
+The perils of live mics were a theme this week, eh?
+
+Fox Sports broadcast of U.S. Open inadvertently picks up sex talk https://t.co/fNZ9K4MW10 -> if I may quote Spinal Tap, “What’s wrong with bein’ sexy?”
+— Jon Reed (@jonerp) June 17, 2018
+Might as well end on a Spinal Tap reference. See you next time…
+ If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, King Checkmate © mystock88photo - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: DevOps NoSQL and the open source stackDigital skills and trainingHits and missesRetail e-commerce and the omni-channel 

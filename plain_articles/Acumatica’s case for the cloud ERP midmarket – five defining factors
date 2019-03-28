@@ -1,0 +1,79 @@
+
+Acumatica CEO Jon Roskill
+On September 7, Acumatica summoned a group of crotchety inquiring analysts into Boston – including yours truly – to get the latest on its cloud ERP pursuits. That was followed by a public launch event on September 8: the official release of Acumatica 6. Needless to say, the Acumatica faithful were jazzed up by the new release.
+But the kicker question is: how has the cloud ERP opportunity changed in the midmarket? I last assessed Acumatica’s cloud ERP chances after their January 2016 partner summit, so we’re due for a catchup.
+I find Acumatica a fascinating ERP vendor to follow; they flip ERP convention on its head. Acumatica has a different set of pros and cons than most so-called “cloud” ERP midmarket players. Most ERP vendors in the midmarket space are heavy on ERP functionality, and weak when it comes to true cloud architecture.
+Hosted pseudo-cloud solutions and lipstick-on-an-architectural-pig releases are the norm. Acumatica’s strength is its next-gen cloud platform (dubbed xRP), whereas functionality parity and brand recognition are Acumatica’s historical challenges. That’s changed a bit, however.
+The ERP midmarket opportunity – five defining characteristics
+Acumatica always does a good job of framing the midmarket cloud ERP opportunity. The same held true this time around, with CEO Jon Roskill doubling down on what he’s dubbed as the “abandoned ERP midmarket.” As I see it, five principles inform Roskill’s view:
+
+Cloud ERP midmarket growth is accelerating.
+Midmarket companies are more complex today; they require sophisticated solutions.
+We’re living in a multi-cloud world – if you can’t easily integrate with other vendors’ clouds, your value is compromised.
+In this multi-cloud world, your cloud ERP solution is the hub and central-system-of-record.
+Midmarket ERP requires vertical solutions – one generic/horizontal ERP app doesn’t fit all.
+
+With NetSuite moving upmarket and now in Larry Ellison’s empire (Roskill couldn’t resist a jab or two in that direction), Roskill sees a terrific argument for staying put. Yes, Oracle, SAP, and Workday have all recently announced midmarket cloud ERP initiatives, but those plays are still in the upper end of where Acumatica focuses.
+The big ol’ elephant in the cloud ERP midmarket is, of course, Microsoft. That might explain why Acumatica has gone the extra mile to integrate with Microsoft tools, first with Office 365 and now, as of Acumatica 6, with Outlook.
+1. Cloud ERP adoption is accelerating
+Roskill made his case for the rise of cloud ERP in the midmarket:
+
+.@Jon_Roskill talking about ERP as last workload (after HR + CRM) to move to the cloud, why ERP-to-cloud is “accelerating”. #acumatica6
+— Jon Reed (@jonerp) September 8, 2016
+He brought a slide with consolidated data from Gartner, Forrester and IDC to visualize the point:
+
+Roskill contrasted that with on-premises: the overall ERP market is growing at 4-5 percent, with cloud-based ERP segment is growing by 25 percent. Roskill believes about 15-20 percent of midmarket ERP is in the cloud, ergo: a major growth opportunity.
+2. The midmarket needs sophisticated solutions. Another piece of the midmarket opportunity: midmarket companies’ needs have become more complex:
+
+.@Jon_Roskill: ““What SMBs want in their software solutions is as complex as what enterprises wanted ten years ago” #Acumatica6
+— Jon Reed (@jonerp) September 7, 2016
+I saw that in my piece on Acumatica customer Danforth Pewter. These family-owned crafts stores in Vermont have to manage 2,200 SKUs and counting.
+3. We’re living in a multi-cloud world – Roskill made an aggressive case for a multi-cloud reality. It’s foolish for one vendor to pretend they can throw a suite at all problems. That means open architecture and owning integration:
+
+@Jon_Roskill: the future is a multi-cloud world – doing integration between clouds is a critical success factor for modern ERP #acumatica6
+— Jon Reed (@jonerp) September 7, 2016
+4. In this multi-cloud world, your cloud ERP solution is the hub and central-system-of-record. Roskill’s multi-cloud slide puts ERP as the system of record:
+
+Over the years, Acumatica has shown us integrations to many of the solutions above. Salesforce might take issue with Roskill’s ERP-as-system of record characterization. For Acumatica, a multi-cloud architecture opens up possibilities to exploit third party solutions and offer ISVs deep integration with the Acumatica core, which brings us to:
+5. Midmarket ERP requires vertical solutions – one generic/horizontal ERP app doesn’t fit all. Vertical solutions have long been a key factor in Acumatica’s go-to-market. Empowering ISVs like Fusion POS (retail) and JAAS Systems (manufacturing) has long been a core approach. Integrating Magento on the e-commerce side has reaped dividends; Magento’s UX is the best-looking UX I’ve seen from Acumatica demos to date. Acumatica’s strongest verticals reflect those partnerships:
+
+services (24 percent)
+wholesale distribution (18 percent)
+manufacturing (16 percent)
+retail and e-commerce (11 percent)
+
+Given those numbers, it’s no surprise Acumatica acquired services industry partner M5 last April. Vertical cloud ERP is gaining momentum. Customers might start with financials, but they want partners that can speak to their industry, with compelling out-of-box functionality.
+Acumatica – by the numbers
+
+2000+ customers – Acumatica didn’t give us an exact customer count, but they hit their 2,000th customer around the January 2016 summit, so 2,000+ works. 200+ of those customers are from their OEM partners.
+70+ ISV partners 
+200+ partners overall
+3rd year of more than 100 percent growth, with 134 percent SaaS growth
+Acumatica is adding partners at a rate of about 40 per year.
+Three partner categories – Acumatica’s entire go-to-market is based on partners in three categories: services partners, ISVs, and OEM (white label).
+Five OEM partners – Acumatica now has five OEM partners, each in a defined geography: MYOB (Australia), VisMa (Norway), ACCEO (Canada), Lexware (Germany) and Censof (Southeast Asia – Censof was announced after the launch event; we were told under NDA).
+
+Roskill told us the OEM strategy is picking up steam; it’s proved to be a potent way of boosting revenues (a $1 million annual contract is the baseline), while improving the core product as OEM partners push for enhancements. Without any inside knowledge, I expect more OEMs to be announced; Acumatica now has a clearer idea of which regions are a good fit to pursue.
+Acumatica 6 release highlights
+Acumatica 6 has a host of new features. Here’s a few that stood out to me:
+
+Acumatica CRM Outlook Add-In – the full integration means you can basically live in Outlook – admittedly, a scary thought. You can pull in CRM data as needed without leaving your Outlook inbox.
+self-service analytics – Acumatica has improved its dashboards with “self-service analytics,” customizable by the user.
+REST API with web services – a full-blown REST API should make Acumatica even easier to integrate with, and easier for web programmers to work with as many prefer REST to typical ERP interfaces.
+continuous release cycle option – customers can now choose a bi-weekly release cycles for updates and new features.
+
+My take
+I’ve noted Acumatica’s challenges on brand awareness and functionality parity. The brand awareness part is still a work in progress. On functional parity, Acumatica is making strides. One trusted source involved in vendor evaluations told me that while “Acumatica is still under the radar” with buyers, when Acumatica does get onto a short list, it is faring better from a functionality comparison standpoint.
+If Acumatica continues to close the gap on these two fronts, it’s game on. Speaking of which, Acumatica’s customer library has a very clever/savvy section where you can learn about replacement deals it’s won by vendor:
+
+Acumatica’s five-point analysis of the cloud ERP market rings true. Multi-cloud, despite being a totally painful buzzword, is where we’re headed. If so, that plays to Acumatica’s open platform strengths.
+Acumatica’s xRP platform and ISV strategy puts it in a very good position to go deeper into a vertical cloud ERP strategy. If they choose to do that, it could help them seize a competitive advantage, particularly against the likes of Microsoft which is unlikely to verticalize much. However, many existing Acumatica partners are probably not ready to offer vertical consulting or software – a problem Acumatica is acutely aware of, and working to address.
+Given Acumatica’s dependence on partners, that’s the third area I would flag with the most challenges – Success as a cloud consulting partner requires competencies many ERP services providers fall short on. Most partners are not ready for the content-driven needs of modern marketing either – though Acumatica CMO Kathy Visser-May gave a solid talk that showed how Acumatica can support its partners with digital marketing transitions.
+On the day of the event, Brian Sommer and I taped a podcast review, embedded below. We started out by joking about the NDA muzzle. Though some of the NDA info is in the public domain, other content we were briefed on is still NDA, so I’m holding a few punches as I type. Sommer’s critique was that Acumutica should have highlighted their IoT/big data plays, which he felt were more organic/advanced than most:
+The additional focus the company clued us in on was how customers and resellers are utilizing new technologies like machine learning technology or artificial intelligence, RFID, and even Internet of Things – all of which is already showing up inside product. I made an observation in the analyst meeting that I thought they’d kind of buried that headline. Those were very big points, because while we hear lots of vendors talk about incorporating machine learning in IoT and so forth into their software solutions, I wasn’t expecting to hear that these folks actually had customers utilizing it.
+Acumatica has a fascinating relationship with Microsoft. Perhaps its biggest competitive threat, there is also a fruitful partnership with some impressive Power BI integrations. And: it runs on Azure (if you want), though pretty much everyone does these days. Acumatica’s leadership has strong ties to Microsoft, including Microsoft alumni in key roles. But the cloud ERP midmarket has many players, and many verticals to serve. It’s more about execution than fretting over competitors.
+One weakness we can cross off the list: leadership instability. After going through a stream of executive leadership shifts the last few years, Acumatica hasn’t made any big lineup changes. That should serve them well heading into their next big partner/customer event in January 2017.
+
+Acumatica – reviewing their cloud ERP pursuits podcast. Also on iTunes.
+I have some bonus content from this analysis I’ll release on Monday.
+Image credit - Screen shots used by permission of Acumatica. My photo of Jon Roskill is from a prior event - my photos from this event were lousy, I blame the room lighting. Disclosure - Acumatica covered the bulk of my travel expenses to drive into Boston and stay for the event. Acumatica is a diginomica partner. Salesforce, NetSuite and Oracle are diginomica premier partners.  Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureCollaboration sharing and digital productivityFinancials 

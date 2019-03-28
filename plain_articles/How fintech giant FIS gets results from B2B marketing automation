@@ -1,0 +1,60 @@
+
+The $9 billion acquisition of SunGard in 2015 by larger financial software and services giant FIS led to some big decisions about which software the combined company would use for its sales and marketing operations. SunGard had been an early adopter of Salesforce for sales automation — it was the vendor’s first 1,000-seat customer back in 2003 — whereas FIS had standardized on Microsoft Dynamics. In marketing automation, FIS used Eloqua, while SunGard was a Marketo house.
+Whichever combination was chosen would have to support a sales pipeline that deals in complex, high-value transactions, where personal sales contact plays a key role in closing deals. As Colin Day, who as vice president of the FIS Global Demand Centre is responsible for the marketing pipeline, explains:
+Some of our solutions sell for millions of dollars, especially if you look at total contract value over a five-year period
+FIS is the world’s largest company dedicated to financial technology solutions, with $9.2 billion in annual revenue and 55,000 employees worldwide. It sells software, services, consulting and outsourcing solutions to 20,000 financial industry customers in over 130 countries around the world, across banking and payments, capital markets, risk management, asset management and wealth solutions. Day sums up:
+Wherever there’s money, there’s typically an FIS solution in some way, shape or form.
+Ultimately, the decisions were made in favor of Microsoft and Marketo. The switch to Microsoft Dynamics took place in May this year, ten months after rolling out a new instance of Marketo across both organisations. I recently spoke to Day about the motive for consolidating on a single platform and the impact of rolling out Marketo across the combined business.
+Obviously with mergers and acquisitions, you end up with multiple technology stacks. It’s then a case of, ‘I only need one, which one do I take?’ We did diligence on both platforms. We looked at total cost of ownership, ease of use, ease of integration with our stack, as well as looking at the resource pool that was out there in the marketplace.
+Marketo won. We then set about moving that SunGard instance onto a new instance of Marketo that we could use as a consolidated platform for all parts of the business. It took us 3 months to do the move off of Eloqua.
+A year on, Day’s reflections on the results of the consolidated platform can be distilled into seven recommendations for getting the best out of B2B marketing automation.
+1. Measure your impact
+Standardizing on a single system across the business has made it possible to track marketing’s contribution in a way that hadn’t been possible before. The first year showed it was working well, says Day:
+It really gave us the ability to have a standard platform that we could report against and demonstrate our successes. It was the first year in FIS’s history, where marketing truly stood shoulder to shoulder with sales.
+We took a number. That number was 30% contribution to sales pipeline that we had to source, and 10% contribution to closed-won business — and we blew those numbers away. It was a great year, we’ve just got to do it again this year.
+Being able to show a quantifiable impact helps the sales side to recogize the value that marketing brings to the table, says Day.
+Historically, marketing was viewed as the events team. That’s what it was, ‘You’re there to run events.’
+It’s so much stronger now that you can demonstrate the value that you bring to the organisation. As a sales person, you don’t want to be out there building 100% of your pipeline. If someone can help deliver up 30% of it, then you’re in a much better place. It means that you need to focus on filling the 70% and closing the 30%.
+Selling’s a team sport and marketing has to be an important part of that team.
+2. Align spending to impact
+In preparation for the new platform, FIS looked at its sales and marketing processes and compared how it was allocating its marketing budget compared to benchmarks in the industry. This led to a rebalancing, as Day explains:
+We found that we were over-investing in some areas — most notably events — and under investing in others, even those that would typically drive demand. Once we did that reallocation, we ended up doubling our investment in digital [as part of moving] to a digital-first strategy.
+We almost halved our [percentage] spend on events and we increased our allocation to content by five fold.
+3. It’s about engagement
+The greater emphasis on digital helps build engagement with buyers. Alongside Marketo and Salesforce, FIS uses Oktopost for social advocacy, Kapost for content origination and ideation, Cvent for event management, and Workfront project management software to manage the workflow involved in running events.
+All of this comes together in the Marketo platform to help nurture engagement, Day explains.
+It’s about understanding those buyers. Our content changes, based upon how the target audience interacts with it. For example, we may have a seed stream that we’re running in the Marketo environment that tries to get you to engage with us.
+As you start to engage with us and consume our content, we start to understand a little bit about your likes, your dislikes, what maybe you’re in the market for. Then we’ll drop you into a nurture stream so that we can drip the relevant content out to you.
+4. Standardize and automate
+Having a single platform across the business has helped build a sense of team spirit that wasn’t possible when the marketing team were operating in separate business silos, says Day.
+You’re breaking down the barriers between the business. The silos start to come down.
+It gives us an ease of monitoring and managing the business. It gives me and the rest of the leadership team clearer sight over the engagement with a client and with a prospect. You do start to get that 360 degree view of the interactions.
+An important part of building that sense of common purpose is to make sure everyone shares the same understanding of their goals, he adds.
+We needed a common vocabulary, that was going to be key to helping us change the culture of the marketing organization. We set about working to put in a training pathway that really helped to level-set all of our marketing associates and give them that common language and that common understanding of what a campaign was. We’ve evolved that and it’s really now about role-based pathways.
+Having the technology to automate processes was equally important for co-ordinating the work of the marketing team at scale.
+If you’re going to operationalize a campaign framework for a $9.2 billion revenue company, you need the help of tools and technology. That’s really where the Marketo platform, amongst other things, came into play …
+If we look at the addressable market that we’ve built inside our organisation, it’s 1.48 million contacts. Try doing that manually, try sending content out to those people manually, try tracking those interactions manually — it doesn’t work.
+5. Create and track content
+Content has become a vital part of the new digital strategy, says Day:
+The key learning for us with marketing automation platforms, be it Marketo or anything, is, don’t underestimate the quantity and quality of content that you need in order to feed that engine.
+Without that gas in the tank, it’s not going anywhere … Without the content, it isn’t worth having at all. [It’s the] be all and end all.
+If there’s nothing to go into it, there’s no journey to track.
+Again, it’s important to have the metrics to demonstrate the impact of that investment in content.
+Sometimes the internal challenges that we have today has moved away from being events and it’s now, ‘Marketing’s the email folks.’ Inside some parts of the organisation there’s still a mindset shift that needs to happen.
+But the way that you influence that — the way that you drive it — is by those metrics, being able to show the contribution of marketing to the overall organisation.
+Statistically, it’s around 70% of someone’s research is going to be done, way before they even start to engage one of my sellers.
+6. It’s quality not quantity
+One of the key things to get right in a digital strategy is to manage engagement so that’s appropriate and never overwhelming, says Day.
+We actually have a cadence where we look to only engage with someone in our seed or nurture streams every two to three weeks, dependent upon whether they’re in a seed or a nurture stream.
+So we’re only dropping material out to you every two to three weeks, so that we don’t over saturate you, we don’t become noise in the day-to-day world.
+Varying the content and where it comes from is equally important.
+We’re also looking at other avenues to get you to engage with us, be it through your mobile device. We’re looking to put more thought leadership material out there that’s not just ours. We’ll federate content and redistribute it out to our clients and our prospects that’s not just FIS-originated.
+7. Work the data
+The area where automation really counts is in extracting maximum value from the data that the marketing team collects. Volume of data counts for little unless you make good use of it, Day believes.
+The company that has the most data isn’t going to be the one that wins. It’s the one that’s able to interpret it and make rational business decisions off the back of it.
+That’s why, when we started our transformation, we needed to start with a good foundation of, who is our target audience? What do we have by way of firmagraphic information about those companies? Once we built the companies, who are the key people that we engage with or need to engage with during the sales cycle? Then let’s go and build up that data base.
+There’s an urgency too because the data ages rapidly, he adds.
+That data base churns 4% every single month.
+So if you do nothing with our database over a 12-month period? Almost 50% of it’s eroded and irrelevant. That’s the nature of the beast. My data ops team have one of the most crucial roles in the organization, although the organization doesn’t necessarily know it.
+To me, data’s king.
+Image credit - Marketing direction megaphone to digital cogs © bakhtiarzein – Fotolia.comDisclosure - Marketo is a diginomica premier partner and funded the author's shorthaul flight to attend its San Francisco conference in April, where this interview took place. Read more on: CRM and customer experienceDigital and content marketingFinancial services and fintechUse cases 

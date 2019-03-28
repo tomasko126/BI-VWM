@@ -1,0 +1,94 @@
+
+1. Frictionless enterprise arrives
+The technology is merely a catalyst for more radical reform of the entire organization, encompassing its structure, business processes and modes of working … In other words, connected digital technologies demand a complete reinvention of what we think of as the enterprise.
+My New Year resolution for 2017 is to finally publish a long-overdue and much-promised e-book on the concept of frictionless enterprise as a framework for digital transformation. The past year has been notable for the number of real-world examples that demonstrate how the framework works in practice, which I’ll highlight as we count down this review of the year.
+See:
+
+Frictionless enterprise: the goal of digital transformation
+Frictionless enterprise as a platform – avoiding Uberization
+
+2. Revealing use cases
+She called me, and she said, ‘What’s this I hear, you are going to give access to the procurement system to 9,000 employees? That’s crazy, they are going to spend more.’
+One of the pleasures of writing for diginomica is that I get to hear change leaders talk about how they overcame the inevitable challenges they encountered, such as David Hearn’s project to roll out cloud-based spend management at a leading network equipment manufacturer. Whether it’s recalcitrant functional chiefs, stove-piped data or dyed-in-the-wool paper-pushers, it takes a firm plan and a robust attitude to make change happen. It’s great when people are willing to share so many stories so that others can learn from and be inspired by their experiences.
+See:
+
+The battles fought when Juniper Networks adopted Coupa
+Jaguar Land Rover put HR in the cloud. Here’s what it learned
+AstraZeneca CIO Dave Smoley’s 6-point cloud toolkit
+Trainline’s journey of migration from Exadata to AWS
+
+3. Digital teamwork matures
+We decided to create a playbook that essentially takes out managers. It says that the team own their destiny, the team is autonomous, the team is empowered, and how can we give them the right tools and exercises to work autonomously.
+Effective collaboration is one of the cornerstones of frictionless enterprise but it has to be nurtured and supported. Vendors are bringing out innovative new digital collaboration tools (or building them into existing products) but you can’t just roll out these digital collaboration tools without providing a framework for people to use them. Especially when, as Atlassian’s head of research and development Dom Price explains in the above quote, it demands a fundamental rearchitecture of the enterprise. An intriguing user story from banking giant ING late in the year demonstrated that the radical team structures of agile development organizations are actually a model that can be applied throughout the enterprise. Now we’re getting somewhere.
+See:
+
+Did Atlassian just crack the code on digital teamwork?
+The human dimension of digital collaboration
+Delivering devops tools to the tribes and squads at Sky Bet
+How IT leads disruptive innovation at banking giant ING
+
+4. A stand on diversity
+When technology is rapidly breaking down the barriers that used to prevent people interacting with each other, diversity broadens your talent pool, boosts innovation and equips you to engage with the broadest market.
+Like much of the tech industry we cover, diginomica is proud to take a stand on diversity. Despite the turn that politics has taken this year, we also happen to think it’s an essential attribute of a successful digital business, as the quote above explains.
+See:
+
+Why does a tech media site have a focus on diversity?
+The new tech jobs that quietly shape our culture
+Technology, diversity, globalization and the left-behind
+
+5. Functional boundaries dissolve
+The only way we could really make a stepchange was by decentralising the ownership of some of the components and decentralizing the innovation.
+I mentioned earlier how digital teamwork entails a fundamental restructure of the enterprise, citing the example of ING. The above quote is from Unilever’s director of global enterprise business integration, explaining how its IT function has exposed APIs and microservices to facilitate more agile reuse across the business. These frictionless connections and processes cut across traditional functional boundaries, both within and beyond the enterprise, enabling a flatter organization that can move faster to deliver better outcomes.
+See:
+
+Unilever’s API-led journey to adaptive integration
+The 3 critical faultlines in retail transformation
+Transforming the supply chain for better customer experiences
+
+6. Global SIs get cloud
+The global SIs are being hollowed out from the inside as they absorb their acquisitions’ cloud DNA.
+This has been a year of significant consolidation in the world of cloud integrators, with Bluewolf becoming part of IBM, DayNine acquired by Accenture and Wipro buying Appirio. But as I suggested in the quote above, it may be more a case of the smaller players invading their hosts. While some SIs still don’t get it, there are reassuring signs that the majority do recognize the specific skills and methodologies that work best on cloud projects in what is still a fast-growing market.
+See:
+
+Watch out Accenture, Deloitte – here comes Wip-pirio
+Dreamforce16 – how Accenture is skilling up for Salesforce
+SAP’s Mike Ettling on the cloud ‘haves’ and ‘have-nots’
+
+7. Mapping paths to servitization
+Delivering the outcome, delivering the process, delivering the performance. Those are, to my mind, the crown jewels.
+It’s too ugly to qualify as a buzzword, but it’s on everyone’s lips at the moment as enterprises start getting the service bug. In the above quote, servitization expert Professor Tim Baines from Aston Business School sets out the goal when product companies evolve service offerings. A few days later, industrial giant GE showed just how valuable that goal is, when it spent almost billion dollars to acquire field service management vendor ServiceMax. Another facet of servitization is the move to pay-as-you-go and subscription contracts promoted by Zuora among others, while within the enterprise, ServiceNow’s success is built on recomposing process workflows as service contracts. Coupa CEO Rob Bernshteyn describes all of this refocus on outcomes as ‘value-as-a-service’.
+See:
+
+Mapping paths to servitization – can field service lead the way?
+Zuora CEO on the $8 trillion subscription economy opportunity
+ServiceNow, the Swiss Army knife of service management
+Coupa CEO – we’re a ‘value as a service’ company
+
+8. New tiers in the cloud
+If you’re not in the public cloud you don’t have access to the commodity innovation that allows you to add that to your product and innovate to your end customers.
+This was Xero CEO Rod Drury, speaking in February about his company’s move off its own servers to AWS, with the clincher being the ability to tap into Amazon’s investments in data analytics and machine learning. This set a trend for the year — in April, Salesforce-native ISV Apttus ported its application to Microsoft Azure because, CEO Kirk Krappe told me, the Salesforce platform doesn’t offer “the level of sophistication we need.” Meanwhile, AWS has been making a pitch for serverless computing, which moves the competitive landscape up another tier. Yes, these cloud battles will all end in tiers.
+See:
+
+Xero CEO on moving to Cloud 2 and leaving Intuit behind
+The new race to be the world’s 5 computing powers
+Lambda, APIs, microservices – AWS bets on serverless app dev
+If you’re comparing cloud TCO, you asked the wrong question
+
+9. Augmenting our grasp
+We are at the next inflection point in humanity. The rate of change is now going to be measured in years or months.
+A February briefing with Salesforce VP data science Scott Rickard helped me understand why AI and machine learning were going to become such a big topic this year. The most important takeaway was that the confluence of massive data resources, continuing processor improvements and commmunity-driven algorithm refinement will see machine learning advance exponentially. One of the most surprising developments is the emergence of new AI-specific processor designs, which among other things powered last month’s step-change improvement in Google Translate.
+See:
+
+I, Human – our robo-enhanced future starts now
+Dreamforce16 – Is Salesforce Einstein really rocket science?
+Deep learning’s double lock-in conundrum
+New processors in the cloud accelerate AI and big data
+
+10. A walk with Marc Benioff
+Are the monks over there? Let’s go see some monks!
+Anyone who’s followed cloud computing for a long time has inevitably studied Salesforce, and probably been to Dreamforce a few times. My colleague Stuart Lauchlan has been to every Dreamforce, and really captured the beguiling essence of this year’s event in his write-up of a morning at Dreamforce spent with Salesforce CEO Marc Benioff. I’ve known Benioff a long time and made my own efforts to capture the spirit of a Salesforce event. But nobody does a better job of capturing the essential details of a moment with such understated, yet keen, observation than Stuart.
+
+Dreamforce16 – Being Benioff – walking with the CEO
+
+This has been 2016. And that’s a wrap.
+Image credit - stuart lauchlan Disclosure - Infor, Salesforce, SAP, ServiceMax and Workday are diginomica premier partners. Coupa is a diginomica partner. Read more on: Frictionless enterprise 

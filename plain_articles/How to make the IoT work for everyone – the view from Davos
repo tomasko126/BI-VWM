@@ -1,0 +1,64 @@
+
+There are more connected devices on the planet than there are human beings. In 2017, analyst firm Gartner estimated that there were 8.4 billion devices online, while a range of more recent forecasts have predicted that the number could hit anything from 20 billion to 30 billion by 2020.
+In a speech in New York in October 2017, Michael Dell – founder and CEO of the company that bears his name – talked about the negligible cost of sensors and network nodes, saying:
+We’ll soon have 100 billion connected devices, and then a trillion, and we will be awash in rich data. But, more importantly, we’ll have the ability to harness that data.
+Maybe so, but there are challenges in making the system work for everyone, according to the World Economic Forum (WEF).
+Its annual meeting in Davos, Switzerland, brought together politicians, business leaders, IT strategists, academics, economists, and more to discuss the big questions that demand answers this century.  One focus was the changing role that technologies such as the Internet of Things (IoT), Artificial Intelligence, connected transport, and data analytics, play in society.
+The IoT is already far more than just homes full of smart consumer goods, lighting systems, and security devices. It also embraces smart buildings, vehicles, transport networks, factories, energy grids, power stations, and entire cities.
+Meanwhile, the costs of computing, storage, and connectivity continue to fall, suggested the WEF – although smartphone owners may question whether that is really true as they look through their annual accounts.
+Forecasts by IDC predict that IoT spending will hit $1.2 trillion within the next four years. And whereas current IoT spends are dominated by the manufacturing sector ($189 billion in 2018), spending in transportation, utilities, and cross-industry applications continues to rise.
+Good news? In theory, sensors, the IoT, data analytics, AI, and machine learning can help us to use energy more efficiently, reduce carbon emissions, minimise waste, design better cities, predict diseases, track epidemics, and more. This is the hype and promise of ‘Industry 4.0’.
+In this way, connected technologies can help meet the United Nations’ sustainable development goals (SDGs). WEF analysis published to coincide with the 2019 conference found that an estimated 84% of IoT deployments are currently addressing, or have the potential to advance, SDGs.
+But when they are applied to people, these technologies also have social and ethical dimensions to do with data gathering, bias (institutional and historic), and surveillance. Predicting patterns in weather systems, early-stage cancers, or influenza outbreaks is one thing; but predicting someone’s potential to commit a crime is another, especially if organisations then use that data to deny them services, credit, or insurance.
+But there are real practical, strategic, and operational challenges, too. Despite a growing number of companies, organisations and governments experimenting with IoT projects, success stories are not easy to come by.
+Solutions?
+According to 2017 analysis by Cisco, three-quarters of IoT projects fail due to limited understanding of how to design and integrate solutions effectively into daily operations. The WEF noted  that challenges related to security, interoperability, and the sustainability of IoT solutions are widespread.
+To overcome these and help realise the full potential of the IoT, last year the WEF’s Centre for the Fourth Industrial Revolution assembled a team of technology leaders from across the globe to reinforce best practice, streamline procurement, and enable more consistent and positive outcomes.
+During the first half of 2018, the WEF consolidated more than 200 IoT case studies into ‘solution sets’. These clusters of technologies were each analysed by engineers, scientists, researchers, and executives representing more than two dozen public and private organisations worldwide.
+The teams evaluated each cluster against four variables: economic impact, societal benefit, technological difficulty, and financial barriers. Ultimately, this led to an assessment of which IoT solutions the WEF believes are the most scalable and impactful.
+So what are they?
+The WEF’s initial findings are:
+Themes
+Six positive use cases emerged from the technologies overall. These were solutions that: better manage crops and livestock; advance the safety, well-being and efficacy of workers; optimise the movement of goods and people; help with early warning and prevention of disasters; assist doctors in monitoring and treating patients; and help governments and/or utilities manage our finite natural resources.
+The WEF likes all of these, but is less than impressed with other IoT applications. Its researchers also made the following observations.
+People in cities
+We tend to believe that ageing populations are primarily a Western problem. However, the WEF found that the best, impactful and scalable IoT solutions address needs that are most pressing in Asia, where elderly populations combine with rapid urbanisation to create significant new challenges. In the West, our ageing cities create a different spin on the problem.
+According to UN data, populations in East Asia are ageing faster than in any other part of the world. From 1990 to 2017, the 40+ population grew in East Asia from 28% to 48%. In parallel, Asia is witnessing an unprecedented shift of people out of rural poverty in search of new opportunities – as happened in the West during the first Industrial Revolution.
+In China, for example, the urban population has increased by 500 million since 1989. That’s equivalent to two-thirds of the entire population of Europe moving into cities in just 30 years. I witnessed this myself on a visit to Shanghai last year – population 24 million – where new gated communities for the middle classes stretch as far as the eye can see.
+Such trends place enormous pressure on healthcare systems and urban infrastructures, as well as generate vast environmental and sustainability challenges.
+These are all areas where the IoT has potential, which is why Asia leads the world in IoT spending.
+Human enhancement – or replacement?
+Contrary to growing concerns about automation’s ability to displace human labour, the IoT solutions approved by WEF experts focus on enhancing worker productivity.
+This chimes with public statements by Microsoft CEO Satya Nadella and IBM chair and CEO Ginni Rometty, among others, that AI, automation, and other Industry 4.0 technologies are about augmenting human skills.
+However, several reports published last year found that many organisations are deploying them tactically to cut costs and slash workforces, rather than strategically to make their businesses smarter.
+Workers vs machines
+While manufacturing is currently the largest sector for IoT spending, WEF experts didn’t feel that all industrial applications are equally effective. IoT technologies that improve worker well-being stand head and shoulders above those that focus on enhancing system operations, they said.
+This challenges accepted wisdom that the Industrial IoT (IIoT) is largely about predictive maintenance, ‘cobots’, and improved supply chains, for example. According to the WEF, it should really be about keeping workers happy.
+Worker-centric solutions include using IoT devices to optimise workplace conditions, such as temperature, lighting, and air quality – which most employees would see as beneficial. However, the WEF also identifies as positive the use of sensors and wearable devices to monitor workers’ health, improve their performance, and reduce the risk of accidents.
+In a general sense, the combination of sensors, health tech wearables, and AI does indeed hold out the promise of better healthcare, especially among ageing populations.
+In the healthcare space itself, for example, the WEF sees solutions that enhance preventative care and offer early disease detection as the most impactful and scalable. These include using sensors to continuously monitor heart rates, blood pressure, blood sugar levels, and other conditions.
+But in an industrial setting, the context is very different. This is the flipside of the coin – one that the WEF appears to have overlooked. While IoT-enabled worker safety systems (such as the use of exoskeletons as lifting aids) could be beneficial, the use of sensors to monitor employees and keep them at their stations is a very different matter.
+In some industries – call centres and factories among them – such technologies tend to be seen as maximising employers’ profits, not improving workers’ health. Indeed, it’s an application that has bred mistrust, not acceptance, of the IoT, and the perception that some systems are really enabling new forms of slavery.
+Smart farming
+Of course, not all workers sit at desks or labour in factories. In agriculture, where food security remains a global challenge, WEF experts stressed the opportunity for IoT technologies to help workers do their jobs more efficiently.
+Sensors and other precision-agriculture technologies that enable farmers to better monitor and manage crops, optimise the use of water and fertilisers, or manage livestock, were cited among the most impactful and scalable.
+In the US and elsewhere, vertical farms are moving food production closer to the mouths that need feeding – in cities – growing crops in ideal conditions, via sensor data, hydroponics, and smart lighting systems.
+Smart city challenges
+However, the WEF’s experts were divided on the potential impact and scalability of many smart-city solutions themselves. This is interesting, as they are often cited as the most beneficial IoT projects in societal terms.
+Some of the WEF team expressed concern about the challenges these solutions create – particularly in terms of personal privacy protection, security, and economic sustainability.
+However, smart city solutions that focus on system-wide efficiencies – for example, monitoring real-time electricity consumption to balance supply and demand, or enabling public utilities to detect water leaks quickly – hold out the greatest promise in the short term, said the WEF.
+Transforming transport
+Just as ride-sharing services like Uber and Lyft have disrupted the taxi market and challenged the concept of urban car ownership, similar models are transforming commercial transport, found the WEF.
+Fleet management systems (which rely on sensors and IoT technologies to monitor/optimise the use of corporate vehicles and equipment), and route optimisation tools (which use real-time data to improve the movement of goods across supply chains) were cited as two of the most impactful and scalable solutions.
+The future
+The WEF’s initial findings form the beginnings of a new roadmap and strategic framework for accelerating the impact of IoT systems, the organization claimed:
+By focusing attention and coalescing support around tried-and-tested IoT solutions with clear societal and financial returns, the WEF’s Centre for the Fourth Industrial Revolution and its partners are committed to maximising the value and impact of IoT investments.
+In the months ahead, the WEF will:
+Bring traditional industry competitors together to co-design, and align behind, a set of trusted implementation models – which incorporate well-defined business models, established technical frameworks and clear metrics on the costs and benefits of implementation – for these highly impactful and scalable solutions.
+The organization said these will provide:
+An essential tool to ease and speed up the process for procuring and deploying new IoT systems, reducing missteps and embedding best practices.
+My take
+While claims and counter claims are made for the IoT – and security remains a blindspot, as manufacturers rush devices to market – it’s refreshing to hear findings that are so people focused (in most cases).
+With a ‘Fifth Industrial Revolution’ supposedly now being built on consent and privacy (in the words of some CEOs at Davos), the IoT will certainly need public trust if it is to serve citizens’ interests.
+ 
+Image credit - Consumer smart appliances in word IoT © chesky - shutterstockRead more on: InfrastructureInternet of ThingsIoT robotics and AI 

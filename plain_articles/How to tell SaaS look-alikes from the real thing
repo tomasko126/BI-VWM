@@ -1,0 +1,59 @@
+
+Some companies that make enterprise-grade on-prem software have decided to “go into the cloud” and provide a SaaS offering. Often they do this by taking the same software they sell to customers, and rather than installing it on the customer’s hardware, they’ll install it on their own hardware in their own data center. They call this a “cloud” offering, and they’ll call themselves “SaaS”, and they may even use terms like “Single-tenant SaaS” to describe their newly created service offering.
+But don’t be fooled by these labels. Often these systems are nothing more than managed hosting. They have all the problems, version issues, and painful upgrades associated with on-prem solutions. They have all the scaling problems of on-prem solutions. And they tend to not have any of the advantages of a true SaaS offering, no matter what kind of tenancy is used, resulting in slower new feature development, higher costs and more downtime.
+Different types of SaaS
+There is a lot of confusion in the industry between managed hosting and SaaS. Further, there is confusion between different types of SaaS. To help clarify, I give these definitions:
+
+Managed hosting. Managed hosting is when a vendor provides a hardware platform (typically but not always a virtualized platform) and provides assistance for the customer to run a specific instance of a software stack on that managed platform. The vendor may provide services that make the software installation and setup easier and reduce the complexity involved in managing the software. But managing the software is the ultimate responsibility of the customer. Capacity planning and scaling are the responsibility of the customer.
+Multi-tenant SaaS. Multi-tenant SaaS is what we typically think of as “real” SaaS. This is where a vendor provides a software platform that will have many customers using the same running instance of the software platform. Customers are isolated from each other via the access controls in place within the software itself. Upgrades are usually done by the vendor transparently to customers.
+Single-tenant SaaS. Single-tenant SaaS is when a vendor provides a software platform for their customers, but a given instance of the software (running on specific computers) is dedicated to a single customer. The vendor runs multiple stacks, typically one for each customer. Customers are isolated from each other via access to the entire software instance. Upgrades are usually done by the vendor transparently to customers.
+
+Each of these three options – and one combination thereof – have their own advantages. Let’s examine each in turn.
+Managed hosting
+Managed hosting is the most  ‘barebones’ option of the three I’ve outlined above. This is when a hosting provider, such as GoDaddy or 1 and 1, provides servers or virtual servers to run your software on their hardware. To increase their service’s usefulness, they will often have packages where they will automatically install common software packages for you onto their servers. This allows you to get up and running quickly and easily with a common software package without having to manage the installation of the software itself. A very common example of this is the WordPress blog content management system. Companies like GoDaddy will automatically install the WordPress software on the servers you have leased, to get you started with building your blog easier and quicker.
+However, these vendors typically only do what you, the customer, request of them. They typically do not automatically upgrade the software for you if new versions come out. Some may provide upgrade assistance, but usually it is not an “invisible” upgrade like a traditional SaaS upgrade is. You typically do have to worry about whether the version of software you are running is buggy or has security faults in it, and you have to worry about making sure these issues are addressed. You may not have to actually do the installation yourself, but you have many of the same worries around managing the software that you do with traditional on-prem software.
+Managed hosting therefore typically requires a similar level of software management as on-prem software.
+Multi-tenant SaaS
+Most people, at least conceptually, understand multi-tenant SaaS. Multi-tenant SaaS vendors have many customers, sometimes hundreds of thousands, all running on a single stack of software. The customers share the same running software, but their data is logically separated from other customers via business, software, and security rules and requirements.
+There are many advantages of such an architecture. For the vendor:
+
+Upgrades can automatically be applied to all customers simultaneously. New features can be rolled out quickly and continuously.
+Easy to reproduce customer problems “in house”, because support has available the exact same environment that the customer is using.
+System resources, such as CPU, memory, and storage, are shared and divided among the customers as needed. This means that “spiky” usage by a single customer can be amortized out across the resources available to users that are not currently using their resources.
+The vendor can apply centralized brain-trust to the running of the software. This includes key operations functions such as security, availability, and scaling. By centralizing these functions, more expertise can be applied to a larger number of customers and overall better solutions can be created.
+
+As the number of customers increase, the economies of scale of managing all customers at once improves. It’s much easier managing customers instances in a centralized way than managing the complexity of individual customer instances and systems.
+There are advantages for customers too:
+
+No need to worry about upgrading software, applying security patches, scaling hardware, storage, and networking…the vendor always manages this for you.
+New features that are rolled out are typically available to you faster and easier than in traditional software.
+Critical bugs are typically fixed faster and fixes are rolled out to production systems faster.
+More resources (from CPU to brain-trust) can be applied to customer’s needs, because resources can be more easily distributed and applied to a larger quantity of people.
+
+Without a strong and reliable vendor providing the SaaS services, though, there can be disadvantages of this approach. Software can change suddenly and unexpectedly. If done at the wrong time for a given customer (such as the end of a fiscal quarter, or during a busy shopping season), the results can be unnerving and problematic.
+Overall, though, a multi-tenant SaaS platform run by a quality and responsible vendor, provides significantly more advantages than disadvantages, and is quickly becoming the norm for both consumer and enterprise customers in many businesses.
+Please note that multi-tenant SaaS does not imply that all customers are on a single stack. A multi-tenant SaaS vendor may provide multiple stacks and have many customers on each of them. This is often done for geographic reasons (EU customers on a separate stack from US customers, for instance), but can be done for load balancing and scaling reasons.
+Single-tenant SaaS
+Single-tenant SaaS is a lesser known and used SaaS model, but it is still used in many important areas. Single-tenant SaaS is essentially a software vendor giving an entire instance of a software stack to a single customer. The vendor will typically have multiple instances of their software stack running in order to manage multiple customers.
+There are advantages to single-tenant SaaS:
+
+Customer’s data is usually more physically isolated from other customer’s data (note that this is a reasonable assumption, but is not always the case).
+It’s typically easier to keep a single customer from impacting the ability of another customer to use the software (by having isolated resources, customers don’t “steal” resources from other customers).
+It is possible for single customers to run a different version of software from other customers (the advantages/disadvantages of this are a topic of an article in and of itself).
+Just like multi-tenant SaaS, customers do not need to worry about upgrading software…the vendor always manages this for you.
+
+Mixed-tenant SaaS
+Multi-tenant and single-tenant SaaS are not mutually exclusive. A single vendor may have a single application that has some customers running on a multi-tenant instance, while other customers (presumably their biggest or most critical customers) running on multiple single-tenant instances.
+Typically, the difference between single-tenant SaaS and multi-tenant SaaS is transparent to the customer. While the customer may be aware and may have requested single-tenancy for contractual reasons with a vendor, the day-to-day experience of the customer usually is not impacted by this decision. In fact, some of the backend systems of a multi-tenant application may actually be single-tenant, and vice-versa.
+The key here, though, is they are both SaaS. There are key and common characteristics that apply to any true SaaS offering, whether single-tenant or multi-tenant:
+
+They are software both provided and managed by a vendor
+The customer does not need to worry about running and managing the software.
+Issues around software versioning are issues that the vendor deals with and the customer does not need to worry about.
+Customer can focus on just using the software…not on running the software.
+
+SaaS vs managed hosting
+What’s the biggest difference between SaaS and Managed Hosting? The biggest difference is ownership and decision making. In SaaS environments (single or multi tenant), ownership of decisions around upgrades and bug fix installation are owned by the service provider. In a managed hosting environment, ownership of decisions around upgrades and bug fix installation are owned by the customer. In true SaaS environments, customers do not have to worry about issues around software management. In managed hosting situations, they do.
+What are examples? Consider the WordPress blog. Do you have your WordPress blog hosted on “wordpress.com”, or do you host it on a server at a company like GoDaddy? Or do you run the software on your own server (such as an EC2 instance)? Or do you have someone like “wordpress.com” host it for you on servers independent from wordpress.com servers, but still managed by them? All of these exist in the world, all of these can in some ways be considered “cloud” based (using the term *very* loosely). None of these are “on prem”. But not all of them are SaaS. Some are multi-tenant SaaS, some are single-tenant SaaS, some are managed hosted, some are private hosted. All are different models.
+Each model has its advantages, as I’ve outlined above. Their suitability for a specific implementation will depend on the requirements and priorities in each individual case. Where an enterprise desires a high level of control over how the software is implemented and run – and has access to the necessary skill sets to manage it effectively – then managed hosting can be a reasonable choice. However, in most cases, when people are shopping for a cloud or SaaS solution, they want the vendor to provide those skills and take care of issues like performance tuning, upgrades and security. In such cases, it’s crucial to beware of ‘look-alike’ SaaS and be careful to select the real thing.
+Image credit - SaaS on chalkboard with hands, laptop, desk objects © adiruch na chiangmai - Fotolia.comRead more on: Cloud platforms - infrastructure and architectureNew RelicPartner Zone 

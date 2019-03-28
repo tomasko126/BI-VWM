@@ -1,0 +1,23 @@
+
+How did the universe form? How is it evolving? How might humans best explore its furthest reaches? How might they divert an asteroid hurtling towards Earth?
+The daily work of scientists at NASA’s Jet Propulsion Laboratory (JPL) in Pasadena, California involves some pretty big questions and some serious enterprise-class IT – but that’s not to say that consumer technologies don’t have a role to play.
+In fact, they’re sometimes the preferred option, according to Tom Soderstrom, JPL’s IT chief technology officer. At the recent re:Invent conference held by Amazon Web Services (AWS) in Las Vegas, he demonstrated a number of prototypes that he and his team have built, using consumer-focused voice recognition as the interface that JPL employees use to interact with systems, devices and machines in the Internet of Things (IoT).
+At the heart of these prototypes is the technology originally developed by Amazon Web Services (AWS) to power its own Alexa personal digital assistant device and which it now offers as the Alexa Voice Service (AVS), so that developers can voice-enable any smart, connected product that has a microphone and a speaker. 
+Among the advantages here, Soderstrom said, is that JPL’s 5,500 employees enjoy the familiarity of consumer-focused tech that they might use in their own homes. And, at the same time, he added: 
+
+If we can use a consumer technology in the enterprise, it’s going to cost less and it’s going to evolve faster. Everybody wins.
+
+Queries and commands
+JPL’s prototypes fall into three broad use-case categories, he explained. The first camp is referred to as ‘querying and asking’. Here, JPL is using Alexa to query back-end systems. One example is its acronym database. 
+According to JPL data scientist Mik Cox, this database contains around 4,000 acronyms used in day-to-day work at the laboratory and he hasn’t met a single person there, he says, that knows even half of them off the top of their heads.
+
+So I programmed Alexa to get into that database. I can ask it a question like, ‘What does RDO stand for?’ and it will spit back out the answer, ‘Regular Day Off’. I’ve often used this during meetings in my own office.
+
+The space-curious public can benefit, too. At re:Invent, Soderstrom announced that customers using the Amazon Dot and Amazon Echo Dot smart speaker devices can now ask them questions about Mars. 
+That’s because JPL has written its own Alexa ‘skill’ – a chunk of function contributed to Alexa by independent developers to support specific use cases – with the hopes of sparking wider public interest in JPL’s work in exploring the Red Planet
+The second use case category is referred to as ‘commanding and telling’. Alexa is not just a ‘Q&A’ bot, Cox explained. It’s also being used by JPL employees to set up a room – a cleanroom for scientific research or a conference room where a meeting is about to take place – in ways that boost productivity. They might ask Alexa to adjust lighting, set a particular room temperature, operate a cleanroom crane or switch on a projector, for example.
+Talking to robots
+The third use-case category involves ‘giving robots a voice’. This is important for JPL, as it’s a leading centre worldwide in pioneering robotic space missions. Here, Soderstrom and Cox demonstrated Rov-E, a small robot modelled after NASA’s Curiosity, a car-sized rover currently exploring Mars. 
+Rov-E was created as an outreach tool for public education and has made appearances at schools, museums and the White House. Using the newly announced Amazon Lex service for building conversational applications, JPL have given Rov-E the intelligence required so that school kids interacting with her can control her movements through verbal commands (for example, ‘Rov-E, follow me’), ask her questions about space and about JPL missions and get answers in the form of voice responses. 
+It’s a fun example, but could have many more serious uses as JPL continues to deploy robotic rovers to explore parts of space that, at present, humans still can’t reach.
+Image credit - JPL.NASA.orgRead more on: IoT robotics and AIMachine intelligence and AIRoboticsUser experience 

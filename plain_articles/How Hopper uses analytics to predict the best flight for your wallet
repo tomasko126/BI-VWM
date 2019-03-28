@@ -1,0 +1,61 @@
+
+You’re about to book a flight on discount. But are you getting the best price? Should you wait a week? Keep checking compulsively to see if the price drops? It’s a riddle trapped in a mobile conundrum.
+Hopper, an upstart phone app and travel services company, solved that riddle. They now have 12 million mobile app downloads. But millions of downloads does not a business make.
+Hopper’s Dakota Smith told me how they convert those free downloads into ticket bookings (Hopper is now the fourth largest online reseller of online plane tickers in North America). Smith also shared their predictive approach, including their use of product analytics vendor Mixpanel.
+Smith – who goes by the intriguing job title “Head of Growth” – was the 15th Hopper employee when he joined four years ago (they’re now up to fifty). So what exactly does a Head of Growth do? Smith:
+It’s growth, right? So that’s everything from user acquisition to communications. Our growth product managers work with the product team on anything that can impact the growth drivers, like revenue and retention, conversion and acquisitions.
+How do you make a business out of turning people away?
+Hopper is a mobile-only app that predicts the future prices of airfare. Open the app, search for your destination. Hopper gives you the current price – and tells you what the future price will be – and whether you should buy, or wait. That makes for a counter-intuitive business model:
+We actually tell 70 percent of people who first search for a flight to not buy the flight. We tell them to wait instead. That’s a pretty unique business model – deferring that first purchase like that.
+So how can you make a business out of turning people away?
+We do that because we’re mobile only, and we have a very high “push notification enabled” rate. Since 65-70 percent of people who bought our app enable push notifications. We’re fairly confident we can re-engage that user at a later date in the future when the price is better – and we tend to convert them then.
+Smith’s team discovered another advantage to giving users the pricing truth: winning trust.
+It’s great to build trust with users by giving them the honest opinion on the price. When you are trying to fly to Hong Kong, and you really don’t know what the price should be, that’s a real pain point.
+Designing apps for loyalty
+Another big piece of Hopper’s success? Design stickiness. That’s another way of saying: users love the app.
+The product team has done such an amazing job creating a simple and mobile-first booking experience. You don’t get that on other travel apps that are still porting the web over to their phone experience. We have really solid reviews – a four and a half or five-star average on both stores. We’re getting good word of mouth, good organic installs. We get half a million new installs each month organically.
+That leads to conversions:
+The conversion rate’s super high. The repeat booking rate’s very high. Once someone books within our app, they use it again and again for their future travel. That’s all stuff that wouldn’t be possible without the product offering good user outcomes.
+Smith’s team has learned that their marketing spend on targeted platforms like Facebook can get them to a million new users a month for a fixed cost. But retention fuels growth:
+The fact that they’re staying on and using our app, that’s what allows us to grow.
+Usually purchasing via apps is cumbersome enough to deter folks. But Hopper had the opposite problem. They had to add an “are you sure?”
+The product team and our designers spent so much working on the booking flow, user testing it, and iterating, and trying to get it down. We actually made it too easy at first. We had a rush of people saying they accidentally booked flights, We had to add an extra step to slow it down a tiny bit to say a confirmation swipe, say you will be booking this if you swipe this.
+Hopper’s analytics problem
+Before they launched the Hopper app, Smiths’ team realized they had a problem. They lacked real-time visibility into their metrics, and how users were behaving within the app:
+Because we’re mobile only, we needed to set up a great mobile data attribution and analytics platform.
+Hopper’s “deferred purchase” model posed a difficult analytics problem:
+Since we often defer that first purchase, we have to be very analytical with how we’re attributing marketing spends. We have to look at the lifetime value of the customer.
+Enter Mixpanel’s product analytics.
+Data science is at the core of our product; we’re a very data-driven, analytical company. That permeates across our growth and product teams. We knew we would want to track these metrics from day one – to inform the product decisions, but also the marketing decisions.
+Mixpanel allows the growth team to track and analyze user behavior. But the use of Mixpanel has spread throughout the company:
+Our support team uses it. When someone has an issue, support opens up their user profile and sees their history with the app. We use it on the growth team when we’re looking at user cohort behavior.
+The mobile app metrics worth tracking
+So what are the mobile metrics Hopper tracks with Mixpanel? Smith looks at three above all others:
+
+People who install – the day one goal if for that user is to install the app, search for a place, enable push notifications and put a trip on watch status.
+That first step means tracking who signs up to track flight prices via push notification.
+A break down of the different ad channels, countries of origin, and other data from brand new users.
+
+Beyond those all-important day one actions, Hopper uses Mixpanel for other metrics:
+
+Number of notifications sent to users
+Types of notifications sent to users
+Re-activating users when a relevant flight price appears
+Number of support tickets
+
+These metrics spark real-time sales opportunities:
+With Mixpanel, we can see if there is a sudden spike in ticket sales and notifications because an airline accidentally lowered prices on a route. Our system will flag that, and then start sending out our notifications. You can see in Mixpanel that the number of tickets sold on the route will just spike. It could be like 1,000 purchases – that’s pretty cool.
+The support team using Mixpanel to pinpoint user errors. If a user encounters a glitch, Hopper support can use Mixpanel to see exactly what the user was last doing in the app when an error hit.
+The wrap – assessing results, and avoiding push notification annoyance
+It’s not possible for Hopper to calculate how Mixpanel improved their business since they’ve been using it since the app launch. But Smith is certain that Mixpanel was instrumental to Hopper’s rise:
+You need great analytics on mobile to acquire the right users and engage them the right way.
+Intrusive push notifications are one of my biggest beefs with mobile apps. Smith and I talked about how Hopper tries to avoid the dark side of push notifications by designing them to be contextual. Hopper wants users to enable push notifications because they perceive value.
+Smith says they are teaching their “notification brain” to be smarter. He cited the example of watching a flight from New York to Florence. Instead of offering to send notifications when that price hits $1,000, they now try to offer smarter ones:
+We might send you a notification saying, We’re still watching your flight to Florence, but did you know you can go to Rome for 50% less?”
+Smith says they avoid the spammy BS notifications that drive me nuts:
+People respond because it’s not spam. It’s not “We miss you. Please use our app again.”
+Hopper has big expansion plans. They’re looking at opening different points of sale around the world, including Europe, Australia, and some countries in Latin America.
+Obviously screen time is overwhelmingly moving to mobile. In developing countries 90 percent of Internet traffic is on the phone. Leisure travel is rising; air travel is rising pretty fast in a lot of these countries as their economies grow.
+Languages may vary, but good deals are universal:
+Everyone’s price sensitive. Everyone wants to get a good deal.
+Image credit - Hands circle using phone in cafe. © santypan - Fotolia.comDisclosure - Mixpanel PR contacted me about this customer use case, and I found the story worth pursuing. Diginomica has s no financial ties with Mixpanel or Hopper.Read more on: Analytics planning and data analysisDigital enterprise in the real worldMobileUse casesUser experienceUX and application design 

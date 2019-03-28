@@ -1,0 +1,84 @@
+
+
+Lead story – The future of IoT, cleantech and blockchain – and a diginomica podcast reboot – by Den Howlett
+
+MyPOV: With the daily Alexa-style podcast in mind, Den has officially rebooted our diginomica podcast. We know there are enterprise information addicts out there, aka discerning listeners, who want the daily rundown. And: Den has squandered enough money on audio aficionado gear to make your eyes water wisely invested in great equipment for primo sound quality.
+Den shares our semi-evil plans in Future Enterprise – our foray into the world of podcasting, but you can expect a combo of concise/edgy daily wraps along with the occasional deeper convo such as this meeting of the minds with Den and reformed curmudgeon clean energy enthusiast Tom Raftery:
+
+The cost of batteries is also cratering. What was $1,000 a few years ago is now at $150.
+Coal plant subsidies in Spain are being eliminated and by 2050, the whole country is planned to run on renewable electricity.
+In Europe, it is now cheaper to build solar and wind farms than it is to operate coal fired plants.
+
+With stats like those, it’s easy to understand why Raftery is feeling chuffed. How does IoT fit in? Den:
+On the IoT front, Raftery referred to a recent customer visit where the power management provider was talking about developing smart meters that allow customers to choose the type of power they wish to consume and then switch using their smartphone. The next step will be for those same meters to auto switch between suppliers depending on customer chosen preferences. In a future state, that might be every few seconds.
+Let us know what you think – the format will be fine-tuned to your feedback and interests.
+Diginomica picks – my top four stories on diginomica this week:
+
+HMV falls, Sears gets a glimmer of hope – retail 2019 off to a busy start – As we head into retail’s big kickoff in New York City at NRF (yes, I’m looking forward to the January winds blowing across the Hudson), Stuart finds there’s already plenty of action, as retailers continue their omni-woes: “There was no chance that 2019 would be any less turbulent and busy for the retail sector and we’re certainly off to an interesting start. What fate awaits Sears will be determined pretty quickly one way or another; what happens to HMV is far less clear. As a business it was particularly vulnerable to digital disruptors.” Things are so nutty with Sears that Stuart had to issue another update on their latest 11th hour reprieve. Also see: Stuart’s Bed, Bath & Beyond needs to get beyond its current pace of omni-channel makeover.
+Robot rights – a legal necessity or ethical absurdity? – Robotic rights? Not as loopy as it sounds, argues Kurt. As always, a lot of well-paid legal bureaucrats are going to make bank the legal devil is in the details: “Using the relational yardstick, the more humans treat robots like a social peer, friend or colleague, the more rights they should be accorded by our legal system.”
+Retrofitting AI – key adoption issues in the enterprise 2019-2020 – Too often, AI is a happy hypothetical without enough field-tested assessments. In his diginomica debut, Neil Raden speaks to AI adoption right now.
+NetHope CEO – profitable advice on bridging the non-profit digital skills gap in 2019 – Digital skills shortfalls are a barrier for too many non-profits. Jess shares data from a company determined to change that.
+
+Vendor analysis, diginomica style. Here’s a use case and a BI special from yours truly:
+
+Jobvite on finance transformation, cloud financials, and the push for a strategic finance team – If a team can realistically envision going from 80 percent accounting/bookkeeping to 80 percent strategic, I want to hear about it. From Sage Intacct Advantage ’18.
+DataSelf on BI adoption – to move beyond the data geeks, we have to solve human problems. The skinny from Tableau Conference from a man with a worthy obsession: “How do we get business users fully invested in the data conversation?“
+
+Den got the lowdown on MicroStrategy’s ambitions in MicroStrategy 2019 – Hyperintelligence plays to the emerging voice market:”The more interesting question comes around the new methods of deployment and specifically voice and vision. Voice is available today, so you can speak to your chosen voice enabled device and get the information needed in fairly short order. How well that works in the real world is yet to be proven.”
+A couple more vendor picks, without the quips:
+
+Tibco aims to contextualise metadata as the multi-cloud ‘connective tissue’ – Martin
+How Nuance got microservices right – and built a modern apps platform with Couchbase – Jon
+
+Jon’s grab bag – Brian’s December enterprise month in review has the requisite mix of pungent barbs, insights, and buzzword snark for dork terminology like “AIQ” – Artifical Intelligence Quotient. Cath raises a potent question about our data dilemma in Tackling the corporate data literacy shortfall in 2019:
+While the advantages of improving corporate data literacy are clear at both an organisational and macro-economic level, what is not so clear is what will motivate employers – with one or two notable exceptions – to do something about it?
+Meanwhile, no one better than Den to help us parse WTH is happening to the stock market our macro-economic questions – and how to respond – in Stock shock and fixing the roof.
+Finally, if you fancy my attempt at contrarian inspiration for the new year, check 2019 productivity gut check – don’t let metrics squeeze your value.
+Any competitive advantage I have achieved in the last five years is directly tied to the creation of high-value deliverables.
+Best of the rest
+ Lead story – Data privacy and security breaches vs convenience and corporate profits – is the U.S. at a tipping point? Articles by Joseph Cox and others
+myPOV: 2019 has kicked off with another flurry of data privacy money grabs corporate misbehavior and disconcerting security breaches. As we’ve chronicled on diginomica, for better and sometimes for worse, Europe has been more aggressive on privacy than the U.S. But will a change come in the U.S. in 2019?
+Over on Motherboard, Joseph Cox’ reveal that he paid a bounty hunter 300 dollars and the bounty hunter located his phone location exposed how “T-Mobile, Sprint, and AT&T are selling access to their customers’ location data.” Cox reports that AT&T subsequently announced they would stop selling location data to third parties after Motherboard’s investigation (T-Mobile seems to be claiming they are stopping this practice in March also).
+Cox quoted Senator Ron Wyden, who isn’t impressed:
+For the second time in six months, carriers are pledging to stop sharing American’s location with middlemen without their knowledge. I’ll believe it when I see it. Carriers are always responsible for who ends up with their customers’ data—it’s not enough to lay the blame for misuse on downstream companies.
+AT&T didn’t flatter themselves by pushing the customer value argument in their apology:
+We have decided to eliminate all location aggregation services – even those with clear consumer benefits.
+So consumers must choose between data privacy/integrity and beneficial services? Perhaps, but that seems a false choice, and a misleading narrative for AT&T to be pushing. The same goes for offering IoT services but failing to encrypt the data.
+At the least, consumers should be opting in or out – not being opted in automatically by profit-craving telecoms. Wyden believes tougher regulations are needed; we’ll see if any are passed. The notion of a GDPR for the U.S. is picking up some steam, which we’ve covered prior.
+Is the U.S. consumer ready to take a stand for privacy over convenience? That’s an open question. Without educated consumer pressure, it’s hard to see a big change coming. For now, expect the breaches, privacy fails, and self-serving apologies to continue.
+Honorable mention 
+
+Which Analytics And BI Technologies Will Be The Highest Priority In 2019? – “82% of enterprises are prioritizing analytics and BI as part of their budgets for new technologies and cloud-based services.” But which ones? Louis Columbus of IQMS filters the data.
+Security Worries Rise as Container Adoption Increases – Add containers to the security fretting list.
+Are Firstline Workers Microsoft’s Key to Keeping Google Out of the Enterprise? – Adam Mansfield of UpperEdge continues a Microsoft advisory series with a Google contrast: “If Microsoft is able to get enterprises to adopt Office 365 F1 or Microsoft 365 F1, it creates an even greater barrier to entry for Google and their G-Suite offering.”
+Apple’s trillion-dollar market cap was always a false idol – Ron Miller calls out investors who freak out over Apple’s growth slowdown.
+Jason Furman on policies to shape the future of work – this McKinsey Q/A raises the right questions, including the specifics of training (and retraining) different demographics.
+Mind-Reading, Self-Replicating: A Look Back at the Year’s Best AI Stories – useful rundown from The New Stack on the key AI areas we should be watching in 2019. Though “not quite there” is not how I’d describe the push for general intelligence. More like “long way off.”
+
+Whiffs
+So smartphone users have been warned to be careful of the antichrist. Though the warning isn’t as loopy as I was expecting – it’s kind of sensible, in a goofy/hyperbolic way.
+Maybe an expert on millennial experiences can help me out with this conundrum:
+
+Delta CEO: Don’t Blame Millennials For Emotional Support Animals https://t.co/ZWk84AG4Hh
+-> so millennials are very price and cost conscious, but they want "experiences?" So, they want bargain bin experiences. I get it now. 🙂
+— Jon Reed (@jonerp) January 10, 2019
+
+Isn’t there a tension between “experiences” and bargain hunting? And what does Delta know about experiences anyhow, aside from bad ones?
+If you missed CES this year, you missed out on the religious pompous Las Vegas unveiling of tech that will eliminate human suffering change everything: such as the fully immersive, intelligent toilet experience. No word yet on whether Delta will turn its airplane bathrooms into in-flight toilet experiences…
+Looks like we can add Sting of The Police to our tech visionaries list:
+
+For owners of Amazon's Ring security cameras, strangers may have been watching https://t.co/ZBhke8WkW8 
+-> Didn't The Police write a song about this?
+— Jon Reed (@jonerp) January 10, 2019
+
+Every breath you take indeed. Finally, there is this:
+
+Self-driving Tesla knocks over autonomous robot https://t.co/qtu09muh39 
+-> I thought the war of the machines was going to be a bit more exciting than this
+— Jon Reed (@jonerp) January 8, 2019
+
+And yes, we later learned that this was a PR stunt. I think the point stands. See you next time…
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+Image credit - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Disclosure - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Winter Sports © lassedesignen - Fotolia.com - all from Fotolia.com.Read more on: Data privacyGoverning identity privacy and securityHits and missesInternet of ThingsMachine intelligence and AI 

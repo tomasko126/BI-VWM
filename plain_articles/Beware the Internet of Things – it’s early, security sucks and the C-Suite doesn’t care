@@ -1,0 +1,35 @@
+
+I kicked off an interesting and slightly spirited discussion on Facebook late yesterday around the Internet of Things or IoT in marketing parlance. I was being slightly sarcastic when I said:
+
+When folks talk to me about IoT, I giggle.
+My father was programming CNC machines before most millennials were born.
+When questioned in wonderment by some snot nosed kid (and some older people who should know better), I usually ask: “What part of robots building your car did you miss in the adverts when you were growing up? Oh – you weren’t born then? Well STFU and just go SEE what happens in modern molding/machining/assembly plants.” Moving on.
+The inference was that the 1970s/80s mass displacement of assembly line workers in favor of CNC machines and robotic car assembly lines were the first iteration of today’s emerging networked economy that includes a significant IoT component.
+By the way, please consider reading right to the end . There is a nice sting in the tail.
+To be fair, I was playing fast and loose with history in an IoT context. While those machines certainly used and still use sensor technology to do the job, they were not networked in the manner in which we currently understand the term. That came much later. Neither did they provide the context for the development of service based businesses of the kind we are only just starting to glimpse but which get hyped anyway.
+For example, I well remember the F150 plant in Detroit implementing RFID technology as part of the inbound logistics for truck parts in the late 1990s. It was a huge and expensive project that eventually yielded massive efficiencies and savings. The F150 story was a rarity because then; it was difficult to manufacture RFID chips at low cost, and reliable networks were far from ubiquitous. That’s all changed with the advent of geo-location based service systems.
+
+
+The impact of component modularization combined with computer aided diagnostics rendered the servicing of cars almost dead for professional and amateur alike. To quote petrol head Oliver Marks:
+Tetrised together with very tight tolerances, once something gets whacked it is very hard for humans to get in there and fix. Add in all the exotic materials manufacturers use (and don’t give body shops any data) and you have a lot of nightmarishly hard fixes for customers who think all mechanics and bodywork people are idiots anyway which adds to the lack of enjoyment.
+Earl Mardle is more concerned about what the next step in IoT means:
+My concern about both robot assembly and IoT is that it further and further specializes tasks in a system that needs less complexity, not more. I’m also guessing that IoT might be a little less popular once more people realize that their cars, and their homes, fridges, etc. can be hacked and their lives interfered with by agents official and freelance and they won’t know the difference till they get the bill or end up in the ditch.
+
+He’s likely referring to the recent Chrysler recall of 1.4 million cars that can be remotely hacked. Or perhaps the idiotic remedy of mailing USB sticks to owners.
+We should all be concerned that the pace of these kinds of innovation is running ahead of the infrastructure around security. That’s why I was deeply disappointed in a video that Robert Scoble and Scott Jordan shot with Mary Ann Davidson. It concentrated on her role as a woman leader rather than talked to her vibrant position as a CSO. A missed opportunity.
+I sense that Earl is trying to act as the canary in the coal mine. But the trouble with security topics is that they are difficult for people to understand – until their bank account has been raided, or their credit card compromised. Couple that with the deluge of Kickstarter projects that claim to help us be more connected and I get why such an important topic is frequently sidelined or sneered at as a spoiler for a better world.
+Mrinal Wadhwa, CTO at Fybr offered an alternative point of view that’s worth considering. While he acknowledged that much of the technology underpinnings are hardly new (my original thesis) he believes we’re in a period where you can view these as coming together ‘in harmony,’
+While the above harmony of technologies is powerful, it is of course not perfect, there are several unresolved issues: security and privacy are among the top few IMO.
+It’s a good way to look at IoT without losing sight of the realities. And regular diginomica contributor Peter Coffee added this to the mix:
+To anyone who thinks they’re even slightly out in front on the topic of IoT and its frontiers of security etc., for heaven’s sake read “Countdown to Zero Day: Stuxnet and the Launch of the World’s First Digital Weapon.” [check the Amazon link]
+
+In the final analysis, I get that the IoT is invading every aspect of our life. But I view the current state of the art as crude and far from the world changing ‘thing’ its evangelists suggest is just around some imaginary corner. For example, the much marketed Nest claims to learn. But in over four months of use I see it as little better than an unteachable dog. Sure, I can control it from a distance, but learning from behaviors and settings? Not a chance.
+And in case anyone needs a reminder, IoT is hardly a top priority in the C-Suite.
+Side note: I wonder how Marc Benioff, CEO Salesforce is getting on with his magic toothbrush?
+I hope that the tsunami of well-intentioned creation we see today and which are finding favor among the crowd funders doesn’t drive our expectations beyond the possible. Like others, I worry that some creators may be paying lip service to security. To that extent, I am content with a degree of incremental change. Until, that is, someone invents the teleporter. 🙂
+Endnote: as if on cue, I fell across the IoT Design Manifesto. It references many more concerns and topics, offering a way forward for responsible development. Paul Wallbank likes it.Oh – and Mrinal Wadwha came in late with this one:
+I think different industries are at different levels of progression. The consumer oriented stuff is certainly crude, but, on the other end of the spectrum is manufacturing, which as you pointed out is way ahead in the game.
+I have exposure to cities and this is certainly a priority for city CIOs. The challenge we are working on is how to make it real. This is as much figuring out business models as it is related to technology.
+Ho hum…
+Top image: Internet of Things concept drawing © bakhtiarzein – Fotolia, featured image from SAP in Barcelona
+Read more on: Internet of Things 

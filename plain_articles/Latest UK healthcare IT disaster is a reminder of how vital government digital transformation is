@@ -1,0 +1,36 @@
+
+A timely reminder of why digital transformation of government IT is not just desirable, but completely necessary.
+It’s a UK example, but its message is applicable around the world in terms of why the ‘old way’ of rolling out taxpayer-funded IT in the public sector is broken beyond repair.
+That message comes in the form of a report from the UK’s National Audit Office (NAO) into a delayed healthcare system that is four years behind schedule, has seen its costs soar from £14 million to £40 million and which to date has managed to service precisely one customer.
+The General Practice Extraction Service (GPES) is intended to allow NHS organisations and agencies to receive information from individual doctor’s practice computer systems. That data would be used to monitor quality, plan and pay for health services and help medical research.
+The fact that this is an NHS IT project provides added pain for UK taxpayers with memories of the NHS National Program for IT which stands as a totem for everything that goes wrong in public sector technology.
+This latest project isn’t part of that nightmare, although as long time public sector campaigner Tony Collins points out, there are some coincidences in view:
+Some of the officials involved appear to be those who worked for NHS Connecting for Health – the organisation responsible for what has become the UK’s biggest IT-related failure, the £10bn National Programme for IT (NPfIT).
+He adds gloomily:
+As with the NPfIT it is unlikely anyone responsible for the latest failure will be held accountable or suffer any damage to their career.
+Whether that turns out to be true or not, a spokesperson from the Health and Social Care Information Centre (HSCIC), which inherited the system from the old NHS Information Centre, is on the defensive:
+The NAO report states that significant issues occurred with GPES in the years before the inception of the HSCIC, which was created two years ago with a new mandate, structure and senior leadership team. It is clear the GPES procurement and design stage was not good enough, regardless of the intent of predecessor bodies.
+The HSCIC is equally clear that upon our creation we took full responsibility for delivering a data extraction service that is operationally and financially efficient. We are maximising the working aspects of GPES and replacing those parts that do not work. Our focus is on developing a suitable service that meets the needs of the NHS and patients.
+Blame game
+Nonetheless, officials have been placed in the firing line by the NAO which notes:
+Contract management contributed to losses of public funds, through asset write-offs and settlements with suppliers.
+Essentially, according to the NAO, officials changed the procurement strategy and technical design for the GPES extraction systems during the project:
+This contributed to GPES being unable to provide the planned number and range of data extracts.
+A 2001 technical review ended up making things worse when the requirement for each GP system supplier to adopt a common query language for extraction systems was dropped in favor of logical ‘business rules’. That was then topped up by a failure to agree detailed requirements with contractor Atos.
+Atos delivered a system in 2003, but this was not adequately tested by the NHS authorities. The NAO says:
+This testing did not identify design flaws that meant it would be impossible to extract data from all GP practices. These problems were severe and required Atos and HSCIC technical staff to carry out remedial work, taking six months to complete.
+The test was not comprehensive enough to identify these problems. To work in a ‘real life’ situation, the GPES query system needs to accurately communicate with the four separate extraction systems and other systems relying on its data…The test NHS IC and Atos agreed was less complex. It did not examine extractions from multiple extraction systems at once. Nor the complete process of extracting and then passing GPES data to third-party systems.
+My take
+This is old style public sector IT at its most grim.
+As Labour MP Meg Hillier, Chair of the Committee of Public Accounts in the House of Commons, notes:
+Failed Government IT projects have long been an expensive cliché and, sadly for the taxpayer and service user, this is no exception.
+For its part, the NAO identifies three main issues:
+
+Limited staff capacity at the NHS IC.
+Subsequent reliance on contractors for development and procurement expertise.
+High staff turnover in the project team, with no fewer than 10 project managers responsible for GPES in a five year period.
+
+You could probably apply those in some form or another to almost every major IT project failure in government over the past decade or so since it was decided that outsourcing skills was the way ahead. And that could itself be replicated in the US, Australia etc etc.
+This is why the work of the UK Government Digital Service and all its international counterparts is so important.
+Read more on: Digital government and public servicesHealthcare transformation
+

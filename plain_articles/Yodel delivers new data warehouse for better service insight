@@ -1,0 +1,32 @@
+
+Yodel fleet
+Handling more than 155 million parcels per year, Yodel is the UK’s second largest delivery service after the recently privatised Royal Mail – but not everyone’s a fan.
+In January 2014, in a poll of 9,000 shoppers conducted by financial advice website MoneySavingExpert.com, 58% of customers who had goods delivered by Yodel rated their experience “bad”. Less than one-quarter (22%) reported a good experience.
+Yodel quickly hit back, questioning the validity of the survey and citing its own research that suggests the company is ahead of competitors on customer satisfaction. The company did acknowledge, though, that “there is always room for further innovation and improvement of our service.”
+As part of that improvement drive, the company last year implemented two Teradata data warehouse appliances in an effort to overhaul the reporting systems that feed data about service quality to senior executives, staff in its sorting and service centres and partners working at retail clients, which include Tesco Direct, Amazon and Argos.
+The need for a fresh approach was quite clear to Philip Clark, Yodel’s head of business intelligence, when he joined the company in December 2013. In fact, at the time of his recruitment, senior executives at the company had flagged up to him:
+some significant problems and issues with reporting.
+Stuff to do
+What he found on his arrival at Yodel, frankly, was a bit of a mess. The company, based in Hatfield, Hertfordshire, was born out of the delivery business of catalogue retailer Littlewoods and has grown since then through a series of acquisitions, not least the purchase of DHL’s domestic UK parcel business in 2010.
+Its legacy information architecture reflected its diverse roots: numerous data sources (including various tracking and call centre systems), running on SQL, Informix and Oracle databases, feeding information into at least 5 data marts and, from there, into 3,000 Microsoft Access databases. These, in turn, were pumping out around 200 reports, mostly in the form of Excel spreadsheets. Say Clark:
+It was hard enough to do basic reporting – but what about analysis. What about asking questions of the data we hold?
+The answer, he says, was that this took a huge amount of effort. A simple question from a sorting centre manager, wanting to better understand how hiring extra staff affected productivity rates in his facility, took weeks to deliver and required a database administrator to interrogate the original, operational system (rather than a data mart) during scheduled weekend downtime in order to find the answer. Says Clark:
+I figured what we needed, if we were ever going to be able to establish ‘a single version of the truth’, was a high-performance data warehouse to replace the ‘spaghetti’ we currently had in place.
+He and his team decided on two Teradata 2700 data warehouse appliances, one for each of its primary and secondary data centres. The company had already invested in Oracle BI for dashboarding and reporting prior to Clark’s arrival. But a proof of concept with visualisation tools company Tableau was added to the mix,
+for people in Yodel who wanted to get even closer to data.
+Yodel delivering
+With that vision – and board approval for the project – in place, Clark then faced the challenge of helping a team with no previous Teradata experience or knowledge to implement the architecture. (Clark, at least, knew the technology well, from his previous role at ShopDirect.) He quickly settled on an Agile approach to the task:
+I’ve worked with many different methodologies over the years and I’m not going to tell you that Agile is the right one every time – sometimes it works, sometimes it doesn’t – but when you’ve got an empty Teradata box to fill and you can incrementally build data into that warehouse, Agile is perfect.
+Eight weeks after the delivery of the Teradata boxes in June 2014, Yodel’s business intelligence team were already loading it with near real-time data on customers, delivery locations and individual parcels. Alongside that work, they also built an entirely new data model, based on the journey of a parcel through Yodel’s network,
+the key thing we need to measure our performance by.
+Spaghetti
+From October 2014, the team was able to replace a good deal of the ‘spaghetti’ infrastructure it had been working with previously, Clark adds. The emphasis on near real-time data – data now enters the data warehouse just five to ten minutes after an ‘event’, such as the arrival of a parcel at a sorting centre or its delivery to a customer – means that getting rapid answers to senior management questions about current service quality takes minutes, rather than hours or even days.
+Today, the data warehouse architecture is collecting information on around 6 million ‘events’ per day, says Clark, and already holds around 9 months’ worth of that data. But the project is far from over, he stresses:
+We’re about halfway through now. We plan to keep working on this until September or October this year, as we add data on call centre queries, on customer feedback captured online about how they rate our service, and also on the text message alerts we send out.
+By the time Black Friday 2015 rolls around, it will be interesting to see if Yodel is better able to handle a massive upsurge in deliveries. Last year, the company was forced to suspend collections for two days, when demand for its services among retail partners soared 26%.
+The blame for that can’t be placed solely on information systems, of course: the capacity of sorting and service centres and the availability of drivers, among other factors, have perhaps a bigger role to play. But at least the service centres that despatch parcels will get a better ‘heads-up’ regarding any coming onslaught.
+As Clark explains:
+When parcels leave the sorting centres to go to our service centres, a report runs so that service centres get early warning of how many parcels will arrive there in the next five to six hours.
+Before [this project], that report often arrived after the parcels themselves. Not any more. Now it takes one minute, because it comes direct from Teradata.
+
+Read more on: Analytics planning and data analysisDigital and content marketing 

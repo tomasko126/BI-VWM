@@ -1,0 +1,79 @@
+
+Over the last few weeks, I’ve given a number of keynotes, participated in several panels and run a major chunk of a Big Data event. The focus has been to answer the question “Can or should accountants care about big data?” While most of the technologists reading this will likely say something like “Sure” or “Absolutely”, the accounting-oriented audiences I met with were initially and deeply skeptical.
+I watched these many weeks, as different speakers explained:
+
+What big data is (“It probably won’t fit in an Excel spreadsheet!”)
+How much net-new data is being created everyday (Seems everyone has a data tsunami slide these days!)
+What the different kinds of big data are and how they vary in quality, accuracy, etc.
+And much more
+
+But the accountants and accounting professors weren’t moved. At least they weren’t moved until they were confronted with some overwhelming proof points of where big data is being used to:
+
+Improve the quality of budgets, plans and forecasts
+Enhance top line revenue
+Reduce operational costs
+Detect fraud
+Assess the viability of a company as an on-going concern
+
+To date, many accountants have seen big data as something used by people in business operations or marketing. They incorrectly see it as being immaterial to the job/role or value that accountants can bring to businesses. That perspective is wrong.
+Big data use cases
+For last week’s American Accounting Association’s Accounting IS Big Data conference, I researched 12 use cases where Big Data was definitely impacting Accounting, the companies using the Big Data, and the competitors of firms using this information. These use cases covered how:
+
+Better sales planning by manufacturers is possible via better understanding of end-consumers and their interaction with their own and competitors’ products. Firms are using social sentiment and Internet of Things (IoT) inputs to get better sales plans.
+Firms are enhancing revenue by better tailoring offers to end consumers by using techniques like shopping cart analysis, segmentation, beacons, and so on.
+Retailers and hospitality companies are using weather and historical/seasonal sales data to predict optimal staffing levels and optimizing labor costs.
+Traditional HR tech and processes can be supplemented with big data to reduce talent acquisition costs
+The use of internal HR, “dark” Big Data like email, social and other digital breadcrumbs can stem unplanned attrition and the adverse cost impact this has on financial performance
+Hospitality, travel, food service and other firms are predicting future sales performance based on public review site data found at places like Yelp, TripAdvisor, Booking.com and others.
+Better employment brand management can reduce hiring costs via social sentiment analysis, monitoring feedback/review sites.
+Sensor/IoT data can help firms minimize unscheduled downtime, reduce operational costs and identify lower risk/cost customers.
+Big data and new metrics are used to justify valuations of new economy/digital firms.
+Prevalent the practice of selling data is within major firms and how few standards exist to value the information and/or secure/protect it.
+Firms can supplement T&E data with big data to identify potential fraud activity
+
+Over 200 people worked in teams to review piles of news stories, reports, and other data sources around specific use cases. They then reported out to the conference attendees:
+
+What they read/learned
+How big an impact Big Data was having on these firms
+What implications exist for accountants, auditors, educators, etc.
+…and more
+
+Following these de-briefs, the audience identified a number of ah-ha moments while also raising a number of concerns that the profession must address. A sampling of these involved:
+
+The need to better understand privacy and security issues regarding the sourcing, use and sale of Big Data.
+The need for better mechanisms to value Big Data.
+The discovery efforts required to better understand companies’ pre-existing dark data, which is information a company already collects like email but doesn’t use.
+
+The use cases were the key to changing perspectives.
+The new kids on the block
+The use cases also introduced accounting professionals to a whole new group of technology and data vendors. These included:
+
+Acxiom
+Aviso
+BrightEdge
+Connect6
+DataSift
+Entelo
+Glassdoor
+GNIP
+HireVue
+Jibe
+Kronos
+Oversight
+Radian6/Salesforce
+Radius
+Visier
+
+What else did accounting professionals learn?
+
+There’s a reason why Workday, Infor and SAP, among others, have redesigned or created new financial accounting solutions that support many more data types and access methods than traditional solutions. This is why technologies like in-memory databases, Hadoop and others are now part of the standard financial software kit.
+Excel, while a great product, is just not going to be the go-to tool for handling these large datasets.
+New students/graduates need exposure to a new set of accounting technologies, data sets, security and privacy issues.
+Business schools must modify their curricula to reflect the changes that a big data fueled business world brings to this space.
+Every business plan/forecast can be measurably improved when big data is added to the effort.
+Fraud detection can be materially enhanced when existing transaction data can be analyzed along with other datasets.
+
+Will the profession change?
+Will the profession change overnight? Probably not. Accounting is a profession that changes when others start to change, surface issues and begin to experiment. The recent exposure to big data may start that change. Technology vendors will not wait for the profession and it’s their innovations (and continuing adoption by businesses) that will act as a continuing catalyst for change. This should be a fun one to watch.
+ 
+Image credit - Featured image credit: © Mark Carrel - Fotolia.comDisclosure - SAP, Infor, Workday and Salesforce are premier partners at time of writing.Read more on: Analytics planning and data analysisFinancials 

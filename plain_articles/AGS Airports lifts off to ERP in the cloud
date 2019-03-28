@@ -1,0 +1,36 @@
+
+The runway at Aberdeen Airport in twilight
+When joint venture AGS Airports was formed in 2014 to take over Aberdeen, Glasgow and Southampton Airports from the holding company that operates London Heathrow, it had just twelve months to create its own back-office operations, previously run centrally from Heathrow. It was a tight schedule, admits CFO Jon McGrane.
+There was twelve months to untangle that and become completely standalone.
+One of the many systems we had to source, implement, test and go live with was a new ERP system.
+That included finance, procurement, capital assets, HR and payroll, which at Heathrow runs on an Oracle R12 E-Business Suite. After drawing up a shortlist, AGS decided its replacement would be Unit4 Business World. The company signed the contract in May last year, giving it just over six months to complete the implementation ready to go live before the cut-off date at the end of December. Any delay would have led to significant financial penalties, so the pressure was on, says McGrane.
+We had an absolute cliff-edge time to go live, we had to get there.
+The new ERP system was just one of several, adding to the pressure on staff and on the IT team.
+If that had been the only system that would have been a challenge, but it was one of about 10 transformations.
+Cloud an unknown
+In similar divestitures, enterprises often feel they have no choice but to select a cloud-based platform simply because they have to meet an immovable deadline. But AGS hadn’t set out to go cloud, says McGrane:
+It wasn’t a conscious decision, it was a consequence of the vendor we selected …
+It was a bit of an unknown to AGS. We hadn’t had to consider that before — there had been no real experience of using the cloud. All applications had come out of Heathrow and all the decisions had been taken out of Heathrow. So it’s been an education. It was pushed by our head of IT who was more astute on that.
+Having said that, anything that helped hit that December deadline was welcome, so it was useful to be able to leave the responsibility for the server infrastructure to the vendor. But from a user standpoint, it’s almost irrelevant, says McGrane.
+95% of the users have no idea we’re in a cloud and [that] we don’t have a server sitting downstairs.
+There are some drawbacks to depending on a cloud system, says McGrane, but no showstoppers.
+Because we’re in a public cloud, we’ve lost a bit of the control and independence we might have sought. We’re seeing upgrades being pushed on us and we must take them. We’ve lost that control.
+Rapid timescale
+Because of the rapid timescale, there were some chart of accounts codes that couldn’t be added to the vanilla product that the team would have liked. It was a concern, but “nothing massively material,” says McGrane.
+Interfaces to other systems had to be built and tested, such as the specialist airport billing software from Gentrack which handles all the aeronautical billing — this accounts for as much as 80% of airport income. That was not all plain sailing, says McGrane.
+One of the challenges was building the interfaces. It was one of the key pain points, having those interfaces developed in time.
+ABS had 4-5 full-time employees working on the implementation, along with another 6 from a third-party IT business partner. Co-ordination and planning were crucial to hitting the tight go-live deadline, says McGrane.
+It was just down to tight governance and project management and having a strong team.
+The team got a head start by kicking off design workshops prior to the official signing of the contract. They also had to keep on top of partners, including Unit4. McGrane feels AGS wanted to move faster than the vendor was used to from its primarily public sector customer base in the UK.
+The key challenge was not having enough time. We were just running at a mad speed …
+When we went into UAT [user acceptance testing] we didn’t spend as much time as we would ideally have liked, so you’re going live with defects.
+Taking it forward
+Given the timescales, the focus was on getting the existing processes up and running on the new system rather than trying out anything new, he says.
+We also had to create a finance team at the same time — that used to come from a Heathrow shared service team. So we brought across the processes based on the as-is. 2105 was about getting the processes in. 2016 is more about standing back, reflecting on the best practice.
+We’ve moved away from the post go-live firefighting. We’re going to bring Unit4 back in and that may result in some tweaking and retraining. That will be the start of a journey to say, how can we optimize and take the business forward?
+Despite occasional complaints of ‘Oh, in Oracle I could do this …’ — ironic, given that people always used to complain about what they couldn’t do in Oracle — the new system has proven popular with users and is easier for those who want to generate reports. It’s now time to build on what’s been achieved so far, says McGrane.
+We’re letting the dust settle on the implementation before we look at other changes.
+We know it’s a fit-for-purpose system, the users like it, we need to make sure we can now maximize the benefits.
+My take
+It’s an impressive achievement to go live in just six months, especially with a brand new finance team. Hats off to AGS for showing what can be done with strong project management, flexible system and a pragmatic approach to using out-of-the-box functionality wherever possible.
+Image credit - Aberdeen runway in twilight via @ABZ_AirportDisclosure - Unit4 and Oracle are diginomica premier partners.Read more on: Cloud ERP financials and supply chainUse cases 

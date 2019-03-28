@@ -1,0 +1,23 @@
+
+Josh Baer
+The Swedish music streaming services is using a ‘data lake’ based on the Hortonworks distribution of Hadoop to calculate royalties, recommend tracks to users and measure audience response to new features and functions.
+Farewell, Music Unlimited. Earlier this year, electronics giant Sony announced it was pulling the plug on its struggling music streaming service and planning to a hitch a ride instead with the strikingly more successful Spotify.
+On March 30, the journey got underway, with the launch of PlayStation Music, a version of Spotify’s service for the PlayStation 3 and PlayStation 4 games consoles.
+The hook-up is potentially a significant one for Spotify. The Sony PlayStation Network has around 64 million active users worldwide and Spotify will be looking to add many of them to its own customer base of around 60 million active users, around 15 million of whom pay for a premium subscription. Numbers will become increasingly important as competition in music streaming hots up: Google recently launched YouTube Music Key and Apple is planning to relaunch its Beats Music service this year.
+So, right from the launch of PlayStation Music, the team at Spotify have been keen to see how the service is working out for games console enthusiasts. Using a Hadoop-based ‘data lake’, they’re able to perform a wide range of complex analyses that tell them who’s using the service, how often, and what tracks they’re listening to, according to Spotify data engineer Josh Baer.
+This Hadoop infrastructure hosts log and app usage data, metadata relating to specific music tracks and customer data and is based on Hortonworks’ distribution of the open source big data framework. Baer says:
+It’s going really great. We had one million users signed up more or less straight away and we’ve been able to see very clearly, from the start, how they’re using the service on their games consoles. If there’d been any problems – users were signing up but not logging in, for example – we’d have been able to see that very quickly. Hadoop is helping us to get some great insights and that’s pretty powerful for us as a company.
+Deep analytics
+Although Baer joined Spotify just over a year ago, the company has been using Hadoop since way back in 2009. Initially, he says, it was introduced to help the company handle the challenge of calculating the royalty payments it must make to record labels:
+When you play a song on Spotify, it’s basically a financial transaction. We have to take all the songs that get played, aggregate that data and then run a bunch of reports that tell us what each record company is owed.
+What was needed was something that was extremely scalable. It had to scale horizontally very easily and cheaply. And that’s what Hadoop gives us. As we’ve grown as a service, we’ve just been able to add more servers to the infrastructure.
+Initially, just four analysts were using the Hadoop data lake, which to calculate royalties, he says, adding:
+But over time, as we’ve grown our team and grown the infrastructure, we’ve grown our uses cases, too.
+Lots of data from lots of devices
+Hadoop plays a vital role, for example, in helping Spotify to recommend particular music tracks to an individual user on the basis of their established listening habits, using collaborative filtering techniques.
+It also helps Spotify staff to curate playlists, based on their insights into what users want to listen to at certain times of day or during particular activities, from making supper to working out.
+It’s also increasingly used for A/B testing, says Baer, when new features and functions are rolled out on the Spotify service:
+When we have a new idea for something we’d like to add  – a new recommendation feature or a new social feature, let’s say – then we just come up with a proof of concept and measure how users respond to it using Hadoop data, just as we’ve done with PlayStation Music.
+That allows us to see quickly what’s working and what’s not, which is always interesting. There are some ideas that seem great at the time, but which don’t work out so well in practice and we can’t take them any further. Early feedback means we don’t waste time chasing something that’s too complicated for users or just not useful to them.
+
+Read more on: Analytics planning and data analysisCRM and customer experiencee-commerceUse cases 

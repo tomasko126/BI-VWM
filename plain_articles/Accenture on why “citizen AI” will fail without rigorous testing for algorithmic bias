@@ -1,0 +1,64 @@
+
+Accenture made my HfS FORA highlight reel with a cannibalize-your-business message.
+But when it comes to cannibalizing your business with AI and automation, I worry that companies will cut too deep and push too quickly – without regard to ethical questions that will ultimately undermine them.
+
+Compelling stuff from @DebbiePolishook as the panel talks about their own digital shifts.
+Re: helping people to see both the need to cannibalize their own services but also “see the opportunity beyond the cannibalization” #HfSFORA
+— Jon Reed (@jonerp) March 7, 2018
+So when Accenture contacted me about a testing methodology to root out bias in AI, I took them up on it. That led me to a late night time-zone-crusher call with Accenture’s Bhaskar Ghosh, who is the group chief executive of Accenture Technology Services.
+The emergence of “citizen AI”
+Since 2014, Accenture has been publishing an annual technology trends report (here’s the 2018 Technology Vision report). But once the report is out, the real fun begins. They must help their clients move ahead – and lead by example.
+Example: in 2014, Accenture took the position that “every business is a digital business.” The catch? That applied to Accenture as well. Cue the acquisitions – and a monster skills overhaul. Ghosh:
+In the last 18-24 months, we have trained 160,000 people in the new and the digital.
+The global effort is paying off; last quarter, Accenture announced that more than 55 percent of their business comes from digital/new services. Which brings us to AI. Ghosh sees a real shift in Accenture’s AI research:
+We all understand that AI is not a new technology, but AI is now ready for commercial use.
+Ghosh cited some bold Accenture findings:
+
+“According to Accenture research, we think that in the next 10 to 15 years, labor productivity will go up by as high as 40 percent – that’s amazing.”
+“81 percent of the executives [we recently surveyed] believe that within next two years, in their organization, there will be AI as a co-worker. Along with their human co-workers, there will be an AI co-worker.”
+
+One Accenture trend in the 2018 report jumps out: the emergence of “citizen AI.” That’s the impact of AI beyond the realm of futurists and data scientists, touching the lives of all citizens. But that means organizations now have a new level of tech accountability. They “have to raise their game,” says Ghosh, and “focus on responsible AI.”
+We need to have a more structured approach to take this AI journey forward – and build this capability.
+Why a different testing methodology for AI is needed
+Ghosh believes the core of ethical/structured AI is testing. That means companies need an AI testing methodology. Accenture has developed their own, which they are now actively using with clients. It’s designed to identify and root out two distinct kinds of AI bias.
+Donning my aspiring curmudgeon hat, I challenged Ghosh with examples of AI run amock from two companies that should know better: Microsoft with their infamous/short-lived “Tay” Twitter bot, and Google, which has had some very unflattering image recognition algo-mishaps with racial themes.
+Is Ghosh saying a proper AI testing method would have prevented these meltdowns? In a word, yes:
+I am absolutely clear that the proper testing strategy can avoid this kind of thing.
+Accenture’s new AI testing services, based on their “Teach and Test” methodology, is based on the “fundamental difference” between AI and other software: the ability to continuously learn.
+“Teach and Test” is based on AI’s probabilistic model, which must have two different data sets:
+
+huge sets of data to train the system, and, after the system is ready to use,
+a completely different set of data to test the system.
+
+Why are two different data sets needed? Ghosh used the example of cats. You might train your AI system by showing it multiple pictures of cats. But to test the effectiveness of cat recognition, you should now test the cat image against images that are not cats. Or: different types of cats in radically different settings.
+I came up with a more ominous example, of an airport facial recognition system, where the system would “train” on huge volumes of facial databases, but you’d need to “test” its abilities in the confines of that airport’s security system.
+Addressing data and algorithmic bias
+But this is the point where companies need to be careful. As Ghosh warns, this is where the bias comes in. Actually, two kinds of bias:
+
+data bias
+algorithmic bias
+
+To illustrate data bias, Ghosh used the example of an AI bank application for loan approvals:
+If you use the [existing] data, the data may suggest one class or ethnic group or minority, that historically we have given fewer loans to. That is the data. Data has a bias, so the next time when you process any new application from that ethnic group, automatically the system will be biased.
+That’s where training the system comes in:
+We have to make sure there is no bias in data the system is learning from. Part of our methodology is we try to address that.
+So what about algorithmic bias? Ghosh:
+Type in a simple sentence in any of translator, such as, “She is a doctor, and he is a babysitter.” And translate this sentence into Turkish. Turkish is a language where there’s no gender. After you translate into Turkish, take that same text, and translate back to English. It will probably translate back as, “He is a doctor, and she is a babysitter.” That is a gender bias. We need to make sure that there is no algorithm bias in the system.
+Your AI testing methodology must address both types of bias. The nitty gritty of Accenture’s AI testing method is beyond the scope of this piece, but one example is “metamorphic testing.” That means, in layman’s terms, you have to go beyond probabilities and test different scenarios:
+[If you don’t test properly], when you identify a husky dog in a city, the system will identify that as a dog, but in the jungle, it may call that as a wolf. There’s a very specific methodology what we built… It will vary the output in a different way, and test the input, so that it can always say “Yes, your system is good enough to identify the right object.”
+Accenture also shared the tricky example of accurate sentiment analysis, where a simple word like “hot” can be a positive sentiment for food, or a negative for weather (or the reverse in each case) . In that case,
+Data selection/curation should ensure equal representation of each sentiment – Positive, Negative, Neutral. Evaluation/Testing of the solution entails selection of the right combination of tests and data so an unbiased model is developed.
+The testing metrics in this methodology are different also:
+The metrics to evaluate AI model performance is also very different from traditional systems. Rather than capturing number of defects, severity of defects, number of test cases executed vs. pass/fail, in an AI testing methodology, focus is on accuracy and precision of the model outcomes with varying data.
+My take – citizen AI versus data science experts
+Despite his confidence in AI testing, Ghosh acknowledged that we’re not going to get perfect results:
+Does that mean testing will always 100 percent eliminate bias? The answer is no.
+AI is just like any other software: you’re going to run into bugs, errors, and crashes. But Ghosh insists the stakes are higher:
+Citizen AI will touch the people; it will touch the sentiment of the people, so if there is a bias, it will hurt us more.
+Ghosh has a warning for companies also: if you gloss over these ethical issues, it will come back to haunt you. Bias will create inaccurate results:
+People will lose confidence on this technology, so it is very important that we create the right strategy.
+It was interesting to do this piece on the heels of “Don’t do an ML science experiment” – Mike Salvino on machine learning misconceptions, and what to do about them. Salvino warned companies of a different issue: underestimating the need for machine learning experts with deep math/stats backgrounds.
+I don’t see a conflict, however. Ghosh is right that “AI,” even in simplified forms like chat or voice bots, touches everyone now. Salvino is correct that advanced AI projects require advanced skills. Ethical considerations unite the two. I’ve written about designing for security. We should also design for ethics. That means testing for bias – with a lot more rigor than we seem to do now.
+I’d like to talk to an Accenture customer about their results with these methods. Whether it’s Accenture’s approach or not, the discipline of uprooting bias is part of the process now. There will be many more algo-fiascos, but I like Ghosh’s point that uprooting bias is about accuracy, and thereby maintaining user trust. Even cynics and brazen capitalists can grasp that. Otherwise we’re stuck preaching to the do-gooders, and nothing will change then. We’ll just automate our own flaws.
+End note: for another vendor’s approach on addressing bias, check my piece on SAP, How SAP Business Beyond Bias productizes inclusive processes within SuccessFactors – an illustrated review.
+Image credit - Homme piege - Falaise © pict rider - Fotolia.comRead more on: DevOps NoSQL and the open source stackIoT robotics and AIMachine intelligence and AIThe new professional and IT as a service 

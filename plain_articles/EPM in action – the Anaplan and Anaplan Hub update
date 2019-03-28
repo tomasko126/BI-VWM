@@ -1,0 +1,58 @@
+
+There’s been some news on the EPM (enterprise performance management)/CPM (corporate performance management) space of late. This piece will focus on Anaplan, and follow-on pieces will dwell on Host Analytics and possibly Adaptive Insights.
+Anaplan is one of the larger independent EPM providers that compete with offerings from even larger ERP vendors. As such, they’ve got to out-innovate these huge competitors. Efficiency in their R&D spend has to be a priority, as does outstanding execution in how they sell and implement their solutions.
+A great EPM user conference will often have lots of points of view re: the future of budgeting, planning, forecasting, etc.  Sadly, a lot of ERP events are long on re-platforming updates, UX re-skinning efforts and, the obligatory rock concert at the end of the three day shindig.
+So, what did we learn at Anaplan’s recent Hub Conference 2018?
+Money, money, money
+The analyst crowd got something of an update regarding Anaplan’s revenue trajectory, capital foundation and other balance sheet items.  We heard:
+
+The company added over 200 net-new, global customers in fiscal year 2018
+The company remains a unicorn due to a recent capital injection of $60 million
+Current investors have valued the company at $1.4 billion. This valuation is a modest bump up from the prior investment round.
+The firm surpassed $200 million in billings (not revenue) last fiscal year.
+
+To add more context, Anaplan announced around the same time last year their fiscal 2017 results:
+
+75% YOY subscription revenue growth
+$120 million total revenue
+250 new customers including: American Airlines, Merck and Inbev
+Customer count of 660 customers in 40 countries globally
+
+In a couple of conversations at the recent Hub event, I tried to get more clarity around Anaplan’s progress towards meeting a Rule of 40 (R40) standard. R40 is an equation where you add a company’s annual growth rate with their profit percentage. Early stage SaaS firms often carry losses in their first years as they are still consuming capital to acquire customers before subscription monies become more meaningful. In contrast, mature SaaS companies should be able to manage both growth and profitability.  I couldn’t get anyone at Anaplan to go on the record re: when they’ll be in compliance with R40.
+Vision, vision, vision
+The keynote showcased a futuristic video wherein an executive in Paris is being driven to work in her autonomous self-driving automobile. On the way to the office, she gets notifications from the Anaplan planning and forecasting system that a key component supplier to her firm’s shampoo business is going to miss their delivery date. For Anaplan, this is where connected planning is headed:
+
+You don’t have to call some sort of psychic hotline to guess what happened next. The Anaplan software helped her understand how to re-plan production, identify alternatives, etc.  By the time the executive got to her office, everything was once all good in the neighborhood. Crisis averted thanks to Anaplan.
+While the video was slick and showcased a number of innovations Anaplan is working on, the reality is that:
+
+Some functionality might be out late in 2018
+Some functionality is being built out by partner firms with no known delivery date
+Some functionality won’t be available at all in the near term.
+
+Sorry, that’s the best idea we got as to when some of that future is going to be available to Anaplan customers.
+What we did learn is that:
+
+Anaplan struck up a relationship with TensorFlow – To bring open source ML (machine learning) into the planning process, Anaplan has made a relationship with TensorFlow and other firms. All we know beyond this announcement is that the company is currently developing proofs of concept around these technologies.
+26 algorithms are now part of the platform and can be used for predictive and statistical jobs.
+Optimizer, a tool that recommends a course of action when confronted with decisions influenced by thousands of variables, is now part of the Anaplan toolkit. That tool should be magical for the operations research quants in their install base.
+
+The company also enhanced its workflow and content filtering capabilities.
+The channel ecosystem
+The quality of customers signed was a focus of the firm this last year – not quantity. Anaplan is clearly targeting larger prospects and the channel partners that implement solutions for them. Deloitte clearly factors large in this ecosystem.
+Anaplan also touted deeper relationships with other major integrators (e.g., Accenture) and management consultancies (e.g., Bain and McKinsey).
+I had the opportunity to speak with an Anaplan executive re: their channel changes as well as to one of the leaders of one of their partner firms. I learned that Anaplan really wants large partners that have the industry connections, capital and hunger to build deep industry-specific solutions. On the other end of the spectrum, Anaplan also wants nice-sized niche implementation firms that provide super-deep point-of-need expertise in Anaplan products. The latter partner firm is ideal for customers wanting to do a lot of the implementation themselves with some point expertise when needed.
+Anaplan doesn’t want or need partners that will only do 2-3 deals. Their partner program is designed around getting partners up to speed fast in three areas: sales and marketing; technology; and, implementation. Interestingly, the big integrators and consultancies with their long-standing and high-level client contacts need little help in the sales and marketing enablement areas.
+To power this ecosystem further, the company created an Anaplan Community (for customers to share innovations and answers to questions) and a Partner Community (for enhanced partner knowledge sharing).  To supplement these communities, the company also announced its App Hub – a marketplace to share/sell extensions, integrations, etc. to the Anaplan ecosystem.
+There are now over 2000 people trained in Anaplan products.
+Bottom line
+
+New management team – Many of Anaplan’s leadership team are new to the firm. The new regime is clearly focusing the company on solutions (not tools) and bigger integrators with their big clients.
+Revenue mix is changing – The firm is targeting bigger prospects via big integrators and consultancies.
+Light on specifics for now – One of my clients was there, and he left hungry for more detail and product enhancements. Big stuff may be in development but you couldn’t really get your hands around it. I realize this is a temporary phenomenon and we’ll hopefully get more details before long.
+
+For more background on Anaplan:
+
+Is platform enough – a review I did based on their 2017 user conference
+Evolution of and state of The CPM/EPM market – here’s my state of the market piece on this sector of the enterprise software space
+
+Image credit - Feature image - Career Planning Concept. Businessman Getting Help Building Bridges To Success. © ilkercelik - Fotolia.com. Anaplan connected planning photo by TechVentive, Inc. – Copyright 2018Disclosure - Anaplan covered Brian’s travel costs for this event.Read more on: Analytics planning and data analysisDigital transformation - frictionless enterprise 

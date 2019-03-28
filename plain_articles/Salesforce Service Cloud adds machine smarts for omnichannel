@@ -1,0 +1,34 @@
+
+Salesforce reveals today that it will add machine intelligence to its Service Cloud platform to help enable what it calls ‘omnichannel’ customer service.
+For Salesforce, omnichannel is more than just ensuring a consistent experience across multiple channels. It means being routed back to exactly the same agent you dealt with last time you called, emailed or tweeted. In a pre-briefing on Friday, Sarah Patterson, VP of marketing, Salesforce Service Cloud, gave me a succinct definition:
+The difference between multichannel and omnichannel is that omnichannel is preserving that relationship with the agent.
+Very few organizations are delivering that level of customer experience today — and yet it’ s about to become an even more challenging objective with the emergence of the Internet of Things, as she went on to explain:
+Today customers expect omnichannel support. They expect that you are going to be able to interact with them seamlessly across all the different channels they are using to communicate with you.
+That’s not happening today. At the same time that world of connected products adds a new layer into it. If I have a connected car, I do expect that if it breaks down, it is going to communicate with the dealership.
+As these worlds converge, neither set of customer expectations is being met right now. Connected products are going to be an additional channel in an omnichannel world.
+Systems of intelligence
+That’s where the new Salesforce technology comes in, of course. To help position it, the vendor has defined an entirely new layer in the hierarchy of systems of record and systems of engagement. What the customer service world needs now, Patterson told me, is “systems of intelligence.”
+In the case of Salesforce, that comes in the shape of the Service Cloud Intelligence Engine, which applies data science and machine intelligence in three main areas, says the company:
+
+Intelligent business processes. By applying machine intelligence to workflow automation, said Patterson, “the system can dynamically push work to the employee based on skill set and case history.” So for example, VIP customers can be matched to the most suitable agents, or service enquiries that might be a sales opportunity can be routed to upsell teams.
+Intelligent workload management. This is when the engine “automatically distributes and manages workload across agents,” said Patterson. For example, it may use historic data about time to resolve to decide how to fill an agent’s case queue, or perhaps adjust the workload assigned to an agent who will shortly be finishing their shift.
+Seamless omnichannel customer view. The engine ensures that customers don’t have to start over explaining their problem when they switch channels. Instead, it routes the case to the same agent, for example if a customer with an open email case requests a video chat. In short, said Patterson, “Ensuring the right agent is answering across every channel.”
+
+Rethinking business processes
+Service Cloud Intelligence Engine will become available later this year, with pricing to be announced then. The underlying technology is separate from that used for Wave, the analytics engine announced at last year’s Dreamforce conference, which is also due for general availability this year. While analysis done in Wave may lead to an update to business rules being used by the Intelligence Engine, the latter is all about machine automation rather than human analysis, Patterson explained.
+This is not powered by Wave. We have been building in a layer of intelligence into the Service Cloud product that is powering the Service Cloud Intelligence Engine. This is smarter customer service for this connected world. This is processes being automated rather than a person looking at this data to automate the business processes.
+It’s the Service Cloud using data science so that businesses can run more intelligently and provide more effective customer service.
+It is not necessarily the largest enterprises that are looking for this capability, said Patterson.
+Where we’re seeing a lot of demand for this is with more sophisticated customers. It’s less of a size differentiation and more of a case complexity and channel complexity.
+Any company that is building a business around providing a differentiated customer experience will find this useful.
+Early pilot customers have been able to implement the capability in a short timescale, but have found the impact on their business processes demand a lot of forethought, said Kendra Fumai, director of product management.
+We’re finding the implementations are fairly straightforward. More time has gone into the planning and rearchictecting of business processes.
+My take
+As a consumer, I have a conflicted view of the omnichannel nirvana being portrayed. On the one hand, I yearn to experience it. On the other, I know full well that whenever I do encounter it, I’ll be charged a costly margin to fund it.
+The only consolation is that machine intelligence can power it for a lot less than it currently costs to deliver using purely human teamwork. Salesforce would probably also add that machine automation is going to become more and more necessary to keep pace with the rapid escalation in channels of interaction that will arise as the Internet of Things extends its web of connected devices. The vendor will argue that merely offering a competitive standard of customer service will require some kind of machine intelligence to deliver cost-effectively.
+But for now that is still looking ahead to the future. Judging by my everyday encounters with customer-facing service teams, very few organizations are anywhere near even contemplating the kind of sophistication in customer service that this latest innovation is targeting. As noted above, it is not just a matter of putting in new technology. Business processes will have to change pretty radically too.
+It is easy to see how it would appeal to a certain segment of Salesforce’s Service Cloud customer base. It is up to those early adopters to make sense of the technology and establish good practices that everyone else can then aim to live up to.
+Disclosure: Salesforce is a diginomica premier partner.
+Image credits: Digital service concept © Denys Rudyi – Fotolia.com; screenshot by Salesforce.
+
+Read more on: CRM and customer experienceInternet of Things 

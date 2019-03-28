@@ -1,0 +1,48 @@
+
+Chris O’Malley, Compuware
+Conventional wisdom these days asserts that mainframes are inflexible, impenetrable, legacy systems that have no place in a digital enterprise. It argues for their rapid replacement and decommissioning, whether by peeling off functions onto more agile platforms one at a time, or porting the entire environment to a new home. Meanwhile, these supposedly antediluvian systems stubbornly continue to power mission-critical operations at the heart of banks, airlines and many other large enterprises.
+What if today’s conventional wisdom has got it wrong? What if it were possible, given the right tools, to treat the mainframe just like any other modern platform in an agile, devops environment? After a two-and-a-half year transformation fueled by private equity funding, mainframe tools vendor Compuware believes the mainframe can indeed take its place in such an environment — not least because, as CEO Chris O’Malley explains, there’s still no viable alternative for the reliable, high-throughput transaction volumes at which it excels:
+The mainframe is the best systems-of-record platform on the planet. That’s why it still dominates in banking and insurance, because it’s irreplaceable in that context.
+O’Malley pours cold water on the notion that newer technologies, often touted as alternatives, could seriously challenge the mainframe. Blockchain, for example, has struggled to peak at 15 transactions per second, whereas the mainframe at a global credit card company, operating 24x7x365, will routinely maintain an average 70,000 transactions per second. He says:
+The reality is, the mainframe’s irreplaceable for certain things that it does. Let’s not chase ghosts here, let’s mainstream this mainframe and take advantage of its capabilities.
+Bringing devops to the mainframe
+Recruited in 2014 after a career that spans a quarter-century at Compuware rival CA Technologies as well as a stint at CEO of big data startup VelociData, O’Malley has galvanized innovation at the tools vendor, first established in 1973.
+I knew if Compuware was going to be a growth company in this market, we would have to reinvent mainframe tooling.
+I promised nine quarters ago we would come out with new products, updates to classic offerings, every quarter.
+When you do that the mainframe becomes remade.
+Two years ago, the company launched its first new product since 1999, and in the past year it has rapidly expanded its toolset through a combination of in-house development and four separate acquisitions. With an Eclipse-style IDE and connections into the likes of Jenkins, HipChat and Slack, the intent is to provide all of the capabilities and trappings of a modern devops environment to mainframe software development. O’Malley says:
+We’ve really now fixed the big, practical problems that needed to be fixed to be able to run an agile sprint team on the mainframe.
+We’ve mainstreamed that mainframe. It’s now effectively the same as any other system — different only in syntax from any other platform.
+New lease of life
+The toolset allows a new generation of agile, devops-savvy developers to work alongside mainframe specialists. These agile teams can work on the same source code in parallel and deliver tested code in two-week sprints. This brings the mainframe into the same development ethos as other platforms, enabling large enterprises to become as nimble as next-generation startups, says O’Malley.
+You’ve got to give dominion of that platform to devops artisans and let them do their magic.
+Then you’re making big combine with fast, that should give advantage to large enterprises.
+Although customers are not yet ready to talk about what they’re doing with the new tools, Compuware is seeing traction, he says, especially among banks and retailers.
+Banks are predominantly the ones that are going down this path the fastest. They’re most threatened.
+It’s no longer us being evangelists. It’s now more people coming to us.
+This is giving big iron a new lease of life at some enterprises, he adds:
+The customers that are being most aggressive are moving workloads back onto the mainframe.
+‘We had mutinies’
+The transformation within Compuware from traditional waterfall development cycles to the agile model has not been without its internal battles. But it was essential to enable rapid progress, O’Malley explains.
+We had mutinies when we went from waterfall to agile. There’s a thousand excuses people give. You’ve got to quit lying to yourself. There’s nothing about waterfall that’s somehow better than agile that’s meaningful in this day and age.
+If the cycles for iteration are 18-20 months, there’s no way we’ll get anything done …
+The ECC group fought me the hardest of any group. They’ve got really good arguments why agile is a bad idea. Two and a half years later, that’s the product group that’s proven to be the most agile.
+Eventually they began to figure out they had to adopt these devops techniques. They are the most adaptable team now that I’ve got.
+Changing enterprise mindsets
+The transformation isn’t just in working practices, there’s also a mindset change that needs to take place. In the past, large enterprises could dominate a market by having better reach. But now that everyone is digitally connected, it’s the ability to provide a superior service that’s the differentiator. That means large enterprises have to get into the habit of constantly renewing their product offerings to stay competitive. O’Malley believes agile, devops techniques are the tools that enable that innovation.
+Large enterprises that tended not to be product management savvy now have to innovate.
+What devops means is that ideas need to dominate. Not technology, not skills. The old order of these enterprises is, I work on line 50-70. There’s all this latency and everything’s tied to the way things have been done.
+When the ideas dominate — I talk to them a lot about product management. You’ve got to give that guy a manufacturing plant that he can get work done. You do that by mainstreaming these environments, giving him an awesome devops toolset.
+You have to make that undocumented codebase more manageable for [the developer]. After a year or so the mainframe codebase will become more API-enabled. And the codebase becomes more massively manageable.
+As a proof point of what can be achieved using an agile approach, Compuware cites the development of its Runtime Visualizer. This presents an analysis of a mainframe program’s operations in a visually intuitive graphical layout, providing insights into the behavior of often undocumented programs that may have been left untouched for decades. The product went from initial concept to minimum viable product in less than 90 days, as recounted in a YouTube video created by Compuware.
+No waterfall or bimodal here
+Emboldened by such experiences, O’Malley believes the old waterfall approach to development, in which code was created over months or years before being pushed to production, no longer has a place.
+Compuware does no waterfall. Everything we do is agile. Some people say some stuff you do has to be waterfall — that’s a total fallacy. You don’t have to do it. We’ve got to purge this waterfall thinking.
+And he is scornful of the notion of bimodal IT, which argues that core systems should be isolated from disruptive innovation. Comparing it to medieval approaches to medicine, he says:
+I think bimodal IT is a modern form of bloodletting. It’s a form of suicide — it’s a description of the exact problem that’s got to be fixed.
+In this day and age you’ve got to be inventive … You’re going to see the mainframe acting as a system of record increasingly with the cloud.
+Bimodal IT is a comfort blanket for someone that wants to throw out the baby with the bathwater.
+My take
+As someone who grew up with the PC generation and always saw the mainframe as old-school computing, I’ve spent the past three decades waiting for its demise. But now that more specialized processors are seeing a resurgence in cloud data centers to serve the needs of machine learning, perhaps it’s time to re-evaluate whether there’s also a continuing role for these high-volume transaction processing machines in enterprise data centers.
+In bringing agile and devops to the mainframe, O’Malley’s Compuware is taking an approach to mainframe application development that no one else has yet bothered to try. It’s a worthwhile experiment and may yet prove that there’s still life left in these erstwhile dinosaurs of the enterprise computing landscape.
+Image credit - via CompuwareRead more on: Cloud ERP financials and supply chainDevOps NoSQL and the open source stackFintechUX and application design 

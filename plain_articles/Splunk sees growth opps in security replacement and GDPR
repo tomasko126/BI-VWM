@@ -1,0 +1,37 @@
+
+Doug Merritt
+Smaller-than-expected losses, higher-than-expected revenues and some strong customer growth means a good second quarter for Splunk – and it’s still early days, emphasises CEO Doug Merritt: 
+
+We’re still early on the Splunk adoption journey even within our largest accounts, and we continue to vigorously pursue those opportunities…Our goal remains the same, which is to become the standard for machine data in every account, a ubiquitous machine data platform solving our customers’ Big Data challenges and IT operations and application delivery and security compliance and fraud, as well as business analytics and the Internet of Things (IoT). 
+
+Notable recent customer wins include Athena Health, which expanded its use to Splunk Enterprise; The State of Montana which expanded its Splunk Enterprise license;  The Federal Home Loan Bank of Chicago which chose Splunk Enterprise and ITSI to improve correlation and visibility of information security and operational events within its environment.
+Elsewhere Harvard Business School, which uses Splunk to hunt down security threats, expanded its use of Splunk Enterprise and ES to add more data sources and provide deeper and broader visibility of their security team, while Swisscom bought Splunk Enterprise, ES and ITSI to monitor its services, increase productivity and reduce time to market. 
+As for that IoT business, Merritt points to a good use case: 
+
+Long Beach Container Terminal is using Splunk as the eyes and ears of the terminals operations. They use Splunk to monitor the performance of their systems, which control dozens of automated cranes and guided vehicles that are vital to moving cargo from the right place at the right time safely and quickly. Long Beach reduced overall system downtime and drove significant performance improvements in logistics, planning and flow of cargo throughout the terminal.
+
+Security and cloud
+Security Information and Event Management (SIEM) remains a potent market for Splunk, says Merritt, citing “an ongoing SIEM replacement cycle” that is underway:
+
+
+Security departments globally are increasingly realizing the need to shift their focus to an analytics-based approach to security, an approach that Splunk has been defining and leading for years. It’s becoming more clear that we’re in the middle of a SIEM replacement cycle, from a traditional structured data legacy SIEM to a modern analytics-based one.
+
+He adds:
+
+We started seeing, probably about a year ago, where people were really started thinking about what their next iteration of SIEM is going to be and we see it continuing to pick up speed…We believe that we are incredibly valuable and tight partner to both the security vendors, as well as the customers that are trying to deal with this very difficult task. And the beauty is in the data right reading in for security is often usable and highly valuable for those use cases outside of security…as the security landscape is changing pretty notably and organizations are moving to a much more of a heavy analytics, machine learning, big data approach to security, they need a technology solution, both app and underlying capability, like Splunk cast to help them manage that. I think that’s probably the biggest drivers, it’s just the natural, next-generation of people.
+Coming soon will be a new set of packages that focus on the different buying centers that have security-oriented needs: 
+In the compliance arena, in these fraud arena and then just different departments within the general cybersecurity department coming out with more specific packages around perimeter defense, as an example, as given earlier, bringing in firewall data and network packet flow data and others to make sure that your perimeter is well defended.
+
+Splunk’s cloud business continues to grow, says Merritt,  doubling revenues year-on-year: 
+
+Our customers are leveraging this Splunk platform to analyze their data regardless of its location on-prem or in the cloud. A sampling of our cloud wins in this quarter include Australian paint and coating manufacturer, DuluxGroup, who is a new customer choosing Splunk Cloud and ES as its SIEM because of our ability to drive value across multiple use cases using the same data. Educational Testing Service (ETS), the world’s largest non-profit testing company expand their use of Splunk Cloud, which they use as their platform for IT ops and app monitoring. With Splunk ETS achieved 70% reduction in time investigating IT incidents and 50% faster mean tender resolution.
+
+An upcoming opportunity lies with next year’s General Data Protection Regulation (GDPR) from the European Commission, adds Merritt: 
+
+We’re still early in the GDPR wave. I went out [to Europe] like a month ago, I think I was last time I was there and it was beginning, first time I’d heard it in two, three quarters come up as part of many conversations. But I think people are still trying to figure out exactly what does it mean. 
+We do believe strongly that Splunk is a key component to effective GDPR coverage. Our legal and product teams can now have some nice white papers and have two guides. And I would expect that you will see some interesting stuff from Splunk in the coming weeks, months and quarters that help people with this GDPR initiative.
+
+My take
+A strong quarter with the promise of more to come. 
+Image credit - Cisco Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureData privacyDigital government and public servicesRegulationSecurity
+

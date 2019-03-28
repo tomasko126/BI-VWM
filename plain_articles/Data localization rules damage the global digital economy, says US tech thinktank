@@ -1,0 +1,42 @@
+
+So here’s a contentious contribution to the ongoing debate around data sovereignty – according to the US tech thinktank the Information Technology and Innovation Foundation (ITIF), some 34 countries are damaging the global economy through in-country data rules.
+In a new report – Cross-Border Data Flows: Where Are the Barriers, and What Do They Cost? – ITIF looks at requirements for data localization around the globe and concludes:
+These policies represent a new barrier to global digital trade. Cutting off data flows or making such flows harder or more expensive puts foreign firms at a disadvantage.
+Drilling down on the commercial implications, ITIF claims:
+Data localization and other barriers to data flows impose significant costs: reducing U.S. GDP by 0.1-0.36 percent; causing prices for some cloud services in Brazil and the European Union to increase 10.5 to 54 percent; and reducing GDP by 0.7 to 1.7 percent in Brazil, China, the European Union, India, Indonesia, Korea, and Vietnam, which have all either proposed or enacted data localization policies.
+There is, argues ITIF, no benefit in terms of security from insisting on data being stored in-country and politicians and legislators need to wake up to this:
+Many policymakers reflexively and mistakenly believe that data is more private and secure when it is stored within a country’s borders. This misunderstanding lies at the core of many data-localization policies. However, in most instances, data-localization mandates do not increase commercial privacy nor data security. This is a key point that few policymakers have fully grasped.
+It adds:
+Policymakers focusing on geography to solve privacy and cybersecurity concerns are missing the point. Consumers and business can rely on contracts or laws to limit voluntary disclosures to ensure that data stored abroad receives the same level of protection as data stored at home. In the case of inadvertent disclosures of data (e.g., security breaches), to the extent nations have security laws and regulations, again a company operating in the nation is subject to those laws, regardless of where the data are stored. Moreover, security breaches can happen no matter where data are stored—data centers everywhere are exposed to similar risks.
+Protectionist
+ITIF goes on repeat the allegation that data localization laws are often put in place to benefit the host country economically by forcing infrastructure investment there. This is a claim that has regularly been levelled at the European Union by the US tech industry. ITIF says:
+Some countries believe data localization offers a quick way to force high-tech economic activity to take place within their borders—a new form of “digital mercantilism”—similar to how countries use local content requirements and tariffs to protect local manufacturing operations.
+Given that traditional trade-protectionism tools, such as tariffs, do not work as readily on digital economic activity, countries pursuing digital mercantilism are reverting to “behind-the-border” regulations and technical requirements, such as data localization. These barriers represent the most significant issue for digital trade.
+Some policymakers believe that, if they restrict data flows, their countries will gain a net economic advantage from companies that will be forced to relocate data-related jobs to their nations.
+
+In fact, alleges ITIF, countries restricting data flows are cutting off their innovation noses to spite their faces:
+Barriers to the exchange of personal medical data, such as those in Australia, Canada, China, and Russia, could prevent these counties’ citizens from accessing the latest technological advances. For example, companies such as Hermes and Alliance Medical provide outsourced analysis of MRI scans, thereby decreasing health-care costs and time demands on doctors.
+Likewise, such health- data restrictions prevent IBM Watson—which combines a supercomputer, artificial intelligence (AI), and sophisticated analytical software—from using patient data for newer, quicker, and better health diagnosis.19 Given that each of Watson’s AI applications—such as for health, weather forecasts, or others—require customized hardware to match the application, it is unrealistic to assume that IBM would build such data centers in each and every country that enacts barriers to health data. Instead, citizens in these countries are likely to miss out on access to the latest and most-sophisticated medical services.
+The Foundation wants President Donald Trump to turn his attention to knocking down these barriers, specifically calling for him to:
+
+Negotiate trade agreements that prohibit and eliminate digital barriers.
+Develop better measures of the digital economy and trade.
+Expand the focus on digital economy and trade issues.
+Initiate enforcement cases against countries, such as China, that have enacted
+digital-protectionism policies.
+Propose and negotiate a “data-services agreement” to address digital trade barriers.
+Propose and negotiate a “Geneva convention on the status of data” to establish international legal standards for government access to data, to improve mutual legal-assistance processes, and to decide on a framework to manage questions on data-related jurisdiction issues.
+
+Meanwhile the US organization wants other countries to put their own houses in order and:
+
+Recognize the critical role of data flows and prohibit data-localization policies.
+Promote international interoperability in privacy and data protection.
+Encourage international organizations, such as the World Trade Organization and the Organization for Economic Cooperation and Development, to focus on digital trade barriers.
+
+All of this is necessary to stimulate the global digital economy, concludes ITIF and the US should set the lead:
+Rather than build virtual walls at their borders, countries should embrace principles of digital free trade. The United States and other like-minded countries that recognize the value of an open, rules-based digital economy should oppose data-localization policies and work to halt and roll back these corrosive practices.
+Without new rules, countries will continue to exploit the vacuum to enact further barriers to data flows and digital trade. The United States and other like-minded countries that value free trade and the free flow of data can only counter this digital protectionism by setting new, high- standard rules that protect data flows and other crucial facilitators of digital trade and data flows.
+My take
+I’m no great fan of some of the EU’s more nakedly-protectionist regulations around data localization, that are, at least in part, intended to make it harder for US firms to do business. That said, there’s in turn a hugely opportunistic streak of self-interest in this report that is itself barely concealed. I don’t claim to know what the answer is, but the one thing that does come out from the ITIF study is the need for an informed, global debate, but that will only serve a purpose when all vested interests put aside their own agendas and work to a common good. In other words, don’t hold your breath.
+Image credit - ITIFRead more on: Data privacyDigital government and public services
+

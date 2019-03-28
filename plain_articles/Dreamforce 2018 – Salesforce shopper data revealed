@@ -1,0 +1,45 @@
+
+Even the biggest Dreamforce fanboys and fangirls concede that amidst the show’s monster size and scope, finding your kindreds can be a project.
+So in the run-up to Dreamforce 2018 at Shop.org in Vegas, I asked Dwight Moore, Salesforce Retail Industry Product Marketing Lead, to give Dreamforce retail buffs a tip sheet for the week.
+Moore had some good ones, starting with the Dreamforce trail maps for retail and consumer goods. I’ll get to the rest of Moore’s tips in a bit, but first: the Dreamforce buildup also coincides with Salesforce’s release of its annual (free) Shopper-First Retail Report. The report gives us fresh data to consider amidst the retail debates we’ve been having on diginomica of late, such as the effectiveness of personalization.
+Personalization means getting your data act together
+During our Vegas sit down, Moore jumped right into the Shopper-First data. Salesforce compiles this data via shopper activity across 500 million shoppers, consumer surveys of 6,000 shoppers from six countries, and mystery shopping across 70 store experiences. The personalization message came through loud and clear:
+
+75 percent of customers say they want to receive personalized offers. “Make it relevant to me” is the message here.
+
+And yet, many retailers are struggling to build a data platform to provide a true sense of personalization across touch points. Moore found ample evidence of that in their Shopper-First survey:
+We did 6,000 consumer interviews, and we also mined data across 500 million shoppers that are using our platform for transacting commerce. What we learned is 64 percent of shoppers say they don’t believe retailers know them.
+It’s not a lack of data; it’s the opposite:
+Retailers have more data than they know what to do with. It’s how do you pull that data together to create a 360-degree view of that shopper – to truly know who they are.
+Two years ago, right after Dreamforce 2016, Moore published a retail roundup that featured his top ten Dreamforce takeaways. He hit on everything from the importance of employee morale to pop-up stores to the push towards personalization. I asked Moore: how did those ten takeaways hold up?
+Back when we were drafting this, there was a lot of uncertainty about retail and the direction it would take. People were talking about the retail apocalypse.
+Jump ahead two years:
+I think we’re firmly in what we would characterize as the retail renaissance. That’s really due to the action that retailers are taking to provide the seamless experience for their shoppers across channels. Not everyone has quite figured it out; some are doing it better than others. But I think the winners recognize that to survive you have to deliver a great retail experience. And through that great experience, it’s about engaging that shopper.
+I always take the “customer experience” cheese. Mostly so I can ask: so what does a so-called great experience look like, anyhow?
+You need to inspire shoppers with these great experiences. It’s about knowing who that shopper is, personalizing that interaction, and then engaging them on their terms.
+But as the Shopper-First survey shows, too many retailers are still coming up short. How should retailers deal with that “too much data” problem? Moore advises creating an effective data platform:
+What we’re seeing right now is a lot of retailers leveraging data management platform technology, DMP, to pull that third, second and first-party data together to create a view to who that shopper is and then engage them with inspiring, well-targeted advertising to get them to the doorstep.
+Personalization for retailers is advancing
+“Inspiring advertising” is easier said than done, but then again, I do appreciate the all-too-rare relevant offers I see on my mobile and on my browser. One thing I was struck by at Shop.org this year: some tangible progress on how personalization brings ROI. That’s also something that stood out for Moore as he looks back on his 2016 post. Moore believes “AI” and machine learning have given personalization more teeth:
+We talked two years ago about how retailers need to get smarter. It’s really about personalization, and so underneath that fundamentally, it’s artificial intelligence and machine learning that’s powering a lot of this personalization. It’s really remarkable the power the personalization has.
+Moore dropped this potent stat:
+When we look back at the performance again off of our platform serving 500 million shoppers, 6 percent of the shoppers were exposed to personalized product recommendations. And that was responsible for 37 percent of the revenue. Which is just really remarkable.
+And how does personalization achieve that impact?
+It increases open rates, it increases click through. It increases conversion and results in actually higher average sales. The faster that retailers can personalize, the better they’re going see the economic benefit.
+Moore says that for Salesforce customers, the Data Management Platform (DMP) has been crucial:
+L’Oreal increased their reach by 33 percent by leveraging the DMP. So we were able to help them find 33 percent more people in their target audience through this technology. So it’s really a powerful, and I think that’s a trend we’ve seen over the last two years.
+But that brings us to another challenge. Moore cites Shopper-First data that shows that the first time consumers buy an item, 50 percent of the time they go into a store. But then, for their second purchase of that item, they are more likely to go to marketplaces. That’s what I call laboring in Amazon.com’s shadow. Moore:
+I’ve learned about the product; the retailer’s helped serve my need. I walk away with a product, and then I don’t go back to the retailer.
+That’s where “engaging” the consumer comes in:
+Here’s the opportunity for the retailer is: part of knowing the shopper and engaging them is to engage them after that first purchase. Enter them into an onboarding journey.
+Moore likes what Salesforce customers like Suit Supply are doing:
+This is where Salesforce Marketing Cloud enables this journey-based approach. So send them a email receipt. How did we do? Get a survey. Suitsupply does this. When you exit a Suit Supply store, you get a digital receipt. It has a picture of what I bought, the price and asks, “How did we do?”
+Dreamforce for retail buffs – tips and previews
+That sets the table for the retail themes to watch at Dreamforce 2018. Though we didn’t discuss news announcements or keynote themes, I’m anticipating a healthy dose of Einstein, predictive, AI and machine learning. Or, as Salesforce might put it, expect the themes to be “delivering inspirational shopper experiences” and “leveraging intelligence.”
+And about those Dreamforce tips for retailers. Beyond the trail maps for retail and consumer goods, Moore says to expect plenty of retail from the keynotes and sessions:
+We’ve got really an amazing line-up of literally dozens of retail sessions and companies. It’s probably the most extensive Dreamforce we’ve ever had in terms of retail… There’s something there for everybody.
+Amongst those presenting: Ahold on the grocery side, John Lewis and Partners, and in the retail keynote, Janet Sherlock from Ralph Lauren. Also keynoting will be the CEO of Shinola, “who will show how they’ve created a 360-degree view of the shopper, via marketing, service, and in-store clienteling.” (The retail keynote is at 9am Thursday). Italian luxury clothing maker Brunello Cucinelli is also presenting.
+And if you find yourself a bit lost in the shuffle, looking for your retail flock, head directly to the retail home base at the Palace Hotel – the home of the retail, marketing, and commerce lodge:
+There will be networking, there will be partners there that are just focused on retail marketing and commerce. And we’ll have theater sessions running throughout, including 20 minute sessions around best practices.
+Oh, and one final note: after Dreamforce, it’s full speed ahead into the all-important holiday season. Salesforce is ramping up the holiday shopper data also, via a microsite called Home for the Holidays. There you will be able to check out blogs, data, and holiday retail insights from Salesforce as we go. With that – enjoy your retail Dreamforce!
+Image credit - Feature image - Businessman cutting red ribbon with pair of scissors close up - by @AfricaStudio - from Shutterstock.comDisclosure - Salesforce is a diginomica premier partner.Read more on: Analytics planning and data analysise-commerceRetail e-commerce and the omni-channel 

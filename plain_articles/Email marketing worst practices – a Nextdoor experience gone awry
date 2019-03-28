@@ -1,0 +1,72 @@
+
+I am rooting for Nextdoor, the hyperlocal social networking site. It’s been rocky so far. My well-documented love/hate with Facebook has spilled over into another dysfunctional relationship. Though part of this is really on my neighbors:
+
+So glad I tried @Nextdoor – I would never have known how many of my neighbors are moralizing, junk collecting hypocrites.
+— Jon Reed (@jonerp) January 28, 2016
+It’s gets better. I’m not just a member of Nextdoor; I’m actually a “Nextdoor Lead” for my ward:
+
+As a @Nextdoor ward leader i was hoping for more excitement than babysitter hunts and tag sales. Isn’t this just a dumbed down Craiglist?
+— Jon Reed (@jonerp) November 12, 2015
+To be fair, my whiny eagle-eyed neighbors have alerted me to things I should know about, like a concerning arson issue, and wayward pets that need rescuing. My ward is a work in progress – only a few hundred members – so I hang in there, hoping to be a part of the spontaneous moments that community maestro Mark Finnern swears by in his San Francisco ward.
+Nextdoor likes sending you email
+Like most social networking sites, Nextdoor is fond of sending you email. (LinkedIn has been apologizing for sending email, and sending us lots more email, for a couple years now). Most web sites turn to email to “push” their way back into the attention span of their distracted constituents.
+The catch: recipients soon reach the unhappy state of email-interruptus-overloadus. The solution? Reduce email frequency, and increase topic control and/or personalization. However – easier said than done.
+Two ways for companies to solve email overdose
+There are two ways to solve this email issue. The first is old school. Call it the LinkedIn way:
+
+Create extensive categories of email notifications. Give the user the ability to customize those notifications to their liking. Caveat: this only works if EVERY type of email sent fits into a category a user can control. Once you start sending out rogue emails without a category of control, the system breaks down. There are flaws in requiring deep user customization; see my prior piece, Personalization vs relevance vs customization – confusion or opportunity?
+
+Or:
+
+Go the personalization/machine learning route. This means dumping extensive configuration for the challenge of sending “smart” personalized emails.
+
+In the case of a complex site like Nextdoor, it could be powered by these options:
+
+Send me daily/weekly/monthly updates on what my neighbors are talking about
+Send me daily/weekly/monthly Nextdoor announcements relevant to my interests
+Send me daily/weekly/monthly Nextdoor promotions relevant to my interests
+
+The user can toggles frequency options for each; personalization starts from there (that’s how diginomica does our content newsletters currently). You can get even fancier, and send emails based solely on user activity and behavior, but that requires a high degree of sophistication and trust.
+Nextdoor is going the LinkedIn-style customization route. But: that caveat about rogue emails brought things to a head.
+Nextdoor email dramas as my inbox blows up
+We got into trouble over emails alterting me when someone leaves my neighborhood. People pack their lives into boxes all the time; that’s not something I need in my inbox. I’d be just fine checking that on the web site at my leisure. I went looking for controls over. Turns out there are no controls:
+You receive those emails because you are a lead for Nextdoor Ward 3. Most leads want to know why a member is no longer showing in the directory. Currently there isn’t an email setting for lead features. Would you like to be removed as a lead?
+Email marketing worst practice #1 – a whole class of emails over which users, ironically key users to the site – have no control. Here’s my Nextdoor email preferences:
+
+Outside of the handy daily digest of my neighbors’ banter, Nextdoor doesn’t have much leeway to send me anything. That sets up a promotional email I received on October 19:
+subject: Local businesses on Nextdoor
+body of message: A promotional message to push local businesses on Nextdoor, with the explanation: “This week, we’d like to take the next step by inviting these local, neighbor-recommended businesses to participate on Nextdoor and communicate with the neighbors who have supported them.”
+I think they meant “the next step towards monetization.” I replied that this email didn’t fit in with my contact preferences.
+To which I received:
+Hi Jonathan, Thanks for the email. This was a one-time email that was sent to our members to make them aware of our latest update. You shouldn’t receive any further emails. Let me know if there is anything else I can help you with.
+Email marketing worst practice #2: so-called “one-time emails” that don’t fit into a category users can unsubscribe from.
+A few days later, with Halloween approach, I got another inbox bump:
+subject: Jonathan, you’re invited to join the Nextdoor Ward Halloween Treat Map
+Body of message:
+Back by popular demand, Nextdoor’s Treat Map helps take the guesswork out of trick-or-treating. Add your home to the Nextdoor Ward Treat Map and help little pirates and princesses find their way to candy this year.
+I wish the kiddos well, but trick or treating isn’t viable in my building. I sent a short reply:
+Seems like your email preferences don’t include many types of emails you actualiy send?
+After which I was “unsubscribed from all emails.” which technically isn’t true.
+Meantime, the friendly support person from the “local businesses” encounter asked me to send all the emails I didn’t think were warranted.  I replied, including the Halloween email which doesn’t seem to fit into the “crime” or “urgent” categories.
+The response:
+Hi Jonathan, Thanks for the feedback.
+The Privacy Policy currently states: “Certain member-related administrative emails cannot be turned off; the only way to end those is to delete or deactivate your account.”
+Unsubscribing is also another way of preventing these emails. I’ve passed your request along to our product team for their review and consideration.
+We really appreciate your help in building a better Nextdoor for your neighborhood. Let me know if you have any questions.
+Classy reply. Nice without seeming insincere.
+While the “unsubscribe” link note appears helpful, clicking on “unsubscribe” actually leads not to instant unsubscribe but to the preferences page, where my hands are already tied.
+At any rate, even if “instant unsubscribe” worked, that’s not really adequate for a site that sends multiple categories of messages.
+Email marketing worst practice #3: clicking on an “unsubscribe” doesn’t instantly unsubscribe you, but pushes you to a preferences page you may have misplaced the log-in for.
+“Administrative” email graphic
+The mention of the privacy policy rankled me:
+I’m not talking about a privacy policy, I’m talking about email best practices to win loyalty and build audiences. The best practice is transparency around the emails sent.
+I really don’t think promotions around local business and Halloween fit into the definition of “member-related administrative emails”, that’s really a big stretch on your part.
+That said, I do appreciate your efforts listening to me and I don’t expect any further responses, you’ve spent enough time on me.
+Email marketing worst practice #4: stretching the definition of TOS-mandated “administrative” emails to include emails that are clearly promotional in nature.
+Email marketing worst practice #5: pointing unhappy users back to the terms of service and privacy policy language rather than engaging them in ideation.
+Email marketing worst practice #6: giving users “all or nothing” choices to accept the current circumstances or leave the site.
+The wrap
+Nextdoor’s support reps were consistently classy and professional – moreso than I was. I was pushing the envelope to prove a point, and to learn how they handle preferences at scale. I’m still rooting for Nextdoor. Facebook really hasn’t solved hyperlocal, real-time networking. I’m not sure that Nextdoor can do it, but I like the idea of neighbors helping each other out, spilling over from online to picnics. I’m still a ward lead, regardless of my email misadventures to date.
+Nextdoor could fix these issues if they made it a priority; they are not unsolvable. I’m probably an outlier, so we’d have to see if other members have such beefs. I believe such efforts pay off in increased transparency and improved trust, but I’ve been known to howl into the wind sometimes.
+ 
+Image credit - Mann sucht Fehler am Computer © mpix-foto - Fotolia.com. Screen shots from Nextdoor emails.Read more on: CRM and customer experienceDigital and content marketing 

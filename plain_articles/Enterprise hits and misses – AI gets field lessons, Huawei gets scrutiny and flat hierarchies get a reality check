@@ -1,0 +1,68 @@
+
+Diginomica picks – let’s lead off with my top stories on diginomica this week:
+
+Is it possible to contain the security risks of Huawei equipment? The UK NCSC thinks so, but should you? – Kurt wades through the media sensationalism for a deeper look at an issue that impacts many IT leaders – as well as tech companies up and down the hardware supply chain.
+Lloyds Banking Group and M&G Prudential share learnings on AI in financial services – we have no shortage of vapid press releases AI hypotheticals, but we lack AI use cases from companies that are actually applying the technology. Derek takes a step towards remedying that here. Use case nuggets: “You have to start with a proof-point, rather than starting with ‘I want to do AI’”, and “You can’t just keep doing prototypes.”
+Flat hierarchies – progressive organizational thinking or digital’s ‘flat earth’ theory? Few topics are as full of enterprise-happy-talk as flat organizations. As she parses through a recent academic backlash against flat org theory, Cath finds middle ground between hyperbole and cynicism.
+Walmart hits road bumps in UK and India, but e-commerce soars in the US – “No one said it would be easy,” reminds Stuart, as he breaks down Walmart’s international forays. “Back in the domestic US market, it’s a happier story, with e-commerce sales booming – 40% growth year-on-year – and home delivery pitched as another success story.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+For most CFOs, a new finance system is as welcome as a root canal – Phil pulls insights from the first of a two-part exclusive with the CEO of FinancialForce. This one’s focused on barriers to moving from legacy finance systems: “Businesses that want to be more responsive are realizing that they need joined-up processes at the back-end to be able to deliver on the engagement they’re promising customers at the front-end (a phenomenon that diginomica calls The XaaS Effect).”
+Nine lessons from Accuride’s 2-tier ERP with Plex, Workday and SAP – Den pulls tips from his podcast with Accuride CIO Paul Wright. Accuride’s got a fascinating software landscape, and plenty of envelope-pushing lessons: “Cloud isn’t going to be everywhere for the foreseeable future. Data governance in different geographies mean you can’t necessarily operate cloud as an efficient way of working.”
+Speed as a competitive edge – how Fabuwood Cabinetry uses modern ERP as a data platform – You wouldn’t think getting an edge in quality kitchen cabinetry is about speed. Or that ERP success is about becoming a customer-facing data platform. But as I learned from Acumatica’s customer of the year Fabuwood, both can be true. Not an easy thing to pull off, so it’s worth learning from.
+
+A few more vendor picks, without the quips:
+
+Is Accenture’s SynOps automation solution a killer app or a job killer? – Jerry
+Look past the AI hype and into the data – Qlik on winning in retail – Jon
+Aspen Pumps SAP ByDesign lessons from multi-geography implementations – Den
+
+Jon’s grab bag – We’re nowhere near the super-intelligent singularity, we still need to get closer to guidelines on ethical AI (Neil’s on the case). Amazon’s New York City double take left plenty of questions; Jerry pursues answers in Amazon walks from NYC – didn’t officials suck up enough?
+I re-open my quest for a halfway decent enterprise news briefing in Alexa, can you give me a daily enterprise tech Flash Briefing? “Not exactly, but you may like these podcasts.” You can check my Flash Briefing setup – and links to our podcast reboot as well.
+Finally, I crashed Den’s Yorkshire podcast studio and we took potshots at the big SIs hashed out the need for independent enterprise voices in What’s new at diginomica and fresh angst among independent industry analysts.
+Best of the rest
+ Granted, I was on the road, but this didn’t strike me as the most spectacular week of blogging on the enterprise web. Correct me if I missed a classic out there somewhere. At any rate, here’s my standouts:
+
+Building data-driven culture: An interview with ShopRunner CEO Sam Yagan – McKinsey frequently runs in-depth interviews. The should devote more time to pulling out the high points, but if you dig, there’s plenty to gain. How often do you hear a CEO say you need to constantly talk about your failures? Check this from Yagan: “When I was CEO at Match, we acquired a company, and I think I overpaid for it by $50 million. I got up in front of everyone and talked about that—and people were able to see that I was still there. So people could say, “If he made a $50 million mistake, maybe that’s not so bad. Maybe I can make a $50,000 mistake.”
+Digital Transformation’s Missing Link Is Zero Trust – IQMS’s Louis Columbus continues a vital series on Zero Trust security. The leading cause of breaches is privileged credential abuse. But as Columbus argues, “zero trust” tactics also address the weak data vulnerability underbelly of digital transformation: “Zero Trust Privilege (ZTP) is the force multiplier digital transformation initiatives need to reach their true potential by securing administrative access to the complex mix of machinery and infrastructure – and the sensitive data they hold and use – that manufacturers rely on daily.“
+SAP’s S/4HANA Migration Incentives – Carrots Now and Sticks Later? – UpperEdge continues a terrific piece on SAP customer concerns with this strongly-worded piece from Michael Tucciarone.
+The DEVOlution of Enterprise Technology Buying – Two weeks ago in hits/misses, I likened Hank Barnes’ blogging effort to Devo (we’re through being cool!). Barnes took to Twitter, and threatened to devote an entire post to the DEVOization of enterprise tech buying. Lo and behold, he walked the Edge of Sanity made good. I feel like a genius Dr. Frankenstein. It is uncanny how many Devo lyrics apply directly to the pitfalls of negotiating with tech-obsessed software vendors, as in: “Freedom of Choice”, or even “Jerkin’ Back and Forth.” (That Edge of Sanity reference falls into Death Metal, perhaps a conceptual bridge too far, even for a blogger as intrepid as Barnes, but we’ll see).
+
+Honorable mention 
+
+The Internet of Things on the Edge – we’re going to hear a lot more about “edge computing” this year, and for good reason. Lots of hype to plow through if we want to get a grip on the security and data connectivity issues on the edge.
+A Deep Dive on the Recent Widespread DNS Hijacking Attacks — State-sponsored attacks make cybersecurity more intense – and the consequences for companies and individuals more disconcerting. Krebs on Security delves in.
+The economics of a Green New Deal – Yeah, a green new deal sounds pretty far afield from enterprise software. One thing I like best about Denis Pombriant’s work is that he attempts to connect these dots. That’s the core shift in modern business: nothing is truly external.
+
+And then there’s Josh “spoken word” Greenbaum:
+
+Woodstock, Dreamforce, and https://t.co/Bd5ad50Fxf: Tripping on the State of the CRM Market https://t.co/cSgKUBGZ6Y
+"I dreamed I saw the global SIsOverselling in the cloud,And their budgets overranAs they reached go live"
+-> @josheac goes poetical on the enterprise again!
+— Jon Reed (@jonerp) February 21, 2019
+
+Whiffs
+Serious question for hits/misses readers: should I ban ZDNet articles from this column until further notice? I banned Forbes years ago for intolerable ad-tech. But ZDNet’s UX is just about as bad.
+I wanted to link to this AI piece, but there was a thirty second page load time. Ads and newsletter popups jockeyed for position, while auto-play video tripe fluff kicked in behind it. Speaking of potshots, I went back to my satirical security blanket frequent offender Facebook this week:
+
+Mark Zuckerberg says Facebook has been an 'innovator in privacy' https://t.co/Emadncy0h4
+-> to be fair, it is definitely innovative – Facebook is the only platform that compromised my data privacy by selling my data to democracy-loathing bottom feeders via my "friends" mistakes
+— Jon Reed (@jonerp) February 21, 2019
+
+Oh, and not to be outdone, Google stepped in the privacy doo doo as well:
+
+Google says Nest's secret microphone was 'never intended to be a secret' https://t.co/CF8YW9YrkD 
+"Google said there’s absolutely, positively nothing to worry about the secret microphone in your Nest Secure smart home hub that it didn’t tell you about"
+-> stay classy
+— Jon Reed (@jonerp) February 20, 2019
+
+But for privacy and generally whiffery, I’m not going to top this one via Den Howlett:
+
+The man in the seat across from me has taken HIS PANTS OFF for the flight and is just in his boxers. Flight attendants seem unconcerned. This is going to be a long flight @AirFranceFR #CDG to #LAX pic.twitter.com/Z0EfktDwpD
+— Lizzie Thompson (@Lizzie_Thompson) February 18, 2019
+
+Long flight indeed. See you on the other side…
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, Plex, FinancialForce, Acumatica, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Cloud ERP financials and supply chainHits and missesMachine intelligence and AI 

@@ -1,0 +1,74 @@
+
+
+Most ERP systems are stuck in the past or are improving incrementally. The next wave of productivity savings for businesses will likely come from technology vendors you’ve never heard of. They’ll come from firms unfettered by traditional ERP transaction processing systems. They’ll come with a different business viewpoint and solve very different problems. It’s all these differences that will make this new productivity wave come to life.
+New vendors are designing solutions that:
+
+Use massive datasets from the get go. They’re not limited to the constrained, highly structured accounting and other internal transactions that ERP solutions use. They use giant social sentiment, sensor, weather, email, graphic image and other data stores to get more of the ‘picture’ than an ERP solution gets within the four walls of a typical enterprise.
+Complement, not replace, ERP products. ERP is good for basic, internal transaction processing but it wasn’t designed for the age of large data sets, social media, personal digital exhaust, etc.
+
+The new wave of business productivity will come from:
+
+A better level of asset utilization/optimization across every major spend category including people and machines.
+Reduced energy costs.
+New customer insights and improved employee engagement.
+Insights identified from all-new metrics.
+Machine generated predictions and recommendations.
+Solutions that are made substantially smarter via the addition of deep insights gleaned from the perusal of and access to large amounts of external and non-transactional data
+A focus on new operational metrics that go way beyond old-school metrics like those in the DuPont ROI model
+The massive application of new technologies like machine learning, algorithms, in-memory processing, etc.
+
+A New Aera
+There are several all-new firms creating something different. These aren’t ERP replacements or alternatives to ERP. These are new solutions that mix old (i.e., ERP) data with new data such as sensor, weather and other big data items. Along with this data, they’ve added new technologies like machine learning, deep vertical knowledge, in-memory cloud technology and more.  To this list of new companies like C3IoT and Uptake, let’s add Aera Technology.
+Aera, nee FusionOps, recently got a $50 million VC investment and a new CEO, Fred Laluyaux, who, until recently was  the CEO of business planning/forecasting software firm Anaplan. Laluyaux also has some serious ERP chops in his background as he was an SAP executive.
+One of the first things I saw re: Aera is how the software answers a user’s question like “What’s our cash balance?”. Aera doesn’t just serve up a direct response to the question. It also interrogates the question and the immediate answer to anticipate the next 1-2 questions you might have.
+For example, if it thinks you’ll not be happy with the cash balance, it will volunteer a number of cash improvement ideas. It might, for example, suggest following up on a couple of large outstanding customer receivables. Or, it could also recommend the liquidation of some excess inventory. The software tells the user the dollars involved in these different scenarios and it awaits the user’s instructions with which it can complete.
+What’s happening behind the scenes is that a natural language processor interrogates the voice question, it then maps the request to a taxonomy of values found in the company’s data stores (e.g., ERP data) and, via integration technology, it serves up the initial response.
+That’s when the fun gets started. The software reviews the answer and makes a judgment call. It decides, if you will, whether the answer is good or bad news, and suggests ways to either minimize the adverse effect or to continue the positive trend. It does this because someone has taken the time to create rules and workflow logic behind these kinds of queries. Should the user choose one of these suggested courses of action, the software can help complete the business event as the pre-programmed workflow is ready to do so.
+If you think the voice-enabled approach sounds too much like a consumer-grade Alexa app, then simply turn the interrogation logic on to the real-time data coming from sensors, ERP software and other sources. When an anomalous event becomes apparent, rules kick in and options are presented to business users. Management, in the future, will be less about finding anomalies and more about fixing or exploiting them.
+The analogy that Aera customers use is that systems need to be like a self-driving car. The system is always on and always recommending course corrections in real-time. How much better would a value chain be if companies tied their financial planning activities to external data sources such as customer growth, seasonal sales, sales of competitors’ products, retailer point of sale data and more? Minor changes in some aspect of the value chain could be picked up, analyzed and then the manufacturing and distribution aspects of the company are tuned to achieve optimal revenue and profitability.
+This kind of external data-driven analysis is not what ERP has been about. For example, do ERP systems monitor weather patterns and recommend shifts in production and distribution to accommodate changes in demand due to an upcoming hurricane hitting the southeast U.S.? No – that’s why a newer generation of solutions and the value they throw off is needed.
+Aera is already capturing the attention of large firms like Columbia Sportswear and Merck KGaA.  Why? Businesses are looking for ways to automate a number of decision making aspects of their supply chain and other processes.
+Aera organizes around Skills. It has skills for manufacturing performance, predictive demand, delivery optimization, revenue maximization, market share growth, predictive sourcing and margin optimization. Customers can take advantage of a number of pre-built dashboards, integrations and more to jumpstart their new productivity improvements. For example, the manufacturing performance skill uses machine learning to predict batch failures. There are more than 20 different algorithms in the predictive sourcing skill. There are even AI tools creating pricing recommendations in the margin optimization skill.
+Old challenges
+Not surprisingly, Aera and its competitors are finding that getting useful, viable data out of ERP solutions is not easy. Companies may have:
+
+More than one ERP solution in use at their firm
+More than one instance of the ERP solution in use
+Standardized on one ERP solution only to find that one or more subsidiaries have made tweaks to their implementation
+Highly customized ERP software
+ERP software that is materially behind in patches, upgrades and maintenance
+Different ERP solutions or modules within it on a range of on-premises, private cloud, hosted and/or cloud platforms
+
+This variety in the data, where it’s stored, what it means, etc. all makes it tough for a provider like Aera to make sense of this. These integration challenges may be fading away for Aera and its peers but potential customers should realize that their non-standard, overly heterogeneous ERP environment is NOT going to help them drive new productivity gains.
+Aera has trawler utilities to help navigate this labyrinth of ERP data and competitors have their tools, too.
+Components/Characteristics of a post–ERP solution
+Aera has identified a number of pieces that are required to move companies to a new level of productivity. These include:
+
+Data crawler – These tools find and make sense of various internal and external data sources. These tools are the Rosetta Stone of the mess of ERP and other data out there.
+Processing engine – Not all data is particularly interesting, useful or valuable. For example, a simple sensor could send out millions of status records over the life of a capital asset. Only 1-2 of these might actually indicate that something interesting is going on. A processor needs to determine when and what is worth focusing upon. It also needs to index, correlate (with other data) and normalize the information
+Analytics engine – Here the data is converted from raw data and into the performance measures that power the company
+Skills – At this point, the predefined actions/rules/recommendations/workflows kick in. The software sees an anomaly that crosses a specific threshold and starts to communicate with specific users via recommended courses of action
+
+The best of these systems will also have to have:
+
+Feedback loops – These loops help users, however those are defined, adjust the algorithms, workflows, etc. over time so that the tools become more accurate and deliver increasing value.
+Context knowledge – If a sensor, for example, measures temperature changes, is the algorithm smart enough to know how much of the temperature increase is due to the record high summer heat that day versus a true part failure in process?
+Transparency – Any commercial system needs to be completely open in how the software came to the decision/recommendation that it did.
+
+Some of the earliest experiments I’ve seen in this space have moved through the following logic progression:
+
+First, the source data must be understood, integrated and normalized
+Second, the software must be made to understand how different business transactions occur and how they get processed
+Third, the software must be trained to learn and replicate a number of great business decisions based on the emerging data points
+Fourth, the software must present users with one or more relevant and viable business actions
+Fifth, once the decision has been made, the software should use its workflow and other tools to complete the necessary transactions.
+
+My take
+It’s too early to call out the winners/losers in this emerging sector. The examples I have shown above are scratching the surface and the vendors face enormous challenges. How for example do you use semantic data that an intelligence delivery mechanism can turn into structured data? What about the place of Dunning data that pre-empts my question about receivables by notifying of customers at risk? How can sentiment analysis correctly feed into cash and revenue projections? And what about employee satisfaction as a predictor of labor shortages and the attendant labor demand forecast? And what about third party parts stock data sitting alongside my predictive maintenance model?
+While I have real doubts as to the ability of traditional ERP vendors to make the shift, new players are gaining ground.  Why?
+Too many old-school vendors are way too invested in extracting value from their customers instead of developing a culture of value creation with their customers. Efforts of old ERP vendors to shale-frack the wallets of their customers are antithetical to needs of businesses and business leaders today.
+A couple of decades ago, many in U.S. business were furious that they were being asked to train their offshore replacements. Offshore outsourcing brought a level of labor arbitrage that threatened jobs. These new solutions will also require a level of training about not just how a job is done but when and under what business conditions.
+The optimist in me wants to believe that these solutions will make the companies that use them more competitive, last longer and provide more interesting jobs/roles for their workers. It’s the workers at companies that don’t try to acquire these new productivity driving solutions who will find their livelihoods at risk.
+The people needed to continuously tune and expand these new generation solutions will need a new generation of skills. They’ll need to be math, big data, algorithm, etc. savvy folks. Unfortunately, these skills are in short supply.
+If your ERP solution is looking long-in-the tooth, don’t just shop for a new one. Look at some of the newer companies out there that will do more than (re-)automate your old business processes. It could really make a difference in your firm’s future (and your career).
+Image credit - via the authorRead more on: Analytics planning and data analysisCloud ERP financials and supply chainProductivity 

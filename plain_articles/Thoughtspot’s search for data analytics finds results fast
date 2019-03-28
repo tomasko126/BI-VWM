@@ -1,0 +1,23 @@
+
+The rising popularity of data analytics masks a growing problem — faced with a wealth of data sources, most business users have absolutely no idea how to ask for the results they want — or even what to ask for in the first place.
+It’s a similar problem that early users of the Web encountered. It was all very well being connected to all the world’s information, but how would you find the specific information you were looking for if you didn’t know where it was? It was only when keyword search engines became available — early examples included Infoseek and Alta Vista — that you could reliably start to identify whether the information you needed was out there. Then Google came along and added the ability to find not only the best matches but also have them ranked by authority.
+Search-based analytics
+So why not apply the same principle to data analysis? That’s what led the founders of Thoughtspot to develop its search-based analytics tools — what the company likes to call “a new breed of search engines for numbers.” Earlier this year I met with Thoughtspot’s CMO Scott Holden and the CIO of one of the company’s early customers to find out more. Since then it has raised a $50 million C round to bring its total venture funding to $90.7 million.
+Whereas the classic process for finding answers from data analytics is to identify what you want to find out and then build a report that delivers the answer, Thoughtspot’s searchbox-like interface lets you pose natural-language questions and see what answers come back.
+Just like Google, Thoughtspot’s underlying “relational search” technology has already indexed the data and suggests alternatives as you compose your question, informed by previous searches that you or your colleagues have made. Crucially, it has also analyzed how the data is related and automatically joins up the results to present them on-the-fly in the most meaningful way. As results come back, you can drill down further to refine your analytics query.
+Early adopter
+Primary Capital Mortgage, a fast-growing loan provider, is an enthusiastic early adopter. Reports that may have taken days or weeks to compose in the past can now be called up on screen simply by typing in keywords that pop up as the user types them in the search box — for example, ‘loan balance’ ‘by branch name’ ‘account type’ ‘last week’.
+CIO Walt Carter says the drill-down capability marks it out against competing analytics products in the market.
+With Tableau, Domo or Qlik, you don’t have that kind of experience.
+If you’re trying to manage a business and move volume through, this is a great way to take action based on seeing the data.
+Thoughtspot can be deployed from the cloud, on AWS, on-premise or as an appliance. Carter says it took very little time to get started.
+We did a proof-of-concept within three days. The longest process was getting the appliance in my data center. Seven days later we were running on Thoughtspot and we were getting answers in a few weeks.
+With Primary Capital growing 93% year-on-year, Thoughtspot helps the company monitor performance and work towards continuous improvement. Loan origination data is refreshed every five minutes, says Carter.
+It’s really important for us to be able to see that data throughout the day.
+No waiting
+Thoughtspot was founded by Ajeet Singh, a co-founder of hyperconverged cloud infrastructure maker Nutanix, and shares with it influential early backers Khosla Ventures and Lightspeed Venture Partners. Its technology has been built by search and analytics experts who previously worked at Google, Amazon, Oracle and Microsoft. It claims a fast-growing enterprise customer base across various industries, including Bed Bath & Beyond, Primary Capital Mortgage, Automated Financial Systems, Collegis Education, Nutanix and Hightail.
+Singh believes Thoughtspot will plug the gap that enterprises are suffering in data analytics skills by automating everyday analytics queries while freeing data analysts to pursue more complex results:
+The businesses of the future will not wait days or weeks for reports to be built. And the analytics teams of the future will no longer be report factories. We create a win-win scenario for both groups — business people get data instantly to make decisions, while analytics teams can focus on more advanced analyses.
+My take
+It’s taken a lot longer than it should have, but at last the notion of applying search engine discovery principles to enterprise applications is starting to take root. Thoughtspot takes that a step further by applying the same principles to data analysis and the results look impressive.
+Image credit - Screenshot provided by ThoughtspotRead more on: Analytics planning and data analysisFinancial services and fintech 

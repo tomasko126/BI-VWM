@@ -1,0 +1,34 @@
+
+Medivators in action
+Let’s be frank here: given the extensive preparation the average patient is expected to perform at home prior to undergoing a colonoscopy, the last thing they need is a call on the day of their appointment to tell them it’s been cancelled. 
+A regime of fasting and purging, lasting a couple of days and involving powerful laxatives, is hardly likely to put them in an understanding frame of mind, after all. But colorectal cancer awareness is important, and as ‘challenging’ a procedure as this might be for the patient, a colonoscopy is still the best way for medical staff to spot cancer while it’s treatable and before it spreads. As a result, gastroenterology staff in clinics and hospitals are under pressure to keep schedules – well, running smoothly. 
+Many of them rely on machines from Medivators to sterilize the endoscopes and accessories that they use in procedures. The organization is a division of Cantel Medical, a specialist in infection prevention, and is currently leading sales growth for its $644.8 million parent company. 
+In the US, Medivators runs a team of around 70 field service engineers (FSEs) to keep its machines operating. The FSEs, meanwhile, are supported by a technical service centre that, in 2015, took around 56,000 phone calls from healthcare customers needing service and support, according to John Welisevich, global service business process manager at Medivators. 
+Three years ago, Medivators went live with ServiceMax for field service running on its wider Salesforce.com platform for sales and service, he explains, with great benefits for its FSEs:
+
+Today, they receive their jobs, accept work orders and manage them on their iPad or iPhone using the ServiceMax Field Service Mobile App. Within that, they’re accessing all the ServiceMax data and details that they need. They can see all their trunk stock [inventory held in the field] and check to see if they have a part on hand or if they need to order it, before heading out to the customer.
+And when they go to carry out a work order, they use a tick list for their workparts – they can search and pick, enter the quantity and so on. This saves them so much time compared to entering it all manually. In the past, they had to take it [admin work] all home and do it in the evening. It might take up to half an hour per work order. Now, each work order is taken care of in about 5 to 10 minutes, usually at the customer site. They might have to type in some notes about what they did to fix the problem, but it’s no way as extensive as it used to be.
+
+Quicker
+It’s not just FSEs that are happier, either. The experience for customers has improved: in most cases, Medivators can typically get an FSE out to look at equipment the next day. In big cities, it might even be the same day. Says Welisevich:
+
+Using ServiceMax, we know what we’re doing, where we’re doing it, what our FSE utilization rates are and where we need to put new FSEs. The experience for customers is that we’re able to place FSEs exactly where they’re needed and, for customers and their patients, that means shorter downtime periods and getting back up and running faster. In that way, appointments get kept.
+
+But Welisevich, who handles most of the tech used by sales and service at Medivators, is constantly looking for ways to increase the team’s use of ServiceMax, and thus its efficiency, with several new initiatives close to completion. For a start, he’s introducing the ability for FSEs to order parts through ServiceMax if they find that they don’t have what they need in their trunk stock and have a part immediately provisioned against a work order. Right now, they rely on emails to do this. Another initiative focuses on electronic service reports, he says:
+
+FSEs can click a button and the service report shows up right in front of them. They review all the details, capture the customer’s signature, add their own signature and, when they save it, the record is emailed to the customer, as well as to our own admin mailbox, so that the Medivators team know immediately that a work order has been completed.
+
+New improvements like these are welcomed by the FSEs, he adds:
+
+Anything I can release to the field that gives them back a few minutes or a half hour in their day is always very well received. All of these little enhancements that we’re providing add up to a lot, in terms of reaching our goal of having FSEs being able to close a work orders at a customer site and not have to worry about it again, but instead move on to their next job.
+
+IoT
+He’s now working on a far more ambitious plan, involving the deployment of ServiceMax’s Connected Field Service (CFS) product. It’s an Internet of Things (IoT) initiative that will see Medivators’ machines for disinfection connected to the ServiceMax mobile suite via the ThingWorx IOT platform from PTC. In essence, CFS will combine IoT machine data with field service delivery, enabling service and support staff at Medivators to tap into live asset operational updates and to monitor machine-initiated alerts. 
+Here, Medivators is a ‘lighthouse’ customer, along with the McKinley Elevator Company and radiation therapy specialist Elekta. 
+This, says Welisevich, will open the doors to more proactive field service at Medivators, by enabling remote diagnostics and, in some situations, remote service of faulty machines. 
+
+We want all of the data to come into ServiceMax and present details from the machine at the click of a button: history, errors, cycles, current data and so on. And they’ll be able to hit a button and log into the machine itself remotely and look in even deeper detail if needed. So basically, this will give us more connected customers and instant access to any problems they’re seeing. In many cases, I suspect, we’ll know about a problem with a machine before the customer does.
+
+Good news, it seems, for nervous colonoscopy patients everywhere.
+
+Image credit - Medivators Disclosure - At time of writing, ServiceMax is a premier partner of diginomica. Read more on: CRM and customer experienceInternet of ThingsIoT robotics and AIIT service managementUser experience 

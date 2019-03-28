@@ -1,0 +1,61 @@
+
+This week, diginomica was on the ground in Boston for Acumatica’s R2 launch event. Acumatica blends the launch with a day for analysts, where we get the brain dump on what lies ahead. And, the fun part: a chance to pester the Acumatica leadership team with finicky burning questions.
+If you’re wondering why I find Acumatica worth tracking, this tweet is a good start:
+
+.@Acumatica hitting on key modern ERP issues: mobile UX, flexible licensing, cloud deploys, platform/APIs/app integration #Acumatica2017R2
+— Jon Reed (@jonerp) September 13, 2017
+Acumatica is one of the vendors pushing envelopes on what modern ERP should look like. And no, I don’t view “modern ERP” as an oxymoron. Contrary to trendy analyst advice, “ring fencing” a legacy ERP system while pursuing digital isn’t going to work – not in the long view. I’ve told part of that story in this piece: What are the top five cloud ERP benefits? A use case review.
+There is more to come on this, via an on-site podcast and Acumatica show review I taped with diginomica contributor Brian Sommer (also see Sommer’s R2 event piece (Acumatica 2017 R2 launch review – with growth comes new responsibilities).
+Customer stories put modern ERP under the field glare. Here’s fresh scenarios from the event. Before I review them, keep in mind Acumatica has a midmarket ERP focus. However, some of their customers are aggressive with transaction volume, which puts Acumatica’s cloud scale to the test.
+SeneGence – high order volume on the Azure cloud
+During a customer review session, Acumatica CEO Jon Roskill spoke about SeneGence, a “nutraceutical,” aka vitamin supplements (and more) company based out of California: “Their business just exploded beyond whatever they were imagining.”
+Story highlights:
+
+When SeneGence started with Acumatica two and a half years ago, they were doing about 100 orders an hour at peak. Last fall, that number was up to 2,000 orders an hour at peak times. By spring 2017, that number was peaking at 5,800.
+SeneGence projects to be doing over 20,000 orders in the peak hours by the end of the year.
+SeneGence had a bunch of applications they wanted to integrate with Acumatica, so they chose the private cloud deployment option in Azure.
+
+Acumatica’s consumption-based pricing is based in chunks, so SeneGence has gone from a “small” to what’s called a “4XL”: Roskill:
+They’re now running a 4XL, which we did quite a bit of work around benchmarking and proving to them that we can run that kind of capacity.
+Analysts new to Acumatica are always curious about the ability to move between the on-prem, private cloud and public cloud options. SeneGence’s reason for running Acumatica on private cloud?
+One of the reasons they did that is they felt like they had more control of their database, in terms of what they were trying to do with the SQL/Azure component of it.
+Bob Davis Sales – flexible ERP licensing for growth
+One of Roskill’s core views on the ERP midmarket is that smaller companies can still have highly complex requirements. That certainly holds for Bob Davis Sales, which provides wholesale distribution of oil and gas products for drilling rigs, mostly in the south/central US. Though they only have 13 employees, Bob Davis Sales books almost $50 million in revenues, with complex distribution and parts tracking. During a customer video, they explained their need for scale and their results to date.
+Story highlights:
+
+Bob Davis Sales evaluated ERP systems including Intacct, SAP, Sage (prior to acquiring Intacct), before narrowing to NetSuite and Acumatica.
+Two main reasons for choosing Acumatica: unlimited user licenses which would encompass staff growth. And: Acumatica’s customer service made an impression.
+Early benefits include: significantly streamlined invoicing time, consolidating from three to one operational systems, and “Efficiencies in our inventory, invoices, all across different lines of our business.“
+
+They went on to say:
+It’s just been a very easy transition; the products are easy to learn, and we’ve already seen all kinds of benefits… [We’re] getting answers much faster than we were ever able to get in our previous system, and that goes a long way in creating that customer base…  Just the unlimited user licenses and the customer service you get alone is well worth it.
+xByte Technologies – an Acumatica and AI use case
+Of the top five cloud ERP benefits in this piece, the most potent is data visibility. Often, the best way to capitalize on data visibility is with real-time dashboards – something that Acumatica customers are also discovering. But beyond those dashboarding benefits lies a whole new phase: digital transformation/business model change.
+As Brian Sommer and I discussed, those are the hardest – but most compelling – gains because they push companies into new markets. Frequently this involves the incorporation of third party data, e.g. “big data”, unstructured data, IoT data like sensor data, and carefully-applied machine learning.
+I’ve found few cloud ERP customers in this stage yet. You probably can’t get there without an open cloud ERP platform, and loads of APIs to facilitate data integration. A closed ERP system will not support these models.
+Most customers are still figuring out the dashboards piece and how to design and display role-based metrics. But at the Acumatica analyst day, we heard the story of one Acumatica customer, xByte Technologies, that is further down the road.
+Story highlights
+
+xByte Technologies bills itself as a “premier reseller of IT equipment.” Their business model is more nuanced than you’d think: xByte Technologies are experts in acquiring servers, disassembling and reassembling them.
+Their web site front end is powered by Acumatica’s Commerce Edition, which includes Magento’s eCommerce platform.
+xByte has integrated Acumatica with their own AI process which allows them to assess the viability of server parts acquisition and resale in real-time.
+
+As Acumatica’s Doug Johnson explained, he had to tiptoe around some of the AI details as that is proprietary xByte tech. But here’s the context:
+xByte has  their own internal AI project, which goes and finds all the prices of servers. It also goes and finds all the prices of parts. If there’s a server that’s retailing for $800, they can go pull all the parts and figure out what their parts list is from the Acumatica inventory of parts, and the cost of the parts that they’re getting from these different servers. They can know if they can build that and make an adequate pricing or profit margin, and then display that on their website.
+The daily automation is the differentiator:
+The real key to that is it changes daily. The [algorithm] pulls data from Acumatica. It pulls data from the web, crunches it together and makes recommendations for them on how to do pricing.
+On the front end, customers can configure and customize their options, from servers to storage to networking, based on the constantly refreshed availability. Johnson:
+The key to keep in mind here is the Acumatica Commerce Edition is taking all this complexity and managing it on the back end to be completely integrated with financials. They also have email orders and phone orders, so it’s showing the omni-channel Commerce Edition that we support as well.
+Johnson shared a production flow which I hope to add to this piece, but the gist is:
+
+Customers make orders across channels which flow into Acumatica.
+Acumatica handles the flush/pick/assemble/ship transaction flow.
+Shipping and tracking info is pushed back to the front-end Magento web site.
+
+This flow doesn’t include the AI-powered pricing assessment – that would happen prior to the customer order as equipment is assessed, acquired, and priced on the front end.
+My take – modern ERP is journey not a handshake
+We also heard customer stories shared by JAAS Systems, the Acumatica partner that built the Acumatica Manufacturing Edition announced at the 2017 R2 launch event. These three stories bring out different dimensions of modern ERP, from flexible licensing and ease of use to third party integrations and cloud environments (e.g. Azure).
+The last two years, Acumatica has opted to present a roundup of customer stories and videos rather than a live customer panel on the analyst day. I much prefer the live panel; we’ll see if they go back to that in the future. Nothing beats hearing from customers about the issues they’ve overcome, and how they addressed the people side of these changes. (The recommended stories below include full use cases I have written in the past).
+Johnson hit on an Acumatica Field Services use case involving Copesan, a national pest control management network, that illustrated the point. In the case of Copesan, they support 60,000 service orders per month and are consolidating five systems into Acumatica, from CRM to field services.
+But Copesan has yet to extend Acumatica to all their partners’ field service reps using Acumatica’s mobile apps. Modern ERP isn’t a cure-all. It’s part of a painful and gradual journey towards transparent and, hopefully, frictionless processes. A phased approach is often needed to maintain operations. The hard work of integration, rollout, and change management remains. Still, I think these customer stories shed light on modern ERP’s role in business change.
+Image credit - Rethink © gustavofrazao - Fotolia.comDisclosure - Acumatica paid the bulk of my expenses to attend the R2 launch event. Acumatica is a diginomica premier partner, as is SAP and NetSuite.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureDigital enterprise in the real worldFinancialsFrictionless enterpriseUse cases 

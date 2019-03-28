@@ -1,0 +1,49 @@
+
+In conjunction with NRF 2018, Salesforce released the latest customer numbers from Rack Room Shoes and Off Broadway Shoe Warehouse, sporting an eye-popping 777 percent annual ROI “with integrated and engaging marketing campaigns with Salesforce Marketing Cloud.”
+Numbers matter – but what really matters is the story behind those numbers. After NRF, I had the chance to get the backstory from Scott Baldt, Senior Director of Omni-Channel at Off Broadway Shoes and Rack Room Shoes. What I learned didn’t surprise: it took a lot of work to get this far. Omni-channel is an aspiration, not a snap-your-fingers kind of deal.
+The problem of rising customer expectations
+Baldt told me that in 2013, they were in a very different situation. The problem? Rising customer expectations and omni-channel shortfalls:
+We found ourselves in the same position many retailers have. A lot of changes in customer expectations, changes in the competitive nature of the business, the influence online was having to everybody’s business.
+Baldt pulled a classic “be careful what you wish for” tactic. He spoke up internally about the problems. The CEO made him an offer he couldn’t refuse:
+Our CEO kind of challenged me as I was rather vocal about some of the areas of the business where I felt we were [falling behind].
+He had his new marching orders:
+He told me, “We’ve got to start looking at internal resources, understanding where our deficiencies are.” I started a formation of the omni-channel group to start tackling some of the areas we needed to play a little bit of catch up.
+“We were blasting our consumers without any regard to previous purchase history”
+Baldt’s team had a head start in one regard: they had launched a new loyalty program in 2013. But how to use that data – and assessing the ROI of the program – were open questions.
+Everybody understood that the loyalty program was going to be a part of how modern retailers did business. We were depending on outside resources to help guide us and get our feet under us.
+A closer look revealed that the old school approach wasn’t in tune with what customers needed:
+The program had a lot of limitations. We were essentially taking it and using it as an email acquisition source. We were blasting our consumers without any regard to previous purchase history, or what type of communications they’d be most interested in. The assumption is that you’ve got a loyalty program that’s going to drive sales on its own merit – that’s not exactly true.
+The problem wasn’t lack of data. The problem was actionable data:
+It was just a variety of sources. We had plenty of data, but so little of it was actionable. That’s when we really started looking at what the opportunities were out there from a platform standpoint. What are some of the things we could do to help aggregate our information and make the data more actionable?
+Moving towards actionable data
+Baldt started with the formation of an omni-channel team. He brought in a new CRM director. They started by assessing where their customer data resided, from their loyalty database to their point of sale system. They did have some Salesforce technology in the form of ExactTarget, which had been acquired by Salesforce in 2013. The team had two data goals: consolidate on one platform, and automate where they could:
+We knew we had a desire for automation because everything we were doing was manual. It was a drain on productivity. We were prone for errors.
+They moved as much as they could onto the Salesforce Marketing Cloud. Fast forward to today: what kind of progress has been made?
+We’ve made quite a bit of progress. Prior to using the Salesforce platform, if we talk specifically about our rewards program, we had less than a 50 percent capture rate. So less than half of our sales were attributed to our member base. We weren’t really effectively communicating the value inherent in the program to our current customers.
+Results – relevance with real-time data
+Now, with the additional use of Salesforce and some of the automations Rack Room Shoes put into place, they can attribute more than 70 percent of their in-store sales to their rewards program – and it’s still climbing. That’s an encouraging omni-channel number. Baldt credits the gain to automation around rewards communication, earned rewards, expiring rewards, and points available to members.
+Another big win: more relevant communications. No more email spray and pray. Each email sent has specific information for that customer:
+It’s really been a useful tool to allow us to come up with better segmentation, so we’re sending more relevant messages to our consumers. We’re also able to include in those messages specific information for that consumer again about rewards and points. All of those things used to be very manual. For example, we would back-send, we would void our expiration messages, but we had to be real vague about the language because we couldn’t do it on a real-time basis.
+Other initiatives Baldt pointed to:
+
+Product affinity campaigns – “Rather than some of these broad marketing statements, we’ve used campaigns based around specific product affinity.”
+Market basket campaigns
+Campaigns to increase frequency
+Product review solicitation
+
+We’ve got like 22, I think, automated journeys running right now on top of regular campaign messages that we’ve been sending.
+Even better – Baldt’s team is doing all this with one fewer full-time employee than when they were using external managed services.
+Fewer people, more productivity.
+The wrap – facing the challenge of a fluid omni-channel
+Real omni-channel success is not about serving digital and store customers. It’s about a fluid experience as customers shift channel at will. That’s ambitious for any retailer. I asked Baldt if he feels they’ve made progress.
+Yes, without a doubt. That’s one of the benefits of our single source of information for consumers right now. [With the Marketing Cloud], we are better able to understand that path and create communications at appropriate times. We’re using it not just for email, but also for SMS notifications and push notifications.
+Attributing online activity to in-store purchases can be tricky, but Baldt says they are making strides:
+It’s still difficult; this is kind of the holy grail for all retailers right now is to really be able to tie that online experience back to the brick-and-mortar experience.
+Baldt’s team has made strides via an email attribution model that measures the amount of time between an email open/click and an in-store visit. They are taking actions to better understand “research online, buy offline” behavior:
+We are taking steps to try to understand that better. We’re starting to pull some session information for logged in members into the platform as well.
+Another challenge for modern retail: as you empower customers across channels, store employees face new struggles. Baldt agrees:
+In a lot of ways, we’ve created a knowledge gap. We worked really hard to make sure that our customers had access to all the information that was relevant to them to allow them to interact with us again, regardless of channel.
+They’re taking action on this now:
+In some cases, we’ve armed the customer with more information than we have the associate. So that’s one of the things that we’re focusing on right now is to make sure that all sides of the equation have access to the right types of information to make that as smooth as possible.
+Plenty of work ahead then – but those ROI numbers are a very encouraging signpost.
+Image credit - Business ladder concept © Gajus - Fotolia.comDisclosure - Salesforce is a diginomica premier partner. Diginomica is an official media partner of NRF.Read more on: CRM and customer experienceDigital enterprise in the real worlde-commerceRetail e-commerce and the omni-channel 

@@ -1,0 +1,47 @@
+
+In a series of Tweets, Slack CEO Stewart Butterfield announced that Slack is acquiring the intellectual property of Atlassian owned HipChat and Stride while Atlassian takes a stake in Slack. The deal is positioned as a Slack and Atlassian partnership.
+
+The deal we’re announcing today with Atlassian is pretty amazing. Indeed, I tried to fit it all in one (280 character) tweet but I just couldn’t do it. So, I’ll lay it out in a few. But first, I wanted to thank Scott, Mike, Jay and the team: incredible to work with you.
+— Stewart Butterfield (@stewart) July 26, 2018
+
+For its part, Atlassian discussed the deal in its latest earnings announcement.
+As part of this partnership, Atlassian has made an equity investment in Slack, and Slack has acquired the IP for Stride and Hipchat Cloud, both of which we will discontinue. We will also be discontinuing Hipchat Server and Hipchat Data Center and working with Slack to provide a migration path for customers of all four products. Slack has been a user of Atlassian products for many years, and Atlassian’s 2,600+ employees will begin using Slack. We’re committed to making this same move as easy as possible for our customers. For details on migrations and timing, please see this page.
+This deal is exciting from both companies’ points of view. Let’s start with Slack:
+The Slack situation
+Ever since it burst on the tech scene in 2014, Slack has been extraordinarily successful and currently boasts some half million active organizations. As of May 2018, Slack said it had 8 million active users with 3 million paying for the privilege. On average then, Slack is only making money from relatively small businesses although I am aware that at some large companies, there are internal battles to see which of Slack and Microsoft Teams wins out.
+Speaking of Microsoft, its equivalent corporate watercooler/collaboration tool Teams is available free to the 135 million Office cloud subscribers. It claims to have 200,000 organizations under its belt.
+Most commenters view this deal as a way for Slack to extend its defensive moat against Microsoft. Whether that holds up is a matter of conjecture. Office 365 uptake has been OK, but as some are discovering, it can be tedious to use.
+
+Office feature of the day – momentary check mark, no error messages, nothing. Nice! pic.twitter.com/guOWF4Seu7
+— DJ Adams (@qmacro) July 25, 2018
+
+And let’s not forget, that while Microsoft Teams may be the competitive product on commenters minds, they’re not the only competitor.
+In a G2Crowd comparison, Slack consistently rates better than Teams, Stride, and HipChat but when you look closely at the demographics, it is easy to see why Slack is keen to do this deal.
+
+Slack benefits from deep integrations to Atlassian solutions like Jira Cloud and Trello, both of which are popular with the developer community, the same community on which Microsoft has set its eyes. Those integrations will now take on an extra sense of urgency.
+Slack also gets the benefit of direct code access to Stride, which helps promote the signal from the noise that sometimes makes Slack unusable.
+But does this mean that Hipchat and Stride customers will automatically switch to Slack? No. People make buying decisions for a variety of reasons and moving from one software to another is never easy.
+The Atlassian situation
+At one time, Atlassian was in a good position with HipChat, but the writing was on the wall once Slack sailed passed it in 2017. In its statement, Atlassian said:
+Over the past year, however, the market in real-time communications has changed pretty dramatically. And throughout that change, one product has continued to stand out from the others: Slack. While we’ve made great early progress with Stride, we believe the best way forward for our customers and for Atlassian is to enter into astrategic partnership with Slack and no longer offer our own real-time communications products.
+
+
+We have always had a spirited yet friendly competition with Slack (and have even sent each other congratulatory cookies and cake!). Across our product portfolio, we have long shared many integrations, which hundreds of thousands of teams use every day. Through this new partnership, both companies will lean into building better integrations together and more sharply define the modern workplace experience for companies everywhere. We’ll deepen existing integrations between Slack and Jira Cloud, Bitbucket Cloud, and Trello, and create new integrations with other products. We’ll showcase the first set of these integrations at our user conference, Atlassian Summit, in Barcelona, September 3-5, 2018.
+Today’s announcement followed what the company termed a ‘strategic review.’ Another way to view this is ‘refocus.’
+Atlassian said that it is switching its 2,600 strong workforce over to Slack, but as we noted above, HipChat and Stride users may look elsewhere.
+
+What about Workplace by Facebook
+None of the analysis so far has mentioned Workplace by Facebook.
+We are evaluating Workplace and find that it is surprisingly useful and not for the fact it has a Facebook look and feel. Instead, Workplace is genuinely helpful for organizing the buckets of collaborative conversation we need to have.
+I also use Slack for what I call ‘system’ notifications because Slack integrates either directly or indirectly via Zapier with a number of the services we use. Would we be tempted to use Slack on a daily basis? Unlikely. Slack requires pretty rigid discipline to make it work well, and while we can see how Silicon Valley types might like it, we don’t see it as a good fit for business users.
+Whether Facebook remains serious about Workplace will be an ongoing discussion.
+
+My take
+We have always admired Atlassian for its highly disciplined, transparent and focused approach but HipChat and Stride represented something of a well-intentioned distraction. It’s admirable that Atlassian recognized it was in a no-win situation with Stride and HipChat but could find enough commonality with Slack to make the combined potential greater than the sum of the various parts.
+For its part, Slack gets some breathing space and an opportunity to focus more intently on winning the enterprise customer with Atlassian’s help.
+In that sense, the Slack and Atlassian partnership is a win-win for both companies.
+As I said earlier, there has to be some doubt as to whether that’s a winning proposition in the face of a Microsoft that can outgun Slack any day it chooses. However, Microsoft is not bulletproof. The Skype acquisition by Microsoft promised so much and yet has delivered so little. Teams is looking more and more like Skype’s long-term replacement so there will be questions there.
+But again, this is a highly competitive marketplace with plenty of alternatives. We may all be eyeing up the Slack and Atlassian partnership in the context of Microsoft, but it’s not just a two, or three horse race for the enterprise.
+
+
+Image credit - via Slack blog and G2Crowd screenshotRead more on: Collaboration sharing and digital productivity 

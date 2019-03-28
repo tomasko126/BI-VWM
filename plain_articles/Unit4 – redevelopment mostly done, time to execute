@@ -1,0 +1,41 @@
+
+Stephan Sieber, CEO Unit4
+There’s a lot going on at Unit4, which has been on a multi-year reinvention journey. At a recent briefing, industry analysts got an update on the progress. there’s plenty to bring a smile to this curmudgeon’s face but workaday challenges need to be overcome.
+Unit4 is a Dutch-based ERP vendor that’s been in business over 35 years.  Many know the company for its Agresso ERP product line. The company also has a financial systems solution: Coda.  The company is the majority co-owner of cloud ERP vendor FinancialForce (nee Coda2Go). It co-owns FinancialForce with Salesforce and Crossover Venture Partners.
+Additionally, the company has acquired:
+
+an education software company (Three Rivers) in 2015
+a corporate performance management solution (Prevero) in 2016
+a professional services automation solution (Assistance) in 2017
+
+Unit4 was taken private by Advent International in 2013 for $1.6 billion.
+So, there’s a lot going on with the company. It has multiple product lines: some are traditional on-premises solutions, some can be hosted by partners, and, some are public cloud-based. Unit4 serves a couple of verticals: education, public services, not-for-profit & professional services. It has made a number of tuck-in acquisitions. It has also gotten really close to Microsoft for new platform technologies and for its Dynamics CRM solution. It’s in most global geographies. And, finally, it’s been busy trying to build out its cloud people-centric, self-driving solutions.
+The journey to self-driving software
+Readers in Europe know all about Agresso and Coda given the company’s European/British roots. North American readers may know Three Rivers because of the numbers of higher education customers it has here.
+ Briefing Highlights
+Unit4 is now focused around five solutions: a full ERP, a pure-play financials line, a higher-education solution, a people/professional services solution, and a CPM solution. The core product line underpinning the heart and soul of the new public cloud-based ERP is Unit4 Business World (Previously Agresso Business World). The higher-education solution has Three Rivers at the core while the PSA solution has the newly acquired Assistance Software and the re-platformed Business World (Agresso) products within it.
+People related verticals Unit4 is targeting
+A Microsoft-based solution
+The re-platforming of the product family includes the use of many Microsoft components.  The Unit4 People Platform consumes various Microsoft Azure’s PaaS services such as Data Lake analytics, Data Factory to support predictive vertical use cases. It’s recently released Digital Assistant “Wanda” uses Microsoft Azure LUIS (Language Understanding Intelligent Service) to support Natural language and cognitive services and machine learning. It also uses Office365, and Microsoft Azure’s Bot Framework. Unit4 leverages Microsoft Dynamics 365 via its acquisition of Assistance Software.
+
+Unit4 will use Microsoft’s Azure IoT (Internet of Things) connector, PowerBI and other tools.  Unit4 may be using Microsoft’s Luis (language understanding intelligent service) as part of its Wanda solution.  Of course, Unit4 will be running on the Azure Infrastructure as a Service (IaaS).
+This shift to Microsoft’s public cloud infrastructure may make the Business World solution (the re-platformed and re-written Agresso solution) more attractive to legions of Microsoft Business Solutions resellers. That ecosystem of application software resellers may be one of the largest in the world. Even if Unit4 gathers only a fraction of these resellers as partners, the effect on
+An aide called Wanda
+Unit4 is using a natural language service from Microsoft to power its Wanda solution. Think of Wanda as a business software aware version of Alexa. Some of the competitive solutions I’ve seen lately use this Alexa-style functionality to just serve up simple data requests (e.g., “Alexa, what’s my cash balance?” Answer: “Your balance is $41,000”).  These competitor solutions are pretty one-dimensional entertainment items meant to wow the naïve at user conferences.
+I was surprised to see a fairly full-featured Wanda T&E application. The technology was able to capture travel expenses and deal with them. After capture, Wanda placed the expenses for reimbursement on an upcoming check run.
+The practical application of these emerging AI based solutions is still to be determined. The novelty of such tools is definitely there but I’m not sure anyone has one that’s ready for prime-time yet.
+What’s needed for these technologies is a feedback loop that helps the AI/natural language tool get smarter (or better trained) over time. Unfortunately, feedback mechanisms are not part of any such tool I’ve seen yet.
+Prevero
+Unit4’s acquisition of Prevero is an interesting new deal.  Prevero brings brings 4500 or so customers, including some that use competitor, SAP, ERP software.   Prevero also brings in-memory database expertise and technology. This addition to the Unit4 product line should aid in the development of better analytics, analytics that use IoT and other Big Data, and, most importantly, vertical KPI depth
+Comparisons to FinancialForce
+Given the common ownership between Unit4 and FinancialForce, comparisons between the two entities are expected. FinancialForce is better known in North America (and may also be in some other markets). FinancialForce is tightly allied with Salesforce and has been prominently featured at Salesforce’s Dreamforce and other Salesforce events.
+Both companies covet the people-centric business world. Both have PSA and financial applications.
+Both companies have undergone major executive changes in recent years. Unit4 has had a couple of new CEOs of late.
+The big difference may be in the underlying architecture components. FinancialForce is built on the Force.com architecture of Salesforce. Unit4 is Microsoft IaaS and PaaS based now. This is the biggest point of divergence for the two entities.
+My take
+Technically, Unit4 has done a lot to rebuild the product line into a solution that’s more aligned to the 21st century model of packaged application delivery and business model. It’s got a new platform, natural language capabilities, in-memory technology, etc. The products have evolved a lot over the last few years. All of this effort should extend the market life of the solutions for many years. If the platform changes are, in fact, completed, then now is the time for the company to execute.
+
+From a marketing perspective, the Unit4 brand is under-represented in North America. The company’s education solution is the exception. Nonetheless, the company must develop a loud, vigorous branding and marketing effort that supports its North American organization as it endeavors to take advantage of the largest IT market in the world.
+Related to marketing, the company needs to reinvigorate its channel program. While there are legions of Microsoft partners out there that might want to add Unit4 offerings to their sales kits, I suspect the Unit4 product capabilities to be a bit more upmarket than some Microsoft partners are used to selling and implementing. Picking the right partners will be more important than signing a large volume of partners.
+Advent International is almost 4 years into its buyout of Unit4. As a general rule, private equity firms like to see a liquidity event re: their investments around seven years. While that’s not a hard and fast rule, should there be a material change of ownership for Unit4, it could auger changes in management and product direction. Prospective buyers should keep this in mind for a company that is having to live by one of its older marketing messages – BLINC or, Business Living In Change.
+Image credit - All slides via Unit4Disclosure - Salesforce, FinancialForce and Unit4 are premier partners at time of writing. Unit4 covered the author's travel costs for this event.Read more on: Analytics planning and data analysisCloud ERP financials and supply chainSocial 

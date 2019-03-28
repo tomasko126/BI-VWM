@@ -1,0 +1,57 @@
+
+LiveWorx keynote, 2016
+From the keynote stage at LiveWorx 2016, President James Heppelman asserted that the Internet of Things wasn’t just IoT. Getting results from IoT is about IoT + Analytics. Add in VR/AR (virtual and augmented reality) and we’re even closer. Which led me to tweet:
+
+FYI the “IoT” is not enough to earn buzzword cred. Now it’s about “IoT + VR/AR + analytics.” Get with the program folks 🙂 #liveworx
+— Jon Reed (@jonerp) June 7, 2016
+But what do customers think? At a customer panel for press/analysts, a diverse group of PTC customers shared their progress with IoT – and the challenges posed by new skills and business models. Here’s my roundup of the key lessons the panel relayed.
+LiveWorx – customer panel
+First, the panel lineup (pictured left to right):
+
+Colm Prendergast, Director of IoT Technology, Analog Devices
+Chris May, Account Executive, Aridea Solutions
+Fraser Lovatt, Senior Producer – Applications Studio at LEGO System A/S
+Terri Lewis, Digital & Technology Director, Caterpillar
+Alan Fletcher, Business Development Manager, MK:Smart
+
+“Customers don’t want to talk about IoT, they want to solve problems”
+I remain stubbornly reluctant to push IoT as a buzzword or an end in itself. Turns out the customers on the panel felt the same way. Drawing on his work at Aridia Solutions, an environmental monitoring startup, May issued a keeper quote, in bold below:
+We don’t have an IoT strategy. IoT to us is a tool. It is a tool to solve problems, and I actually mean problems. Whether it’s environmental monitoring or new sensor networks, the problems have exited for years… I’ve never had a client ask me for an IoT solution. Even the industry giants – whether it be mining or oil or natural gas – that we deal with at this point, have no idea what IoT is.
+We’re able to give them a better solution using the technology that we’re all sitting here talking about today. Be it to connect various parts that sensor companies like Analog makes, or other companies that we partner with, [we give them] a solution that attacks real problems that they have.
+Caterpillar’s Lewis doubled down on May’s point:
+Chris is absolutely right – nobody wants an IoT solution, they want something to solve their problem… Our go-to-market strategy is called CAT Connect, and what we do is look at solving our customer problems in four areas: equipment management, productivity, safety, and sustainability.
+Don’t build your own IoT tools – buy and partner for tech
+Across industries, the panelists were much more likely to purchase or partner with IoT solutions like PTC’s than to build their own tech – with the obvious exception of Analog Devices, which is in the device building business. But even there, Analog Devices integrates with PTC’s IoT platform. As a group, the panelists were more focused on applying industry expertise with IoT tools and software, rather that building from scratch. May sees partnerships as a defining factor in IoT:
+The biggest thing that we’ve seen in the IoT industry right now, is a more partnership-based model than any of us have ever seen in any of the other industries that we’ve ever been in. You have companies that have been around since the ’20s that have amazing relationships with their clients. Some even longer than that. They understand that they need these technologies, but they don’t really have the ability to do it. themselves. Their ability to partner with some of these fledgling companies that do IoT work, now, to give their customers a better offering, is a perfect marriage right now.
+Fletcher echoed this point, noting that his organization, MK:Smart, which is focused on smart cities, needs integration with a dizzying range of sensors:
+We want to talk to everything that’s out there – every type of sensor – and that’s a big challenge… You can’t pretend that we can create and do everything, although some academics would like to think that they do. ThingWorx is a really, really important part of what we do. It means you’ve got a platform that works, with a market footprint that people have already identified, that helps us bring in our core constituents.
+IoT is about turning data into new business services
+The notion that IoT is about data services is a cliche at this point. But is it reality? The panelists said yes – though with some thorny caveats about data ownership and threats to existing revenue streams. Prendergast on Analog Devices:
+The technology is cool and interesting to play with, but our customer care about the insights we can generate. For example, if you were monitoring a big pump system or vacuum system, [what you really care about] is whether the pump is going to fail or not, right? Or if so, the way that it’s going to fail. This takes insights that our customers care about. A lot of the work we focus on is trying to develop these insights. Consequently, we tend to know an awful lot about problems customers are trying to solve. That allows us really to get some insights ourselves into the type of technologies we should be investing in and building.
+Caterpillar – live AR demo
+It’s the same for Caterpillar’s Lewis:
+As we’re getting all of our products instrumented, we’re pulling in data. We’re collaborating with customers and finding some really neat opportunities. We’re taking that data and turning that into actual insight, either through web-based services that they subscribe to, or add-in consultants. With those consultative services, we call them advisors. Sometimes I call them “the doctors.”
+IoT still needs engineers – but new skills and diverse teams are required
+The audience had questions about IoT skills and teams. One asked if the IoT made existing engineers obsolete. Prendergast says no – but they may need industry-specific skills:
+I don’t see mechanical engineers going anywhere anytime soon. We have to build systems that interact with the real world, in some way. A lot of those are mechanical. Where we need to go, in terms of bringing technical knowledge and expertise into our company is, more and more, in those areas where you’ve got people working in the real world. For a mechanical engineer, as we start to pull systems together, we need to know how they work. That manual expertise is really important to us. We are hiring quite a few folks in the medical space, in the healthcare space, and also in various industrial spaces.
+May agreed, but he sees an emerging “hybrid” engineer, with soft skills and software know-how:
+I absolutely agree with everything that Colm has said. You’ll never get rid of your standard mechanical engineer, the people that do that job very well. What we see is more of a hybrid as well. An electrical engineer that knows communications, that knows power management in the field, but who also knows something about software. You’re tying together things that weren’t tied together three years ago. If you can get people that have those diverse backgrounds and know what they’re working with, it’s very helpful, but you’ll never get rid of the really good, solid engineer that really knows what their trade is, and who knows how to do it well. They’re invaluable.
+Diverse teams were a theme. Prendergast added:
+That’s why I think that you’re seeing a cross-pollination of very different skill sets that need to work together in order to build these solutions that ultimately solve the customer’s problems… The team on a particular project, or solving a particular set of problems, is key. What that allows us to do is to be very agile about who becomes part of the team, and how teams are formed…. There are many key elements that come into play, right? [Cloud], networking, security. We have a lot of embedded knowledge and a lot of expertise dealing with those areas. One of the challenges for us is pulling our IoT folks into part of the product development teams.
+Lightning round – IoT challenges galore
+It’s not all fun and games on the IoT. The panelists addressed significant IoT tech/business challenges, including:
+
+security and integration across systems and products
+the problem of IP ownership with data services customers
+customer’s expectations for risk-sharing agreements (example: performance-based agreements that share risk)
+a new sales process – IoT may require selling into new groups and lines of business (and avoiding purchasing, one panelist joked)
+the risk of new data services cannibalizing existing revenue streams (example: helping customers optimize equipment use may slow future sales)
+
+The potential of Augemented Reality to expand business models and help with skills development was also discussed (see my prior piece on IoT and AR for more on this topic).
+Then there are industry-specific nuances to consider, from health care regulations to smart city complexities. A couple questions pushed into Fletcher’s smart city territory, raising issues on priorities (“Where do you get started”) and fixing vexing and/or fussy problems (“When can we get smart traffic lights so we don’t waste fuel at red lights?”).
+Lewis brought the end of the talk into focus by raising the human impact. Citing the inevitability of the autonomous car, she added: “It behooves everybody in the industry to start thinking about what’s the human impact of this, and start getting ahead of it.”
+May built on this point, citing a real-world example of an employee named “John” whose job could be threatened by IoT:
+We said in the meeting, where we introduced the technology, everyone was very happy about the tech. [But then someone said] “This is going to take John’s job.” The air goes out of the room; I promise you. You want to hide. At the end of the day, the gentleman who was in charge said, “There’s a million other things John can do,” but that’s some of the challenges that you face, and they’re very real when John’s sitting across the table from you.
+My (quick) take
+The panel struck a welcome balance between the excitement of the IoT’s potential and the pitfalls along the way. For me, IoT is just one angle into digital change businesses can either explore or be haunted by. There is enough customer feedback to justify a close look at IoT and data services. There are enough concerns to show why these panels are necessary.
+Image credit - On-site LiveWorx photos by Jon Reed. Disclosure - PTC paid for the bulk of my travel expenses to attend LiveWorx 2016. Read more on: Digital skills and trainingFuture of workInternet of ThingsUse cases 

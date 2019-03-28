@@ -1,0 +1,39 @@
+
+Sirivasukarn, Siam City Cement Group
+Being an early adopter brings its fair share of risk. But for Ittaya Sirivasukarn, Chief Executive Officer of INSEE Digital Co. Ltd – IT arm of Siam City Cement Group (SCCC) – digital change dictates urgency. The bigger risk is falling behind.
+Sirivasukarn was my first customer interview at Sapphire Now 2016. Our video set was still under construction, but Sirivasukarn joined me on the couch for a non-video interview about their move to S/4 HANA – and why a cement company is thinking digital.
+When I say early adopter, I mean early: SCCC was the first S/4HANA project to go live in Thailand. After a nine-month implementation in 2015, SCCC now has 36 SAP modules/apps connected to their S/4HANA environment, as well as integrations with 31 non-SAP cloud solutions. There are 400 employees and eight companies under the group. I’ll get back to S/4HANA results, but first – why does a cement company obsess about digital? Sirivasukarn is the perfect person to ask, given that she leads INSEE, the group inside SCCC that drives their digital transformation. I wasn’t the first to ask her that question:
+People keep asking me, “Why does a cement group have a digital company?” (laughs) The answer is the same as the GE. GE said, “Yeah, we are in manufacturing, but right now all companies must be technology companies.” We need to adapt to that – technology will become mandatory for our entire industry. That’s why we have another company. INSEE Digital, that has capabilities on this. Then we drive the digital transformation for the whole group, and the customers outside the company.
+The digital challenge – getting closer to the end customer
+To form their digital strategy, Sirivasukarn looked at so-called “best practices” across industries. She wants her group to bridge the gap between business and IT:
+We come to help the business, to see opportunities or change the business model using technology. It’s quite a challenge in our industry.
+Why push through these changes? Sirivasukarn says the end consumer has changed the equation:
+The thing that has changed is the consumer and the way they purchase products…. The channels also change. The way we approach the customer must change also. That’s why we need to adopt an omni-channel approach; we need to be flexible.
+Changing consumer expectations impact the retail environment; they expect modern shopping experiences, rather than going to old school suppliers. As Sirivasukarn said, that extends to employees also; talented college graduates don’t want to work in huge, dusty factories.
+One of SCCC’s biggest goals is getting their products closer to consumers. That means getting closer to the experts homeowners trust:
+We’re talking about the last mile. If you are the homeowner, and you want to build a house, who would be the persons that you trust most? Normally they talk with the mason, or they may talk with the contractor.
+That dictates a shift for SCCC. Instead of focusing on selling only to dealers and sub-dealers, they are building a platform to connect directly to expert contractors and consumers, sharing information, product info and tips. These digital pursuits are all supported by S/4HANA and SCCC’s array of cloud products, both SAP and non-SAP.
+Why private cloud?
+SCCC went directly from ECC6, to the S/4HANA private cloud, without the intermediate step of moving to Business Suite on HANA:
+We believed if didn’t invest right now, we would need to invest later anyway.
+And why private cloud?
+The strategy is we move to the private cloud to make sure that our people accept and trust in the cloud. The next step when SAP is more mature on the public cloud, then it would be easy for us to move to the public cloud.
+Assessing results – how users are transforming from back office to front office
+Sirivasukarn said they are looking forward to SAP providing more S/4HANA functionality for their industry. What results have they achieved so far? The benefits start with speed of closing, better data integration, and better response times:
+For sure, it’s faster; S/4HANA can connect to all our technology. That’s helping us to get more information quickly for analytics, and better response to the end user.
+But the bigger gain is the time freed:
+When the system run fasts and simple, the user has plenty of bandwidth left. That’s where the innovations can start, and we have seen it.
+Their finance team used to have to spend two days and one night sweating the month end close:
+Now it’s one day and at 9pm, and they can go back home. Consolidation are easy.
+They can now spend time transforming the business – and their own skills – from “back office” to “front end”:
+They now have time to convert or transform themselves, from the back end to the front end, because now when they build a report, they have time to analyze it. They can go to talk with the leadership team, and educate them how to utilize the [00:16:00] budget better. That’s the way you start to create the big impact across functions: discussion and then collaborate. In turn, the people who had been treated as the back end start to be a partner with the front end, and that’s a beautiful thing to see! It’s very much a benefit that we get.
+The wrap – on fear, integration and IoT ambitions
+Next up for SCCC? “We will create the first IOT plant in Thailand.” And what does that entail?
+We need to prepare the factory for the IoT. In the future, we want to be able to control our expansion through a single war room, utilizing technologies like sensors, robotics, and drones. We can able to get more information and more control. We want to use predictive analytics to ensure that the availability will be at the optimum. We need to get started now. Otherwise, it’s quite difficult when that problem hits, and you want to move the whole organization, and they’re not ready.
+Sirivasukarn’s views on S/4HANA as the digital core lined up with many customers I spoke to here. I was honestly surprised by how many customers seem on board with S/4HANA-as-digital-core thinking. I expected more skepticism. What was different about Sirivasukarn’s story is how easily the integrations went. Other customers at Sapphire Now/ASUG expressed concern about the need for easier S/4HANA integrations and more and better APIs.
+This is hardly a surprise; integration was front and center at this show. SAP made big promises on improvements there, including detailed roadmaps and building out the announced API Hub. While we didn’t have time to dig into detail, Sirivasukarn re-iterated that S/4HANA was a lot easier to integrate to than prior versions of SAP. Her words carry some weight when you consider they integrated 31 non-SAP solutions in a nine-month project.
+I have my own ideas on what is holding SAP customers back from moving to S/4HANA (how many customers are holding back – and why – is a matter of debate, see Den’s view on that here). Sirivasukarn believes that the hesitation to push for S/4HANA and digital change comes down to fear. I’ll give her the last word:
+Sirivasukarn: I think people want to go down this path, but they’re afraid.
+Reed: Why do you think they’re afraid?
+Sirivasukarn: They are afraid to fail. There are so many legacy systems. Maybe you knew success in the past, but for us, we have a different mindset. We said: “Let’s fail first and move first and learn first.” We didn’t mind being the first. That set the standard for everyone in the company to just move along the way.
+Image credit - On-site photo of Sirivasukarn by Jon ReedDisclosure - SAP covered the bulk of our travel expenses to Sapphire Now. SAP is a diginomica premier partner. Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceFrictionless enterpriseUse cases 

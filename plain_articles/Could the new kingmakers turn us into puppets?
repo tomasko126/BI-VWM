@@ -1,0 +1,60 @@
+
+The Ethical Bridge with its four piers: Capability Approach, Virtue Ethics, Deontology, and Consequentialism
+I enjoyed James Governor’s report about his Tech, Power and Responsibility keynote at the recent DevOps world event. I’ve known Governor for over 20 years and I know he has a deeply rooted passion for many social issues. Having a platform from which he could talk directly to developers about ethical topics is grand. Here’s how he summarized his position:
+While it’s true that developers are the new kingmakers, with great power comes great responsibility. Are developers ready for that responsibility? We’ll need new ethical frameworks to make better, more socially responsible choices. Just because you can doesn’t mean you should.
+So far, so good. He closed out with:
+I was very pleased with how the talk was received. I didn’t have a single complaint that I shouldn’t be talking about ethics at a tech conference. I specifically called out our responsibilities, and how we could improve – for example improving diversity, creating safer environments for women to thrive, with more welcoming behaviors and strong, well enforced codes of conduct.
+It’s a good start but I see immediate problems.
+Ethics as complexity
+As I have stated before, ethics is a complex topic and one over which there is much debate among academics. Ethics is a topic that demands you take a philosophical position first and then establish a framework or frameworks.
+The topics that Governor called out are certainly topics du jour but do they come under the topic of ethics? I’d argue that’s questionable unless you can somehow extend that into management thinking, teaching and practice. To the best of my knowledge, that doesn’t happen except where there are established codes of conduct in professions that demand an ethically sound frame of reference. Examples might be the Hippocratic Oath with which medical doctors are familiar or the ethical principles enshrined in the professional accounting and legal professions. More broadly the Oxford University, which has a world-class degree course in Politics, Philosophy and Economics and which includes strong ethical components suggests that the careers for which a PPE degree are appropriate include:
+
+Banking and finance
+Politics
+Journalism and broadcasting
+Law
+Industry
+Teaching
+Social work
+Accountancy
+Business management
+Advertising
+Civil and diplomatic services and local government
+
+While some readers will put their tongue firmly in cheek at some of the suggestions you might notice that nowhere does it say computer programming. In my earlier discussion on ethics, I quoted Neil Raden who said:
+I start from certain guiding principles, one of which is that if an algorithm is seeking to take over a task that would have been done by a human where there is a social context, then the algorithm takes on those social attributes. To the best of my knowledge, there’s no AI programmer or engineer who knows how to codify ethical behavior requirements into a machine but we’re racing forward with applications.
+Second, you need to explicitly define ethical behavior and that’s something where even in academic circles they’ve been struggling for many years.
+Then you have to look at the models. I think Judea Pearl is right when he talks about Baysian networks as a more transparent method of understanding what the algorithm is doing rather than the black box deep and machine learning systems of today.
+Powerful voices
+Others are starting to take notice. Mitchell Baker, who heads the Mozilla Foundation is cited in The Guardian saying:
+Technology companies need to diversify their hiring practices to include more people from backgrounds in philosophy and psychology if they want to tackle the problem of misinformation online.
+In a direct quote, Baker says:
+But one thing that’s happened in 2018 is that we’ve looked at the platforms, and the thinking behind the platforms, and the lack of focus on impact or result. It crystallised for me that if we have Stem education without the humanities, or without ethics, or without understanding human behaviour, then we are intentionally building the next generation of technologists who have not even the framework or the education or vocabulary to think about the relationship of Stem to society or humans or life.
+Her cure?
+We need to be adding not social sciences of the past, but something related to humanity and how to think about the effects of technology on humanity – which is partly sociology, partly anthropology, partly psychology, partly philosophy, partly ethics … it’s some new formulation of all of those things, as part of a Stem education.
+Mile wide, inch deep
+The problem with Baker’s approach is that while laudable and an excellent starting point for a discussion, it is inevitably a mile wide, an inch deep, and loaded with contradiction.
+Each of the topics she mentions is a massive field of study in its own right. My degree focused on Abnormal Psychology (think deviance) and Sociology over a three-year period. What I learned above everything is that ‘deviance’ is a social construct but that in coming to any conclusions within each of those disciplines, you have to take positions that are rooted in constructs laid down and evolved over hundreds of years.
+Some will argue for instance that the recent walkout by Google employees was an act of deviant defiance. Others might argue it as an act of protest in an ethical cause. Check the comments to this from Wired – it’s got it all:
+
+Today, thousands of Google employees and contractors around the globe—many of them women—walked off the job to protest the company's handling of sexual harassment claims, and to demand more transparency around pay levels at the company #GoogleWalkout https://t.co/dF1gBeLUyj
+— WIRED (@WIRED) November 1, 2018
+
+Academic starting points
+There are other problems.
+Sociology is not the study of society per se but is frequently contextualized as the study of society from the point of view of inequality as identified by Marx and others, expanded into three broad and inter-related areas i.e. gender, race, and class. To that list you can add religious belief, age, physical or mental condition. Most recently, you might also add career – as in discrimination against veterans. Can you imagine modern managements wanting any truck with those topics, knowing the underpinning principles guiding academic study?
+Moving on to psychology. If you’re going to add that into the equation then where do you start? Cognitive, behavioral, cognitive-behavioral, Freudian, Adlerian and on and on? Or what about social psychology? In each instance there are clear fault lines in theoretical thinking as ways to explain certain aspects of behavior but, even as a student in those topics, I could never quite figure out how you synthesize for a general set of circumstances. It was always a case of saying something like “Skinner says this but Freud says that.”
+Then we have philosophy. That’s a whole bag of worms in its own right going all the way back to Plato. At one time, I had a library of 13 books on the great philosophers. The last in my collection was Bertrand Russell. Things have moved on considerably to the point where, when I was at university, Foucault was the final stop off point. Today, you have to progress through to people like Kwame Anthony Appiah. What’s important to understand is that regardless of who we’re talking about as representative of a school of thinking, they are all products of their time. And all are capable of criticism in one way or another. So who or what do you pick in this context?
+My take
+The debate among the good and the great will undoubtedly continue with plenty of emphasis on AI. I get that though I think it is misplaced since AI is only one of many areas where an ethical position is appropriate. As Governor reminds us:
+Just because you can doesn’t mean you should.
+Taking that argument on its face, why do any of us bother with so-called gig economy apps when the evidence is mounting that many of those are failing to pay a living wage? Isn’t that a moral issue as well? Sure. And the moment you say that you’re faced with ethical conflicts.
+We need captains of industry along with the Governor’s of the world to come out unequivocally in favor of asking questions about the future and how to moderate what we see ahead. For instance, Business Insider recently reported that Samsung Electronics president Young Sohn is ‘worried’ about ethics in AI.
+I mean, I think we should really worry about ethics. What is right? What is wrong? That’s why I made a comment, we’ve got to be principle-driven. And the research? Great. But research for purpose, not for using that data to take advantage of all human beings out there.
+We need much more.
+This problem cannot be solved by industry alone. Modern business management is far too wedded to the notion of shareholder value rather than seeing people as valuable. Neither can it realistically be put solely in the hands of the developer community. Look at how Facebook continues to trip up over itself and, most recently has acknowledged it screwed up over the human tragedy in Myanmar:
+Facebook failed to prevent its platform from being used to “foment division and incite offline violence” in the country, one of its executives said in a post on Monday, citing a human rights report commissioned by the company.
+A good starting point is the argument laid out in We Let Tech Companies Frame the Debate Over AI Ethics. That Was a Mistake.
+Governments and citizens alike need to be far more proactive about setting the AI agenda—and doing so in a manner that includes the voices of everyone, not just tech companies. Some steps have been taken already. In September, U.S. Senators introduced the Artificial Intelligence in Government Act, and the U.K. has placed AI at the center of its industrial strategy. Independent groups like the Ada Lovelace Institute are forming to research and provide commentary on these issues.
+If you are reading this as a user of technology then you’re a citizen with a voice. If you’re a buyer then this should give pause for thought. If you’re a technologist then what can you do to be of genuine help? Above all, let’s ensure the new kingmakers don’t turn us into puppets. Over to you.
+Image credit - via Smashing MagazineRead more on: DevOps NoSQL and the open source stackDigital transformation - frictionless enterpriseGoverning identity privacy and security 

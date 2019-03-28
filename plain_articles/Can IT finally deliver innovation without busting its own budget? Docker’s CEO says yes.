@@ -1,0 +1,60 @@
+
+It’s keynote time at Talend Connect 2018. During an onstage chat with Talend CEO Mike Tuchen, Docker CEO Steve Singh is making the case for a different kind of IT.
+My week at Talend Connect, followed by Couchbase Connect in New York City left me with more optimism about the potential for IT to fund its own innovation than I’ve felt since I first entered the enterprise game, way too many eons ago:
+
+Docker CEO Singh responds to audience question at #TalendConnect about dangers of overcommitting app development on one platform:
+“If you write specifically to one platform, your IT strategy is that platform”
+lock-in dangers notoriously include: price hikes you can’t opt out of
+— Jon Reed (@jonerp) May 9, 2018
+Well, it’s more like a glimmer of potential, but that’s still a pretty big statement – especially from a tech dystopian like me. I detailed some customer proof points here:
+
+How TD Bank avoided data swamps and built their digital engine with Talend
+How BD Digital Health built a smart diabetes app on their own platform with Couchbase
+
+We’ll need more use cases before any of us are convinced. But Singh has more. As he told the audience:
+What we’re seeing at companies like MetLife or Northern Trust is they’re taking their app and infrastructure management cost, and cutting it in half. Let’s say that you can cut 50 million dollars out of your app and infrastructure management cost, which by the way, some of our customers are at. That’s 50 million dollars you can go spend on innovation. That’s not going to the CEO and saying look, I need another hundred million dollars in my budget. That’s freeing up 50-100 million dollars of your existing budget.
+Break down monolithic apps, but beware of buzzwords
+Here’s the interesting part: the buzzword overdose of AI, ML, IoT and blockchain aren’t really the driving forces here – though perhaps automation is.
+There are some buzzwords in play, however – ones that executives preoccupied with customer outcomes probably find way too techno-geeky. Yes, this vision is about container orchestration, microservices and app portability. That means portability of data (Talend‘s focus) and portability of services/infrastructure (Docker‘s focus).
+It’s about shifting legacy IT investments into a DevOps-style delivery. That “continuous delivery” framework then becomes the platform for next gen apps (Couchbase and other NoSQL players enter here, arguing you need a cheaper/faster/different type of database to build these apps on).
+
+Docker CEO Steve Singh on next phase of biz apps:
+1. monolithic app suites – good integration but not all components best in class.
+2. Cloud LOB components e.g. Salesforce, Workday
+3. Next wave – microservices, “lego” blocks compiled from different companies #TalendConnect
+— Jon Reed (@jonerp) May 9, 2018
+Three converging trends to reckon with
+Singh cited three trends that are driving the digital shift, including container adoption:
+1. The move to the public cloud.
+If you look at the growth in data centers across, the Global 10,000 for example, it’s a 15 percent compound average growth rate on data centers, while GDP is growing around 3 percent… It makes sense to go rent or use public cloud services, where applicable.
+Singh sees a hybrid cloud for now, a mix of public, private, and “edge” locations. But as he told Tuchen, not all cloud moves are created equal:
+This move to public cloud is largely economically driven. How you do that is very important. You can’t just take a VM and move it to the public cloud and say “Gosh, I want to save money.” You have to look at this and say, “How do you move to a containerization model, so you can actually manage the use of compute resources, cutting the app and hosting costs in half, or better?”
+2. The rise of intelligent apps. We can – and should – argue about what an “intelligent” app is, and how evolved that “intelligence” is as of this writing. This we do know: intelligent apps will generate more data than humans can keep up with.
+The move to intelligent apps is these microservices, combined with machine learning and AI, in such a model that the application starts making decisions on your behalf.
+3. The move to the edge – This is a hip way of saying: cloud-based data won’t be sufficient for the plethora of field devices that can’t be dependent on network connectivity. Performance factors in also.
+Sensors are being built into everything. Today, 95 percent of all compute happens within the core of the enterprise. Within a decade, you’re going to see, in my view, more than half of all compute at the edge of the enterprise.
+Portability, not cloud, is the common denominator:
+
+Docker CEO Singh making a key point on containers:
+Containers should be able to run anywhere, not just in Azure, AWS, Google or private cloud – but edge devices. Not just mobile phones:
+Singh sees lightweight containers “down to chips and (smart) lightbulbs” #TalendConnect
+— Jon Reed (@jonerp) May 9, 2018
+Facing competitors and objections
+And that is why Singh sees Docker not as a surprising career shift, but as a connecting thread from his business applications past at Concur. As he told me:
+The reality is there is going to be a totally different framework for how applications are built in the future.
+Singh acknowledges we’re not there yet:
+That framework doesn’t fully exist today. I’d say Docker is further along than anybody else, but it doesn’t fully exist. So, the opportunity to go build that, you don’t get a lot of chances like that in life.
+But even at this stage, modernizing for efficiency/innovation is sticking to the wall for some customers:
+MetLife is doing exactly that. They’re taking their legacy apps, putting it on Docker, running it on modern infrastructure. They’re saving tens of millions a year, and they’re using that to actually drive next-gen innovation. So the next-gen innovation is entirely self-funded. They haven’t gone back to their CEO and said, “Look, I need more budget.”
+One of the biggest objections about microservices from enterprise IT folks is the perceived complexity of managing those services. Singh takes issue with that:
+I disagree. What is AWS? It’s in fact, just that – services that are componentized, and then packaged up and delivered as Lambda or whatever it might be.
+In the “Lego” style Singh envisions, other companies will do the same thing:
+That is exactly what will happen, but on a cross-company basis. Netflix actually uses microservices from Amazon, services that they built internally, services from other companies. They are an example of how microservices are coming together to produce an end product that you and I as customers say, “This is a delightful experience.”
+Singh admits that containers are not Docker inventions (“What Docker did was democratize them and make them easy to use.”) But containers and microservices can’t scale without orchestration and automation. Here, Docker faces its own competitive challenges, not the least of which is the rise of Google’s Kubernetes, a key player in the container orchestration market. Singh isn’t fazed:
+I 100 percent agree that Kubernetes is the default orchestration tool. This comes back to my comment I made that unless you’re really open, unless you allow the competition to make you better, then you get back to the [Saas lock-in model].
+This open source economy requires a bracing confidence:
+Kubernetes is totally integrated into the Docker platform. It forces us to be better at orchestration, and guess what? We’re adding value on top of Kubernetes. But we’re also delivering the other components of the container platform, security being another piece.
+As for calling out SaaS as another form of lock-in, he’s preaching to my choir there (check my recent event season review podcast with Brian Sommer for more on that). But Singh sees a progression:
+At Concur, we delivered a pricing model that, especially in the SMB segment, didn’t require a contract. There was no penalty to leave. And so, it was an incremental step  in moving away from lock-in. I think in general, companies are starting to move in that direction, because it’s the right thing to do for the customer. I believe that the next step is microservices.
+Talend did a nifty thing during the keynote I wish more vendors would try, opening up questions to Singh from the entire audience. They posed some dandies. And we haven’t even gotten to that “serverless” buzzword yet. Teaser: Singh sees an evolution here, not a competitive threat to Docker. But that’s a story for another day.
+Image credit - Photo of Steve Singh at Talend Connect by Jon Reed. Disclosure - Talend paid the bulk of my travel expenses to attend Talend Connect 2018 in New York City. Steve Singh sits on Talend's Board of Directors. Diginomica has no financial ties to Talend or Docker as of this writing.Read more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackDigital transformation - frictionless enterprise 

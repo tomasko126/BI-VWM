@@ -1,0 +1,72 @@
+
+In a year where large scale tech projects continue to generate a discouraging amount of failures – and cautionary guides to avoiding them – a high point is documenting use cases from vendors like Couchbase, Talend, and Docker, all of which are making a case for IT renewal within existing budgets.
+I laid that out in Talend CEO – IT must get unstuck from a legacy cycle to turn data into a business asset. But it’s the customer use cases that really drive the point home.
+As I wrote in how TD Bank avoided data swamps:
+
+The Talend Connect 18 keynotes pushed a heady new phase in next-gen applications, where portable/cleansed data (via Talend) and portable apps (via containers and orchestration a la Docker and Kubernetes) allows IT shops to avoid futile fundraising by moving from (expensive) legacy IT to cost-effective, modern infrastructures.
+
+Global biopharmaceutical company AstraZeneca is another revealing use case. They’ve now shifted their data transformation pursuits to a cloud-based focus. The potent question is: why?
+AstraZeneca’s IT ambition – “twice the value at half the cost”
+Since meeting with Tuchen, I’ve had the chance to dig into the back story. You can learn about AstraZeneca’s data evolution via a Talend-produced video from July 2017, featuring Prashaant Huria, AstraZeneca Vice President IT, Science & Enabling Units. Huria’s IT strategy has a jugular simplicity:
+Overall, our key strategy is all about twice the value for half the cost.
+We should add: without compromising on scale. AstraZeneca’s total big data storage needs exceed when 20,000 terabytes. Genomics work will soon push that storage need thousands of terabytes higher. It’s all about data portability, without excessive human data massaging:
+The need really is to be able to move large and small data sets around with minimal configuration requirements at a relatively low cost.
+AstraZeneca’s initial Talend focus was on global product portfolio strategy and medical functions. As their use of Talend expands, Huria expects it to impact both data scientists and business users:
+But as we look at expanding and exploiting the usage of Talend across commercial functions, and across the science units especially, this will truly revolutionize, you know, our access to the data, both for the data scientist, but also I think for the business user.
+Solving customer questions drives everything:
+Our job should be to really provide answers and surprise and delight our customers. Say, have you thought about this? And did you think about this? And what are the scenarios?
+But data riddles bring monster challenges. I got a better handle on that via a presentation and interview with AstraZeneca Senior Data & Analytics Engineer Simon Bradford (Bradford presented with his colleague Andy McPhee, Data & Analytics Engineering Director).
+“We needed to transform the IT and finance functions”
+The stakes of transformation are high. McPhee began the presentation with a slide that acknowledged:
+In 2013, internal and external drivers forced AZ to transform or plunge into a patent cliff disaster.
+That cuts to the chase, no? McPhee told us:
+We had to shift our focus, we had to look at our product portfolio strategy… We needed to transform the IT and finance functions, and we needed to transform together. Data has been at the heart of that transformation.
+He elaborated on the IT blockers that contributed to this problem, which should ring a bell:
+
+Old IT systems – systems that weren’t agile, and didn’t lend themselves well to agile development.
+“Lots of data silos.”
+“We couldn’t respond to business needs from an IT function.”
+IT was unable to effectively serve the 120 AstraZeneca markets across the globe. Therefore, up until recently, many of the localized finance departments had their own “shadow IT,” unbeknownst to IT.
+Multiple data models made global data integration expensive and difficult.
+
+Massive simplification – with “no data quality compromises”
+McPhee and his team set about tackling these problems and cleaning up data structures. Example: a “massive simplification” of the chart of accounts. A global finance data warehouse reduced dependence on point solutions. The CFO’s mandate was clear: “no compromises on data quality and integrity.”
+McPhee’s team built their own application development and maintenance capabilities. A new approach to financial planning and management reporting was needed. That meant earning business trust in the reporting data. One key to their reporting overhaul? “A common information model, a business blueprint, to help the business understand and talk in the same language.”
+Bradford gave the audience a deeper look at the IT challenges, which included:
+
+How do you scale to cope with spikes in demand on massive data sets?
+How do you optimize production volumes of production data?
+How do you avoid the “single point of failure” that can be caused by a single on-premise application box?
+
+Ahh – now we have the key to AstraZeneca’s cloud data moves. Bradford told us they were seeing budget-busting, 6-18 month outsourcing proposals:
+[We couldn’t solve] these problems with our old ways of working… Something like Informatica wasn’t going to work.
+Back to the drawing board, but this time: cloud-first.
+We went for a second opinion. We went back out to the market [to see] what we could be doing in terms of being cloud-first, cloud-enabled, and using different ETL tools.
+Enter AWS – and Talend:
+That shift as an organization was onto AWS, and the move for us was to Talend. That was because, at the time, Talend came with all the connectors we needed: S3, SQS, Redshift, it was all there for us, and we could start working with those technologies pretty much from day one… Talend is now embedded as the ETL tool of choice in our division.
+Towards a new economy of scale
+Fast-forward to today: the IT picture is very different. A container-based, serverless approach allows AstraZeneca to spin up AWS Beanstalk instances, and pay for those on-demand. 57 different projects using Talend are underway. Bradford:
+You only scale in terms of your actual use… no need to develop more code. So, that’s pretty attractive.
+McPhee warned that building an internal software development capability in-house, after you’ve relied on an SI for years, isn’t easy. McPhee and Bradford advised attendees to be prepared for changes in development and testing with a cloud move.
+Finding good cloud ETL testers and well-rounded developers, well-versed in agile testing methods, are other needs to overcome. Hiring Talend-experienced technicians isn’t easy either – an issue several customers raised at Talend Connect (Talend is working to alleviate that with a big certification push).
+Bradford jokes that some developers blame the cloud database, not their code, for any performance issues. His response? “Don’t just assume you need to spin up another AWS instance.” Ramping up tech teams is getting easier, though:
+We can get someone up and running on Talend in an hour… Everything is role-based, and they can start developing.
+Bradford told me his team has grown from 30 to 700 in the last three years (Bradford now leads all data engineering for all the enabling business units, including financials and human resources). That includes 200 team members in data analytics, and also support for the Workday system and other business applications.
+As for the data transformation projects Bradford is now working on, I picked up on two things: they continue to help departments like finance move off legacy data systems. And: they are also serving up specific data requirements to business users. They do this via a global team across Europe, India, Mexico and Guadalajara.
+If you’ve got a genuine business need for the data, you can have it. But security and governance is wrapped around that.
+Business users are catching on:
+They are getting stuck in, which is great. Especially in finance. And I think also in the HR space; we’ve been very lucky to have a fantastic product owner there, who’s an analyst, but who really knows the HR data. And that just shows you, having a technical product owner who knows the area is a real benefit.
+The wrap – “We now have high quality data that is in constant demand”
+McPhee is driven by this data question: How quickly can we get value to our partners in the business? 
+We had a credibility gap there… Today, we can have a data scientist working on EMR, looking at our data lake, and starting to get people insights within a couple of weeks, maybe even a couple of ours, after starting to look at someone’s data.
+In the video, Huria says Talend works well with AstraZeneca’s cloud-based data imperative:
+Talend for us is absolutely the heart of that architecture. Talend worked really well with our infrastructure services in AWS, and also it’s great value for money, because of the lower infrastructure costs, as well as run-time cost, and the scalability.
+McPhee and Bradford were clear with the audience: this is an ongoing journey, with many hills still to climb. “We are still learning how to do this” is a particularly humble thing to say during a conference presentation; I found that refreshing. And yes, machine learning and predictive projects are now coming into play. Bradford shared some encouraging early results with me – I expect we’ll hear much more about that at future shows.
+They are still building out centers of excellence. Business users are starting to come to them with problems and ideas, but that relationship is still growing. Trust is a process – not a slide in a slide deck. Still, it must have felt good to put up a slide that says:
+We now have high quality data that is in constant demand.
+McPhee added:
+There is no sole reliance on a systems integrator anymore.
+During our chat, Bradford gave me one more clue to their team’s success: never be satisfied.
+Both Andy and I are really demanding of ourselves. You give it six months, and you look back at a project, and you think, “That’s rubbish, I really wish we’d done that differently.” It’s never being satisfied with what you’ve done, and always wanting to re-engineer.
+ 
+Image credit - Feature image - Magic hat and wand in child hands, by @Nagy-BagolyArpad, from Shutterstock.com.Disclosure - Talend paid the bulk of my expenses to attend Talend Connect, where the interviews and presentations cited in this piece took place (though I consumed additional content and research for the piece online after the event). Read more on: Analytics planning and data analysisDigital transformation - frictionless enterprise 

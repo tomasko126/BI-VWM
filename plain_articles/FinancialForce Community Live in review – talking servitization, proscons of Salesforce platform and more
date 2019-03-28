@@ -1,0 +1,445 @@
+
+Throughout the enterprise event season, I run into the inimitable Brian Sommer, and we commandeer an obscure location for an event review podcast. The podcast format is ideal for hashing out questions like:
+
+What the heck did we just see?
+Did an Alexa keynote demo really just fail again?
+How does this event impact our take on this vendor’s chances?
+
+That was the case at the last show of the never-ending extended spring season, where we recorded The future of services, PSA and ERP – FinancialForce in review:
+
+You can download the audio file or pick up Busting the Omnichannel on iTunes
+Though I should note: FinancialForce did not have an Alexa demo fail – they were smart enough to avoid onstage voice UI meltdowns.
+Not everyone is an audio fan. I sometimes embed these podcasts in articles, but we don’t usually feature them as a standalone diginomica article. For those who want to track them, now you have the links. This time around, we have a full transcript run down via a content service Den Howlett is test driving.
+So, what follows is a lightly-edited version of the transcript, skipping a bit of the banter. If you find this type of transcript rundown useful, let us know and we’ll do it more often. Here’s a quick hit summary of the chat:
+In their last sit-down of the spring event season, Brian and Jon huddle in the Alexa-free environment of FinancialForce Community Live 2018 to break down FinancialForce’s goals and obstacles. Topics include the push for modern ERP and servitization, the pros and cons of their Salesforce platform play, and the keys to their current growth rate. The guys break out their talks with FinancialForce executives and customers and talk about what needs to happen next.
+Financial Force podcast review – transcript by section
+The Financial Force background and context
+Brian: FinancialForce is a company I’ve actually involved in on a selection or to from time to time. It’s an all cloud multitenant accounting and finance system that also happens to have some other software in PSA and other spaces. We’ll get into that in a minute. What’s unique about them is they were built from the ground up on the Salesforce platform, now called Force.com and the product was originally spun out of CODA software, when it was called Coda To Go and then at some point it got going so well that Salesforce invested a chunk of money and over the years Unit4 which owns CODA decided to make this more of a joint venture with Salesforce. And then they took some private equity money. So that’s where they are. They sell well, they’ve competed against, anything from anybody coming out of Quickbooks looking for something bigger, better to competing against Sage, Intacct and other products like that.
+Jon: So that’s sort of the overview of where we are but I think there are some other interesting things to note. The new CEO has been in office for about 18 months, so he had some perspectives for us on sort of what he’s accomplished so far. There’s been a lot of changes I think in sales and marketing direction, which has kind of led a lot of folks to try to want to better understand where is this company headed? I met with the new chief revenue officer on the first night. He’s been in the job for about two months. So he’s starting to get his agenda set. So we’re expecting, I think a lot of changes still to come with this organization from kind of a go to market perspective. But they did cite some numbers that showed there is some growth happening. Yes. One hundred million than when they were just under a hundred million in revenue in 2017. And they’re telling us now they’re at 110. They mentioned they closed 100 deals, but I’m not 100 percent sure on the timeframe on that. You know, how much time it took a 100 deals for company like this?
+Brian: They’re 100 small ones. It’ll barely hit the chop line on revenue, but if they included a number of bigger ones and they did mention some bigger accounts here for sure.
+Conference news highlights – Salesforce platform advantages
+
+
+Jon: Well, I think one interesting thing was just some of the news from the conference. This wasn’t a conference, that was full of big news announcements, but I think the news kind of called attention to the points that you are making around what’s unique about FinancialForce in terms of their relationship with Salesforce and, and on the Salesforce platform because there was quite a bit about, for example, making use of Einstein AI capabilities and the analytics product. I’d be curious in general just your thoughts on sort of what they were talking about in terms of, you know, leveraging Salesforce.
+Brian: Well, in fact, probably the most interesting point to me was how they’re leveraging a lot of the same partners that Salesforce has, right and they’re trying to really take advantage of Salesforce’s channel, the ecosystem, whether it’s an ISV or systems integrators and bringing them in now much closer to FinancialForce. Um, so we got quite an earful on all that this morning from their new channel Guy and again, he’s new. There are also utilizing Lightning, which is the new user experience that salesforce has and we saw some pieces of that in some of the demos. I don’t think it’s all out yet and I think they’re going to be continuing to roll more of that out over the next year with the next couple of releases. Einstein, obviously the big thing involving a lot of like artificial intelligence or big data crunching. I would have to say that we’re seeing some of the vendors getting so over the top giddy about using things like AI and machine learning and natural language processing.
+While we didn’t hear much of it really here today, you kind of got to think about who their target market is and just whether their target market really have the people, the skills, the quants and everything else on staff. They can actually open up a multivariate polynomial equation inside the middle of an algorithm and figure out what to do with it. I kind of liked that too. It’s like giving a I given a, a chainsaw to a four-year-old. If they ever got it running, you’d have nothing but a bloody mess on your hands. So I think they’re taking a more measured approach on how they want to move this kind of stuff out. And we’ve heard that from another vendor in this space.
+Where Financial Force customers are deriving value
+Jon: Yeah, and I did speak with a couple of their customers on this. I did a use case I’m writing up on JLL, which actually just won a business innovation awards. They brought the customer on stage, with handshakes and smiles today. He was talking about the use of Salesforce Lightning and how that’s made a big impact organizationally for them in terms of the user adoption. It’s just basically to help folks get a sort of a classic snapshot of the business, which is one of the big cloud ERP use case benefits you hear again and again. A so-called single source of truth and the ability to visualize that easily. I think the thing that I’m kind of struck on by listening to the customers here and talking to folks is that there is that sort of Salesforce advantage.
+In other words, for example, they don’t have to build all of their so-called AI capabilities from scratch. A diginomica colleague Phil Wainewright wrote an interesting piece about this because while they’re using Einstein for embedded analytics they kind of have that advantage out of the box. For some of the additional AI capabilities they’re talking about looking beyond just Einstein for that. And so we can get into a little bit about the pros and cons of, of being sort of committed to Salesforce, but I think it does give them some advantages. In other words, they can punch above their weight.
+
+
+
+
+Brian: Right. And where I saw that in some of the other sessions, it’s where customers really get a lot of value out of entering in, let’s say an order or even prospect information at the very beginning of the sale or the order. Everything starts off in Salesforce. It moves through the configure price quote modules, it ends up as an order. It goes into the financial system, it goes through the revenue recognition rules. If those apply, you know, for those orders and a financial report and you get this whole flow of things. It’s very much from a services or product order moving all the way through into the financials. That integration is something that customers value because there’s no leakage of data. There’s no data error or data rekeying.
+Revenue recognition update
+And that’s what a lot of folks like and for those with complex things where you have bundled items like a product and service and or warranties all rolled in together, then you are going to want something that’s got an integrated revenue recognition capability within it. And by the way, I did go to a revrec talk and what I observed in there were a whole slew of private companies, accountants in the room who are dealing with revenue recognition to ASC 606 and those kind of things. Those requirements they’re dealing with today were topics many of the public companies dealt with last year. So obviously with regs like this, the rules didn’t change in the last year. So there’s no new real big update on that. But it was interesting to see just the level of interest among the FinancialForce users on that capability.
+The Professional Services Automation (PSA) play
+Jon: And for listeners that aren’t following FinancialForce closely but are interested in some of the broader themes. I think the interesting thing about this company is that they have a very intense strength in professional services automation and that ties into the vision that their CEO laid out in the opening keynote around basically the services economy and redefining your business model around services. I think that’s something they’re really banking on for their future growth. Their big messages are to be customer centric and service enable everything and make it easy for companies to transform business models. So one of the cases FinancialForce would make is that your so-called legacy ERP provider can’t help you adapt to new business circumstances and new business service-oriented business models fast enough on these older systems and that’s part of the case they’re trying to make.
+Key updates on HCM and supply chain management
+Brian: Yeah. The old ERP systems were designed in the eighties and nineties and the concept of servitization was never even thought of back then. And you’re right, the products and the data models and everything else you have, were never designed for that world. It’s a world where a manufacturer, for example, would actually have multiple modes, or multiple kinds of products that they would sell, including things like power generation as a service. I also thought what was interesting is for the listeners a year ago, they kind of stepped away from the supply chain and HR markets.
+They had products in both of those they acquired. I’ve run into some of the people who have maintained support for those applications and they’ve got them available for customers on the HR side. A lot of the customers apparently have been painlessly moved over to ADP solutions and ADP being a partner of FinancialForce. But what’s fascinating is in the one on ones we were having with the executive team, it sounds like supply chain, I think they’re having a rethink on that. They know they have a lot of service firms who needs lighter weight supply chain, inventory management, ordering and those kinds of needs. And I think I wouldn’t be surprised at all to see something more formal come out of them about researching a supply chain focus.
+
+
+
+
+Jon: Yeah. It was interesting because it seemed pretty clear you had made that point last year, where are you going with HCM and supply chain? They’ve doubled down on the ADP partnership. They were pretty honest that hey, we’re going to kind of revisit doing more of this in-house. They’re not planning to develop the kind of supply chain functionality that would compete with the cloud manufacturing players out there, the Plexes of the world. But they feel like a lot of their customers need enough of that, that it’s worth developing. So that’s another piece that we will be keeping an eye on in terms of how they evolve. I can think of a couple of things that I think are interesting for them in terms of like the tension points going forward.
+The pros and cons of the Salesforce platform commitment
+One is the downside of like, how are they going to manage their Salesforce loyalty and commitment to that platform versus providing adequate choice for their customers. I think that’s a really interesting question. To what extent are they going to leverage other platforms. So for example, the Einstein space is a really good example of that because in the piece that Phil wrote up, he was talking about how they did kind of comment, including their chief product officer was commenting around they can be looking at other solutions around some of the more advanced predictive capabilities that they don’t have. They’re not sure if Einstein is going to be able to do all that they need, including things like time series based, predictive stuff. In other words, how do you get the strengths of the Salesforce platform without getting too locked in because in a sense it doesn’t give you enough flexibility and choice. That’s going to be an interesting dilemma for them. I think.
+Brian: I would love to be part of a board meeting at this company and hear them talk about their relationship with Salesforce because you’re never going to get everything you ever wanted in life from a single provider. So let’s just, let’s put that out there on the table, but more. I would encourage FinancialForce to, in the words of Dear Abby, seek true love elsewhere in some areas and my analytics and other kinds of higher ordered capabilities, particularly around dealing with parsing super-large datasets, sourcing new date, big data, and possibly moving some of the computing load over like an Amazon AWS because FinancialForce has a fiduciary responsibility to its customers to keep finding ways to reduce its cost of instantiating new customers or running the operations they have. That’s not to say that Salesforce has necessarily been a bad partner for them in that regard. I’m not saying that it’s not a great platform and all that, but in time, these guys might want to look at more open source technology and ever lower costs and bring those things to bear for their customers at least for part of their offerings.
+Jon: Right. And the other thing that I’ve been pressing them on and they pretty much admitted they haven’t made progress on this much last year is ISV-enabling their platform so that industry capabilities can be added in micro-verticals and such. I think of all the cloud ERP players, maybe they’re most ideal for this because there’s so many companies in different industries that want to service enable certain parts of their business. It could use some of this PSA functionality, but they need it combined with industry specific stuff that, that FinancialForce doesn’t have.
+And I think that the dilemma FinancialForce faces here is that if they don’t progress on building out that platform, then someone else is gonna make too much progress there and they’re going to get caught chasing the low hanging fruit. It’s the dilemma they have to face in the future. They have a lot of business right now. For example, you mentioned all the Salesforce partners who are perhaps doing configure price quote type stuff that can tie right in. That’s your low hanging fruit to use a horrible cliche. But there’s this whole platform piece that’s really important and they told us today that next year at this time, we can expect a different story there. But I think that’s one to watch because their mainline offerings are really horizontally focused.
+
+
+
+
+Brian: It was an analyst and brought up the name of somebody like a Rootstock, which is also a Salesforce play. You didn’t hear the horizontal, I mean the vertical story, it just didn’t come out right. And I would agree they need, if they really are at $110 million in revenue, we need to start hearing more on the articles and more than services.
+Jon: It’s not enough. Yes, they’re doing really well. And services and also tech and software. Those are really, they’re big. They’re big ones. So what else?
+Brian: The only thing I think Tod (CEO) wanted to talk about, it has to do with progress they have made around partners and channels. They’ve got a new channel chief and we heard some number of announcements involving a ISV partner, program as well as well as integration or implementation partners. They got tiers now. Yeah. I think it was like a gold tier and such. But they didn’t have any of my favorite tiers, you know, polycarbonate and cubic zirconia. Those are the kinds of tiers I looked for. But seriously, they’re trying to enforce partner quality, which is good. Right And they want quality partners, but they also want quality implementations.
+So I think their heart’s in the right spot. But it’s all that was really so new. I think we need to see what happens next year. I still, believe it or not, Jon, I think probably one of the gold standards in this kind of market would be the program believe it or not that Acumatica has. They really have their act together on how they do the channel. They have to because that’s 100 percent of the rope. But for these guys, that would be the program I think they probably want to model more of their efforts after.
+The conversation continues on the podcast with Brian’s pesky question on FinancialForce’s IPO and “liquidity event plans,” as well as the future of servitization and whether that is an effective positioning approach for FinancialForce. Thanks to Den Howlett for initial transcript organization and edit.
+Image credit - via YouTubeDisclosure - FinancialForce is a premier partner and covered most of our travel and expenses for visiting the show. Salesforce is a diginomica premier partner. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureFinancialsThe new professional and IT as a service 
+
+
+
+
+
+
+
+ Software Guy says: 
+
+			July 2, 2018 at 4:15 pm 
+Salesforce owns less than 5% of FF – possibly smaller now.  They will never acquire FF – their apps are crap and would not scale under SFDC ownership.   They would soon let it die – aka. Kenandy that was fire sold to Rootstock.
+Reply
+
+
+
+
+
+ René Mario Wedehase says: 
+
+			July 4, 2018 at 10:50 pm 
+Salesforce owns actually a 23% stake in FinancialForce. And your comment in regards to our applications disqualifies you to have an opinion in first place. 1400+ customers would agree with me.
+Reply
+
+
+
+
+
+
+
+ clive boulton says: 
+
+			July 3, 2018 at 12:38 am 
+Based on a talk at PARC on understanding the design of SalesForce.com multitenant architecture. I really don’t see how it’s efficient to run multi-level ERP on a Oracle-on-Oracle database pattern found in Force.com. More so, if you believe in Hasso Plattner’s move to OLAP databases for real-time ERP in SAP HANA. 
+Concretely seen in the numbers. Salesforce now owns the CRM crown with an architecture optimized for multiple tenants of shallow data at vast concurrent horizontal scale. Cemented by SAP owning the ERP crown with the HANA architecture optimized for deep data and huge vertical scale found in complex common multilevel bill-of-material processes like MRP. 
+https://www.parc.com/event/699/forcecom-multitenant-architecture.html
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.4045&rep=rep1&type=pdf
+A coda. With 2020 fast approaching could a new pattern optimized to deliver horizontal and vertical scale perhaps optimized for AI emerges? Could some sort of new composition be hiding in plain sight. Maybe the cool kids (plus a few old kids) are busy working on it already (in open source).
+Reply
+
+
+
+
+
+ clive boulton says: 
+
+			December 14, 2018 at 8:25 am 
+Based on a talk at PARC on understanding the design of SalesForce.com multitenant architecture. I really don’t see how it’s efficient to run multi-level ERP on a Oracle-on-Oracle database pattern found in Force.com. More so, if you believe in Hasso Plattner’s move to OLAP databases for real-time ERP in SAP HANA. 
+Concretely seen in the numbers. Salesforce now owns the CRM crown with an architecture optimized for multiple tenants of shallow data at vast concurrent horizontal scale. Cemented by SAP owning the ERP crown with the HANA architecture optimized for deep data and huge vertical scale found in complex common multilevel bill-of-material processes like MRP. 
+https://www.parc.com/event/699/forcecom-multitenant-architecture.html
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.4045&rep=rep1&type=pdf
+A coda. With 2020 fast approaching could a new pattern optimized to deliver horizontal and vertical scale perhaps optimized for AI emerges? Could some sort of new composition be hiding in plain sight. Maybe the cool kids (plus a few old kids) are busy working on it already (in open source).
+Reply
+
+
+
+
+
+ Software Guy says: 
+
+			December 14, 2018 at 8:25 am 
+Salesforce owns less than 5% of FF – possibly smaller now.  They will never acquire FF – their apps are crap and would not scale under SFDC ownership.   They would soon let it die – aka. Kenandy that was fire sold to Rootstock.
+Reply
+
+
+
+
+
+ René Mario Wedehase says: 
+
+			December 14, 2018 at 9:28 am 
+Salesforce owns actually a 23% stake in FinancialForce. And your comment in regards to our applications disqualifies you to have an opinion in first place. 1400+ customers would agree with me.
+Reply
+
+
+
+
+
+
+Leave a Reply Cancel reply 
+Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+New on diginomica/government
+
+
+
+
+
+
+GDS recruiting for people to lead new Global Digital Marketplace
+
+
+
+
+
+
+
+AI will change or eliminate 130,000 federal jobs over the next two decades
+
+
+
+
+
+
+
+National Audit Office – ‘Verify is an example of the failings often seen in major government programmes’
+
+
+
+
+
+
+
+Government warns that less than half FTSE 350 boards have dedicated cyber security budget
+
+
+
+
+
+
+
+Ministry of Defence and Capita’s management of contracts slammed in damning report
+
+
+
+
+Premier Partner NewsfeedHow Cloud-based AP Automation Solutions are Making a Strategic DifferenceSAP Helps ANYbotics Run BetterPageSense’s most requested Session Recording updates are here!Key Performance Indicators for Distribution [Whitepaper]Building a Great Place to Work in IrelandHow Two Family-Owned Businesses Beat the OddsUsing the New Relic GraphQL API ExplorerServiceNow EMEA Partner Summit awards 2019 and the winner is…Rimini Street to Report Fourth Quarter and Full Year 2018 Financial Results on March 14, 2019Automotive Suppliers Rely On Accurate Data to Meet Industry ChallengesOracle and Stanford Health Care: Shaping the FutureField Service Medical Review: The Need for a Field Service RebrandFive signs you need customer-centric ERPWhat Kind of Return to Expect from an EPM InvestmentTop 10 Infor things to be excited about in 2019What Top Management Consultants Say are the 7 Most Important E-Procurement Trends Happening Right Now - Suhas Sreedhar10 Tips to Master Customer Acquisition on Social MediaNorwegian Railway Services drives more efficient & predictive maintenance operations with a new mobile app strategyTop 10 Predictions for Manufacturing CIOs In 2019
+Latest Conversations
+Dennis Howlett: It's actually surprisingly close to what legislators are asking for but more to the point, Facebook wins because it assists in monetization.Commented on: Mark Zuckerberg gets privacy religion, but is it a case of ‘born again’ or cynical pragmatism?Hurrya: It's sad to learn of the lay-offs of Rich Heilman and Thomas Jung, they are two of the best employees at SAP. I think SAP…Commented on: SAP’s restructuring – Hunger Games, Game of Thrones or both?greg_not_so: Hi Jon, about our favorite bete noire - FB. The paymasters who build businesses on top of people’s data i think FB would go out…Commented on: Enterprise hits and misses – Mobile World Congress pushes 5G, workers go rogue on their messaging appscliveb: Hi Jon, Tying into to Vinnie Mirchandani's post on storm clouds ahead. In my opinion we are seeing a change in enterprise applications with productivity…Commented on: Enterprise hits and misses – Mobile World Congress pushes 5G, workers go rogue on their messaging appsGordon Barker: BUT nobody seems to worry about the harm 5G brings 5G Wireless: A Dangerous ‘Experiment on Humanity’ Senator Patrick Colbeck Testifies Against 5G: Hearing 2018…Commented on: Mobile World Congress – 5G, the business agenda and Trump’s China syndromeGo to TopicsGo to Topics
+Select Category
+Analytics planning and data analysis
+Best of
+   Best of Analytics planning and data analysis
+   Best of archives
+   Best of Cloud ERP financials and supply chain
+   Best of Cloud platforms – infrastructure and architecture
+   Best of Collaboration sharing and digital productivity
+   Best of CRM and customer experience
+   Best of DevOps NoSQL and the open source stack
+   Best of Digital and content marketing
+   Best of Digital enterprise in the real world
+   Best of Digital government and public services
+   Best of Digital transformation – frictionless enterprise
+   Best of Financial services and fintech
+   Best of Governing identity privacy and security
+   Best of HCM and the digital future of work
+   Best of Healthcare transformation
+   Best of IoT robotics and AI
+   Best of Retail e-commerce and the omni-channel
+   Best of The new professional and IT as a service
+   Best of UX and application design
+   Hits and misses
+Brexit
+Cloud ERP financials and supply chain
+   Financials
+   Spend management
+Cloud platforms – infrastructure and architecture
+   Infrastructure
+Collaboration sharing and digital productivity
+   Productivity
+   Social
+CRM and customer experience
+   Customer service management
+DevOps NoSQL and the open source stack
+   NoSQL
+   Open source
+Digital and content marketing
+   Content marketing
+Digital enterprise in the real world
+   Use cases
+Digital government and public services
+   Central
+   Education
+   G-Cloud and the Digital Marketplace
+   Health
+   Local
+   Third sector and non-profits
+Digital transformation – frictionless enterprise
+   Frictionless enterprise
+Financial services and fintech
+   Fintech
+Governing identity privacy and security
+   Data privacy
+   Identity
+   Regulation
+   Security
+HCM and the digital future of work
+   Diversity
+   Future of work
+   HR admin and payroll
+   Talent management
+Healthcare transformation
+IoT robotics and AI
+   Internet of Things
+   Machine intelligence and AI
+   Robotics
+Partner Zone
+   Acumatica
+   Coupa
+   Deskera
+   FinancialForce
+   Host Analytics
+   Infor
+   Infosys
+   IQMS
+   Marketo
+   Neptune Software
+   NetSuite
+   New Relic
+   Nutanix
+   Oracle
+   Plex Systems
+   Rimini Street
+   Sage Intacct
+   Sailthru
+   Salesforce
+   SAP
+   ServiceMax
+   ServiceNow
+   UKCloud
+   Unit4
+   Workday
+   Zoho
+Retail e-commerce and the omni-channel
+   e-commerce
+The new professional and IT as a service
+   Digital skills and training
+   IT service management
+   Outsourcing
+   Professional services
+UX and application design
+   Mobile
+   User experience
+Zoneless
+
+
+
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+
+ 
+
+Premier Partner NewsfeedHow Cloud-based AP Automation Solutions are Making a Strategic DifferenceSAP Helps ANYbotics Run BetterPageSense’s most requested Session Recording updates are here!Key Performance Indicators for Distribution [Whitepaper]Building a Great Place to Work in IrelandHow Two Family-Owned Businesses Beat the OddsUsing the New Relic GraphQL API ExplorerServiceNow EMEA Partner Summit awards 2019 and the winner is…Rimini Street to Report Fourth Quarter and Full Year 2018 Financial Results on March 14, 2019Automotive Suppliers Rely On Accurate Data to Meet Industry ChallengesOracle and Stanford Health Care: Shaping the FutureField Service Medical Review: The Need for a Field Service RebrandFive signs you need customer-centric ERPWhat Kind of Return to Expect from an EPM InvestmentTop 10 Infor things to be excited about in 2019What Top Management Consultants Say are the 7 Most Important E-Procurement Trends Happening Right Now - Suhas Sreedhar10 Tips to Master Customer Acquisition on Social MediaNorwegian Railway Services drives more efficient & predictive maintenance operations with a new mobile app strategyTop 10 Predictions for Manufacturing CIOs In 2019Go to TopicsGo to Topics
+Select Category
+Analytics planning and data analysis
+Best of
+   Best of Analytics planning and data analysis
+   Best of archives
+   Best of Cloud ERP financials and supply chain
+   Best of Cloud platforms – infrastructure and architecture
+   Best of Collaboration sharing and digital productivity
+   Best of CRM and customer experience
+   Best of DevOps NoSQL and the open source stack
+   Best of Digital and content marketing
+   Best of Digital enterprise in the real world
+   Best of Digital government and public services
+   Best of Digital transformation – frictionless enterprise
+   Best of Financial services and fintech
+   Best of Governing identity privacy and security
+   Best of HCM and the digital future of work
+   Best of Healthcare transformation
+   Best of IoT robotics and AI
+   Best of Retail e-commerce and the omni-channel
+   Best of The new professional and IT as a service
+   Best of UX and application design
+   Hits and misses
+Brexit
+Cloud ERP financials and supply chain
+   Financials
+   Spend management
+Cloud platforms – infrastructure and architecture
+   Infrastructure
+Collaboration sharing and digital productivity
+   Productivity
+   Social
+CRM and customer experience
+   Customer service management
+DevOps NoSQL and the open source stack
+   NoSQL
+   Open source
+Digital and content marketing
+   Content marketing
+Digital enterprise in the real world
+   Use cases
+Digital government and public services
+   Central
+   Education
+   G-Cloud and the Digital Marketplace
+   Health
+   Local
+   Third sector and non-profits
+Digital transformation – frictionless enterprise
+   Frictionless enterprise
+Financial services and fintech
+   Fintech
+Governing identity privacy and security
+   Data privacy
+   Identity
+   Regulation
+   Security
+HCM and the digital future of work
+   Diversity
+   Future of work
+   HR admin and payroll
+   Talent management
+Healthcare transformation
+IoT robotics and AI
+   Internet of Things
+   Machine intelligence and AI
+   Robotics
+Partner Zone
+   Acumatica
+   Coupa
+   Deskera
+   FinancialForce
+   Host Analytics
+   Infor
+   Infosys
+   IQMS
+   Marketo
+   Neptune Software
+   NetSuite
+   New Relic
+   Nutanix
+   Oracle
+   Plex Systems
+   Rimini Street
+   Sage Intacct
+   Sailthru
+   Salesforce
+   SAP
+   ServiceMax
+   ServiceNow
+   UKCloud
+   Unit4
+   Workday
+   Zoho
+Retail e-commerce and the omni-channel
+   e-commerce
+The new professional and IT as a service
+   Digital skills and training
+   IT service management
+   Outsourcing
+   Professional services
+UX and application design
+   Mobile
+   User experience
+Zoneless
+
+
+
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "categories-dropdown-12" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+
+ 
+

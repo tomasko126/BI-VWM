@@ -1,0 +1,68 @@
+
+
+diginomica hit: The state of financial software in early 2017 – hot, cloudy, competitive by Brian Sommer
+quotage: “Even some channel partners at Acumatica’s event this week volunteered to me that “vendors haven’t been building software for on-premises for years now”. I even had a client COO tell me that last year, too! It’s finally sinking in with buyers and sellers of software that if you want newer software, it’s going to be cloud-based. Now, can we end the cloud vs. on-premises debate?”
+myPOV: Brian Sommer is many things – but I’ve never heard him described as “a patient fellow.” And few things make him more impatient than pseudo-cloudy financial solutions, or channel partners who buy a server, put it in a basement with a VPN, and brand themselves as “cloud consultants.” But his review of the state of the financial software market isn’t as grouchy as you’d expect.
+What does that mean? Progress. More and better software options for customers, with partners that actually get the cloud business model and streamlined project cycle. Brian gives quick hits on a number of financial/ERP vendors, Bonus points for working in “trifurcating” as a verb.
+diginomica four –  my top four stories on diginomica this week
+
+How to survive as a Dinosaur and not die as a Unicorn –
+Martin with Deloitte’s tips on surviving as a Dinosaur: “This suggests that what the Unicorns can offer, such as better productivity, operational flexibility and business agility, may not be as telling a death blow to the Dinosaurs as the folklore surrounding the cloud might suggest.” Would it be too jugular to point out that Deloitte is living proof of this?
+NASA explores graph database for deep insights into space – Jess ventures into the stratosphere for another nifty use case. Fearless prediction: we’re gonna hear a lot about graph databases in 2017.
+First Utility makes smart meters even smarter with DataStax platform – Derek with a cool NoSQL story for our diginomica/gov site. Good tips on pros/cons of moving ERP data to NoSQL, and pain points to flag.
+The changing role of the CMO – with Josh Epstein of Kaminario – Barb with a close look at CMOs in transition. The technical changes are vast, the underlying need, to tell a great story, never changes. The expected role in lead gen certainly has.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Digital payroll futures – some thoughts from SAP and others – Compared to the rest of HR, payroll is taking its sweet ‘ol time to go cloud. Phil’s got ideas on what’s next: “This thinking leads to the notion that payroll could become a self-service activity. Instead of the payroll department managing a single monthly pay run, individual employees would decide on when and how much of their pay to draw down, and the system would automatically manage that, says Ettling.”
+How not to be a dinosaur – Oracle’s Catz and HSBC’s Fielding avoid the winner’s curse – I find most panels spectacularly dull, but Stuart sounds like he hit the jackpot on this one: “Courage and leadership – two qualities needed for digital transformation. It’s a simple truism perhaps, but none the less pragmatic for that.As an aside, how refreshing to see a technology conference with two female executives of two of the world’s biggest firms leading the keynote discussion on digital transformation.”
+How CityMD uses Workday financials to efficiently serve kindness – Den’s got a nifty Workday financials use case from a company that bridges the gap between doctors and critical care. As for results, how does getting away from spreadsheet Hades grab ya? “We’re out of spreadsheet hell. We plan every site as if it’s a separate business (there are 20 more sites planned for 2017) and hold site managers accountable for the things they can control like payroll. They all manage a P&L. That’s realistic but more to the point, we anticipate a very fast close at the end of the month.”
+
+A few more vendor picks, without the quotables:
+
+Tectonic shifts at Intel as cloud rips into enterprise server sales – Kurt
+A conversation with Dave Wright, CSO ServiceNow about DxContinuum – Brian
+Dropbox CTO on advancing enterprise collaboration with AI – Phil
+
+Jon’s grab bag – Brian Sommer recently got an unwelcome tour through the gig economy, thanks to a new home. What he learned didn’t give him a warm/fuzzy (Customer service via the gig economy is a hot mess. Here’s how and why). Might have come in handy before the election, but Facebook’s slugging away at the fake news epidemic, and, as Stuart reports, making oodles of money for their algo-trouble.
+Stuart pierced the veil of Airbnb chest-thumping PR opportunism ambulance chasing charitable deeds in Tech v Trump – Airbnb’s refugee offer looks like generosity on others behalf (there’s a good deed in there somewhere!). Already a critic of the EU’s “Privacy Shield,” Stuart plays the undertaker in Privacy Shield’s wooly thinking just unraveled thanks to President Trump. Denis provides context on an employment issue sure to heat up in H1B visas, immigration and history – an American story. Finally, Den shares shopping/medical tips bones of contention cultural insights from his two years in the U.S. in How I did San Diego. I just wish I could say his dark conclusion was off the mark.
+Best of the rest
+ AI goes dark, beats humans at poker and ups the policy ante by several smart peeps
+quotage: “What artificial intelligence does is it lets [black hats] automate the tailoring of content to the victim,” said Steve Grobman, Security CTO at Intel, which produced the report. “Another key area where bad actors are able to use AI is in classification problems. AI is very good at classifying things into categories. For example, the hackers can automate the process of finding the most likely victims.” – Maria Korolov, AI isn’t for the good guys alone anymore
+myPOV: AI provoked the best article content this week, starting with Korolov’s piece on how bad actors are exploiting AI for hacking purposes. The dark side of AI won’t be heard from the 2107 keynote stage, so it’s up to us – and the security/design implications matter. Michael Krigman of CXO Talk shares quotage from interview guests on tackling the ethical and policy implications of AI. One key tip: track the OpenAI effort, which is putting effort into transparent AI projects/research.
+Speaking of transparent, AI makes the cut for analyst Esteban Kolsky’s now-blogged research agenda. Kolsky poses questions like: “How do you distinguish between ML [maching learning] offerings from an IaaS provider and a chatbot from a .ai vendor? This is where I will try to show some structure. ” Kolsky’s answers can’t come soon enough; tech vendors are pimping massaging demonstrating their AI expertise on every keynote stage from here to Shanghai and back.
+AI whipped humans at chess and Go, but there was a holdout – No Limits Texas Hold ‘Em poker. That’s right – poker is tougher for machines. It’s the so-called “last frontier” of human games, with even a two player poker game generating 10160 possible situations. Oddsmakers didn’t project the machines to win – so much for the odds.
+Perhaps the most incredible and/or terrifying part? As per The New Stack, the creators of Libratus, the poker machine, did not train it to play poker: “We didn’t tell Libratus how to play poker. We gave it the rules of poker and said ‘learn on your own.” And get this: computers can now bluff. With bluffing conquered, it shouldn’t be hard for machines to take the next step: running for political office.
+Other standouts:
+
+Customer service takes a turn – Denis Pombriant nailed an elusive discrepancy from a recent customer service report. You see, 35 percent of service reps are “empathizers,” but most of us are sick of over-trained/forced niceness from service reps who lack the chops or power to actually solve our problem. “Controllers,” who are skilled at actually solving an actual problem, only make up 15 percent of current service reps. Denis ponders a way out of this sorry state of affairs. But in the meantime, we’d like to send you a survey about your support experience…
+
+Honorable mention
+
+
+Offshore has become Walmart…as Outsourcing becomes more like Amazon – If the analogy isn’t clear, it’s about a juxtaposition between “automation-rich intelligent operations” (AKA “the new outsourcing”) and “offshore-centric traditional operations,” a legacy approach to efficiency.
+Top Tech Trends for 2017 – A tad buzzworthy for me (e.g. “next-generation cloud” – yuk), but some concepts worth tracking nonetheless, such as “intelligent security,” which is about making systems more autonomous and pro-active.
+2017 Is The Year Integration Enables Industry 4.0 Growth – Will this be the year Industry 4.0 moves from that “cool laboratory thinking” vibe to “the way things are done in the wild”?
+Will Blockchain Change the Way Businesses Operate? – Me: Yes, but in a subtler and slower-adopting way than the true believers might want.
+
+Whiffs
+Early edition Boston Globe print subscribers got this doozy of a headline:
+
+Family friends in Naples, FL had this delivered to their house this morning. The perils of early edition newspapers. pic.twitter.com/iSbchhrqSx
+— Field Yates (@FieldYates) February 6, 2017
+The unselfconcious irony of a print publication (incorrectly) reporting a “Bitter End” is almost too much. Congrats also to Debt.com for signing that elusive spokesperson Ryan Lochte to an endorsement deal – because America is all about “new beginnings,” and what better way to start again than to shill your @ss off?
+Speaking of shilling, here’s the five worst Super Bowl ads this year, as per The Comeback.com. This was a milquetoast crop of ads overall, a Kevin Can Wait template of gutless gloss designed for bland smiles not belly laughs.
+Finally, had a wee run-in with Southwest last week when they wouldn’t board me on a flight as I would have supposedly missed my connection. They were wrong about that, but then ultimately right as my fog-delayed flight was pushed into oblivion. That led into a Twitter skirmish, where Southwest was immediately responsive – and very thoughtful, in that “emphasizer” kind of way:
+But once they got me into the direct message triage, legalese took over. Here’s a couple of heavy-handed excerpts from the private messages, with my commentary:
+We know it is frustrating to experience a flight irregularity.
+Actually it’s the inconsiderate treatment on the ground by your team that is frustrating.
+It looks like your flight was delayed as a result of Air Traffic Control directives…
+You don’t say? (Ignores responsibility for choosing not to hold a connecting flight).
+The greatest gesture we can offer in these conditions is a safe departure and arrival. We’ll keep working to make that happen.
+Yep – that’s about all we can expect from modern air travel. Boilerplate service and impersonal treatment is on the house.
+Too bad – would have been easy to simply say, “sorry you had a rough day.” And as for “greatest gesture,” what about empowering reps to offer a token amount of reward points, or free craptastic wifi on your next flight? The whole point of a “gesture” is a small kindness, not the bare minimum. That’s customer experience in the airline industry, where our powerlessness is only rivaled by our dependence. Over to you, Clive.
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock - all from Fotolia.com.Disclosure - SAP, Oracle, ServiceNow, Workday and Salesforce are diginomica premier partners as of this writing. Acumatica is a partner.Read more on: Cloud ERP financials and supply chainFinancialsHits and missesMachine intelligence and AI 

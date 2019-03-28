@@ -1,0 +1,23 @@
+
+Every day, we make countless decisions about other people and circumstances based on our personal experiences and preferences without even realizing it. A study from the Journal of Neuroscience found that we judge a person’s trustworthiness within milliseconds of seeing his or her face.
+This natural human tendency is called ‘unconscious bias’ and it can ultimately impact a company’s ability to hire talent that is best suited for a particular role.
+Unconscious bias is not necessarily malicious, however it can have negative impacts on diversity and inclusion in the workplace. For example, a Yale University study found that male and female scientists were more likely to hire men, and pay them $4,000 more per year than women. Another study at the University of Toronto found that job applicants with names of Indian, Pakistani, or Chinese origin were 28% less likely to get called for an interview compared to applicants with traditionally Anglo names.
+A homogeneous employee base puts companies at risk when the business case for diversity is so clear. A McKinsey study found that organizations “in the top quartile for gender or racial and ethnic diversity are more likely to have financial returns above their national industry medians.”
+Additionally, hiring choices influenced by unconscious assumptions can lead to higher turnover rates. The average cost-per-hire is $4,129, while the average time it takes to fill a given position is 42 days, according to the Society for Human Resource Management’s benchmark survey.
+Using data science
+At Infor, I lead the team that is using data science to help customers take the unconscious bias out of all aspects of the talent management lifecycle, from vetting new candidates to retention and training.
+Infor starts by working with each customer to build unique ‘performance profiles’ – the profile of the ideal employee for a position.
+First, we’ll give current job incumbents at the company an assessment to understand their behavioral, cognitive, and cultural preferences. Second, we’ll collect performance data — sales numbers, performance evaluations — that tell us who the high, mid, and low-level performers are. This helps us identify what characteristics lead to top performance.
+Using this behavioral and performance data, the Infor Talent Science platform leverages behavioral science expertise and powerful analytics to build unique predictive models that will help customers select the best talent for a given position.
+Next, each job applicant takes an assessment that measures 39 behavioral, cultural, and cognitive characteristics from which their personal profile is generated. Talent Science then benchmarks the applicant’s data against the job-specific performance profile to predict the candidate’s overall fit for the organization.
+Proven customer results
+Infor’s team of data scientists continually works to empirically demonstrate results for customers using the platform. For instance, increasing impartiality through the solution boosted employee diversity for some customers by as much as 26%. In other cases, Infor showed that top performers in a sales position hired based on our technology were selling $250 more per hour.
+Here are two more examples:
+
+Famous Footwear (Caleres Inc) – This footwear retailer achieved a 33% lower turnover rate at the 30-day interval for new hires recommended by Talent Science. The company was able to realize significant savings by reducing employee turnover-related costs associated with the hiring process, training expenses, and number of days needed to reach full productivity.
+Mattress Firm – This specialty bedding retailer reduced its employee turnover rate by 28%, achieving $5.6 million in annualized savings from turnover reduction.
+
+By hiring based on benchmarked qualities of the best performers, data science not only allows businesses to reduce turnover and improve performance, but also boosts employee drive and motivation.
+It can ensure that you are building a company culture that will take the organization to the next level. By reducing unconscious bias through objective data analytics, a company can bring in higher performing employees who also mirror the company-specific culture and values that will lead to success in the organization.
+Read more about these customer case studies and the role of Infor Talent Science in helping companies transform their hiring processes.
+Image credit - Businessman hiring from multicultural lineup © leowolfert - Fotolia.comRead more on: Analytics planning and data analysisHCM and the digital future of workInforPartner ZoneTalent management 

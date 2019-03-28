@@ -1,0 +1,87 @@
+
+10 – Banking industry in a state of flux
+What I want to do is go back to the past. If you think about it, we used to have an always on customer brain, we had one for a really long time. One of the jobs that I have and that my team has is taking banking back to the ’70s.
+
+RBS wants to take banking CRM back to the 1970s with huge data investments
+Nationwide warns that digital brings “operational complexity”
+Co-operative Bank warns IT still unstable and says no profit until 2017
+
+Why? It’s becoming increasingly obvious that the traditional banking industry is in a serious state of flux. Most of them are still operating on mainframes and there have been more outages this year in the UK than many of us care to remember. However, in 2015 we noticed more of a recognition from the banks themselves that things need to change, processes need untangling and investments need to be made.
+The above quote was said by Royal Bank of Scotland’s Data Guy (actually a job title), explaining how the bank needs to put the focus back on the customer through the use of data and digital technologies. It’s not going to be easy though, as banks have some of the most complicated systems in the world. But if something doesn’t change, the digital-first banks have a great opportunity to continue eating up market share.
+9 – Digital fails
+As I said at the start, it shouldn’t be this hard to get a decent broadband connection in London. It just shouldn’t. And as for the customer service at these companies – well, I really don’t know what to say. Awful, awful, awful.
+
+Digital #fails: EE and Virgin Media prove that Digital Britain is a joke
+Digital fail: An awful customer experience with British Airways
+
+Why? There’s nothing like first hand experience of a terrible digital interaction with a large company to really give a journalist the drive to go out and write a rant. Some of you may enjoy reading these. Seriously though, these companies should know better.
+8 – Digital Services Framework failings
+Digital services aren’t a commodity and I don’t believe should be listed as one. They are supported by commodity services – platforms and hardware. But if we want to build new transactions for government, that’s a complex job that needs more understanding of the capabilities needed than an off-the-shelf product. This needs fixing ASAP.
+
+Exclusive! GDS’s Tony Singleton – fixing the Digital Services Framework and working with CCS
+ DSF 2: The government needs to understand digital isn’t a commodity service
+
+Why? diginomica ran a successful campaign this year, along with a few other influential stakeholders in the industry, to get the government to pay attention to and fix the troubled Digital Services Framework. The framework itself was meant to be critical in complementing the far more successful G-Cloud and was aimed at allowing government departments in the UK to purchase the necessary expertise to come in and help build specialist digital services.
+However, as the stories outline, this wasn’t working – it had become a body-shop for digital skills. Thankfully though, the government listened and has embarked on creating a new and improved framework. We also bagged an exclusive interview with Tony Singleton, the man heading up the government’s Digital Marketplace.
+7 – Diversity in the tech industry
+I joined Fujitsu 19 and a bit years ago in our defence business and that’s not an environment where you’re necessarily going to be out – so I wasn’t. And it was about three years ago where we started to talk more about diversity, inclusion and some of the programmes we wanted to run as a company.
+
+Fujitsu’s Steven Cox opens up about being a gay senior executive in the tech industry
+Netflix introduces unlimited maternity and paternity leave…with full pay
+
+Why? Because it’s critically important. Sexism and the lack of diversity in this industry is shocking. And it’s not only about doing the right thing – a more diverse team has proven to bring greater returns for the business too. So it makes financial sense. Change attitudes. Change structures. Make an effort.
+6 – Local government ambitions criticised
+I don’t think any IT professionals are opposed to where the technology is going, it’s just this sort of blindness. Digital will not work in the government context unless it is properly surrounded.
+
+SOCITM 2015 Review – Local government does need a critical mass of revolutionaries
+If we aren’t willing to re-think local gov, maybe local-GDS isn’t the answer
+
+Why? Following an event where I listened to local government leaders talk for two days about their digital ambitions, I ended up writing a story about how completely underwhelmed I was by the scale of those ambitions. That story got quite a bit of attention and resulted in a lot of online conversations happening about what the future of local government looks like.
+As I pointed out at the time, local gov isn’t just one entity. It’s hundreds of little entities, all with their own legacy and their own political agendas. It seems that there is a lot of resistance to change in many parts of the UK, whilst there also being pockets of really interesting digital innovation. One to watch in 2016, that’s for sure.
+5 – NoSQL continues to gain momentum
+Half or more of my business comes from companies where they have found that relational databases were never the right thing to start with and now they need to find something that is more open and flexible for many datasets.
+
+Basho CEO on the future of NoSQL and why he chose Bellevue over the Bay
+ A look at how MongoDB plans to make open source profitable
+
+Why? The NoSQL market is heating up and is becoming increasingly competitive. The vendors at the top are trying to attract customers, attract talent and build out a product portfolio that allows them to monetise what is essentially open source technology.
+My personal view is that the ones that will win in this space will be the ones that not only focus on making NoSQL operationally sound, but also focus on moving up the enterprise stack. NoSQL databases are interesting at the moment because they’re cheap, scalable and offer new opportunities for a web-based architecture. However, I can envision a time when they’re viewed as a commodity and the vendors in this space need to figure out how to not make that happen to them.
+I would argue that building out applications or tools that focus on things like IoT or machine learning could help. I expect a lot more partnerships to be taking place in this respect.
+4 – True digital transformation use cases in the gambling industry
+There’s an awful lot of literature out there about IT alignment, IT alignment with the business. For me it’s increasingly about convergence. What you used to call the IT department practically doesn’t exist. Those product teams are made up of people that you formerly called IT people, who you formerly called commercial product people, but they happen to be in the same team.
+We are increasingly seeing that that distinction is just going away quite frankly. The whole notion of an IT department that sits and waits for a request from the business is completely gone.
+
+William Hill’s CTO explains why open source and digital trump buying one big IT box
+Paddy Power CIO: ‘Shipping code four times a day is a huge cultural challenge’
+
+Why? Two of my best customer interviews this year just so happen to be operating in the betting/gambling industry. Both William Hill and Paddy Power showcased what it really means to be ‘digital’. It’s not about using the right buzzwords or ticking the trendy boxes. It’s fundamentally shifting your approach to pushing technology out to the customer and rethinking how you procure/buy products.
+For those thinking about their digital strategies in 2016, these are a must read. The focus on dev/ops, smaller iterative teams, open source technologies, cultural change, cloud and data use are key. It’s certainly not an easy approach to digital, but it’s probably the right approach.
+3 – Government-as-a-platform is explained
+It’s a vision that hasn’t been tried anywhere else in the world. My hope is that it is one the current teams at GDS pursue. If we really want to save money and deliver better services to people, this is a real opportunity.
+If the UK gets Government-as-a-Platform right, ‘government’ will never be the same again
+GDS’ Government-as-a-Platform ambitions are misunderstood – it’s not about control
+Why? The UK is the only country in the world, as far a I’m aware, that is seriously thinking about a fundamental re-structure of government. As the above stories outline, this requires building new institutions. Re-thinking how we use data (via the use of registers). And changing the skill set within Whitehall.
+The idea of Government-as-a-Platform is so much more than just re-using services that are common throughout the public sector. Which is the ‘simple’ notion that is often touted. It’s about wrapping standards around existing services, creating a competitive marketplace and creating a new simplicity in Whitehall to delivering services.
+Will it be successful? It faces an uphill challenge in navigating the politics of getting it going. Not everyone understands it and many see it as a threat because it shifts power balances in current departments. But the opportunity is real and 2016 will be telling.
+2 – Fleshing out the Internet-of-Things
+And as for companies out there today that want to take advantage of IoT? Good luck. Whilst I’m sure many will create efficiencies and perhaps build out some new services to stay ahead, history tells us, and my instinct says, that many are going to be knocked by new innovative business models that spring up around them. But that’s always been the case, things change, the internet has just accelerated that rate of change – and IoT will be no different.
+
+The Internet-of-Things isn’t ‘up for grabs’, it is a diverse new phase of the web
+Bosch and the clash of two worlds – IoT and product manufacturing
+
+Why? I feel like 2015 is the year that we finally got some meat on the bones about what the Internet-of-Things means to the enterprise and how we are likely to see the market evolve. As I found out at Mobile World Congress in Barcelona earlier this year, the true winners of IoT are going to be the ones that really understand what it allows – the creation of new business models.
+Rather than sticking sensors on everything and anything and collecting all the data possible, companies should rather be thinking about sensors and analytics at scale allows for a different approach to their product/service offering.
+My personal believe is that the winners in IoT are going to be the companies that understand that they can integrate IoT technology into products that are already in the market and then deliver a fantastic wrap-around customer service with it. The use of data being fed regularly back allows for you to constantly be engaged with your customer-base. That brings it’s own cultural challenges, but if done correctly, can lead to a far more sustainable business model.
+1 – The changing face of the Government Digital Service
+And this brings me to my final point: we need to be very careful. Although GDS has achieved an awful lot and has changed the conversation, it’s not impossible that things could go back to the way they were. The oligopoly has been resting and waiting, but it’s still very much there. Because, let’s face it, the old way of doing things is easy and it’s understood. Plenty of folk know how to operate that way. We could very easily go back to a world of multi-year deals, where consultants are paid to keep the lights on, where projects fail and where citizens don’t get what their hard-earned taxes deserve.
+
+Mike Bracken’s exit leaves GDS at a crossroads – the return of the oligopoly?
+ J’accuse John Manzoni – a vote of no confidence in digital transformation
+
+Why? It’s been a time of significant change within the UK’s Government Digital Service. Earlier this year it’s director and founder Mike Bracken, along with a few of his senior colleagues, announced their surprise departure for the Co-Operative Group. With some hindsight, it’s easy to see that the departures were in some way a natural progression of the organisation. But at the time it left much of the industry and many watchers in shock and worried about the future of digital change in Whitehall.
+The UK had been leading the world in the public sector digital transformation agenda and all of a sudden it looked like progress may be slowed.
+This was particularly true given that I was aware that some of the senior people were leaving simply because they felt like the head of the civil service – John Manzoni – didn’t buy into the under or understand why it was important to undergo an institutional transformation in the form of government-as-a-platform. Frustrations were running high.
+Which is what led us at diginomica to write a story stating that we had no confidence in Manzoni to get the job done. And I’ve been made aware that this went some way to putting pressure in the right places to help move things along and raise the agenda.
+Since then, thankfully, the Treasury has invested £450 million in the Government Digital Service as part of the Chancellor’s spending review, which indicates that there is still a desire there to progress with digital transformation of public sector services. Government-as-a-platform has been given the green light and 2016 is going to be very telling.
+Read more on: Best of archivesDigital government and public services
+

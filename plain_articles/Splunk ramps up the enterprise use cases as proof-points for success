@@ -1,0 +1,51 @@
+
+Doug Merritt
+After a quarter in which Splunk signed 500 new enterprise customers, CEO Doug Merritt has a clear understanding of what the drivers for adoption are for the firm: 
+
+We believe that digital transformation is impacting every industry and every company. As processes and interactions become digital, the amount of data being generated is exploding and will continue to do so. Splunk is the best solution to enable customers to easily and cost-effectively collect, analyze, and get maximum value from that data.
+
+He adds: 
+
+Our strategy remains the same, to be the ubiquitous machine data fabric for our customers. We’re achieving that by continuing to invest in our platform and providing customers with best in class solutions, leveraging that platform. Simultaneously, we’re building a strong ecosystem that delivers solutions that complement ours in IT operations, application delivery, security compliance and fraud, business analytics and the Internet of Things.
+Splunk’s unique ability to deliver a hybrid solution allows us to effectively serve our customers wherever their workloads and data reside and in turn enable them to more broadly adopt our platform. And Splunk Cloud’s security and wide availability through 10 AWS global regions including GovCloud allows us to help customers move through the time of content. 
+
+The firm last week turned in its latest third quarter numbers, showing a 43% year-on-year bounce to $212.8 million, with increased net losses of $86.6 million, compared with a loss of $55.3 million a year ago. But with the company’s annual user conference coming up next month, Merritt is keen to focus on the big customer wins and expansions. 
+These include Australia’s Queensland Department of Education and Training, which has expanded its Splunk Cloud presence through a managed service provider agreement with Telstra. Merritt says: 
+
+They’re going to use Splunk in conjunction with Blue Coat, Palo Alto Networks and CyberHound for cyber security protection. They also have an analytics use case where they’re keeping students and staff safe by proactively alerting schools of incidence of cyberbullying and threatening online behavior. 
+
+Then there’s Dubai Airport which selected Splunk Enterprise to create a real time airport dashboard to visualize the complex operational processes for one of the world’s busiest airports. Merritt explains: 
+
+They’re using Splunk to gain insights into every passenger touch point to drive an excellent experience and to effectively deploy resources. Dubai joins other airports such as San Francisco International, Denver International, Sydney International and London’s Gatwick Airport among others for using Splunk to run their operations. More than 260 million travellers flew to those airports last year, and we’re happy to contribute to a better experience, especially for those of us who spend a lot of time on planes.
+
+Also expanding its use of the Splunk platform is Yelp, adds Merritt: 
+
+Hundreds of employees use Splunk, including engineers, their IT organization and business users, for use cases that include app management and delivery, IT operations and business analytics. Yelp has democratized Splunk, so all users across its organization can create their own dashboards and reports for real time analytics.
+
+Public sector and IoT
+With ambitions to grow its public sector business, the UK’s National Health Service was a notable expansion of an existing Splunk Enterprise license to support its digital transformation initiatives NHS Digital: 
+
+Splunks monitor performance, investigate issues and provide reporting for a number of healthcare services including an innovative service that connects clinicians, patients and local provider throughout England, as well as the service that acts as a comprehensive repository for healthcare data in the country.
+
+Meanwhile the firm’s alliance with Amazon Web Services is providing some lucrative joint wins, such as the City of Louisville. This is a win of some significance as Mayor Greg Fischer was just named as America’s top innovative mayors, observes Merritt: 
+
+His decisions are driven by data. The city is using Splunk Cloud to ensure their data and IT networks are secure and they keep senior staff informed 24/7. AWS and Splunk sales teams worked closely together in this opportunity. 
+
+As noted above, there are, of course, Internet of Things ambitions, although it’s still early in the day, admits Merritt:
+
+We’re still working with customers to see repetitive uses cases. We definitely have been focusing a little bit more in utilities, oil and gas, and heavy manufacturing. 
+I think the real go-to-market approach that’s going to be the one approach within IoT, given that we’re adjusting the analytics layer in this game, is picking the right partners, so that we can deliver a more full end-to-end solution for different industries, especially given the huge variety of potentially use cases by industry, by geography and by size of company.
+
+As for the competitive landscape, it’s getting more intense, says Merritt: 
+
+There has always been competition around Splunk, a combination of other players trying to do what we do on the platform side, whether it’s Sumo, Hadoop or Elasticsearch, as well all those best of breed vendors and SIEM and systems management and other areas. And they are still out there. 
+Wwhat we’ve seen with something like Elasticsearch, which has come up as the one of primary competitors, is they are based on a different technical architecture, they grew out at a document search side of the industry. It’s a really interesting and important technology for a whole host of use cases within customers. 
+
+But it doesn’t need to be an either/or game, he argues, but he positions Splunk as out in front: 
+
+I’ve been trying to frame this as it’s not a Hadoop or Splunk or an Elastic or Splunk, it’s Splunk and those open source components that we see over and over within our customers. When it comes to our use cases, what I’ve seen in virtually every account I’ve been into is Splunk remains the preferred source. There is no-one else that has the integration, the performance, the scalability, the ease of use, the flexibility with the scheme at read that we provide. 
+I just hosted three customers in past four days that are all large, large brand name customers and that was echoed again, just like I’ve heard for my two plus years here. So, I think our continued focus is to maintain vigilance on adding our capacity in the field, turning on partners so that we get coverage across the industry and continue to innovate on our core platform and in the solutions area ,so that customers get very rapid time to value and can experience the flexibility of the underlying platform as they turn on any solutions.
+
+My take
+Wall Street didn’t look kindly on Splunk’s numbers last week, sending the share price down 6%. That was a decidedly short-term reaction to the more cautious revenue outlook from the firm, in part due to its transition off of on premise sales and into the cloud. Cloud revenues are ahead of expectations at the moment, but that revenue isn’t recorded under the traditional licences line, contributing to that figure’s decline. Splunk remains a strong long-term prospect for success. 
+Image credit - CiscoRead more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stack 

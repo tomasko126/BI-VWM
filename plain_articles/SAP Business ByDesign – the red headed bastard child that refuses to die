@@ -1,0 +1,33 @@
+
+SAP talks incessantly about S/4HANA and now C/4HANA but SAP Business ByDesign? Almost never. BYD (to use my acronym) remains the story that competitors like to use as a way to beat up SAP as the cloud solution into which SAP poured hundreds of millions of dollars and which has failed.
+Guess what? BYD lives and thrives among SAP customers who don’t want the federated S/4-C/4 solution set but do need an out of the box cloud answer. But yes – it remains a marketing disaster for which SAP should take full responsibility.
+Let me get this out of the way. I have long been a fan of BYD and make no apologies for that position. From the first time I saw what BYD has to offer and right up to today, I believe BYD is a solid competitor in complex manufacturing to sales for SMBs. Why?
+Back in 2007, my  then colleague Larry Dignan at ZDNet said:
+Business ByDesign is being touted by SAP as the most complete SaaS offering. Included in the software is financials, human resources management, executive management support, project and supply chain management, customer and supplier relationship management, business analytics and compliance management.
+That remains true today. In presentations Rainer Zinow who has doggedly led the BYD effort routinely refers to my 2014 story where I said:
+Business ByDesign, the red headed bastard child of former exec Peter Zencke’s imagination which, by any measure, has been a disaster.
+[Frank] Scavo notes that the language used by CEO Bill McDermott is ambiguous but leads to the conclusion that ByDesign is no longer part of SAP’s core strategy. He says (quoting McDermott and then adding color):
+ByDesign is still part of our product portfolio and we now have ByDesign on SAP HANA, which is absolutely a game changer because everything is faster and better on HANA as you know. [Emphasis mine.]
+McDermott is a careful speaker, and his use of the word “still” is revealing. He wouldn’t dream of saying, “The Business Suite is still part of our product portfolio,” or “SAP HANA is perfect>lt is part of our product portfolio.” The word “still,” therefore, indicates that ByDesign is not part of SAP’s core strategy.
+So what’s new and why should anyone care?
+BYD was always positioned as an and to end solution and remains so today. It is ‘SAP in a box.’ Is that true? No. But maybe yes depending on your level of operational complexity.
+I was always of the view that SAP’s global engineering resource is such that whether you’re talking Belgian payroll or Chinese partnering BYD  would likely have your back. That remains true today although SAP is clear that localization beyond the 20 core countries it directly supports is largely in the hands of specialist partners. To that extent, Zinow says that much of the engineering resource has been devoted to making localizations as easy as possible for either SIs or departments within large engineering groups inside customers. That effort takes SAP into 150 countries and GDPR compliant. Impressed? You should be in an SMB ERP shoot out.
+Zinow shared these facts in a recent call:
+
+Those may not be the most outstanding cloud facts you’ll see any time soon. But, when you consider this has been achieved with near zero marketing spend then I have to wonder what lessons the larger SAP could learn from Zinow’s effort.
+Right now,  the answer seems ‘bugger all’ since SAP internal metrics fail to recognize anything that doesn’t generate a revenue multiple north of €100 million. There are plenty of cloud companies that would die for that number but then we’re talking SAP.
+On my most recent call with Zinow,  I wanted to better understand both the product direction and acceptance in the market. To those points, Zinow provided several useful proof points.
+As a global software brand, SAP/BYD gets into large scale companies to at least start the storytelling. That’s an important advantage. But the companies it reaches are far more pragmatic and business outcome focused than the CXOs with which SAP normally deals.
+Most of my customers don’t have dedicated IT resource which you need for the federated S/4 solution story. ByDesign is a good fit there and we are seeing that in increasing numbers.
+To the SAP lead marketing question: “What does the intelligent enterprise mean to you?” BYD customers routinely respond: “Do you think we’re not intelligent?” Put another way, BYD customers want answers to business questions, not responses to marketing bullshit or academic posturing. That keeps BYD focused on delivering practical solutions. Positioned that way, Zinow offered examples of the kinds of thing that SAP is building in 2019:
+Here  is the BYD advanced technology slide:
+
+On its face, this is a direct play to the company’s shiny new object story but it is on the ground where we learn what matters.
+In one IoT related example we discussed, Zinow cited a German winery uses RFID tag data around the provenance of wines that are reflected in data customers can access at the bottle level. In a blockchain related example of organic tea, customers who care about these issues get the full process history via a blockchain. In a process efficiency example, Zinow talked about collecting user clickstream data to provide optional user-level typeahead capability.
+What you should be hearing here is that in BYD and advanced tech, this group is working directly with user requests rather than flying blue sky marketing concepts.
+My take
+The missing links in all of this are the direct customer stories. While Zinow’s narrative is compelling, I want to hear those customers speak for themselves. To that end, Zinow and I are working on getting those stories together. Watch this space? Dang right! I still think that BYD is a great cloud solution but it is only the customers who can validate that assertion.
+In other questions – when will SAP put its marketing oomph behind BYD? My hope is it comes in 2019 – but I might have to hold my breath.
+And yes – I am still a believer.
+Endnote – you might ask why I listen to Zinow – simple: he is one of the most BS free SAP people I’ve known over the 25+ years during which I have worked alongside SAP. And he delivers 90% of his projects.
+Image credit - via SAPDisclosure - SAP is a premier partner at the time of writingRead more on: Cloud ERP financials and supply chain 

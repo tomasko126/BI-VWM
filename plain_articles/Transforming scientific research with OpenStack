@@ -1,0 +1,38 @@
+
+A cloud-based approach is often heralded as the natural way forward when it comes to improving agility. And whilst many traditional enterprises have turned to the technology, other types of organizations are seeing the benefits too.
+The Naturalis Biodiversity Center, based in Leiden, Netherlands, is one of the largest centres in the world for the study of biological and geographical diversity.
+The organization, in common with many institutions, had a problem. Over the years, it had amassed a collection of some 42 million objects that needed to be catalogued.
+Naturalis had already started a process of digitisation, but it was a slow process – its underlying infrastructure buckling under the task.
+But there was another issue too – another one that is prevalent in other organisations – a clash between different departments with differing needs. The question became how to balance the need to experiment, with the desire for collaboration, and the requirement to stay secure.
+Naturalis had a small IT team facilitating the needs of the researchers, but the organization was struggling. David Heijkamp, IT project manager at Naturalis, said:
+We tried to serve everyone with Dell desktops and Microsoft Windows. This was a real problem for the researchers who wanted to experiment with advanced techniques for their analysis. They wanted to install R or specific scripts to run their analysis.
+The researchers however hit a bottleneck when it came to running on the existing infrastructure. Heijkamp added:
+We tried to serve everyone but if we gave them all admin rights that would cause a major problem.
+Cloud considerations
+The immediate solution was to separate the core processes from the research system. The decision was taken to migrate to Google Apps for the more generic office tasks and look for a better option for the researchers.
+After a number of considerations, Heijkamp turned to cloud as the best option. It wasn’t the first choice, the organisation initially looked at implementing a number of powerful workstations but that idea was rejected. As Heijkamp explains:
+Cloud was an interesting development for us, especially IaaS, as that made it easy for us to facilitate a system that gave researchers more freedom.
+Having decided to go down the cloud route, Naturalis had to look at how it should be implemented, whether this meant a public provider or a private cloud setup.
+Heijkamp says that it was an easy decision to make.
+We focused very quickly on private cloud –because of cost and the ability to get what we needed. We evaluated a couple of open source solutions, having already decided on open source as a strategy.
+He says that there were three main options: OpenStack was one – Apache CloudStack was another, while OpenNebula was a third. Eventually, the organisation plumped for OpenStack, thanks to its ecosystem. Heijkamp said:
+One of the main things was the critical mass – it was pretty clear that with so many of the developers were working on the platform and it was obviously going to be big.”
+Because we were running several VMware ESX clusters, two separate IP infrastructures had to be merged.
+The Center adopted the help of OpenStack specialist Mirantis to effect the transformation and the organization now has a totally different look. The entire IT infrastructure has been moved to OpenStack, so it’s being used for web development and high performance computing.
+In the meantime, Google Apps is being used for generic office work, with some specialized applications being moved to SaaS.  What this means is that there’s a powerful computing facility in place to handle the heavy-duty scientific research and biodiversity web services, not encumbered by more mundane requirements.
+The migration has now been completed and the Center’s researchers are reaping the benefits. The new OpenStack-based system allows them complete calculations in a matter of hours, using the old system these could take days. And moving to cloud has given the organization more computing resources for intensive applications
+This has meant that the Naturalis scientists are being given a much freer hand. Researchers have the freedom and control to quickly scale, return, and rebuild resources as needed. The system now offers the opportunity for scientists to use additional OpenStack tools to aid their explorations into species diversity, as well as allowing them to self-provision servers without recourse to the IT department.
+Progressing with digital
+As for the cataloguing, that’s now proceeding apace. The Center holds one of the largest five collections in the world. Heijkamp said:
+We already started digitising our collection; there are 40 million specimens in all and have digitised seven million of them.
+That, however, created another set of problems. He added:
+We looked at storing the data at the Center but that wasn’t possible initially and it was decided to store the raw data in our other institute at Hilversum. Back then we weren’t able to store the 400TB of data. With the current OpenStack/Ceph based infrastructure we are. And indeed, we’re looking into moving all the raw data back to our infrastructure.
+This was an industrial sized undertaking, says Heijkamp.
+Imagine a big storage space with production lines like a car factory, digitising 3000 pictures every day.
+Given those sort of numbers, you can see why this has become a major project. But the other complicating factor is a large-scale redevelopment project. This will expand the options for the Center. Heijkamp said:
+Because our private cloud is now housed in an external datacenter, we’re able to scale and attract external partners to host their biodiversity web services on our infrastructure. Such examples are Observation, Catalogue of Life and xeno canto.”
+Starting from this month (November), we’re building a new museum and will be closed for two years. We want to move all the images to our OpenStack system eventually and expand the whole idea of open source.
+As part of these plans, the Center is looking to open a modern museum consisting of nine exhibitions about different aspects of natural history and biodiversity. OpenStack will be supporting the backend and management service. Heijkamp added:
+The new museum is relevant because of the way we will manage the IT part: OpenStack / cloud and open source have brought a cultural change. As a result of this change we’re looking to build the museum on open source technology.
+What the Naturalis Biodiversity Center project demonstrates is that giving IT into the hands of the users, creates more opportunities. The IT staff have not tried to impose from above but have given the chance for scientists to self-provision and, as a result, work much more effectively.
+Image credit - Modern interior of server room in datacenter © Oleksiy Mark - Fotolia.comRead more on: Cloud platforms - infrastructure and architectureInfrastructureOpen source 

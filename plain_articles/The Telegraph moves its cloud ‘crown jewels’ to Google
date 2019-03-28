@@ -1,0 +1,38 @@
+
+British daily newspaper The Telegraph has long been an early adopter of cloud technology, being one of the first enterprise adopters of Google G Suite for email and collaboration as early as 2008, and an early adopter of Amazon Web Services (AWS) for infrastructure. Today it reveals that it’s moving its core infrastructure to Google, in a significant coup for the vendor’s cloud division.
+Chris Taylor, CIO at The Telegraph, explains that the move is prompted by the investment Google Cloud Platform has made in catching up to the market leaders in public cloud infrastructure:
+It’s fascinating to see Google as almost a fast follower in this regards.
+They’re keen to build their Google Cloud Platform [customer] base, their technology we felt was by small degrees a little better for our purposes — and the commercials were better because they’re hungrier.
+Enterprise-grade cloud
+Google has made big strides in its cloud offering in recent years, signaling its commitment to the enterprise market by appointing industry heavyweights to leadership of the cloud division — former VMware chief Diane Greene took over in late 2015, and has now passed the reins over to Thomas Kurian, previously a longstanding member of Oracle’s leadership team. Speaking to diginomica earlier this week, Taylor told me he believes the strategy is tangible throughout the organization:
+It’s not just about the people at the top of the organization. When you deal with Google Cloud Platform in general, you come across people with a lot of enterprise-grade tech experience now.
+That marks a shift from the early days of G Suite — then known as Google Apps — when Google was still more focused on building up the consumer and developer aspects of its business. Running a SaaS offering like G Suite is not as demanding as delivering an enterprise-grade IaaS service at scale, says Taylor, who detects a new level of commitment from the vendor:
+This is a new departure for Google, both the services and the nature of the ways they are engaging with business.
+With Google Apps it used to feel like a second order priority. We feel comfortable moving the crown jewels now because the Google Cloud Platform feels very much like a first order priority.
+An early cloud adopter
+The move is in line with The Telegraph’s strategy of being an early adopter, Taylor maintains:
+It served the Telegraph well to be an early adopter in the tech space. That early friendship leads to longstanding better relationships.
+As a ‘fast follower’, Google is able to learn from the experiences of others who came first and can therefore provide a superior product for cloud veterans like The Telegraph, he argues.
+The Telegraph was a super early mover in cloud computing. When you think of some of the incumbents, a lot of their strategy is around people moving to the cloud for the first time. If you were an early adopter I think you have different priorities …
+It’s a question of where are those service strengths [and what are] your needs.
+[For example] Google Cloud Platform is able to do security patching without any requirement for any downtime. It’s slightly unclear whether that is the case with any of the longstanding service providers.
+The guy who comes second is able to weed out some of those constraints.
+Having said that, The Telegraph will maintain its “very healthy relationship” with Amazon too, he adds:
+They know all about this transition, we continue to work with them … We just recently completed some innovation projects together and remain very open to their products and services in the cloud tech space as well.
+In part, the decision is a consolidation of the infrastructure alongside existing Google services that are already in use. As well as G Suite, The Telegraph has been using AI services from Google for the past two years, its ad system runs on Google technology and it has its date lake on Google BigQuery. Taylor explains:
+We try and strike a balance. As a publisher, our relationships are deep and varied but we don’t want a fragmented ecosystem here …
+One of my principles is to have fewer, better and deeper partnerships.
+Using machine learning
+Google machine learning is used in several aspects of operations at The Telegraph. In its printing and distribution systems, it is using machine learning to try and predict demand so that it can reduce the number of unsold copies left over from a daily print run of 600,000 newspapers.
+The main focus of machine learning efforts is in categorizing content so that subscribers can create a tailored feed of news and articles of interest to them. With a 160-year heritage, the publisher believes that providing an edited experience to readers is a major part of its differentiation, so the role of machine learning is to support and augment editorial decisions rather than replace them. This means that the decisions on classification are always made by a human, says Taylor:
+Cognizant that the real value is in the editorial exercise, our journalists do classify content at the point of publication. We use AI and ML to assist them in that process. We therefore suggest classification to the journalist and it’s up to the journalist to accept them or not and to add their own.
+Where we have focused the newsroom’s AI and ML is on trying to find ways and tools that makes the production aspect of the journalist’s job as simple as possible.
+We want to minimize the time people spend on production so they can maximize the time they spend on journalism.
+We draw the line on taking control away from journalists.
+The Telegraph uses a mix of its own custom algorithms built on TensorFlow alongside Google’s AutoML service. Taylor says:
+We have resisted trying to do everything in an ultra-custom manner from the start. The approach we’ve taken is, use those [tools] and reform and refine.
+Nevertheless, the interplay between journalists and the machine learning system means that, over time, the publisher is building its own knowledge graph of content topics. That’s important, for example, in localizing the machine learning model, which is getting most of its input from the US market. That means some content isn’t interpreted in ways that make sense to a UK readership, as Taylor explains with typical Brit understatement:
+With celebrities, the understanding isn’t always what you would want in a UK-centric publication.
+My take
+As the number three in the market when it comes to public cloud infrastructure, it’s up to Google to prove itself. This is strong testimony from a veteran cloud adopter that Google is getting its act together and catching up fast with its cloud proposition to enterprise customers.
+Image credit - Screenshot of today's The Telegraph home page at telegraph.co.ukRead more on: Cloud platforms - infrastructure and architectureMachine intelligence and AIUse cases 

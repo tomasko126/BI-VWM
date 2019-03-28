@@ -1,0 +1,61 @@
+
+In January, Uber announced Movement – a “website that uses Uber’s data to help urban planners make informed decisions about our cities.” This service uses data “that is anonymized and aggregated into the same types of geographic zones that transportation planners use to evaluate which parts of cities need expanded infrastructure.”
+Movement’s data comes from Uber’s GPS check-in function, which occurs in the background during the millions of Uber trips taken every day around the world. Each one of those trips gives Uber valuable traffic data, showing travel times not just for the entire ride, but for smaller segments within the total trip.
+Currently, the focus is on different visualization of traffic-related data for a select audience but it might be made available to the public in the future.
+As I was reading about this new platform, I recalled SAP’s Digital Consumer Insight (DCI) product and thought about the various similarities – both applications use productive data from a specific industry and present the information via visualizations.  There were some differences, however, Uber presented the information itself without an intermediary. DCI, however, used information from Telcos rather than these companies providing the information themselves.
+The Earth Observation Analysis service (in collaboration with European Space Agency (ESA)) announced at last year’s TechEd Barcelona was another example of such activities.
+The DCI and the ESA geospatial data offerings have a similar pattern – the DCI data originates in telecom companies while the geospatial data originates from ESA but SAP massages the data and then makes it available for consumption.   DCI and the Earth Observation Analysis service represent different facets of Data-as-a-Service offerings: End-user visualization of data vs. API-based access to data for developers.
+Fellow Diginomica blogger Martin Banks recently blogged about SAP’s IoT-related efforts and finished with this statement:
+The next step here, it seems to me, is for SAP to `big up’ whatever data science expertise it has resident in the company – and there is bound to be a good deal. Pulling together analytical technologies with data sources, and then overlaying data science expertise, and placing it all under an umbrella brand name, as with Leondardo, marks the start of what might be termed Applied Data Science as a Service. If this can short cut the road to DIY innovation for business managers the impact could be significant.
+Were DCI and the Earth Observation Analysis isolated activities or was their some coordinated strategy in place at SAP as suggested by Banks?
+SAP’s Digital Consumer Insight and beyond
+I recalled that ex-CIO Helen Arnold had been tasked with working in this area early last year but my preliminary searches failed to track down any details.
+As I often do, I started to examine SAP’s job offerings.  I immediately found my first position -“Solution Architect (f/m) – Data as a Service Job” – that provided more information:
+The DATA as a service business is an Executive Board-initiated startup unit with the vision of creating the world’s most trusted and most relevant end-to-end platform for actionable enterprise data services. We combine data engineering excellence with thought leadership and entrepreneurial spirit.
+The fact that this business unit was run as a start-up reminded me of how Jonathan Becher’s Digital team was being run but this initial paragraph provided little of interest.
+Other aspects of the job offering (for example, the expected responsibilities) were more intriguing:
+
+You as the thought solution leader in our newly initiated Data as a service unit are primarily responsible for delivering strategic internal and external projects to establish the newly founded unit in the market.
+You deliver and manage solutions: Deliver customers data monetization programs on the SAP platform. Bring back the learnings to develop re-useable components as future features of the platform
+
+The final item is the one that I found the most curious.  The focus on “customer data” meant that we were talking about data that originated from customers rather than SAP.  “[D]ata monetization programs” represented the desire to sell this data to others.  “[O]n the SAP platform” meant that we were talking about more than just project work – we were discussing a much broader approach that included multiple layers. It was a platform – probably based on SAP’s Cloud Platform.
+Note: SAP has used a similar approach (start-up, etc) regarding Data as a service offerings before. Last year, a company called “One IoT” emerged with the goal of providing utilities-related data:  “SAP One IoT is helping utility companies reduce heavy, excess power production costs. Providing utilities access to sensor data owned by other players who are part of the energy grid, allows them to optimize data driven decisions and lower costs.” In the meantime, the company and its website have disappeared but it reminded me of Bank’s IOT-related comment mentioned above.
+SAP’s Business Data Network “startup” – the next move for data as a service?
+Irritated that there were no more Data as a Service job offerings at SAP, I expanded my search to include “Data Scientist” thinking that I might get lucky. There were a variety of hits and I paged quickly through them until I found one offer in Palo Alto that I almost skipped, but the initial paragraph seemed very familiar:
+The SAP Business Data Network is an Executive Board-initiated startup unit with the vision of creating the world’s most trusted and most relevant end-to-end platform for actionable enterprise data services.
+It was almost the same description as the job from Waldorf, but now we had a new name “Business Data Network (BDN).
+The role description for this other offering had various touch points with Bank’s analysis:
+
+experience with machine learning
+practical knowledge of working with scalable platforms for processing of huge data sets and
+ability to understand the data, associated processes and business implications,
+
+The most important part, however, was the description of the position’s expected responsibilities:
+Your primary responsibility will be to implement breakthrough algorithms and to develop new approaches and technologies for deriving value from our customers’ data.
+“You are primary responsible for the following deliverables”
+
+Define and implement the visualization framework for SAP Data Business products and services
+Create Data Products for commercial use , test and launch to production
+Implement necessary methods and tools to identify data problems before they become visible to the end-user / customer
+Evaluate new visualization technologies and methods to constantly improve the offering
+
+A new job search yielded a BDN marketing position. The position has been filed and is no longer available on SAP’s career site, but I found an archived version in the United Arab Emirates LinkedIn:
+Therefore SAP’s next endeavor is to monetize these assets and build a smart data business that will turn insights into revenue. Just as data is changing the way our customers think about the world and their businesses, we need to change the way we think about engaging with our customers to help them be even more successful.
+These were all clues that there was some fundamental strategy behind these activities but I was missing the big picture.  Digging through various tweets originating from presentations from Helen Arnold, I finally found a tweet from September 2016 that provided the missing piece of the puzzle:
+
+There are various aspects of this slide that are interesting.  For example, SAP “data sources” contains the icons for SAP, Altiscale, Success Factors, FieldGlass and Concur.  I’d already found indications that were possibilities of BDN/SuccessFactors cooperation regarding HR data but the other SAP companies were new to me.  Many of the other topics present in the slide –  “Visualization”, “Commercialization”, etc. were also evident in job offers mentioned above.
+Note: Before you start suggesting that this is old data, job offerings for the BDN are still present (for example, Berlin: 03-2017)
+My take
+A recent interview with Arnold provides a very broad description of the possibilities in this area:
+Today, innovations comprising data and their intelligent utilisation are a decisive competitive factor – practically the key element on the path to digital transformation. The consequence: companies of all kinds and sizes are asking themselves the question of how they can use the available data to generate added value in the form of new business models, efficiency improvements and innovations. Fundamentally, it is therefore about supporting our customers in implementing their data strategy and developing new data-driven business models with comprehensive solutions and implementation strategies.
+BDN provides SAP a variety of opportunities beyond the pure commercialization of data – it can also provide consulting efforts to customers in two associated areas.
+
+It can help customers prepare their data for commercialization via the BDN. Typical questions in such efforts: What data can be monetized? How do you sell it? How do I deal with the legal aspects of providing my data to others?
+It can also support customers in using BDN-based data to augment existing processes. For example, retail activities (via Hybris) that permit the creation of marketing campaigns with data from other services – for example, from SAP Vehicle Network . Or regarding HR decisions as described in a recent diginomica blog from Phil Wainewright:  “If we’re just looking at the HR data, it’s not enough to drive effective recommendations and insights. You have to incorporate broader sets.”
+
+These three areas were also depicted in  Arnold’s presentation last year:
+
+Underlying such activities is an understanding of the importance of exploiting this data.   This realization has been made by many companies including SAP and Uber.   One important difference between SAP and Uber is that Uber is sharing their data while much of SAP’s data looks like it will be commercially available:
+As Uber drivers move through a city, they’re constantly collecting information,” project manager Jordan Gilbertson told The Verge. “We’re generating this data, and it’s super valuable to people. There’s no reason not to share it.
+SAP has a wide variety of customers including many government agencies which could provide their data free to the public as part of their charter (one example of such activities is Data.gov which provides a plethora of APIs with data originating from federal and local sources). Perhaps with SAP’s assistance, companies could provide a mixture of free and paid data that could benefit a wider audience than just companies interested in improving their processes.
+Image credit - Feature image - Curious school boy with magnifier © adam121 - Fotolia.com. Screen shots from Twitter are linked to original tweets.Disclosure - SAP is a diginomica premier partner.Read more on: CRM and customer experienceInternet of ThingsIoT robotics and AI 

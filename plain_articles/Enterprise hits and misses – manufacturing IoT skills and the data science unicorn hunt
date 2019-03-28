@@ -1,0 +1,58 @@
+
+diginomica hit: Manufacturing and IoT – skills needs and front line views, by Stuart
+quotage: “There are not going to be enough data scientists coming out of university to meet the needs that we will all have. There is going to be an expectation from customers that your products are going to be connectable. Whether you use the data or not is probably immaterial, but there’s going to be an expectation that your product is connectable and that someone can get data off of it if necessary.” Glenn Baker, Deere and Company
+
+myPOV: Stuart laid out a three-parter on IoT and the future of manufacturing this week. It’s a breezy series with meaty undertones, if you will:
+Manufacturing firms – the rock stars of the IoT? – Silicon Valley might think they are the IoT rock stars, but the manufacturing sector begs to differ. It’s their machines, after all, that are sucking up digital and IoT tech. I’ll buy that…
+IoT and manufacturing – where the skills are and aren’t – Does a shortage of data science skills ring a bell? But this problem of turning data into knowledge has a difficult skills history…
+The IoT – top tips from the manufacturing front line – Theme: the potential for IoT to change/expand business models, beefing up predictive elements, add-on services, data platforms. But – no easy feat.
+diginomica five: my top five on diginomica this week.
+
+Use cases, Jessica Twentyman style – Jess turned in two customer profiles this week, Forecast for new Met Office mobile app is cloudy, with a chance of updates (an agile development story) and Keeping a watchful eye on TV transformation at Ericsson Broadcast and Media Services. (CTO Steve Plunkett on the Netflix effect, and the tricky balance of Internet distribution vs TV broadcasts).
+Six factors that crimp Tesla’s ability to match success with pristine delivery– Den combines nuance and listicle – don’t try this at home, folks! Interesting question re: whether Tesla’s internally-built ERP system can scale.
+The new race to be the world’s 5 computing powers – Phil handicaps the race based on two criteria: those vendors with public cloud scale, and deep AI talent. I won’t spoil the reveal, check the list(icle) for yourself.
+Engineering talent change – “A total rewrite” of the talent management approach? Yes, that’s what happened following the acquisition of Foster Wheeler by Amec in November 2014, meaning a massive global workforce across 55 countries. Janine has the story of this Cornerstone OnDemand migration.
+
+Vendor analysis, diginomica style. Here’s my top choices from our vendor coverage:
+
+SAP pre-announces revenue miss for Q1 FY2016, maintains full year guidance – an analysis – Den with an early take on the numbers behind the news, with context on SAP’s high stakes cloud and S/4HANA pursuits.
+Envisioning a new type of Microsoft conference, but it’s not here yet – Microsoft’s been in heavy re-invention mode lately, so why not shake up the conference lineup with a new event geared towards business leaders? Stuart’s got mixed reviews. And no, Tay didn’t make an appearance…
+Infor’s cloud evolution continues – big enhancements in financials – Brian weighs in on Infor’s Innovation Summit analyst event, where one of the most aggressive re-inventions in enterprise software is taking place. That’s the pros/cons of a “massive” install base across diverse/older products.
+
+A couple more vendor picks, without my snarky bits:
+
+Coral’s head of BI places bets on Oracle to modernise data use – use case from Derek
+Salesforce native Apttus ports its apps to Azure – Phil
+Unit4 embraces its cloud destiny with latest release – Phil
+
+Jon’s grab bag – Is the digital ad market headed for an epic shakeup? (It sure as hell better be, ad tech UX blows!) Den riffs on Brave, an upstart web browser that has publishers in legal freak out mode (Braving the wrath of big media – how ads get massively disrupted, along with most digital media).
+Did you know nearly half of all supply chain organizations are still reliant on phones, emails… and fax machines? Stuart’s got some grim findings via a Capgemini and GT Nexus study on digital transformation in the supply chain. Silver lining: 70 percent of supply chain orgs have at least begun a digital supply chain program (Jam tomorrow for supply chain digital transformation). Oh, and Facebook Live isn’t just for life-streaming celebrities. Den’s got your brand guide in Five brand manager ideas for Facebook Live (plus you can see his test run, and kick tires on his home office video rig).
+Best of the rest
+Doing Data Science Right — Your Most Common Questions Answered – by Jeremy Stanley and Daniel Tunkelang
+quotage: “Building a data science team is hard and expensive. If you can get away with outsourcing your data science needs, then you probably should. One option is to make judicious use of consultants. A better one is to use an off-the-shelf solution for your domain that uses APIs to ingest data, build models, automate actions, and report on key analytics.” Doing Data Science Right
+myPOV: With Stuart’s pieces highlighting the data science skills shortage, seems right that the pick of the week should be a constructive attempt to close that gap. The biggest surprise was the above quotage, advocating the use of consultants over building up an internal team. I’m not on the same page – depends on the company’s locale and ease of recruiting, but if consultants are needed, I’d want to see some type of knowledge transfer in place rather than a long term dependency. I don’t see how you’d want to continually outsource your predictive capital.
+This piece has a useful review of different data science team structures, and a sober view of the tradeoffs, from centralized data science teams to fully integrated/embedded teams. Perhaps the best news: we’re far enough along to get field views on different models which we can then adapt/try/fail/rework/evolve.
+Other standouts
+
+Oracle and Microsoft event analysis – HCM, Hololens, and the future of work – Holger Mueller flexed his frequent flyer dexterity with video reports from two HR shows, Oracle HCM World and Microsoft Envision. Well, technically Envision isn’t HR-focused, but Mueller riffed on the Hololens in Musings – Will Microsoft Hololens Transform the Future of Work? (With some video inputs from Constellation colleague Alan Lepofsky). Hmm, sounds like a good question for Tay, Holger!
+Building Outside-In Processes – Lora Cecere gets bonus points for cooking up this blog post idea while playing at the children’s museum with her grandson (now THAT sounds like the future of work!). The tie-ins are direct: Cecere wants companies to redo their supply chains with building blocks, with an outside-in, NOT an inside-out methodology. “The design needs to be from the customer’s customer to the supplier’s supplier.” Oh, and ERP isn’t one of the building blocks, either. That should pare down some of Cecere’s conference invites this season…
+
+Honorable mention
+Beyond Blockchain: Simple Scalable Cryptocurrencies – Maybe the blockchain never hits the mainstream, but it’s pretty darn cool to read about. Plus it gives you the hipster futurist card to play at your next soirée.
+Ariba, Infor, and the Business Network Challenge: Quantum Physics, Big Transformations and Big Barriers – A rosy view of business networks but an interesting post nonetheless.
+Open data and the API economy: when it makes sense to give away data – Developers can now sign up for 165 years of API-accessed article data from the New York Times. Bring on the business model and data pricing/security questions.
+Securing the Internet of Vulnerable Things – Hmm, sensing a theme here? Here’s your IoT security primer, from audits to product certifications to personal encryption tips.
+It’s a Tesla – Bland title, yes, but thoughtful article on Tesla’s business model versus Apple’s, GM’s and so on.
+The $15 Minimum Wage Wins Where Silicon Valley Fails Hard – A pot that needs stirring, even though I don’t know that the wagefloor is as vital as a complete – and currently non-existent – revamp of our entire educational system.
+Whiffs
+So… Netflix raised their prices (a tad, but still). So does that constitute a self-whiff? Well, yeah. Last week, I said: “It’s not the time to drive up profits with plenty of deep-pocketed competitors on the move.” On second thought…
+But lo and behold, turns out Netflix subscribers like Netflix’s Original Content More Than Its Other Content. Reddit comments included: “Because the other content is documentaries, second-run tv shows, and barrel-scraping movies.” And: “That’s because Netflix keeps removing the shows we want to watch and leaves us only with their shows.” I rest my petulant case.
+I’m not going to spend much time piling on Forbes today (Forbes Site, After Begging You To Turn Off Adblocker, Serves Up A Steaming Pile Of Malware ‘Ads’). But if you’re in the mood for some ad tech on the barbie, watch diginomica Tuesday.
+Finally, I think David Linthicum is a smart cloud dude. He’s one of the better “brevity bloggers.” But in  Machine learning is a poor fit for most businesses, Linthicum writes: “Vendors pushing machine learning cloud services say it’s a good fit for many applications that shouldn’t use it at all.” OK, so which apps? Linthicum doesn’t say. Just some bromide about how hammers make everything look like a nail. Fighting vendor hype is a good idea. Fighting vendor hype with actual specifics is ten times better.
+Back in the print days, you could blame the layout designer for excessive brevity. Now there is no one to blame but, well, you.
+
+I could say “I want my click back,” but that’s petty and childish. How ’bout we settle for: “do better next time.” See you next week…
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Update, 4/12/2016 am – updated for reading clarity, no opinions taken out except a redundant cheap shot at FirstRound.com I have already taken. Brevity graphic added.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, Infor, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and missesInternet of Things 

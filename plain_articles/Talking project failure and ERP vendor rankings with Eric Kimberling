@@ -1,0 +1,66 @@
+
+I’ve been wanting to talk to Eric Kimberling of Panorama Consulting about ERP project failure for a while now. Things blew up this fall; I was at an event where a vendor cited his company’s research on ERP failure rates. I felt their interpretation of Panorama’s data was overstated.
+Turns out Kimberling wanted to talk to me also, about his company Panorama’s latest report, Panorama’s 2017 Top 10 ERP Systems Rankings Report (free with registration). I’m not a fan of rankings, quadrants or any other trending shapes. I find them to be gimmicky – so I knew Kimberling and I would have a memorable conversation. Let’s talk about Panorama’s new report first, then I’ll revisit ERP project failures.
+Top ten ERP vendor rankings – inside Panorama’s methodology
+Panorama’s top ten ERP systems ranking were compiled based on data from Panorama’s annual benchmark surveys between September 2012 and February 2016. A total of 1,660 respondents completed the surveys, all of whom are ERP customers and Panorama clients (more than one respondent per client could fill out the survey).
+I questioned Kimberling on whether these rankings are helpful given so much of ERP fit is based on industry fit, deployment preferences, etc. Anyhow, Panorama narrowed the finalists to ten based on market share. The top ten rankings were then determined by compiling four scores:
+
+Functionality Score (five point scale)
+Payback Period (months)
+Implementation Cost (as a percentage of revenues)
+Implementation Time
+
+I’m not going to dig into each vendor and how they were scored – you can check the report for that. I find the attempt to rank ERP vendors in this manner too subjective to dwell on here. However, I do think implementation cost as a percentage of revenue is an intriguing statistic to watch. That could be revealing to check back on year-to-year in further editions.
+Another problematic/interesting issue: the role of HR and CRM. Kimberling says that HR and CRM were included in the functionality rankings if the customer was using that vendor’s HR and/or CRM solution. Otherwise they didn’t factor in.
+Here’s the top ten, ranked by Panorama:
+
+Epicor
+Infor
+SAP
+IFS
+Oracle
+NetSuite
+Microsoft
+Sage
+Syspro
+IQMS
+
+Analyzing ERP vendor ranking results
+From our chat:
+Jon Reed: “You have a bunch of heavyweights like SAP and Oracle, and then Epicor pops up number one. Was there anything that stood out to you there with Epicor?”
+Eric Kimberling: “Epicor didn’t knock it out of the park in any one or two categories. They just were the steadiest, and had a more consistent ranking with head-to-head. I think that’s what put them right at the top of the list.”
+I wasn’t crazy about some of the unusual spikes I saw in some vendor’s scores. For example, Kimberling acknowledged they are still trying to get the “implementation duration” grade normalized to the size of company, given that company size is a big factor in project duration.
+Kimberling’s take on ERP market maturity and how that benefits customers resonated:
+The big takeaway I have from this list is: there’s just a lot of good options out there for companies. It’s not your usual top ten list you might expect, where SAP is number one, and Oracle is number two. It’s pretty scrambled in that way, which just points to the fact that even large multi-national companies no longer only have to look at SAP and Oracle. Now they’ve got a number of options they can consider.
+I aired my beef about quadrants and rankings:
+Reed: “I’m not a huge fan of vendor rankings. I really can’t stand quadrants… It’s just it’s another way of looking at the issues – not the stone tablets. This is different than a sports league where we can attempt to rank based on shared strength of victory over common opponents. Whereas with this, it’s like, “Well, so-and-so is ranked number one,” but if they suck in your industry, or if another vendor has a vertical add-on that’s perfect for you, then it doesn’t really matter.”
+Kimberling: “I am 100 percent with you on that. It’s taken me three or four years to actually follow through on this concept. It drives me crazy too. I fully admit that this is another one of those generic, one-size-fits-all type rankings that maybe isn’t going to be accurate. I think it’s something that’s of interest to people that will at least get the conversation going. We wanted to make sure we’re 100 percent data driven so it’s not “Here’s what we think.” It is based on real data. It’s quantitative, objective stuff. At least we can look at that and see how they compare.”
+ERP project failure revisited
+The vendor event I attended cited a 2015 Panorama study that ERP failure rates are at a whopping 75 percent. Obviously a cloud vendor would prefer to show that “classic ERP,” usually on-premises, is prone to fail. But Panorama has never cited a failure rate that high in any of their ERP reports, which began in 2008.
+However, in a 2010 blog post, Kimberling did cite a 72 percent ERP failure rate, based on these criteria:
+“We consider an ERP implementation to be a failure if one or more of the following occurs”
+
+Takes longer to implement than expected
+Costs more than expected
+Fails to deliver at least half of the expected business benefits
+
+However, since then, Panorama has wisely backed off applying their own blanket term of “failure” based on these factors (we’ve all seen ERP projects that ran long, but ultimately paid off). A prompt go-live unto itself is no guarantee of anything, just ask Michael Doane.
+Now, in their annual ERP surveys, Panorama allows customers to self-define what “failure” means. This has resulted in self-reported “failure” numbers that seem to fluctuate in the 20 percent range, sometimes a bit lower. That’s nothing flattering to the ERP industry, but it’s a percentage that rings truer.
+Panorama tracks those numbers year of year. Check this from their 2016 Report on ERP Systems and Enterprise Software:
+
+Self-reported project failure rates in 2016 are down to seven percent from 21 percent in 2015. But as you can see from the above stats, all is not well on ERP projects. Those who viewed their ERP project outcome as “neutral” – another tepid endorsement – also rose from 21 percent to 36 percent in 2016.
+Panorama concluded:
+It all comes down to ROI. While fewer organizations consider their project a failure, more organizations are claiming that they “don’t know” how to classify their project’s outcome. They also report absolutely no recouped costs – which essentially equates to no ROI. Instead of calling this an ERP failure, organizations may find it easier to hide behind the euphemism of uncertainty.
+Panorama’s keys to achieving a better result include the obviously self-serving advice to “find a consultant with the right expertise.” (Panorama now provides such consultants). ERP project failure rarely boils down to one factor, but I preach the underrated importance of an independent advisor who can keep the prime vendor accountable.
+As for Panorama, they’ve always been spot-on about the dangers of an overly-technical focus. This from 2015:
+ERP implementations are plagued by technical, process and organizational issues – all or any of which can cause an operational disruption. According to Panorama’s research and experience, it is the process and organizational issues that pose the most risk. Technical issues do exist, and are likely responsible for short-term disruptions, but they are typically more quickly and more easily resolved than organizational issues.
+My take – research context and the potential of cloud ERP
+Most of the research in enterprise software is funded by interested parties. That means readers must always keep a critical eye towards self-serving results. That goes for editorial content also, which is why the disclosures we do on each post at diginomica are part of how a reader should assess our content.
+Back in 2010, Michael Krigsman, a fellow Enterprise Irregular, reviewed Panorama’s annual ERP report. He made a similar caution about Panorama’s research. However, Krigsman also found Panorama’s data on ERP project issues to be consistent with other sources. When it comes to Panorama’s annual ERP report, I find that to be true as well in 2016.
+However, with the top ten vendor report, I think it will take Panorama some years to establish a solid year-to-year view. During our talk, Kimberling said he intends to address industry nuances (“there’s a lot more we can do with it”).
+After countless customer use cases, I’ve become a staunch advocate for cloud ERP. Though the only SaaS-only ERP player in the top ten list is NetSuite, an intriguing data point stood out: NetSuite had the lowest implementation cost as percentage of revenue (2.8 percent), and the third-lowest payback period in months (8.7).
+Though the majority of respondents of the 2016 survey chose on-premise ERP software (57 percent), the increase in the use of cloud ERP jumped from 11 to 27 percent. More than half (56-percent) of respondents deploying cloud ERP reported implementation cost savings of at least 20 percent.
+Cost savings are just the beginning of the cloud ERP conversation. Kimberling and I got into detail on where cloud ERP is headed. That’s enough for now – I’ll dig into that in a future installment.
+Update, April 26, 2018: Kimberling is now with Third Stage Consulting, an independent ERP consulting firm he has recently founded. 
+ 
+Image credit - Feature image - Businessman shading eyes with his hand looking at falling diagram © gearstd.  Screen shot credited above.Disclosure - SAP, Oracle and NetSuite are diginomica premier partners.  Diginomica has no financial ties to Panorama consulting. Read more on: Cloud ERP financials and supply chainDigital skills and trainingThe new professional and IT as a service 

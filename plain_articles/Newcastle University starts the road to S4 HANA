@@ -1,0 +1,86 @@
+
+Andy Steer – CTO itelligence UK
+Last year I wrote about the proof of concept work undertaken at Newcastle University in partnership with itelligence for moving the university’s ERP to HANA. Since then, things have moved on and, bang on time, the system has gone live.
+Why does this matter given that SAP is pushing the S/4 HANA story so hard in briefings and reports?
+From the work I have done interviewing customers and SIs, the overwhelming sentiment, especially among SIs, is that customers should view Business Suite on HANA (BSoH) as a first step to an eventual migration to S/4. That is how Newcastle University is considering this project.
+The road to BSoH and S/4 HANA?
+via itelligence
+There are many reasons why this approach is being recommended but these are the most common ones I come across:
+
+Business Warehouse on HANA is a no brainer. It improves performance by an order of magnitude and is the first port of call for many SAP customers considering HANA as a replacement database. That is considered a relatively easy step that delivers obvious value.
+The S/4 HANA case is much harder to justify for those who are Business Suite (or the rump of R/3 customers) because it requires a full systems overhaul and, put bluntly, SAP customers are not minded to consider multi-year projects today when the business is seeking quick wins elsewhere.
+BSoH is more easily digestible because the work of replacing the database is not as challenging, even though there is a level of rework required to deliver success.
+BSoH provides opportunities to derive value beyond performance improvements, including the opportunity to improve UX via Fiori apps.
+Customers want to get experience with HANA running the Business Suite before evaluating the benefits of S/4.
+A BSoH and then S/4 HANA move is considered the least risky method of getting to S/4 HANA.
+
+The key message to SAP is that while S/4 is an option for some use cases today, for the vast majority, it is not right now. itelligence shared some numbers which put the topic in perspective:
+
+BW on HANA – 60 projects, 30+ live
+ERP on HANA – 100+ projects, 50+ live
+S/4 HANA – 55 projects, 11 live – none live in the UK…yet.
+
+Bear in mind that these are itelligence numbers and may not reflect the wider user community. itelligence is a medium sized vendor so while these numbers may seem modest, they provide insight into the trajectory customers are pursuing.
+On to the case study as outlined to me by Andy Steer, CTO itelligence UK and which forms the backbone of what he will shortly present to SAP UK & Ireland User Group.
+Project background
+First a bit of a recap. Here’s what sparked the project from my earlier story:
+What was behind the move to HANA?
+
+Hardware coming to end of life
+Degrading performance on critical reporting and data management
+Knock on effect impacting the ability to get things done
+A need for real time information in certain areas like clearing and confirmation for incoming students and the education equivalent of ‘capacity planning.’
+A desire to continue keeping current with SAP technology
+Potential to simplify the technology landscape as a pathway to reduced TCO
+
+What was done and where are they up to?
+
+Investing in SAP HANA is not trivial and represents a significant change in the landscape. As a first step Newcastle University embarked on a business case supported POC.
+The POC was designed to take selected data from their SAP QA systems and then assess based against the needs outlined above and required benefits.
+One 600,000 record data feed that took 40 minutes to transfer data to custom systems now runs in 11 seconds which removes bottlenecks.
+An emergent use case of smart card issuance means students will not have to wait for overnight batch processes to complete.
+
+Today’s outcome
+Moving on to what happened and how success was achieved. Steer sent me these notes in response to specific questions:
+Qu: Was the move to HANA particularly awkward
+A: No, some code optimization needed
+Qu: Did you use SAP HANA switch as an opportunity to simplify the systems in any way?
+A: Yes, some code refactoring, some BW housekeeping/remodelling, also some architecture rework for DR/HA reasons.
+Qu: Did you come in on time and on budget?
+A: Yes, mainly due to the university team having the time and space to execute
+Qu: If so then how?
+A: Great team client side
+Qu: How much hand holding did SAP provide?
+A: No handholding from SAP during migration. Only input from SAP was some guidance during the custom code assessment activities.
+On the question of custom code, the university was using an Student Lifecycle Management (SLcM) add on, itelligence’s template plus quite a bit of bespoke code.
+What about the cutover?
+We took the Oracle systems off the users at 12pm on the Friday, ran processes until 10PM ish, picked up at 8am on Saturday and had working HANA systems ready for testing ~ 4pm. So about 18 hours from productive Oracle to productive HANA.
+And final performance results?
+
+WebDynpro – 22x faster (22 secs to 1 sec)
+FI/CA Report – 489x faster (8:09 mins to 1 sec)
+Data Extract Feeds – 100x faster (18:24 mins to 11 secs)
+
+Success factors (sic)
+Marking up a project success is always good news and while the University of Newcastle may not be your typical SAP manufacturing customer, the fact remains they have a complex environment with bespoke needs. Apart from scope, that is no different than any other SAP customer.
+Many of the User Group reports of the last year or so have cast serious doubt upon the value that HANA delivers, even while there is a willingness to learn about what is possible.
+This case suggests otherwise but buyers should note the circumstances the client was facing and the needs it wished to meet. You can readily sum that up as: outdated hardware that would have to be replaced plus the need to introduce real time elements triggered a comprehensive business case.
+There was plenty of motivation combined with a hard deadline in order to be ready for the next academic year. These are non-SAP factors but demonstrate the need to have a scenario where the collective minds can be concentrated on the things that matter. This would be true in any project but in this case, I sense that the outcome puts to rest the value proposition problem AND the ability to execute.
+Advice to others
+Steer has specific words to say on this from an implementation standpoint:
+
+
+
+
+
+
+Talk to a partner with real world experience rather than be led by SAP headlines.
+Don’t just plan a technical migration, understand the benefits you can leverage (better analytics, Fiori UX, simplified architecture, etc)
+Do a Proof of Concept to illustrate the benefits (see above) and drive out the challenges (custom code etc).
+
+
+
+
+
+
+Image credit - graphics via itelligence, image captured from YouTubeDisclosure - SAP is a premier partner at time of writingRead more on: Cloud ERP financials and supply chainProfessional servicesUse cases 

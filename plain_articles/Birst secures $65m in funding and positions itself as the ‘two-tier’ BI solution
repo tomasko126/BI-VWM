@@ -1,0 +1,33 @@
+
+ 
+Hot on the heels of Jay Larson being appointed as Birst’s new CEO, in a bid to drive enterprise sales, the cloud-based BI company has just announced a further $65 million in funding, bringing the total amount raised to $156 million, since being founded in 2005.
+Larson replaced Brad Peters, who has since taken up the role of Chief Product Officer, in an attempt to firm up the company’s position in an increasingly competitive enterprise market. Unsurprisingly, Larson was enthusiastic about the funding round. He said:
+
+We’ve seen an explosion in data volumes, data sources, and end-user demand in the analytics market. Organizations need speed, end-user self-service and robust data governance from their next-generation business intelligence platform. That’s exactly what we deliver at Birst.
+Birst is the only company that provides a BI platform with the capability of the legacy providers with the speed and agility of desktop discovery products. Our unique two-tier data architecture provides a unified approach to BI, unifying enterprise data from across the company and delivering it to business users with the consistency and security that IT demands.
+So IT is happy with our approach. And business users benefit from world class analytical tools and company-wide data access that gives them the ability to self-serve without having to rely on IT to meet their BI needs. Business users love this freedom. Only Birst unifies enterprise data, brings together centralized and decentralized approaches to BI, and allows IT and the business to work together harmoniously. Birst is a breakthrough BI platform that changes the game in the BI industry.
+
+Ahead of the new round of funding being announced, I got the chance to sit down with Southard Jones, once an Oracle Siebel man, now Birst’s VP of product strategy, to explain how exactly Birst is going to differentiate itself from the other analytics players – because let’s face it, for buyers that have likely made big investments in on-premise systems, simply being ‘BI in the cloud’ isn’t enough to convince.
+However, Jones believes that Birst has a unique proposition in that he believes that there is a role for the tool in an enterprise that may have already invested in two or more other BI platforms. Whilst that may sound counter-intuitive – why would a CIO invest in BI when he/she already has BI tools? – Jones argues that Birst solves a different problem for the enterprise.
+And it’s this ‘two-tier’ messaging, which Larson hinted at in his statement, that Birst is selling into enterprise buyers. Jones said:
+
+It’s kind of an interesting market, if you think about it from a capital perspective, it’s a $16 billion market. The four leading market share providers have about 80% of the market – SAP, Oracle, IBM and Microsoft. So they have about 80% share, but they’re all losing share. Then there’s a lot of other people, the biggest of which is probably Tableau, and they still have less than 3% share.
+You’re in this weird market where, the solutions that come from the big guys, no one wants them anymore. They’re too slow, they cost too much to run, they’re not agile enough. They provide governance, but everybody wants more. Users want to access data, they want to do all this extra stuff. So this market is in this crazy state of disruption.
+
+However, whilst Jones comments that ‘nobody wants’ SAP or Oracle for BI anymore, he is also quick to recognise that people aren’t going to start ripping out their big, reliable, consistent BI systems either. Instead, these will serve a certain function in the enterprise, whilst other tools can play a role too. He said:
+
+But you can’t have one or the other, you’ve got to be able to do both. We call it two-tier. A business, especially large organisations, multi-billion dollar organisations, they need to be able to do both. They need the strong governance approach to BI and analytics (SAP or Oracle), but they need to be able to give users agility so that they can answer questions on their own. You need to be able to do both.
+In some cases you are going to keep your existing enterprise warehouse and you may keep some level of your existing BI, but that’s going to service your reporting. If you’re the CFO, you get fired if it is incorrect, so you are going to keep that. I might also add some users who want to go and do some discovery things, which you might use Qlik or Tableau for. But no-one is bringing them together. That’s what we are doing.
+We are that fabric that brings it all together. And we are the fabric that gives the end users, true business users, the ability to use BI. Versus just the finance team or just the analyst.
+
+And Jones doesn’t perceive this ‘business user BI’ market to be a small opportunity either, given, he argues,
+Brad Peters and Jay Larson
+that the majority of business users don’t currently have much access to operational data on the fly. He wants to put Birst in the hands of sales people, of the marketing department, of people in the field, so that they can make decisions as and when they need to. Jones said:
+
+If you have centralised IT, which turns out your general ledger, reporting the finance and books, the cost of error is really high. So it’s okay to go a little slower, you just have to get it right. Then you’ve got the folks out there in the business, who need to make a decision now, where 80% to 90% is good enough, it’s better than not having any data at all. You can use Tableau or Qlik to do some of that for data analysts, and the financial reporting guys can use Business Objects, but what about the other 90% of the company? That’s where Birst comes in.
+It’s the new challenges that companies are trying to solve with BI – the challenge of enabling my sales team to use data in the field to make smarter decisions, recommend the right product, to the right person at the right store, in the right locale. I would say that people use Birst much more for daily decisions, they make it part of their operational life. They don’t use it to go and find a needle in a haystack.
+
+My take
+A better, more consistent message from Birst. However, it’s still too soon to tell how Larson’s strategy will play out.
+
+Read more on: Analytics planning and data analysis 

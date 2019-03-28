@@ -1,0 +1,53 @@
+
+At Shop.org 2017, I caught up with Oracle NetSuite’s Andy Lloyd on the run-up to OpenWorld (see diginomica’s blowout OpenWorld coverage as the show unfolds). Lloyd, who is NetSuite’s GM of Commerce Products, got things off to a salty start with some AI satire:
+You walk around here – and it’s like I was joking with our marketing person – it doesn’t say AI or machine learning on our booth.
+Lloyd doubled down:
+AI seems to be what everyone has on their booth. When you go talk to these mid-sized retailers, some of the stuff they’re struggling with is just so much more fundamental than that.
+But it’s not a gloomy picture:
+The customers that we see that are doing the best job are really looking at the customer journey holistically, so across every different channel.
+Lloyd clarified: he’s not down on AI – in fact, NetSuite’s been adding predictive features that bear a resemblance to what other marketers celebrate as “AI.” It’s just that his customers are facing a more pressing problem. I call this problem faux personalization, and it goes far beyond wishful thinking email blasts.
+Beware the faux personalization of a legacy back office
+Faux personalization is what happens when your clunky/legacy back office gets exposed, leaving the promise of personalization hanging in a bog pit of mediocre logistics and substandard service, clogged by siloed data. Or, as we industry wonks might say, a “flawed customer experience.” That’s exactly what Lloyd and team are driven to address:
+The customers we talk to, they’re not thinking so much about AI and machine learning, because they’re saying, “If I enable AI and machine learning on my e-commerce website, and then they come into the store and have a completely different experience, or can’t return the product they bought in-store, [then we let our customers down].”
+Call it the “blue dress problem”:
+On the B2C side, somebody may come in and they’ll say, “Sorry we’re out of stock of that blue dress.” In the systems they have allocated for B2B, they’ve allocated the inventory there. They’re missing a sale simply because they’re operating on fragmented systems where they don’t have that global universal view of inventory.
+Making the entire customer experience seamless is the hard/crucial part:
+We’re certainly making investments in that space.
+Lloyd’s team learned this the hard way:
+We acquired a handful of companies about five years ago with a vision towards building a unified omni-channel platform.
+But even with a “unified” platform, customers weren’t sure what to do next:
+Over the course of the past two years or so, we have rebuilt all that technology directly into our core platform. We used to go into these customers and we’d say, “Hey, we have this omni-channel platform. What do you want to do with it?” They’d tell us all these different stuff. We’d be running around trying to do exactly what they said.
+Something needed to change:
+What we started to see was that these projects were taking a long time. In many times, the customer didn’t actually know what they want. What they were asking for from us was in addition to being a technology provider, being a guide to them, to create a product that was built with best practices out of the box.
+Why retail implementations vary by need
+Andy Lloyd at Shop.org
+To get there, NetSuite worked with customers to provide pre-configured technology, and a clearer guide for how to do an “omni-channel” rollout. Lloyd says this has lead to a “50% reduction in the amount of time it takes between when they buy the software and when they’re live on the software.” But that doesn’t mean all NetSuite Commerce customers tackle omni-channel in the same way. Lloyd broke out several paths:
+
+Full omni-channel implementation out of the box – “We’ve had some great success, and we’ll doing some great press releases in the next few months about those.”
+Stairway approach – This approach starts by getting your back office, inventory, and order management systems updated first. “Get that project done as quickly as you can, and then move to the next phase of the implementation, and then the next phase.” Once the back office is modernized and customers have full data visibility, the point of sale system is often the next upgrade – given that many haven’t updated their POS (no pun intended!) since 2000.
+E-commerce isn’t necessarily first – You might expect the head of NetSuite Commerce to say “start with e-commerce,” but that’s not necessarily the right move. Many companies have newer e-commerce systems, and that’s not usually the first system to go. “That’s typically the third step in the stairway,” says Lloyd.
+
+Once those three “stairway steps” are complete, it’s game on:
+When they complete that, then they really are operating in a true omni-channel perspective, where whatever channel you’re interacting with, there’s one picture of the inventory, one picture of the customer. You do things like shop online and return in store, and all those things that are so hard to implement when you’re stitching stuff together.
+Lloyd told me that plenty of B2B companies looking to make a B2C play are using this approach. And for those that are not, Lloyd asks them a simple question a few months after go-live: “Why you don’t just flip a switch and just try it?”
+When I asked for customer proof points, Lloyd rattled off a number of them, including:
+
+Soccer Express – yep, Canada’s largest soccer store (“A full omni-channel implementation.”).
+DIY Home Center – citing 16 percent increase in conversation rates and 6 percent increase in order value.
+Draper James – a southern clothing and lifestyle company owned by Reese Witherspoon (naturally, I requested a personal interview with Ms. Witherspoon). Draper James went live on NetSuite’s Retail Apparel edition in 144 days.
+
+My take – and the Oracle part of the story
+I asked Lloyd about the NetSuite Commerce reviews I’d seen on G-Crowd. Though most were favorable, there seemed to be conflicting views about whether the depth of customization was an asset or a hindrance. Long story short: Lloyd’s team is aware of this issue.
+Lloyd told me that for some years, they’ve been “backfilling” business user tools to make it easier to maintain commerce sites without developers. Last April at SuiteWorld, the SuiteCommerce Standard edition was announced – designed as a “much more rapid” implementation for companies that may not have developers on staff.
+As for life post-Oracle, Lloyd says that there is a bigger push to expand than ever before – particularly internationally. Historically, NetSuite is 75 percent North American/25 percent international, whereas Oracle is much closer to 50/50.
+To change that, internationally NetSuite has been integrated into Oracle International, “because they just have so much more infrastructure in place that they’re able to accelerate that.” That means aggressive Oracle NetSuite hiring in Europe and Asia, as well as data center expansion. Meantime, it’s business-as-usual in North America, albeit with an Oracle twist:
+North America really operates very much like it always has. My boss is Jim McGeever. He reports Mark Hurd. All that part of the business still reports up through Jim the same way it always has.
+Being a pesky blogger, I pushed for a crack of dischord or uncertainty. Any difference in the size of customers? Is NetSuite moving upmarket?
+What I would say is we will continue to serve big customers. Our existing customers are going to continue to grow. We are very focused on the midmarket at this point.
+Defining the midmarket exactly is one question Lloyd didn’t get specific on:
+It’s different on an industry by industry basis.
+Lloyd said there is an internal process for routing leads appropriately between NetSuite and Oracle. Meantime, the functionality of Oracle versus NetSuite is being evaluated, with an eye towards integration:
+Oracle has so much technology to offer us. We have a team that is actually dedicated to integrating NetSuite to all the Oracle product suite.
+That’s a topic we may learn more about via our OpenWorld coverage. As for NetSuite’s approach to retail, I’m already an advocate of modernizing the back office (as opposed to ring fencing it) – if you want to avoid the omni-channel fail. So on that point, Lloyd is admittedly preaching to my choir.
+For AI/machine learning/predictive, NetSuite is doing things on that front as well – despite Lloyd’s hype aversion. Example: their Bronto acquisition has fueled deeper customer intelligence functions. Or: their AI-infused order management. But if they want to avoid pushing the jargon-babble – good with me. To me, Lloyd’s view is part of an emerging picture of winning in retail. Companies must stop trying to out-Amazon Amazon, and make their mark by surpassing customer expectations in whatever niche.
+Image credit - Feature image - Office emotion © Kenishirotie - Fotolia.com. Photo of Lloyd at Shop.org by Jon Reed. Disclosure - NRF provided me with press access to Shop.org 2017. Diginomica is a Shop.org media partner. NetSuite is a diginomica premier partner.Read more on: e-commerceRetail e-commerce and the omni-channel 

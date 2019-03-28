@@ -1,0 +1,27 @@
+
+ServiceMax, the cloud-based field management software company that became part of GE Digital eighteen months ago, added ‘location of thing’ (LoT) geospatial capabilities to its portfolio in a partnership announced yesterday with geo-productivity provider MapAnything.
+The MapAnything technology, like ServiceMax, runs on the Salesforce platform and extracts the underlying data to present it in an interactive map interface. Similar in principle to consumer map interfaces such as Google Maps, the MapAnything platform adds additional capabilities such as access to sophisticated geospatial data from ESRI ArcGIS, live mapping of assets, and routing and scheduling. True to its name, MapAnything customers have used the product to map the location of anything from vehicles or potholes to feral cats.
+Yesterday’s announcement highlights three features that ServiceMax gains from adding MapAnything to its field service management product, which recently rebranded as Predix ServiceMax in line with GE Digital’s other Industrial Internet offerings:
+
+A map-based interface for Predix ServiceMax data, which supports customers in making more accurate, real-time decisions about their field service operations.
+A telematics fleet feature, which automates workflows and notifies clients of a technician’s status and arrival time.
+A routing & scheduling service capable of advanced multivariate and multi-vehicle situations, with advanced planning capabilities that can be changed and reprocessed in seconds to account for real-world situations.
+
+ServiceMax partnership
+MapAnything has been a ServiceMax partner since 2014 but the new announcement upgrades the partnership to a reseller arrangement, says Jonathan Skelding, who is Vice President Global Alliances at ServiceMax from GE Digital:
+We saw such a demand in the market, companies didn’t want to do a separate contract. We can now resell the MapAnything capabilities on ServiceMax paper.
+Several organizations are already joint customers of ServiceMax and MapAnything, including Kinetico, Zip Industries and ServiceMax’s parent company GE.
+This is the second partnership announcement involving ServiceMax in the space of a few weeks. Last month, deskless workers communication platform Zinc unveiled an integration with ServiceMax. An integration partnership is step short of the reseller agreement signed with MapAnything, but a step up from simply joining the program, as Skelding explains:
+We have 50+ partners today. As they start to see traction, I would expect to see more of them having certified integration to ServiceMax so the product works seamlessly out of the box.
+I would expect we would see a few more now and again where we are adding them to ServiceMax paper to resell. That is the Holy Grail, and we do look for a longstanding relationship with that partner and a proven record of success.
+Specialized functionality
+Since becoming part of GE, ServiceMax has been extending its customer base among industries with high-value assets with long service cycles that require skilled servicing, such as wind turbines, aviation and healthcare. Partners fulfill an important role in extending the Predix ServiceMax product with specialized functionality to serve similar markets, says Skelding:
+Any time you have a workforce that goes into the field to perform service activities on a valuable asset — or even in the world of inspections — then ServiceMax is a great fit for that market. That’s where the partners come into their own. They allow ServiceMax to become a solution tailored to a specific industry and they provide what’s necessary to go after that specific market.
+The rebranding as Predix ServiceMax reinforces the link between the service management platform and GE Digital’s Internet of Things (IoT) platform, from which the Predix name comes. The brand has now been extended to include applications in the GE Digital portfolio that run on or are complementary to the IoT platform.
+Founded in 2009, MapAnything landed a $33 million Series B venture funding round early last year after a previous $8 million round. Backers of the fast-growing startup include the venture funding arms of both Salesforce and ServiceNow. Originally launched on the Salesforce platform, MapAnything now also runs on ServiceNow.
+My take
+This is an important addition of geospatial mapping capabilities into Predix ServiceMax. Interestingly this was already available separately but the ability to offer it under a single contract helps differentiate when ServiceMax is up against competitors offering similar capabilities — including Salesforce and MapAnything’s other platform partner ServiceNow.
+It’s a useful opportunity to shine some limelight on MapAnything too, a success story from the Salesforce ecosystem which has posted annual revenue growth in excess of 2,000% for several years and now boasts over 2,100 customers with a highly specialized product.
+I do think though that ‘Location-of-Thing’ is a buzzword too far …
+[UPDATED: Original title updated to correct MapAnything company name. Also customer total was shown as 1400 but we now learn the up-to-date total is 2,100.]
+Image credit - Professional holding yellow safety helmet laptop industrial city © Vittaya_25 - Fotolia.comDisclosure - Salesforce, ServiceNow and ServiceMax are diginomica premier partners at time of writing. Read more on: Customer service managementInternet of Things 

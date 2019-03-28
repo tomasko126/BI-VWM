@@ -1,0 +1,46 @@
+
+Let me guess – when you think cloud ERP, concrete isn’t what comes to mind. But that’s where the front lines of modern ERP are headed: deep into under-served verticals. That was the situation Dakota Red found itself in.
+The concrete industry is a tricky one for software selection. Specialized software vendors can be a bit old school, not investing in modern tools. At the 2018 Acumatica Summit in Nashville, Dakota Red CFO Matt Stoner told me the dilemma:
+We looked at some industry-specific software, but our concern was there was going to be no R&D probably in any industry-specific software.
+Stoner wasn’t messing around. He wanted to get the ERP decision right the first time:
+We wanted to choose something that was innovative and had longevity, because I don’t wish an ERP implementation on my worst enemy.
+“We had no inventory visibility”
+The need for a flexible manufacturing solution brought Acumatica onto Dakota Red’s radar screen, but at first, Stoner did have concerns. Acumatica is a relatively new player on the scene (Acumatica just notched its ten year launch anniversary). Stoner recalls asking:
+“Okay, do they all of the wrinkles worked out yet?” But at the same time, Acumatica is leading edge, and innovative. Ultimately, I got comfortable that it was a stable enough company that it was going to be around for a while, and would continue to be innovative.
+First things first. Before Stoner’s team launched their software search three years ago, they needed to make sure their current system wouldn’t work our:
+Our first analysis was to see if we could make Sage 100 work better for us. It became very clear that we wouldn’t be able to, because we had multiple companies and needed to transfer inventory across companies and warehouses. Sage 100 just couldn’t handle that.
+Dakota Red needed inventory views across locations – not feasible with seven Sage 100 users in one central location. Meanwhile, other locations were using a Microsoft Access database to enter sales, relying on a mind-numbing import/export routine:
+We had no inventory visibility.
+Cloud ERP options – narrowing the search to Acumatica
+Soon the search was narrowed to NetSuite and Acumatica – two cloud ERP players.
+We liked the cloud-based idea because we were afraid we were going to have connectivity issues with some of our other locations.
+On closer review, Acumatica’s look and feel worked better for them. Stoner also liked Acumatica’s flexible user licensing, which is tied to overall consumption:
+Even if we continued on Sage and rolled it out to more people, we were going to be going from seven people to almost 70. Even if the user cost was the same, the fact that they wanted to add that many user licenses was going to be terribly expensive.
+Stoner liked how Acumatica’s licensing approach could encompass light – but important – users.
+Some of the users we wanted to add were maybe only going to be on it an hour a day, but we wanted to get away from shuffling a bunch of paperwork back to corporate, and then having to key in a bunch of stuff after the fact.
+One year in – assessing the vertical fit
+Matt Stoner, Dakota Red
+Dakota Red went live on Acumatica in January 2017. Of Dakota Red’s 200 employees; about 70 touch Acumatica in some way. With one year from go-live, what’s the biggest benefit?
+The inventory visibility. We used to spend a lot of time just walking the yards to see actually what we had on hand. Now we can see that in the system, not just at one location – but across locations.
+In the past, a plant location might request to buy something, or go so far as to manufacture something, just because they didn’t have it on hand. That’s changed:
+Now we have that visibility, so we can transfer something instead of buying it or manufacturing it.
+Given they aren’t a concrete specialist, how has Acumatica’s functionality met Dakota Red’s vertical needs? Stoner told me that from day one, they opted to include Acumatica’s Manufacturing component (once a standalone offering from JAAS Systems, the “JAMS” manufacturing offering is now included as part of Acumatica’s Manufacturing Edition). Dakota Red worked closely with their services partner, K&R Consulting, to get the most out of Acumatica.
+I don’t think there would have been too much additional benefit to go to an industry-specific software. We’re using the JAMS manufacturing module, and it seems to handle everything we’re throwing at it.
+That flexibility is paying off:
+I’m noticing that with Acumatica in general, if you’re willing to throw time and money at it, it seems like it can pretty much handle whatever you need it to. It’s flexible.
+For Dakota Red’s concrete block manufacturing, they handle the entire process in Acumatica Manufacturing. For the ready-mix concrete delivered in the ready-mix truck, they integrate with another software program called Integra. Stoner:
+It’s still flowing through the JAMS manufacturing module, so ultimately we can see all of that information within Acumatica.
+The wrap – metrics and dashboards ahead
+Stoner is eager to dashboard Acumatica’s real-time info. He plans to select a handful of key metrics, which might include production per hour, and yards of concrete delivered per hour:
+What we’re really going to boil it down to is three to five metrics that each location manager can look at on a more real-time basis. If they do well at managing those metrics and improving those, the bottom line is going to follow.
+It’s about moving from a backward-glance approach to finance, into a strategic one:
+I feel like we’re getting pretty good at capturing the daily transactions, and now we’re really just scratching the surface on the reporting and the dashboards.
+Stoner told me it was too early from go-live to calculate a hard ROI from Acumatica, but he’s already seeing a payoff in the day-to-day of his users:
+I think we’re getting to the point where our users are getting better at investigating their own issues or problems, instead of someone from corporate pointing it out to them or having to chase down the answer… it’s adding a lot of efficiency.
+Users can see a bigger picture than before:
+I think it gives them a better understanding and empowers them to see the ramifications downstream if they don’t do something quite right or if there’s some inventory issues.
+Stoner advises ERP customers to be clear with users on the changes needed – and why. In retrospect, their implementation team could have supplemented user documentation with more context:
+I think it’s critical to take the next step and say, “here’s why” [these changes in your role are happening].
+Stoner’s final piece of advice: approach tech and process change together:
+To echo what one of the people in the keynotes said today, we made a lot of system and software improvements, but we also needed to make a lot of business procedural improvements at the same time. We just flat-out couldn’t have done that in our old system.
+Image credit - Feature image - Concrete mixer truck on highway. Very fast driving. Building and transport concept. 3d rendering. © chagpg - Fotolia.com. Thumbnail of Matt Stoner of Dakota Red at Acumatica Summit 2018 by Jon Reed. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureDigital enterprise in the real worldFinancialsUse cases 

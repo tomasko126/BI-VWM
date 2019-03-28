@@ -1,0 +1,34 @@
+
+Privacy used to be something companies paid lip service to. Now it’s an artifact. Undaunted by increased competition from behemoths like Google and Microsoft, Evernote just made an aggressive change to its privacy policy. When I first saw TechCrunch’s surreal headline Evernote’s new privacy policy allows employees to read your notes, I thought it must be some kind of linkbait.
+But no – it’s true. Though not all Evernote employees would have access to your notes, which is deeply reassuring. Why? Well, the changes start with Evernote using machine learning to “help you get the most out of your Evernote experience.” (amazeballs!) But as TechCrunch reports, Evernote went further:
+Evernote wants to let its machine learning algorithms crunch your data, but it doesn’t want to stop there — the company also wants to let some of its employees read your notes so it can ensure that the machine learning is functioning properly.
+In its own rationalization explanation announcement, Evernote said:
+The latest update to the Privacy Policy allows some Evernote employees to exercise oversight of machine learning technologies applied to account content… While our computer systems do a pretty good job, sometimes a limited amount of human review is simply unavoidable in order to make sure everything is working exactly as it should.
+Evernote customers had a few things to say on Twitter. Author Joe Hill:
+
+Loved using @evernote, sorry their new privacy policy mean I’ll be moving my notes somewhere else. They ain’t for engineers to pick thru.
+— Joe Hill (@joe_hill) December 13, 2016
+Evernote replied with one of the dumbest and most patronizing corporate responses in history:
+
+@joe_hill Hi, Joe. We get that not everyone feels the same about machine learning. If you’d prefer, you may opt out. https://t.co/GrbCVnUNtu
+— Evernote (@evernote) December 13, 2016
+If Windows 10 taught us anything, it’s that forcing users to opt-out in the bowels of your configuration settings is a terrible way to address privacy. And don’t get me started on Evernote’s vapid adoration of “machine learning,” as if it’s something you take a general position on. Machine learning has nothing to do with it. Evernote should have said, “We get that not everyone feels the same about privacy,” but while that’s honest, it looks terrible.
+At any rate it’s not the machine learning that bothered Hill:
+
+@evernote this isn’t rilllly an issue of machine learning, since it’s people, not an algorithm, examining my notes.
+— Joe Hill (@joe_hill) December 13, 2016
+It gets better/worse/more absurd: as of Evernote’s current terms of service, you cannot opt out of the human part:
+
+@sholdensmith@joe_hill@evernotehttps://t.co/SEKuxsJ3q3pic.twitter.com/Wu1urKPfyL
+— Adron Buske (@AdronBuske) December 13, 2016
+Evernote threw up a Twitter smokescreen on their data encryption efforts, which has nothing to do with the matter at hand. As I type, I still can’t believe what I’m reading here. I study PR misfires – this one is colossal. Fortunately for Evernote, I’ve already posted The five biggest social media fails of 2016, because they’d be elbowing with Microsoft Tay for the number one slot.
+Not to be outdone, Yahoo has his the news with another privacy breach – their second major breach of the year. This one is more modest – only 1 billion accounts were compromised. Err, actually 1 billion compromised accounts is a new record:
+The hack occurred in August 2013. Stolen data included users’ names, email addresses, telephone numbers, dates of birth, and encrypted passwords. Those passwords are scrambled up with an encryption tool called MD5, which experts say is possible to crack with some patience. The data also included some security questions and answers, some of which weren’t encrypted.
+If this weren’t such a serious issue for users, it would be comical. Oh, and this:
+Among the victims are more than 150,000 US government and military employees, presenting a threat to national security, according to a Bloomberg report.
+Yahoo is doing their usual scramble of notifying affected users, throwing out their security questions, etc. C/net says “The breach is another black eye for Chief Executive Marissa Mayer.” Can she still see at all? Obviously, this is likely to jeopardize the acquisition deal with Verizon, which was already wary after Yahoo’s last data breach was reported. Depending on how Yahoo’s users respond, Verizon could either call the deal off or push for a much lower price (I would).
+If there is a silver lining to all this, it could come in the form of tougher regulations for businesses that will require more transparency when user data is breached. From an enterprise angle, the issue of cybersecurity is clearly front and center. That means a comprehensive look at exposed devices as the IoT brings more potential breaches into play. I’ll have another piece on cybersecurity for enterprises out soon.
+In a truly dystopian convergence, Yahoo reported on how to delete your Evernote account. In typical Yahoo carelessness, a crucial typo destroys the story:
+Evernote says users have the option to opt-out of having their notes reviewed for machine learning purposes, but says users can opt-out of having their notes read altogether.
+Should have been “can’t opt-out of having their notes read altogether” but then that’s Yahoo for you, a tenuous business model propped up by second class news and deteriorating user loyalty. No word from Yahoo if they will publish a similar story for concerned Yahoo users on how to delete your Yahoo account.
+Image credit - Illustration depicting a roadsign with an invasion of privacy concept. Sky background. © creative soul - Fotolia.comRead more on: Data privacySecuritySocialUser experience 

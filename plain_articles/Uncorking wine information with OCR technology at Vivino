@@ -1,0 +1,25 @@
+
+Torben Mottes
+The trouble with wine is that many people find it hard to choose the right one, according to Torben Mottes, vice president of product management at wine app Vivino. 
+Unless they’re au fait with regions, producers, appellations, vintages, grape varieties and so on, the process can be pretty intimidating for the average consumer. What they need in order to pick with confidence, says Mottes, is information and advice – and here, they quickly run into another problem:
+
+More than 75% of wines available are never rated by experts, leaving wine drinkers with little information about most of the wines they are considering drinking.
+
+This is the idea behind Vivino: the app’s community of almost 14.5 million users rely on each other for crowdsourced ratings and reviews of wines. In order to access information on a specific wine, all the user needs to do is take a photo of a bottle’s label using their smartphone. 
+The snap is processed using Vuforia, a Qualcomm-owned image recognition engine, compared and matched with other images held in Vivino’s back-end database, and information on that particular wine is returned to the app user. 
+The user can save details of the wines they like (or conversely, hate), access online wine merchants who will sell them more and receive recommendations about other wines they might like to try. 
+That’s all well and good when you’re buying wine from a supermarket or store, of course, but what about when you’re selecting a wine in a restaurant? To assist users in this situation, where they typically have access to a wine list but not the bottle itself, Vivino launched a restaurant wine list scanner in November 2014. 
+This, Mottes explains, relies on optical character recognition (OCR) technology, ABBYY – but works in much the same way as the app’s Vuforia-based label scanning process. When a user takes a photo of a wine list, the image is compressed and sent from their phone or tablet to the ABBYY FineReader Engine system installed on Vivino’s back-end server. There, the text is extracted and keywords are compared against entries in the Vivino database. 
+Once matches have been found, the results are returned to the user, superimposed on the image they originally created and submitted. By tapping on a particular wine name on this image, they can access a page containing more detailed information about it. 
+Dowager moment
+But why would one not simply ask the sommelier, asks diginomica, in full-on Dowager Countess mode? (In our defence, we graciously set aside the question of whether fiddling with one’s smartphone in a restaurant setting isn’t irredeemably vulgar.) Says Mottes: 
+
+There’s a couple of things to consider here. First, the audience we’re targeting is really the average wine consumer, not the affluent wine consumer – so that means users may be looking for help in restaurants where there might not be a sommelier to give them guidance.
+Second, what we also hear is that people feel intimidated talking to the sommelier. They tell us, ‘I don’t have the right words to say what I like and therefore I’d rather rely on an app that knows a bit about me to tell me what I’d like.’ And, if the sommelier suggests something above your price-point, you feel like you have to buy it, because they’ve recommended it.
+
+A few factors guided the choice of ABBYY for Vivino’s OCR capabilities, says Mottes. The most important were speed of response and recognition accuracy, he says: once they’ve submitted their photo via the app, users expect to receive results on the right wines in a matter of seconds, he says. But another important factor was the technology’s ability to handle and interpret images captured in the low-light settings often found in restaurants. 
+Clearly, this function will ruffle the feathers of some sommeliers and wine-savvy waiting staff (as a recent article from the Chicago Tribune illustrates) and your diginomica correspondent’s still not happy about smartphone use in restaurants – but Vivino’s a hit with users. 
+At the time of writing, its database contains 13 million reviews and 40.7 million ratings of 8.3 million wines from almost 208,000 wineries worldwide and, in January, the company pulled in a $25 million funding round led by Moet Hennessey CEO Christophe Navarre, to add to the $10.3 million it raised in 2013. 
+By the end of 2016, Mottes says, the company aims to have grown its user base to 25 million (from 13 million at the end of 2015), in what it clearly hopes will be a vintage year.
+
+Read more on: Customer service managementMobileSocialUse casesUser experience 

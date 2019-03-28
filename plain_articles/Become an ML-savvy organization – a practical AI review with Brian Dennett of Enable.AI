@@ -1,0 +1,58 @@
+
+For those of us weary of the AI hype festival, the best antidote is talking to practitioners about what’s working – and what the limitations are.
+I had that chance recently via SAP Sapphire Now with Brian Dennett, co-founder of Enable AI.
+Though we were talking at an SAP show, Enable AI’s work is not tied to SAP. In their case, they are working with customers on a range of Machine Learning and NLP projects.
+I taped an on-site podcast with Dennett, Practical AI in focus – a chat on customer use cases and AI hype overload, where we talked about “why AI now?” – an important question when you consider computers first beat a Chessmaster in 1997. Dennett also offered advice for companies embarking on machine learning projects.
+There is very little “SAPanese” in this podcast (embedded below), but it’s worth noting that both Dennett and Enable AI co-founder Ed Herrmann honed their tech chops in the SAP world, coding/running teams on large-scale projects like Colgate Palmolive.
+It’s not about AI – it’s about intelligence augmentation
+Our chat took place on the heels of an AI carpet blast by my colleague Den Howlett, The I in AI is dumb leading to incrementalism not transformation. Howlett argued that the limitations on today’s AI technology are significant – far more daunting than the hype masters would have us believe. What say you, Mr. Dennett?
+I agree with all your criticisms of the AI hype cycle that we’re in… AI – the whole notion of general intelligence of some sort – a big part of that is decision-making.
+We don’t have techniques and models that are mature enough to get to a point where you can confidently allow a system to autonomously make decisions. If you take a step back from that, and you think about what’s left, that’s where I think you start to see the opportunity space for AI as we know it right now.
+Dennett doesn’t care for the “AI” terminology:
+I don’t like the term AI. What I’ve gone with is IA – intelligence augmentation. We are still the AI. Humans are still the AI. What AI tooling can do is empower the human.
+AI techniques are really good at taking complex data and figuring out good ways to package that in bite-size, digestible chunks and make humans more effective at making decisions.
+From sloppy AI terminology to a machine learning focus
+Sloppy AI terminology should give way to precise definitions – a point Howlett and Dennett agree on.
+That was really one of the core tenets behind what we were looking for when we decided to start Enable AI. Really what it comes down to is it’s not AI; it’s machine learning (ML). For us, machine learning is one pillar, and then natural language is the other. There’s a blurring of the lines there, but it’s two different skill sets.
+That brings us to “why AI/ML now?” We hashed this in detail, but Dennett’s short answer is:
+Machine learning is the umbrella term under which all of these different mathematical techniques from all these different disciplines are being revisited with fresh eyes.
+Those fresh eyes are bolstered by:
+
+Breakthroughs in processing power which enable the crunching of huge data sets, needed by machines to detect patterns and “learn.”
+Algorithmic ML advances in academic settings in the last decade – though Dennett believes we must do a better job of bridging the gap between practical applications and academia.
+The rise of open source communities and the realization by Facebook, Google et al that they must release their AI tools in the wild – if they want to win the all-important game of developer traction.
+
+Dennett:
+The things that you can pick up off the shelf and start gluing together are fantastic and powerful tools. It’s refreshing to see how much is out there and available.
+Helping customers get ML traction
+But that leaves us with a potent question: how do ace developers with ML chops find the right startup niches? For Enable AI, prototypes with customers identified gaps and opportunities. One topic that kept coming up? Customer experience. Companies are obsessed with becoming customer-centric, but in my view, they aren’t close to getting customer experience right. Enable AI honed in on the same issue:
+I ended up having a couple conversations where customers are very critical of the current suite of products that are available to solve that part of the problem.
+Bennett has the same problem with CX I do, but from a technical angle:
+A lot of the tools out there are still relatively shallow in terms of the way that they analyze that data. and the way that they allow you to act upon that data.
+Enable AI brings their tech to bear on data questions like:
+
+How do you understand the customer voice better?
+Do you understand how to reach the customer?
+Exactly who is your customer? Who is your potential customer?
+How is your competitor talking to them, versus how you are talking to them?
+How is your conversation different from the customer conversation?
+
+Simple questions? Maybe on the front end. But delivering on the data and algorithmic smarts isn’t simple:
+There aren’t good ways to get those answers right now. That is basically what we’re doing at this point is building the tooling to allow companies to have the insight into those questions.
+I’ve tasted the bitter side of those problems, attempting to define attribution models that properly weigh and assess all the touchpoints and brand interactions that add up to a big ticket B2B sale. That means tackling the monster problem of social media data exhaust fumes, crawling across the web and pulling unstructured data from relevant conversations into an effective algorithmic model. (As my colleague Phil Wainewright just previewed, unstructured data is a big emphasis for Google’s cloud AI/ML team as we head into Google Cloud Next).
+Becoming an ML-savvy organization
+Dennett sees a deeper role for ML than most packaged software vendors are hitting:
+When you think about where ML is being applied to that space, it is a lot in terms of cohort analysis: your click patterns, your open rates on emails, your point of sale data. That’s one layer of data, and it’s powerful. It’s effective. If you’re not doing it yet, you definitely should be, but we’re looking at the next set of data.
+What’s the next set of data you can marry up against that data and start mapping out correlations? That’s really what we’re working on is basically, how do you get that deeper analysis? How do you bring in that next data set to enrich that strategy?
+Exactly what that “next set of data” is depends on the customer/industry. But you can bet, in most cases, that the data set is large; it’s external to the enterprise, it’s probably unstructured, and it’s probably not integrated with internal systems. In other words, most enterprise applications aren’t equipped to deal with it yet.
+To get to the core of the customer’s ML business case, Enable AI applies their tooling to a customer’s data questions:
+It’s kind of funny that the Leonardo playbook is in many ways the playbook we’re operating under right now. The idea is to build out this template, get 80% of the way there, build all of the tooling we need in order to rapidly run the experiments, and then it just comes down to what comes out of the experiments, and how do we, as quickly as possible, apply that to the customer environment?
+There’s no shortage of data questions that need answering. So what is Dennett’s advice to companies assessing their ML skills and options?
+One thing we know for sure is they don’t want to spend a year building up a team to get this going.
+Natural Language Processing and the messiness of text analysis are two examples where working with a vendor’s ML solutions could make sense. Companies don’t necessarily have the skills/tools to tackle those. If, on the other hand, the data is structured, doubling down on that data could be a good kickstart project. Dennett advises getting your internal data cleaned and prepped, with an eye towards nailing down your master data:
+I think the first step to becoming an ML-savvy organization is data engineering. You can argue that data science and data engineering really do get lumped together, but the data engineering aspect of it is the most important thing right now for companies. You need to think about: how do I make sure that my data is clean and accessible?
+If that is the one thing that you focus on, you can still feel like you’re checking the box of becoming an ML-savvy organization, because that will become the foundation of all future ML strategies.
+The chat left me with questions on in-depth use cases – and how to apply engineering discipline to machine learning. I expect to get into this with Enable AI the next time we’re in the same place with a podcast kit.
+
+You can also download the podcast or pick up Busting the Omnichannel on iTunes.
+Image credit - Feature image - Light bulb glowing in a row of crumpled ball paper, learning from mistake, @patpitchaya from Shutterstock.com.Disclosure - Diginomica has no financial ties to Enable AI. SAP paid the bulk of my travel expenses to attend Sapphire Now 2018. SAP is a diginomica premier partner. Read more on: CRM and customer experienceIoT robotics and AIMachine intelligence and AI 

@@ -1,0 +1,40 @@
+
+SAPPHIRENow and ASUG 2017 are in the books; those left standing are bleary or jetlagged. The diginomica team posted a boatload of show content and a slew of videos, including event analysis and around 15 customer videos.
+The customer stories were high caliber and once again prove that the effort behind surfacing customers for use cases is worth it for vendors who push through the nitty gritty of preparing customers for journalistic interviews. There were a wide range of shoots but several themes stand out, including:
+
+AI/big data startups with a compelling industry niche like Oil and Gas or Fraud Detection.
+S/4HANA Cloud customers, in this case service partners who run and also sell S/4 HANA Cloud.
+Industries with qualify-of-life impact like health care, and SAP’s own pursuits of “Business Without Bias.”
+CIOs dealing head on with the culture change invoked by a shift to agile/business-focused/digital pursuits.
+User groups airing their views on indirect access, SAP Leonardo and SAP’s innovation roadmap.
+And, always fun, Den taking off the curmudgeon hat to talk with youth who turn the tables on him and put him in the hot seat. (NextGen Students come to SAPPHIRENow).
+S/4 HANA customers with maturing use cases after go-live.
+
+It’s the last bullet I want to focus on here. One thing lacking from the keynotes were practical stories from customers further along the S/4HANA path who are seeing results. SAP made a decision to focus on other topics for obvious reasons, but for SAP customers and those evaluating S/4HANA I think these use cases are worthwhile.
+The standout theme? Customers moving beyond IT gains like integration, performance and system consolidation, into projects that move the needle for business goals. That means data visibility/analytics, customer facing apps and better user experiences.
+Vectus Industries’ journey with S/4HANA, apps and IoT
+First up is Manish Sinha, Head of IT for Vectus Industries Ltd. Describing themselves as “India’s leading and fastest growing pipe and water storage solution company,” the Vectus Industries story is about moving from manufacturer to a manufacturing/service provider combo, with India’s water shortage issues in the background. When Vectus Industries moved to S/4HANA, the first big gains were better visibility across the business:
+
+Those gains wouldn’t have come about without the advice of a savvy implementation partner. In 2015, Sinha’s team was thinking about moving to ECC. Their implementation partner, vCentric Technologies, advised a bolder digital path:
+vCentric Technologies played a key role there. They gave us the insights of what a digital core for automation can do. [Our] organization has a challenge of integrating the workforce and getting some machine data insights, because we do have a lot of manufacturing machines coming up across the globe.
+After an intense, “big bang,” 24 plant implementation, Vectus Industries went live on S/4HANA in April of 2016. Results include a 15% reduction in operation costs and a 60% increase in operational efficiency. Increased visibility into Vectus systems freed teams from laboring over Excel spreadsheets and doing “post-mortems of the data.” Fiori apps give teams “fact sheets” that help them gain visibility at the plant level and anticipate issues. The data-driven mobile app came next:
+The mobile app we have designed with a goal… When it comes to a product, when as a corporation you are selling it with a five or ten years warranty, then how you are going to retain that customer, engage your customer? And how you are keeping track where your customers are? So that was the reason we designed this mobile app, giving the power to our customers. At a single click, they can contact to [us] directly.
+The app also empowers the plumbers:
+If you have to buy a water tank definitely [00:06:30] your first call would be there for the plumber. So we gave the power to the plumber, so that they can show the complete technical specification over the mobile app to you.
+This mobile app, dubbed “The Vectus App,” is also a HANA Innovation Award winner.
+WEIG steps through S/4HANA for business transformation
+Meanwhile, Den had a chat with Falko Remmert, who is Head of Digital Transformation, Moritz J. Weig GmbH & Co. KG.
+WEIG Group is a paper products processing company based in Germany. They moved from SAP ECC 6.0 to S/4HANA 1511, and then 1610. It’s a story of moving from disconnected business processes to a Fiori UX that helps them get change business models and serve their customers better. In 2014, the consolidation of systems onto SAP ECC began. But they quickly moved to S/4HANA. Den asked Remmert why they would make such an aggressive change. Remmert:
+Our vision is to move from a standard manufacturer to an industrial service provider. We’re trying to move closer to the customer and change our business model. We were producing and producing and producing, and customers were buying, but why not change that into a more personalized way for the customer? So for example, if the customer could have the full transparency of our production cycles and see exactly when we produced what, then maybe he could rent a spot on the machine time and get his product.
+
+To get through this “journey of digital transformation,” Remmert’s team see S/4HANA as fundamental. They moved to S/4HANA in a five month push, with the aim of “going back to standard” and optimizing their processes. That was enough to take on, so they postponed their Fiori push until version 1610. Their work with Fiori is not just UX improvement: it’s about building customer-centric processes:
+We are not changing transactions into Fiori. We are imagining Fioris where we can have the whole end-to-end process in one app. Before, if you needed ten transactions to do a certain task, now you have an app for it – not only for our own users to be more efficient, but for our customers as well.
+Den was surprised to hear a family-owned, “traditional” German company talk about taking big risks even when the timeframes and metrics are unclear. Remmert:
+It is a risk, but it’s necessary. If we don’t disrupt the market, someone else will. I’m 100 percent sure. We’re trying to change our culture in that way… One of the tools we are using is design thinking, to bring in more creativity to break up those old minds, so to say.
+The wrap – digital success comes at the price of change
+If I’ve glossed over one thing in this writeup, it’s underplaying the change these companies have had to confront. I’ll get deeper into culture and leadership issues in other writeups, but for now, we have a sense of how companies are pursuing digital projects that use S/4HANA as a way to drive change and touch customers.
+That’s what SAP has been preaching all along, but it’s taken a while for us to hear stories that move beyond the tech benefits. That doesn’t mean S/4HANA is the only or the best way to go about a digital transformation. But it does help SAP to be in that conversation.
+Another video, CEPSA – Apple and SAP for a mobile experience, involved the design of iOS apps via the new SAP-Apple SDK partnership. The first app was rolled out to customers, with apps for partners and employees on the way. CESPA CIO Joaquín Reyes Vallejo did a good job of explaining why a technical move to the HANA platform was just the first step in a digital push. The apps are the key to engaging stakeholders and making digital stick:
+We have reached a good level of business integration, and our IT architecture reflects that… We needed to simplify [IT as a first step], reinvent some processes and simplify them to make things easier for our customers, employees, and partners to work with.
+That’s the kind of story we like to hear. If you have one, by all means ping us.
+Image credit - Screen cap from Vectus Industries video shoot.Disclosure - Disclosure - SAP is a diginomica premier partner, and paid the bulk of my expenses to attend Sapphire Now 2017.Read more on: Digital enterprise in the real worldDigital transformation - frictionless enterpriseFrictionless enterpriseUse cases 

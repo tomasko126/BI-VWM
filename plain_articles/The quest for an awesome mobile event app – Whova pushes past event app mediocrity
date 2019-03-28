@@ -1,0 +1,55 @@
+
+As I wrote in Can mobile event apps cross the rubicon from mediocrity?, most mobile event apps are craptastic (the unfortunate opposite of fantastic). Since that piece, I’ve tested about fifteen additional event apps, mostly regretting the slog of set up and log-in.
+Mobile event apps fail two of my criteria:
+
+Adoption – most who I informally poll – both customers and analysts – don’t bother with the event app. The perceived limited value is not worth the hassle of download/log-in/setup, not to mention consuming phone battery life and hogging phone real estate.
+Networking – I don’t care about agenda building or even tracking Twitter. I care about easily networking with individual attendees and, perhaps, community discussions amongst those attendees. Conferences are about networks and I want the app to turbo-boost that aspect.
+
+Lately, Whova entered the picture as one mobile event app that hits somewhere on my archery target. My goal is not to endorse Whova – there may be other great event apps out there. But hopefully I can shed light on the ups/downs of event app evaluation – via attendee feedback.
+I first encountered Whova via last year’s Acumatica Summit. I installed the app prior to the show with the usual cynicism. The install was easier than usual; my LinkedIn profile ported in nicely (you can also connect Facebook and Twitter). But here’s the shocker: before the show, I received relevant meeting invites. I ended up having two solid meetings on-site I wouldn’t have had without that app – the first time I can ever say that.
+While planning Controlling 2016, I suggested we evaluate Whova and use a mobile event app (we had not used an event app in the past). This year, we rolled out the app to our 175-or-so attendees. Aside from minor nits, the feedback on the app was universally positive:
+
+During hand polling, 90+ percent of attendees actually downloaded and used the app.
+In conference feedback sessions, attendees routinely brought up the app as elevating their conference experience. Those who attended in past years view the app as a big improvement.
+
+Needless to say, after hearing attendees voluntarily praise an event app, I had to scrape myself off the floor. What features did they like?
+
+Building their agenda (easy)
+Networking one-to-one via the app
+Easy access to a scrollable list of attendees, who could be messaged directly
+Useful attendee search by keyword
+Sharing conference photos
+Easy to install
+App was not a resource hog
+
+Whova is not a typical event app, in both good and bad ways. I believe Whova fancies itself as a social network. That means there are connections beyond events. See my landing screen, which shows both events I’ve attended:
+
+Ergo, you may get connection invites from folks who are *not* on the ground at the event you are at. The cool part? You get to keep (and expand) those contacts at each event. My impression is that Whova’s pricing – which I consider very affordable – is tied to the idea that attendees are signed up with Whova and building their network. Whova also has more brand visibility within the app, a tradeoff perhaps, but not an issue that bothers me.
+Like most event apps, your event screen will vary based on what features you want and/or paid for. Here’s ours from Controlling 2016:
+
+ 
+Overall, this is a very clean interface. If we had opted to offer presentation downloads within the app, you could link to that here also (that’s a fairly pricey option we didn’t go for).
+If you click on Twitter, you go to the event hashtag. I’ve seen some apps that have better embedded Twitter integration than Whova. In his 2015 post Reflections on a packed conference season, my colleague Den Howlett shared a good mobile app experience at Episerver, which included an attractive Twitter leaderboard beyond what Whova offers.
+Back to Whova: when you get a message, the “message” section on the bottom has a clear notification. As in Facebook, you can get “likes” when folks enjoy a picture you posted. Posting photos within the app was easy. The event bulletin board had major value. Rather than being a neglected area, folks were able to share thoughts and topics for our post-conference session. The engagement there wasn’t amazing, but it was enough to help us put on a better show.
+Now for the issues/areas of improvement. I’ll start with those from attendees, because those matter more than my fussy items:
+
+Agenda alerts didn’t work reliably – You can set alerts to remind you of session times. However, those alerts are within the app itself. Some wanted those alerts to appear as push notifications on the phone when the app was closed – that didn’t happen reliably. The Whova team told me that this was likely because of what the attendees selected for push notifications when they installed the app. Not giving attendees a way of adjusting phone push notifications once the app is installed is an oversight that should be corrected (there are other in-app notification toggles).
+Business card scanning and connecting to other attendees can be improved further – exchanging contact information with other attendees could be made even easier and more obvious. It’s much more intuitive to “say hi” than to permanently connect with another attendee. The permanent connection matters if the event goes away – you carry your Whova contacts permanently, even after the event goes out of the app (our event will stay in the app for six months). The business card scanner wasn’t as easy to use as the app itself.
+There was a “huge font” issue in the session info fonts on iPhones. That might have been our fault in the content loading but we’ll relay it to Whova. This one seems easily fixable.
+
+Here’s my personal nits:
+
+The “documents” screen above might be better as a “help” button.
+When you post photos into the app, you should have the option to cross-post them to the event Twitter hashtag.
+Integration with native phone calendars, while not a simple enhancement, would be a terrific addition. In turn that would ease any notification issues, as that would then revert to the phone calendar settings.
+
+That’s it – except that when you post something within the Twitter hashtag, Whova adds their own #whovaapp hashtag to the tweets. It can be removed manually each time before tweeting, but that’s an invasive form of marketing.
+Whova should offer organizers the option to have that hashtag removed globally, at least for a fee or as part of their deal. Twitter real estate is precious and the additional hashtag confuses, while also populating Whova’s own hashtag stream with content not relevant to their app. I’m disappointed. I didn’t get the impression Whova felt the urgency to fix this that I want them to. But – it’s only been two days since I emailed them on it.
+Final thoughts
+How you evaluate event apps depends on your criteria. For example, I don’t care that much about embedded Twitter functionality; I figure most folks who use Twitter event hashtags will get there on their browser or mobile app of choice.
+Wrapping up the Whova aspect of this piece, I’m also pleased by the responsiveness of their team. I don’t always get the answer I want to hear, but they are always fast and clear in their feedback.
+In my last mobile app mediocrity piece, I shared mobile app event metrics; these are important for companies as they consider the true ROI of mobile app investments. Those metrics were from a substantial offering (free with signup), the Event App Bible from eventmanagerblog.com. In our case, we brought a mobile event app sponsor on board which covered mobile apps costs. When we combine this with the overwhelmingly positive feedback from attendees, the value has been achieved this time around.
+Event apps are still a work in progress, but we’re in a better place than we were a year ago, and that’s something.
+Updated, September 15, 11:00 US PT, with a few minor tweaks that improve readability. No sentiments were changed.
+ 
+Image credit - Feature image - Explorer boy © Natallia Vintsik - Fotolia.com. Whova screenshots were done by me from their app. Disclosure - ERPCorp paid the bulk of my travel expenses to Controlling 2016. ERPCorp is a paid client, and I am part of the founding team that launched the SAP Controlling conferences. I was compensated for my work at SAP Controlling 2016, including keynote facilitation and panel moderation. However, this article was produced on my own initiative. ERPCorp produces the SAP Controlling conferences independently of SAP. This year, SAP was a paid sponsor of the conference with a hosted demo lab for attendees. SAP is a diginomica premier partner. Diginomica has no financial relationship with Whova.Read more on: Collaboration sharing and digital productivityContent marketingDigital and content marketingMobileSocialUser experienceUX and application design 

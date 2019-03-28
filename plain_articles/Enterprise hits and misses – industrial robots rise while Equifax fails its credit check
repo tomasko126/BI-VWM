@@ -1,0 +1,50 @@
+
+Lead story – Industrial robots and the new China Syndrome – by Chris Middleton
+
+MyPOV: In the first of two missives from The Rise of the Machines event in London, Chris pens a standout robotics piece.
+The narrative begins with the news that China bought 60,000 industrial robots last year. With robots able to perform more complex industrial tasks, that means potentially replacing 1,000,000 human jobs, with bigger shifts coming. But if you think this is another piece of dystopian roboporn grim job futures, not so fast.
+The story turns, with speakers and attendees who are building a vision of how “PAL”, personalized, automated and local businesses, fueled by AI, big data, 3D printing and so on, create sustainable businesses that make China’s industrial robotics at scale look less like our jobless future and more like the last gasps of a system that will give way to decentralized work models.
+To prod our thinking further, Chris filed AI Uber alles? This is grimmer stuff, with Chris ruminating on a volatile gig economy with post-industrial workers scrapping for micropayments, while Uberesque platforms happily swap labor (drivers) for automation (self-driving cars) at the first opportunity. How to get out in front of that should be the pre-occupation of individuals and governments. But smarter business should weigh in too; shifting skills into new roles while fostering human talent is far preferable to jobless global instability.
+Diginomica picks – my top two stories on diginomica this week
+
+Docker loses its first-mover advantage to Kubernetes – now what? Kurt takes on a Cinderella story crashed by a big Googly elephant. But it’s not just a two horse race. Kurt makes the case for diversity of solutions as a sign of “vigorous innovation.”
+Barnes & Noble loves its stores, but can’t turn the page on the omni-shambles – Leading up to Shop.org, Stuart’s got a not-so-happy/not-so-omni update on Barnes & Noble. Or, as he put it, “it’s an omni-mess.” Also see: Stuart’s Hudson’s Bay CEO – give retail customers better stores, complemented by digital.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+CEO John Donahoe eyes talent to make ServiceNow a $10 billion business – Derek’s recent sitdown with Donahoe, now six months into the CEO role. Donahoe: “Analysts say, “Oh you’re in HR now, do you compete with Workday?”, or “Oh you’re in CSM now, do you compete with Salesforce?” That’s not the fundamental aspiration. The fundamental aspiration is for us to do what we do really well, which is automate workflows.”
+British Heart Foundation makes Workday the HCM heartbeat to unify its workforce – Jessica with a feel-better Workday use case: “I feel like we’re moving from ‘digitally naive’ to ‘digitally mature’ and it may be a hard transition, but it’s what will make us not just a world-class charity, but also a world-class employer.”
+Is Huawei’s five mega-cloud prediction what customers need? – Martin examines a Chinese giant and their mega-cloud prognostications: “For the mega-cloud vendors there is also a need to remember that ‘customer experience’ applies all the way through the transaction and service delivery chain, not just the final end customer. Every stage of the process has to be proactively sticky to its customers (not restrictively escape-proof).”
+
+A few more vendor picks, without the quotables:
+
+Exclusive – ITSMA, Demandbase partner to support the future of ABM – Barb
+Coupa CEO sees customers and community intelligence both on the rise – Stuart
+Slack teamwork? Get collaboration into Stride, says Atlassian – Phil
+
+Jon’s grab bag – It’s not easy when your hot analyst take needs a big revision. But Phil mans up in How messaging upstaged content to win the heart of enterprise collaboration. Gist: the combined impact of AI and APIs have changed Phil’s thinking. Messaging platforms now have the edge over content management players.
+TechDirt had a big libel victory (they were being sued by some idiot). Den weighs in: Contextualizing TechDirt’s victory in libel case. When in doubt, let ’em drive, says Congress. Jerry has the critique in: US lawmakers speed up potentially dangerous autonomous vehicle legislation. Finally, Madeline scores post title of the week in a runaway with Bras, Bitcoin and Brexit – Baroness Mone on entrepreneurs, business diversity and tech.
+Best of the rest
+ Lead story – Equifax stinks, but they are not alone.
+
+myPOV: I think we’re all just about Equifaxed by now, so I’ll keep this quick. As Larry Dignan wrote in Equifax exposes credit services’ woeful IT, processes, security:
+If you were looking to put a credit freeze on your data after the breach, you learned that Equifax’s industry is a bit messy too. Unreliable sites riddled with vulnerabilities, phone trees that don’t work and sporadic checks to verify your identity are the norm.
+“It’s time to rip it up and start again,” writes Russell Brandon about the credit bureau system. In my piece on Equifax and beyond, I talked to a frustrated security expert who must be getting sick of howling into the wind (multiple Yahoo breaches, etc).
+Well, I think we hear your cries now. When it comes to the credit bureaus though, any hope of substantial reform or penalties with teeth is just that, a vague hope.
+Honorable mention
+
+Microservices: The Good, the Bad and the Hype – “The first rule of distributed systems is: don’t distribute your system until you have an observable reason to.
+How Should Bots Respond to Frustration?  – I was hoping this article would get deeper into designing bots that are savvier about “Alexa rage.” We can start by lowering our bot expectations.
+Gartner’s Hype Cycle for Emerging Technologies, 2017 Adds 5G, Edge Computing For First Time – Yeah, I bellyache about trapezoids and quadrants but I kinda enjoy the Hype Cycle, even if sometimes it’s a celebration of the obvious (e.g. genius-level predictions on the future of AI).
+Dissecting the Headwinds and Tailwinds of Digital Transformation – super wonkycool phrase, “value chain uberization,” which can extend to Nigerian farmers sharing farm implements: “Each value network has their own opportunity.”
+Practices for Effective Distributed Teams –  A master of distributed work, Ross Mayfield of Pingpad, opens his virtual kimono. You don’t read advice on hiring “pajama people” everyday.
+A New Court Ruling Could Limit Your Employer Spying On You – Not the most reassuring headline… “The proper way to approach what you’re doing at work is, just think your employer could be watching you.”
+
+Whiffs
+So, Equifax sucks. I mean, really sucks. Let’s move on. And: let’s not forget about Apache (Critical Vulnerability in Apache Struts Puts Thousands of Web Applications at Risk). By the way, how was Equifax breached? Oh yeah, via a web app… One more relaxing headline: Unknown hackers have gained near-total control over some US power generation companies.
+Oh, and nice work Epipen: or, as we like to say, Good job, good effort.
+Note to NFL Mexico: if you don’t want to delete your own tweets and go through the knee-jerk-apology spank tunnel, maybe think twice about trying to leverage national disaster coverage for your brand.
+It’s too early for a complete Florida storm analysis, but we can start with these gutless jobsworths dweebs who banned tenants from using storm shutters as Hurricane Irma approached, because, apparently, “corporate” told them to. Makes me want to fire rifles into the eye of a hurricane. On second thought…
+ If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, ServiceNow and Salesforce are diginomica premier partners as of this writing.Read more on: Future of workHits and missesIoT robotics and AI 

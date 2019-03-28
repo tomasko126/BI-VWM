@@ -1,0 +1,20 @@
+
+Scaring the horses
+I have a theory: Microsoft is coming up with some seriously interesting developments right now, but is unsure of quite how to market them for fear of scaring the horses.
+The latest case in point is the announcement at the firm’s Ignite conference in Chicago last week that Windows 10 is the ‘last’ new version of Windows.
+In other words, there will be no Windows 11, 12 or 147. The reason is simple, but the impact could be significant. The company is going for `Windows as a Service’ (which shortens to WaaS, which for some English people may be an unfortunate acronym!).
+From the outside, that looks like it could be partly the truth, but I suspect it is not all of it. The move here looks very much like a large and deliberate step towards a DevOps environment of continuous delivery of updates, additions and patches.
+And it is that which is likely to scare the horses.
+Pain and pleasure
+The company’s dominance of desktop systems and tools have been its major success – and its major pain in the butt. It still has many horses out there using Windows XP and feeling timorous about moving on from it – ‘it works, so please don’t make us change.’
+But for Microsoft their desire not to change is now a serious burden. In theory at least it can end up creating a business where the majority of staff are simply supporting old versions, which is hardly a recipe for glorious future success.
+What continuous delivery can bring to the party is the removal of the need for users to think about updates or transitions to new versions. The new versions cease to exist because the code is always being updated on a weekly, even daily basis. So all users will always be on the latest version of Windows.
+That is, potentially, scary for a good many business users, I am sure. But the simplest answer to their doubts is to ask whether they have ever used something like Facebook, or Google (and yes, other social media services also exist). If they have, then they are of course having this happen to them all the time. And yes, sometimes we bitch about a change and ask – sometimes quite vociferously – ‘why did they do that?’
+But in the main, it works, and we don’t actually notice or mind that much. Our use is not disrupted. It is quite often enhanced. And that is the key thing here.
+As WaaS will be a subscription service, paid for as part of a greater service package, most probably built around Office 365 and services from any number of service providers, most users will not even realise they are getting it and will just use it.
+My take
+Strangely, Microsoft seems unwilling to express this model in a straight forward manner. For example, a story that appeared in The Verge quoted a Microsoft spokesperson as saying:
+Recent comments at Ignite about Windows 10 are reflective of the way Windows will be delivered as a service bringing new innovations and updates in an ongoing manner, with continuous value for our consumer and business customers. We aren’t speaking to future branding at this time, but customers can be confident Windows 10 will remain up-to-date and power a variety of devices from PCs to phones to Surface Hub to HoloLens and Xbox. We look forward to a long future of Windows innovations.
+In practice though, it will now just be `Windows’, and in time it won’t really be anything in branding terms because Microsoft, and everyone else, will have moved on to branding the services which run on Windows rather than bits of the technology that make it happen.
+
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureInfrastructureMobile 

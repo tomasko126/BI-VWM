@@ -1,0 +1,43 @@
+
+One sure way to get me to ignore your PR pitch: go for an augmented reality (AR) angle. Add in AI also, and we’re heading to the circular file. But not this time.
+When the PR team for Paperspace approached me about a medical startup using AR to change healthcare, I was all ears.
+Even better – Medivis, a Paperspace customer, is a startup co-founded by doctors, with an AR lab based in Brooklyn. Soon, I was on the phone with co-founder Christopher Morley. Top of my agenda? Find out why a Brooklyn doctor is all-in on AR for medicine.
+Startup ambition – can immersive computing change medicine?
+The Medivis story begins about three and a half years ago, when Morley, who is a radiologist, met neurosurgeon (and Medivis co-founder) Osamah Choudhry at the NYU Medical Center. They started experimenting with AR as a research project, but it quickly took on a life of its own. Morley:
+What initially started off with intents of it being an academic product, our research solution quickly became something much greater. As we initially got our hands on this emerging technology, we really started to experiment with what was possible.
+Morley approaches AR in the context of the umbrella term “immersive computing.” That’s a fancy way of saying the future of computing will involve plenty of hand gestures and voice commands, but in a more immersive setting. Popularizing these ideas takes time. Morley points to March 2016 as a breakthrough:
+This basically became possible in March 2016, when Microsoft released the first version of the HoloLens. That’s when the company actually came together and formed with the mission around: how do we harness this new technology of immersive commuting – specifically AR – to completely change how we prepare for and perform surgeries in the operating room?
+Choudhry and Morley got their hands on a HoloLens. Bring on the real challenge: solving a medical use case.
+The question was: how are we going to get medical imaging data sets of real patients into this device? We basically worked on that problem.
+The first big step? Rebuilding the data sets:
+We had to do a lot of it from scratch. Because a lot of the code bases that people typically build off of weren’t adapted for this medium. So we had to build an end-to-end surgical imaging solution, with the emphasis and the end goal being augmented reality.
+Building an end-to-end platform takes time and, usually, resources galore. So what is Medivis ultimately shooting for? Morley:
+The holy grail of vision of this is: how do we take patient-specific imaging directly from a hospital server and holographically render it in 3D space volumetrically, and then directly map the hologram back to the patient that’s before you in the operating room?
+Okay, sounds pretty cool, but why is this needed?
+Because I think it comes as a surprise to some people how much guesswork is still going on in surgery. Even things like: how do we ideally position the patient? Where do we make an incision; how big is the incision? Where is this vessel that we need to be mindful of?
+These questions are typically answered by scrolling through two-dimensional devices, reconstructing that information in your mind’s eye, so to speak. And then using your working memory while you’re preparing for and doing these surgeries.
+How AI and augmented reality fit together for Medivis
+That’s where “AI” enters the picture also:
+Now we’re trying to use AI to alleviate that entire gap that exists in cognitive understanding and actionability of information. We are building a platform that will allow people to just see stuff instead of having to imagine it.
+So how Paperspace fit in?
+The machine learning piece is how we connected with Paperspace. The vision was: how can we basically have the front end of augmented reality, but have the underlying core foundational structure of AI here? That way we can really start to do some advanced analytics, and harness the power of deep learning to augment both the visual aspects and the analytical aspect of everything that we’re doing.
+Again, very cool – but what does this mean for improving patient care?
+On our side, we very quickly started doing things like automatic brain tumor segmentation.
+How does that work?
+Typically in a brain tumor case, this process of segmentation is done manually, slice by slice, by the surgeon drawing the outline of the tumor. There’s a lot of tasks like that, that could be automated or at the very least, semi-automated, and get the user at least 90 percent of the way there. And just save an enormous amount of time. That’s some of the initial use cases that we’re looking at.
+In the AI/ML space, having the right partners is crucial. That’s even more important when you’re a startup:
+We’re able to partner with Paperspace in that aspect. Because the platform as a service they’ve provided for deep learning is really adaptable to everything that we’re doing, as far as being able to train models efficiently. We need to input enormous amounts of data. In our case for brain tumors, it was around 500 brain MRIs that have been expertly labeled.
+Another big ingredient to ML? Stitching open source into your solution stack:
+We’re actually using a TensorFlow Serving architecture stack. So we’re training everything on Paperspace, and then we’re exposing it using TensorFlow Serving. That way, from within our AR application, we can essentially hit a button and expose the model to the data set that is actually being looked at in real time. And then we’ll be able to run the model on that data set. We’re basically trying to build a bridge between an AI back-end, and an AR front end for surgical visualization.
+The wrap – pilots are underway
+Getting futuristic about medicine is only good to a point. Medivis knows they need to prove this in the field. To that end, their technology is in use at NYU now, and there are scheduled pilots at a few more sites in the U.S.
+That’s the stage we’re at – getting this out there and into the hands of surgeons.
+For now, Medivis is running these pilots solely on HoloLens, because they think that’s the best commercially available headset. But they intend for their platform to be hardware-agnostic in the future. That makes sense when you consider big players like Apple, Google, and Amazon – all of whom could make more AR moves.
+One of the big challenges with modern medicine is that expert treatment is unevenly distributed. Medivis thinks their tech to help alleviate that:
+Another experiment we’ve been doing with Paperspace that is completing bleeding edge is this concept of doing remote rendering. We put our application into a virtual machine and then put that, working with Verizon, on the 5G network. And then we essentially do cloud rendering in real time to an AR headset. It’s still early, but the proof of concept of that has already been completed on our end.
+We talked in depth about how doctors are reacting to these devices, and how patient care is affected (not every patient, for example, welcomes new tech or new ways of interacting with their medical data). I’ll revisit that in a future piece.
+For now, the big question in AR is about mainstream adoption. Morley believes the medical industry is set to play a driving role here. Unlike consumers, doctors aren’t shy about putting on geeky contraptions:
+We’re definitely biased in this regard, but to your point, we think that the healthcare vertical is the beachhead market for this stuff. Even doing a lot of these procedures, we’re typically gowned up. In some circumstances, people are wearing headlamps, different contraptions, whatever needs to be done to do a good job for the patient.
+“Whatever it takes” trumps fashion every time.
+End note: Medivis has filmed a couple of videos worth a closer look (here’s a short talk on AR-based visualization of medicine). There is also a compelling view of Medivis in action that I’ll embed in this piece shortly.
+Image credit - Feature image - Concept: medicine, future, immersive technology, doctor by @HQuality, from Shutterstock.com.Read more on: Healthcare transformationMachine intelligence and AIUse cases 

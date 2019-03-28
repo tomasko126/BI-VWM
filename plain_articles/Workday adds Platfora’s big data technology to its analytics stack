@@ -1,0 +1,36 @@
+
+Mike Frandsen, EVP Workday
+Last week, Workday announced the acquisition of Platfora, a vendor in the so-called big data/Hadoop space. In a blog post, Mike Frandsen, EVP Workday products, support and delivery said:
+
+…the acquisition mirrors our strategy of acquiring companies that have technologies we can build as part of the fabric of Workday. We never bolt on solutions because we believe our customers need applications built on one technology foundation, resulting in just a single version of Workday.
+
+This is super important. One of the distinguishing features of Workday is that it provides a single user experience regardless of where a user is inside the system. From our standpoint, the promise of hiding the complexity of hefting and manipulating multipole data sources from the business user is critical.
+In a call, Frandsen noted that Workday anticipates three types of user: the technologist who has to bring in data sources, the data analyst/power user, who has to understand data in a business context and the end user, who wants to consume data for decision making purposes. Continuing from the blog post:
+
+It also underscores our emphasis on acquiring companies who bring a talented, passionate team of employees who understand the value of collecting and connecting multiple forms of data to solve business problems. In fact, Platfora has been applauded for creating compelling tools tailored for data analysts and business users, working at some of the world’s largest companies to uncover important insights from all sorts of transactional, operational, customer, and machine data.
+
+Again, this is an important point because Workday and Platfora have shared customers with the likes of Bank of America and Thompson Reuters. But as if to underscore the variety of operational analytics required, Frandsen pointed out that BoA are interested in fraud and risk mitigation while Thompson Reuters are looking at trends and briefs.
+From my perspective, the implied infinite variety of use cases will present challenges for customers and vendor alike.
+Based upon recent conversations, it is an open question whether customers fully understand the scope and scale of the data sources they need. Hadoop vendors I’ve spoken with in the past recognize it is all too easy to become overwhelmed.
+On the call, Frandsen acknowledged the challenges and expects that Workday/Platfora will build a significant consulting capability around operational analytics. However, Frandsen was quick to point out how Workday found building visualizations is easy with Platfora:
+
+We were impressed early on in the due diligence that building Platfora viz(ualizations) can take as little as a couple of hours. Getting productive early is key for customers.
+
+My hope is that Workday considers partnering judiciously with subject matter business and experts. Again, from the blog post:
+
+And that’s what this is all about—helping our customers unlock even more insights across various forms of financial, people, and operational data while cutting the total cost of ownership for managing business intelligence or data warehouses outside of Workday.
+
+Workday’s analytics strategy
+Workday is tackling the broad topic of analytics on multiple fronts.
+At the most prosaic, we have the kind of reporting required by regulation – annual and quarterly accounts spring to mind and for which every company has a need.
+Then there are the well understood business planning and forecasting requirements of the kind Workday is hoping will be achieved through its forthcoming Workday Planning application, due for general availability in time for Workday Rising in September.
+The inclusion of Platfora adds a fresh dimension to the notion of operational analytics that Workday already exposes and for which we believe the Workbag concept is valuable. However, this is something of a reboot of Workday’s 2012 Hadoop centric strategy which had been de-emphasized in recent conversations.
+Workday hopes to take the wraps off Platfora at Rising, giving customers a taste of what’s in store.
+My take
+These are early days in the operational analytics journey and while plenty of vendors are working on some sort of program to build and test solutions, Workday is proving itself aggressive at making the kinds of investment that serve its ‘one stop shop’ mission.
+There are significant technical challenges involved. Hadoop is primarily an on-premises system so Workday has to find an elegant way to make the data Platfora exposes available inside the Workday cloud. Right now, the emphasis is on mobile. This will give Workday customers early value from this new set of capabilities.
+Doug Henschen, writing at ZDNet is concerned about the fact Platfora is focused on ‘other’ data sources, is largely on-premises and talks up behavioral analytics. I am not as concerned.
+Workday has long understood the need to absorb external data sources in the context of internal analytics that drive performance. There is no logical reason why adding capabilities that help customers manage non-financial and non-HR aspects of the business should be seen as a negative.
+If anything, providing Workday sales people with a means of leading with a comprehensive and embedded analytics kit bag has always been the goal because it focuses the mind on the things that matter, supported by systems of record that are fully integrated. What’s not to like about that?
+Rising just got a whole lot more interesting…
+Image credit - Featured story image via Platfora, story image via WorkdayDisclosure - Workday is a premier partner at time of writing. Read more on: Analytics planning and data analysisFinancialsHR admin and payroll 

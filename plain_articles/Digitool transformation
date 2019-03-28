@@ -1,0 +1,32 @@
+
+Peter Coffee
+The morning began with an exchange that sounded like something from Yes Minister: “This is a tightening tool with apps.” “What kind of apps?” “The kind you will be writing.”
+So began a connected-products hackathon at the dual events Bosch Connected Experience and Bosch Connected World, earlier this month in Berlin, where I had the pleasure of both observing the hacking challenges and participating as a speaker on the subject of “Connection and Disruption.”
+What makes this kind of event worth the trip, more than just watching the sessions on line, is being surrounded by the interlocking ingenuities that all have to advance to the next level before the “next big thing” really works. Let’s start with the central device of the challenge that Salesforce helped bring to the table: the Bosch Group’s Nexo cordless nutrunner.
+Yes, I can imagine people rolling their eyes at the question, “Why do I need an Internet of Things connection to a nut-tightening tool?” Don’t just think about the tool: think about the process.
+
+The tool scans a bar code on a work piece, and immediately knows exactly which procedures are required before the item can move to the next stage of an assembly line.
+The top-of-the-tool display, right in the worker’s line of sight, can indicate the best sequence in which to do a set of operations for best speed and consistency of results.
+In some situations, a smart tool might direct an occasional change of sequence in assembly steps to reduce an operator’s repetitive strain and also to improve alertness.
+The tool can optimize the tightness of each fastener, log the correct performance of operations, and maintain a record of performance data on its operator.
+Measurements from a factory floor full of tools can warn of a bottleneck emerging – perhaps associated with a workflow problem, but perhaps a warning that an operator is having unusual difficulties that day.
+
+None of this works, at least not for long, if the operator has to think of the device as a “computerized tool” or even just a “programmable tool.” 
+It needs to be simply a tool – and when I’m in Berlin, I can be quicker to quote the German philosopher Martin Heidegger’s admonition that: 
+
+The tool disappears into the function.
+
+The need for a tool to be a tool
+When you’re using a hammer, for example, your entire focus should be on the outcome of a properly driven nail: if you’re thinking about the hammer at all, it probably means that the head is loose or the handle is cracked or the balance is wrong for the task.
+I noted, therefore, the comment on that morning in Berlin by a Bosch engineer who said: 
+
+This is not just an ordinary 50-Euro power tool, but the operator has to be able to treat it like one: it has to be thrown into the tool crib at the end of the day without breaking, it has to be something a person can pick up and use without an hour of training.
+
+It has to be a tool first, and a “smart tool” only if that does not get in the worker’s way. What struck me, therefore, about that Bosch nutrunner is the near invisibility of the stuff that makes it smart: things like the built-in, browser-based operating interface that lets it interact with just about any kind of controller, rather than tangling it in any one mobile ecosystem.
+That invisibility reminded me of another example that I often use, comparing the Apple Watch with some of the higher-end Casio G-Shock watches. I wear Apple’s device when I’m “working” for my employer, but I wear a Casio when I’m “working” under rough conditions for days at a time off the grid. That’s because an Apple Watch is still, for now, a charge-it-daily device that has a multi-page manual and a non-trivial software management process. 
+The G-Shock, in contrast, is charged by the sun; calibrated by a radio signal; and built to keep telling time in conditions that will long since have killed the wearer. One of my sons is a professional expedition leader, and he has worn the same G-Shock for more years than we can reliably recall – with absolutely zero attention to making it do what it’s supposed to do.
+The late Sir Arthur C. Clarke might pay the G-Shock the compliment of calling it “indistinguishable from magic”. Contra-positively, Barry Gehm might say that the Apple Watch is so clearly not magic that it is ipso facto “insufficiently advanced,” but that won’t be the case forever. 
+Apple isn’t yet saying what we’ll see in the next iteration of their wearable, but we can get some idea of the likely improvements by looking at the next generation of the Snapdragon processors that we see in many Android devices: thinner, more power-efficient, more connected, and richer in sensor capability as well as processing power.
+Making things “digital” isn’t the destination, but is just putting on the running shoes before the marathon. Yes, we’re talking about “digitools” – and they have to keep doing simple things without fragility or fuss – but at the same time, the devices need to be part of systems that let us work at amazing levels of process intelligence. 
+Everything from the feel of the grip, to the deep learning power of global networks and their algorithms, is going to be part of these changes. Most of the errors in many current discussions, I’m certain, are failures to appreciate how quickly this is going to happen.
+Read more on: CRM and customer experienceDigital transformation - frictionless enterpriseInternet of ThingsIoT robotics and AIPartner ZoneSalesforce 

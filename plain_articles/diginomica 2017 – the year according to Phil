@@ -1,0 +1,105 @@
+
+(1) Conversational computing and headless apps
+The emergence of conversational computing heralds a period of root-and-branch reinvention for enterprise applications, in which existing functionality is unbundled and then recombined in new ways.
+Why? For me, this was the most significant and surprising trend to emerge in enterprise software during the year. Enabled by AI (of which more in a moment) and embedded in digital messaging and collaboration tools (more on those further on), the ability to engage in conversation with computing is as big a change as the transition from green screens to the graphical user interface. The underlying apps become headless, which turns them into functional utilities, and then commodification begins.
+
+I bought an Amazon Echo Dot. Here’s what Alexa said next
+SuccessFactors futures – conversational HR and headless apps
+Cloud, mobile, AI and the unbundling of enterprise apps
+Tact CEO Chuck Ganapathi on the transition to conversational apps
+Off with their heads! A conversational revolution in enterprise apps
+Two takes on conversational computing and the limits of AI
+Embedding apps in Quip is huge for Salesforce – here’s why
+
+(2) Here come the robots, but not yet
+The fact is, we don’t need to create a new race of super-intelligent robots to wipe out the human race. We’re perfectly capable of doing it ourselves.
+Why? It’s been impossible to ignore the emergence of artificial intelligence as a major new trend shaping the future, not only of enterprise computing but of society itself. That has led to a lot of worry as well as excited anticipation. But as with any newcomer on the technology scene, expectations of AI are racing ahead of what the current technology can realistically achieve.
+
+Salesforce captures the limits of AI in a Coca-Cola cooler
+Why the tech industry should lobby for a robot tax
+First the robots will take our jobs, then they’ll kill us. Really?
+Machine washing, data bigging and the DIY money pit of AI
+
+(3) The triumph of cloud
+Build confirmed — if anyone still needed persuading — that the cloud, and more specifically Azure, has superseded Windows at the center of Microsoft’s universe today, with AI its core.
+Why? It wasn’t only Microsoft that succumbed to the march of cloud computing this year. Even Oracle has finally acknowledged the supremacy of cloud. Of the enterprise majors, only SAP still has one foot on-premise while it works to prove HANA at cloud scale. Having championed SaaS and cloud computing from the very beginning, I feel vindicated — but the journey’s not done yet.
+
+SAP SuccessFactors migration to HANA begins in earnest
+Build17 – Azure rising as Microsoft preps Windows Fall
+Apttus CEO on poly partnering with Salesforce and Microsoft
+An eyewitness history of SaaS in twelve chapters
+OOW17 – Oracle’s cloud epiphany has come late, but it’s no less genuine for that
+
+(4) APIs and the consumerization of integration
+What used to be called ‘middleware’ — the hidden and often arcane field of enterprise application integration — is suddenly sexy again. Or at least, it’s back in demand.
+Why? Back in the early days of SaaS, we used to dream of being able to connect together loosely coupled, on-demand microservices. This year I saw it demonstrated live on stage during a Twilio keynote. This is not the monolithic, cumbersome middleware of old. A new generation of vendors are enabling fluid, snap-in-place connections that in many cases can be managed by business users.
+
+Dell Boomi, the integration play too hot to spin off (yet)
+MuleSoft founder wants CIOs to say, ‘There’s an API for that’
+Workato automates app integration and conversational workflow
+Twilio Studio – now anyone can build a voicemail and messaging app
+
+(5) The Wipro story
+It’s not an ‘or’, it’s not the Wipro way or the Appirio way, it’s the ‘and’ — how do you marry two different selling motions and value propositions into one?
+Why? Like all its peers, IT services giant Wipro has to transform its business for the digital era. Its chosen route is to accelerate that change through acquisitions — of design agency Designit, cloud integrator Appirio, and most recently UX design consultancy Cooper. Drawn into this story by longstanding coverage of Appirio, I’ve been intrigued to watch it play out and see what lessons can be learned.
+
+Wipro relaxes dress code for Appirio, what else is changing?
+Bringing digital design thinking to Wipro – Designit’s story
+One year on – Appirio CEO on the drive to transform Wipro
+Designit CEO on buying Visual Basic creator’s consulting firm
+Wipro’s Hiral Chandrana on Appirio wins, AI and RPA
+
+(6) Retail’s transforming on the inside, too
+The biggest threat I see to Walmart is groupthink.
+Why? Retail is one of the industries most strongly affected by digital transformation, but much of the coverage focuses on the consumer experience. An equally significant change is happening behind the scenes, in how retailers manage their supply chain, how they work with their staff, and how they manage change internally.
+
+Workday signs Walmart, a 2m-seat SAP SuccessFactors account [UPDATED]
+How Walmart honed its people analytics to deliver business value
+After Walmart, Workday signs its retail arch-rival Amazon
+Infor powers Amazon global logistics, continues SaaS progress
+Ocado put robots in its warehouse. Here’s what happened next
+
+(7) Collaboration meets Kanban
+At the beginning of the year, I argued that content platforms had to be the center of gravity for collaboration in the digital enterprise. But developments this year have changed the landscape and now the combined effect of AI and APIs make it possible — actually preferable — to anchor collaboration in messaging.
+Why? I’ve long believed that connected digital technology makes the role of collaboration absolutely central to the operations of the digital enterprise — to the extent that collaboration becomes a fifth application pillar alongside the traditional quartet of ERP, CRM, HCM and SCM (or their successors). This year, augmented by the emergence of conversational computing, the shape of that fifth pillar has finally become clear.
+
+Sharing meets collaboration – Box Notes vs Dropbox Paper
+Dropbox CTO on advancing enterprise collaboration with AI
+Towards a unified theory of enterprise collaboration
+Box CEO Aaron Levie on 5 big shifts in enterprise collaboration
+Atlassian on transparency as the secret sauce of collaboration
+Five ways Slack is getting sticky for enterprise collaboration
+If an enterprise can’t fix workflow, what if a Kanban can?
+Defining a collaborative canvas to channel digital teamwork
+How messaging upstaged content to win the heart of enterprise collaboration
+
+(8) XaaS – everything as-a-service
+Every type of product and service is first of all being transformed by software — and then supercharged by connections. The end result is that every business is moving towards providing everything as-a-service — a phenomenon we at diginomica are calling XaaS (pronounced ‘X-ass’).
+Why? Some people talk about the service economy and servitization, others celebrate the subscription economy and the shift away from product sales to continuous engagement. But how do these assorted trends relate to each other? This is our pitch to make sense of it all.
+
+A CxO’s practical guide to surviving the as-a-service revolution
+How manufacturers blend products, services on the path to XaaS
+Building subscription relationships that work in a XaaS world
+Enterprise learnings from the move to XaaS – everything as a service
+Software isn’t eating Caterpillar’s world, just spicing it up
+
+(9) Heading for a frictionless world
+Digital transformation is not just about changing the technology, it’s about changing the way the enterprise works. We’ve got to use the technology and its connectedness to sweep away all of those barriers.
+Why? A long-running theme of mine has been the notion of frictionless enterprise, which is diginomica’s framework for understanding and mapping digital transformation. We’ll be expanding further on this in 2018.
+
+Is HR ready to carry the burden of digital transformation?
+Cloud computing’s history foretells the future of automotive
+Five takeaways from PepsiCo on moving SAP HR to the cloud
+Frictionless enterprise, the video – six quick takeaways
+
+(10) Now some words from our sponsors
+After all, the most successful companies today are those that have created new solutions to customer needs.
+Why? At diginomica, we provide a platform for our partners to engage with readers through their own content, which we publish separately from but alongside our own independent content. So as my tenth pick, here in chronological order is a short sample of the most popular posts contributed by partners during the year.
+
+Get ready for 5 huge changes in the future of work
+The pros and cons of augmented reality in field services
+IoT, AI and drones in the future of enterprise asset management
+Customer experience – the new innovation battleground
+AWS Lambda v Amazon ECS – two paths to one goal, which is best?
+
+Image credit - Freeimages.com Disclosure - At the time of writing, Infor, Oracle, New Relic, Salesforce, SAP, ServiceMax, ServiceNow, Workday, all cited above, are diginomica premier partners. Apttus funded the author's accommodation to attend Dreamforce this year. Read more on: Cloud platforms - infrastructure and architectureCollaboration sharing and digital productivityDigital transformation - frictionless enterpriseHCM and the digital future of workIoT robotics and AI 

@@ -1,0 +1,37 @@
+
+As we debate the definitions of AI, new reports from the White House and Google flag the dangers of algorithmic bias. The White House AI report, Preparing for the Future of Artificial Intelligence (PDF link),  provides a context for what we can expect from the federal side.
+My colleague, Stuart Lauchlan, has noted that the U.S. government actually issued two AI reports. See his recent piece: AI and government – the view from the White House. I won’t duplicate that analysis here, with Lauchlan’s piece being a better overview of the entire report.
+Google, meanwhile, has issued guidelines for attacking discrimination with smarter machine learning. AI in its purest science fiction form is still futuristic, if not wishful thinking. But the public policy implications are volatile and immediate, as in Crime-prediction tool PredPol amplifies racially biased policing, study shows.
+The same is true for the lightning rod topic of job automation. Writing, for example. It will be a few years/decades/centuries? before writing bots will churn out opinionated commentary and emotional narratives. But I had a pal in college who paid his expenses cranking out half-hearted celebrity bios on spec. That’s nor far from what the writing bots are already generating. As Ryan Bozeman wrote in How Bots Are Changing The Future Of Journalism:
+There are specific types of writing where AI will replace writers almost entirely, and it is possible to imagine a future where the majority of written content we consume online is created by bots. In fact, we’ve examples of AI-generated stories being used in the press already. As time goes on, these types of solutions will find more applications. Anything that is dry and data-based can be automated, but companies have struggled to emulate true creative writing.
+Bottom line: those who are designing algorithms and coding bots can already do plenty of harm – or at least disrupt the norm – despite the limitations of today’s AI tech. That should concern enterprises on two fronts:
+
+The dangers of algorithms contributing to discriminatory practices and less diverse workforces, thereby creating legal exposure on the one hand, and a less talented workforce on the other.  Check Brian Sommer’s “You’re not our kind of people” – why analytics and HR fail many good people.
+The challenge of how to upskill humans to work alongside bots, in those scenarios where human judgement or exception handling is needed. See my piece, Assessing the business impact of chatbots.
+
+Addressing algorithmic bias
+The topic of algorithmic bias is a pre-occupation of the White House report. Here, we have a potential clash with Google’s approach. Google explores the issue of algorithmic bias in processes like loan approvals, examining different programmatic solutions, such as:
+
+“group-unaware” – this would holds all loan application groups to the same standard. The downside? The unfairness of ignoring genuine differences between groups. Insurance example: women statistically outlive men. A”group unaware” policy can be blind to distinctions that matter. Even in cases where both groups are equally loan-worthy, problems can arise
+demographic parity – if a bank wants to use loan thresholds that issue the same number of loans to each group, a demographic parity filter could be the solution – a “positive rate” in both groups. Downsides to this approach include neglecting the look at rates of loan payback between the groups.
+equal opportunity – this approach attempts to solve the above problem. The constraint used here is “of the people who can pay back a loan, the same fraction in each group should actually be granted a loan. Or, in data science jargon, the ‘true positive rate’ is identical between groups.'”
+
+I didn’t put these in here to give readers a popsicle headache, but to illustrate that even on an algorithmic level, the complexities of bias reduction are substantial. The White House points to a problem Google doesn’t address: the lack of diversity amongst AI programmers. As Larry Dignan writes in Obama’s report on the future of artificial intelligence: The main takeaways, “The report noted that computer science is dominated by white males and there’s a need for more diversity. If not, AI will carry the biases of the creators of the algorithms.” From the report:
+Commenters focused on the importance of AI being produced by and for diverse populations. Doing so helps to avoid the negative consequences of narrowly focused AI development, including the risk of biases in developing algorithms, by taking advantage of a broader spectrum of experience, backgrounds, and opinions.
+AI and the workforce – creativity and job displacement
+You might expect the White House AI report to take a dire view of AI and job displacement, but the tone is nuanced. As Dignan puts it:
+AI can be a solution to the workforce displacement it’ll create. The report noted that AI can help workers progress and ultimately transition to a big data era.
+One example cited in the report: DARPA has developed a digital tutor for Navy recruits to learn technical skills. Some of the results have been striking. Dignan: “Navy recruits using the digital tutor to become IT systems administrators frequently outperform Navy experts with 7-10 years of experience in both written tests of knowledge and real-world problem solving.”
+In Demystifying AI, ML, DL with Vishal Sikka and real world examples, Den Howlett gets Vishal Sikka’s impassioned take on AI. One point that shines through is the view of welcoming automation in pursuit of the creative. Sikka:
+Wherever there is an opportunity to replace our work with mechanical autonomic work then we must embrace that because it amplifies us, it improves our productivity, it makes us more efficient and in principle with that efficiency we can do more and ultimately it can free us up to be creative. So we have this duality of improving our productivity and unleashing our creativity.
+That makes sense from the vantage point of which occupations are in most danger from automation. NPR’s interactive tool, Will Your Job Be Done by a Machine?, assesses that likelihood based on four factors:
+
+Do you need to come up with clever solutions?
+Are you required to personally help others?
+Does your job require you to squeeze into small spaces?
+Does your job require negotiation?
+
+The results put telemarketers in the 99 percent chance of being automated (ugh – we’re stuck with bot callers from hell). Social workers are on the opposite end of the spectrum. Most of us in the tech world have some combination of roles we perform every day, some of which are high value/hard to automate, and some of which are threatened. We might welcome offloading many of them – travel booking comes to mind.
+Howlett goes on to detail five AI scenarios underway at Infosys Palo Alto. They all involve some blend of human talent and machines, bots, and virtual reality. And: immersing students in new, forward-thinking projects. I see these examples as proof points. Most of the threats posed by AI are not immediate. But ethical frameworks aren’t something to postpone. Neither is an industry-specific workforce re-skill.
+ 
+Image credit - AI © CrazyCloud - Fotolia.comRead more on: Digital skills and trainingIoT robotics and AIMachine intelligence and AIThe new professional and IT as a serviceUX and application design 

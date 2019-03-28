@@ -1,0 +1,38 @@
+
+Following yesterday’s decision by the European Court of Justice (ECJ) to strike down the Safe Harbor provisions for data transfer, the question of what happens next has begun to be addressed.
+One notable feature of the ECJ ruling was its criticism of the European Commission (EC) for signing the Safe Harbor agreement with the US authorities back in 2000.
+Brussels wasn’t about to take that lying down and sure enough First Vice-President Frans Timmermans and Justice Commissioner Věra Jourová called a press conference to hit back within a matter of hours of the ruling being made.
+Timmermans made a point of affirming that it’s Safe Harbor that’s been ruled out of order, not the basic principle of data transfer outside of the European Union to the US, home to the overwhelming majority of cloud services providers and their data centers:
+Transatlantic data flows between companies can continue using other mechanisms for international transfers of personal data available under EU data protection law.
+Our priorities as Commission are now, the protection of personal data transferred across the Atlantic, the continuation of transatlantic data flows, which are important for our economy, with adequate safeguards and the uniform application of EU law in the internal market.
+Jourová added:
+The EU data protection rules provide for several other mechanisms that provide safeguards for international transfers of personal data, for instance through standard data protection clauses in contracts between companies exchanging data across the Atlantic or binding corporate rules for transfers within a corporate group.
+The Commission remains fully committed to data transfers across the Atlantic whilst ensuring robust data protection safeguards for citizens and legal clarity for businesses.
+What she’s referring to by other mechanisms are a number of derogations that still allow the transfer of personal data to the US. These include circumstances in which:
+
+the individual has given his unambiguous consent to the transfer.
+the transfer is necessary for the performance of a contract between the individual and the business (which is the “data controller”).
+the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the individual between the business (again, the “data controller”) and a third party.
+the transfer is necessary or legally required on important public interest grounds, or for the establishment, exercise or defense of legal claims.
+the transfer is necessary in order to protect the vital interests of the data subject.
+
+Reaction
+Meanwhile national data protection authorities around the EU are assessing their own positions.
+Ireland’s Data Protection Commissioner has been ordered by the ECJ to revisit the decision not to proceed with an inquiry into Facebook’s handling of the personal data of Austrian student Max Schrems. It was this refusal to proceed that led to the ECJ coming to yesterday’s decision.
+Helen Dixon, the Irish Data Protection Commissioner said in a statement that she would be working with counterparts across the EU:
+In declaring the old ‘safe harbour’ rules invalid … the significance of the judgment extends far beyond the case presently pending in Ireland. In that regard, my Office will immediately engage with our colleagues in other national supervisory authorities across Europe to determine how the judgment can be implemented in practice, quickly and effectively, particularly insofar as it impacts on EU/US data transfers.
+Meanwhile in the UK, Deputy Information Commissioner David Smith echoed the ‘keep calm and carry on’ messaging from Brussels:
+The judgment means that businesses that use Safe Harbor will need to review how they ensure that data transferred to the US is transferred in line with the law. We recognise that it will take them some time for them to do this.
+It is important to bear in mind that the Safe Harbor is not the only basis on which transfers of personal data to the US can be made. Many transfers already take place based on different provisions. The ICO has previously published guidance on the full range of options available to businesses to ensure that they are complying with the law related to international transfers. We will now be considering the judgment in detail, working with our counterpart data protection authorities in the other EU member states and issuing further guidance for businesses on the options open to them.
+But while there’s a clear attempt to reassure cloud services users that they shouldn’t panic, there’s still enormous concern in the US tech industry, with CA Technologies coming out with the most robust response to date. Michael Bisignano, CA Technologies General Counsel, said:
+Secure data flows around the whole world have become the lifeblood of economies so we have very strong concerns about the implications of today’s judgment for the Application Economy. The consequence of the decision will go beyond Safe Harbor, creating the risk of a fragmented approach in Europe towards international data transfers. This can create legal uncertainty that could become a roadblock for the continued development of the Application Economy in Europe. A fragmented approach to international data transfers is the last thing Europe’s connected Application Economy needs.
+For his part, Schrems said that there was a lot of alarmist talk about the ruling that wasn’t justified:
+It is clear from the judgement applies to a limited set of situations, such as outsourcing of EU data processing operations to US providers. The court could have allowed for a transitionary period, to allow a smoother implementation even in these limited cases, but did not chose this option. The average consumer will not see any restrictions in daily use, but will hopefully soon be able to use online services without potentially being subject to mass surveillance.
+However, US companies that obviously aided US mass surveillance (e.g. Apple, Google, Facebook, Microsoft and Yahoo) may face serious legal consequences from this ruling when data protection authorities of 28 member states review their cooperation with US spy agencies. This is despite the fact that many of these companies rely on other transfer methods (under Article 26) and the ruling was on ‘Safe Harbor’ (under Article 25), because the court primarily argued on a fundamental rights basis, that applies to all means of data transfers to the US.
+And he took time out to thank one person whose actions exposed a scandal, but cast a shadow over the cloud industry:
+This result was only possible because of the revelations by Edward Snowden.
+My take
+It’s ironic that Commissioner Jourová’s predecessor made great play of her threat to have Safe Harbor declared unsafe. Brussels is now finding that ‘be careful what you wish for’ is all too true.
+But while there’s a pleasing element of schadenfreude about watching the Justice Commissioner having to try to convince everyone that this isn’t a big deal, in reality it really is.
+And as various voices are pointing out today, the real loser here could be the European digital economy.
+Read more on: Data privacyRegulation 

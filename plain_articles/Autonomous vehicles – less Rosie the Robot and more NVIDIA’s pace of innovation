@@ -1,0 +1,42 @@
+
+It’s hard not to feel jaded and cynical about autonomous vehicles (AVs) amidst the furious hype. One can’t but think about the many failed promises of flying cars, space hotels and sentient computer assistants to wonder if self-driving cars will end up as just another Rosie the Robot sci-fi fantasy.
+At the risk of looking like Charlie Brown on the gridiron, this time does look different thanks to the relentless march of technological progress, particularly in the components needed to build an AV. A nexus of elements are fueling, and even accelerating, progress in AV development that few thought possible a few years ago. These are led by:
+
+Massively parallel computational engines on a single chip
+Sensors for all types of physical parameters
+Deep learning algorithms
+Scalable cloud computing utilities with the capacity to aggregate massive amounts of data and feed more complex algorithms
+Software platforms that insulate developers from low level algorithmic and platform details
+
+Together, these are providing the technology that let’s more than 25 companies work on fully autonomous, so-called Level 5, robotaxis.
+The popular conception of AVs as primarily a replacement for Uber and taxi drivers is shaped by news accounts focused on the sizeable investments by ride-sharing companies and car manufacturers in the technology. However, the lag between legal findings and regulatory rules and street-ready technology is enormous, meaning that AVs will likely make their way to other, less statutorily fraught arenas within the enterprise before you ever hail an autonomous buggy for a ride to the airport.
+NVIDIA aggressively developing self-driving platforms
+Few established companies have gone on a roll like the one NVIDIA has been riding the past couple years, with the stock price almost triple its level of a year ago, primarily due to anticipation of booming sales in its data center and AV business.
+The company once saved its biggest product announcements for the springtime GTC show (see my coverage of this year’s event here and here), however its technology train is moving so fast that a single annual big-bang event isn’t enough anymore. The company has expanded the GTC franchise overseas and has positioned the European edition, recently held in Munich, as the primary event for future AV product announcements.
+A significant cause for optimism about an aggressive AV timeline and the reason so many companies are confident enough to invest in full Level 5 autonomy is the pace with which NVIDIA is improving its AV-focused DRIVE PX platform.
+First announced in 2015 and considerably enhanced last year, DRIVE PX got another substantial boost this month with the Pegasus platform, which NVIDIA claims has 10x the performance of the PX2 version announced in 2016. While impressive, the numbers are aspirational, since even early-access developers won’t get their hands on a Pegasus board for about a year. Still, since the raw specs indicate a product based on the previously-announced Volta V100 GPU, which has already been delivered to some developers, there’s a high probability that NVIDIA will have something for its automotive partners in 2018.
+With order-of-magnitude computational improvements happening every year or two, AV developers will no longer need to fill a car’s entire trunk with the hardware required to handle high-resolution imagery, information from a couple of dozen other sensors, detailed 3D map data and the sophisticated deep learning algorithms to differentiate an ambulance from a delivery truck. As NVIDIA CEO Jensen Huang emphasized in his recent keynote,
+The computational requirements of robotaxis are enormous — perceiving the world through high-resolution, 360-degree surround cameras, radars and lidars, localizing the vehicle within centimeter accuracy, tracking vehicles and people around the car, and planning a safe and comfortable path to the destination. All this processing must be done with multiple levels of redundancy to ensure the highest level of safety. The computing demands of driverless vehicles are easily 50 to 100 times more intensive than the most advanced cars today.
+Indeed, Huang illustrated how technology is changing fundamental automotive performance metrics,
+In the old world, the more powerful your engine, the smoother your ride will be. In the future, the more computational performance you have, the smoother your ride will be.
+The best hardware isn’t worth much if developers and engineers struggle to use it, so a critical adjunct to the Pegasus announcement is the release of a DRIVE IX SDK to bootstrap creation of co-pilot software with modules for necessary features like facial and gesture recognition, head, eye and gaze tracking, natural language processing and external environmental awareness. When paired with the previously announced DGX development systems that can be ganged together to speed ML model training, NVIDIA has covered the entire AV development lifecycle.
+The slow road to street-legal AV
+Meteoric technological progress doesn’t mean that the road to full autonomy will be smooth or swift.
+The analysts at Loup Ventures are bullish on AV and other disruptive transportation technologies, but don’t predict an inflection point between partial and full autonomy until the 2030’s.
+However, once it starts, the transition will be swift, estimating that by 2040 more than 94% of new vehicles will be Level 5 AV. That same analyst highlights the principle reason for such a sizable gap between testing and adoption, regulation.
+And the biggest risk to the timing of self-driving adoption isn’t tech, but lawmakers’ aversion to risk, and the inevitable slow hand in making autonomous cars street legal. You can see it now, federal and state lawmakers feverishly debating AI mortality around a car’s crash path, overlooking undeniable evidence that human error causes more than 90% of accidents and machines can reduce that risk.
+One look at some of the companies using the DRIVE PX platform shows that AV technology extends well beyond the market for individual transportation. AVs are likely to enter the enterprise well before self-driving cars are pervasive. For example:
+
+Driverless shuttles like those found at airports, amusement parks or other large venues
+Vans for last mile package delivery
+Platoons of AV trucks, perhaps initially led by a driver-assisted pilot cab, for long haul deliveries
+Unmanned aircraft systems (UAS) and traffic management (UTM) for both logistics (package delivery), industrial/mining and agriculture
+Robots for material movement in warehouses and manufacturing floors
+
+At GTC Europe, DHL demonstrated a last mile delivery van being track tested in Bavaria that the company expects to test on the streets next year.
+My take
+The speed and apparent acceleration of technology development and market dynamism related to deep learning and AV are reminiscent of the Internet’s earliest days more than two decades ago.
+As Twain said, “history doesn’t repeat, but it often rhymes,” so the lessons of that era for AVs writ large point to spates of irrational exuberance, dejected derision and subsequent unexpected commercial successes of fantastic proportions.
+The technology underpinning AVs is so compelling, with capabilities that double every couple years, it’s inevitable that companies will find effective ways to deploy unmanned vehicles that save time, money and potentially lives doing jobs that can be hazardous, strenuous and tedious.
+I expect to see an AV shuttle me from a parking lot or bus stop to an airport or office building long before I take an AV taxi downtown. Don’t be surprised if some employees end up being forced to substitute their UPS truck for an Uber car. Regardless, AVs mean business and any organization moving people or material should start investing in them now.
+Image credit - Story image: Smithsonian Magazine, Featured, via authorRead more on: Internet of ThingsMachine intelligence and AIRobotics 

@@ -1,0 +1,50 @@
+
+I’ve looked at the impact of chatbots from a couple different angles, trying to grasp how much impact chatbots will have on business – and when. Who better to ask than an investor who has to think twice before funding a bot startup? That would be Sergey Gribov, partner at Flint Capital.
+Flint Capital invests in companies across U.S., Israel and Europe, focusing on areas such as mobile, Saas, financial, education tech and enterprise. Gribov himself is steeped in the tech sector, having begun his career in Russia as a computer programmer. He has startups in his blood, having been the founder or top manager in more than ten different startups internationally.
+The Boston-based Gribov is one of five Flint Capital partners, each with their own purview. They bring the best startups to the entire group for evaluation. So is he investing in bot startups? What role will AI play with bots? And what business impact does he see in bot technology?
+Gribov’s first chatbot run-in – customer service automation
+Gribov told me he stumbled on bots while investigating customer service automation, which has been evolving towards bots:
+We were looking at companies which are not exactly chatbots, but in a similar area, automating customer service. It’s evolved now into chatbot types of interfaces, allowing service reps to answer the questions and support customers in more automatic ways.
+This made Gribov curious enough to don the programming hat again:
+When I saw the chatbots, I was kind of interested. I even wrote some small chatbots just for the heck of it – just to figure out how these things work.
+Gribov amped up his search for bot use cases. That’s when he realized people were making a big error:
+Originally, people started to put bots in a special category. In my opinion, chatbot is not a category. It’s basically just an interface.
+One thing Gribov noticed about the chatbot interface: the next generation lives in chat already. Gribov:
+I have kids who are teenagers, and for my kids and probably lots of millennials, the chat interface is probably the most natural interface. I communicate with my kids on Facebook Messenger all the time.
+Once you have an interface, then you need product: “You have to have some products, which provide value to the end customers.” Gribov raised a question about the early service chatbots: they help companies cut costs, but do they create a better customer experience? He’s not so sure:
+Chatbots allow you to reduce the amount of people working in customer service. You can outsource some of this to AI, and you can lower your customer service expenses. The value of the product is actually not for the end customer, but for the company which provides the customer service.
+Chatbot use cases versus hype
+For another immediate use case, Gribov cited the flight booking example that companies like GoButler are pursuing. The business value? Again to the company, which can increase conversion rates:
+Instead of relying on the customer clicking through the right things, you can start asking questions through a chatbot. The chatbot will guide the customers through that, which in turn result in a better conversion rate for your customers than if you just passively wait for them going through a web interface.
+Beyond that, Gribov sees, well, hype:
+I think a lot of the hype is just hype, but [those examples] show there are use cases for chatbots to consider.
+My concern: our current generation of chatbots is not very intelligent. That means they run the risk of alienating customers in service scenarios unless their limits are made clear. Dealing with a bot only to give up and phone the call center is irritating. Gribov:
+Everyone hates that. You need tofind the opportunities where the customer is not too frustrated to use your service, but you’re still lowering the expenses enough so it would make sense.
+Gribov thinks the way around these use case limitations is better AI. Better AI, better chatbots. He points to the rise in the sophistication of neural networks in the last 5-7 years. AI is good enough now to power chatbots to handle some standard situations, but not the exceptions. How far are we from handling exceptions via AI bots? Gribov:
+AI applications are much smarter than they were three to five years ago… For some more complicated stuff, it’s still not there. We’ll still see some frustration in the interface for people who are using them. It will take probably another three to four years till the AI will get to the point when it will be able to cope with non-standard situations.
+Designing for the chatbot’s limitations
+We debated how a chatbot-with-limitations can preserve a good experience. I believe it’s all about:
+
+The chatbot recognizing it’s in over its head, or conceding to human backup quickly
+Handing off in an elegant way to a competent human
+
+If the chatbot knows the customer is a frequent flyer, providing the direct line to a dedicated account rep is a low friction scenario. Simply spitting out a generic help number into the chat is high friction.
+Gribov believes the chatbot should be able to recognize when it’s overmatched, and facilitate the hand-off: “It needs to recognize the problem early on, and just smoothly hand off the request.”
+The future of chatbots as AI improves
+So how can chatbots get better? What will more powerful AI bring? Gribov cites sentiment analysis:
+The AI will be able to figure out that the customer is getting frustrated. How do I calm them down.? You will see more and more personalization. From the way people talk, the bot figures out the right way to communicate. It’s like the good salesperson – from initial conversations, you understand how to relate to different customers.
+In five years, Gribov thinks AI chatbots could be better than low-level service reps:
+You can say what the good customer service or good salesperson is doing is intuition. Actually, a lot of this intuition can be programmed into AI. You will see AI can handle some of the requests better than the actual person. In three to five years time, you will see a lot more smoothness [in the chatbot’s style]. In a best case scenario, in five years, the AI will be better than the average customer service we have.
+One big reason for AI over human service? New human hires have to be trained each time. The AI continuously learns. The AI can ingest all kinds of customer and performance data, utilizing it in future interactions. AI can achieve a high level of personalization from that data. Whereas a human rep might not be able to ingest the data quickly enough during a live interaction.
+Investing in chatbots – the money question
+We touched on Facebook’s heavily-hyped chatbots (“I think they are not too sophisticated,” says Gribov), before moving onto the money question: is Gribov investing in any chatbot companies? Short answer: not yet, but they’re looking. Gribov:
+We haven’t invested in any of them yet. I looked at the company which is doing chatbots for Slack. The biggest question there was, “How do you monetize it?”
+Monetization is an issue because high chatbot usage doesn’t mean you can tie that to revenue. Gribov has encountered another investment problem: usage churn. People get excited about certain bots, use them for a while, and then move on. In other cases, Gribov did not see a powerful AI engine behind the bot. In sum:
+We continue to look at chatbots. We want to find the company which has an interesting product which creates some value for the customer. It’s got to be a business with a big enough market, so it can be scaled.
+My take
+It was refreshing to hear a bot expert concede the limitations of the today’s tech. Gribov is right: bots might save money without improving the customer experience. Though today’s chatbots could be better if the “smooth hand off” to human reps is perfected.
+Bots aren’t going to improve customer experience unless the goals of customer service are reframed from cost savings to competitive strength. Otherwise, you are just plugging chatbots into a customer-hostile paradigm. Bots can’t be expected to overcome that.
+Down the road, a bot might have a personalization advantage, but right now, data silos would prevent even a sophisticated bot from pulling all the data relevant to a customer or interaction. Not to mention the unstructured nature of some of the vital data. Bots land in the morass of the data problems enterprises are struggling to solve.
+Messenger-based environments remain potent, as WeChat has demonstrated. We’ll see the influx of Messenger-based transactions/commerce services before we see a truly intelligent chatbot interaction. Still, a chatbot that does one thing, does it well, and hands off exceptions with grace could have value – even as these bigger problems remain unsolved.
+I could see chatbots displacing plenty of service reps – though not the outstanding/higher level ones. The bot never gets irritated like the service rep might. The bot can handle five customers at once, and it’s not distracted by its own cell phone. But chatbots must be designed with imagination, and with more than efficiency in mind.
+Image credit - Replacement Of Humans By Machines © ktsdesign - Fotolia.com.Disclosure - Diginomica has no financial ties to Flint Capital.Read more on: CRM and customer experienceCustomer service managementFuture of workMachine intelligence and AIRobotics 

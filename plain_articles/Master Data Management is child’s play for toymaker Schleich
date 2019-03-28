@@ -1,0 +1,30 @@
+
+The hand-painted plastic figurines manufactured and sold by German toymaker Schleich come in many shapes, sizes and colours. Last year, the company shifted €132.5 million-worth of farmyard and zoo animals, dinosaurs, knights in shining armour and DC Comics superheroes, among other products – the best sales performance in the company’s 80-year history. 
+What all these figurines have in common is a heap of regulations governing their quality and safety. These are children’s toys, after all, and the plastics and paints used to create them must meet the standards set in the 50-plus countries in which they’re sold. Across the Europe Union, for example, there’s the EN 71 toy-safety standard to meet. Across the world, there’s ISO 8124. On top of these standards, many nations have their own country-specific codes with which they expect toymakers to comply. 
+For every lion cub or Green Lantern action figure that Schleich sells, then, it’s vital that the company has a clear record of the raw materials used in its creation, the legal directives that apply to its sale and its individual compliance history, explains Dr Andreas Weber, vice president of operations at Schleich. 
+Much of that data, says Weber, is scattered across different systems within Schleich. Some of it comes from Schleich’s partners: suppliers of raw materials; third-party manufacturing/production companies in China, Africa and Eastern Europe; and external laboratories that perform compliance testing and certification, for example. 
+On the face of it, this sounds like a clear-cut case for implementing a Master Data mManagement (MDM) product from the likes of Informatica, Information Builders, Tibco or IBM – but Weber wanted to try another approach. 
+Before arriving at Schleich seven years ago, he explains, he’d worked in the cosmetics industry, so he was no stranger to the challenge of managing product data in a strictly regulated industry. It was in that previous job, he says, that he first started to mull over new approaches to MDM. 
+It wasn’t until recently, however, that he learned that some companies are now turning their backs on established MDM products and using graph databases instead. Unlike a relational database, with its rigid row-and-column structure, a graph database is based on classifications and relationships, which opens up new ways of organizing and searching for the data it contains. 
+Some believe this is a better fit for the complexity of master data which is often highly related, not to mention duplicated over multiple sources such as ERP and CRM systems.
+Better model
+This argument made good sense to Weber. For a start, he says, it would give him and his team the flexibility to create an entirely new semantic data model for Schleich, designed with its specific needs in mind:
+
+There’s information on chemicals and physical properties of products, but chemical is the most difficult part. We want to make our use of ingredients more transparent, but many people even within Schleich were using different ways to describe and define ingredients, so that was our thinking beyond developing a semantic data model for the company.
+But from my conversations with MDM companies, I quickly realised that these solutions, which are usually based on a [relational] databases, use pre-designed data models. By getting input from different customers and different products sectors, the software companies learn to enlarge their data models to better fit the needs of individual customers, but that wasn’t what we were looking for.
+
+More importantly, he adds, the graph-database structure would allow Schleich to make better sense of the interdependencies and relationships that exist between product data. In other words, graph databases treat the connections between two pieces of data as a first-class object, so you can search and categorise data not only by field, but also by relationships. 
+In this way, Schleich can get answers, more quickly, to more complex questions: which products in our Wild Life product line have Ingredient X in common and which of these will be sold in, say, Japan, where there’s a particular rule regarding Ingredient X? Weber adds:
+
+More and more colleagues are starting to work with the system and find it useful. They’ll ask, for example, ‘Now show me all the missing chemical approvals for products due for launch in Japan on 1st September.’ And we can answer such questions quickly.
+
+The issue here isn’t that you couldn’t ask the same questions using a relational model. You could – but you’d have to write more complex queries. Plus, graph databases do a better job of storing and searching the incomplete datasets often found in MDM.
+Ultimately, Weber selected the Neo4J graph database from Neo Technology to provide the platform for Schleich’s new product data management (PDM) platform and the project kicked off last year. The team started by dealing with demands for information generated in the company’s Quality Control department. Next time, Weber says, he’d do it differently::
+
+My recommendation would be to start at the other end of the process – with product development. Take your product data first, then the details of your bill of materials (BOM) from manufacturing as your second step, and then go deeper and deeper.
+
+Today, staff at partner companies can also enter data into the new MDM platform, while employees in Schleich can get precise information about raw materials being used in each product, check compliance with legal directives and adjust their plans as necessary. The impact of changes to laws on production plans and product release dates can also be quickly assessed. Says Weber:
+
+Using the new platform, we can manage our entire dataset from different systems quickly, easily and very flexibly. In addition to improved transparency in quality assurance, today we can plan and track all processes along the value chain with much greater efficiency.
+
+Read more on: InfrastructureNoSQLOpen sourceUse cases 

@@ -1,0 +1,52 @@
+
+Mobile telco Vodafone just chalked up an unwelcome milestone – the single biggest fine for “serious and sustained” breaches of consumer protection rules in the UK, the result of a troubled CRM and billing migration and consolidation program. 
+UK telecoms regulator Ofcom slapped a £4.6 million fine on Vodafone, payable within 20 working days. The fine is made up of two chunks – £3.7 million for taking pay-as-you-go customers money and not delivering a service in return, and £925,000 for failures relating to the way that the carrier handled complaints. 
+In a checklist of shame from Ofcom today, the regulator found that: 
+
+10,452 pay-as-you-go customers lost out when Vodafone failed to credit their accounts after they paid to ‘top-up’ their mobile phone credit. Those customers collectively lost £150,000 over a 17-month period.
+Vodafone also failed to act quickly enough to identify or address these problems, only getting its act together after Ofcom intervened. 
+Vodafone also breached Ofcom’s billing rules, because the top-ups that consumers had bought in good faith were not reflected in their credit balances.
+Vodafone’s customer service agents were not given sufficiently clear guidance on what constituted a complaint, while its processes were insufficient to ensure that all complaints were appropriately escalated or dealt with in a fair, timely manner.
+Vodafone’s procedures also failed to ensure that customers were told, in writing, of their right to take an unresolved complaint to a third-party resolution scheme after eight weeks.
+
+For its part Vodafone has admitted to the breaches. It has also reimbursed all customers who faced financial loss, but for 30 it could not identify, and made a donation of £100,000 to charity. Now it’s facing a £4.6 million penalty on top of that. 
+IT problems
+What’s behind all this? A hugely ambitious and ultimately problematic migration and consolidation of billing and CRM systems onto a Siebel platform, the largest IT project that Vodafone had undertaken, involving moving more than 28.5 million customer accounts from seven billing platforms to the new system. 
+In a statement, Vodafone said: 
+
+Despite multiple controls in place to reduce the risk of errors, at various points a small proportion of individual customer accounts were incorrectly migrated, leading to mistakes in the customer billing data and price plan records stored on the new system. Those errors led to a range of different problems for the customers affected which – in turn – led to a sharp increase in the volume of customer complaints.
+
+The problems resulted in the the pay-as-you-go issues: 
+
+From late 2013 until early 2015, a failure in our billing systems – linked to the migration challenges explained above – meant that customers who had topped up a PAYG mobile which had been dormant for nine months or more received a confirmation message that the credit had been added to their account; however, the mobile in question continued to be flagged as disconnected on our systems.
+
+Although this impacted 10,452 customers, the situation caught Vodafone unaware:
+
+
+Unfortunately, as the circumstances of the IT failure in question were very unusual (at the time, less than 0.01% of all Vodafone UK PAYG customers’ phones were inactive for more than nine months before being reactivated), the teams responsible for the day-to-day operation of the relevant areas were not fast enough in identifying the issue and did not fully appreciate its significance once they did so.
+
+The migration and consolidation program began in 2013 and is now complete. The problems of the past cannot occur again, is the Vodafone party line now:
+
+
+The IT failure involved was resolved by April 2015 – approximately 11 weeks after senior managers were finally alerted to it – with a system-wide change implemented in October 2015 that – as Ofcom acknowledges – means this error cannot be repeated in future.
+More broadly, we have conducted a full internal review of this failure and, as a result, have overhauled our management control and escalation procedures. A failure of this kind, while rare, should have been identified and flagged to senior management for urgent resolution much earlier.
+Our new billing and customer management system is designed to give our customers the best experience possible. It puts the customers in control of every aspect of the Vodafone products and services upon which they rely. It also enables our customer service and retail employees to respond quickly and efficiently to changing customer needs and swiftly put things right if they go wrong.
+All of our consumer customer accounts have now been migrated successfully to the new system with a number of positive effects as a consequence. For example, there has been more than 50% reduction in customer complaints since November 2015 and our Net Promoter Score – which measures the extent to which our customers would recommend Vodafone to others – has increased by 50 points.
+
+My take
+A sorry tale all round, but in some respects, the fine may prove to be a cathartic end to a long period of customer service pain
+Source: Ofcom
+for Vodafone. It’s had a lousy reputation for customer service for some time, coming out as easily the most complained about mobile provider in Ofcom’s latest market survey – more than three times the industry average of 10 complaints per 100,000 customers in the last three months of 2015.
+Vodafone has suffered for its failings commercially in the process. In the three months to the end of June, UK sales fell 11.4%. At the time, Vittorio Colao, Vodafone CEO, admitted that the IT program’s problems were having a wider impact: 
+
+The UK is more a mixed picture. On one hand, we have a very good performance of the network in London, where, actually, we have really 99.9% coverage and a very good performance on dropped calls and video speed. In the rest of the country we still have to do a little bit of work. There is still improvement but we have to do a little bit of work.
+The real issue has been billing migration problems in the UK which has caused disruption to the customers and to our commercial operations. We still have reached 7 million 4G customers, we still have activated 20,000 new homes in fixed broadband, but, clearly, we have got more churn than what we wanted and less commercial push until we fix the problems. 
+The problems are being fixed. I would say 75% of them are out of the way. We have reduced the extra calls to the call centers by more or less 0.5 million but we still have a little bit to go. We believe we will have resolved everything by the summer and then we will resume full commercial strength in the second half of the year. 
+
+That’s all good and well, but Vodafone clearly also has lessons to learn about the way it deals with customers. I’ve always said, and always will say, that if your underlying stance is that customers are a pain in the ass, then all the CRM software in the world won’t make things better; it’ll just make it easier to hack off your customers.
+For its part, Ofcom is clearly pleased with its display of tough action. Lindsey Fussell, Ofcom’s consumer group director, said: 
+
+Vodafone’s failings were serious and unacceptable, and these fines send a clear warning to all telecoms companies. Phone services are a vital part of people’s lives, and we expect all customers to be treated fairly and in good faith. We will not hesitate to investigate and fine those who break the rules.
+
+Would that such tough talking be reflected in the way Ofcom deals with BT’s baleful grip on the UK’s digital economy, where it remains utterly spineless and failing in its duties to the nation. 
+Image credit - VodafoneDisclosure - At time of writing, Oracle - which owns Siebel - is a premier partner of diginomica. Read more on: CRM and customer experiencee-commerceMobile 

@@ -1,0 +1,37 @@
+
+
+Every day, Ocado’s customer contact center in Hatfield, Hertfordshire receives some 2,000 emails from customers. 
+Some customers email to say they’re delighted with their online grocery orders. Some, inevitably, are disappointed or downright disgruntled. If bad weather or major traffic incidents lead to delivery delays, the number of daily emails can rise to as much as 6,000. Some shoppers may simply be struggling to complete an online order and need practical advice and support.
+Whatever the reason for the contact from customers, the pressure is on for contact centre agents to respond – and some emails demand faster responses than others, as Ocado head of technology Dan Nelson explains:
+
+There’s clearly a difference, in terms of priority, between the email that says, ‘My order was perfect – thank you’ and the one that says, ‘My order is an hour late and it’s my son’s birthday party is this afternoon.’
+
+In the past, the process of opening emails, identifying the issue at hand and performing a ‘triage’ process, by which emails are prioritized and forwarded for action, has fallen to human contact centre staff – but in recent weeks, Ocado has revealed details of how it’s starting to use machine learning to take the strain. Says Nelson:
+
+We want to get to the most pressing problems more quickly – and resolve them quicker – and we’ve realized we can’t do that with humans alone. As a company, Ocado’s always been very interested in what we can do with data and how we can use it to optimize operations – be that our delivery routing systems, our warehouse operations, or in other areas of the business. 
+In this case, there was clearly an opportunity to solve this problem not by overstaffing the contact centre, but instead bringing some artificial intelligence to the process, something that would automatically be able to gauge sentiment, understand context and still maintain a high resolution rate for important problems.
+
+Google it
+For this, Ocado is using Google’s open-source machine learning toolkit TensorFlow. As Nelson explains, Ocado Technology prefers to build, rather than buy, the technology its parent company uses to run critical systems, 
+
+…but in some areas, particularly AI and deep learning, there are services now offered almost as a commodity by companies like Google and Amazon that enable you to explore these complex fields relatively easily and at low cost.
+Google TensorFlow essentially encapsulates a whole lot of research around model frameworks for machine learning and allows you to train those models yourselves, using your own datasets. In our case, what we had was a dataset comprising all of the emails that customers had sent us over a period of around three years – a valuable data asset of around 3 million emails in total.
+
+What TensorFlow can’t help companies with, he continues, is deciding which is the appropriate model for you to implement. That’s where the skills of Ocado’s data scientists came into play. They set about analysing the different models offered by TensorFlow and using them to build out prototypes on which to test the email dataset. Once they’d identified which models looked to offer the highest success rates, it was then a matter of modifying each model until they were achieving the highest accuracy rates possible. 
+Data preparation was a key step in all of this, Nelson says. The stripping out from emails of identifiable information such as names and addresses was vital for customer privacy and extraneous detail that would otherwise make email content too ‘noisy’ for the model had to be tokenized. 
+From there, the next priority was to figure out how to execute those models – in other words, to understand their computational and integration requirements from a hardware perspective. Again, Nelson and his team turned to Google, using Google Cloud Machine Learning to provide the necessary infrastructure:
+
+From that point onwards, it’s just been a matter of running the system and validating the results that come back. Since we previously used human agents to perform the tagging of emails, we were able to see if the model was coming back with similar results and equivalent tags; to modify the model where we weren’t satisfied with results; and to iterate through that process until the model was coming up with the most accurate interpretations of emails. Is it positive, is it negative? Is it a complaint or is it praise?
+
+Still a human response
+It’s still the human contact center agents who respond to emails, based on these AI-powered interpretations he stresses. So this service sits between the customer and the contact centre, inspecting emails as they come in, performing the necessary sentiment and contextual analysis and moving each email forwards to a queue for human handling. Nelson explains: 
+
+What we’ll do in the next phase of this project is start to prioritize negative emails over positive ones and, from there, what we could end up with is a situation where we run multiple queues to which emails can be assigned automatically: it’s negative and requires an immediate outbound call; it’s negative but just requires an email response, it’s positive and simply requires an automated response; or its neutral and merely needs closing. There may be different prescriptive actions that occur as a result of that analysis.
+
+So there is still work to do – but Nelson says that the project has been a vital stepping stone on the journey to implementing more AI at Ocado:
+
+For us, it’s been a pretty amazing experience to expose ourselves to these different models and understand more about how you go about deploying and training them. There’s an awful lot of learning that’s come from this one project, which will accelerate our ability to do more and more with AI and machine learning in future – and we WILL want to do more of this. I have no doubts about that.
+What I’d say to other IT teams is that we carried out this project as a response to a real business need, rather than as an interesting R&D project. That means that the solution we’ve built was completely deployable, because of what we learned along the way about what training models look like and the computational requirements of this kind of systems. One of our biggest learnings going forward is that we will make sure we always have a solid, real-life business case to use as a launchpad for this kind of initiative.
+
+ 
+Image credit - ocadoRead more on: CRM and customer experienceDigital enterprise in the real worldIoT robotics and AIMachine intelligence and AIRetail e-commerce and the omni-channelUse cases 

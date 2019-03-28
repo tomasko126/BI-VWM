@@ -1,0 +1,59 @@
+
+diginomica hit: There is no true AI in the market – and marketers aren’t ready for AI anyhow, by Derek and Barb
+quotage: “Whilst the consumer market has AI “intertwined with everything”, said Elkington, what’s interesting is that most workplaces have no predictive analytics at all. Whilst we may trust Netflix to serve us the content we want, or for Google Maps to predict our routes, or for Spotify to recommend us some songs we may like, when we get to work we revert to manual processes and guesswork.” – Derek, InsideSales CEO – ‘There is no true AI in the market and data scientists aren’t a thing’
+myPOV: After all the AI vaporware beta alpha “we’ll have it soon” releases I’ve seen on keynote stages, it’s fresh air to get Derek’s update from the CEO of InsideSales. They’ve been using their crowdsourced – but anonymized – data to provide predictive analytics on their AI platform for more than a decade.
+I’m not that impressed with predictive at darlings Netflix and Spotify. Meanwhile, some enterprises are getting better at predictive. But what Elkinson says rings true. Consumer tech is forcing the issue (miss you, Alexa, I’ll be home soon!). Elkington’s got a terrific BS detector for AI blowharding. His distinctions between AI, machine learning and predictive matter.
+Barb takes AI in a different but equally exposed direction in The value AI brings to marketing. She argues that AI is set to transform marketing – and marketing isn’t ready. Demandware’s survey found a monster gap between the impact of AI on marketing and what marketers are skilled to handle. Barb talked to Demandware about the story behind the numbers.
+One key point: the ability to differentiate on the data science and/or algorithms looks to be fleeting – and will last only until tools either commoditize or become mature. The real differentiator, says Barb, will be the data itself – and that data is hard to come by. As she says: “Whoever can get the most and right data is going to win.”
+Yup – I would only add: “Whoever gets the most opt-in data…” It’s about your community willingly sharing data for value. If you get that data at the flea market, or through terms of service smoke/mirrors, you’re going to lose that edge – as soon as customers figure out you’re just another data panhandler shilling their vitals.
+diginomica four –  my top four stories on diginomica this week
+
+Trump’s Muslim ban means the tech industry has to stand up and be counted – Stuart: “It’s been pointed out a lot this weekend that American hero Steve Jobs was the son of a Syrian immigrant. There are plenty of other examples… This is a tipping point issue for the US tech industry – and by implication the global one. If the US is to have closed doors, others will open theirs.” We know all readers will not agree with the positions diginomica takes on political or economic matters. I hope we all agree these matters must be discussed in the sunlight of open discourse. Stuart says, “This isn’t an issue on which fence-sitting is going to be allowed.” That includes tech media.
+Digital ethnicity – a US perspective – In a nifty two-parter, one on inclusion in the U.S. and one on the UK, Cath challenges the tech industry to look beyond gender to include disabilities, different sexual orientations or ethnic diversity. It must be asked: does diversity help the bottom line? Sure seems to, based on the studies Cath cites. Act or fall behind is the message here.
+Less disruption, more transformation – Denis riffs on an HBR piece debunking disruption. Beware the shiny new digital toy, he wards. Avoid the “gospel of gizmodo.” There’s a better approach to digital transformation – one that results in a fundamentally different process on the other side. Otherwise, you’ll wind up with a “status quo business with a nifty and unusable new toy.” Ouch!
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Oracle cloud event blowout coverage – Den filed Oracle Cloud World – SaaS momentum continues, where he gave Oracle a solid cloud grade: “It is one of a very few vendors that understand the shift in buying patterns to the line of business first and IT second.” Kurt posted Oracle Cloud World epiphany: Focusing on applications and data, not infrastructure. Yet. Looks like that Oracle – Amazon faceoff isn’t at the top of the ticket yet. Den also has the NetSuite update from Mark Hurd.
+SAP Q4 FY2016 hits top of cloud range, shades consensus targets. Company ups guidance for 2020 (updated) – Den updated this after a chat with SAP’s Markus Schwarz. Bottom line: markets are whining about the revenue miss but Den’s eyes are focused on S/4HANA customer adoption.
+Nutanix AOS 5 – greasing up the legacy app – Martin’s got the low-down on “a major revamp” of the Nutanix hyper-converged environment.
+
+A few more vendor picks, without the quotables:
+
+Strong year end tees up ServiceNow for 2017 expansion – Stuart
+Qlik Sense provides tempting prices and contract terms with group offering – Den
+Sharing meets collaboration – Box Notes vs Dropbox Paper – Phil
+Drone systems maker Kespry – fixing a land of broken toys – Den
+Wipro relaxes dress code for Appirio, what else is changing? – Phil
+
+Jon’s grab bag – Stuart wants to know if the UK government is leaving it to Microsoft to handle the digital skllls crisis. When you see “We have painted ourselves into a corner,” and “We are what we are,” you know Stuart isn’t exactly thrilled. Michelle Swan makes her diginomica debut writing about a professional services firm (in the Salesforce ecosystem) that keeps employee turnover to five percent using the weirdest, wackiest metric you could ever think of: employee happiness. It’s also about using data to intervene – in a good way – before things go too far down the ol’ crudder.
+Get your media fix with Stuart’s The BBC – wanting to be Netflix? – It’s about delivering kickass content in a format people actually want – in the BBC’s case, the “iPlayer.” I’m with Stuart: don’t try too hard to be Netflix. Netflix isn’t exactly the master of great original programming either – from that standpoint they are a sub-par HBO. Finally, welcome ServiceNow to diginomica – good timing given the “servitization” of darned near everything.
+Best of the rest
+ Review: Automation, Joblessness and the Vacuum of Tech Ethics – by Michael Coté
+quotage: “Vinnie Mirchandani’s Silicon Collar tries its best to turn the automation frown upside down by describing the positive effects of automation in an endless series of use cases. More somber, Ryan Avent’s The Wealth of Humans describes the current era of automation and it’s threat to human-labor, kicking up a vision of future thick with a jobless miasma.”
+myPOV:We read a lot of crummy posts about robots and jobs but not many where the author took it upon themselves to actually read entire tomes artifacts books about the topic. Like the book authors he contrasts, Coté doesn’t have any piercing solutions to the dual forces of automation and globalization that are changing the future of work.
+Coté leans towards the concern side, pushing back against Mirchandani’s innovation optimism. Corporations are trying to minimize their dependence on the expensive and unpredictable brilliance of humans, pursuing automation at scale instead. We don’t know whether we are heading towards dystopia or a happier place, where we can have white board talks about innovation while robots mind the factories. But Coté is right on this; automation is the signature moral issue of the tech industry.
+Honorable mention
+
+
+Cisco places $3.7 billion bet on AppDynamics: What it means – Basically, it means Cisco doesn’t want to get stuck selling routers for margin, it wants to build a network for “high value interactions” – and they don’t mean Facebook.
+Lighting A Fire: Cisco Spark Is Building A Collaboration Ecosystem – Actually this sounds a bit more like Facebook 🙂 Actually it’s more like multi-player video games – but for hardcore collaboration.
+How I Would Hack Your Network (If I Woke Up Evil) – Please don’t go evil on us…
+What Google Can Teach Us about Security – Google calls it “Defense in Depth” – it’s about designing security in layers.
+Making workflows sexy again with machine learning – One nit: I don’t think workflows were ever sexy… but machine learning makes everything sexy so this could work. Unless you define “sexy” as getting important things done. In which case workflow has always been Tinder-approved.
+And the winners of the 2017 CRM Watchlist are… An annual enterprise passion play.
+Words and Pictures – A post about… images? Yes – about getting the most impact from the images you use. It’s a good convo, folks keep slapping images up and assuming they “engage” people.
+
+Whiffs
+So for the Kansas man who admitted to robbing a bank to escape his wife, there had to be an easier way, right? (via Frank Scavo). It’s tight competition for the doublespeak award, between Unfiltered Flint water is safe, just don’t drink it, says state attorney and HP isn’t actually sorry that it has enslaved your printer and rejected your ink, an evisceration by Josh Bernoff (who gets bonus points for tagging the post as “Internet of Shit.”).
+You can’t make this one up:
+
+And:
+
+Oh please – just stop it. You don’t care if I broke up with this person or they broke up with me. You don’t care if I was happier then, or if I’m happier now. You don’t care if I want to look back, or if I don’t. You care about shoving logs onto the fire of your algorithm. That’s the cynical bargain we struck. You provide some level of value in exchange for tweaking me into participating.
+Just don’t dress it up like you care about me, or I care about you. When I have a problem with your service, you are never there for me. Ever. That’s understood. I’m a digital serf surf like everybody else.
+Want to know what makes me care about whoever composed that sub-greeting-card schlock? When your fearless leader drops vanity lawsuits to protect his escapist paradise anti-social kingdom mega-estate in Hawaii, and finds his nutsack to apply a dab of influence to the issues of the day. That makes me care about you, just a little bit. Glad we settled this.
+Over to you, Clive.
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Winter Sports © lassedesignen - Fotolia.comDisclosure - SAP, Oracle, Workday, ServiceNow, NetSuite and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and missesIoT robotics and AIMachine intelligence and AI 

@@ -1,0 +1,41 @@
+
+Martijn Akse
+The third era of IT architecture is here. The pace of change, digital disruption, ecosystems, platforms require all stakeholders to be aligned, and work together, not just IT.
+Aegon, like many organizations, had to evolve to keep pace with the velocity of the third era of IT architecture. During our transformation, we learned a number of critical lessons that I wish to share.
+Third era? What about the first and second era?
+The first era of IT architecture was primarily focused on technology. Vendors ruled. They dictated organizations roadmap through technology lock-in. The result is that IT landscape was minimal.
+The second era of IT architecture, saw a shift towards business-IT alignment and value for the business. More change was introduced in the IT landscape often leading to interdependencies and challenges in the area of integration. Complex architectural modeling was key to understand the cohesion between business proposition, process, applications and infrastructure.
+The third era it is all about customer centricity and impact in an ecosystem. The internet and mobile give customers the power to choose services they love. Organizations look to data analytics to predict customer behavior and take action.
+New technologies including the Internet of Things, and connected devices are introduced every day. IT has to change to be a partner with the business, and deliver customer success.
+The 10 key factors of third era IT architecture success
+Leading companies of tomorrow must move to the third era of IT architecture. Aegon has transformed itself to derive value to their customers through this new model of IT by following the following 10 key factors for success:
+1. Install power outlets
+Flexibility in your enterprise architecture is key. Use APIs in order to create clear demarcation points. Open APIs up to external parties where needed and possible. Use data as power source, make sure it complies with all regulations for use, and make it easy to plug into.
+2. Harvest information out of data
+Learn how to extract information and knowledge from data. Create a strategy based on:
+
+Decision latency – do we really need <1 ms real time decision making?
+Outcome – what you want to achieve with analytics and how should the follow up actions look like.
+ Sourcing – Decide where you can use external analytics services, or build it all yourself.
+
+3. Learn to speak new languages
+As an IT department, your stakeholders are the business and the customer. Take part in meetings in cross-functional meeting from the beginning. Tailor the language of vision/strategy and viewpoints on architecture to your audience. Use new ways (video, animation, app prototypes) to bring your message across.
+4. LEGO™-nize complexity
+Compose architectural building blocks in reference architectures usable by everyone. Rationalize. Eliminate multiple building blocks with the same purpose. Limit the implement options to no more than three.
+5. Build a playground
+Agile teams demand freedom in execution and they need constraints. Give only the required blocks to agile teams to play with. Experiment, and adjust continually.
+6. Create a minimum set of rules
+Where people are playing, there are rules to comply to. Keep the rules to the bare minimum – e.g. non-negotiables such as regulatory requirements and key architectural principles. Create validation points for non-negotiables and explain what the business rationale is to have a specific validation point. The non-negotiables should guarantee the correct functioning of the enterprise architecture model that enables enough flexibility to guarantee short time to market.
+7. Experiment
+Try out crazy scenarios you never dreamed possible – moonshot ideas. Organize multi-disciplinary brainstorm sessions to boost creativity and take advantage of new and different insights.
+8. Elevate
+Adopt a cloud all-in strategy. Cloud is no longer a goal by itself, but a foundation that enables flexibility in terms of scalability, performance and time to market of IT solutions.
+9. Connect the dots
+Many vendors have great ‘cloud-based-API-enabled-ready-to-be-used-out-of-the-box’ solutions. Build a chain of best-of-breed solutions in order to fulfill business requirements. Revisit the chains periodically to increase value where possible.
+10. Hire thrill seekers
+Your architecture team is in need of thrill seekers. Traditional architects often do not fit the profile. You need resources that are able to support and enable every topic described above. Creative individuals, who are fine with making mistakes, dealing with daily changes and creating architectures on the fly.
+Has the third era of IT architecture started?
+Disrupters, startups and dedicated units of corporates have already arrived in the third era of IT architecture and others will never arrive there. It all depends on the characteristics of the organization and the environment it is acting in.
+Architecture functions in larger corporations face an additional challenge: create and maintain Enterprise Architecture that is capable of dealing with units in the second and third era of IT architecture at the same time. To be successful, it is essential that Enterprise Architecture is positioned independent of these units to guarantee fair governance and reuse.
+At Aegon, we’ve come a long way. We have to invest daily in people and processes. Tomorrow’s leading organizations will too. They will have to define an architectural model that achieves many of the 10 factors of third-era IT. Success is never guaranteed, but I do know that if you don’t start changing today, your competitors will leave you behind.
+Image credit - Freeimages.com Disclosure - Aegon NL is a customer of Salesforce. Read more on: DevOps NoSQL and the open source stackDigital enterprise in the real worldPartner ZoneSalesforceUse cases 

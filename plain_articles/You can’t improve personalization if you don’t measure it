@@ -1,0 +1,37 @@
+
+How are marketers doing at personalizing experiences? It’s a challenging task, one that many are struggling with for various reasons.
+But the questions that arise when you start adopting personalization tactics point to a bigger question – how can you deliver truly effective personalized experiences if you aren’t testing and measuring the effectiveness of those tactics?
+Personalization can help reduce acquisition costs by 50%, according to a McKinsey report. It can also lift revenues 5-15% and increase the efficiency of marketing spend by 10-30%. So it makes sense to implement a personalization strategy right?
+Personalization remains a challenge
+Personalization is not knowing someone’s name. It’s a little more complex than saying “Hi Barb!” Considering the amount of customer interaction data organizations collect, you would think the level of personalization would be pretty extensive – as well as correct and appropriate.
+Vanson Bourne and Sitecore researched the state of personalization. They identify good personalization as things like:
+
+Remembering what a customer bought
+Offering relevant products, service or information
+Remembering previous visits or clickstream activity
+
+They also listed “bad personalization”:
+
+Unapproved text messages
+Social media contact
+Contact with no purchase
+
+The study found that on average, organizations collection eight different types of data about their customers, and they are feeling the pressure to do something with that data.
+But having the information isn’t enough. Forty-two percent of respondents lack integration between data collection systems and thirty-one percent lack the in-house skills to analyze the data they do have. Also interesting is that only 12% have data at the individual customer level; most are personalizing using segments.
+Customers give their private information because they want something in return. They want their experience to be more relevant and personalized and, as a result, faster. They don’t like it when personalization goes wrong, but as the Vanson Bourne report points out – it’s often not the personalization tactic as much as it’s the data. Either the data is incorrect (50%), the customer details are wrong (57%) or marketers are making a bad assumption based on a single interaction (54%).
+Here’s another complication. Customers expect different levels of personalization at different points in the customer journey (pre, during and post-purchase).
+The science of personalization
+Eric Hansen, CTO, and founder a SiteSpect, understands the challenges of good personalization. He believes good personalization is when a customer doesn’t realize the site has been tailored to them. You need to look at things like where the customer came from, past behavior (shopping cart items, known customer) and present a personalized experience. Maybe that’s adjusting the navigation, offering promotions, cross-selling, renewals, additional services, all in an organic way.
+Hansen also pointed out that there is no hard rule organizations can follow to do personalization right. Websites are different; customers are different; the products and services sold are different. What works for one company can provide inspiration, he said, but you can’t copy it.
+And this is where we back up and we start talking about experimenting and measuring and adapting to find the best way to personalize a customer’s experience.
+Hansen said you can’t improve what you can’t measure. He said businesses have struggled, especially those that start out as brick and mortar brands, to get a handle on measuring what their customers are doing on their digital properties (website, mobile website, etc.). Until they do figure out and operationalize their approach to measuring activity and adopt a system of analyzing and making decisions on what the data is saying, they will continue to get stuck.
+Without an understanding of how customers are using the website, you can’t implement personalization or make any other changes properly. With a clear understanding of the data, you can start testing changes to improve the experience and see how customers respond to those changes.
+Hansen said companies are at different places on the experimentation scale – some don’t do it at all and others may run hundreds of experiments a year. Experiments could be minor improvements or the rollout of developer changes, or they could be major updates. In a study SiteSpect did with its customers, it found that 2 out of every ten experiments was a winner. That’s not a bad thing; it shows they are trying new things and are operationalizing experiments and rolling out the right changes.
+The biggest challenge does come back to the data though and having that 360-degree view of the customer. Hansen acknowledges siloed departments that may only be thinking about their piece of the website, their products, their customers’ experiences and running experiments that may work for them, but not for other areas of the website. They may implement changes that work for them but negatively affect other customer experiences. Mature companies have developed a core set of high-level KPIs that work for the whole business and run their experiments to match these KPIs.
+Experimentation and personalization are “kissing cousins,” according to Hansen. Experimentation allows you to test different personalization strategies to see which ones work the best. “Experimentation is trying different features and functionality, flows, presentation, algorithms, content, look and feel, and measuring how they react. Personalization is doing that on a segment by segment basis, and ultimately a 1-1 basis. The two are very much related.”
+While the goal may ultimately to deliver 1-1 personalization, the best way to experiment with personalization is to do it on a segment basis. Both Hansen and the McKinsey report suggest to define a set of segments based on behavioral attributes and define the customer journey for each. Within these journeys you will find thousands of micro-segments, said McKinsey. You need to prioritize the ones you want to focus on, look for signals and develop triggers. Hansen said that 20-30 segments are about the right number to manage and operate overtime at scale. Any more and you won’t be able to handle the workload.
+My take
+Should every organization be looking at how they can personalize their digital experiences? There is so much noise on the Internet, it’s those who figure out how to break through it that will succeed, and those are the ones who are experimenting with personalization and optimization.
+But it’s not an easy road. Not for the large organizations who have to work across departments and competing priorities and not for the small to mid-sized organizations who don’t have the bandwidth nor the budget.
+Baby steps may seem too slow, but if you implement personalization through experimentation, you might find the right approach faster and without spending too much time or money. Still, it’s the data you have to get a handle on first – because, without that centralized view of the customer and their interactions with you, you aren’t going to do a good job at personalization.
+Image credit - Beruflicher Werdegang © VanHope - Fotolia.comRead more on: Analytics planning and data analysisCRM and customer experience 

@@ -1,0 +1,69 @@
+
+
+Lead story – Prudential’s Global Head of AI on ‘which algorithm to use and when’ by Derek du Preez
+
+MyPOV: These days, “AI” seems to vacillate between the no-calorie sweet nothings candyland of enterprise marketers and the democracy-threatening implications of algorithms gone wrong. Somewhere in between are the practical use cases enterprises need.
+Derek got one of those via at RE•WORK’s Deep Learning in Finance event in London this week. Prudential’s Head of AI cites three ingredients in a successful AI product: data, intelligent agents (data scientists/algorithms) and user interfaces.
+He goes on to caution: you must choose the right kind of algorithm, contrasting one where correlation is good enough, and another where getting the wrong result is potentially deadly, and causation must be established. In the middle are use cases for “gradient-boosted decision trees” (If any of this needs elaboration, check the handy screen shots in Derek’s post).
+The money slide is a “five levels of maturity” AI slide:
+
+Given that “automated, continuous learning loops” and “real-time data streams on a personalized user basis” are only level four, I’d say enterprises have some work to do – you?
+Diginomica picks – my top three stories on diginomica this week:
+
+Toys R Us failure points to structural business model failure, not just digital – Sherrif Woody Buzz Lightyear Den Howlett comes to the rescue of a sensationalized news story, with a by-the-numbers decontruction that turns the blame from digital. Adding to Den’s analysis: don’t call this “further evidence of the demise of the store.” Storefronts still matter – or at least Amazon seems to think so (Amazon reportedly interested in some Toys R Us stores). See also: a potent retail ditty from Stuart, Walmart boss – “frictionless” shopping within 5 years. (If Amazon doesn’t deliver first…).
+The sobering due diligence lessons from the Theranos debacle – Den manages to extract some enterprise lessons from this cautionary Silicon Valley tale of cult-of-personality and ethics-toilet-flush. Or, as Den puts it, an overhyped “science project.” Ouch! But there’s a lesson here for enterprise buyers: do your due diligence on all vendors. And not just tech validation, but numbers: “When it comes to accounts, I want to see them and I want answers when the occasion arises.”
+‘Flip it to test it’ – lessons on battling bias from Roche – Janine with an important use case on confronting the human side of bias: “We all need to rewire our brains.”
+
+Vendor analysis, diginomica style. Here’s my two top choices from our vendor coverage:
+
+Oracle numbers spook Wall Street as BYOL slows cloud revenue growth –  We all know Wall Street is gutless fickle skittish tunnel-visioned when it comes to enterprise software. Stuart explains the latest reaction. It’s complicated, but it has to do with Oracle cloud revenue growth rate slowing, as customers embrace Oracle BYOL (Bring Your Own License). License/deployment flexibility is a strength from where I sit, but Wall Street thinks cloud is perfume and the rest is downgradable. We’ll see who’s right – but it may take a while.
+Diversity and the differently-abled – a best practice exemplar from SAP – Cath with a look at one of SAP’s corporate strengths: “This is exactly what software giant SAP is attempting to do by setting up a work stream for ‘differently-abled people’, which sits alongside ‘gender’, ‘generations’ and ‘ethnicity’ in its diversity and inclusion (D&I) portfolio.” A smart way to go, particularly in light of persistent STEM talent shortages.
+How TBM helps MetLife take control of cloud spend – TBM = technology business management, and as Phil explains, it’s just the ticket at MetLife, which uses TBM from Apptio: “Project managers and application owners get a daily report that details their cloud spend, which means they can keep an eye on costs without needing direct access to the cloud provider’s admin console.”
+
+Jon’s grab bag – The Facebook spank tunnel is more vigorous in Europe, as Zuckerberg and friends are finding out in Facebook’s Mark Zuckerberg called in by UK government to give evidence about Cambridge Analytica. Derek has that story. Denis Pombriant makes a different case for regulation in Time to call it – the social utility has arrived. (regulating social media as a utility).
+Kurt takes the tech press to task in Tech news is dominated by new products, not customer needs. Customers need balance (A big reason why we launched diginomica almost five years ago, but I digress). Kurt: “Hence, the need for articles providing background, analysis, use cases and case studies, not spec sheets.” Yup.
+One more skewering, this one a love letter from Den, jam-packed with tasty strikethroughs, to all the PR wishful thinkers trying to spin an airline tragedy into a vendor sales opportunity: The ridiculousness of sentiment analysis. United Airlines zombies lives on, mocking those who elevate social sentiment above its humble pay grade.
+Best of the rest
+ Lead story – Lessons Learned from the ‘Hiatus’ of Flippy the Burger-Flipping Robot – by David Cassell
+
+myPOV: I had my share of satire with Flippy’s bad day in hits and misses, but this is not a trivial story. Kudos to Cassell over at The New Stack for fleshing out the context behind Flippy’s struggles, and what it means for the future of (restaurant) work. Some of the lessons are unsettling; it’s tough to extract the marketing agenda from this experiment for both Caliburger and robot manufacturers.
+Then there is the quote from the manager who was “giddy” about the potential of Flippy to stabilize the kitchen staff in an industry plagued by turnover. But for now, the prevailing sentiment seems to be about human labor augmentation:
+Panera says when it installed self-ordering kiosks, it got so many more orders that it had to increase the hours of its kitchen staff.
+Cassell quotes on savvy Redditor who is thinking a step ahead:
+I want to be a burger flipping robot technician.
+In the end, says Cassell, “It’s up to the free market to reveal which industries have an unmet need for intelligent, cloud-based automation.” That may be where we differ. I’d argue that a digitally-savvy legal system with checks and balances – something we sorely lack – is a big part of this mix (see: the Uber self-driving car fatality). But for now, companies like Caliburger are going to experiment, and, despite the fun I’ve had here, the bigger whiff is clearly not to try.
+Honorable mention
+
+Autonomous vehicles, accidents, liability and fault – in a related story (of sorts), enterprise/Silicon Valley (ad)venturer Jeff Nolan brings a thoughtful bent to the potentially sensational story of Uber’s first self-driving car fatality: “What this foreshadows is an entirely new class of insurance that covers vehicles as separate insurable entities, as opposed to the driver, and then seperate insurance for the passengers of a vehicle who have the capacity to control it in an over-ride situation.“
+Machine Learning and Beyond: Algorithmic Detection in Security – Another New Stack ditty; this one gets a bit technical, but we all need to sharpen our tech chops when the security of our enterprise data is at stake.
+FedEx Follows Amazon Into the Robotic Future – The New York Times looks inside a FedEx factory in transition. Autoplay video yukko warning – but the video is pretty cool.
+How to Create a More Compelling Analyst Event – Laurie McCabe took my “how to screw up an analyst day” satire as inspiration of sorts, and riffed it a different – and more constructive direction.
+A long good-bye. Quitting Facebook is better than doing nothing – This is from a month ago, but I missed it in hits/misses. I’m not quitting Facebook anytime soon, but a principled quit like Denis Pombriant’s is well worth a ponder – as well as his journey from social media advocate to opt-outer.
+My Influence Marketing Podcast Interview: Building Your Enterprise Tribe – Mini-disclosure: Mark Finnern is a friend, but he also knows his stuff when it comes to enterprise community. Some good stuff here on the potential/limits of playfulness, a concept the enterprise hates and sorely needs at the same time.
+The Seven Biggest Lies Theranos Told – Some whoppers here via Buzzfeed. But don’t we need to see the “seven biggest lies about Theranos the tech media fell for?”
+
+Whiffs
+Let’s start on the silly side:  Woman mistakes jail security booth for drive thru, tries to order (that went well!). This developing story via reader Frank Scavo is more of a sad whiff, but a bureaucratic whiff nonetheless: Dead Man Walking: Court Rejects Romanian’s Claim He’s Alive. Travel snark:
+
+My @Southwest flight: “We sure don’t want to have to check anyone’s bag if we can avoid it.”
+My prior @Delta flight: “We WILL have to check the last 15 bags voluntarily or involuntarily and you’ll need to remove your batteries and electronics…”
+— Jon Reed (@jonerp) March 17, 2018
+And no, this isn’t a whiff, but it’s super romantic, err, I mean creeptastic:
+
+Married couple notice they’re randomly both in a photo taken 11 years before they met https://t.co/BWGM34DcCl —-> oooh creepy coool
+— Jon Reed (@jonerp) March 19, 2018
+Also from the truth > fiction files, This startup promises to preserve your brain for uploading, after they kill you  – the costs of immortality are not for the squeamish.
+Nudging closer to the enterprise, Josh Bernoff goes spearfishing on a rampant case of buzzword overdose:
+
+Without Bullshit – Creative agency jargon at J. Walter Thomson https://t.co/VrC7qyqUyN -> “This is a structural decision that will allow us to be more agile, leverage our collective global bench strength and encourage the burgeoning diverse ‘maker culture.” -> sounds awesome
+— Jon Reed (@jonerp) March 20, 2018
+J. Walter Thomson goes at it like Benzedrine Puff Adders in search of a buzzword fix. I also liked:
+There will be a fluid roster of talented individuals with myriad skill sets.
+Translation: our revolving door is truly badass. And:
+For now, it’s business as usual and we will keep the trains running as we head into Cannes.
+Translation: blech.
+See you next time….
+ If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Winter Sports © lassedesignen - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: HCM and the digital future of workHits and missesIoT robotics and AIMachine intelligence and AIRetail e-commerce and the omni-channel 

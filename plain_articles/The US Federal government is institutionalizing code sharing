@@ -1,0 +1,41 @@
+
+The US Federal Government announced something very interesting this week, with the full backing of President Barack Obama.
+It is subtly, rather cleverly, making it known that it believes in a platform approach to Government. And it is doing this by attempting to institutionalise the process of sharing code. This not only legitimises any commodity software created by a government agency, but it also makes it available to the whole of government.
+The White House has taken this even further, but requiring that federal government, when creating new software, also make at least part of it available for the public to provide feedback and innovate on.
+Why is this important? If successful, it could reduce duplication, spurn innovation and drive down costs for government agencies that have for too long muddled through building or buying in their own technology stacks, without operating to a set of standards. This has left citizens with a collection of poorly designed services and has meant that the federal government is operating in silos.
+And of course, this is not unique to the United States. Most Western governments find themselves in a similar situation. We in the UK, for example, have made our own attempts at Government-as-a-Platform – albeit with a slightly different approach – in a bid to fix broken services.
+In a blog put out by the White House this week, announcing the Federal Source Code policy, President Barack Obama said:
+If we can reconceive of our government so that the interactions and the interplay between private sector, nonprofits, and government are opened up, and we use technology, data, social media in order to join forces around problems, then there’s no problem that we face in this country that is not soluble.
+The policy
+The Federal Source Code policy highlights that each year the Federal Government spends more than $6 billion on software, through more than 42,000 transactions.
+Whilst the document acknowledges that many of these solutions “do not require additional custom code development”, it adds that when Federal agencies are unable to identify an existing software solution that satisfies their needs, they may choose to develop a custom software solution on their own or pay for the development of one.
+However, the problem with this is that when agencies procure customer developed source code, they do not always make their code broadly available for reuse. And even if they do, the availability and reuse of the code is not consistent.
+The policy notes:
+Enhanced reuse of custom-developed code across the Federal Government can have significant benefits for taxpayers, including decreasing duplicative costs for the same code and reducing Federal vendor lock-in.
+The policy also requires that agencies, when commissioning new customer software to release at least 20 percent of the new code as Open Source Software for three years. It notes that making the code open source in this way allows for software peer review and security testing, which is likely to ultimately result in better code being produced.
+Open source is okay
+Alongside the White House blog, 18F – which is effectively the US Federal Government’s digital agency – released its own blog, which attempts to bust some myths around publishing open source code in government.
+You can read the full blog here, but it is also a clear attempt to justify the use of open source code in government and to reassure agencies that it is okay to create, publish and share code in the open. And not only is it okay, but it is good to.
+The White House post states:
+By making source code available for sharing and re-use across Federal agencies, we can avoid duplicative custom software purchases and promote innovation and collaboration across Federal agencies. By opening more of our code to the brightest minds inside and outside of government, we can enable them to work together to ensure that the code is reliable and effective in furthering our national objectives.
+And we can do all of this while remaining consistent with the Federal Government’s long-standing policy of technology neutrality, through which we seek to ensure that Federal investments in IT are merit-based, improve the performance of our government, and create value for the American people.
+As agencies across the Federal Government take steps to improve access to their source code, the amount of available Federal open source software will grow. In the coming months, we will launch a new website – Code.gov – so that our nation can continue to unlock the tremendous potential of the Federal Government’s software.
+This is, after all, the People’s code. Explore it. Learn from it. Improve it. Use it to propel America’s next breakthrough in innovation.
+Also worth noting is that given the US government has been following in the footsteps of the UK’s Government Digital Service’s footsteps (albeit, now taking a slightly different approach), and ex-GDS staffers took to Twitter to show their support for the announcement.
+Both previous GDS chiefs Mike Bracken and Stephen Foreshew-Cain highlighted the importance of the policy.
+
+Well done @POTUS https://t.co/cv1m3oAdy9 Platform strategy, central team, procurement reform, shared code = better, cheaper public services
+— Mike Bracken (@MTBracken) August 9, 2016
+
+
+Awesome. “This is, after all, the People’s code. Explore it. Learn from it. Improve it.” https://t.co/dLYXrHV9Ll
+— Steve Foreshew-Cain (@s_foreshew_cain) August 9, 2016
+
+
+My take
+This is incredibly interesting stuff from the US government. Whilst its clear that those heading up digital want to institutionalise and make sharing code ‘safe’ across federal agencies, it will be very interesting to watch the uptake and progress.
+By making a central resource available for agencies to see and share their code, the whole process is legitimised. They don’t have to question where it’s okay anymore, they can see it happening. It also gives those in charge as something to point to, to highlight that that’s what agencies should be doing.
+Equally, but requiring that some of the code is made open source, really gives this potential to gain momentum and drive uptake. Highlighting benefits and examples of best practice going forward will be critical – people will need to see how this is working in practice.
+For too long government software has been a proprietary, locked down, siloed mess. It often doesn’t operate to any standards and the citizen doesn’t even factor in its creation. However, by making this ‘the people’s code’ – the citizen and the service design is central from the get go. Excellent.
+Image credit - Images sourced via authorRead more on: Digital government and public services
+

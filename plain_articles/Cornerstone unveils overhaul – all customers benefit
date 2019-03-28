@@ -1,0 +1,102 @@
+
+Cornerstone, Inc. (aka Cornerstone OnDemand (CSOD)) is a Human Capital Management (HCM) vendor with very deep set of roots in the Learning space. It’s an interesting company as its learning capabilities trigger deep relationships with many leading payroll and other HRMS software vendors. The company held their annual user conference last week in San Diego to a crowd of 1,800+ customers and guests. They showed significant and eye catching enhancements.
+Key points
+
+Founded in 1999, publicly traded CSOD now has an annual revenue run-rate of over $500 million (USD)
+
+3,000 customers
+31 million users
+Now profitable on non-GAAP basis
+Customer retention hovering at 95%
+
+
+CSOD solutions are in use in 191 countries
+
+Small market is very much an infill market
+EMEA customers are buying the larger CSOD HCM suite – there is a great need in EMEA for companies to have a single, normalized central HCM data store.
+The Japanese market has customers abandoning custom, on-premises solutions to go with a package solution like CSOD
+
+
+Customers and partners appeared to be quite happy re: CSOD
+There was lots of focus at the conference on Learning as the bulk of CSOD’s historical customer base and attendees were long-time Learning users
+The CSOD Suite was recently rationalized into four major areas: Recruiting, Performance Management, Learning and HR.
+Numerous announcements were made regarding new Learning selection options, Learning curation, use of artificial intelligence in all applications and much more
+
+Company history
+CSOD’s initial applications were in the Learning Management space. Performance and Reporting modules followed soon after.  The application chronology goes like this: Learning, Performance, Reporting, Succession, Enablement, Certifications, Compensations, Connect, Recruiting, Onboarding, Insights, HR, Edge, Planning and View.
+The product line was recently rationalized into four major areas (see below).
+
+CSOD still has plenty of market upside in front of it just by selling components of its four suites to its existing customers.  The Learning suite is used by about 2,500 of the 3,000 customers.  However, the Performance suite is only in about half of the customer base while Recruiting, one of the newer suites, may be used by only a fifth of total customers. Infill sales alone could drive total revenue and lifetime customer value numbers up substantially over the next few years.
+Management made a point that the complete CSOD suite is essentially one, unified product line that is not the result of lots of acquisitions. CSOD did buy Evolv a few years ago (see below) but has been relatively acquisition free preferring to grow organically whenever possible.
+This strategy is similar to Workday’s (Power of One) strategy even to the similarity of Workday also buying two analytics firms (Identified and Upshot) a few years ago and a couple of other small tuck-in deals.
+CSOD has acquired a number of customers/logos globally. Interestingly, the customer/vertical focus in some parts of the world varies. For example, CSOD has signed a number of airlines in Asia, banks in EMEA, etc.  Europe seems to be a big growth area judging by management’s remarks.
+Analytics
+
+Cornerstone has had some experience with analytics as it acquired HR analytics firm Evolv in the Fall of 2014. That acquisition brought in a team of data science professionals that have continued with Cornerstone. Analytics are being used in the Reporting, View (for visualization purposes), Planning and Insights (predictive analytics) solutions.
+Analysts were briefed on a number of developments in this space – some of these are still under non-disclosure. What can be disclosed is that:
+
+Analytics will now be part of every CSOD application and not be standalone applications. In essence, analytics is now part of the CSOD platform.
+The company has built out additional big data capabilities in specialized Hadoop data centers
+
+
+ 
+The company expects to have analytic tools to answer question such as:
+
+Which factors predict which high potential employees will be successes?
+Which pay structures improve performance?
+How are ineffective managers identified?
+What training materials are most helpful for specific employees?
+What factors improve employee engagement?
+How can new hires become more effective, more quickly?
+How can applicants be optimally matched to jobs/teams?
+Which employees are ready for a new role?
+What possible career paths exist based on current role and career interests?
+What courses drive the most impactful development?
+
+Learning
+Learning is the heart and soul of CSOD. It was the original space for what’s now a fully fledged HCM solution. In 2016, 1.3 billion hours of training were viewed and 231 million courses were completed. 34,000 content offerings from 30+ partners were made available to learners.  A number of announcements re: Learning were made at the show.
+First, curation was quite a focus area.  We heard a lot from Adam Miller, CEO of CSOD, talk about how learning needs curated  recommendations like those found in music services (e.g., Spotify) or video on demand (e.g., Netflix). Trainees want learning software to recommend course work, point-of-need videos, articles, etc. for them to consume instead of the trainee hunting and searching for relevant training content. Pointing employees to a generic training catalog is insufficient as users don’t know:
+
+What kinds of coursework/training material will help them advance
+What training did other individuals find that prepared them well for their current or future job responsibilities
+What were the highest ranked training materials
+What items other than formal training (e.g., white papers, research articles, podcasts, YouTube videos, informal point-of-need instruction videos, etc.) are helpful
+What did other individuals think of these materials
+
+To that end, CSOD is providing trainees recommendations from others in a similar role, suggestions based on the career path of the individual, highest rated training, etc. Artificial Intelligence/Machine Learning is also being deployed to develop curated lists as well. This AI/ML capability may not be available yet – check with CSOD re: availability.
+This AI/ML capability is interesting as it must be tied to the job performance, career path and succession planning logic in CSOD’s HCM for maximum effectiveness.  If the curation only reports back what someone else in the employee’s position is/has taken for courses to do their current job, it won’t help the person advance and succeed in their next position. So, unlike a music recommendation AI tool (e.g., if you liked “Emerson Lake & Palmer”, you might like this tune from “Yes”), the software must consider factors like time in current position, whether you’re a high potential employee and what will likely be your next career move before it can make meaningful and useful training recommendations.
+The Learning Suite has a new home page (following the recommendation concept above) and a new UX (user experience).  HR, managers and peers can also create curated training recommendations that are shareable with other employees.
+Learning also got a content subscription service added to the mix.  Dubbed “Cornerstone Content Anytime”, the service provides unlimited access to content from CyberU, PF, TED and Grovo. In total, there are over 4,000 video courses offered. This service is subscription priced.
+Workforce planning
+We got a taste of CSOD’s Workforce Planning tool. The graphics and integration with other CSOD functionality are very good. The data visualization, drill-around and other capabilities make it an intuitive tool for most HR professionals. The key value behind this solution is in helping forecast headcount and associated expenses over time. It beats a simple spreadsheet hands-down if only for the integration with other HR applications.
+This tool will need to continue to evolve as every HR, ERP, CPM (corporate planning management), etc. vendor is making smart planning functionality a priority innovation area. Why? Great planning tools are ideal for showing off one’s data integration (with their own or third party data), data visualization, predictive analytics, etc.  Vendors are already enabling their planning tools to work with Alexa. Will plans be delivered via drones next? This is a competitive innovation frontier.
+Integration
+Integration is important to CSOD, its partners AND its customers. Historically, CSOD customers needed Cornerstone to take the headaches out of sourcing, delivering and recording the results of training. With the gazillions of training providers and solutions out there, this was a BIG task.
+As CSOD’s solution set has grown, it became clear that the software must integrate with third-party payroll, benefits and other HR-related solutions. To that end, CSOD came out with Edge a year or so ago and has made additional investments in this technology (e.g., a pre-built set of ADP and Kronos integrations were highlighted).  Just walking the expo show floor is instructive as one can see CSOD partners with Workday, ADP, Ceridian, Ultimate and many more major HR technology firms. I spoke with representatives from a couple of these firms: they like partnering with CSOD.
+How long will they continue to like partnering with CSOD? Until CSOD develops its own Payroll capability (IMHO – quite unlikely in the near-term), then there will be plenty of partner love to spread around. Additionally, while other vendors might create learning modules, they’ll have to do a lot to match CSOD’s, SkillSoft’s and other LMS (learning management software) solutions. Just creating a great, useable catalog of relevant training alone is a big task.
+Tagging, accessing, etc. the metadata in training content was another big discussion item. It’s this metadata that helps employees find the most relevant training and jump to the most important part of the training to help them complete a task.
+This is an interesting area as many training products (and almost all of the less formal education items like magazine articles, YouTube videos, etc.) have content that constantly changes, gains or loses relevance or gets supplanted by something better. Recommendation engines need this metadata to serve up the most relevant content at a given point in time.
+This metadata tagging effort must work with traditional LMS and other third-party content. The CSOD AI and analytics capabilities will consume and utilize this metadata.
+Engage
+It can’t be an HR event without someone talking about the “E” word: engagement. CSOD showed us a mobile enabled engagement tool where employees can provide quick data points re: office culture and other measures. One retailer extolled the mobile device functionality as her firm loses $250,000 each time it pulls people off the retail floor to use a desktop engagement tool.
+My concerns with engagement tools, in general, are well-documented. This solution is good for getting more frequent pulse readings and, as such, is fairly innocuous.
+Benchmarks
+CSOD also announced that its now making available a variety of benchmarks gleaned from real customer data. This anonymized and aggregated data was accumulated from customers who agreed to participate in this effort.
+Vendors of on-premises HR solutions could not economically develop such benchmarks in the past; however, cloud, multi-tenant solutions present a very different opportunity.
+CSOD says that it can now help firms do industry/peer comparisons, geographical comparisons and examine the diversity of their workforce versus other firms.
+Other benchmarks re: recruiting spend, training spending and turnover stats should also be available.  CSOD’s touts that their benchmarks can compare data/performance in real time. That is a differentiator to a lot of older survey based benchmarks whose data could be over 1 year old at the time of posting to the database.
+They also claim that companies can compare parts of their firm to the benchmark or compare one part of their company (e.g., division or plant) to another part of the same company.
+Recruiting
+Although one of the newer suites within the CSOD HCM solution set, the software last year had 360,000 jobs posted within it (a 6X improvement since 2012) and saw some 3.5 million job applications submitted (a 7X improvement over the same time frame).  Product functionality continues to deepen within this suite.  In fact, it’s pretty solid now.
+The Recruiting capability is, well, traditional. It works like a lot of the recruiting solutions out there. Yes, CSOD has its own special tweaks to it but they didn’t take a bold reinvented look at recruiting like firms such as Entelo and SmashFly.
+I know why Adam and the gang at CSOD did this: a traditional recruiting solution would appeal to the largest group of their existing customers. Workday did this same thing when they developed their Recruiting module. In Workday’s case, even though they had acquired a big data recruiting solution, Identified, a few years earlier, they nonetheless went the traditional route, too.
+And while the business person in me might have made the same design choice, I wonder whether I would have spent a lot of money developing a solution that might have a short useful life.
+Yes, SmashFly is a partner of CSOD but their approach to recruiting marketing is way beyond the old, job advertisement driven world of recruiting that’s been around for eons. Entelo’s approach uses big Internet data to propel its recruiting technology. If you haven’t seen these two firms’ solutions, you should.
+My take
+There is a lot of change occurring at the cloud and platform level at CSOD but those details are not quite ready for disclosure yet. Just note that the changes will reduce the operating cost for CSOD, reduce capital demands and eliminate most of the downtime associated with new releases of the software. All of these are good things that should create a better customer experience.
+We also got to hear how CSOD is going to speed up and improve the quality of implementations. This kind of messaging is becoming commonplace in many cloud vendor events. While I am encouraged that cloud vendors get how important it is to fully convert a customer fast, the first time, their managements now seem to understand that the implementation is key to customer retention and reducing expensive churn in their subscriber base.
+These new implementation methods, in my opinion, work well for small-to-mid sized firms. Large entities may discover they need more help developing more robust and modernized HR strategies prior to any implementation. For those bigger or more complex firms, they’ll still benefit from a major integrator or a specialist firm.  That said, faster and cheaper installations are a godsend to many firms and this direction is to be applauded.
+Today’s CSOD is markedly different than the one I covered just a few years ago. I saw more big company logos, more international presence, more interest in more suites, etc. It’s a bigger and now profitable firm.
+CSOD’s Learning solution is still one of the majors in the HR space. Yes, competitors like SkillSoft are still formidable, have material market share and have curated training, too. But Learning is what got CSOD launched, filled seats at this event and permits them to cross-sell other suites to their customers.
+What will matter next is whether CSOD can complete its metamorphosis from a Learning to a full HCM vendor. That should be an interesting thing to watch.
+Image credit - via the authorDisclosure - Workday is a premier partner at time of writing. Read more on: HCM and the digital future of work 

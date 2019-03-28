@@ -1,0 +1,43 @@
+
+Haus onstage at MongoDB World
+I bank with big banks. I struggle with big banks. Sound familiar? Granted, I’m not a Capital One customer. Based on MongoDB World, maybe I should rethink that. Capital One isn’t dabbling in digital and open source; they are immersed.
+Billing itself as an “open source first” organization, Capital One nabbed the number one spot in Information Week’s Elite 100 for its Capital One Wallet mobile app. Oron Gill Haus is knee deep in Capital One’s digital forays. As Managing Vice President, Consumer Bank Engineering, Haus has a serious ambition: “We want to re-imagine how costumers interact with their money.”
+Haus keynoted at MongoDB World 2016, presenting Capital One’s Hygieia Dashboard. Named after the Greek goddess), Hygieia is an open source DevOps management dashboard, built on MongoDB, that has already won industry recognition.
+Prior to his keynote, I spoke with Haus about Capital One’s digital ambitions. How do DevOps efficiencies lead to digital experiences? And how far is Capital One willing to push the bank-customer relationship? A mobile app doesn’t change a customer experience by default – nor for that matter, does DevOps.
+Mobile is the catalyst, but it’s not an end in itself
+For Haus, the vision matters. Otherwise, you are just building an obligatory mobile app. When Haus talks about re-imagining the financial interaction, he means: “We want to make sure customers can interact, and once they get their money, use it wisely so they can live the life that they want to live.” This goes beyond smart lending procedures:
+The world has shifted. Our customers’ expectations have shifted quite dramatically.
+Mobile is the catalyst, but a mobile app is not the end of the story. Neither is Alexa:
+They’re not just looking for the mobile experience, or Alexa, or something along those lines – which we do have. They’re also looking for us to be more pro-active and on their side. You shouldn’t have to call us and say, “Hey, I think I have fraud on my account.” We should call you and say, “We saw something happen, and we fixed it for you.” Or: we don’t even call you, because it’s been taken care of and we solved it for you.
+How customers engage with Capital One’s 800+ branches is changing. Capital One is also shifting, supplementing traditional bank locations with bank “cafes,” designed for a more engaging experience, complete with coffee, free wifi and bank ambassadors to for a financial chat.
+Can MongoDB help to bridge the customer experience gap?
+A better mobile experience must spill into direct interactions when appropriate. Otherwise, you’re just raising the bar in one area of customer experience, only to pull the rug, such as when I’m enjoying my Starbucks app until the auto-refill function fails, and then I’m squandering hours with a disappointing call center.
+Oron Haus, pre-keynote
+Sooner or later we get back to the problem of disconnected data, and whether we use data to serve customers better, before an upstart solution comes along and grabs market share. Which is why Haus is at a database conference:
+Let’s say you go to an ATM, and you have a challenge with the ATM. So you get us on the phone. You’re probably calling us about that ATM issue, right? If you call us, we want to make sure that we’re getting all that data. That’s why we’re here for MongoDB. Because if we can get that data quickly in the hands of our system, we should be able to reduce the issues, and give you a great experience that’s relevant to you.
+Haus sees traditional databases as inadequate for digital:
+Here’s how I look at the data problem. We get data in from all different kinds of sources and formats, and we get it at different times. Now, what we have to do is predict the future and how you’re planning on using the data. That’s where traditional databases fall down. That’s where you’ll see MongoDB. We want to have the ability to find insights and be able to react quickly to those insights.
+Traditional databases also choke on data variety:
+We want to be able to take data in different formats and then store it. Then we need to be able to actually use that [to create a new service]. That data can be documents, images, tax documents; it can be an email that was sent in.
+Hygieia – a MongoDB DevOps use case
+Oron Haus, Capital One
+Haus’s team dove into MongoDB with Hygieia. Why was this solution necessary? Haus:
+Think about all the data sources that exists. I want to re-imagine how you interact with your money. I want to build products and services for you. I want to know that I’m delivering them quickly, because the barriers to entry for startups are falling down. So I have to move quickly. I have to make sure that you’re using the service the way I thought you were using it. I need to know that it’s working the way that I thought it was going to work – because sometimes the small bugs are the hardest ones to find.
+The issue is DevOps tools proliferation. Haus’ team must push through deadlocks and service outages quickly. But that gets messy:
+We’ve got a ton of tools. More tools all the time. Each of those tools is unique, and good at doing that piece of the puzzle. When it comes to surfacing all that information at one time, the individual tools are not so good at doing that.
+Enter Hygieia – an open source dashboard and depository of data, powered by MongoDB. Capital One designed Hygieia to provide a complete dashboard, pulling in data from all DevOps tools in use (more than 20 tools in their case). Haus showed the dashboard on stage:
+
+So far, so good:
+Here’s why this is great for us: we’re getting data from different sources and storing it in Mongo. If for some reason someone says, “There’s a new data source that I want to store,” the API doesn’t change. We just pass them the some of the details and payload, and we’re good. This allows our developers and product teams to focus on delivery. It surfaces the data quickly, so that we can react quickly.
+Though Haus is based in Washington D.C., team members across Capital One locations use Hygieia. So how has his life changed since the July 2015 Hygieia launch? Haus:
+My life gets easier because I know exactly where the problem is, instead of sitting there wondering why something isn’t working.
+And for customers?
+I think that for our customers, it really makes a big difference. First, we can get things to the costumers more quickly. Second, if there are issues with our products, we can see and fix them faster. That really helps when you’re on the go. The third one is that any company which embraces design thinking – which I think Capital One does – we want to make sure that we’re looking at the right things. Learning quickly what’s working and not working allows us to pivot quickly for the future.
+The wrap – are we there yet?
+I’ve never talked to a bank executive whose team is so conversant in DevOps, digital design, and data-into-experience. But, I wonder, is the transition complete? Not being a Capital One customer, I’m not in the best position to judge.
+MongoDB isn’t a fit for every use case. But that leaves us with the problem of integrating all the data that impacts customers. In Capital One’s case, shouldn’t MongoDB usage expand beyond Hygieia to other digital services? With that question, Haus got a twinkle in his eye before issuing a carefully-worded response:
+I would say that the problems that MongoDB addresses, we face those problems. We use the appropriate tools to solve those.
+In other words: stay tuned. Haus believes Capital One has an advantage, steeped in DevOps culture:
+Over the past few years, we’ve constantly pushed ourselves to really embrace open source, and push for agile and DevOps. I really think this comes from our modus operandi… As technology advances, we’re typically the first ones to embrace it.
+Sounds like a good team to be on. But as Haus knows, consumers will be the judge.
+Image credit - All photos by Jon Reed. Disclosure - MongoDB paid the bulk of my travel expenses to attend MongoDB World 2016. Read more on: DevOps NoSQL and the open source stackMobileOpen sourceUse casesUser experience 

@@ -1,0 +1,59 @@
+
+AI in some form is said to be rapidly infiltrating every business and, as I recently discussed, a growing variety of smart devices. Whether that translates to productive applications is wide open to debate but, due to its potential to improve the quality and length of people’s lives, perhaps the most significant area of AI advancement is in healthcare and medical apps.
+For example, algorithms can analyze radiological imaging for signs of disease, process streams of wearable data for indications of heart problems or comb through medical histories to recommend prescriptions with the highest likely efficacy and fewest side effects.
+Messy machines
+Unfortunately, medicine is also the area where the optimistic promise of machine learning (ML) collides with the messy, realistic complexity of real-world conditions and well-established, sometimes anachronistic processes.
+The clash between AI technology and medical clinical practice was highlighted in several presentations at the recent NVIDIA GTC conference, notably an expert panel session on the Challenges of Machine Learning in Clinical Practice that focused on the ramifications of AI to radiology.
+As I detailed last year, because deep learning models are particularly effective at pattern matching and image analysis, radiology is the area where AI can yield most immediate benefits to mthe edical practice. The panelists, including representatives from the American College of Radiology (ACR), Medical Image Computing and the Computer Assisted Intervention Society (MICCAI), represented a mix of practicing radiologists and medical imaging researchers. While praising the rapid expansion of investment and technology, they highlighted several significant problems impeding ML adoption, namely:
+
+The need to integrate ML detection with the clinical workflow and assess the value of AI assistance within an overall, doctor-centered diagnostic process.
+The importance of developing algorithms trained with a broad spectrum of data that covers the full gamut of conditions practitioners encounter, not a tidy subset of ‘clean’ images.
+The complexity and cost of testing, validating and certifying ML algorithms and obtaining regulatory approval for general use.
+
+Although these issues are mostly specific to AI in medicine, they illustrate the implementation challenges of incorporating AI into any business, including:
+
+The need to accommodate long-established processes and the people responsible for them
+The difficulty of developing models that can handle real-world scenarios
+The complications inherent in assuring that automated tasks comply with relevant are laws and regulations.
+
+Such difficulties highlight a growing gap between AI technology, which races ahead at breakneck speed, and our institutions’ ability to incorporate it in a safe, responsible manner.
+via Dreyer Healthcare
+Medical imaging diagnosis isn’t just an extrapolation of ML photo tagging
+The first, and now quintessential example of ML progress is the rapid improvement in accurately tagging and classifying objects in photos. Most of the cloud image analysis systems can now identify basic objects like people and animals 99 percent of the time. Indeed, a recent study found an algorithm superior to human technicians at classifying echocardiogram views, showing that progress in tagging vacation photos and selfies has spread to more complicated medical images. While the sonogram research used a diverse set of 20,000 training images from different patients to avoid correlations and model biases, many algorithms aren’t based on such an exhaustive sample or focus on particular patterns or conditions to the exclusion of other medically significant features.
+Keith Dreyer, DO, PhD, vice chairman and associate professor of radiology at Massachusetts General Hospital in Boston and a panelist at the previously mentioned GTC session identifies a serious problem with the current Balkanized state of ML in radiology in this Q&A.
+One example would be if someone created a pulmonary nodule detector and then someone else created another pulmonary nodule detector. There’s no reason why those two shouldn’t output the same values, the same numbers, for the same examination. So if, say, a patient moves from one location to another location, they might be getting different numbers.
+via Dreyer Healthcare
+He notes that the ACR is working to standardize the data sets and conditions used to create AI models in ways that both preserve the freedom to innovate, yet guarantee consistent results from different manufacturers when presented with the same data.
+Dreyer and a colleague also point out another issue with the use of AI, namely that radiologists don’t have data science expertise, nor the inclination to develop it that’s needed to critique or understand any methodological shortcomings or limitations in the models they use. Indeed, this critique is valid for any area in which algorithms are used to supplement or replace human expertise.
+A recent paper details other challenges to the application of deep learning to healthcare that are broadly relevant. These include:
+
+Managing massive amounts of training data while ensuring data quality.
+The relative complexity of medical analysis in which “diseases are highly heterogeneous and for most of the diseases there is still no complete knowledge on their causes and how they progress.”
+The need to regularly retrain models given that diseases change and mutate in unpredictable, nondeterministic ways.
+The need to secure the privacy of individual records used in ML model development.
+Providing model transparency such that AI users can understand how and why a model reached a particular conclusion and better interpret the results.
+
+Another paper, partly funded by the U.S. HHS, underscores the importance of validating results against established standards of medical care before replacing people with algorithms. Echoing points made by Dreyer:
+No matter how carefully the training data has been assembled, there is the risk that it does not closely enough match what will be encountered in real application…
+…a problem that can only be solved with exhaustive clinical trials. The paper also points out a serious risk peculiar to the error minimization techniques used in the development of deep learning models: detecting facial features in a photo, errors in radiologic image analysis don’t have the same medical significance. So, minimizing the overall error rate might not produce the most useful, medically significant predictions.
+Augmenting business process with AI
+Applying AI to medical practice exposes problems that will occur in any business application, namely incorporating algorithmic decision-making into existing processes. As the GTC panel indicated and this article from the Harvard Science Review notes,
+Healthcare systems have been structured so that change is difficult…
+…with both institutional and professional inertia that stymies change to computerized systems and where financial and career incentives don’t motivate the development and use of ML techniques.
+Panglossian AI enthusiasts would counter that integrating with legacy processes is a temporary problem since in the long-run, the entire job will be handled by machines. Indeed, some research suggests that:
+Within decades the traditional professions will be dismantled, leaving most, but not all, professionals to be replaced by less-expert people, new types of experts, and high-performing systems.
+Dreyer disputes this contention, stating in his Q&A that,
+The knee-jerk reaction is that it’s going to come down to radiologists vs. AI. People frequently want to know when the day will come that radiologists are replaced by AI, and that’s just the wrong question. It’s like if, when calculators first came out, someone had asked when they would replace accountants. It just does not work that way. I don’t see a day when radiologists are out of practice and it’s all replaced by computers. But radiologists and AI will be better than radiologists without AI.
+Dreyer’s lengthy, nuanced presentation at GTC 2017 entitled Healthcare AI counters such either/or framing, countering that asking when AI will replace radiologists is the wrong question. Instead, “think of what it will enable.” Instead, he sees the biggest threat as AI Balkanization with “no organization orchestrating the industry.”
+My take
+The healthcare industry embodies both the incredible promise of AI technology and the extreme difficulty of incorporating it into complicated, prudent and regulated organizations that regularly make life-and-death decisions.
+As such, it highlights, to an exceptional degree, the challenges other businesses and industries will face as they adapt ML and deep learning technology to their data, workflows and decision making processes.
+Many of the challenges facing AI in radiology can be generalized, for example:
+
+The need for diverse, heterogeneous modeling data that captures real-world conditions
+The difficulty of working with multiple models optimized for slightly different situations or conditions
+The complexity of integrating automated predictions into legacy business processes
+The delicacy required when managing organizational and employee changes when technology displaces human tasks
+
+Business and technology leaders should learn from the rigor and care healthcare organizations like the ACR and MICCAI are taking to AI in medical imaging since a haphazard introduction of AI that creates significant, unanticipated consequences, unfavorable news headlines and blowback by employees and customers will set back efforts for years. Just ask Uber.
+Image credit - via Dreyer HealthcareRead more on: Analytics planning and data analysisHealthcare transformationMachine intelligence and AIRobotics 

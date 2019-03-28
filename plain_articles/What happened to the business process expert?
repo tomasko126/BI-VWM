@@ -1,0 +1,54 @@
+
+Years and untold years ago, when diginomica was still crust in the wary eye of a curmudgeon, I did a presentation for ASUG (SAP’s North American User Group) on the emerging role of the Business Process Expert. I was convinced this emerging skill set was going to become a big factor on ERP projects, and, hopefully, improve project outcomes.
+Was I right? Well, not so much. I recently stumbled on a slideshare version of that ASUG presentation. Some of the SAP product lingo (from long-vanished or downplayed products) seems as awkward as an old Billy Squier video,
+SAP has long since abandoned its own focused BPX community (an unfortunate decision), but as I picked over the bones went through the slides, I saw quite a few skills nuggets that I still use today when advising enterprise pros.
+Here’s an updated review of the key concepts: today’s enterprise software professional needs to think of themselves as a business process expert (BPX), an umbrella term for a diverse set of roles:
+All these “new”BPX roles are centered on one key concept: business is now driving technology, not the other way around.
+Therefore, a new kind of #ensw professional is increasingly needed, a techno-functional savvy individual that is currently in short supply.  SAP’s Denis Browne once described this emerging professional as a “marriage counselor between business and IT.”
+In the presso, I defined some core areas of the BPX skill set:
+
+mastery of modeling tools (ARIS, Visio)
+“Web 2.0” skills (collaborative process definition and design)
+“soft skills” (another umbrella area of many skills)
+focused industry know-how
+knowledge of the end-to-end business processes that rely upon your IT/ERP skills to be properly enabled
+ability to work as the liaison or missing link with functional and/or
+technical teams from the opposite side of the aisle.
+change management skills (process-driven approach often means organizational changes).
+project management skills and methodology know-how (lean manufacturing methodologies, Six Sigma, project management certifications).
+
+Much of this list holds up well today – with the exception of BPM modeling tools. I’m no longer convinced process modeling should be a mandatory #ensw skill – perhaps it’s best seen as a specialist skill or nice to have. Experience with guided and/or interactive configuration, which many SaaS products have in some form, might be more broadly appropriate (Naomi Bloom calls this interrogatory configuration).
+“Web 2.0,” meanwhile, is an out-of-date term, but if you review the detail I wrote for each of these skills, I was also referring to collaboration skills and user experience design, then in the early stages. If anything, those have become more important.
+So if I were redoing that list for today, I’d drop the first three and add:
+
+knowledge of user experience design
+SaaS delivery know-how and value proposition (elasticity, multi-tenancy, resource pooling, deployment models, etc)
+experience with embedded analytics and visual reporting tools
+ability to implement and/or use collaborative tools/workflow
+industry know-how, including the configuration of cloud-based templates and guided configuration techniques
+
+I’d also add agile methodologies to the project management list. Of course, that’s not all it takes to become a great enterprise consultant – I’ve written about that skill set more generally. I’ve also looked at the transition from on-prem to cloud consulting, from an HCM standpoint.
+The advice in those two articles extends what I’ve said here. Briefly, from the great consultant piece, my short list was:
+
+Subject matter expertise is a given, reinforced by multiple go-lives
+Can bridge the gap between technology and business outcomes
+Doesn’t just implement point solutions but is capable of advisory
+Understands range of implementation methods, including agile/iterative rollouts
+Has built an ‘expert learning network’ for continuous learning and skills referrals
+Is a teacher by nature, empowers clients to be more capable and less dependent
+
+The SaaS consulting piece had many points to consider, but three we can add from the advice of Luke Marson and Jarret Pazahanick:
+
+Juggling multiple projects simultaneously is the norm
+Less on-site work requires skills in handling remote projects
+Going from a waterfall to an agile methodology is a big mindset and skills shift
+
+We can spin this trip down BPX memory lane one of two ways. We could say that technology fads come and go, but a quality enterprise software professional is timeless. Or, we could take a grimmer view: after all these years, we still have a glut of over-technical resources and not enough well rounded pros, whether you want to call them BPXers, or SaaSers, or simply great at what they do.  At best, the truth lies somewhere in the middle.
+Image credit: Blank Sheet of Paper Before Businesswoman © ptnphotof – Fotolia.com
+Disclosure: SAP is diginomica premier partner as of this writing.
+End note: This piece was partially inspired by emails with Aiaz Kazi, who was telling me about his role in SAP’s BPX launch.
+Update: after reading this piece, Naomi Bloom noted some parallels with her own skills-related post, which I recommend:
+
+Reassuring overlap betw @jonerp on BPX http://t.co/56yatfJlXY and me on biz analyst (but this needs an update) http://t.co/SuOZfUNgxR
+— Naomi Bloom (@InFullBloomUS) July 24, 2015
+Read more on: Collaboration sharing and digital productivityFuture of work 

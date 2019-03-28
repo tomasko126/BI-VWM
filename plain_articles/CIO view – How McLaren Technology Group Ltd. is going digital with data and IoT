@@ -1,0 +1,39 @@
+
+Charlton at Sapphire Now 2017.
+At the winddown of Sapphire Now 2017, our diginomica video set was all packed up. But there was a chance to talk to one more customer: Craig Charlton, CIO at McLaren Technology Group Ltd. I had already been warned we wouldn’t be able to linger on the racing topic – but business diversification via “real-time sensing and telematics expertise” was plenty meaty.
+Charlton was a good sport to linger in a non-descript meeting room on the show floor and give me the story. Of particular interest: McLaren is not an S/4HANA customer (yet). That casts light on why market imperatives might dictate an Internet of Things push – prior to upgrading a core ERP system.
+A digital IT mandate
+Charlton was brought in as CIO of McLaren Technology Group two years ago. His IT leadership background in consumer goods was a fit with McClaren – but did he have a mandate? Charlton:
+Our business is a large growth trajectory. When I joined, there were about 2,500 employees. We’re now at 3,800. So we’ve grown pretty significantly in the past two years. A lot of our technology was legacy, in-house written technology.
+Charlton’s first goal? Change IT service delivery:
+Our approach was great for when the McLaren companies were small. My idea was around digital transformation and what I call “industrializing the delivery of IT”: to enable the growth of each of the different businesses.
+Add a big twist to Charlton’s mandate: he’s technically responsible for four different business units: McLaren (Formula 1) Racing, McClaren Commercial, which is partnership-driven, McClaren Automotive (a super/hyper car business), and McLaren Technologies:
+That’s essentially an Internet of Things business. We take learning and know-how, in terms of design, simulation and performance from Racing, and then transfer that to applied technologies.
+Charlton’s predecessor at McLaren had focused on a one-size-fits-all service model, “which he needed to do to get control.” But Charlton sees his mission as different:
+With me coming in, it was more around what’s the digital core for the organization. What’s the core services that each of the businesses are going to need, how do we work out the common platforms we’ve put in place there?
+It’s not only about services/support – it’s about impact.
+More importantly – once we get that right -what are the differentiated services we need to put in place for each of the businesses?
+IoT is about fusing data and experiences
+Autonomous vehicles are the rage, but for McLaren, it’s more about an exceptional experience:
+You buy a McLaren for the experience. You’re paying upwards of $200,000 for the car. We want to make sure that our customer is right with it, from looking at the car on the website to being in a retail store, to getting delivery right, up through to driving it, owning it and maintaining it. We want that to be a fantastic experience. So, that’s the key vision for all of the work that we do there.
+Charlton views SAP as integral to their digital plans. They are running SAP ERP (ECC) on HEC (the HANA Enterprise Cloud, a private hosting option). That includes manufacturing, logistics, finance, and HR. With that backbone in place, McClaren is pursuing a bunch of next-gen initiatives.
+Defining the IoT stack – a partner model
+There’s another twist: McClaren’s relationship with SAP goes back twenty years from a sponsorship angle. This unique two way relationship continues as SAP is still a McLaren Racing partner and sponsor. At Charlton puts it: “We needed a platform to grow our business.” Charlton’s approach matches up well with SAP CEO Bill McDermott’s “data is the new gold” keynote. But how should we define an IoT business model?
+I always think of IoT as a stack of technologies. So you start with sensing technology while you’re actually pulling some data ops on equipment, or on a person for example. Then you need to transmit that data somewhere. Once you push that data, you can then do some analysis on it. Then you typically have some visualization or simulation tools at the top. It’s really thinking about which elements of the stack, and which technologies you are going to use.
+With SAP’s Leonardo announcement, SAP is changing how they partner with companies as well:
+With SAP’s Leonardo platform, which we’re not using yet – that’s where SAP’s now moving more to. It’s about how well can you actually help organizations do that? They’re not just selling a product then, they’re selling a service.
+New data-as-service models are up for evaluation
+Pursuing data-as-service has changed McLaren’s potential business models:
+We might not sell human telemetry or biometric sensors; we might sell performance as a product. We do it all the time with our Formula 1 drivers. So why couldn’t we transfer that back to a corporate environment and start driving human performance in a corporate environment.
+That opens up “corporate performance” tools for executives – taking data like body temperature and heart rate variations, and selling it to leadership teams as a service. For Charlton, that means taking their fifteen of “data rich” biometric sensor data, and explore whole new industries. There is also value in exception handling and alerts:
+One of the unique things that we do is: rather than take all of the data off all of the sensors, because you can create so much data, we’ve got some edge computing capability, which effectively is looking at abnormalities. Then we will then send that information back. That’s a much more cost-effective way – and a much more speed-effective way – of doing disk transmission and then data compute.
+Remember, you probably throw away 95% plus of the data because it’s irrelevant. What you want to understand is, when something is going wrong or something is outside of tolerances. That’s what our edge computer capability can do.
+These projects extend in augmented reality:
+We’re looking at creating a 3D augmented reality model, so that when you spec up your McLaren, you can then sit in it, look around it, change the colors and so on. That way, we can start to bring a more experiential facility to the retailers. Typically, they’ll only have one or two cars in the showroom.
+The wrap – SAP will need IoT partner-savvy
+Are they considering S/4HANA? Short answer: yes, and Leonardo as well. They are also looking at expanding their SuccessFactors Recruitment footprint, with an intent to use it for end-to-end human capital management. There is also the potential to “fuse” McLaren’s edge computing technology with some of SAP’s IoT pipes.
+We also got into IoT risk management – an area McLaren is examining closely given the potential for sensitive personal data. It adds up to relationship-driven partnership, not just technology. Charlton made it clear it’s not about SAP doing all-things-IoT the way it has been for ERP. The McClaren Technology team anticipates several IoT partners sitting around a table, hammering out business models:
+If you look at where SAP’s true unique IoT value-add is, it’s in the data storage, data analytics, and data visualization stack. You also need to work with a telecommunications provider to transmit, and then you still need to work with an organization that’s got sensing technology.
+For me, Leonardo with SAP is going to be an interesting proposition in terms of how they will go to market with partnerships because they don’t have the full end to end stack from an IT point of view… That’s why we need to get all these organizations to work in unison.
+Sounds like a full plate, and a story to return to next year – perhaps even with a video.
+Image credit - Photo by Jon Reed.Disclosure - SAP provided the bulk of my expenses to attend Sapphire Now 2017. SAP is a diginomica premier partner.Read more on: Analytics planning and data analysisDigital enterprise in the real worldInternet of ThingsIoT robotics and AIUse cases 

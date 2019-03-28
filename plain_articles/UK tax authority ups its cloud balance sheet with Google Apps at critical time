@@ -1,0 +1,40 @@
+
+
+A month after the US Internal Revenue Service (IRS) suffered an embarrassing online hack that left private details of 100,000 citizens exposed, the UK’s own tax authority has fuelled inevitable security concerns with its decision to offshore data to the cloud.
+Her Majesty’s Revenue and Customs (HMRC) is adopting Google Apps, after ruling out a move to Microsoft’s Office 365. HMRC has 70,000 staff, and as such will be Whitehall’s first mass deployment of Google’s cloud services.
+A spokesman for HMRC said:
+Following a successful pilot, we are planning to roll out Google collaboration tools to more people throughout HMRC later this year. We have carefully considered the protection of customer information and this remains our highest priority. This contract will make it easier for staff to collaborate on internal documents, providing greater flexibility and efficiency, while reducing costs.
+David Fitton, head of public sector sales at Google UK, said on LinkedIn, in a post subsequently deleted :
+The acceptance by HMRC that they can store official information offshore in Google data centres represents a major change and endorsement of Google’s approach to managing sensitive information.
+The news of course sent alarm bells ringing in certain quarters with the Financial Times declaiming in bold headline font:
+HMRC’s Google deal ignites cloud security concerns
+In an article that leaps to a lot of conclusions , the FT actually acknowledges that HMRC:
+has no plans to move its databases of taxpayer data from domestic servers to the “cloud”
+But then it adds:
+It has not ruled out doing so in the future.
+Ah, well, there you are. Guilty as charged.
+In reality HMRC has been somewhat of a pioneer in UK government cloud adoption. In 2012, it became the first department to deliver G-Cloud services over the Public Services Network (PSN) in a bid to save the department £1 million a year and improve on the security of its IT services.
+Microsoft meanwhile spun into damage control mode, issuing a statement:
+We recognise and embrace the fact that customers use technologies from multiple suppliers, and will continue to offer attractive and competitive products that our public and private-sector customers want to use.
+Crucial time
+It’s a significant gain for Google at an important time. As well as being another blow in the ongoing public sector battle between Google and Microsoft in both the US and the UK, it comes as the agency is preparing to wind down its Aspire outsourcing contract.
+Aspire, the biggest outsourcing deal in the UK public sector, is due to come to an end in 2017. The outsourcing contract has cost more than £8 billion since its launch in 2004, accounting for 84% HMRC’s total spending on information and communications technology.
+Currently the deal is led by Capgemini and Fujitsu, but the intention is to spread its replacement across 400 smaller providers with no single supplier receiving a contract over £100 million.
+Earlier this year the Public Account Committee of MPs openly questioned the Revenue’s ability to manage the change and warned that a failed transition “would create havoc with the public finances”.
+To that end, HMRC has issued a £40 million two-year tender for consultants to advise it on how to manage the transition.
+The tender argues that HMRC:
+needs an injection of strategic-level experience and capacity to support people and culture transformation… HMRC will require the supplier to provide strategic input to the planning of this activity and for support for senior line managers in delivering it.
+Mark Dearnley
+This wind down is the highest profile example of the government’s wider commitment to end large, legacy IT contracts in favor of smaller, shorter contracts, with a heavy cloud services and SMB bias.
+For its part, HMRC has conceded that it will need to spend £600 million to replace Aspire, taking the lifetime cost over the £11 billion, according to its CIO and Digital Officer Mark Dearnley.
+Despite concern from the PAC, HMRC Permanent Secretary Lin Homer is adamant that the Aspire contract will not be extended beyond 2017 and as such is taking a phased approach to replacement. The department is part-way through migrating its infrastructure from traditional servers to a private cloud. She told MPs earlier this year:
+We won’t get to 2017 and just roll Aspire over…there’s no question of having to extend the whole contract.
+My take
+The key word here from Homer is “whole”. It leaves enough wiggle room for HMRC to try to extend parts of the contract. There’s no way that HMRC – already under fire for shortcomings in some of its online offerings – can risk a non-functioning tax collection system. Any hint that the transition away from Aspire will result in a breakdown of the systems and the brakes will be slammed on before the Chancellor of the Exchequer can say ‘It’s my career at risk here!’.
+This is a testing time for the shift to digital services and new forms of delivery in the UK public sector as the old legacy outsourcing projects wind down. Last week the vehicle licensing operation DVLA was widely criticised after day one of a new digital service saw clients unable to access the website in the main. That was inconvenient and from a PR perspective embarrassing, but not fatal. Failures when it comes to tax and revenue collection would be a much bigger problem.
+And there will be fierce resistance from incumbents to government on the sell side. I’m struggling to imagine a large SI about to lose its meal ticket being particularly receptive to pleas from ministers to extend the doomed contract ‘just a bit to get us through the next 6 months’.
+As for the FT’s ‘security fears’ headline about using Google Apps, that is of course just scaremongering nonsense. But it’s something we’re going to see a lot of in the coming 18-24 months as the Public Cloud First policy for central government is enforced, so we’d better get used to the claims and better at the rebuttals.
+[mailmunch-form id=”14637″]
+ 
+Read more on: Cloud platforms - infrastructure and architectureData privacyG-Cloud and the Digital MarketplaceGoverning identity privacy and securityOutsourcingRegulation
+

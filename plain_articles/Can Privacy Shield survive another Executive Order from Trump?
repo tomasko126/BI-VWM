@@ -1,0 +1,37 @@
+
+As US President Donald Trump prepares to sign off on another immigrant travel ban today, in the process he might deliver another blow to the already-questionable protection offered by the US/EU Privacy Shield data transfer scheme.
+The robustness of Privacy Shield has been in question from the moment it was cobbled together as a beyond-last-minute replacement for the defunct Safe Harbor agreement, ruled unsafe by the European Court of Justice in 2015.
+With two years of negotiations to come up with Safe Harbor II passing their deadline without result, Privacy Shield was suddenly pulled out of the bag as a last-minute solution.
+The hurried nature with which it was put together meant that it always smacked of being a comfort blanket to calm post-NSA revelations nerves among non-US cloud services buyers, rather than a solid legal framework to protect data from intrusive examination by American intelligence services.
+Privacy Shield was put together under the Obama administration. The election of Donald Trump as US President, with his views on intelligence gathering and his outspoken enmity towards tech firms on the subject, has only made the Shield’s long term future seem ever more unlikely.
+Trump’s Executive Order on travel bans earlier this year prompted a joint letter to the European Commission from the American Civil Liberties Union (ACLU) and Human Rights Watch (HRW), warning:
+People in the EU have diminished protections when it comes to limits on dissemination of their personal information, the right to access their private information held by the US government, and the right to request corrections to their information.
+The ACLU/HRW letter explains:
+The Privacy Shield framework adequacy determination relied in part on US government assurances that there were appropriate mechanisms in place for individuals to seek redress in cases where their data was accessed by the US government. Similarly, the umbrella agreement requires the US to ensure that individuals are entitled to seek access and correction to their personal information, unless specified exceptions apply.
+The umbrella agreement also requires that the US provide the ability to seek administrative redress to individuals in the EU in cases where they are improperly denied the ability to access or correct their information. However, provisions in the recent Executive Order issued by the Trump administration raise concerns regarding whether EU data transferred to the US meets the standards outlined in these documents.
+The Executive Order in question was, of course, put on hold by the US courts, but Trump is set to sign a replacement later today. While that will have some amendments to the original text, it’s unlikely to have changed so much as to invalidate ACLU/HRW’s concerns.
+ACLU/HRW also point to the current non-functioning status of the Privacy and Civil Liberties Oversight Board (PCLOB), which should have oversight of regulating and monitoring Privacy Shield’s requirements  from the US end:
+It is clear that the European Commission relied on the representations regarding the oversight role of the PCLOB as part of its adequacy determination. Unfortunately, however, the PCLOB is no longer a fully functional body. Currently four of the five board positions on the PCLOB are vacant.
+To fill those slots, Trump would have to come up with and sign off on four nominations, including a couple of Democrats to maintain required balance, then seek Senate approval. It’s safe to assume that this is nowhere near the top of his list of things to do, given that nearly 2,000 roles in the new administration remain unfilled.
+The stance from the US government is one of ‘nothing to see here’. Bruce Swartz, Deputy Assistant Attorney General, wrote to the European Commission stating:
+Section 14 of the Executive Order does not affect the privacy rights extended by the Judicial Redress Act to Europeans. Nor does Section 14 affect the commitments the United States has made under the DPPA (Umbrella Agreement) or the Privacy Shield.
+Nonetheless, Vera Jourova, the EU Justice Commissioner, let slip some underlying concerns in an interview with Bloomberg last week, when she talked of the need to be “vigiliant” and said she would be looking for reassurance from the Trump administration.
+And she warned:
+If there is a significant change, we will suspend…I will not hesitate to do it.
+In reality, the so-called Shield may be fractured beyond repair already. It won’t formally come under review by the European Commission’s own Article 29 Working Party (WP29) in Brussels until July, but there’s nothing to suggest that the group’s public concerns about the shortcomings of the agreement have changed at all.
+The US dilemma
+All of this leaves US cloud services firms in a state of flux. While many of them were quick to seize on Privacy Shield as proof for buyers that transatlantic business could be conducted in safety, an increasing number are reflecting uncertainty about future legislative and regulatory positions in filings with the Securities and Exchange Commission (SEC). For example, Workday notes  in its latest filing that:
+[Privacy Shield] has been challenged by private parties and may face additional challenges by national regulators or additional private parties. In addition, the other bases on which we and our customers rely for the transfer of data, such as model contracts, continue to be subjected to regulatory and judicial scrutiny.
+In an SEC filing from January, Microsoft – currently being pursued by the US Justice Department demanding access to data physically stored on a server in Ireland – states:
+The Privacy Shield and other mechanisms are likely to be reviewed by the European courts, which may lead to uncertainty about the legal basis for data transfers across the Atlantic.
+Those are just cautionary notes being struck compared to the blunt announcement from Yahoo! in its own SEC filings to the effect that, after depending on Safe Harbor for years:
+We are not currently relying on the Privacy Shield Framework.
+Yahoo! also highlights why this uncertainty matters so much:
+The interpretation and application of privacy, data protection, data transfer and data retention laws and regulations are often uncertain and in flux in the United States and internationally. These laws may be interpreted and applied inconsistently from country to country and inconsistently with our current policies and practices, complicating long-range business planning decisions.
+My take
+When Privacy Shield was introduced, we dubbed it lipstick on a pig.
+That porker is now bacon and sizzling in the pan.
+And much as I love a good rasher, that’s not good news for anyone – except perhaps indigenous country-specific cloud services providers with in-country data centers where customer data isn’t going to cross any borders.
+For the US cloud services industry’s sake, leaders there who want to carry on doing business in Europe long term need to pile pressure on the Trump administration to get behind a proper Privacy Shield replacement or, at the very least, to meet the requirements necessary to tape over the cracks in the existing flawed one.
+Image credit - Freeimages.com Read more on: Data privacyDigital government and public servicesRegulation
+

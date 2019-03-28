@@ -1,0 +1,45 @@
+
+This year’s Mobile World Congress changed my thinking about enterprise mobility. Two years ago, the only apps with any sex appeal were on the consumer side. That’s where the best developers seemed to be gravitating, working on real-time apps for streaming event coverage, and pushing the edge on interactive features. The enterprise mobile stuff we kicked tires on two years ago was either pedestrian by comparison, or wishful thinking prototypes.
+Move ahead to 2015, and the difference was palpable. Instead of modest booths and hypotheticals, enterprise behemoths like IBM, SAP and VMware had massive booths and sharper ideas. This time, it was the consumer apps that bored me, and enterprise apps that caught my attention. (Granted, if you wanted to geek out over the latest Samsung phone and get collectible trinkets from “booth babes,” you could do that too – enterprise at Mobile World Congress is still the undercard).
+This year’s mobile enterprise buzz was largely thanks to the so-called Internet of Things, which has prodded the imagination and, perhaps, scared companies into realizing that the alternative to re-invention is BlackBerry-like obscurity, if not outright catastrophe.  (See my colleague Derek du Preez’ roundup, The Internet-of-Things isn’t ‘up for grabs’, it is a diverse new phase of the web, for more on the high stakes in play as industries are challenged with new players and data-driven models. Derek and I also taped a podcast wrap of Mobile World Congress from an enterprise angle).
+The enterprisey apps I saw this year in Barcelona made an impression, not just for their design savvy, but because the technology was already in play in live use cases. The good stuff came from companies in a variety of geographies and sizes; I featured the top five enterprise apps I found in a series:
+
+Can data-driven video fix the content relevance problem?
+Augmented reality for business – present and future use cases from Metaio
+SAP fixes the Barcelona fountain with predictive maintenance
+Thinfilm unveils a smart bottle label – and the technology behind it
+How Philips Lighting mastered smart lights – and turned a $60 light bulb into a winner
+
+Enterprise mobile questions – is TCO an issue?
+Neat apps, neat use cases. Derek addressed some issues in his piece, raising the question of who will own the Internet of Things stack, and which business models will stick. But with customers moving from mobile pilots to broader initiatives, there still seems to be a sluggishness – perhaps prompted by TCO concerns, or the inability to scale in-house development.
+For a gut check, I did a video call with Keven Benedict of Cognizant, who had returned from a monster mobile world tour and was ensconced in his Idaho bat cave. I’ve now issued two videos from that talk:
+Enterprise Mobility – Mobile World Congress adventures and lessons
+Enterprise Mobility – Where do we go from here?
+Here’s the rundown of a few critical issues and Kevin’s responses:
+Enterprises are moving from mobile pilots to broader projects, but not without challenges – I asked Kevin why companies are doubling down on mobile but seeming to struggle at the same time:
+Yes, you are seeing broader mobile adoption, but there was a pause after that pilot phase, because companies recognized that, “Boy, this is going to take us a long time. And if it’s going to cost as much for every app that it id for my pilots, that’s going to be problematic.” Companies stepped back and said, “We have to figure out ways to manage the total cost of ownership for our mobile applications.”
+To bring the point home, Kevin referenced a disturbing metric:
+I recently spoke to the CIO team of Fortune 100 company and they gave me a metric that was interesting. They said for every mobile app, they are going to have to have a full time IT person assigned to that app. If you think you’re going to have 100 apps come out, and you use that metric, that’s 100 new FTEs to support those applications. The first question from an IT perspective is, “I don’t want to build those 100 apps in a 100 different ways.  I don’t want to open it up so everybody can build an app anyway they want. I don’t want my APIs to be different for every apps.
+Benedict, live from Idaho
+Kevin believes the key to overcoming this will be standardization of processes:
+How can I actually standardize way I do this, so I can scale mobile apps in a manner where I can manage that total cost of ownership, and we can start standardizing on the tools that we use, the platforms we use, the way we secure our data, apps and devices? Let’s figure out how to support the BYOD environment and what that really means to our company. How will we actually enforce our policies and govern the things we put into place?
+Otherwise, if I don’t standardize, It’s hard to know how it’s integrated with the back end, or what processes are going to be impacted. You quickly come to the conclusion in IT that you’ve got to reign in this chaos if you want to get the ROI you’ve hoped for.
+As for mobility vendors, Kevin thinks there is a corresponding wake-up call on the app revenue side:
+Yes, a lot more companies are starting that scaling operation, but on the vendor side, I’m seeing a  recognition that there’s not as much money on the mobile app side as originally anticipated by the industry itself.
+Apps revenues disappoint, but real-time architecture is drawing $
+So where is the mobile revenue opportunity? Kevin:
+The money you’re seeing is really on transforming the enterprise infrastructure to support real-time mobility. There’s going to be massive amount of investment required, but it’s not on the mobile app side. The investment is going to be on re-engineering processes and legacy systems so they can actually support the real time interactions that customers and users require today.
+Kevin sees enough importance in real-time architecture to make it one of his two primary research areas for the year:
+What we’re learning is that creating the world’s coolest mobile app isn’t going to do any good if your infrastructure can’t support real time interactions with your ERPs, and other business solutions and processes on the back end. Mobile applications are driving this digital transformation back into the enterprise. CIOs are saying, “We have to do this in order to be competitive, because more and more of our business is being transacted through our mobile applications.”
+But to support a real-time mobile environment and real-time mobile interactions with customers, that requires a lot of changes in the back end. It’s fascinating to see how much has to be transformed within our legacy IT environment to actually support this new world of mobility.
+Final thoughts
+Enterprise mobility is in a tricky spot, gaining momentum while TCO questions linger. A recent Computer Economics survey ranked mobile app as #4 in investment and adoption levels for 2015, with tablet investments even higher.
+The impact of mobile tech is clearly too profound to be sidelined by difficulties writing/deploying apps at scale. This may go back to the impact of IoT, and the danger companies are sensing from upstarts as well as market share grabs from rivals.
+One area where Kevin and I didn’t agree was on the promise of said upstarts; Kevin expressed more skepticism about some of the IoT plays that excited me. I found the live use cases persuasive, but given that it takes more than a few use cases to validate a new market, perhaps Kevin’s skepticism is justified.
+Kevin had some more interesting content on mobile trends for 2015 and beyond, as well as the HTML5 versus native apps dilemma. I’ll return to those in a future installment.
+If you want to hear more on those topics now, you can check out our Enterprise mobility podcast, or, alternately, listen to the podcast (which includes the content of both videos) here:
+
+
+Image credits: Photos by Jon Reed; Feature photo: binoculars © olly – Fotolia.com
+Disclosure: diginomica has no financial ties to Kevin’s employer, Cognizant. I was able to attend Mobile World Congress based on SAP funding my air travel and hotel expense, however, I set my own editorial agenda for most of the conference.
+Read more on: Frictionless enterpriseMobile 

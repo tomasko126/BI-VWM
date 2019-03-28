@@ -1,0 +1,57 @@
+
+
+Lead story – The unsustainable contingent workforce, and that pesky digital skills gap – articles by Den Howlett and Cath Everett
+
+MyPOV: I hereby pronounce the future of work as an official diginomica sticky wicket for 2018, where AI enthusiasts, talent brokers, wishful thinkers futurists and corporate recruiters will all confront the human side of their digital problems. Den tees things off with a troubling look at contingency in The unsustainable contingent workforce:
+Den argues that the “talent wars” rhetoric obscures a fundamental gap: there are winners and losers in the digital economy. The “talent wars” are limited to the sought-after:
+Before anyone throws the AT&T bonuses that were widely touted following the US tax cuts, it’s worth remembering that no sooner had we drawn admiring breaths from that then we learned that AT&T plans significant layoffs.
+If companies insist on catering to talent from the “winners’ circle” rather than investing in skills development, they risk perpetuating issues that can eventually derail projects. Cath has covered the digital skills gap (and how to bring in underserved populations) from many angles. Her latest, Closing the digital skills gap – more effort required, shows that the gap isn’t closing anytime soon, even as digital skills needs expand to include more soft/human skills as automation rises.
+The encouraging part of Cath’s piece? Seeing fixtures like Capgemini talk about getting more creative in how they define and recruit “talent”:
+That means constantly coming up with creative solutions to finding new talent, such as encouraging returners to the workplace or career changers and reaching out to schools and colleges.
+Can Universal Basic Income laws help? Perhaps, Den says, but even that would be “kicking the can down the road.” A problem that extends far beyond the enterprise must be faced by the enterprise:
+Is it realistic to assume that 100%, 80%, or even 50% of those displaced can be retrained or brought to as yet new and unheard of job types of the kind that are considered valuable?
+Diginomica picks – my top three stories on diginomica this week
+
+That Intel chip flaw means a large – and long – headache for CIOs and IT teams – Another week, another breach, another round of frenzied patches and cover-yer-buttocks apologies (or not), but as Martin explains, this ain’t no ordinary security flaw: “The Intel flaw is in the design of the processors it is engineered in, so it can’t easily be engineered out. A problem for CIOs that will not go away soon.” Martin hits on the next steps for CIOs, as well as longer-term issues, confronting performance reductions as chipmakers cope. This one’s a cluster, and not in a good way.
+Don’t count on blockchain disrupting commercial processes anytime soon – Kurt wades into the blockchain debate, pulling yours truly along as well, based on my spleen vent in last week’s hits and misses I don’t honestly care who is right or wrong here, as long as smarties like Kurt puncture blockchain hype balloons before customers get bogged down in them.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+SAP extends HCM on premise support to 2030 – smart move or major mistake? – Den assesses reactions, including user group analysis to an SAP maintenance extension (of sorts) in HR that caused a vigorous debate on its pros and cons.
+Specsavers has always got an eye for talent – video – Phil nabbed a use case video on the ground at HR Tech World (now known as UNLEASH). Eyecare retailer Specsavers dishes on how they compete for talent as older workers retire. Sidenote: I sliced and diced some fresh video content data in New data shows power of videos, text and storytelling – but the advertising model is still broken.
+Phil is back on the use case trail with Pilot Flying J fills up on Salesforce to drive its customer journey. Of all the benefits, this one stood out: “It is on the customer-facing side where moving to a single platform will deliver the greatest value, Tanaka believes. ‘I’m most excited about real time communications to the guest.'”
+
+Jon’s grab bag – Derek hit on another skills angle in British business losing patience over Brexit and concerns raised over access to EU skills: “British businesses are growing tired of the government’s internal squabbling and the lack of clarity around what Brexit will mean for the economy come March 2019.” – That includes the impact of EU workers leaving the UK after the referendum.
+Jess keeps retail on the front burner with a fresh use case in DFS sitting comfortably for post-Holidays deluge with multi-cloud approach (catch me at the NRF big show next week in NYC). Finally, if you’re partial to Alexa (when she understands you), you might want to peep into my How to get a halfway decent tech news Flash Briefing from Alexa – tips for enterprise readers.
+Best of the rest
+ Key stories of the week – the Meltdown and Spectre rundown
+
+
+
+​How the Meltdown and Spectre security holes fixes will affect you – got some time this week to patch every piece of electronics you own?
+Cloud infrastructure vendors begin responding to chip kernel vulnerability – Ron Miller with a non-comprehensive, but still interesting, set of statements from cloud providers.
+Microsoft and Intel reveal just how much Meltdown and Spectre patches slow PCs – So you patch your computer, and your reward is it runs slower… Awesome!
+Microsoft halts AMD Meltdown and Spectre patches after reports of unbootable PCs – On second thought, maybe don’t patch your AMD Wintel machine yet.
+Spectre and Meltdown: Insecurity at the heart of modern CPU design – This rabbit hole goes deep… with “stark choices” looming for CPU designers.
+
+Honorable mention
+What Should We Worry About Today (Strategy Version)? – Esteban Kolsky makes good on his blogging re-entry vows, with a strategy outlook that includes a surprisingly upbeat take on digital transformation, albeit with curmudgeonly caveats.
+Taking Stock of Cloud Application Platforms  – Krishnan Subramanian continues his useful cloud comparison series with a review of CloudFoundry, OpenShift and more.
+The Edge Is Replacing the Cloud, and Mobile Is Making It Happen – Whoops, forgot to add “edge computing” to my list of scintillating buzzwords for 2018. Gist: even with speedy 5G coming, there’s still a latency issue communicating with distant servers, cloud or not. Ergo: maximizing device-specific functions.
+The Bank Of England Is Planning A Bitcoin-Style Virtual Currency – But Could It Really Replace Cash? – My newsfeed readers clicked on this one a lot, so it must be important 🙂
+Ten enterprise technology industry predictions for 2018  – I don’t often pick predictions pieces, but it’s always interesting to get Vijay Vijayasankar’s takes, given his focus on human impact, not just tech for its own sake.
+Whiffs
+Before we get to the real whiffery, I liked this “educational apology” from FiveThirtyEight (Nate Silver’s firm), about data research perils, with loads of detail on how they screwed up a broadband projection: We Used Broadband Data We Shouldn’t Have — Here’s What Went Wrong.
+I didn’t really see the problem with this one either:
+
+BBC News – Chinese dating apps closed after women revealed to be robots https://t.co/cz6mwtZi44 -> Just because you find out your crush is a robot, why is that a deal breaker?
+— Jon Reed (@jonerp) January 8, 2018
+While we’re on AI, Facebook pulled the plug on ‘M,” an overhyped personal “concierge” that landed with a thud. But worry not, Facebook still has plans to be a privacy-invading nuisance automated helper in your Messenger chats, offering up Ubers and pizzas and whatever else. (see the Buzzfeed story for comical examples on how “M” was tricked by humans into doing all kinds of wacky stuff in its pea-brained zeal to help).
+So when a YouTube video of white noise gets five copyright takedown claims, you think something might be a tad wrong with our copyright laws? (White-noise-dude plans to dispute these claims – noise on man).
+And yes, CES, that borderline irrelevant massively popular consumer tech show is underway, and not without its share of whiffs. Via Phil Wainewright we’ve got a passenger drone debut, intended as a “bold display of transportation utopia,” get  kiboshed due to a light sprinkle.
+Hits/misses readers know I’m not a huge fan of the social media spank tunnel. Still, when Intel admits to a hardware chip weakness that impacts every computer except Commodore 64s and TRS-80s, you’d think they’d want to say, “we screwed up.” But at their CES keynote, they breezed past that part. Slate’s April Glazer was not impressed, citing Linux Developer Linus Torvalds:
+“I think somebody inside of Intel needs to really take a long hard look at their CPU’s, and actually admit that they have issues instead of writing PR blurbs that say that everything works as designed,” wrote Torvalds.
+I would just say to Glazer and Torvalds: please don’t be such killjoys when they rest of us are trying to enjoy CES’ shiny new toys…
+ If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Snowboarder Crashing © dismagwi - Fotolia.com - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Future of workGoverning identity privacy and securityHits and missesSecurity 

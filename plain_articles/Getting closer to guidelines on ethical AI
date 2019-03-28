@@ -1,0 +1,36 @@
+
+In “What Defines True, Artificial Intelligence?” venture capitalist Joe Merrill proposes four rules: self-learning, being moral, self-replicating and being sentient. I resist getting into these discussions of what may come because they tend to lower my self-esteem and income at the same time.
+However, we’re in the eighth year of AI Summer, and things are moving pretty fast. My problem with definitions of AI like this is that they are about the singularity where super-intelligent robots (physical or not) displace humans in the food chain, an event that may happen 10 in years or 200 years or never.
+However, technology has become fetishized. The rise of the robots. Genomics. Personalized medicine (I’ll be writing about that this month too). As David Harvey wrote in “The Fetish of Technology: Causes and Consequences”:
+We endow technologies—mere things—with powers they do not have (e.g., the ability to solve social problems, to keep the economy vibrant, or to provide us with a superior life)[1]
+So these predictions about actual artificial intelligence (which, if you think about it, isn’t actually artificial) are interesting (scary) but not relevant to my quest to find ethical applications of AI today. Nevertheless, mercifully there are only four, so have a look:
+His four definitions:
+
+Self-learning: “It will determine for itself what it chooses to learn.” I don’t know. Does anyone completely choose for themselves what they will learn? Now if the AI encounters something it doesn’t understand, it may choose to learn about it or not. I can accept that, but assuming it interacts with other entities and events, learning may be imposed, such as learning the behavior of new AI’s it has to “live” with. Learning how to swim if it falls in a lake.
+Be moral: “It will define its own morality.” I not only agree with this; I’m worried about it. For example, assuming morality includes empathy, what if the AI’s develop empathy for each other, but disgust for human beings given our less than moral proclivities? This isn’t even a “what if,” I suspect it’s an inevitability.
+Be self-replicating. “The ability to reproduce and create intelligence that is in the express image of one’s self, but permitting that new entity free-will to determine its own choices also.” This is the dystopian fear. Like the Cylons in Battlestar Galactica who were created by the humans who, it turned out, were built by the Cylons? Alternatively, think about reprehensible humans mimicked by an AI and reproduced geometrically?
+Be Sentient: I see some problems with this definition. First of all, the accepted definition of sentience is the ability to have sensations or experiences (described by some thinkers as “qualia“). Sentience is less than “consciousness,” which is defined as sentience plus “sapience,” the ability of an organism or entity to act with judgment, self-awareness and possessing an inner-life. Assuming the author meant sapience, then this is not debatable.
+
+The inclusion of morality is silly. There is currently limited artificial semantic comprehension of rules expressed in natural language. Since robots will have a very different perceptual reality, how could they be programmed to understand morality, ethics, empathy or harm? There are plenty of humans who lack these expressively, but except in the cases of physical brain disorders, they do possess them somewhere.
+In a previous article, How hard is it to solve the ethics in AI problem? I answered the question: pretty darn hard. Part of the problem is that some ethical issues are uncomfortable. For example, is it ethical to give a pedophile a child robot? Ethical questions can be, and very often, your immediate gut response (in this case, HELL NO!) may need to be more reasoned.
+Would it prevent a pedophile working to harness their inclinations from acting on them? Would it amplify those feelings? I don’t know the answer; I mean to illustrate, in a particularly horrible scenario, what’s involved in ethical decisions and why it would be so hard to create a complete set of them.
+The German Ministry of Transport attempted to create a complete ethical model for autonomous cars. It didn’t work. In simulations, it kept creating havoc because the rules were contradictory. Something was missing. When the I-35W bridge over the Mississippi River in Minneapolis collapsed in 2007, a semi-truck driver veered away from a school bus full of children teetering over the edge, sacrificing his life. He wasn’t sorting out the various ethical implications of his next move. It was empathy that guided him.
+I don’t see how we can program ethics, empathy, harm. To simplify this, what if we broke the ethics issues into different categories:
+
+The ethical implementation of machine learning in our existing businesses, government, non-profits, etc. I’d include military, but I cover that in #2. That implies scrupulous development methods to remove bias as well as catch it creeping back in. Answering the question, “I can build this, but should I?” Not allowing your objectives to overwhelm people’s privacy. Resist digital phenotyping. Using your influence to encourage your partners, stakeholders, regulators, legislators…everyone, to apply the same ethical behavior with this wildly proliferating technology. We don’t need thinking machines to guide this. Identify who is responsible. It’s on us.
+Ethical development of AI applications that favor “do no harm” over “do something good.” I know this may sound counterintuitive. For example, a physician tried an unapproved procedure to save the life of a child but only caused more misery without avoiding eventual death, violating the ethical principle of favoring do no harm. Autonomous weapons and even combatants pose crazy ethical issues. The do no harm over do some good can get pretty convoluted.
+The sentient/sapient AI: Hold on to your hats because it’s going to create its own set of ethics and all we can hope for is that it’s a white-box and not a black-box (or has a kill switch). The sentient/sapient AI could very well be our last invention.
+
+My take
+Debates about ethics have been going on for at least 4,000 years, and probably longer, but there is no written record. We don’t have to get bogged down in that. For the moment, we only need to be clear about as much of an ethical framework required to cover these broad concerns:
+
+Who is responsible?
+How can we make this transparent?
+How can we make progress without digital phenotyping and trampling on people’s privacy?
+Bias in all its forms
+Security and immutability to keep the bad guys out
+
+That’s not too much to ask, is it?
+[1] Harvey, David (2003) “The Fetish of Technology: Causes and Consequences,” Macalester International: Vol. 13, Article 7. Available at: http://digitalcommons.macalester.edu/macintl/vol13/iss1/7
+ 
+Image credit - Portrait Of Businessman Predicting Future With Crystal Ball © Andrey Popov - Fotolia.com.Read more on: Governing identity privacy and securityMachine intelligence and AIRobotics 

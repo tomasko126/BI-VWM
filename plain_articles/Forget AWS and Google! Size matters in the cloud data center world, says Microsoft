@@ -1,0 +1,50 @@
+
+Scott Guthrie
+Earlier this month, Microsoft made the bold claim of being “the first global provider to deliver complete cloud from UK data centers” as it eyed up the public sector market.  At the time, I raised a skeptical eyebrow as to how this claim was justified, given the presence of firms like Salesforce and IBM operating in the UK government market as well with their own in-country data centers. 
+While I’m no closer to a specific answer to that, with happy timing Scott Guthrie, Microsoft’s EVP Cloud and Enterprise, used an appearance at this week’s Deutsche Bank Technology Conference to drill down into the firm’s global data center thinking and stake some further bold claims. Guthrie began by emphasizing the global nature of cloud computing: 
+
+The cloud needs to be something that works all over the world, and in particular, can meet the unique compliance, data sovereignty requirements that organizations have around the world in order to run their business. We’ve been hard at work building out our cloud infrastructure over the last several years and we now provide our services in more than 34 Azure regions around the world, where customers can basically in a matter of seconds deploy and run their own code and deliver their own set of applications and solutions to their employees and their customers.
+
+Guthrie wasn’t shy of setting out some big numbers to back up his pitch:
+
+We’ve got more than 120,000 new customer subscriptions being created every month, about 1.6 million production databases are now being hosted in Azure alone, more than 2 trillion Internet of Things messages each week, more than 5 million organizations that have been through identity server and integrated their user employee security as part of our cloud, 4 million developers.
+
+All of this leads to the inevitable conclusion that size matters. Guthrie boasted:
+
+We have more regions than AWS (Amazon Web Services) and Google combined. 
+In particular, we don’t just have broad coverage of regions but also meet unique data residency promises that no other cloud vendor delivers. Whether those are in China, whether that’s in Germany, whether that’s for US Government and Department of Defense, we can make guarantees around who has access to the data. For example, in Germany and China, we make promises [that] no American, and no Microsoft employee has any operational control over those data centers or that data to be able to meet those specific markets.
+
+Size is also on the agenda when it comes the data centers themselves, Guthrie claimed, citing an example of one in the East US Region which is two miles long and will ultimately host a million servers. You need to be a particular type of company to pull that off, he argued: 
+
+This kind of scale at that global level is something we fundamentally believe, really very few companies in the world are going to be able to provide, and for the most part we see ourselves [in a] two-horse race today, with AWS as that provider.
+
+What about Google?
+The only other credible vendor could be Google, admitted Guthrie, but insisted that it lacks the enterprise capability at present:
+
+Even the way they have built their infrastructure historically, it’s really been optimized search. If you look at, for example, the number of regions around the world they operate in, they currently, I think, have four versus our 34. 
+
+That undermines Google’s prospects in the enterprise cloud space, suggested Guthrie: 
+
+If you want to compete in the UK and you want to go to a bank in the UK and say, ‘Hey, you should consider using us for cloud. [But] we can’t guarantee your data is going to stay in the country, we can’t actually meet your regulator needs, and I’m not sure when we do support whether we’re going to be able to have a human on the end of the line who would pick up the phone’. That ends up being a non-starter for that conversation. So I do think they are going to struggle a little bit, certainly over the next couple of years in terms of building up that enterprise credibility and being able to get to that point.
+
+There’s also the security aspect to factor in, with Guthrie pitching the line that this is far from being an issue that’s going away as a factor in cloud adoption: 
+
+In general the threat environment that we all live in now is significantly scarier than it was a decade ago versus two decades ago. The adversaries out there are getting more sophisticated, the types of attacks that are happening are happening more frequently, and that’s just going to be the new normal for us going forward. The important thing when you think about security is, you’ve got to be paranoid. You can’t take anything for granted, and any vendor who says, ‘Use my stuff and you will be perfectly secure’, run away from them because they don’t get security or they are lying. 
+
+That prospect – being lied to by your vendor – raises the question of trust, a theme which Microsoft’s ‘friend-with-benefits’ in the cloud, Salesforce, has been majoring on for some time. Guthrie posits trust this as a major differentiator between Microsoft and the competition, including, presumably, Salesforce: 
+
+We have now more trust certifications with our cloud than any other vendor. We meet – whether it’s individual industries, whether it’s individual country boundaries – the credentials necessary for companies to bet their business on top of us. 
+
+How that claim goes down with Salesforce in a week when Microsoft’s other big news was that it has won HP Inc’s CRM business away from Salesforce, remains to be seen. But Guthrie did attempt some diplomacy about that deal, even if it wasn’t entirely successful:
+
+
+I think the HP Inc take out yesterday wasn’t a Salesforce take out, it was…they are very large Salesforce shop – or they were until yesterday. They are planning a massive migration and big bet on Dynamics. 
+
+And HP Inc isn’t the only one, he hinted: 
+
+It’s one of the more public ones that we’ve had, but we’re starting to see some really good success in the market at a broad level, and particularly, right enterprise. Now let’s [just] say, for CRM in particular, enterprise is our sweet spot…in particular for customer engagement solutions, I think we’ve got a very strong enterprise product and we’re growing very, very fast. 
+
+My take
+I will be looking with interest at just how much of a profile the Salesforce/Microsoft bromance gets this year at Dreamforce. A lot has happened since this time last year, not the least being Microsoft beating Salesforce to the takeover of LinkedIn. That aside, it’s clear that the bold UK data center claims made for Microsoft earlier in the month are just part of what looks set to become an increasingly repeated meme in the battle against AWS and Google. 
+Image credit - YouTube/Freeimages.com Disclosure - At time of writing, Salesforce is a premier partner of diginomica. Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceData privacyDevOps NoSQL and the open source stackDigital government and public servicesInternet of ThingsSecurityUser experience
+

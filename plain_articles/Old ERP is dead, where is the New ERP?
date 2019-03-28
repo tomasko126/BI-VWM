@@ -1,0 +1,64 @@
+
+Workday’s Frankensoft Monster
+In the first part of this diatribe, I explained the many ways in which the Industrial Age is giving way to the Digital Age and why the old ERPs are no longer relevant to the 21st century business.
+Don’t get me wrong. We still have regulatory frameworks that will survive well into the future and need to be catered for. But doing that regulatory work won’t earn your firm a single penny in cash or profit. Instead, you will need to find a new accounting, a fresh way to consider the world of business but through the lens of the digital economy. How? That’s not so easy a question to answer.
+Whatever happens, we have to move on from Frankensoft.
+New ERP needs new Cost & Management Accounting logic
+Cost Accounting, a bane of many B-School students, was tailor made for the Industrial Age. Cost accounting teaches people how to determine if any production, cost, scrap or other variances were incurred in the production of an item. Great care is taken to identify actual versus standard costs. All of this is great if you’re making castings, forgings, stamped or machined products and if prices and costs are relatively stable. The good ol’ standard costing works just fine because it focused on variations in production. This is not relevant if your product is data. The digital age urgently needs a new cost accounting model.
+Adding to this urgency is that more manufacturers are utilizing 3-D printing/additive manufacturing technology. This technology eliminates complex, multi-tier supply chains. Note: this is a major functional obsession within ERP vendors’ product lines and the need for elaborate cost accounting reporting. When you need a 3-D printed part, you simply hit “Print”. There’s no labor variance. Scrap variance is virtually eliminated, too. It is a demand driven event.
+An even bigger WOW-inducing insight comes from managerial accounting in the Big Data/Digital Era. Now, virtually every line item on a company’s P&L can be forecasted/budgeted with the help of big data. As a side note, it’s always been that way. It’s just that we didn’t have the data or the data pipes with which to validate what many managers ‘felt’ about the results they were expected to annotate.
+Big Data can better predict next quarter’s sales. It can identify potential employee attrition costs. It can identify potential product quality problems long before defective products make it back through the reverse logistics supply chain. To see more on this subject, click on this story I recently wrote.
+It’s hard
+However, for all of the potential for using big data in financial modelling, only a scant few ERP vendors can support this activity. Why? Three core reasons are:
+
+Their data models were not designed for these data types and elements
+Their technical architecture was designed for a constrained IT environment (see below) and incapable of handling the volume of data in a real-time way
+The vendors are still trying to avoid the re-investment needed in making their products relevant in the digital era. These vendors treat Big Data and analytics as things that can be bolted onto ancient, ossified and obsolete products. They’re wrong.
+
+The constrained IT environment of old ERP has become the ghost of ERP past. For the oldsters reading this, many ERP solutions sold today were originally designed to run on on-premises computers. These computing environments, at times, had distinct processing windows for on-line and batch transaction processing. Screen displays were often programmed not to be eye-pleasing and intuitive but dense affairs with 24 lines of 80-column space. Computer memory was constrained as was disk space. The world of IT went through spasms in the late 1990s because clever programmers creatively bent code around every limitation technology providers threw at them. In the aftermath of the Y2K crunch, did ERP vendors re-imagine their products? No, they simply expanded some date fields to avoid a future Y3K problem.
+In fairness that is hardly a surprise. I’d argue that Y2K was a massive wake up call for IT vendors that was missed in the hysteria around a world ending claim that frightened the bejeezus out of everyone using IT to keep their books. CxOs have never forgotten that pain and I don’t blame them.
+Ch-ch-changes
+Today’s ERP vendors are hanging tight with their old solutions. They are trying to bolt-on big data and other changes to the periphery of a tired solution. Like before, they’re trying to give their old products a facelift but the underlying technology is really dated. They need to give it up.
+If you were building an all-new ERP today, would it:
+
+Use sub-ledgers and all the redundant data these possess? (NO)
+Use a relational database for anything but a persistent data store? (UNLIKELY)
+Use Hadoop/Spark and/or in-memory database technology? (ABSOLUTELY)
+Ignore new data types like image files, blobs, blogs, social sentiment data, etc? (NO)
+Better utilize big data? (OF COURSE)
+Reimagine processes to also take advantage of a company’s dark data? (MOST ASSUREDLY)
+Design processes to take advantage of big data everywhere in the process? (YES)
+
+Will vendors deliver?
+Call me a skeptic or a cynic but I just don’t see much leadership out there in the ERP world. What I do see mostly disheartens me.
+Most ERP vendors tell me that they HAVE TO find ways to transition their existing customers off older solutions as these customers couldn’t afford to make or stomach a major change.
+If that logic were true, then horse breeders/sellers at the turn of the last century would have been outfitting horses with horns, headlights, wheels, etc. over several decades as buyers wouldn’t want to make a big, dramatic transition to the automobile.
+The old ERP vendor logic is flat out wrong and we are now seeing the proof points. Tribune Media would not have dumped almost everything to refresh for a new business model. Nor would they have got it done in less than one or two years instead of the seven months they expended.
+As firms go digital, they want a digital age solution right then and now. They don’t want an Industrial Age throwback with some digital window dressing. They want highly relevant, step-change solutions to deliver immediate value. They don’t need some 20-year in the making transitional product line that will kill them via the death by a thousand cuts upgrade merry-go-round. Sometimes a step-change IS more beneficial than a bunch of baby steps.
+Some vendors insist that their customers want peripheral applications on the cloud but ‘core’ applications on-premises. What that statement says about the digital age escapes me unless these vendors are saying that ‘core’ apps must be legacy ERP applications designed for the legacy era of business: the Industrial Age. I’m not buying that either.
+Side note: I get that regulation dictates many accounting and HR structures but that’s not an excise to use the old framework as the basis for augmentation. That should be a by-product of everything else.
+Smart ERP vendors design for the customers to come NOT the ones they already have. I’m finding too much defensive moat-building around old ERP solutions and too little imaginative thought being given to what the future systems should look like. There are exceptions — of course, but they are few and far between.
+Are there any vendors doing it right?
+A couple of rays of hope are out there. These are examples and not meant to reflect all that we see.
+Workday has a very clean architecture that was designed in 2005 to utilize in-memory database technology. They’ve added Hadoop and other capabilities to parse massive data stores, mix traditional and big data onto the same reports/dashboards and make the results actionable. Workday introduced the concept of tagging to overcome the problem of aggregation/disaggregation but so far it’s not been widely used.
+But much as Workday has succeeded in market, I wonder the extent to which newer vendors like Zenefits, with a wholly different approach that is aimed directly at the user and not the corporation needs, will prove more powerful.
+NetSuite has a polished set of products that cover the basics and has staked out the scalable omni-channel/digital retail space better than anyone I’ve seen so far.
+It has redefined how billing operates in a digital economy with a solution that is up there with the best in terms of flexibility, utility and oh yes — good ol’ reporting.
+FinancialForce has recently added dimensionality to their software, too.
+While dimensions and user-definable fields are a big help to many firms, the digital age will force more data types and datasets to be included in the mix. Updating the code block is a major step forward but they will have to do so much more.
+The good ol’ boys answer
+Nothing I’ve said so far should suggest that others are standing still. The major and long-term ERP players are adding new capabilities like in-memory processing, big data sidecars and machine learning into their offerings while also:
+
+Enhancing the older, on-premises Industrial Age solutions by:
+Trying to transition some customers to cloud product lines
+Trying to convince on-premises customers to move to private cloud and/or hosted single-tenant cloud versions of their original product lines
+Trying to convince customers to stick with their RDBMS-based solutions
+Experimenting with an in-memory version of their base product i.e. a version that doesn’t allow any user customization or tailoring
+Selling customers that they don’t need to change their core ERP solution as big data and analytics can be dealt with either in their RDBMS if data volumes are modest or via a bolt-on tool
+Buying standalone, bolt-on or loosely interfaced cloud applications that have different data models, data architectures and technical underpinnings in the expectation that the much needed backbone integrations will somehow magically turn up.
+
+The issue with these firms is that they don’t have a single strategy — they have too many. They are so paranoid that a customer might look elsewhere for true love that they’ll say anything and promise everything to prevent customer attrition. What that’s giving customers is headaches and slow progress to the digital era.
+ERP customers deserve better — who’ll be the first to deliver it?
+Disclosure: Workday, NetSuite and FinancialForce are premier partners at time of writing.
+Image credits: Frahnksoft via Workday but inspired by the author. All photos courtesy of TechVentive Inc.
+Read more on: Analytics planning and data analysisCloud ERP financials and supply chain 

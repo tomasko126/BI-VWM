@@ -1,0 +1,53 @@
+
+Barnett at NRF 2017
+I’m sitting across from Jeff Barnett, CEO of Salesforce Commerce Cloud, trying to wade through a mud bog of omni-channel hype at NRF 2017 – aka “The Big (Retail) Show.”
+The signage at NRF tells me retail is sexy; my local mall tells me a tougher story. Can those stories be reconciled?
+In a recent study, Cisco cited retail as the third most disrupted industry, behind only tech and media. Barnett cites some potent stats:
+
+Amazon reports e-commerce growth of 30 percent, whereas core retail is growing at only 2 percent.
+Amazon Fashion launched in a “very nascent way” in 2002 – it’s now the biggest fashion player in the U.S.
+60 percent or more of in-store purchases start online “through digital engagement.”
+Amazon has spent about $17 billion dollars on R&D around e-commerce. Walmart has spent under a billion. If Walmart cannot spend the money necessary to stay with Amazon, how will other retailers keep pace?
+
+BS detector needed – “Customer-centric omni-channels” are everywhere
+If retailers find their niche amidst all this, they’re going to need a strong BS detector for vendor hyperbole. Barnett hit on this in a recent post, You’re Probably Not as “Customer-Centric” As You Think You Are. So what motivated his missive?
+Listen, I’ve been doing this a long time in retail as you know… Over the last seven or eight years, that buzzword has really emerged. I come to NRF every year. Up and down the alleys, every software provider’s got their “customer-centric omni-channel” story and demo and what have you.
+Just don’t scratch beneath the surface:
+The reality is that actually very little of it’s happening in the industry. That’s the big elephant in the room when it comes to the retail industry generally.
+Thus the blog post:
+We’ve all gotten religion about digital, and about trying to put the customer at center, but the reality is very few have. So the question is why?
+I took the bait – why indeed?
+We recently engaged a study with NRF – a survey of the top retailers in the US and Europe. About 75 percent of them said that despite all the unprecedented investments they’ve made in retail over the last several years, they feel ill-prepared to handle and provide omni-channel capabilities.
+“Retailers are under siege” – creative responses needed
+At NRF 2017, Barnett heard a similar theme. His team hosted a breakfast with retailers and industry experts:
+We had retail futurist Doug Stephens talking about these trends. Of course, everybody nods and says yes. But the conversation invariably turned to “Why aren’t we doing it?”
+The answer is a tangle of digital challenges, from Amazon throwing its weight around, to elusive skill sets:
+Retailers are under siege, right? Increasing pressure from competitors abroad, Internet pure plays, the power of Amazon. There’s not a lot of free cash flow or digital skill sets running around a typical retail brand. So how do you compete? That’s the conundrum.
+Here, Barnett has some answers. First, think outside of traditional ways of solving things. Second, don’t build everything in-house: “leverage partners in cool ways.” Which brings us around, naturally, to Salesforce and their retail projects. Barnett shared the example of Cole Haan, which partners with Uber Rush for that Amazon-like same day delivery (Cole Haan also partners with ApplePay and Pinterest. The result: more control over distribution, as well as the “customer experience.”)
+In his post, Barnett also mentioned Nordstrom, Neiman Marcus, and John Lewis changing their stores by “partnering in unexpected ways with Tesla Motors, Rent the Runway and Kuoni Travel respectively.’
+The Commerce Cloud integration – and the customer experience challenge
+Good examples. The problem with “customer experience” is that it’s only as strong as its weakest link. I brought up a Manhattan example of a good app payment experience in Starbucks, but a lousy experience with grumpy baristas. One bad experience with a brand can override a lot of decent ones:
+It absolutely can. Customers typically report that most will not return to a retailer given a really bad experience. Fundamentally, retail technology is complex… We have really sophisticated systems around loyalty and point of sale and CRM and e-commerce and so on. Now integrating all of those so that you can now deliver on this modern day customer experience, it costs a lot of money – and requires expertise you just don’t have. That’s the challenge.
+Barnett sees cloud as the way forward:
+We believe at Salesforce, that’s a unique opportunity by virtue of the power of cloud. The more we can put those capabilities in the cloud, we get the benefit of a single code base, a single platform.
+This holiday season put that platform to the test:
+In the month of December we touched 440 million unique shoppers across the platform. Think about the power, to dig though that data… We’ll use that data to make all the customers in our platform smarter about how they engage their own customers. That’s an example of the sort of partner leverage we’re talking about.
+I tried to turn the tables on Barnett: how’s that Commerce Cloud integration going? Can Salesforce live up to that customer experience on their side? Barnett was wise to my tricks though: “Oh you’re going to challenge me on that now aren’t you? Yeah, that’s our challenge.”
+Barnett referred to Demandware’s acquisition of point of sale solution Tomax, and how they were able to integrate that technology into a common view of core customer and inventory objects. Barnett pointed to Vineyard Vines as an example of how they delivered a “great, unifying experience, online and offline.” He sees the same principles now, but at a bigger scale:
+Now with Salesforce, that opens up, of course, a lot more possibilities to now think about Marketing Cloud, Service Cloud, Commerce Cloud, – stitching together that whole journey.
+In terms of a timetable, it’s still early days:
+The acquisition closed in July, so we obviously haven’t made a lot of progress on that today – other than we have many customers using multiple clouds out there in the field, and we do the field integration.
+Barnett has no intention of stopping there:
+The opportunity that we’re really excited about, and actually what drove the acquisition, was this ability to unify the entire consumer experience.
+Rather than attempt a full point-to-point integration all at once, Barnett’s team is prioritizing integrations on the most important cross-cloud processes, or as he puts it, “cross-cloud journeys”:
+We’re spending a lot of time now on the technology and product side looking at, how we can enable cross-cloud journeys for marketing, service, commerce, and so on. We’re asking, “What are the journey’s that our customers value most in the near term?” We’re trying to put as much muscle as possible on those now.
+Barnett intends to keep pushing towards that holy grail of enterprise clouds: a single customer record across clouds.
+Until you have a single customer record across CRM, you’re going to be dealing with integration, and different points of view. That’s a complex thing to do. With traditional on-premise software, that’s the job of your systems integration partner – to integrate and try to synchronize that.
+Cloud providers need a higher standard:
+As a cloud provider, we’ve got a higher standard. What we intend to deliver is to unify an entire object, so what our customers are consuming from our cloud is exactly that: one view of their enterprise, right? One view of their customer.
+My take
+Barnett and I also touched on the 2017 commerce predictions he assembled from his team. The predictions run the gamut from AI chatbots to mobile wallets. Barnett sees one thing powering all the predictions: smarter use of data.
+You have to find a way to take data to inform how you engage your customer. Your consumer on the front end, but also your back office… How do we take the data that we learn about what customer preferences are, and use that to inform the product development decisions we make and ultimately, the buying decisions we make as merchants? Digital opens up that opportunity. Data really is the secret weapon of retail.
+There’s more to say on field realities – including an on-the-ground retail tour of Salesforce customers in New York City, and plenty of other views from NRF. I’ll get to those soon – stay tuned.
+End note: for more on Commerce Cloud’s recent B2B moves, I recommend Phil Wainewright’s $20m for CloudCraze bolsters Salesforce B2B commerce push.
+Image credit - Photo of Jeff Barnett at NRF 17 by Jon Reed.Disclosure - Salesforce is a diginomica premier partner. NRF provided diginomica with press access to NRF 2017.Read more on: CRM and customer experienceDigital transformation - frictionless enterprisee-commerceRetail e-commerce and the omni-channel 

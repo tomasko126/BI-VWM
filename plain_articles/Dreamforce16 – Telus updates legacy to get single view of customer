@@ -1,0 +1,28 @@
+
+Telcos might make their money out of providing customers with access to the latest communications technologies, but they don’t necessarily practise what they preach. Often, their own IT infrastructure is based on legacy, disparate, outdated systems, which don’t give staff access to the information they need to best serve clients.
+At Dreamforce in San Francisco, communications company Telus shared its experience of updating a legacy customer management system for the modern, digital era.
+When the Canadian telco decided to carry out a thorough IT audit four years ago, the results uncovered a complex network of fragmented systems. The firm was running a whopping 61 different systems for ordering products, which had grown out of mergers and acquisitions, as well as product- or region-specific processes.
+There were also 32 different systems that defined who the customer was, Brad Pruner, director, CRM Enablement at Telus explained – repairs saw them as a circuit, sales looked at them as a done unit, while the care team looked at them as a location.
+This near-100 systems was then added to with 11 separate billing and 18 support systems. Pruner noted:
+We wanted to build a omni-channel value chain, we wanted to connect transactions across dealers, the web and mobile. But it was virtually impossible with this system.
+We’re not going to take 60-plus ordering systems and migrate every single product into a single integrated order management system, end to end and align everything. A lot of the systems needed to rest in state, but we wanted to create a simple interface against the complexity. A single customer view was the keystone.
+Telus turned to Vlocity Communications for this interface, a cloud-based Business Support System for communications providers built on the Salesforce1 Platform.
+The underlying objective and message for the project was happy agents equals happy customers, Pruner said. So Telus enlisted the help of agent champions to work on the designs for the interface and new system.
+Telus rolled out CPQ and contract management, to enable an integrated selling platform, and aligned the order management and dispatch via Solution Control, creating a workflow to sell multiple products all out of one back-end system.
+The firm launched Billing Transformation last week, giving a single view of what customers owe across the 11 billing systems, and providing frontline agents with the same information as the customer has on their bill. Pruner is pleased with the results from the Vlocity investments so far:
+With B2B products, it entails multiple locations, different eligibility and rules, different pricing as many will have volume discounts, different contracts with customers, there’s a lot of complexity. We’re now looking at a single, unified national approach.
+Lead and contract management are other areas where Telus has seen immediate benefits since signing up with Vlocity just over a year ago. Pruner explained:
+Before we started, we didn’t have a consistent approach to leads. Leads came in through the front door and were often lost. Even if a lead was accepted our ability to turn around a quote for that client was very poor. Assuming we were able to get a quote – and quotes were manually assembled often via Excel tools – if we got to a contract creation process, it took on average 14 days. That’s just for the creation of the contract. And often times, things were delayed because of missing data.
+Once we get an accepted and signed contract, the customer thinks, boom I’m going to get my service activated straightaway. No. Because at Telus we had a lengthy contract registration process, it could take over 40 days to get the contract registered, and orders wouldn’t commence until you got the contract registered. And at the customer side, there was no ability to give status.
+Where the previous contract process took an average of 41 business days to complete, this has now been reduced down to just five working days. Telus now automatically registers a contract, so as soon as the customer signs via digital signature platform DocuSign, the Vlocity system instantly registers the contract and triggers an order automatically.
+Lessons learned
+Pruner had four key takeaways for other businesses looking to update their infrastructure, lessons which are valid for all industries, not just the communications sector.
+Start small
+The Vlocity and Salesforce eco-systems are very rich but don’t try to do everything at once. Telus chose to build up in concentric rings upon one goal, in this case a single view of customer.
+Get executive support
+Pruner noted that IT transformation is by no means an easy process, and firms will run into roadblocks along the way. Strong support from the executive team is vital for dealing with problems.
+Don’t assume if we build it, they will come
+Telus got this wrong a couple of times, Pruner admitted. The firm thought it had built a couple of great widgets and people would love them, but they didn’t go down well. Pruner advised firms to invest properly in change management and the people aspect.
+Happy agents = happy customers
+Pruner said this was core to the success of the project, dubbing it ‘our secret sauce’.
+Image credit - TelusRead more on: CRM and customer experienceUse cases 

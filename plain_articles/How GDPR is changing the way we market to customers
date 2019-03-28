@@ -1,0 +1,43 @@
+
+May 25th is a date whispered in every corner of every company who deals with clients in the EU. It’s D-day for the new EU GDPR regulations, and there’s much work to be done across the organization.
+The marketing department has a lot at stake to implement the GDPR regulations properly. But what does that means? Who better to talk to about GDPR and its impact on marketing and marketing technology than Demandbase’s new Chief Privacy Officer, Fatima Khan?
+Khan has only been with Demandbase, an account-based marketing software company, for a few weeks. She is the first Chief Privacy Officer for the company and is the central decision-making authority on all privacy issues, including decisions that affect technology and data, and strategically advising the company on how to achieve their goals while also complying with privacy laws and universal privacy principles.
+Educated as a lawyer, Khan has worked with tech companies from the time she completed law school. She worked for mobile ad tech company, Airpush, and Velti, an end-to-end mobile marketing company, among others. She knows a bit about privacy and marketing technology.
+Privacy approaches have changed
+In her work, Khan has seen many different approaches to privacy and risk. She said it was kind of like a wild wild west early on, but things have changed significantly. She mentioned the creation of guidelines for mobile advertising as one example, in addition to updates to COPPA and other industry related laws.
+Canada has fairly restrictive guidelines for online privacy, and the new EU GDPR is even stronger. But Khan doesn’t believe the US is behind either country. The FTC has a very robust privacy regime, she said. What’s different is how each country approaches privacy, including their cultural approach.
+In the EU, she said, privacy is seen as a human right, but it’s not in the US. This difference in perspective affects how the US supports privacy guidelines. The right to privacy is a constitutional right in the US; it’s just not perfectly applied to technology and how things work today.
+GDPR’s effect on marketing
+It’s very important that marketing departments understand and think about GDPR because they capture and store information on customers and prospects. Martech companies, like Demandbase also need to ensure they are implementing GDPR because they are involved in large-scale monitoring of data subjects (customers, visitors, etc.)
+Khan offered a few key items that marketers need to think about:
+
+Data inventories – the marketing department should understand their data sources and data inventories.
+Consent is paramount – Consent rules have changed dramatically under GDPR, so marketers need to look at places where they capture data and consent to collect data and adjust their approach to support the new rules.
+The definition of personal information has expanded. Now information like cookie id and IP address are included in the definition, things that marketing don’t typically consider personal information.
+
+Most companies are going to have to make changes, but how much and how they chose to do it will differ.
+According to Khan, primary law is dynamic, and although it’s changing in the EU now, it will also change in the US. Will the US take the same approach? It’s unlikely considering they look at privacy differently.
+Does GDPR affect marketing tactics like personalization?
+Khan said that privacy regulation doesn’t really affect personalization. The challenge for most marketers will be understanding and adjusting to the new definition of personal information. Before, it was no big deal to capture an IP address or drop a cookie because they don’t outright tell you who a person is. But with GDPR, they are considered personal information, requiring changes to how this information is captured and handled.
+Privacy technology is also playing an increasingly important role, particularly for data portability (one of the requirements under the GDPR is the ability for a person to take their information from one company and give it to another) and data access. “Making available sufficiently appropriate data subject access rights and portability rights will be important for any company that is processing personal data under the GDPR.”
+What GDPR is doing is allowing martech and adtech companies to innovate and provide personalized experiences without actually identifying the user (I’ll be talking more about this in my next column).
+How Demandbase is managing its GDPR plan
+Demandbase captures a lot of personally identifiable information, so it also needs to address many of the regulations in the GDPR. I asked Khan what the company is doing to address GDPR. She said they were focusing on three key activities:
+
+Data mapping exercise (every company needs to do this)
+Performing a gap analysis to see where they aren’t in line with the new regulations
+Implement the compliance actions identified under the gap analysis. Some of the things they are working on include implementing Privacy Shield (which enables adequate data transfers from the EU to the US) and evaluating vendor agreements and updating contracts to ensure the right data processing agreements are in place. They are also looking at data subject access rights obligations and what they need to have in place to handle it.
+
+It’s an exciting time for privacy practitioners
+Khan makes the work required to comply with GDPR seem very straightforward. But more likely not, but when you live and breath privacy, it’s probably easier to digest and understand how to plan and implement the regulations:
+It’s a really exciting time to be a Chief Privacy Officer or any other privacy practitioner. It’s a new legal regime. We’re getting guidance on it now, but it’s also an opportunity for anybody in the privacy field to be able to innovate and approach these solutions in a unique way that allows the compliance of the law.
+Some ways you can innovate or differentiate yourself through privacy.
+
+Having the appropriate privacy technology, particularly technology that supports data subject access to their personal information.
+Making sure you comply with the law by re-evaluating your privacy agreements and finding new ways to be clear and helpful. Khan said you could rephrase these terms to be more engaging and provide clear information for data subjects on how their information is used to make their experience better and more targeted. Improving the language of these terms of agreement to be clear and helpful should improve opt-ins.
+
+Some of the EU privacy regulations still haven’t been finalized. The regulations that govern the use of cookies is one example, and there’s still the question of how it will affect the marketing technology that relies on them. Consider that these vendors might need to have some type of opt-in before the software can set a cookie.
+My take
+Overall, the GDPR isn’t restricting marketers ability to create better experiences. But as Khan points out, it is making sure that marketers are collecting personal information for the right reasons and is being transparent to the customer about how they use the information. GDPR’s focus is on the customer, which is also supposed to be the focus of marketers. If marketers are collecting and use data appropriately (and securing it appropriately), compliance shouldn’t be that hard, and it should affect the customer experience.
+Is your organization struggling with understand GDPR’s effect on your marketing programs? Share your story in the comments.
+Image credit - Businessman showing text Change Your Mindset on a cardboard. © andranik123 - Fotolia.comDisclosure - Diginomica has no financial ties to Demandbase.Read more on: Digital and content marketing 

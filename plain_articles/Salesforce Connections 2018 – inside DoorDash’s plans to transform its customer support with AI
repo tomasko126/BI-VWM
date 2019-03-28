@@ -1,0 +1,47 @@
+
+Kandah of DoorDash at Salesforce Connections
+Liberation from the stodgy and overpriced room service “experience” is one of travel’s great developments. Of course, convenient food delivery on the home front is nothing to scoff at either.
+DoorDash is one of the biggest players in the on-demand restaurant delivery game, with service to more than 1,800 cities in North America. You won’t win in this fast-paced market without vigorous customer support.
+That’s what brought DoorDash’s Ruby Kandah to Salesforce Connections 2018. As DoorDash’s Director of Engineering, Business Applications, Kandah plays a key role designing and rolling out DoorDash’s customer support architecture.
+Kandah’s presentation on how DoorDash is transforming the customer support experience with SalesForce Einstein earned her a guest spot on the Service Cloud keynote stage. Prior to her keynote appearance, Kandah met up with me, and dropped some eye-popping support stats:
+We open about 30,000 support tickets on a daily basis.
+I’ve learned the hard way: on-demand delivery falls apart quickly without good support. Kandah:
+There is a lot that goes into completing a successful delivery. We call it a delightful delivery.
+Key to great customer support at scale
+One ingredient to great support: let customers dictate the channel. Kandah says that gives DoorDash a competitive edge over rivals, including Uber Eats:
+With Uber, phone support is pretty much all that they offer. They don’t have in-app chat. They don’t have SMS; they don’t have email, they don’t have Web-to-Case. We offer all of that, so if a delivery doesn’t go well for you, you can either chat-in, or get routed to an agent almost instantly.
+Another key to great support is: minimize hand-the-baton. Kandah:
+We leverage a lot of Service Cloud features to ensure that our agents are empowered to achieve the best resolution. We integrate with Twitter, and Facebook, so that we can understand what your social sentiment is, and how happy you are with DoorDash.
+Data integration challenges – and the move to Service Cloud
+One of the hottest topics in SaaS is the problem of cloud integration, an issue Salesforce bet heavily on with their acquisition of MuleSoft and the launch of their Integration Cloud. Kandah knows the stress of that issue firsthand. When she started at DoorDash in March 2017, they were using the Sales Cloud, but with Zendesk for support. That posed problems:
+Our sales team was on Sales Cloud, and our support agents were on Zendesk. It was really difficult [managing multiple systems].
+As DoorDash grew, they ran into non-live support issues, such as merchants calling in to partner with DoorDash. In the past, that meant reverting to a tedious email chain. Not anymore:
+With an integrated system, we can actually escalate that case to a rep, have them close it out, and have their managers Q/A that. We can see how long it took to close out a support case that was a prospecting customer or partner.
+Moving the DoorDash support team from Zendesk to Service Cloud was Kandah’s first meaty challenge at DoorDash. A year ago, DoorDash went live on the Service Cloud, moving 2,500 agents across support centers in Ireland, Guatemala, and the Philippines. The payoff was immediate:
+When we migrated them over, the next day, we instantly saw so many of our agents resolving cases quicker and more efficiently. We also saw so much data being gathered.
+Those data points are a customer service advantage:
+All those millions of data points that we gather on you, whenever you file a support ticket, now feed into an integrated solution, where we can get a 360 view of the number of support tickets that you filed. We can see what your sentiment has been historically, whether you like DoorDash or not.
+They can now track the evolution of each customer from prospect to their most recent support ticket. But my question was: how do you solve the user adoption issue? It doesn’t matter how much better the new system is, user adoption is always a project unto itself.
+Treat internal roll outs like an external launch
+Kandah advises a different approach: treat your internal software adoptions exactly like you would an external launch. DoorDash followed their own internal marketing plan:
+
+Internal presentations and voiceovers got service agents “really hyped” about what they’d be able to do with Salesforce – things they couldn’t do with Zendesk.
+Internal user stories were defined by sitting next to the agents, and asking them what their pain points in Zendesk were. This know-how informed how DoorDash marketed the Service Cloud internally.
+An internal knowledge base was developed – something the agents previously lacked. They can now quickly type in a common question, and quickly see the proper resolution steps.
+Report generation was emphasized, with access given to all managers and supervisors.
+
+These steps all contributed to buy-in:
+Having all of that reporting available to them on day one was really empowering, because then managers didn’t have a lot of skepticism behind whether or not the tool worked. They could actually see the data flow in and out, and gauge that for themselves.
+Next up – Einstein service chatbots
+But it’s full speed ahead for Kandah and Salesforce. Now that DoorDash has a 360 degree customer view, they want to resolve questions sooner. Enter the Einstein AI Bot. Typically, when a customer files a support ticket, it can take five to six minutes with a human agent to input the reason for contact.
+Kandah believes a bot can streamline that, and win over customers:
+We want every single interaction to end positively. If you arrived as a support ticket, in an angry mood, we want that angriness to be changed to something that’s positive. So, we’re trying to inject AI into our support channels, so that AI can actually ask those repetitive questions, fetch those attributes, and then escalate it to an agent, when the issue is too complex.
+Kandah advises customers who find AI to be a daunting “black box” to focus on the practical. For DoorDash, it starts with using Einstein Bots to reduce the case resolution time and make the customer experience better:
+AI is not a one stop shop. It won’t solve all your problems. What it will solve is your really easy issues that a customer can read about in your knowledge article. A customer should feel empowered to go to your website and to get answers to the questions they might have, because nobody likes contacting support.
+DoorDash will roll out their first support bots next quarter. Bot testing has resulted in new ideas, such as simplifying knowledge base articles to make it easier for bots – and humans – to resolve things quickly.
+As for customer satisfaction, the Einstein Bots will be measured just like any other agent:
+We hold our agents accountable for resolution time, so they have to resolve a chat case within ten minutes. We should hold Einstein accountable for the same types of metrics.
+Kandah and I had an interesting talk on the ethics of disclosing whether a human is interacting with a bot or not. I have pretty strong feelings on that; it was good to see DoorDash thinking about that issue carefully.
+I’m looking forward to an update once DoorDash has put the bots into the customer mix. But I like that they tackled the thorny data integration issues first. Once you achieve that integrated customer view, cool new service tech – be it “AI” or other forms of automation – has a much better chance of success.
+ 
+Image credit - Photo of Ruby Kandah of DoorDash at Salesforce Connections 2018 by Jon Reed. Disclosure -  Salesforce paid the bulk of my travel expenses to attend Salesforce Connections. Salesforce is a diginomica premier partner.Read more on: CRM and customer experienceCustomer service managemente-commerceMachine intelligence and AIMobileUse cases 

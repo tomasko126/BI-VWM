@@ -1,0 +1,28 @@
+
+Buying and selling
+Latin America may be currently enjoying a period of relative economic stability, but it still has its financial trouble-spots and, for companies that do business in the region, a currency devaluation can put a nasty dent in profits.
+So when Venezuela announced a restructuring of currency exchange rates in February 2015, the resulting devaluation of the Venezuelan bolivar spelt bad news for many firms.
+International airlines, including American Airlines and Lufthansa, have cut flights to Caracas, while many big consumer-goods multinationals, such as Proctor & Gamble and PepsiCo, look worryingly exposed, financial analysts have warned.
+So far, MercadoLibre – Latin America’s largest online trading site – seems to be weathering the storm well, buoyed by its broad coverage of the region and rising Internet penetration rates there.
+The company’s financial results for the first quarter of 2015 show revenues climbing 28 percent to $148 million. Net income fell to $1.7 million, but excluding the impact of the bolivar devaluation, rose 14 percent to $34.6 million. From an operational perspective, the picture was pretty rosy: items sold rose 26 percent year-on-year, payment volumes were up 62 percent, and the number of registered users rose 22 percent to 126.7 million.
+The IT infrastructure that supports that growth, handling customer web searches, transactions and payments, is colossal in size but is managed by a surprisingly small team.
+On the market
+Just 14 people oversee the day-to-day operations of what the company claims is Latin America’s largest private cloud (although it’s actually based in three US-based data centers).
+Today, they’re managing more than 2,000 physical servers and more than 15,000 virtual machines (VMs), running on the OpenStack open-source operating system.
+The back-end database environment that keeps that infrastructure ticking along is critical, but has been a pain-point in the past, according to Dario Nievas, technical leader and member of the cloud services team at MercadoLibre:
+It needs to be robust. It can’t be a point of failure. And it needs to scale with the infrastructure, which is constantly growing as we add new servers.
+More importantly, our back-end database has to be able to handle new workloads and data volumes quickly and easily, because our in-house developers are regularly adding new services and mobile apps for our end-customers.
+Opening up scalability issues
+The cloud service team at MercadoLibre are big believers in open source technologies, hence their use of OpenStack.
+But when the company’s private cloud was first established in 2011, it quickly became clear that the initial choice of the open-source MySQL database with Heartbeat for synchronisation and DBRD (Distributed Replication Block Device) for data replication and high availability wasn’t going to be able to scale in the way needed.
+According to  Nievas’s colleague, Max Tkach, computer engineer and technical leader of cloud services at MercadoLibre:
+The main problem was that this was an active/passive solution, so if we needed to scale our database back-end, we could only do it vertically, by upgrading the hardware. We couldn’t scale horizontally, by adding new servers.
+The failover process, too, was quite cumbersome. It took time to happen, so we had a few outages and downtime isn’t really an option for MercadoLibre.
+In search of a different approach, the team hit on Galera Cluster, an open-source synchronous clustering software for MySQL developed by Codership [www.codership.com], a small Finnish software company.
+The term ‘synchronous’ is key here: with Galera Cluster, every read/write that happens on one node of a database cluster is reflected simultaneously on all the other nodes. In other words, there’s no ‘master’ node conveying database changes to ‘slave’ nodes, a process that can be subject to delays and can also result in changes being lost if the master node crashes.
+Using this clustering technology in an active/active (or ‘multi-master’) schema means that any node can handle read/writes and no failover is required. If a node fails, the other nodes take up the slack and new nodes can be added easily.
+Today, MercadoLibre is running database clusters of around 8 physical servers each, with one cluster per geographic region. Using Galera Cluster, says Nievas, these set-ups can each typically handle around 4,000 queries per second, rising to 20,000 during peak periods:
+What this means for us is that we’re able to scale as needed, as well as maintain 100% uptime. For us, downtime means lost revenue and that’s not acceptable.
+What it means for our customers is that they’re always able to search for millions of products across many, many product categories but always experience our website as highly responsive, regardless of the device they’re using.
+
+Read more on: Cloud platforms - infrastructure and architectureCRM and customer experiencee-commerceInfrastructureMobile 

@@ -1,0 +1,45 @@
+
+Farnaz Bengali of MicroStrategy
+At FinancialForce Community Live, Phil Wainewright and I interviewed a slew of FinancialForce customers on video.
+As Phil noted in his recent roundup, these customers hit on vital themes such as the growing role of collaboration, and the need to digitally transform to keep pace with change.
+You can browse the full FinancialForce video playlist here. In addition to eight customer shoots, you can also check out:
+
+Disruption in the enterprise – a post-keynote review with Geoffrey Moore and Tiffani Bova – an impromptu keynote review that tied Moore’s disruption theories into the day-to-day of finance and professional services workers.
+So what is this “frictionless enterprise” diginomica always talks about?​ – Phil and I hash out his frictionless enterprise framework that informs diginomica’s enterprise views. You can see Phil’s roundup of that talk as well (Frictionless enterprise, the video – six quick takeaways).
+
+Each customer video brings out a different angle on a vital theme. When you’re navigating a changing industry, a modern/cloud ERP back office has unforeseen benefits, beyond the gains of modernizing transactional systems and relieving in-house IT burdens. Many of those benefits are about data transparency and analysis. The catch? You have to apply them.
+MicroStrategy – cloud ERP success via dashboarding
+One great example was captured in Why MicroStrategy’s cloud ERP success is about dashboarding. During the shoot, Farnaz Bengali, Vice President Applications, shares how they took their FinancialForce Professional Services Automation (PSA) project to the next level by exposing data via dashboards. Billed as a “leading provider of business intelligence, mobile software, and cloud-based services,” MicroStrategy knows a thing or two about dashboarding.
+Here’s Bengali’s story:
+
+Though MicroStrategy had only been live on FinancialForce for two weeks as of this shoot, Bengali was already seeing benefits around a core mission: process and data transparency. And why does transparency matter? Bengali:
+Just as any consulting organization does, we have under-run or over-run projects. We have sales selling consulting for free, right? Give me the license deal; I’ll throw in a couple consultants to implement it for a couple of weeks. [The new PSA system] is really helping make that transparent. We have built a lot of rules in the system that will prevent people from abusing projects and abusing resources.
+The transparency helps with internal and external projects:
+FinancialForce is bringing in a lot of transparency into our consulting projects, and helping us better manage them. It is also used internally, at least in my department in IS, because we are using the structure and the constraint of FinancialForce to manage our internal projects.
+The PSA project fit right into an 18 month initiative to expose data via dashboards. All the FinancialForce PSA data is pulled into MicroStrategy’s data warehouse, and distributed via MicroStrategy’s own reporting tools which sit on top of the data warehouse. These dashboards inform more than 40 core processes. Merging the data from different systems makes the data “meaningful”:
+With really meaningful data, you can look at the dashboard and understand the story for a project, or for a project manager, or for a service delivery. We’ve got it with PSA, as well, so that the PSA data is going into our data warehouse… The dashboards are splashed throughout our organization.
+The dashboards can even be seen on large monitors:
+You can take a look up and be like, ‘Hey, why’s that red?’ Or ‘What’s going on with that project, where we have 18 months of backlog, but you haven’t any delivery in six months?’
+Perhaps the best part? Bengali’s team is helping to derive these data benefits even while they continue the task of migrating legacy systems into FinancialForce. Usually you can’t even talk about ERP benefits until you’ve got the full migration done.
+Jacobus Consulting – keeping up with industry change via real-time data
+My interview with Jacobus Consulting expanded on this view by showing how real-time data is a vast improvement for decision making (Changing healthcare consulting to a patient-centric model).
+
+As Alan Hall, SVP, Information Technology at Jacobus Consulting explained, using FinancialForce for everything from PSA to accounting to HCM allowed them to extricate from spreadsheet chaos and automate their back office.
+That automation helped them streamline invoices to get billing back out to customers quickly. As the lives of back office workers got easier, they shifted into customer-facing roles:
+Some of those people have been re-purposed, because it doesn’t take as long as it used to to process all that stuff. They are now focused on client relationship management, where we’re able to be more proactive with our customers and manage those relationships in a way that they hear from us other than when there’s a problem, which is far more enjoyable from our side. And it had proven to be from their side as well.
+On the data visibility front, the real-time, “single source of truth” system has been a big asset to decision-making. That’s invaluable with the pace of change in the health care industry:
+The thing is, we now have access real time data to make intelligent decisions about our business, as we feel and know the business shifts are upon us; we can see it in the numbers. And we can make educated decisions. Whereas [before], it took us sometimes weeks to put that together. But by the time you got it together, how stale was it? And how really crisp was your decision making? You’re now making decisions based on old data.
+That’s all changed now:
+It’s all at our fingertips. We’ve been able to create a lot of the reports and dashboards that we need, that display the information that we need to make decisions about our business going forward on a daily basis.
+Lieberman Research – exposing metrics leads to gains in utilization
+You don’t need a full dashboard rollout  to gain insights from an automated back office. During my shoot with Lieberman Research Worldwide (Lieberman Research on the impact of analytics and big data), we talked about keeping pace with the rapid changes in the research business:
+
+Emalie Brgoch, Vice President Operations, told me why Lieberman Research opted for FinancialForce’s cloud-based PSA, Accounting, Revenue Recognition, HCM and SCM. Brgoch says they are only doing “limited dashboarding” so far, because they want to get far enough along to do year-over-year comparisons.
+But even at this early stage, FinancialForce reporting is having an impact. One metric Lieberman Research has emphasized is “utilization”:
+It is a KPI that we focus on. We actually used to call it, “time charge to jobs,” but now we refer to it as utilization. It helps with adoption.
+Making the utilization metric visible has been useful:
+We’ve seen upticks in utilization. We’ve seen expense reports being processed more quickly. We’re seeing that with our timecards, the data has [been] more accurate, because you are doing that in an ongoing way.
+My take
+There isn’t one reason for implementing cloud ERP – and the results you get are dependent on good software and partner selection. This is the latest in several posts I’ve done across vendors that show why data visibility within transactional systems can be a major benefit. Of course, down the road, that data could lead to new business models and new data services.
+Better data visibility doesn’t guarantee that a company will keep pace with change, but it’s an encouraging way of thinking about cloud ERP systems. Hopefully with effort by both vendors and customers, the lines between the transactional and strategic will continue to blur.
+Image credit - Farnaz Bengali of MicroStrategy, YouTube screen shot.Disclosure - FinancialForce is a diginomica premier partner and paid the bulk of our expenses to attend FinancialForce Community Live, where these videos were filmed. They also funded the majority of the filming and production expenses. Read more on: Analytics planning and data analysisCloud ERP financials and supply chainDigital enterprise in the real worldFinancialsUse cases 

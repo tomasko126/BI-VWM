@@ -1,0 +1,51 @@
+
+Sixty percent of SAP customers wouldn’t make a repeat purchase from the vendor, while 90% of customers won’t consider a move to S4/HANA? A couple of eye-catching headlines from an inflammatory new research note by Nucleus Research. 
+I first came across Nucleus way back in 2002 when it gained public attention with a splendid piece of Siebel-baiting with a report that 61% of customers had not achieved a positive return on investment from their Siebel deployments. Siebel hit the roof,  arguing that the study was based on only 23 interviews. 
+Nucleus’ response – which floored the Siebel analyst relations team at the time – was while that was the case, those 23 customers were those flagged up by Siebel itself as its best reference customers. 
+The same sort of study was published around SAP a couple of years later and it is to SAP that Nucleus’ attention has now returned with some equally colorful findings, including: 
+
+One in four SAP Cloud for Sales reference customers have either moved off the solution or would consider doing so. 
+Nucleus says it has independently identified 9 SAP CRM customers (2 of whom are SAP partners) who have recently moved from some version of SAP CRM to a competitor. 
+Of 80 CRM deals Nucleus has reviewed, only two companies considered SAP as a contender.
+Fewer than half of SAP supply chain customers planned to consider SAP for future supply chain purchases.
+Of 32 supply chain software deals Nucleus has reviewed, only five companies considered SAP on its list of possible vendors.
+Of 30 HCM deals Nucleus has reviewed involving full HCM deployments, only seven employers considered SAP as a contender.
+Within companies who do deploy SAP HCM solutions, talent management only accounts for about 20 percent of HCM.
+Of  72 analytics customers that Nucleus has spoken to over the last eight months, the firm says none have been using the SAP Cloud for Analytics product, and only 4 of them have even considered SAP.
+
+There were some damning quotes from reference customers around HANA, such as: 
+
+There’s no advantage to HANA as every vendor now has some sort of in-memory technology. And the value of the platform is overstated.
+
+Overall, Nucleus concludes:
+
+
+As SAP stakes its future business on the success of HANA and its various cloud initiatives, there appears to be a disconnect between its marketing message and customer reality. One thing is clear: we could find no SAP customers that think of “SAP” and “simple” in the same sentence. Of these customers, six out of 10 wouldn’t buy their same SAP solution again, nor do they find SAP’s roadmap compelling enough to consider a future investment.
+Although ERP customers may have achieved success with their existing SAP deployments, right now, 9 out of 10 are not looking to future investments in SAP’s“run simple” future – largely because of the perceived risk and unpredictability of SAP and their own previous experience with both implementation and ongoing technical challenges. In addition, the market continues to evolve, and the lack of enthusiasm for S/4HANA may in part be due to an expectation that new solutions from other vendors are on the horizon. 
+
+Who’s right?
+I asked SAP for a response to these claims and came back short-changed. Declining to field a spokesperson, the company issued the following statement: 
+
+SAP participates in a wide range of analyst reports and evaluations every year, the vast majority of which reflect SAP as a clear leader based on our products and demonstrated customer success. We did not participate in this particular report and do not plan to respond to the wide array of flaws we believe are evident in its approach. With more than 300,000 customers worldwide and consistent growth as publicly reported in recent quarters, we reject the premise of the report.
+
+For its part, Nucleus provided me with some additional detail on the background to the report. The firm says it commissioned the report following comments in late 2015 from a number of its clients around what it calls: 
+
+the disconnect between the realities of SAP’s marketing messages and its customers’ experiences, particularly around S/4 HANA. 
+
+That led in mid-January to a research program which included direct interviews with SAP reference customers and SAP customers from Nucleus’s own database and analysis of existing deals and ROI case studies in SAP’s core markets. No vendor funded the research. 
+The study included 40 direct interviews with SAP customers, including reference clients PR-ed by SAP itself. Nucleus says: 
+
+Given the limited number of references for some newer SAP solutions our sample is likely a measurable percentage of the total number of referencible live customers in those markets.
+
+The firm also analyzed data from more than 200 recent deals where SAP was – or, according to Nucleus, should have been – a competitor. 
+Finally, while there are some pithy comments scattered through the report, Nucleus says it spared SAP’s blushes by removing some of the more “incendiary” comments. 
+Interestingly the SAP UK and Ireland User Group also declined to provide a response to the Nucleus report. Last year the user group was more outspoken when its own study of members fired a warning shot or two over SAP’s bows about trying to force the pace of change towards S4/HANA. 
+My take
+There’s a degree of SAP-baiting here, of course, but also some worrying claims. It’s a small poll compared to the overall SAP customer base, but the use of SAP’s own preferred reference customers has the same clout that it did when it happened to Siebel. 
+A (paraphrased) comment made back in 2002 still has merit – if someone talks to three people who you say are your best friends and two of them pass on some home truths you don’t want to hear, that’s not good news. 
+I can understand why SAP doesn’t want to engage in this conversation in public. Siebel gained nothing back in 2002 from trying to get heavy, so stonewalling is the most tempting route. 
+That said, rather than question “the wide array of flaws”, then not tell anyone what those flaws are perceived to be and why, SAP’s best response is to bring out the happy reference customers who it could be confident would shoot the Nucleus claims down in flames. 
+It’s a point we keep making at diginomica – there is no-one better placed to fight a vendor’s corner than its customers. Bring them on!
+The SAP User Group’s decision to plead the 5th doesn’t exactly help the situation for SAP. A firm rebuttal of Nucleus’s conclusions would have been useful for the vendor. 
+Instead, the user group appears to be sitting this one out and watching what happens, a far cry from last year’s glee over its own study’s message to SAP to slow down and let the customer base move through upgrades at its own pace. 
+Image credit - Freeimages.com Disclosure - At time of writing, SAP is a premier partner of diginomica and diginomica is a media partner for the SAP UK and Ireland User Group annual conference. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureCRM and customer experienceHCM and the digital future of work 

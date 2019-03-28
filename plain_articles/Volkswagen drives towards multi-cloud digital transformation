@@ -1,0 +1,32 @@
+
+Digital transformation is of course the industry buzzphrase of the moment. But when you try to pin companies down as to what they mean, all too often, you draw a blank.
+That’s because, in many cases, there’s little attempt to effect a real transformation –  a new website here, a new app there are cosmetic changes, but underneath, everything remains the same.
+But that’s not always the case: there are some businesses who are genuinely trying to transform everything from the way the company’s structure is managed, to the products that are being sold.
+Volkswagen’s drive towards digital transformation is a genuine overhaul of everything that the company stands for with a move away from being an automotive company to being a software services company. This is a radical move, one that has been shared by many automotive enterprises as they try to move to new markets.
+Here at diginomica part of this change was highlighted earlier this year with the news that the company was using OpenStack to deliver a more agile approach to software development. The company has now revealed more details about its drive to transform the company.
+Dr Roy Sauer Head of Group IT Architecture & Technology at Volkswagen says that the company is hoping to complete the move from an automotive company to a “mobile services company” by 2025.
+He explains that the company is looking into three areas: autonymous cars, e-cars and software services ( which will include markets such as car rental and car sharing):
+We will have a different set of competitors in the future. We will have to compete with the likes of Apple and Google, we have to be strong in the area of software.
+To do this, he says, the company has set up a pair of digital labs to examine areas that are outside the core business of Volkswagen.
+He says that the labs are currently pilot projects to examine new ways of working and to explore new areas. And key to that way of working is the relationship with Pivotal Software, owner of Cloud Foundry. This is not just about technology; Pivotal’s working practices are setting the standard when it comes to new ways of collaborative working and Volkswagen is keen to learn from these.
+Sauer says:
+We have set up a digital lab just outside Berlin with Pivotal. We are using pair programming, agile development, working in small teams, while learning from Pivotal about how to be more customer-focused.
+But this new approach is not just about IT. The aim is to effect a change in the way that the whole of Volkswagen is structured, says Sauer:
+We are heavily changing our structure into an agile way of working not just in IT but throughout the business.
+The process is at a very early stage – just in two two digital labs at present – but the company is taking some valuable lessons on board. It’s clear that some of its developers are finding the new way of working a bit of a challenge. Sauer explains:
+Pair programming is a big cultural change. It is easier for colleagues who like to work in more empowered way and much more difficult for those who favour the hierarchical approach.
+This has meant a rethink in recruitment and training, he adds:
+One of our strategies is to improve skills. We’ve started to increase the number of developers, both internal and external. And we don’t always want IT colleagues with a 20 year history of programming, we’re looking very much at young people.
+Multi-cloud
+Underpinning this shift in programming culture and agile development is a move to a cloud-based approach and one where a multi-cloud platform is important. Again, this fits in with the company philosophy and belief in open source. That was the driver behind the use of OpenStack and it was part of thinking that led to Cloud Foundry.
+However, in the latter case, the ability to handle a multi-cloud platform was an even bigger factor, says Sauer:
+The main driver has been the ability to have a multi-cloud approach. We’re looking at three providers at the moment – IBM, AWS and Microsoft Azure – but we’re still very much in the pilot phase and haven’t decided who will be the core public provider, but we hope to come to a decision by the end of this year.
+There are a lot of questions still to answer adds Sauer:
+The issues that we’re considering are going to be ones such as scalability, global footprint, whether it’s enterprise agnostic. Then we have to consider where the data centres will be situated. In Germany? In Europe? In the US? Will they be operating under US law or German law? So, the questions aren’t just about the technology, there are many legal and cultural issues to consider too.
+But the benefits of such a change could be huge. Volkswagen is in the process of building a global infrastructure that can support a whole new way of working, states Sauer:
+We will have our customers driving 100m cars around the world. We will get data from our sensors and enrich that with data from our customers. This means a huge amount of data – which is why we need a global structure to store this data around the world.It needs the architecture to have the data globally distributed and close to the customer.
+And, it needs a whole new approach for handling and storing that data, with investment in Hadoop and Big Data tools. Sauer says:
+The cultural change at Volkswagen is going to produce a host of new business opportunities. The use of connected cars for example could create a way to sell insurance services, in the same way that some insurance firms use telemetric services now. That would be another opportunity to create new services that a more suitable for our customers.
+My take
+The radical change in philosophy under way at Volkswagen is in very early stages and much could still go wrong but the company is thinking in exactly the right direction. The disruption to entrenched ways of working by the likes of Uber and Netflix will have repercussions in all sorts of businesses and automotive giants won’t be immune from these forces of change. For once, a company has taken digital transformation to mean more than superficial changes and it will be fascinating to see how Volkswagen changes in the coming years.
+Image credit - VolkswagenRead more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackDigital enterprise in the real worldUse cases 

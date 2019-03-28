@@ -1,0 +1,60 @@
+
+Goerke showing his intergalactic ironing skills.
+It seems like hundreds of Powerpoints ago when I posted The SAP TechEd stakes – some stories to watch on S/4HANA, SCP and Leonardo.
+Fast forward two months- I’m in Barcelona, at one of the final meetings of the conference season, with SAP CTO and President, SAP Cloud Platform Björn Goerke.
+Goerke has now changed out his Star Trek keynote attire, but the valiant quest for the intelligent enterprise continues. Around the table sit a handful of pesky bloggers, each with their own axe to grind line of inquiry. Goerke’s mission? To boldly go where few executives have gone before, and navigate this one last asteroid field – the SAP blogger program Q/A.
+Here are my top five questions/answers from our session – topics that should keep SAP busy through the holidays and beyond.
+Is there a gap between what attendees need and the Leonardo pitch?
+Diginomica contributor Dick Hirsch kicked us off: “Don’t you think it’s getting to be too much of a gap, when SAP talks about Leonardo and what the average developer has to deal with?” Hirsch went on to cite a disaster recovery hands-on sessions with 100 attendees waiting to get in – “that’s the reality.”
+Goerke answered by saying the TechEd balance between technical enough and “too technical” has proven tricky. He believes SAP hit a pretty good keynote balance this season, from demos to a “high-level story.”
+My follow-on: don’t SAP techies need a transition guide from their current roles to Leonardo? Goerke says it was important, during prior SAP TechEd years, to show customers on older releases they could do cloudy things with SAP right away, without upgrading to S/4HANA:
+[We showed] there is something you can do now; you can get a new user experience, and you can build mobile, and you can integrate, and you can do some fancy stuff out there in the cloud, even though your back end systems are not always the latest release that SAP is promoting at Sapphire, right?
+A blogger cut in: “that is gone, though.” (meaning: we didn’t hear that message in the Barcelona keynote). Goerke:
+That was not the story this time. Maybe it’s something we need to stress.
+Shouldn’t SAP emphasize its process expertise rather than a generic innovation pitch?
+Hirsch then raised the issue of Leonardo positioning, something he and I spent quite a bit of time on in our SAP TechEd wrap podcast:
+I feel like you guys are ashamed of your ERP heritage… In terms of the technology, blockchain, AI – [lots of vendors have it]. What you guys have, which is unique, it’s not the ERP system itself, because with APIs, anyone can integrate with it. It’s the process knowledge, and that’s what you have to focus on, because that’s what makes you guys unique.
+Goerke responded: SAP talked about two modes at Sapphire Now as a way of balancing ERP talk with Leonardo plans. But he feels the two modes framework isn’t the best way to frame things: it’s really one push.
+Mode one/mode two works to some extent, to make clear we’re more than ERP, but it’s also a dangerous story in the sense of separating innovation out from the core ERP.
+There was clear customer feedback and in the end, [combining the two] is also what we strive for. Of course we want to have machine learning within the core applications.
+How big can Leonardo be? Defining the market play
+In a past meeting with SAP CEO Bill McDermott, he predicted Leonardo could – and would – someday eclipse SAP’s core ERP business. I asked Goerke: ten years from now, could Leonardo revenues surpass SAP ERP, despite being in a radically different market than the one in which SAP claimed ERP market share?
+Goerke started with a more basic response: what are the Leonardo components we are talking about here?
+
+Specific innovation areas – e.g. machine learning, IoT, blockchain, data intelligence or data as a service.
+Digital brand awareness – “It’s the brand and the corresponding new capabilities that we bring to the market. I think for SAP it was very important to get a voice in that space.” Goerke acknowledged other companies have bigger brand recognition in innovation. SAP wants its customers to think of them in the context of AI/IoT/blockchain as well.
+Industry accelerators – One of the least understood/communicated aspects of Leonardo is the goal of providing customers with industry-specfic accelerators that give them a jump start on next-gen projects. It’s not just design thinking and a white board. Goerke: “Customers don’t want to do everything from scratch. Telling them, ‘Here’s a platform, here’s services, build something’ is not necessarily what they want to do. Ideally, you find industry-specific solutions that get you at least 40 or 50 percent down the way, or ideally 60% or more… Then you fill the gaps with individual solutions to differentiate your business.”
+New process – Leonardo projects will often start with a (free) design thinking session, to identify an immediate pain point/digital win, and roll that out quickly: “Do you only throw technology and products at a customer, or do you actually help them understand what their problem is, what a solution could look like… How can we support them in getting what works as a minimum reliable scope project, time boxed, and get that to scale?“
+
+Goerke with appropriately skeptical reaction to blogger question
+Goerke says that’s a whole different approach for SAP:
+How do we engage differently with customers, not only have a salesperson showing up trying to sell a shrink-wrapped product, but actually engaging with a customer, understanding their problem?
+With that in mind, can Leonardo one day eclipse SAP’s ERP business? Goerke isn’t making any predictions there, but he makes a more important point. Customers won’t spend arbitrarily on replacing an HR or financials system without a convincing business case – and the business case usually comes out of one of these Leonardo-type scenarios. Ergo: if you don’t play there, you’re not selling anything.
+How do customers manage the implied complexity of Leonardo and multi-cloud?
+This is the “aren’t there too many moving parts?” question. Customers want cloud choices, but what about integrating smaller pieces and multiple clouds? Goerke: “No one said it would be easy.” He added:
+The time of monolothic SAP is over. It’s been over since the year 2000 when SAP started to add Business Suite components like CRM, and on into the cloud acquisitions.
+Customers pursuing cloudy best-of-breed are forcing a brave new world:
+The whole thing is about speed and agility. We have to somehow accept the fact that the times of a single data base with a single app server on top, that’s not – maybe it comes up at some point in time – but today I wouldn’t foresee that.
+Despite these challenges, Goerke believes customers want the openness of consumable services that be recombined as your business changes, without requiring a big rip-and-replace:
+The more customers embrace various vendors out there, the topic of integration becomes more important, and the topic of openness becomes more important.”
+That means SAP needs even more APIs:
+All our systems need to be opened up. You need to be able to get to every business object that is in there, and every single process that is running through that system.
+Why doesn’t SAP move Leonardo into consumption-based pricing?
+Short answer: they’re looking at it. In some small areas, such as certain Hybris micro-services, it’s already happening.
+Diginomica has been pushing SAP on this because we believe the best way for SAP to get away from the problematic narrative of indirect access is to flip the script and offer consumption-based pricing, starting with Leonardo.
+At Goerke’s press Q/A, I asked him whether his welcome emphasis on data transparency includes pricing transparency, something SAP did not address in the keynote. At our small group Q/A, I asked again: why not turn pricing into an advantage? Why not put the quagmire of unresolved questions behind them by embracing consumption-based models for Leonardo?
+Other bloggers added that the technical tracking of consumption is crucial. Can the SAP Hybris Abakus acquisition play a role here? Goerke says yes, and that SAP must have consumption metrics internally – even if they aren’t exposed to the outside in new pricing models. And yes, Abakus is being used here. But Goerke says the key challenges lie elsewhere:
+Quite frankly the problems are not technical… The bigger challenge with all of this is really the commercial models that you need around it, and how all of that fits together with an on-premise license world, with a subscription world, with existing contracts and conditions, and how you move that into the world forward. There are commercial questions, there’s revenue recognition challenges.
+Then there is the sales transformation:
+There’s questions about how do you incentivize the field? You need to clarify things clearly in [terms of] who gets compensated and who doesn’t get compensated.
+How did SAP convince Google’s Brian Stevens to wear a Star Trek outfit on stage?
+Finally, an easy question. Answer: they asked Brian Stevens, VP and CTO of Google Cloud, directly, smartly bypassing any intermediaries: “Yeah, I’ll do that.” (Note: see more on Data Custodian, SAP and Google’s cloud GRC project from Sovanta, a pilot customer view).
+My take
+SAP leadership is well aware of the issues raised here. Whether that translates into bold new business models is a question of collective desire/will/execution. SAP is hardly the only vendor grappling with the full implications of cloud. The iterative, consumption-based projects ideal for getting digital projects off the ground are a different beast, one that can’t be tracked by big-game-hunting sales teams, even those offering multi-year SaaS subscriptions.
+If customers want consumable services, that means SAP has to help them with the tradeoffs. SAP is at its best when it’s reflecting this internally, acknowledging the immense internal changes that must happen. When SAP gets into AI/blockchain/IoT blast marketing mode, it feels like piling onto a morass of next-gen hype across our industry – hype that customers are getting fed up with at a rapid rate.
+Opening up to partners is also critical. Some partners aren’t ready for these changes and need a nudge, and some training to boot. Others are pushing ahead and need better access to Leonardo tools and platforms than they are getting.
+Hirsch is right on with his process expertise point – that helps cut through the AI/blockchain marketing noise. Whether SAP will have to beef up its own industry expertise as it builds out vertical accelerators, or whether partners can be engaged here, is a critical question.
+SAP also has a good story to tell around security and compliance. In the era of data privacy with GDPR looming, customer trust is tied to such compliance. SAP has a good hand to play there; I thought they played it well in Barcelona.
+For our team, a big missing piece of the story is the S/4HANA public cloud. That leadership team was at a competing SAP event in Berlin. Why SAP would schedule these two events at the same time is baffling to me, and was a real miss for our ability to assess the S/4HANA cloud storyline. I am hopeful they will engage with us soon.
+Otherwise, that’s plenty for SAP to work on until we see them in the spring at Sapphire Now, and another round of dialogue begins – with more pesky questions on the starship deck.
+Image credit - Goerke photos from SAP TechEd Barcelona by Jon Reed. Disclosure - SAP paid the bulk of my travel expenses to attend SAP TechEd Barcelona. SAP is a diginomica premier partner.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureIoT robotics and AI 

@@ -1,0 +1,35 @@
+
+Hold on now!
+Salesforce has made a public reversal over its perceived stance on the controversial CISA legislation making its way through Congress, after finding itself on the receiving end of opprobrium and threats of a boycott from privacy advocates.
+The problem stemmed from Salesforce adding its signature to a letter from the Business Software Alliance (BSA) urging “prompt House and Senate action” on “Cyber Threat Information Sharing Legislation.” That all sounds like a pretty harmless, high-level statement of intent.
+The trouble is that it was interpreted as support for CISA – the Cybersecurity Information Sharing Act of 2015 . CISA is co-sponsored by Democrat Senator Dianne Feinstein and Republican Richard Burr and is pitched as an information sharing device to put in place incentives to encourage sharing of threats among businesses and with government agencies. It would be a voluntary program.
+According to the BSA letter, signed by 13 tech companies:
+Cyber Threat Information Sharing Legislation will promote cybersecurity and protect sensitive information by enabling private actors in possession of information about vulnerability and intrusions to more easily share that information voluntarily with others under threat, thus enabling the development of better solutions faster.
+That wording was enough to have fired up the non-profit Fight for the Future which launched a YouBetrayedUs.org campaign, sparking public outcry and generating more than 23,000 emails targetted at the letter’s signatories.  On its home page, the youbetrayedus.org campaign says:
+What does it take for some of the biggest competitors in the tech industry to put their differences aside and sign a letter endorsing hugely unpopular surveillance legislation that’s been lambasted by privacy groups and security experts? Sweeping legal immunity. Worse, these companies know that their customers hate CISA, and so they’re jumping into the water together, hoping there’s safety in numbers. After all, you can’t blame Microsoft if Apple is doing the same thing, right?
+Fight for the Future admits:
+In the letter, these companies didn’t come right out and say they were endorsing CISA. Instead, they asked Congress to ‘act promptly’ to pass ‘Cyber Threat Information Sharing Legislation’. But these companies aren’t stupid. They know that the Senate will vote on CISA soon, and will use this letter as cover to say the tech industry supports it.
+To be fair to Salesforce, it was only one of 13 firms that signed up to the BSA letter, the others being Adobe, Altium, Apple, Autodesk, CA Technologies, DataStax, IBM, Microsoft, Minitab, Oracle, Siemens, and Symantec. (Google and Facebook are notable absentees here, but have voiced support for CISA previously.)
+But the backlash and the calls for boycotts prompted a swift response from Salesforce CEO Marc Benioff and a formal rebuttal from the firm’s legal team. In an open letter to Benioff, Jeff Lyon, CTO at Fight for the Future, threatened a boycott of Salesforce’s Heroku service:
+Your support for this legislation is a short-sighted move that will decrease consumer confidence in American tech companies, both domestically and internationally, and, if CISA passes, will create broad new risks for every user of US-based cloud services. Accordingly, we will be abandoning your Heroku service within the next 90 days, and are encouraging others to do the same.
+Heroku has been an exceptionally convenient web hosting service, but in order to use it, we need to trust you with our supporters’ personal data. Salesforce is actively supporting a bill that would undermine that trust. If CISA passes, it will be impossible for us to guarantee our own privacy policy with our users, because Heroku may broadly violate their privacy agreement with us to share information about our users with the government.
+Fight back
+So Benioff took to Twitter in defense of Salesforce’s position:
+
+
+In a formal statement, the signatory to the letter Salesforce’s Chief Legal Office Burke Norton confirmed:
+At Salesforce, trust is our number one value and nothing is more important to our company than the privacy of our customers’ data. Contrary to reports, Salesforce does not support CISA and has never supported CISA
+For Fight for the Future, this was a major about-turn to be celebrated with Campaign Director Evan Greer boasting:
+It’s great to see the Internet flexing its muscles and showing its power to defend itself once again. Salesforce responding to our boycott by backing away from support for CISA is a huge victory for the rights of Internet users everywhere. Any company that expects its users’ trust must clearly and vocally oppose CISA and any bill like it.
+
+For its part, BSA, which organized the letter, has also put out its own statement insisting it is also not supporting CISA:
+There have been questions about our views of the current CISA legislation. For clarity, BSA does not support any of the three current bills pending before Congress, including the Cybersecurity Information Sharing Act (CISA), the Protecting Cyber Networks Act (PCNA), and the National Cybersecurity and Communications Integration Center (NCCIC) Act.
+Consistent with this view, BSA’s September 14 data agenda letter to Congressional leaders identified five key areas where Congress can pass legislation to strengthen the policy environment around digital commerce, including voluntary information sharing, and highlighted the need for balanced legislation in this area.
+BSA has consistently advocated for strong privacy protections in all information sharing bills currently pending before the Congress. We will continue to work with the Congress, others in industry and the privacy community to advance legislation that effectively deals with cyber threats, while protecting individual privacy.
+My take
+Sometimes it’s not what you say, it’s how you say it – and whether that allows others with agendas to take umbrage. And Fight for the Future in this case took splendidly public and well-orchestrated umbrage.
+So all in all…whoops! But well-recovered by Benioff. Now, how about the others?
+ 
+Disclosure – at time of writing, Oracle and Salesforce are premier partners of diginomica. 
+ 
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureData privacyIdentityMobileRegulationSecurity 

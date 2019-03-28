@@ -1,0 +1,66 @@
+
+We’ve been here before on many occasions. The ‘ERP is dead, long live ERP‘ meme has been doing the rounds for at least the last 18 years but this time I sense something of a real change rather than one that’s fantasized in the minds of analysts with too much time on their hands. Here’s the backdrop.
+This year’s round of vendor-led customer flogathons has been a strange mix. Earlier in the year we had SAPPHIRE where the focus was on getting customers comfortable with the idea of a lift and shift to S/4 HANA as the ‘digital core’ for what comes next. Brian Sommer provided the right color when he said:
+I suspect a number of the outsourcers and integrators are hoping that this is the second coming of ERP. They’re hoping that SAP customers will move in droves to the S/4HANA solution as this will re-energize their SAP practices.  Like we say in Texas, “wantin’ and gettin’ are two different things.”
+SAP customers are a smart bunch. If they’re going to spend a lot of money on a critical (and often large, integrated) piece of application software, then there will need to be a compelling business case for change.  These customers will likely have a number of old customizations that will need to be examined for continued relevance or elimination.
+But what I’m seeing at clients is that they expect new ERP solutions to deliver something VERY different than what their old ERP currently does. They want the new ERP to support a Factory of the Future in its fullest definition (no proof of concepts but a full, viable, implementable solution). They want to abandon old business models and operate new ones. They don’t want new plumbing under their old ERP. They want new solutions that are solving new business problems. 
+I’m also leery that customers will want to do the two-step shuffle where they undertake a major upgrade to S/4HANA only to do more work later when additional digital capabilities come on-line.
+Instead of an explosive amount of lift-and-shift work to happen, I suspect large enterprises will undertake this in a more measured manner.
+To Sommer’s first point, it is clear from analyses provided by HfS and, most recently, observations by Vijay Vijaysankar of IBM while traveling in India that the outsourcers wishes are not coming true. On LinkedIn, Vijayasankar observed that:
+Extremely thrilled to see the rapid transformation of Indian IT from primary value prop of cheap labor and factory model to differentiating with IP – especially ML , Microservices etc
+I asked why and he responded that the ‘old’ services model of lift and shift has become a ‘burning platform.’ That aligns well with the RPA push that HfS has been promoting heavily the last year, even if the RPA vendor valuations are deemed insane. It represents a fundamental shift suggesting that much of the global ERP implementation work is done.
+Sure, workloads are shifting to the cloud and vendors are heavily promoting those delivery methods but at its core, ERP is not changing that much.
+Moving on, we have Jon Reed reporting a conversation with the CFO of Infor. The telling point:
+The future of SaaS ERP is about embedded analytics and collaborative chats/actions on those numbers – right alongside the transaction screens.
+But this comes with caveats:
+For whatever reason, I consistently struggle to get CloudSuite 1:1 customer interviews while on-site at Inforum. That’s a real shame, because there are some good CloudSuite customer sessions (I crashed a couple of them and wrote about one of them). But: while those customer sessions are instructive and clearly have go-live benefits to show for, they aren’t the kinds of advanced business and data benefits we all want to hear from SaaS ERP customers.
+The money shot?
+That problem isn’t Infor’s alone; figuring out how to change business models and act with insight on modern ERP isn’t easy. Most ERP vendors struggle to give me more than a couple of these mature cloud ERP benefits stories. I would challenge Infor to make sure those kind of business benefits stories are on full display at next year’s Inforum.
+Too true. We only have to look at what happened at Workday Rising to realize that vendors are well ahead of their customers in their thinking about the future of important ERP elements but have themselves yet to catch up development wise. Here’s what I said about Rising: 
+There is plenty for Workday’s most forward-thinking customers to anticipate but many of the announcements are at least a year away. That’s a very long time in the current world of AI/ML development. Directionally, it felt kinda right but then Workday still has to win over many more financials customers before it can claim leadership. It is conceivable that Adaptive, tied into promises of an automated finance future will be enough to win the day but competitors are not hanging around.
+But there’s a twist to this set of reports. Going back to Sommer’s assertion about new business models, I saw plenty of evidence of that at the FutureStack18 London event and keep getting drawn back to two observations by senior tech customers who were on deck. LEGOs’ Simon Young:
+We’re focused on removing systems that aren’t designed to operate at webscale in 2018, or as we call it, SAP.
+Hold that thought as I recount the words of Andrew Brockway, CTO, Confused.com:
+If we ship a change we can see instantly whether we’re seeing a deviation in revenue and likewise if we see an incident, we can measure the impact. So it’s a clear view into the customer and the impact on the bottom line.
+In short, forward-thinking IT shops are not necessarily focusing on the topics that ERP has centered around but exactly the problems Sommer wants to see resolved. I say that because we always have to sense test what we see among outliers – even though they may be ahead of any perceived adoption curves – across multiple industries and geographies.
+But perhaps the most important data point – if you can call it that – comes from Eric Kimberling’s Top ERP systems for 2019. Kimberling has been around the ERP selection and guidance business longer than most and his insights are always interesting. This time though he raised a few eyebrows by excluding Oracle Cloud ERP and eBusiness Suite and coming up with a ranking that was unpredictable to the untrained eye. This is how he ranked the current crop of runners and riders:
+
+Microsoft Dynamics 365
+SAP S/4 HANA
+NetSuite
+Workday
+Salesforce
+
+Apart from Oracle, the other main vendor missed was Infor. I’ll come back to them shortly.
+As you might imagine, there was quite the discussion about Kimberling’s picks but in large measure, I would not disagree. Which sounds strange until you realize that ERP’s are reforming around changed priorities. The backend financially oriented transaction processing is done. I am quite sure that short of the emergence of an entirely new way of accounting, the vendors have reached the limits of building out financial systems. HR admin processes are largely defined by what regulators say has to be done. That leaves many other processes in play but they don’t necessarily have to be tied to a backbone, hence the choice of Salesforce and the lead of Dynamics. Back to Oracle and Infor.
+In a follow-up post, Kimberling explained his rationale of excluding Oracle this way, starting with:
+Outside its NetSuite acquisition, Oracle is like many vendors who are scrambling to migrate their legacy products into the cloud. On one hand, they are doubling down on their Oracle Cloud offering – as most vendors are redirecting R&D to cloud solutions.
+On the other hand, Oracle has a very large install base of companies using eBusiness Suite, PeopleSoft, JD Edwards, and other legacy Oracle products. R&D dollars will continue to be diverted from these older products to the flagship cloud solution. This is part of the reason why cloud ERP software has reached the tipping point of adoption.
+This legacy install base has in some ways slowed the product suite’s migration to the cloud. Much of the robust functionality of these legacy products – which took decades to build – has been relatively slow to migrate to the cloud. The end result is a cloud product that is not as complete as it could be.
+Kimberling then goes on to talk about relative maturity and some of Oracle’s practices. Do I agree? Yes and no. I have seen many successful Oracle cloud customers but I agree that pricing complexity is a clear issue that others have avoided. On Infor, I think Kimberling has missed a trick. Some stats as shared with us around Infor cloud adoption:
+
+8,881 customers in the Infor cloud
+33 percent growth in SaaS revenue
+77 million subscribers in the Infor Cloud
+
+That is far from shabby but as the company acknowledges, brand awareness is a gnarly problem for Infor. I also think that Sommer’s alluding to deep vertical market expertise is something that folk miss about Infor which has especially strong and modern solutions in retail verticals and hospitality.
+In other news, Jon Reed got the drains up about SAP’s latest cloud shifting endeavors at TechEd. There is an ongoing debate about whether SAP Cloud Platform is a PaaS or really a runtime for SAP systems with some PaaS-like bells and whistles. That explanation is not properly baked and there is plenty of confusion around the topic. Be that as it may, the one thing that stands out to me is that SAP is positioning SCP as a way to extend the digital core in a way that ‘should’ – at least in theory – get those gazillions of SAP ABAP’ers on the cloud page for providing the solutions of tomorrow.
+That’s not going to happen anytime soon because to get from zero to one in that game, developers need both business and domain expertise. That’s not where ABAP developer heads have largely been at. Perhaps they can take a leaf out of the New Relic customer base? That gives SAP time to get it right on the platform front and, from my perspective, get the Bring Your Own Language (BYOL) topic fleshed out the way developers currently understand and not through some funky OData plus REST API mashup as currently proposed.
+My take
+Putting it all together and what have we got?
+
+A fragmented and confusing landscape – good news for consultants
+The potential for modernizing but little appetite for disturbing what works
+A mid-market that’s been underserved but which needs to modernize in many verticals – maybe the mid-market eschews beer pricing in favor of getting ahead?
+IT shops that are aligning themselves with the business and, by implication, getting to grips with cloud hairballs – Salesforce better pay attention here.
+Choices. Too many? I doubt it but creating interesting decision-making problems.
+
+But there’s an unspoken topic in play here to which I have had a number of backchannel conversations. It is clear that those who are on the digital journey have figured out where to place their bets and how. Check out my analysis of L’Oréal’s progress that has customer centricity at its core but pays attention to key and core distribution capabilities.
+But there are plenty of firms where building the business model for any kind of transformation or digital project is fuzzy and nuanced. At the same time, vendors keep throwing more and more bits and pieces of stuff over the ERP wall in hopes that something will stick. Last year it was Big Data, this year its AI with some IoT lobbed in for good measure. None of this helps customers focus on the real issues.
+So is it over for ERP? Maybe except for the modernizing patterns that can be economically used through cloud-based initiatives. But that, in turn, means customers will be doing two things:
+
+Casting their nets a lot wider than the usual suspects
+Building a lot more than buying because the buy elements are largely not there to support their strategic compass bearings.
+
+In short, RedMonk’s much-famed New Kingmakers are here and vendors that aren’t paying attention to this will find life getting really hard. We’re all on the road to XaaS after all.
+Image credit - © sk_design - Fotolia.comDisclosure - All of the vendors mentioned in this story, with the sole exception of Microsoft, are premier partners at the time of writing.Read more on: Cloud ERP financials and supply chainDigital transformation - frictionless enterprise 

@@ -1,0 +1,28 @@
+
+Peter Coffee
+A month ago, I asserted here that we should try harder to think of information as a force rather than a mass. If you didn’t like that metaphor, prepare for pain, because I’m about to take the next logical step. When the vector of force operates on the scalar of mass, we get velocity – and in a world of “Big Data” hype, the velocity of data is an essential part of a conversation that’s too often buried under Mount Magnitude.
+Magnitude tries to take over the conversation, because so many people make money in direct proportion to the mass of what they sell. At an MIT conference in San Francisco, Jeremy Howard (now a faculty member at Singularity University) said that “Big Data does not mean a bigger database” – but if you sell databases, or the plumbing and sanitation facilities for same, you might rather have people believe otherwise. People try to reframe a problem as something that’s solved by their product.
+It’s not dumb to re-ask a question in a way that makes it easier to answer. The world’s smartest people do this all the time, not in the domain of things they sell but in frameworks for how they think. For example, I once had an astrophysics instructor who said:
+Space is simple. Just take every possible path, through every possible location and time, that could possibly be followed by a photon of light. Add them all up, and that’s space.
+This approach handles everything from Kepler, Copernicus and Newton to Einstein, which covers a lot of space and time.
+As my instructor immediately observed, though, this is a devious definition. It doesn’t actually prevent us from traveling faster than the speed of light: it just makes us find something bigger than this version of “space” in which to do it, because no photon can travel a faster-than-light spacetime trajectory. Traditional tech vendors do the same thing, for reasons that make perfect sense: that is, they define the “space” of a problem in terms that make their product the best (or even the only) solution.
+For example, if you define your problem’s “space” as the sum of all possible data relations (in the formal sense of the term defined by Edgar Codd), then the world’s best relational database is a pretty compelling thing to sell – but many have noted that some kinds of data simply don’t fall into row-and-column format. One readily finds, for example, lists like this one (PDF link) of “special forms of data”:
+
+Temporal data.
+Spatial data.
+Multimedia data.
+Unstructured data (warehousing/mining).
+Document libraries (digital libraries).
+
+I don’t know about you, but to me, that ten-year-old list reads not like “special forms” – but more like “most of the data that tells me things I didn’t already know.” Relational tables are great for recording what has happened, in static structures of not-too-enormous scale; they’re not the best place to put a haystack of Internet of Things interactions, and then use data science to seek out the non-haylike things.
+Problem space
+I don’t mean to single out relational databases as the only example of defining “problem space” in a way that makes your product the definitive solution. For another example: you could define your space as the sum of all things you can manipulate on a desktop, which in 1970 was actually a pretty big vision of what computers could do for us.
+In the “desktop” version of space, as opposed to the “relations” version, owning one of the world’s dominant desktop metaphors is a pretty good thing. You can even have entertaining debates between the top two contenders, until one of you takes a commanding lead in the hyperspace of not being limited to your desk – and at that point, an advertisement series that was part of popular culture from 2006 through 2009 is suddenly a “remember when that mattered?”
+Today, we live in a space of problems (and opportunities) where we expect that an experience can teleport from one place to another, or even happen in several places at once – based on data that emerges with no prior consideration of schema, and at enormous scale. The last thing we want to do is mimic faithfully the limitations of moving a “document” around a “desktop” – or the restrictions of confining data to predefined columns.
+In this world, the question is: can the data keep up with our questions, our inspirations, and our initiatives? Can we achieve, not merely speed, but velocity: the combination of fast movement and precise direction?
+I steal from the best, and former Citibank CEO Walter Wriston put this best in a 1996 interview in Wired magazine:
+It’s like a piece of lead: you put it on your desk, it’s a paperweight; put it in a gun, it’s a bullet. Same piece of lead. Big difference.
+I built on that comment in my recent presentation on Big Data at the University of Montana’s Missoula campus, observing:
+450 pounds of lead is a hospital X-ray barrier. Twelve pounds of lead is a shot-put feat of strength. Eight grams of lead is a weapon, if properly aimed.
+Once you have the data, can it get to the place where its impact hits a target of opportunity? Can the result be retargeted through integrated, focused collaboration tools to decide what action should follow? This is what creates value: the velocity, not just the “bigness,” of Big Data.
+Read more on: Analytics planning and data analysisCRM and customer experienceInternet of ThingsPartner ZoneSalesforce 

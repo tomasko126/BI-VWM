@@ -1,0 +1,60 @@
+
+You don’t need a pattern matching algorithm to see that a debate around the ethical dimension in AI is emerging. But can an ethical framework debate improve how AI is perceived let alone used in the broader context of business transformation?
+Last week, for example, Jerry Bowles reported on a McKinsey analysis that warns how AI will impact business while holding the distinct potential for widening the inequality gap. Yet that report was largely silent on the ethical dimension. In his analysis, Bowles said:
+The McKinsey report doesn’t explicitly say so but the takeaway I get from the study is that the world’s biggest and most dominant internet organizations are about to get much, much bigger and much, much more dominant.
+The coming battle between the U.S. and China for AI dominance offers a ringside seat between the forces of free-market capitalism and government-dominated central planning.
+Both approaches have lots of unforeseen consequences. China is already using AI as a central pillar in building a surveillance state that would have Winston Smith yearning for the good old days. Productivity enhancing, labor-saving technology like AI is certain to keep wages and human employment low and widen the inequality gap between the very rich and the very poor. That will eventually be a drag on consumption
+“This inequality is not given,” McKinsey Fellow and report co-authorJeongmin Seong optimistically said in an interview. “The future is up to us to shape.”
+This week a good number of the diginomica team are attending Dreamforce. Given that Salesforce has made AI plays, most recently with Einstein Voice, and given co-CEO Marc Benioff’s predilection for ethical matters, I expect there will be some discussion on the topic.
+Then there is the almost comically bizarre spectacle of lobbyists from some of the U.S.’s largest internet companies getting ready to face Congressional hearings on privacy. From Stuart:
+There are some nakedly self-serving aspects to the principles outlined by all three of the above vested interests. But on the plus side, the fact that they’ve gone to the effort of producing them at all suggests that there’s an awareness that even if it’s not an admission that ‘the game’s up’, at least it acknowledges that the direction of travel is set.
+It was in this broad context that I called up Neil Raden, Founder/Principal Analyst at Hired Brains Research LLC & Archer Decision Sciences. Raden has been tinkering with analytics and AI-related technology for more than 30 years. Recently, he was called to speak on the topic of AI and ethics at an upcoming event in the Carolinas.
+Guiding principles
+He, like many others, believes we are at the beginning of something important but that the state of the art today is little better than it was back in the day when we talked about decision trees. The difference, as most agree, is that we have almost limitless computational resources courtesy of Google and Amazon Web Services, but that in reality, the world of AI can be summed up as a Wild West where anything goes and where the probability of unintended consequences or harm is high. Needless to say, Raden is far from impressed with what he sees:
+I start from certain guiding principles, one of which is that if an algorithm is seeking to take over a task that would have been done by a human where there is a social context, then the alogrithm takes on those social attributes. To the best of my knowledge, there’s no AI programmer or engineer who knows how to codify ethical behavior requirements into a machine but we’re racing forward with applications.
+Second, you need to explicitly define ethical behavior and that’s something where even in academic circles they’ve been struggling for many years.
+Then you have to look at the models. I think Judea Pearl is right when he talks about Baysian networks as a more transparent method of understanding what the alogrithm is doing rather than the black box deep and machine learning systems of today.
+Today, Raden believes the biggest problem comes in something he calls ‘stupid bias.’ He mentioned a case where a set of dermatological film samples of lesions were being ‘trained’ to see if they could recognize potential cancerous growths. In the real world, radiologists call for biopsies when lesion dimensions exceed certain dimensions. To determine that, radiologists use a simple 12-inch ruler. In the experiment, the researchers couldn’t understand why the machine was calling so many false positives until they realized the machine was calling out each time it ‘saw’ a ruler. Stupid bias?  You bet.
+Optimistic or pessimistic?
+As our conversation unfolded, I asked Raden whether is he optimistic or pessimistic about the impact of AI, given that we see polarized positions. His answer is intriguing:
+The question is this – is your economy technology driven or is the economy driven on principles. Many years ago I worked on a project in Paris and my counterpart from Europe said that in Europe government exists (in part) to protect people from business. In the U.S. government exists to protect business against people. I don’t know if that’s 100% true but it is leaning in the right direction. That’s a big problem because if you are not being guided by principles then we may well be facing a dystopian future. So I think government does have to step up but I don’t see any real evidence of that happening in this country (the U.S.) My hope is that a little bit of thinking and doing about this topic will go a long way.
+But like others, Raden struggles to find clear-cut answers. Instead, he believes that engineers really need to explore what he terms
+…their dystopian imagination to think about how things could go wrong and I don’t think many are doing that. And what’s worrying is that there is no equivalency to the kinds of internal reviews that are common in clinical trials.
+Raden cited the recent uproar over for-profit activities at Memorial Sloan Kettering Cancer Center reported by the New York Times where it said that:
+
+The company, Paige.AI, is one in a burgeoning field of start-ups that are applying artificial intelligence to health care, yet it has an advantage over many competitors: The company has an exclusive deal to use the cancer center’s vast archive of 25 million patient tissue slides, along with decades of work by its world-renowned pathologists.
+Memorial Sloan Kettering holds an equity stake in Paige.AI, as does a member of the cancer center’s executive board, the chairman of its pathology department and the head of one of its research laboratories. Three other board members are investors.
+The arrangement has sparked considerable turmoil among doctors and scientists at Memorial Sloan Kettering, which has intensified in the wake of an investigation by ProPublica and The New York Times into the failures of its chief medical officer, Dr. José Baselga, to disclose some of his financial ties to the health and drug industries in dozens of research articles. He resigned last week, and Memorial Sloan Kettering’s chief executive, Dr. Craig B. Thompson, announced a new task force on Monday to review the center’s conflict-of-interest policies.
+
+An ethical framework?
+Faced with this kind of Wild West style of activity I asked Raden how he proposes that the ethical question is framed. While still early in his thinking, Raden came up with five bullet points:
+
+Responsibility
+Transparency
+Auditability
+Incorruptibility
+Predictability
+
+As an example of how this might play out, Raden pointed me to a set of stories he wrote on the topic of Digital Twins for personalized medicine. In the first part, Raden concludes that:
+
+Thinking ahead, if Digital Twin models for individuals do become common practice, there is a concern that the individual will not be able to escape the conclusions of the model. “Medical Tourism,” as we know it today, where people travel among various practitioners to get the therapy they want, may become impossible as the model follows the patient. Practitioners and payers may follow recommendations of the models and limit choices between, for example, therapy versus quality of life, or choices of parents whether or not to subject their children to intrusive therapies.
+Any giant leap in technology is not without its risks. But the application of a discipline that designed for engineering purposes must be tested to ensure in doesn’t adversely affect people’s lives, limit their choices and even discriminate against them.
+
+In the second part, he is more hopeful, pointing to recent work undertaken by the Precision Medicine Initiative or PMI  using the moniker “All of Us” where:
+
+
+Participants in the program will be considered partners.
+The collection of participants will reflect the diversity of the American population.
+Trust will be earned through engagement and transparency.
+Participants have access to information and data about themselves.
+Participants may withdraw at any time, and remove their data except for those instances where it is already used in a study.
+Data will be broadly accessible, but:
+The program will adhere to the PMI Privacy and Trust Principles and the PMI Data Security Policy Principles and Framework
+
+
+Raden found plenty of reasons to be concerned about unaddressed issues but acknowledges it as a good start.
+My take
+As we concluded our conversation it became clear to me that while Raden is trying to figure out an approach that might work, there are plenty of vested interests that may yet scupper initiatives of this kind. The politicking now underway in Washington is just the tip of the proverbial iceberg.
+Like Raden, I would be surprised if governments took a lead which leaves us with corporate initiatives. IBM, for example, has issued a steady drip feed of papers and discussion documents on the ethics topic. It’s latest missive: Everyday Ethics for Artificial Intelligence suggests a series of principles that are not a million miles away from where Raden wishes industry to start. Then there is a launch of IBM’s AI Fairness 360 Open Source Toolkit designed to address the issue of bias. All good stuff you might think.
+But then I wonder how committed the large vendors really are to this topic. A job search on Glassdoor using the term ‘ethical,’ ‘ethical development,’ or ‘ethical developer’ turns up precious little. Make the search term ‘ethical hacker’ and you get plenty of job openings – almost all around internal security. Try harder with ‘AI developer.’ Lo and behold we find 745 job listings. On my cursory examination of the first page of search results, I only found one where ethics was mentioned. Go figure. It’s a topic I will explore in a later story.
+Image credit - Photo by Tiffany Combs on UnsplashRead more on: IoT robotics and AIMachine intelligence and AIRobotics 

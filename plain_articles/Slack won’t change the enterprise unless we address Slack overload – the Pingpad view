@@ -1,0 +1,51 @@
+
+I’ve seen the stickiness – and perils – of Slack firsthand. Yes, the mobile immediacy of group messaging can advance projects.
+But when Slack adoption picks up, and a barrage of notifications heads your way, you get a taste of “Slack overload.” It’s enough to make you miss your email inbox.
+Ross Mayfield, CEO and co-founder of Pingpad, has a more sophisticated definition of Slack overload. He sees two fundamental issues: losing team knowledge in message threads, and running into project chaos instead of project management. Pingpad’s goal is bring sanity and structure to Slack – without losing the viral stickiness that makes Slack an appealing work platform.
+But is the rise of Slack and other group messaging solutions a significant trend, or just another enterprise collaboration fad? Mayfield is an ideal person to ask. He’s got a history in that elusive corporate grail we once called knowledge management. As the former co-founder of Socialtext, Mayfield was also knee deep in the rise of “Enterprise 2.0” that eventually spawned products from Jive to Yammer.
+I always felt Enterprise 2.0 fell far short of its own breathless hype. And while “knowledge management” is a noble goal, it’s also one of the biggest sinkholes in the history of IT. On a recent series of interviews, I asked Mayfield for his take on how we got from knowledge management to Slack, and why Pingpad is all-in on group messaging, and Slack in particular. Yes, Mayfield is bullish on Slack:
+I believe that the shift to group messaging is the biggest one in how people are working since social or email. What it really represents is not just a shift in platforms. There’s definitely new things you can do with bots and messaging, real time, AI, etc.But I really believe for certain kinds of apps, it’s not about the platform shift but the behavior shift.
+Slack adoption has surged, but it hasn’t been smooth sailing
+Mayfield believes consumers paved the way for Slack’s enterprise rise as they took to their mobile phones for group messaging via WhatsApp, Facebook Messenger and iMessage. The enterprise messaging stats Mayfield cites are eye-watering:
+
+75 percent of teams use group messaging products from Slack, Atlassian, Microsoft, Cisco, Facebook and about 15 others.
+A staggering 80 percent of employee app time is spent in group messaging: “This is a fundamental shift not just in the tools teams use, but in how people work.”
+
+The vigorous adoption of Slack hasn’t been smooth sailing. On the plus side, Slack has reduced the flawed tedium of the email inbox, eliminating a chunk of internal corporate emails. That’s not the only benefit:
+With Slack, people are more connected at the team scale than they have ever been. There’s more knowledge sharing happening. Their questions are getting answered. You can always find out the status of something by asking. So there’s definitely a strong benefit.
+But in Pingpad’s work with Slack customers, Mayfield has also seen the problems. Mayfield notes that the surge of data causes knowledge workers to spend 2.5 hours a day finding the info they need to do their jobs. Yes, he says, Slack helps with that, but with a price:
+[Search time] is being cut down, but it comes at a cost, because your “answer people” are some of the most valuable people in your organization. And if you’re always interrupting your answer people, it keeps them from not just answering questions, but doing their regular job. They’re your most valuable and knowledgeable people.
+Why Slack needs support on project management and knowledge capture
+So that’s Slack first problem: it’s not addressing the knowledge management issue. The same questions are posted repeatedly, interrupting high-value “answer people,” and hurting their productivity:
+It’s a good thing that the answer people are made available and people are able to get their answers, but if people keep asking the same questions over and over again, that’s not good.
+But there’s another problem: project management. Yes, Slack does aid in project communication:
+For projects, the opportunity is how teams communicate has change, and communication is the biggest determinator of whether a project will succeed or fail, whether it be on time and on budget.
+But project management within Slack is near-impossible. Slack simply wasn’t designed as a project tool with milestones, tasks, and deliverables management. Yes, you can shift into a project management app. The issue is most users want to “live” in Slack:
+When you’ve got all of these users spending their time in Slack, what they really want to do is get things done without leaving Slack.
+The end result is that dreaded condition Mayfield called Slack overload:
+You’ve traded one inbox for 114 inboxes as channels.
+Pingpad’s answer to Slack overload
+As Pingpad evolved, Mayfield’s team set their sights on these two problems. Built for Slack users, Pingpad brings project management and knowledge capture tools into the Slack environment:
+As an app that’s natively designed for Slack, we’re looking to solve Slack-inherent problems, like Slack overload, that others are not.
+With Pingpad, users can turn Slack messages into knowledge and/or tasks.  To tackle the knowledge management problem, users can create “Cards” with knowledge that PingPad saves in searchable, wiki-based knowledge base:
+We make it really easy for you to capture shared knowledge, organize, and be able to act on it. You don’t have to ask what the status is; you can see what the status is, and solve real basic signal-to-noise problems in all of the new glorious noise that exists…
+You finally have a knowledge flow at the team scale, and if you can turn that into a knowledge stock, it gives you reusable learning.
+For project management, users can organize Pingpad Cards visually with kanban boards. The goal? Easily push tasks from Slack messages onto a board where everyone can see the big picture. You can see who owns tasks, and when they’re due. These boards can be accessed from the web, or via Slack with the /board command.
+Pingpad is not attempting to build a project management interface as robust as a tool like Asana, though some lighter Asana users have switched entirely to Pingpad. A more common switch would be a Slack-Pingpad customer moving over from prior use of Slack with Trello:
+That’s an easy decision for people. Maybe some will use some combination of Slack, Pingpad, and Asana in tandem. Some will use Pingpad while continuing to use, let’s say Jira for issue tracking, but use us for a higher level planning and project communications.
+My take
+Mayfield and I hashed out Enterprise 2.0, and how products like Chatter and Yammer fit into the picture. To some extent at least, these are different use cases. That’s why Microsoft is pushing Teams as a group messaging Slack competitor, a separate tool from Microsoft Yammer.
+I like that Mayfield doesn’t push grandiose ideas about wiping out email. Even if Pingpad successfully reduces Slack overload, email has its place. Mayfield says that Slack overload really isn’t about the number of users on a Slack channel; it’s more the style of work, and the level of Slack adoption.
+For now, Pingpad is solely tied to Slack. But Mayfield is watching the group messaging field closely; he also sees a place for Workplace by Facebook in the enterprise mix.
+I’m not quite a bullish on Slack as Mayfield. But keep in mind I haven’t been able to try Pingpad’s tools, because my Slack teams frankly don’t use Slack vigorously enough to create a consistent Slack overload problem.
+However, I can say with certainty that Slack is natively terrible for project management and knowledge capture. For that reason, I like where Pingpad is headed. I see two issues with enterprise group messaging products:
+
+Getting push notifications calibrated properly is tough. I know a number of folks who have resisted or given up on Slack because they were unwilling to master its nuanced channel-by-channel notification settings, snooze features, etc.
+I am biased towards embedding collaboration inside enterprise software. I’ve never been a big fan of externalizing collaboration into layers or separate tools. I want to see collaboration, including messaging, tied closely into enterprise software, with quick tagging of screen shots, commenting directly on sales reports, and so on. Slack integration into those environments interests me, but it’s early days.
+
+Nevertheless, Mayfield’s stats on the heavy adoption of group messaging are hard to argue with. And if users are adopting these solutions, it’s foolish of me to insist on embedded collaboration when users are either resisting it, vendors are falling short, or tools are being used side by side.
+Pingpad is venture-funded, and has already been through a seed round. The team is excited about a new Pingpad Messenger feature just announced, which is another advancement in project management visibility for Slack users.
+If you’re wondering why you haven’t run into Pingpad before, Mayfield’s team has chosen a stealthy approach so far, honing their products with a core group of customers. But, as he warned me, that’s about to change:
+We’ve been purposely not really active in marketing. We wanted to wait until we got to a critical mass for the product. We’re at that point now where I’m about to start going off and making noise like I used to.
+End note: just a friendly reminder you can get diginomica content in your Slack channel pushed to you via a range of topical RSS feeds and Slack’s RSS integration.
+Image credit - Tired man being overloaded at work © Kaspars Grinvalds - Fotolia.comDisclosure - Pingpad has no financial ties to diginomica. Mayfield and I are both members of the Enterprise Irregulars, a small consortium of enterprise bloggers and practitioners (Phil Wainewright is also a member).Read more on: Collaboration sharing and digital productivityDigital transformation - frictionless enterpriseProductivitySocial 

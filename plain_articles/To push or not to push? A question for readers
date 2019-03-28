@@ -1,0 +1,24 @@
+
+Over the years, we’ve developed a number of ways for readers to find and access our content. Whether that’s site search (which we know needs work), Google search (which does quite well), SEO finagling, direct click, social channel referrals or RSS feeds – these all work reasonably well for the different reader constituencies.
+Recently, I’ve been playing with the idea of push notifications but the debate among the diginomica team isn’t coming to a concrete conclusion about whether we should implement this feature or leave alone. Hence this story.
+Why are we considering this?
+Apart from the obvious ease of potential distribution provided by this ‘channel’, it is conceivable that we could start to better understand those who subscribe to push notifications as a way of improving content, both in terms of scope and quality. That’s a genuine win-win. You get more of what you like, we get to better understand what matters to you. I believe that’s important as we seek to thread the right needles with the right content.
+In the longer term, we envisage being able to send push notifications via voice services like Amazon Echo or Siri. That could be a valuable addition to those who want to interrogate voice services while on a coffee break or over lunch.
+Why would you want push notifications?
+Speaking personally, I have a bunch of services set up for push notifications. I have them because there are a variety of services to which I don’t necessarily want to subscribe for a feed or email newsletter but which still hold the potential to provide valuable information.
+For some services, it is important that I know what’s going on ‘in the moment’ and again, push notifications help.
+The point is that push notifications provide me with the choice as to whether I click on an item as it is notified or simply ignore. That might well be useful for the occasional visitor who has seen something that caught their eye and wants to dip in occasionally but without going through the palaver of signing up for an email newsletter or simply can’t handle the volume of content coming via feeds.
+Why would you not want push notifications?
+While trialing a push notification service in our development sandbox, I quickly discovered that configuration for different operating systems, devices and browsers is not a trivial matter. There are differences in the way in which push notifications work; which tells me one thing loud and clear: no cross-platform standards.
+That’s a major suck point but one which the system developers manage. Even so, it means there isn’t a uniform or consistent experience when mixing hardware types: e.g. say Mac OSX and say Android phone with Chrome. It also means you have to set ‘Allow’ or ‘Block’ for all devices on a one by one basis. Not ideal.
+Push notifications can be annoying. If you’re in the middle of something important and want to concentrate on the task at hand then having random push notifications popping up every so often is…well…annoying.
+What to do?
+In our use case, push notifications would normally go out as soon as a story is published. The problem with that is that we don’t have a publishing agenda or calendar. That makes for a two-edged sword.
+On the one hand, there is the excitement of not knowing when you’ll see stuff from us. OK – maybe that’s not such a great thought.
+On the other hand, receiving a rapid-fire succession of notifications because we’re carpet bombing an event is hardly optimal – unless of course you’re at said event, and are gagging to hear whatever pearls of wisdom issue from the digital fingers of our correspondents/analysts.
+Over to you
+We are conscious that implementing push notifications is a big UX step. Get it wrong and some of you will be annoyed. Get it right and who knows how much benefit is conferred – on both sides. So it’s over to you. This isn’t a decision we can (or should) take based on how the market generally is developing. It’s something for which we’d like your feedback. So – there are two ways to go there.
+Feel free to leave a comment below or, if, like many of us, you are time-starved, then please indicate in the poll whether you like the idea or not.
+Many thanks.
+[wpforms id=”770027″ title=”false” description=”false”]
+Image credit - © Tatiana Shepeleva - Fotolia.comRead more on: Analytics planning and data analysis 

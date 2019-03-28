@@ -1,0 +1,69 @@
+
+Lead story – AI in practice –  honing in on medical apps and AI ethics – stories by Kurt Marko and Stuart Lauchlan
+
+myPOV: Futuristic AI is fine for chewing the next gen cud and burnishing your pontification thought leadership credentials, but what we really need are the practicalities. Kurt looks at the medical impact in AI in practice – medical apps have their own health warnings.
+On the plus side, the impact of AI on medical could be life changing. Such as? The deep learning models Kurt has examined for pattern matching and image analysis. That’s a good fit with radiology – and one with immediate benefits.
+But it’s not all techno-goodness. Kurt sees problems ahead, from the difficulty of ML testing to integrating ML detection into a doctor-centric process (you know, the human that supposed to talk us through our options, and help us make sense of the diagnosis). Kurt writes:
+Such difficulties highlight a growing gap between AI technology, which races ahead at breakneck speed, and our institutions’ ability to incorporate it in a safe, responsible manner.
+Armed with new ideas from the NVIDIA GTC conference, Kurt shares views on how to incorporate machine learning into existing processes. Tech isn’t the big impediment now: it’s “institutional and professional inertia.”
+AI ethics are crucial to these practicalities. Thankfully, Stuart has just survived a study session with a monster new UK AI ethics report. He shares his findings in Ethical AI – no need for new regulators, just a proper framework? Our Derek du Preez interviewed the committee chair behind the report. One key from the chairperson? Don’t let a handful of companies (Google and Facebook come to mind) hog the data:
+
+We are rather concerned this could lead to a situation where there is the data monopolization and of course then it leads onto only having a few AI systems, which is dangerous in itself.
+We want to basically have quite a strong diversity of AI systems across the board.
+
+Doesn’t seem like we are heading in that direction, but at least the issues are getting a serious airing now. Don’t give me the AI alarmists or optimists; give me the pragmatists.
+Diginomica picks – my top two stories on diginomica this week
+
+Bed, Bath & Beyond – when you wish upon a digital vision…your share price collapses – readers liked Stuart’s unsparing portrait of a retailer in conflict: with itself. Omni-channel gets pretty tough when your digital growth catches your store traffic in a sales-sucking undertow. It helps when your leadership can offer up something more convincing than: “It’s hard to explain the dynamic.” See more on retail’s digital Darwinism in my piece, Dunnhumby on retail’s winners and losers.
+
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+SAS Global Forum 2018 – an initial take – Angelica on a vendor determined to stand out in a crowded analytics market: “Once again we hear SAS talking price but does its premium position give it enough wiggle room to continue successfully arguing the ‘value’ story? One answer lies in what the company prevents by way of fraud in the banking arena. But even today, I’d argue SAS needs to get better at the predictive part of that equation.”
+Citrix CTO Christian Reilly on cloud migration and ‘life after icons’ – Citrix has been around the block, but as Phil reports, don’t overlook their hybrid reinvention: “Citrix, therefore, is adjusting to a hybrid computing landscape that combines on-premise, mobile, SaaS and even conversational computing, presenting functions and information in the format that’s most convenient and relevant to the user’s context. In such a world, its role is to deliver a secure digital workspace across a wide variety of user experiences.”
+Your performance evaluation courtesy of Siri – one more thing in the University of Minnesota Physicians’ Workday – Care for a “Sirious” Workday use case? Den’s use case mixes fresh tech with timeless lessons: “Put the end user at the center of the implementation and not as an afterthought. Early involvement and buy-in are essential to success. That means making sure HR is a servant of the business and not the other way around.”
+
+A few more vendor picks, without the quips:
+
+Tibco talks re-intermediation and the Algorithm Economy – Martin
+Event musings – Oracle Modern Customer Experience Chicago  – Denis
+Zinc loops in deskless workers with a hook into ServiceMax – Phil
+
+Jon’s grab bag – Stuart checks in on Netflix, feeling rightfully smug over its massive international growth and insistence on a subscription model: Netflix CEO – no danger over data, Will Robinson, we’re not like other tech firms. I’ve got a little something for Netflix in the whiffs section though… Maybe you’re sick of Zuck but it was nonetheless a big week for faux regulatory pantomimes congressional testimony.  Stuart’s on it: Zuckerberg v Congress – how to waste four minutes of your life and miss the point.
+Den finds a way to shoehorn social media BS overdose tie Facebook into something enterprise buyers should actually care about in Buyers beware, the consultants are coming post-Facebook grilling on Capitol Hill. Gist: FUD consultant warning.
+We don’t cover gaming much on diginomica, but as Jess writes, this is really a data game like everything else: Games producer Kinag uses Looker to crush it on playtest analysis and the next level. Finally, if you want curation tips/warnings and more ways to track the enterprise, check my latest The fall of Digg Deeper and the struggle for intelligent news push notifications.
+Best of the rest
+No feature pick this time, but here’s some pieces worth noting:
+
+Microsoft gives up artificial intelligence sales over ethical concerns – I wouldn’t call this a shocking story, but it’s a reminder we are swimming in uncharted waters. Microsoft might walk away from a disturbing facial recognition project, but not everyone will.
+Retraining and reskilling to ease the strain of automation – scratches the surface, but to be fair, McKinsey & Company has a nice resource library on this topic, well beyond this article.
+What’s Missing From Gartner’s 2018 Magic Quadrant For CPQ – I see plenty of Gartner critiques, but few with this type of precision. Louis Columbus bears down: “The 2018 Magic Quadrant for Configure, Price, and Quote (CPQ) Application Suites doesn’t reflect the need for a more enterprise-wide integration across ERP, PLM and CRM systems and the need for vendors to intensify their efforts to innovate.”
+Critical Selling Skill – Learning (and Sharing) How Customers Buy – Speaking of Gartner, Hank Barnes has more short-form tough love on how to be relevant to customers.
+Five Questions for Cloudera – RedMonk’s Stephen O’Grady bears down on Cloudera at an interesting time, via an analyst day that took place soon after Cloudera took a sizeable stock market hit. O’Grady probes the transition with this zinger: “Is Cloudera a data warehousing company, an analytical database company, an operational database company, a data science company, or a machine learning company? The answer, depending on which Clouderan you talk to, is yes.”
+Why Facebook Will Never Fully Solve Its Problems With AI – Because some problems require humans to solve, and Facebook’s humans love their inscrutable black boxes: “Proposing AI as the solution leaves a very long time period where the issue is not being addressed.” But it’s a great way to kick the next-gen can down the road.
+Zillow, Aggregation, and Integration – A think piece on an intriguing market play, as Zillow moves into real estate buying and selling.
+
+Whiffs
+So that went well:
+
+IRS online payment systems crash on Tax Day https://t.co/7NuzANSK1H -> no big deal lolz
+— Jon Reed (@jonerp) April 17, 2018
+But compared to dabbling with Bitcoin ICOs, the IRS is a breeze:
+
+Vietnamese ICO scammers disappear with $660 million https://t.co/fvzmAXWItB -> another day, another bitcoin swindle
+— Jon Reed (@jonerp) April 16, 2018
+Starbucks has come a long way from an epically ill-conceived attempt to foster a dialogue about race to showing they have no business attempting such a dialogue in the first place. Josh Bernoff has that covered in Starbucks’ ambivalent apology for calling the Philadelphia police on two black guys.
+I had some fun with LinkedIn’s obsession with thought leadership (warning users if that skill isn’t on their profile):
+
+hopefully @LinkedIn will add “Pontificator” as a skill soon so most of the “thought leaders” can fix their profiles. https://t.co/ElSkalC6NR
+— Jon Reed (@jonerp) April 17, 2018
+Oh, and about Netflix, I think this tweet says it all:
+
+Add @Netflix to the industry darlings where you better hope you don’t have tech issues (e.g. a long-running list display issue). As per their own customer service:
+“There is currently no way for us to take feedback nor do we have direct contact with engineering.” -> WOW #fail
+— Jon Reed (@jonerp) April 15, 2018
+Finally, Elon Musk took a break from Mars colonization to attempt to fix his own factories: Elon Musk replaces robots at Tesla factory: ‘Humans are underrated’. Musk isn’t alone here. Recently, Phil Fersht of HfS blasted Gartner for flipping from robot overlords fear-mongering guesses viral marketing predictions to robots-are-job-creators “predictions.”
+Alas, the media coverage is more about taking delight in Musk’s woes than reckoning with the pros and cons of automation, which is hardly a failure. It’s inevitable – the only question is which types of robots we’ll be working with. See you next time…
+ If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Winter Sports © lassedesignen - Fotolia.com - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and missesIoT robotics and AIMachine intelligence and AIRobotics 

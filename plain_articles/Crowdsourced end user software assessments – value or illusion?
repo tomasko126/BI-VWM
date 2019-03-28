@@ -1,0 +1,35 @@
+
+Salesforce is a pioneer of the ‘land and expand’ model of incrementally selling software inside the enterprise. They achieved this by developing a salesforce automation solution that people wanted to use more than Siebel or SAP. They coupled this with a model that allowed users to buy a service using their credit card. In short, Salesforce provided users with an easy way to both consume and use software as an alternative to having software imposed upon them. The bones of that model quickly became the foundation of many other offerings.
+Xero talks about ‘beautiful accounting,’ Certify talks about ‘travel and expense made easy,’ Tableau talks about ‘business analytics anyone can use.’ The list goes on. They all share the common thought that enterprise software doesn’t have to be hard to use. That in turn has allowed all such vendors to enjoy considerable success, often bypassing IT and creating armies of fans who love what they’re using.
+This puts the traditional model of software sales, where the economic buyer is rarely the end user on the back foot. Today, all software vendors know they need to create great user experiences if they are to maintain or build their positions. But does this shift mean that the end user is a potent force in the software assessment and acquisition process?
+If we are to believe the modern idiom then the answer would seem to be ‘yes.’ We are consistently told that the current generation of users, brought up on great consumer experiences, won’t tolerate software that’s clunky. The vendors mentioned above are all growing like weeds, sometimes at the expense of incumbents. Despite the claims, I have yet to see any compelling evidence that end users are the potent force suggested by others and especially in scenarios where IT gets its hands on the deals. Note – if anyone has access to compelling studies then I am all ears.
+Enter the crowdsourced review
+Even so, services like G2 Crowd and Trust Radius are taking advantage of the ‘end user as buyer’ trend to create a catalog of validated user opinions about many types of software. This is not a novel concept. There are plenty of review sites but many suffer from the same problem – gamed reviews that are difficult to assess as genuine or which are thin on important functional detail. G2Crowd partially overcomes this by relying on LinkedIn as the connecting glue. It argues that LinkedIn identities are real people and therefore capable of being relied upon as providing genuine opinion.
+G2Crowd augments this foundation with a rating system it compares with the Gartner Magic Quadrant but which is differentiated by the freshness and authenticity of the end user argument rather than than Gartner’s more proscriptive and subjective assessments.
+TrustRadius appears to take an approach that more closely resembles the aggregated view you’d expect to get from a Gartner or Forrester assessment but augments its reports with plenty of end user data. The core HR report for example includes 290 end user opinions that have the air of usefulness and authenticity. For example:
+If you are a smaller company (less than 100 employees) it [ADP] may actually be more than is necessary to get the job done effectively. If your organization has few non-exempt employees, or does not have tremendous reporting or date effective requirements that need to be tracked it might be more than you need.
+Are these views enough to help swing a decision?
+How it works
+The great strength of these software assessment services is that the opinions expressed are freely given. They’re not paid for and come from users that each service can validate as representative of real implementations. This is also a weakness because some of the assessments come via vendor provided customer references. As we know from many years’ past experience, vendors only put out their star customers, never those that have proven problematic.
+Even so and on the basis of having trawled a number of categories, it appears to me that there is a reasonable balance between good, bad and indifferent.
+However many of the positive reviews I have seen are a tad generic. Example:
+From my experience, Concur is a great tool for expense management. It’s simple and easy to use for people in the field and on the go with expenses. I’m not familiar with pricing of the platform itself, but as an end user I can say that I am very pleased that I am able to use a tool as intuitive and convenient as Concur is, it simply just makes my job easier.
+G2Crowd endeavors to solve this by asking users to provide four pieces of information:
+
+What do you like best?
+What do you dislike?
+Recommendations to others considering the product
+What business problems are you solving? What benefits have you realized?
+
+Answers I’ve seen appear genuine but at times haphazard and do not necessarily answer the question posed or are repetitive. In other cases, it is possible to discern patterns from similar answers to the same question from different reviewers. This detracts from the software assessment’s value.
+However, I did find some of the ranking peculiar, not for what they included but what was missing. I suspect this is because these kinds of service are relatively new and have yet to achieve a critical mass of reviewers and software vendors to fully cover specific categories.
+My take
+
+End user reviews have long been a missed element in the buying cycle and often absent in software assessments. The difficult or failed implementations I’ve seen over the years almost always include a significant element of user resistance. In extreme cases I’ve seen outright hostility at having a system imposed that doesn’t make sense in the context of the process problem being solved. This type of service fulfills a valuable purpose in surfacing the end user voice in a transparent manner.
+There can be no substitute for RFP assessment by an independent analyst or consultant who has experience across many softwares and industries. The individual user rarely has the insights necessary to make those types of choice. They do however have the insights needed when getting down to a bake off or when evaluating project risk.
+Right now, I see a lack of vendor response to some of the more strident criticisms as typical of all critique. The vendor community frequently demonstrates a position that assumes that no response is better than some response because it has the effect of silencing the critic or avoids the problem of slipping on a potentially embarrassing banana skin. These types of service make that position difficult to sustain. Put another way, if I see a string of adverse comments but no response then what does this tell me about the vendor’s willingness to address issues?
+These are early days and as such, these types of service suffer from a lack of enough data to be as useful as they will likely become over time. In short – take as another decision point but not THE decision point.
+
+Disclosure: Salesforce and SAP are premier partners at time of writing
+
+Read more on: CRM and customer experience 

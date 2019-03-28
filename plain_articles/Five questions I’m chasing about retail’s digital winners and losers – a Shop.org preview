@@ -1,0 +1,58 @@
+
+Seems like yesterday I was stomping through the Manhattan ice in search of retail transformation answers at NRF’s “Big Show.” Now, the fall event season is poised to take over from summer siestas.
+Soon I’ll have a chance to revisit my burning retail questions during a pit stop at Shop.org – NRF’s e-commerce focused event.
+I expect to add another demo video or two to my next-gen enterprise tech demo series – though it’s going to be hard for anyone to top Yi Tunnel’s self-checkout as it should be.
+Reading through retail maven Stuart Lauchlan’s latest diginomica missives, it’s clear that the retail apocalypse storyline is a false narrative. Here’s a much more effective question:
+Who’s winning in retail, and why?
+If we change that question to “Who’s winning in retail besides Amazon, Walmart, and niche luxury brands?,” the answers get even more interesting.
+Take Stuart’s Nordstrom gets digital dividend, as JC Penney bombs out – a tale of two retail omni-channel pushes. Nordstrom cites a year-on-year growth rate of 23% for online sales, which now accounts for more than a third of total revenues. But as Stuart notes, Nordstrom’s success is not just due to online sales. It’s the online/store mix:
+
+Like so many retailers today, Nordstrom sees the most beneficial operating model as being one that leverages its offline real estate as well as pushes into digital.
+
+Numbers prove the omni-channel case: customers that engage across online and stores spend five times more at Nordstrom, and their profitability doubles. That’s great for Nordstrom, but where did JC Penney go wrong? Stuart points the finger at moving demographic targets:
+
+The problem is that there’s a hideous level of volatility that gives the impression of an ever-moving goalpost. For example, after fixing its sights on the Holy Grail of the Millennial customer, it’s now been decided that it’s middle-aged moms that JC Penney is after.
+
+Contrast that with Nordstrom’s razor-sharp purpose: “to be the best fashion retailer in a digital world.” But I’ll have my work cut out for me at Shop.org. As Stuart warns, happy digital talk is cheap:
+
+JC Penney, under Ellison at least, has been the one to make the most noise about digital transformation, but it’s Nordstrom that’s quietly done the necessary spade work to make it happen.
+
+Will fresh retail data bring surprises?
+Another show highlight: crunching NRF’s latest retail data. Usually, there are some surprises (Throw out Generation Z stereotypes and make friends with Alexa – NRF retail market insights). At the Big Show, Generation Z’s buying behavior wasn’t what I expected. In a joint study with NRF, IBM interviewed 15,600 Generation Z member globally:
+
+98% of those surveyed they say they still want to buy in a store.
+
+But Generation Z is also mobile-savvy. More than any other generation, they expect retailers to interact with them on social channels. That puts the pressure on retailers to get the mobile and store experience synced. For Generation Z, it’s got to be fluid – and fast. Slow online shopping equals no online shopping – and back to Amazon they go. Perhaps even more interesting, Generation Z is having more impact on family spending:
+
+Brands that sell almost exclusively to Gen Z were telling us, “We’re targeting the grandparents; we’re targeting the parents.” The fact of the matter is that Gen Z has become a very profound impacter on parental spending.
+
+Data surprises make a trip to Vegas, my favorite American city (not), well worth it.
+How can we demystify retail transformation?
+It’s always good to delve into winning retail use cases, but it’s the ups and downs that need a closer look. Usually, the hard part is also the good part: making better use of retail data. (Example: How Aldo used Roambi to achieve 90 percent BI adoption – an NRF retail use case). Aldo was feeling that sales enablement pain. You can’t just give salespeople PDF data on their mobile and expect something good to happen:
+
+When you have an 85 page PDF report with thirty columns across and a thousand stores going down, it’s not very conducive. It’s not very supportive making any kind of decision.
+
+How did they get to a 90 percent adoption rate – almost unheard of in BI?
+
+I didn’t expect 90 percent adoption. And by 90 percent adoption I mean I have a CEO that uses this tool [constantly]. He logs in and visualizes dashboards three to four hundred times a month, which is pretty impressive.
+
+I’ll be on the lookout for fresh use case lessons in Vegas.
+Which next-gen tech is making the retail experience better – right now?
+We always get a heaping helping of next-gen tech at enterprise events. Whether it’s augmented reality shopping, or using AI to ease the hassles of body measurement and e-commerce, there’s always new tech to kick tires on. Fine – but what’s making a difference on the ground now?
+At NRF 2018, Salesforce issued an eye-popping customer example: the latest customer numbers from Rack Room Shoes and Off Broadway Shoe Warehouse, sporting an eye-popping 777 percent annual ROI “with integrated and engaging marketing campaigns with Salesforce Marketing Cloud.”
+What led to the gains? During a talk with Rack Room, I learned that a combination of personalization, automation, and better in-store integration made the impact:
+
+Now, with the additional use of Salesforce Marketing Cloud, and some of the automations Rack Room Shoes put into place, they can attribute more than 70 percent of their in-store sales to their rewards program – and it’s still climbing. That’s an encouraging omni-channel number. Baldt credits the gain to automation around rewards communication, earned rewards, expiring rewards, and points available to members.
+
+Alexa, should we start paying attention to voice yet?
+Instead of lumping voice UIs into next-gen tech, I reluctantly gave it the spotlight. We will inevitably hear a load of voice commerce hype at Shop.org. Voice has enough traction that long time CRM analyst Brent Leary now has a regular column solely focused on it (Voices Carry). One of Leary’s main pre-occupations is the voice commerce trend. In other words: are we there yet?
+In Mocking Amazon for low voice shopping numbers may end up looking silly, Leary warned us not to get too cynical about Amazon’s sluggish voice commerce numbers. Give Leary credit for serving himself up a big slice of voice commerce humble pie:
+Based on what we know today, I think those of us who bought into the “voice shopping era” probably deserves to be laughed at some. I think we read too much into the early and unexpected success of smart speakers.
+Leary remains optimistic voice commerce will have a significant role in some form. He’s not alone: at NRF, Capgemini warned that some brands are falling behind (Capgemini’s Warner on the AI voice imperative – brands are falling behind on conversational commerce). When I spoke with Capgemini’s Shannon Warner at NRF 2018, she doubled down. Citing stats from a recent Capgemini report, Warner said:
+I think what’s remarkable, given how nascent the technology is, is that nearly half of consumers are engaged with voice, and 35 percent have actually made a purchase via their smart speaker.
+She offered a checklist of advice for companies pursuing voice. Her bottom line: stop dabbling and invest. But don’t make the mistake of getting tied to a dedicated voice device approach. Voice ordering will be integrated with many smart appliances.
+Will anything at Shop.org to advance the voice commerce debate? We’ll find out soon enough. Obviously, I won’t be able to limit myself to just five questions. And: there is always a curve ball or two I didn’t anticipate. Soon, I’ll report back from Vegas. And if you’re going to be at Shop.org and want to meet up, drop me a line on LinkedIn.
+
+ 
+
+Image credit - Feature image - Comparative light bulb, by @patpitchaya - from Shutterstock.comDisclosure - SAP (which owns Roambi) and Salesforce are diginomica premier partners. Diginomica is a media partner of NRF and Shop.org.Read more on: Analytics planning and data analysisDigital enterprise in the real worlde-commerceMachine intelligence and AIRetail e-commerce and the omni-channel 

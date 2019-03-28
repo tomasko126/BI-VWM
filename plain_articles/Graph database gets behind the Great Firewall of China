@@ -1,0 +1,30 @@
+
+
+For many of the world’s biggest technology companies, especially operators of social networking sites, the ‘Great Firewall of China’ has proved an insurmountable obstacle to recruiting users in the world’s most populous nation.
+Facebook and Twitter are blocked. Many Chinese, in any case, are already happily using homegrown alternatives such as Baidu, Ren Ren, Sina Weibo and Youku Toudu (effectively clones of Google, Facebook, Twitter and YouTube, respectively.) 
+By contrast, investors in LinkedIn believe that much of the company’s future growth could rest on its success in China, a market into which it launched in 2014, following a number of concessions to the Chinese government. It has censored, for example, articles referencing the 1989 crackdown on Tiananmen Square protesters), attracting the criticism of human-rights advocates. 
+Seemingly unphased by the disapproval, LinkedIn CEO Jeff Weiner provided an update on the company’s progress in its first-quarter earnings call back in May, saying:
+
+China continues to be one of our fastest sources of member growth on a daily basis.
+
+LinkedIn’s user base in China, he said, has now surpassed 20 million. Once growth and engagement are at levels the company is satisfied with, the company will start to focus more on monetization. And that 20 million figure doesn’t include users of Chitu, a pure-play app for the Chinese market that the company launched last year. 
+Chitu is interesting because it’s squarely aimed at younger Chinese workers. It operates as a separate entity to LinkedIn China and is local to the Chinese market and in the local language, whereas LinkedIn China is geared mostly towards English-speaking international users looking to expand their professional network globally. 
+Of China’s 1.3 billion population, some 21% are under 30 – around 286 million. According to Bin Dong, manager of development at Chitu (which translates to ‘Red Rabbit’, the name of a celebrated war horse from the Han dynasty) around 30 million are just starting out in the workplace. So Chitu aims to bring this audience into the professional social-networking fold with a game-like user interface and opportunities for online meetings and networking events. Today, it has almost one million users, according to LinkedIn China – so there’s plenty of scope for growth. 
+But Chitu is not the first – or the only – professional networking tool available to that audience, so getting the app up and running quickly last year was crucial if it is to deliver on its hopes of capturing a sizeable chunk of the market. Says Bin Dong:
+
+The challenge prior to launch was speed. Due to the rate of growth we saw from our competitors in the Chinese market, we knew that we had to launch Chitu as quickly as possible.
+
+Graph
+When it came to choosing a database to underpin the service, the team at Chitu quickly realized that a relational database would never be able to reflect the complicated networks that would exist between users. It also explored NoSQL options, but soon came to the conclusion that a graph database was what it was looking for. That led it to the Neo4J graph database from Neo Technology. 
+
+Our graph database shows us all the links that exist between individual members, groups of members, the online events they attend via the service and the recruitment opportunities they’re interested in. All these relationships show up in Neo4J.
+We did look at other graph databases, but we felt they were too fresh in the market. They didn’t provide a trustable foundation for a production-ready implementation. So it didn’t take too much time to choose Neo4j, after we ruled out relational databases and MySQL.
+
+The team, he adds, were pleased to find a wealth of content online, including books and videos, to help them implement Neo4j, along with the help of the company’s customer support. A few days after being introduced to the database, they were able to start programming – and quickly saw how queries could be performed in record time. Ultimately, Chitu was able to launch the first version of its application in only four months. 
+In the future, the team plans to take advantage of additional functions of Neo4j – such as its ability to perform influencer calculations to identify the most active and respected users of the site – to grow its user base.
+What’s less clear, of course, is how Chitu (and LinkedIn China) will fare under the new ownership of Microsoft. As Forrester Research analyst Travis Wu recently told the Wall Street Journal:
+
+LinkedIn could somehow be hampered by that relationship. It was seen as independent [by the Chinese government], but now it’s part of a big machine and if the machine has issues with the government, it could affect them.
+
+For now, then, the race is on for Chitu to make a big success of its service – a success that could stand it in good stead if things get politically sticky further down the line. 
+Image credit - FreeImages.com/ChituRead more on: DevOps NoSQL and the open source stackDigital enterprise in the real worldInfrastructureSecurityUse cases 

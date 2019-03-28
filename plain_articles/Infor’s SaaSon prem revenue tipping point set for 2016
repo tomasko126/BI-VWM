@@ -1,0 +1,34 @@
+
+Charles Phillips, Infor
+Infor released some strong second quarter numbers late last week, with revenues of $708.4 million and boasting its largest quarterly deal to date.
+That allows CEO Charles Phillips to declare:
+Q2 was a strong quarter for Infor on many fronts.
+Certainly there are some impressive stats to show, including revenue growth across software, maintenance and consultancy, as well as 628 new customers across the quarter.
+Those customers included the City of Gold Coast in Queensland, Australia, a $30 million, ten year SaaS deal. That’s part of the wider overhaul of the city’s ICT through its Digital City strategy. Infor’s solutions will replace 42 existing systems – some of which are more than a quarter of a century old – supporting customer service, property management and revenue functions.
+Looking ahead, Phillips feels confident enough to make a bold claim that he argues can’t be matched by Oracle or SAP:
+About half of the pipeline looking forward is SaaS-based.
+That pipepline growth is in double digits, says Phillips, while the win rate is also up and higher on SaaS than it is on perpetual licences. This leads him to predict that the firm will cross over the 50% SaaS v on premise revenue split some time next year. That’s earlier than expected and:
+much faster than competitors who are in low single digit [growth] and will be for some time to come.
+He does add that it can be hard to predict the actual rates as customers do sometimes “change their minds in the late stages of deals” or “flip direction”. But the prevailaing trend is ultimately towards SaaS.
+A major competitive benefit, adds Phillips, is that unlike some competitors – and it’s pretty clear which one in particular is in the sights here – Infor isn’t trying to sell infrastructure – primarly on premise hardware and databases – to customers at the same time.
+Margins
+That SaaS/on premise tipping point should also be accompanied by “meaningful and material improvements” in SaaS margins over the next three years, predicts Phillips, as:
+more products become multi-tenant. It’s just a much more efficient way to run applications. You have mutiple customers sharing the same applications in separate instances, so the administration and the upgrading you do once for everybody, which improves margins as you move customers to that.
+Secondly, we are taking the database component out of many of the applications and replacing that with open source Postgres. When we do that, it means we don’t have to pay royalties to Oracle and Microsoft. The products are getting good enough to be able to use open source. We’re doing the same thing with Hadoop and RedShift, so that’s some good infrastructure stuff happening.
+Phillips adds:
+For a large ISV, we’re unique in doing this. It does take work and it hasn’t been easy. We’ve had to work with EnterpriseDB, which maintains Postgres. We’ve had them on retainer to add new features. These are complex applications attached to the database. We’ve had to add new features, but now we’re ready. The more we swap out the databases, the more it helps our margins.
+The firm is also benefiting from its strategic decision to use Amazon Web Services (AWS) as a platform. As Infor sees its SaaS footprint increasing and as more customers – and larger deals – come through, so the company’s clout with Amazon grows and the more it can drive economies of scale:
+We can commit to greater volumes and get lower pricing.
+From a competitive landscape perspective, Phillips repeats his argument that Infor is benefitng from an installed base of rival applications that are much older and whose users have been on the receiving end of maintenance rises to such an extent that their cost is now equivalent to cloud pricing, but for products that are not as modern or functionally up-to-date.
+He cites as an example the federal government market where the change turnover of applications is pretty low, but where agencies are still subject to maintenance increases. This makes public sector a lucrative target market, he adds, as:
+They’re looking for alternatives to Oracle and SAP.
+It’s a similar story in the retail space, suggests Phillips:
+There’s a huge opportunity. We have some of the best architects and business analysts who built retail applications in the past for other companies and who have reconsolidated here at Infor to build  for the next generation. Those applications were built in the 90s, or even the 80s. All of them are pre-e-commerce pre-mobile, pre-social. They don’t address the omni-channel challenge retailers have.
+Retail organizations are all under attack from Amazon and Walmart. They’re are looking to technology to enable them to compete. It’s a perfect storm. You have an industry under pressure and they think that technology is either causing that or is offering a solution to get out of it.
+We are building the next generation platform. No-one’s built one of those for years. We’re doing it all cloud-based, modern platform and using using science for planning.
+This is all about digital transformation for these companies. There’s a buzz going on around retail that’s going to be a bigger opportunity for us than people realise.
+My take
+The prospect of a SaaS/on prem revenue split tipping point coming next year will represent an exciting milestone for Infor as it continues what is undeniably a significant corporate transformation.
+The retail push in itself is clearly going to be a big deal in 2016, kicking off with a lot more detail coming out of the National Retail Federation show in New York next month. Much more to come on this journey next year.
+Disclosure – at time of writing,  Infor, Oracle and SAP are premier partners of diginomica. 
+Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceDigital and content marketinge-commerceHCM and the digital future of workSocial 

@@ -1,0 +1,42 @@
+
+Q: When is a smart car too smart?
+A: When it’s equipped with intelligent software designed to deceive government emissions tests.
+That’s the scandal Volkswagen is now caught up in, and the story has boiled quickly:
+
+Sept. 18 – The U.S. EPA sends an ominous certified letter (PDF) to Volkswagen documenting that Volkswagen used a “defeat device,” specifically designed to make certain diesel engines perform differently (run cleaner) when plugged into a government emissions test.
+Sept. 22 – Volkswagen acknowledges that 11 million diesel vehicles are equipped with software that could be used to cheat on emissions tests.
+Sept. 23 – Volkswagen CEO Martin Winterkorn resigns amidst the deepening scandal.
+
+The PR impact is bad; the financial impact is worse. Volkswagen has set aside a whopping 6.5 billion euros to bring the cars up to pollution standards. That’s half a year in profits. Yep – the stock price is in free fall. In the U.S., attorneys are already circling, no doubt assessing their class action options.
+But even as Volkswagen gets a well-earned media tarring and feathering, key questions are obscured:
+
+Is Volkswagen an exceptional case, or is emissions-dodging widely prevalent?
+Who was responsible for the coding, and how far up did the awareness/plan go?
+What precautions are necessary to protect consumers from the smart car hacking and manipulation?
+
+SAP Mentor Jim Spath did his due diligence before blogging his personal views in Feds Nab VW Smog Hack. I take Spath seriously on these matters given his attention to research detail and his prior career in environmental compliance.
+In his post, Spath mentions received public feedback alleging wider manipulations:
+There was an interesting thread on Twitter about the ethics of coding in this manner.  According to one source, this is a common practice in Germany (“all are faking and it’s legal here”).  Apparently the US EPA was not in that loop, and it took some dedicated emission testers to capture the scofflaws.
+In the reader comments to NPR’s Volkswagen Stock Plummets As CEO Apologizes For Emissions Cheat, similar sentiments were aired. Vox.com reports that the EPA caught several truck manufacturers, including Caterpillar and Volvo, doing a similar hack in 1998, by programming their diesel trucks to emit fewer pollutants in lab tests.
+As the Fiscal Times notes, the Environmental Protection Agency is also looking into wider implications:
+Gina McCarthy, administrator of the Environmental Protection Agency, which helped expose the scandal, warned on Tuesday that the scandal might eventually extend to other U.S. and European manufacturers of high-performance diesel-engine cars and trucks. “We have to be concerned about whether or not there are other defeat devices out there that we have not been able to detect,” McCarthy said.
+Ethical coding – how should software professionals react?
+In his post, Spath ponders the ethical implications for software developers and managers:
+I would be interested in seeing the comments in the code, not to mention the change control “chain of command” that pushed this code into production. Were software quality control inspectors aware of the hack? There are plenty of news stories, and opinions about this hack.  As a software developer, or as a manager, what is your responsibility if you find a situation that goes against public claims of social responsibility?
+With software being embedded into powerful machines, the ethical stakes rise. The financial stakes are higher as well. Can “smart cars” end up backfiring, eroding trust and sales? That’s the question raised by The Chicago Tribune in an editorial, Volkswagen and the decline of trust in auto manufacturers:
+There was a time when car shopping involved questions about price, performance and warranties. Maybe it’s time to update the list of questions:
+Do your vehicles accelerate unintentionally, as Toyota’s did?
+Do the ignition switches on your vehicles ever turn off suddenly while cruising on the highway, as GM’s did?
+Do your emissions systems evade federal law and secretly spew fumes, as Volkswagen’s did?
+The Tribune could have also asked: “Can your car be hacked and controlled remotely like (some) Chryslers can?”
+Taking action to keep smart cars from going stupid
+On the testing side, can we strengthen regulatory tests with intelligent software in mind? Vox described the issue:
+Part of the problem here is that regulators usually test these vehicles under laboratory conditions, placing them on giant treadmills and requiring them to do a series of maneuvers. Because this process is predictable, it’s easier to game. Combined with the fact that automakers are developing ever-more-elaborate software that can control and fine-tune engines, there are ample opportunities for fraud.
+European regulators are taking action. Beginning in 2017, regulators will require automakers to test cars on the road, not just in the laboratory. Sensible – though regulations will never solve such issues. Tougher laws may put the brakes on the most blatant schemes.
+The developer and engineering ethics need further discussion. I found a post from 2008 which advises engineers on the ethics of smart car design (gist: first, do no harm). That helps, though we need to go further if we want to provide developers with support for a potential whistleblowing situation.
+In a May story, Computerworld hit on this issue in in IoT and smart devices need ethical programmers, says Gartner. Frank Buytendijk of Gartner has defined five levels of ethical IoT/smart device programming, with recommendations for CIOs to consider.  That’s the kind of specifics we need, though the full detail sits behind Gartner’s paywall. I’ll revisit this once I get my greedy hands on that report.
+End note: Thanks to Jim Spath for alerting me to his post and also for his blog links that provided context.
+Image credit: Got Ethics Black Marker © Ivelin Radkov – Fotolia.com
+ 
+ 
+Read more on: Internet of Things 

@@ -1,0 +1,29 @@
+
+In one of the first opportunities to get an inside look at a business built on technology and data, I recently had an enjoyable conversation with Russell Foltz-Smith, VP data platform at TrueCar. He explained to me how the US car market works from the buyer’s perspective. It turns out that in many situations, the prospective buyer experiences a lot of frustration figuring out the final buy price of a new vehicle. This is for a variety of reasons but principally, buyers are not always aware of add-ons the dealer will likely handle rather than the factory.
+There is a fundamental disconnect between the buyer and dealer on multiple levels. Research TrueCar dug up serves to illustrate three facets of the problem: lack of transparency, poor or inconsistent retail experience and anxiety.
+Three issues of car buying experience per True Car
+TrueCar’s answer is to provide buyers with a tool that promises price certainty on both new and used cars. More than that, it also assesses whether prices offered represent excellent, fair or not so good value. The big idea is to get the buyer through the process as painlessly and quickly as possible. TrueCar positions this as a win-win for both dealers and buyers. How does this work?
+TrueCar price trend
+That depends in part on the type of car in which the buyer is interested. I learned for instance that the data tells TrueCar that the Ford F150 buyer is much more interested in customizing the heck out of their truck than say the Honda buyer. I also learned that it is a highly complex market. For example, the VIN number applied to each vehicle by each manufacturer means a different thing to each manufacturer. What’s more, every step in the supply chain, whether that is factory, port or dealer has a price impact.
+To give an indication of scale, Foltz-Smith shared some data points with me:
+We work with 139 affinity partners like USAA, CapitalOne. I take in 12,000 data sources everyday, some is incremental, some is complete replacement. We have around 720TB of data in motion at any one time from 10 years of data collection and about 11,000 dealers. In total, we have capacity for three petabytes of data.
+In summary:
+If you want to be the source of truth then you need to have a lot of mass. We touch many more consumers than transact. A change of vehicle has a meaningful impact on the buyer expectation, depending on when the news is delivered. The only way we can provide that is through an intelligent data platform.
+TrueCar on mobile
+What does this mean for TrueCar’s technology investments? The company claims that around 50% of traffic is coming from mobile. In common with other development organizations I have spoken to recently, TrueCar’s developers focus on making the mobile experience as simple as possible. Having given the app a spin, they have certainly made the mobile experience straightforward.
+The fact that TrueCar’s business model is underpinned by open source including Hortonworks Data Platform, HBase and Elasticsearch doesn’t mean it comes cheap. In 2014, the company expended $36.5 million or 17.6% of revenue on technology and development.
+How about the results? A cursory look at TrueCar’s financial reports provides the following operational details:
+
+Transaction revenue has grown from $64.7 million for the year ended 2012 to $189.3 million in 2014.
+Units transacted in 2014: 610,260
+Average monthly unique visitors in Q1 2015: 5.5 million
+
+In closing out our conversation I asked Foltz-Smith to characterize the way people buy cars in the US. He explained that for many younger people, the hassle of getting the correct price was enough of a barrier for them to put their hands up and ‘pay the pump price.’ It struck me that this disadvantages the buyer in the sense of not being in a position to negotiate on a fair playing field. Foltz-Smith responded by saying that with all the data points at TrueCar’s disposal, they can offer very high degrees of confidence in the prices quoted and that what they’re really doing is taking that negotiation hassle out of the equation.
+If you look at what we’re aiming for – get the customer in and out of the dealership as fast as possible but feeling good about the experience with a dealer in which they can trust, then why would they need to negotiate? They already know whether we believe the price they’re looking at is good value for the spec they want and they can easily see how it stacks up against other offerings at other dealerships.
+It’s a very fair point but one that left me feeling slightly deflated if only because I do like a deal. Regardless of my personal biases I did quip that the UK and Europe could do with something like this:
+We get this question a lot. Right now, we’re doing great in the US but even then we’re only touching four percent of the market. There’s a very long way to go here and much still to develop.
+Hmmm…
+Images via various TrueCar web properties.
+Disclosure: I met with TrueCar at Hadoop Summit for which Hortonworks covered most of my travel expense.
+
+Read more on: CRM and customer experienceFrictionless enterprise 

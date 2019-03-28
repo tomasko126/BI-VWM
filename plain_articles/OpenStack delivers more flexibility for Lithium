@@ -1,0 +1,39 @@
+
+There’s been a remarkable rise in the take-up of Open Stack, from its beginnings as a research project run by Rackspace and NASA to a platform that has been adopted by many companies across the globe.
+Yet, while the numbers are on the rise, it’s clear that much of the rise has been prompted by the take-up from telecoms companies and service providers, organizations that can devote a good deal of resources to implementing and maintaining OpenStack. The list of speakers at the recent OpenStack Summit bears this out: there are plenty of telcos and service providers ready to relay the OpenStack message, while enterprises are conspicuous by their absence.
+It’s noticeable that when the OpenStack Foundation announces its Super Users, organizations that have particularly shone in the adoption of the platform, telcos are once again to the fore.
+But this year, there was an addition to the shortlist: Lithium, the San Francisco-based company that offers a social media platform to help brands engage with their customers through a variety of social media services. Lithium opted for OpenStack to help support its growth and to become more flexible in its approach, an essential requirement for an organisation that needs to react quickly to changing circumstances.
+The decision to move to OpenStack was taken some years ago when it was clear that the company was set to outgrow its original set-up, says Joe Sandoval, director of cloud platform, Lithium Technologies:
+They’d be running bare metal, something that was not going to scale; it posed a definite challenge for provisioning.
+Lithium wanted to take advantage of some of the newer technologies that were available. explains Sandoval:
+With the emergence of cloud, we wanted to leverage public cloud and there were two choices as to which platform to adopt: CloudStack or OpenStack.
+We opted for OpenStack as there was a better community surrounding the technology, it meant we could learn from early adopters. The flexibility of the offering meant that we could consume what we wanted.
+The company has gone through three iterations of OpenStack, something that was necessary as the company has gone through a bit of a learning curve. At the start says Lachland Everson, Lithium’s cloud engineering lead:
+it was about getting developers’ feet wet. The first two instances were about getting used to the toolkit. It was with only marginal success as some apps are not cloud-native. We had to define what we were going to lift and shift.
+But having gone through the learning process of the first two iterations – and working out what worked and what didn’t – Lithium could turn to make the most of the platform. Given the company’s business was all about flexibility and responsiveness, it was all about using OpenStack. Everson says:
+It became how can we run our features? What would you need to make the cloud consumable? Our job is to make that cloud viable and out to the customer.
+Everson said that the shift to OpenStack coincided with the engineering change to a dev-ops team:
+It meant they were responsible for the apps and placing it in the infrastructure. Tooling and debugging all had to be rethought.
+More alarmingly for them, developers were given the pager to take home. As if often the case, with cloud implementations, he adds, the biggest challenge was cultural rather than technical.
+There was always the danger that this wouldn’t work out says Everson but the developers took to the culture quickly:
+They appreciated the vision – they believed in the dream that this would get the app out quicker. All the things they didn’t have with the bare metal.
+Cloud growth
+Cloud wasn’t a completely new venture for the company, he adds:
+A group had already used AWS and it was very important to leverage AWS – public cloud plays an important part for us.
+He says that the use of Amazon had given the company options as customer can call on public cloud resources that are closer to where their users are based: it means that some apps are housed in company data centers and some in public cloud.
+But there was a need to take this a stage further and bring in real flexibility so it didn’t matter where resources were housed.
+As part of its product range, Lithium offers a SaaS-based toolkit that allows its customers to manage their campaigns more effectively. Social as a Service helps to analyse the level of social interaction ensuring that customers’ money is spent more effectively. OpenStack plays its part in this.
+The customization means that ROI can be measured more accurately, but the real kicker is when it’s combined with container technology. Everson explains:
+We saw container technology mature: Docker had hit a sweet spot and then set expectations.”
+The company has taken this on board and is incorporating Docker and Kubetes, Google’s container orchestration product in a platform that has improved the delivery process and ensured greater flexibility – as well as being able to scale better.
+Kubetes is important to the process, providing a scheduler across the private and public clouds. It works across both environments, says Everson. Adding that it has made a real difference to the service the company provides, he says:
+ Our paying customers are seeing features that we promised on our products.
+The introduction of Docker has meant that there are much better response times for its customers, says Sandoval, meaning the firm can “really hit our SLAs”. However, he adds, there are more areas to explore.
+I’m interested in how we can mix workloads and how we can prioritise them.
+One of the sticking points for some potential customers of OpenStack is the regularity with which the OpenStack Foundation releases product upgrades. The six month cycle can be daunting for some users, with many choosing to skip a release or two.
+Everson says that currently the company is using the Icehouse release of OpenStack but adds:
+We’re looking to upgrade to Kilo – this will mean that things we’ve had to tool around, we can now get out the box.
+We’re really excited about Liberty: the product is maturing, the community is drawing together and producing a product of quality.
+My take
+Lithium has shown there is a place for OpenStack within an enterprise. But it’s not always going to be an easy path: Sandoval and Everson are clearly great enthusiasts for the technology and lead a skill and dedicated team of techies. The oft-repeated user concerns that there’s a steep learning curve for OpenStack won’t go away, but with the right kind of support, the technology can bring real flexibility to businesses.
+Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureCRM and customer experienceDevOps NoSQL and the open source stackSocial 

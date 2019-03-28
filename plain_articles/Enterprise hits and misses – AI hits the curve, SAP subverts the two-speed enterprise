@@ -1,0 +1,78 @@
+
+Lead story – AI may not be intelligent, but it has its use (cases) – stories by Kurt Marko, Madeline Bennett, and Jessica Twentyman
+myPOV: we’re taking a two pronged stance towards “AI” at diginomica: on the one hand, we’re puncturing AI hype balloons wherever we can. On the other, we’re documenting use cases where a focused/realistic approach to AI is paying off.
+This week, in the balloons-better-run corner, I give you Kurt Marko. In AI today and tomorrow is mostly about curve fitting, not intelligence, he concedes the AI term but not the fight for meaning:
+Although I frequently use the term AI, it’s always with reluctance and out of convention and not conviction.
+The question is how “intelligent” machines are right now. Marko:
+While I regularly chronicle the impressive applications of today’s ML and deep learning software, I’ve recognized that it is a stretch to call it ‘intelligent’. Perhaps ‘adaptive’ and ‘self-optimizing’ are better terms. Even these come with caveats since the models require extensive human tuning of parameters and structure, as I’ve discussed here and here.
+Meantime, there’s nifty AI use cases to consider. Cath does a health check in AI iPad tech to transform dementia detection. A five-minute Integrated Cognitive Assessment (ICA) tool uses “AI” to identify the earliest dementia signs. Jess takes a fresh look at recruitment in HR GO recruits AI in its search for more engaged job candidates (using “evolution algorithms” to help convert more web visitors into job applicants).
+Kurt has done his fair share of AI use case research on these pages, so he too sees the possibilities. But his warning goes beyond AI’s limitations:
+The technology industry writ large needs to have a collective epiphany regarding the state of AI technology.
+Turns out causality is something that flawed humans, who can’t beat machines in Go or chess, are pretty darn good at…
+Diginomica picks – my top three stories on diginomica this week
+
+Every time we think we understand our customers, they change – retail’s digital dilemma – Madeline contrasts two customers that are pushing through digital pains that earning the customer relationship entails.
+Robert Rose talks about the struggles of content marketing today – Unlike most content marketing wonks magicians carnival barkers “gurus”, Robert Rose actually works with huge companies. That makes him worth a listen, as Barb does in her article and bonus podcast.
+Handicapping the enterprise software vendor CEOs – There’s been a boatload of CEO turnovers in the enterprise. Brian’s got your back with portable BS detector for CEO styles – and the handicaps and kryptonite of each.
+
+Vendor analysis, diginomica style.
+Sapphire Now reviews, round one – As I write, we’re in the middle stage of Sapphire Now, processing a meaty but complicated keynote. Here’s a few pieces to wet your event whistle:
+
+Sapphire Now 2018 – the don’t be creepy keynote – Den gives his peanut gallery Paris perspective on the Sapphire Now keynotes, which are informed by the numerous pre-conference briefings we attended, as well as his gut reaction to a keynote that was a strange combo of very-well-reasoned tech talk/roadmaps, frenzied pseudo-excitement, and “reinventing CRM” bar-raising braggadacio, upon which SAP must now deliver.
+SAP turns tables on Salesforce with blueprint for end-to-end connected enterprise – Phil chased down post-keynote reveals in his contrast to Den’s take, unloading this classic: “If anyone was still under any illusions about the death of the two-speed enterprise once popularized by Gartner, today SAP hammered a wooden stake into its corpse.“
+Sapphire Now 2018 – SAP’s legacy licensing bows to an XaaS world – Phil gives his take on SAP’s new document-based licensing model that we have been debating with SAP up until Sapphire Now.
+SAP startups, SAP.io style – spotlight on women-led initiatives – Before Sapphire Now, I got face to face with some upstart companies intent on disrupting the fashion industry.
+Sapphire Now 2018 – a multi-faceted preview – Den’s detailed preview holds SAP to account for the issues it must address.
+
+Lots more coming as we dig in. Here’s my other top choices from our vendor coverage:
+
+Insurance giant Aflac transforms people and systems to pay claims in just one day – Derek’s first use case from the Pegaystems event in Vegas shows the payoff/challenges of automation: “Aflac is deploying Pegasystems to support this transformation and is making use of its robotics and automation capabilities to reduce manual steps that relied heavily on paper and spreadsheets. However, Davis explained that the insurance industry in general has been slow to catch up…“
+Workday’s Bhusri points to Aon milestone as fiscal 2019 gets off to a strong start – Stuart on Workday’s practical earnings tone: “It’s a very positive aspect of Workday’s corporate DNA that there’s a reluctance to jump on the hype bandwagon and instead a pragmatic disposition to proceed steadily with deliverable product and demonstrable proof points.”
+Coupa delivers on customer exemplars to redefine Spend Management – Speaking of practical, Stuart sees Coupa on the same push: “Short on hype, long on strong use case proof points – a strong start to fiscal 2019 for Coupa.”
+
+A few more vendor picks, without the quotables:
+
+Zuora CEO flushed as even porta potties move to the Subscription Economy – Stuart
+How ClearCaptions conquered data obstacles to bring help to the hearing impaired – Jon
+
+We also welcomed IQMS to the diginomica partner fold – they’ll reveal field lessons on connected manufacturing on these pages, or as I like to think of it: a practical take on industry 4.0.
+Jon’s grab bag – If you fail Den’s GDPR scratch-n-sniff thorough evaluation, you’re going to get written up: In a post-GDPR world, Fin shows how to flub compliance. Speaking of GDPR padded cell recovery programs, you may get a few tips and tricks from my mix of coping and curation: More fun with email filters, from GDPR sanity to smarter enterprise news alerts.
+Oh and research buffs and deep divers will dig our new site search. Den has the update: We haz new search courtesy of Algolia. (Yes, “haz” is a highly technical term used by algorithmic search buffs).
+Best of the rest
+ Lead story – The cost of developers (Microsoft acquires Github) by Ben Thompson
+myPOV: Thompson hits two themes in his Microsoft – Github analysis:
+
+Developers are expensive, huh?
+Why?
+
+It’s the second point that justifies the word count. Thompson’s take on the eye-watering purchase price: it’s not about money, it’s about platforms, and platforms need developers:
+Again, though, GitHub revenue is not the point; Microsoft has plenty of revenue. What it also has is a potentially fatal weakness: no platform with user-based leverage. Instead, Microsoft is betting that a future of open-source, cloud-based applications that exist independent of platforms will be a large-and-increasing share of the future, and that there is room in that future for a company to win by offering a superior user experience for developers directly, not simply exerting leverage on them. [Emphasis mine]
+And that, folks, is why developers are expensive.
+Other standouts:
+Things I’d Like to See Go Away – Trust Destroying Claims – Gartner’s Hank Barnes had a bit more wood to clear off the ol’ analyst shoulder after all. He exposes terrible trust-busting approaches like this one, which I got just a couple of days ago:
+“After reading your LinkedIn Profile..” – when the next parts of the message clearly show you haven’t”
+
+Signals to the customer: Another e-mail to ignore (or use as fodder for #FridayFails)
+
+Barnes counsels a lesson in brand positioning; I worry that it’s too easy to pull a bottom-feeding spray-and-pray fishing expedition online.
+Honorable mention 
+
+Alexa, what will customer service look like in 2025? Brent Leary continues his series on the impact of voice tech: “This time by 2025, people may be asking you why your customer service isn’t as easy as asking Alexa…or Siri or GA.”
+Food for Thought When Considering SAP’s New Document-Based Model – UpperEdge did an exhaustive series of pre-Sapphire blogs. This is my pick of the litter.
+What Can We Learn from the Ransomware Attack on Atlanta? – The New Stack asks: “Are we ready for the next time?”
+As Uber and Tesla struggle with driverless cars, Waymo moves forward – Tragically, the bump in the road for driverless cars turned out to be a human being. But, tech presses on.
+
+Whiffs
+So… not my happiest news day:
+
+“FBI: Kindly Reboot Your Router Now, Please” https://t.co/aCgaBobYRf -> my router is on this list… good times
+— Jon Reed (@jonerp) May 29, 2018
+Don’t you love it when a helpful article like this goes on to say, “if you want to be fully protected, do a factory reset,” as if doing a factory reset of your router is like grabbing a dark roast at Starbucks? Intuit topped that, however, with the “you have one day to upgrade your operating system or Quickbooks won’t work anymore” love letter:
+
+I can clear this up for you, Jon. The current TLS notice is set for June 30th. You can here is an article with more information, here: https://t.co/085If6LNbf. ^ES
+— QuickBooksCares (@QBCares) May 29, 2018
+Clear as mud – you’re off by thirty days, at least when it comes to your own software. But hey, what’s an all nighter upgrading system software amongst friends? What was Brent Leary saying about bring-on-the-tech-support-machines? I’d rather interact with a bot that doesn’t care than a human that cares… about getting me to go away. On the note, I am gonna go away – for a few hours. See you next time.
+ If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, IQMS and Salesforce are diginomica premier partners as of this writing.
+Read more on: Hits and missesIoT robotics and AIMachine intelligence and AIOpen source 

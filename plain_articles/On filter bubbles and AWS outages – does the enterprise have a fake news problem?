@@ -1,0 +1,59 @@
+
+I watch Mark Zuckerberg’s skirmish with fake news with car wreck fascination. At first, fake news was his Bigfoot – odd sightings, accompanied with plenty of denials. But when Bigfoot walks into your living room and threatens your livelihood, things get real.
+Thus we have Zuckerberg’s recent 6,000-word mega-treatise on the problem of fake news on Facebook and how he intends to overcome it. Zuckerberg’s neo-globalism is too colonial for my tastes; I like to imagine a world where Zuckerberg’s voice is an afterthought. Still, I’ll call this progress – I like Zuckerberg better when he’s underconfident and overwrought. You might enjoy Josh Bernoff’s takedown, Mark Zuckerberg on Facebook’s future: the spirit is willing, but the algorithm is weak.
+Of course, there would be no fake news problem without a critical thinking problem. A savvy news consumer would reject fake news at first whiff. But alas, in our democracy such skills are at a low: Students Have ‘Dismaying’ Inability To Tell Fake News From Real, Study Finds.
+Does the enterprise have a fake news problem?
+I find enterprise readers usually have pretty decent BS detectors. However, enterprise folks are very busy people. Shuffling between meetings and tarmacs, they often rely on whatever surfaces on their email, or in their social streams. No – enterprise readers don’t tend to fall for totally fake stories. But these forces prevent clarity:
+
+Financially funded or vendor-biased stories tend to get disproportionate exposure on social networks.
+Lack of disclosure can obscure the financial ties between “research” reports and media coverage.
+Wall Street regularly misunderstands enterprise software, causing fluctuations that are not accurate to the long term health of the vendor. See Den’s Workday Q4 FY2017 crushed it but the market fails to understand change in disclosure metrics for a recent example.
+Fast-moving stories, such as yesterday’s AWS outage, can be obscured by uncooperative vendors or social network hysteria.
+The big tech news outlets are primarily chasing eyeballs/ad revenues, and therefore cater to what you are most likely to click on – which is not necessarily the most accurate info. The same outlets are in a rush to get their story up first for search/sharing reasons. That can cause skimpy research and careless omissions.
+
+What are the enterprise consequences?
+So this is not quite a fake news problem; it’s the danger of slanted, biased, or incomplete coverage. In a democracy, one potential consequence of fake news is electing a questionable politician. The enterprise stakes are different. Misunderstanding enterprise data causes a range of problems, from inconvenient to career-altering:
+
+Time wasted during a hectic day, sidetracked by inaccurate info.
+Misunderstandings or distrust between vendor and customer due to sensationalized stories and lack of open dialogue.
+Projects extended or derailed to poor choices in vendors/partners, or lack of industry context.
+
+I’d call those stakes high enough to take action on. But before we do, we must reckon with the evil frat brother of fake news: the filter bubble. Filters can be our friend, sorting huge streams of data and surfacing what matters. The “bubble” comes in when filters become insular, presenting us with a limited view to which we grow accustomed.
+Zuckerberg is aware of Facebook’s filter bubble, and how its algorithms are trained to serve up what we want to see – not what will challenge us the most. What to do about that, without abandoning his glorious algorithms, is where Zuck gets stuck.
+Companies can become filter bubbles when too much corporate Koolaid is consumed. Filter bubbles can apply to human networks, technology, and culture. Routines make all of us insular; we lose the jolt of fresh perspectives.
+Four ways to build an enterprise BS detector
+So how do we become the opposite of insular? How do build a top grade BS detector? How do we achieve the “informed community” Zuckerberg claims to aspire to? I’ll share a bunch of resources on detecting fake news below. But here are my big four for enterprise readers:
+
+Never trust a single source on any issue exclusively – build an information network that cross-checks itself.
+Build a network of advisors across companies and roles – befriend your peers, subject matter experts, industry analysts – seek out those who challenge your views. Avoid people who defer to you because they want a piece of your time or budget. Find those who tell you what you don’t want to hear.
+Seek out communities with diverse constituents who debate issues openly. – judge the health of your enterprise community by the respect given to dissenting views. Too many brand communities are cheerleading competitions with do-gooders preening for reward points. You need to hear the underbelly of what’s not working – yet.
+Wherever possible, engage external voices on projects, particularly independent advisors and auditors. Here’s my diginomica series on why independent advisors to enterprise projects.
+
+To combat vendor hype and superficial media treatments, revisit my list above about disclosures and slanted stories. Be wary of crusty narratives about legacy vendors becoming irrelevant or cloud darlings that can do no wrong. Our brains latch onto themes: “This vendor is getting crushed by Wall Street,” “This vendor is kicking those legacy vendor’s asses.”
+The truth is always about industry fit and nuance. Customer stories with ROI benefits are a terrific antidote to overhype – diginomica’s own use case library is one resource for you there. There is no substitute for on-the-ground events. Cast a wide net to spark your thinking.
+Some quick real world examples
+The AWS outage – looking for verification and context
+Today’s massive AWS outage started like a subtle disturbance in the force – a sluggish response, or brief outage in a service we count on. But a quick trip to the AWS status page indicated nothing wrong. Twitter can be ideal in such moments, if used with caution.
+In my case, my trusty newsreader Newsblur was suddenly down. The team behind Newsblur is religious about uptime; the service is almost never down for more than two minutes. When two minutes led to ten, I headed to Newsblur’s Twitter account, where I learned from this convo:
+
+At this point, I’m at a crossroads. If this were a local emergency, for example, a lower Internet outage or tornado, I would have ventured to search.twitter.com and activated a real-time search on “Springfield and tornados,” or “Comcast and outage,” to see if I could confirm more info in real time. I would also do that in an unfolding national emergency, where Twitter can surface voices/citizen journalists on the ground. The caution: Twitter can get swept up in herd thinking (Twitter shaming, the social mob, and why enterprises should care)
+But in this case, I’ve found out what I need to know from Twitter. I’m now more interested in deeper coverage. Google News search is my next step. I started with AWS outage – nothing yet. (I could scroll to the bottom of the page and set up an alert on that search phrase if I wanted to). I gave “AWS” a try, but nothing relevant there yet either. Five minutes later I gave “AWS outage” another shot, and this story popped up: AWS is investigating S3 issues, affecting Quora, Slack, Trello. By now, Amazon had updated their status page with an innocuous message about “increased error rates”:
+We are investigating increased error rates for Amazon S3 requests in the US-EAST-1 Region,” AWS said at the top of its status page.
+I pushed away for a few and did other projects not affected by the outage. Not long after that, Google News was serving up more stories. By the time the Tech Crunch story hit, I was mocking Amazon on Twitter for downplaying what was clearly an outage, not some spin-jobbed “error rate”:
+
+Pathetic. Amazon suffering massive AWS outage and talking about “increased error rates”. https://t.co/bTlBem3jTN -> From The Register pic.twitter.com/u3yyEh3RNw
+— Jon Reed (@jonerp) February 28, 2017
+This was enough context for me, and for many – don’t expect to be too productive for the rest of the day, and avoid crashed services. Others may have needed deeper info. The big picture is everything: no need to pester Newsblur or Slack, or worry about why Amazon songs won’t download. This was clearly a big outage that would take hours to address.
+Cloudbleed – drop overything to change your passwords? 
+The so-called “Cloudbleed” security leak offers another example. Wired went with the “change your passwords” headline. Well, most of us don’t have time to change all our passwords every time there is a breach somewhere, and Wired darned well knows that. Moreover, when you read about this bug, while it’s concerning, it’s not the same as a vicious hack targeting certain data. I changed no passwords. But then I got this update from Buzzfeed: Here Are The Passwords You Should Change Immediately. (Fitbit, Uber, OkCupid, Medium, and Yelp). Much more sober/helpful – I changed Uber and OkCupid of course.
+Tableau – what a difference a year makes
+We still get traffic from Den’s analysis from a year ago, What the heck happened at Tableau? It gruesome. Hopefully those readers also search our archives for notable updates, in particular Stuart’s One year on for Tableau and the analysis is not so gruesome. A deeper look at Stuart’s piece shows there’s plenty still to monitor, including a CEO still three months into their tenure. Of course, if it’s a buyer thinking hard about joining the Tableau community, they’d probably prefer to go beyond articles and talk to one of us directly, or another trusted source. But the context from multiple articles helps. A search of our Tableau coverage offers a range of views and use cases, and we’re hardly the only site worth checking on this.
+Final thought – and fake news resources
+The media deluge continues to challenge our ability to make informed decisions. The health of our enterprise careers demands we push through this noise. I hope this article presents a starting point for a more enjoyable – and discerning – reading experience for you.
+I’ll close with a few of my fave picks on identifying fake news:
+Fake News Or Real? How To Self-Check The News And Get The Facts – concise and practical.
+How to Spot Fake News – Gets into deeper issues like bias, and how to question your own.
+How to Spot and Debunk Fake News – Includes visual examples and fact-checking tools.
+What’s Real about Fake News – From blogging curmudgeon “I, Cringely,” with good stuff on trust and transparency.
+How I Detect Fake News – An election-era classic from Tim O’Reilly.
+Image credit - Fake or real, Boy on grunge background © MichaelJBerlin - Fotolia.com.Disclosure - Workday is a diginomica premier partner.Read more on: Analytics planning and data analysisCollaboration sharing and digital productivityContent marketingSocial 

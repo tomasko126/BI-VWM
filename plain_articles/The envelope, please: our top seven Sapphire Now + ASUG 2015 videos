@@ -1,0 +1,50 @@
+
+At Sapphire Now and ASUG 2015, Den Howlett and I had our full video set in tow. All told, we shot 16 videos, including loads of customers, a few talking heads (but no empty suits!), a couple of pundits and yes, a few young students who grilled Den and grilled him good.
+You can see our full Sapphire Now playlist on YouTube, including a few recently released. But my job here is a tougher one: I’ve tasked myself with picking the top seven shoots from the bunch. Since there’s no objective way to do that, I said the heck with objectivity, and picked seven that give a flavor for the event.
+In no particular order, my top seven, with a quotable from each and a quick note on why I selected them.
+1. The NHL’s HANA stats engine
+Host: Jon
+
+Quotage: “With stats, it’s a lot of tables, it’s a lot of columns. We want to build on that and make it much more approachable and allow fans to be able to do a deep dive through whatever they want. That was a big element to it: level of interactivity.”  – Chris Foster, NHL
+Criteria: This video almost descended into a sports bar conversation about the woes of my local hockey team (the Boston Bruins), but I gathered myself and we proceeded to get into the latest HANA sports stats project. I enjoy these non-ERP HANA use cases, which help to shed light on new use cases, in this case to use deeper/faster data to enhance the customer experience of the super fan.
+2. Sutter Health talks data innovation
+Host: Jon
+
+Quotage: “A data conversation is not just a technology conversation. It’s really a people/process/technology conversation. How do we empower our consumers of data to be more pro-active, and be able to use that information for their operational and clinical use cases?. It required us to say, ‘Data is not about looking backwards, data is about looking forward and looking in the now.'” – Vijay Venkatesan, Sutter Health
+Criteria: Refreshing to hear talk about the cultural changes invoked by a new approach to data and analytics.  Plus: an early shoutout to Seymour the (enthusiastic) plant, who appeared on every shoot.
+3. Customer Engagement a 9 year old can get – from SAP
+Host: Den
+
+Quotage: “It’s completely a public cloud solution. Very elastic. It can scale up and down. It’s built on HANA cloud platform, but with a persistency layer, where I’m analyzing and transacting on the same persistency layer. I as a user, when I’m transacting, I can see in context – reports, dashboards, or data that I need to do to actually make my decisions or take next steps on it.” – Nayaki Nayyar, SAP
+Criteria: Amidst a show arguably short on big news, an underestimated story was SAP’s release of its $29 a month customer engagement app. Smartly avoiding an attempt to pronounce Nayyar’s last name, Den got Nayyar’s insight on how (and why) this solution was developed.
+4. Harald Reiter of Infosys on HANA migrations with Panaya
+Host: Jon
+
+Quotage: “This is part of the New/Renew strategy, where we apply a high level of automation to really de-risk the project of upgrading your ERP System to Enhancement Pack 7. Then, maybe at the same time, moving it over to S/4 HANA… So far, wherever we propose Panaya as part of an S/4 HANA migration, it goes very well.” – Harald Reiter, Infosys
+Criteria: We’ve had Harald in the chair before, he’s what you’d call a “usual suspect”, but never as an Infosys employee (running their HANA practice). I wanted to find out why he moved to Infosys (hint: Vishal Sikka can be very persuasive), and how the Panaya acquisition is impacting their HANA practice. Plug: the use of third party test automation solutions is a best practice I strongly recommend in my SAP HANA business case series.
+5. What do students think of Sapphire Now?
+Host: Den
+
+Quotage: “One more question! If you could create anything in the world, what would it be? And why?” – Lynn (student), posing question to Den
+Criteria: This is the best shoot of the conference, and it’s not close. The students were open about their own struggles making sense of business and SAP. Then they hit Den with a series of very revealing and interesting questions. In the video biz, we call this kind of encounter “gold.” It’s the reason we film.
+6. Jonathan Becher, CDO SAP, on digital
+Host: Jon
+
+Quotage: “If I enable you to buy something from SAP, at a price you can personally afford. Twenty dollars a month, ten dollars a month, thirty a month. My promise to the CIO is: it uses the same enterprise architecture, the same security, etc. In fact, if you work for a large company, hundreds of Jon Reed’s can buy it for their own individual use. I’ll track it for the CIO. At some point I can go to them, “May be you want to buy the enterprise version of it now.”  – Jonathan Becher, SAP
+
+Criteria: This was Becher’s first video with us as SAP CDO, where he elaborated on the plans his team has hatched. I was personally annoyed that Becher’s demo was not part of the day one keynote as I thought it was a big missed opportunity, so this video was kind of my intellectual revenge for what I viewed as an under-exposed story.
+Becher’s quote above addressed my question: is this is a disruptive element to SAP’s own customers, as well as to SAP itself? He makes the case that it’s not disruptive but, if you don’t mind me dropping a terrible buzzword, synergistic. Bonus: there is a bit of an easter egg in this video you may spot upon listening, that’s all I”m allowed to say about it.
+7. The brain trust ruminates on Sapphire Now
+Host: Den
+
+Quotage: “Let’s get real clear about the ROI, and let’s also clean up the language or the marketing message around what are the standard kinds of deployments or upgrade pads or whatever for the new folks… Right now what we’ve got is kind of a dog’sbreakfast. It can be anything you want it to be, therefore it’s not clear. Therefore the ROI message gets muddled in the process.” – Brian Sommer, diginomica
+Criteria: Filmed at the end of day two, this was as close as we got to a show wrap video this year (In other words, this video was filmed before the final Hasso Plattner keynote and Thursday events). Revisiting the shoot, I do think it captures the key issues of the show, and the problems SAP needs to tackle – and the guys didn’t mince words, as you can see from Brian’s quotage.
+The wrap
+At press time, there were two videos not yet added to our Sapphire Now show playlist, they are:
+Mercy Health on SAP HANA
+How Insight Enterprise standardized the core for agility on the edge
+I left out some interesting customer shoots from the top seven, so check those out, There are several from the health care arena, so if that’s your focus be sure to check the full playlist. We think there’s a place at #ensw shows for independently produced videos – meaning, videos that are produced without editorial control of the host vendor. If you think the same, feel free to ping us.
+
+Image credit: video screen shot by Jon Reed, from Den Howlett’s student shoot.
+Disclosure and thanks: SAP paid for the bulk of our travel as well as some of our video shipping and production expenses. SAP provided the space and handled our video appointment scheduling, but we had editorial control of the final video content and production. These videos were produced at no cost to SAP, however, they could not have been filmed without the significant logistical support of Mike Prosceno’s communications team, including Stacey Fish and Andrea Kaufmann. David Garcia, our on-site video tech lead, also produced a number of these videos post-conference. SAP is a diginomica premier partner as of this writing.
+Read more on: Analytics planning and data analysisFrictionless enterprise 

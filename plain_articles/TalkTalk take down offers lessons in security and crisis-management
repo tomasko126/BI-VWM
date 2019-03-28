@@ -1,0 +1,42 @@
+
+Dido Harding
+The cyber-attack on TalkTalk is set to cost the telco millions of pounds in compensation, potentially threatening the very future of the firm. It’s also proving to be a text book example of how not to handle such a crisis.
+Talk Talk revealed on Thursday evening that hackers had stolen personal details of its customers, including dates of birth, telephone numbers, credit card and bank account details, which can be used to carry out identity fraud.
+Some stories circulating the media suggest that the latest cyber-attack on TalkTalk began as early as 10th September, but have only just been made public
+Whatever the case, there have been at least three attacks on data belonging to TalkTalk customers in the last ten months.
+There was also widespread criticism of how long TalkTalk took to publicise the breach. The company said it went public in around 36 hours, arguing that it would be difficult to have done anything earlier:
+We cannot be accused of trying to hide the scale of this. That is deeply unfair.
+But Christopher Graham, the Information Commissioner, said the company should have shown “heightened concern” in the wake of previous hacking attempts:
+I’m disappointed if the message did not get through…I think you can certainly say that TalkTalk are on our radar now.
+Labour MP Keith Vaz, chairman of the Home Affairs Select Committee, is writing to TalkTalk chairman Sir Charles Dunstone to ask for a “timeline as to what they did” when the attack was discovered, arguing that the 36 hours window:
+would not be regarded by the public as acceptable.
+Justin Harvey, Chief Security Officer of Fidelis, went further:
+The attack reportedly happened on Wednesday with the criminal investigation being launched on Thursday, it shouldn’t have taken the police to get involved for TalkTalk to own up to the problem, in the meantime their customers’ identities have been exposed.  Recovering from breaches of this size requires time to ensure that there are no secondary backdoors and the full scope of the incident is discovered.
+Cyber attacks are becoming increasingly common and despite daily headlines – and even TalkTalk’s previous data security issues – appropriate measures, such as encryption of personal data, are not being taken. What’s more, when cyber attacks do happen, it is absolutely paramount that the breach is detected as early as possible and communicated to customers immediately. A lesson TalkTalk needs to take notice of.
+Politics and PR
+Meanwhile the hacking attack is becoming a political issue, with Chi Onwurah MP, Shadow Minister for Business Innovation and Skills, claiming:
+For over two years now we have been calling on Government to take action to protect consumers and citizens from cyber scams. The TalkTalk data leak has put millions of consumers at risk and yet it’s still not clear what rights they have…[Minister of State for Culture and Digital Industries] Ed Vaizey’s answers to my questions make it clear that all the speed and innovation is coming from the criminals, whilst the Government sits on its hands, leaves it to the market, and the police are denied the resources they need to protect citizens online.
+Alongside the reputational damage done by the attack itself, the performance of its CEO Baroness Dido Harding hasn’t helped matters. Wheeled out onto as many media outlets as possible on Friday, Harding’s comments frankly only served to make a bad situation even worse.
+Take this zinger for starters:
+I’m a customer myself of Talk Talk, I’ve been a victim of this attack.
+Oh dear. First rule of PR apologies – it’s not about you!
+By Saturday, things had improved slightly as Harding had been briefed to say that the attack had been on TalkTalk’s website and not its core systems:
+We don’t store unencrypted credit card information on our website so any credit card information that has been stolen has the six middle digits of the credit card blanked out so can’t be used for financial transactions.
+But she rather undermined this by saying that the attack was “smaller than originally thought” and that this was “extremely good news” for TalkTalk customers.
+No, no, no – extremely good news would have been that TalkTalk had the security provisions in place to avoid this situation occurring in the first place.
+Harding told the UK media that “in hindsight” the company could have spent more on cyber security but added:
+Would it have prevented the attack? We just don’t know.
+But there are plenty of people who are ready to chime in on that point, including  James Murphy, Associate Director – Defence and Security at trade association techUK:
+Significant cyber attacks on companies are happening with increasing frequency as the tools to commit a cyber attack become less sophisticated. Unfortunately, cyber crime is a low cost but high reward endeavour.
+Meanwhile Jason Hart, VP and CTO for Data Protection at Gemalto, argued:
+What we see constantly with these types of attacks is that breach prevention and threat monitoring alone will not keep the cyber criminals out.  The bottom line is, CIOs need to accept their company will be breached and shift their security strategy from ‘breach prevention’ to ‘breach acceptance’.
+This means knowing exactly where sensitive data resides and deploying mechanisms to deal with the consequences of breaches as well as pre-emptive measures which will keep it safe whether it’s in the cloud, or virtual, hybrid or mobile environments, rather than relying on access mechanisms.
+The issue is whether the sensitive stolen information was encrypted. Companies need to think about the best way to protect their customers’ personal identities with a combination of encryption and authentication.
+In a PR coup-du-grace, TalkTalk customers trying to get out of their contracts were told that they would have to pay for the privilege.
+The company’s official response to this:
+Because we do not know which customers are affected we cannot make a decision on cancellation fees.
+Nice touch!
+My take
+I’m very, very glad not to have been a TalkTalk customer over the past few days.
+There will be a lot more to come out in the coming days, but I think it’s safe to say at this stage that as well as any technical security lessons that can be learned, there are also takeaways from the story-so-far that other organizations can pick up on how NOT to manage a crisis.
+Read more on: Data privacySecurity 

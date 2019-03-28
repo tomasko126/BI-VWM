@@ -1,0 +1,67 @@
+
+David Doherty
+When most people think about the Digital Marketplace – still better known as the G-Cloud despite best efforts – it tends to be thought of primarily in central government terms, where there is, of course, a Public Cloud First mandate to encourage adoption. Local government, meanwhile, remains sadly disinterested in the main. 
+But there’s another demographic that is entitled to use the Digital Marketplace, that of ‘public-sector-but-not-really’ sort organizations, such as the BBC. One such body, Ofcom, recently used the marketplace for a key procurement as part of a wider digital transformation program. 
+For the benefit of non-UK readers, Ofcom is is the independent regulatory and competition authority for the UK communications industries, with a remit that covers TV, radio, the postal service and internet services. As Director of ICT David Doherty says: 
+
+We regulate the whole of the communications industry. Our mission is to make communications work for everyone. It’s all about making sure that there’s a good vibrant market and that dominant players don’t abuse their position and that all of us, as consumers, citizens and organisations, get a good deal.
+
+Doherty’s been in situ at Ofcom for two years now and came in to an organization that was striving to see how it could be more flexible and agile to fulfil its remit in what is itself a changing market landscape:
+
+We knew in broad terms what we wanted to do, but in the public sector, you don’t know whether you may need to contract or to expand. We needed to make sure we had flexibility. We needed to have the ability to add more business processes, should we want to, as well as any additional functionality that we just didn’t know about yet. For example, social media is becoming more and more important in our world as we monitor our stakeholders.
+
+The first thing on the agenda was to assess the inherited IT real estate: 
+
+We had a lot ageing applications that had been put in place seven years previously, all of them quite large. That’s not to criticise – seven years ago things were very different – but for an organization of our size now, we could do things a lot differently. 
+
+That ‘differently’ included how to improve the relationship between IT and the business side of Ofcom in order to support the organization’s duties, as well as seeking to improve the user experience, both internal and external users. 
+Then there was the inevitable drive to reduce IT operating costs, which meant re-evaluating Ofcom’s existing IT infrastructure and the need – or otherwise – for it. Doherty says: 
+
+It was clear to me, as an organization of our size, we don’t need to be focused on the boxes and wires and infrastructure. What we really need to worry about is, what do we get from IT, how are our users using it, how do we deploy it in a safe way and a good way, how do we integrate it with the rest of the infrastructure? That should be our role.
+
+Doherty was fortunate when re-assessing the IT landscape in so far as a significant technical operations outsourcing contract was coming to end-of-life, which enabled him to think about alternative approaches that would transform the IT team into a service delivery team, rather than ‘box watchers’. 
+In addition, Ofcom’s ageing Customer Relationship Management (CRM) system also  needed attention. Doherty explains: 
+
+It was large in every possible way that you can measure large. It was costly to run. Nobody liked it. The users didn’t like it, the business managers felt that it didn’t meet their needs and change was always difficult. There was an investment proposal to upgrade it, but it was going to be lot of money to do that.  I’m sure that upgrade would have improved it, but it still wasn’t going to do everything that we wanted. 
+
+Doherty pitched the idea of a business-led, digital platform replacement to Ofcom’s management, although he was careful how this was articulated to the internal user community:
+
+We would do this as a SaaS-type project, although we try not to use those types of phrases. As we went through how we would deploy it as genuinely a business project, we said that we would take care of the plumbing, but actually it was their business processes that they needed to think about. It took a while to get away from the idea of the process that’s in the system today to what’s the actual business process that it should be. Once we got through that, we found that the end users, the actual guys who were using it day-to-day, got it quickly.
+Beauty parade
+What followed was the inevitable supplier beauty parade and engagement with the Digital Marketplace. Doherty was adamant that Ofcom didn’t have time for a traditional year-long (plus) ITT-led procurement, but this would be first time that the marketplace had been used for such a major purchase, which left some in the organisation understandably nervous:
+
+
+The procurement team was understandably a bit scared because, as a regulator, reputation is the key. If we lose our reputation, then our whole credibility is gone, so we’re always very squeaky-clean about how we do procurement. 
+The procurement people were worried that, although we did use G-Cloud on-and-off, it was for relatively small things, almost commodity-type items. This was going to be a big strategic purchase, one way or another, and could we really do this and keep it within all of the rules? 
+We set up meetings with the Crown Commercial Service and the Government Digital Service (GDS). They were really good at talking us through and saying, ‘Yes you can, but here’s what you need to do, here’s what you need to capture for your audit trail’. They went through all of that. With GDS particularly, we went through how to do the search, the mechanics and real ‘how-to’ stuff. 
+
+This advice was invaluable, says Doherty:
+
+
+You wouldn’t just buy a house on Amazon. You need to understand what to do. They were very patient with us. Halfway through the procurement, we would phone them up and say, ‘Are you sure we can do it like this?’. 
+
+One area where guidance was particularly useful was around searching for potential suppliers across the framework. Doherty was adamant that the search criteria Ofcom would use had to be completely defined by the business: 
+
+We kept the key business users in a room all day to come up with an agreed set of search criteria based on what they really felt. At the end of the day, they all felt that if we could get a system that was flexible, could handle our case management and rest of our longish list, if it could do all of that then it definitely meets our needs. We got that honed down and applied those search criteria. 
+What we also did was we wanted to make sure that there wasn’t one particular search term that dominated the whole thing. So we played around with the order of the terms, taking them out, putting them back in. We were surprised in the end. The advice from GDS and CCS was that we might get two or possibly three that meet our criteria and then here’s the process to do a short run-off. 
+
+In the event, Salesforce emerged as the primary choice on every version of the search process. In the interests of transparency and pursuit of the ‘squeaky clean’, Ofcom shared its search criteria with other providers, which produced what might be called an ‘old world’ response to public sector procurement:
+
+
+Some of them came back and said that if we’d run it with these [suggested by the vendor] criteria, that this would match our list. But when we looked, these were actually product names! That’s all very well, but that says. ‘I’ve already picked you’. Some vendors have something to learn about how they pitch themselves. 
+
+Benefits
+The Salesforce roll-out is now well underway with the first business processes working and “tuning” being completed. Doherty and his team are now thinking about more processes to be integrated, as well as contemplating the likely next digital platform, which would be around the digital office. He’s also still evaluating infrastructure needs, but is insistent that he’s not pre-judging the outcome: 
+
+I’m not approaching this from a religious perspective, that we must be in the cloud. But as things come up for renewal or refresh, we’ll consider what is the other way of doing it? At the moment, we have hardware in two different data centers. I can’t see us having that in two years. Maybe in one data center, backed up in the cloud, then over time it either goes to zero or it doesn’t. We’re not dogmatic.
+
+But it’s clear that the cloud CRM procurement via the Digital Marketplace has gone well and provided an effective framework to speed up putting in place a necessary component of Ofcom’s wider digital transformation journey. All which begs the question, why aren’t more non-central government buyers following Ofcom’s lead. Doherty speculates there isn’t enough awareness of the Digital Marketplace: 
+
+People know the phrase, but maybe don’t know what it means. I’m sure it’s hard to market. I’m not sure there’s enough done at senior management level, not IT management level, to understand what it can do – and just as importantly, what it doesn’t do, so that you don’t get some Chief Executive coming back and thinking that it’s a panacea to fix everything. 
+
+But for organizations like Ofcom, the Digital Marketplace is another useful tool to be used, notes Doherty: 
+
+At Ofcom, we’re not part of government and we’re not civil servants, but we are public sector, so we have the best of both worlds in that we can decide what we use.
+
+Disclosure - At time of writing, Salesforce is a premier partner of diginomica. Doherty was speaking at Think Cloud for Digital Government, which is supported by diginomica as principle media partner. Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceG-Cloud and the Digital Marketplace
+

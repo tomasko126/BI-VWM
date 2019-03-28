@@ -1,0 +1,43 @@
+
+A new survey among 120 SAP UK and Ireland User Group members shows that while 63% of those surveyed intend to adopt SAP HANA at some stage, current take up is low at 10%. 22% plan to use it in the next three years and 31% say it is on their roadmap but it won’t be implemented in the next three years.
+This will not be welcome news for SAP in the run up to SAPPHIRE 2015 but we believe there is a broader set of issues. The survey talks about customers optimizing for SAP while we believe they will get a better outcome if they think bold, translating that to  radical modernization strategies.
+The survey identified a variety of reasons to the broader question of optimizing SAP landscapes, all of which will be familiar. Barriers faced include lack of budget (60%), lack of time (53%) and lack of knowledge/skills (47%). These are worrying statistics given that an earlier survey released during the group’s user conference in November 2014 noted:
+The top barriers to adopting innovation were cited as:
+
+lack of business case (71%)
+licensing/subscription costs (69%),
+migration and implementation costs (54%)
+a need to get more value from existing SAP investments (40%)
+
+
+In a further report, Stuart Lauchlan noted that while progress is being made between SAP and its customers:
+Year after year assurances are given that things are changing, but the complaints remain. No-one’s pointing fingers here, but either the goalposts keep moving or not enough genuine action is taking place.
+The song remains the same…
+In a call with Paul Cooper, vice chairman of the UK & Ireland SAP User Group, he said:
+
+This is going to be tough unless you have got a burning issue because if SAP as your back office is doing what it’s supposed to do then getting to the new shiny version is a difficult sell. It has to stand within a business case and finite resources. You’re up against other investments the business needs like maybe a new factory. It’s not a given that an IT project gets the funding. Lets also remember that right now, external factors like the General Election do create a level of uncertainty. But I am encouraged that about a third have it on the roadmap. That’s significant.
+
+On a more positive note, two thirds believe their landscapes will be on hybrid infrastructure in the next three years. Quite what this means is open to interpretation. For example, last week, the Wall Street Journal reported that Rio Tinto plans to move corporate IT to Accenture’s infrastructure in a ‘cloud first’ strategy:
+The deal moves Rio Tinto to a consumption-based pricing model, where the company pays only for the cloud services it uses. It should lead to “significant cost savings,” the company said in a statement.
+In short, Rio Tinto is swapping a large chunk of capex for opex.
+Back to the user group – according to the survey:
+Nearly half of our respondents (47%) stated that customisations to their existing landscape had hindered the speed at which they could implement enhancement packs and/or adopt newer platforms from SAP, such as cloud and HANA.
+And therein lies a problem. SAP S4/HANA is designed to simplify the landscape considerably but it does mean customers have be on the latest enhancement pack and move to HANA. It continues to surprise me that the business case and cost savings in particular are not well understood or explained. Even so, many customers will prefer to keep a good chunk of their customization investments, especially in verticals not catered to by the standard offering.
+Cooper offered an alternative scenario:
+We have seen some good projects where customers have worked through custom code and found things that were maybe important to users back in the day but are no longer in use or are not being used as anticipated so yes, there is room to go back to core SAP code.
+That means extensive testing.
+SAP pitches Solution Manager as the answer to that problem. We know of at least three alternatives from Basis Technologies, Panaya (now owned by Infosys) and Intellicorp that are well proven on the topic of measuring and identifying the degree of break-fix required but which get minimal ‘air time.’ In the upcoming symposium designed to overcome some of the problems faced by SAP UK customers, Intellicorp will be featured.
+Data management is another topic identified in the survey:
+Nearly two-thirds of respondents (65%) said their organisation’s data volumes have increased in excess of 40% over the last three years. At the same time, as the cost of storage has come down, the majority of organisations (57%) admitted to storing and archiving more of their data. This has led to many organisations facing challenges around data accuracy/consistency (53%) and governance (53%), as a result of data being spread across multiple platforms.
+HANA is meant to reduce the total data footprint dramatically and again, we are surprised that users are seemingly unaware of peer case studies and benchmarks. There’s a publicly available sizing discussion and outline that goes back to 2013.
+My take
+Last year, the SAP UK and Ireland User Group noted that its own members need to do a better job in getting themselves educated. The upcoming symposium is a step in that direction. Stuart has already commented on this topic but I’d like to make four more observations.
+
+The UK and Ireland geography is different to other locales in the composition of the SAP customer base. You don’t see for example the huge deployments of a Colgate-Palmolive in the US or large scale automotive manufacturing in Germany so it isn’t always easy for customers to relate to the business case on offer. The User Group believes those country specific cases are now coming into view.
+We regularly meet customers who say they are fatigued from keeping their ERP instances running. This is not an exclusive SAP problem but one that stretches back more than 20 years. In SAP’s case, first it was BPR, then Y2K now SAP HANA. Each required huge expenditures in services and for what? A degree of automation that’s only touched a fraction of the total technology landscape. It is understandable that customers should be deeply concerned about the prospects for yet another technical upgrade.
+All of the big changes have come at considerable cost, spawning an industry that continues to be a significant expense. Some customers are actively reviewing their ERP landscape composition so they can release budget back to business innovation demanded by the C-suite. In these scenarios, ERP takes a back seat or is viewed as a cost drain that has to be squeezed – this User Group appears well attuned to that problem.
+Optimizing for SAP HANA and S4/HANA is only a part of the story. We are of the view that any company with a substantial ERP landscape should actively consider this as an opportunity for radical modernization. Rio Tinto hinted at such a strategy but we think there is a different story to be articulated that is currently unsaid. Optimization in our view is a tactical issue and while understandable in this context may not represent enough of a case to carry the day when budgets come under review.
+
+Disclosure: SAP is a premier partner at time of writing
+
+Read more on: Cloud ERP financials and supply chainInfrastructure 

@@ -1,0 +1,69 @@
+
+Sometimes the best business idea is a simple one, as in: help companies make better decisions with smart software. That’s what Cloverpop is up to. To build that software, they’ve studied more than 20,000 decisions (You can sign up for their software, currently free, at Cloverpop.com).
+But better decisions are not easily made. As founder/CEO Erik Larson has learned, decisions can be stalled by the proliferation of data we’re now confronted with (a typical enterprise decision can take three months!). And then there’s the problem of bias. Insular decisions are bad decisions. A failure to look at viable alternatives is just one type of bias Cloverpop had to account for.
+Most business decisions are mediocre – some numbers
+Before I hit our interview highlights, some troubling stats:
+
+Managers make one decision a week and advise four colleagues on their decisions (Cloverpop estimates a global total of 3 billion business decisions a year).
+A typical decision takes 2.5 months, five stakeholders, eight meetings, and 35 hours of work.
+
+But it gets worse. Many of those are not what you’d call “good decisions”. Based on a structured study of 487 managers, Cloverpop asserts that “Most decisions are average. Average is mediocre.” As in:
+
+100 percent of decisions are subject to bias.
+2 percent use best practices.
+The typical decision underperforms by 20 percent.
+
+Cloverpop asserts this has material ramifications:
+
+Slower growth: Overvaluate potential losses by 200 percent.
+Lower profitability: Underestimate costs and time by 50 percent.
+Misallocation of resources: approximately 30 percent of equity valuation.
+
+So how does Cloverpop help to address these shortfalls, and what kind of results are they achieving? Larson is glad you asked. In their experience, good decision support software, embedded with what Cloverpop calls – surprise surprise – “best practices,” can:
+
+Increase good decisions by 6x and cut bad decisions in half.
+Decision effectiveness is 95 percent correlated with financial results.
+Ten minutes on best practices saves ten hours of discussion, deciding ten days faster.
+
+Finding a startup mission: the irrational business decision maker
+Two years ago, Larson’s team started looking at goal-setting support. But in collaboration with Stanford University, they learned that decisions have three times the impact of goals. I asked Larson why decision science is coming to a head. He told me:
+Historically, the theory behind most businesses was that people made rational choices. If you give two normal people great information, they will both make the same decision. Lot’s of Nobel Prizes were given based on that basic assumption. What the behavioral economics folks have shown is that the fundamental assumption of economics – and therefore a lot of business practices – is fundamentally wrong… People made irrational decisions all the time, and very, very, consistently – even when they are given good information.
+Erik Larson, Cloverpop
+So how did this idea spark Larson, formerly an Adobe employee, to leave his corporate career?
+I was down in Monterey, at an Adobe executive off-site. A guy from Harvard was talking. His name’s Shawn Achor. He’s a psychologist. He was talking about how managers should use some of these insights to be better managers. This is was a very compelling talk (Editor: see Achor’s TED Talk on work futures). I was like “Wow, you know what, he’s totally right. It’s time to do something about it.” It took me a couple of years to extricate myself from Adobe, get the resources and line up going. Then we were off to the races.
+How can software tackle the problem of decision bias?
+Larson and I had a bit of a debate on the rational decision maker. I view the enterprise buyer as much more rational than the buyer of the 90s, a trend I have written about in my informed buyer series. But: not all business decisions are as rigorous as a big software purchase.
+And while enterprise decisions are less impulsive, I would never claim we’ve purged bias from business decisions – far from it. So how does Larson view the problem of bias? And how can you address that within the software?
+Business decisions are typically group decisions, with each person bringing their own agenda based on drivers such as their KPIs, their teams’ needs, and so on. People are (usually) good are seeing others’ biases, but that’s not the whole picture:
+It’s more likely that people will see other peoples biases and not be aware of their own. It makes it more difficult to get to the agreement. If you think the head of sales is just trying to protect his budget, and the finance guy just doesn’t understand the opportunity, it makes the decision harder.
+Therefore, good decision support would help each stakeholder to see the decision more clearly:
+You solve a big problem if you get a team of people to come together and agree on something. Even when they don’t 100 percent agree, at least they are buying in and committing to it.
+Fine, but how can software help? Larson:
+This is where the science comes into it. There’s a bunch of very consistent ways that we see decisions irrationally. There’s a few very simple things you can do that make a big difference. Probably the biggest one is: make sure you’re considering multiple alternatives.
+Weighing alternatives seems like a no-brainer, but it’s not. Larson says studies have found that a whopping 40 percent of business decisions are made without considering alternatives. Another 40 percent, only two other alternatives are considered. The ramifications are big:
+What the science has shown is as soon as you decide to be more creative about considering alternatives, your chances of success based on that decision go up by about six times. The chances of failure are cut in half – just by considering more alternatives.
+Ergo, Cloverpop’s big problem: how do you channel that science into user-friendly software businesses will actually use? Early prototypes weren’t effective. The breakthrough came when Larson’s team figured out that people make better decisions when they write down the goals and priorities impacting the decision. In other words: help people frame the context first – then they can weigh the immediate decision more accurately.
+Another difficult problem is the tendency towards groupthink. Larson explains that “groupthink” is part of a bias called saliency bias, which means placing too much stock in your surrounding world:
+A lot of the biases people have are related to what their paying attention to. There’s one bias that’s called the salience bias, which means” the thing that is most visible is the thing you think is most important. This causes all sorts of other problems, like group think.
+Final thoughts – “gathering around a table is the worst way to make a decision”
+Because of the tendencies to reinforce bias, gathering around a table is the worst way to make a decision. Larson:
+Around a table, it’s the loudest voice in the room that gets heard. It’s the most powerful person at the table. It’s the person who’s most charismatic. It’s all these things that are not very well related to good business judgement that cause decisions to happen. Someone who’s maybe shy, or has a dissenting view, is much less likely to speak up, even though their input could very well be crucial.
+I asked Larson how software that essentially simulates a group could possibly address this – isn’t it risking the same groupthink problem? His research found there is much less danger using software like Cloverpop. People are less likely to avoid conflict and more likely to speak up via a decision platform than they are in person. It’s as if that Internet anonymity factor that emboldens people online comes into play:
+Especially when you’re in a consensus-driven organization, people avoid conflict; they all want to get along. One thing that Cloverpop does is bring everybody together around the decision, looking at it the same way, without one voice dominating. You can then ask the group, “Hey what do you think we should do?” That simple question, when asked the right way, gives a good answer most of the time. Everybody feels heard; everybody knows what to do.
+The leads to improved results. Though the software is early in its first release, Larson’s team of nine has found they can speed up decisions by at least a week and a half (from a 2-3 month cycle). Better decisions made in shorter timeframes sounds good, but not all problems are solved. Larson recommends keeping the decision group from four to seven. Less than four people, and perspectives are too limited, more than seven and cliques start to form:
+It’s basically math. What we’re trying to do is get enough different perspectives so that you’re not missing anything really important. Everybody is different.
+This led to an interesting chat about how to educate companies on the need to hire and form diverse teams. Dipping from the same cultural stream is limited, even if you include seven people. Software can enable a better decision, but can’t solve for diversity by itself.
+So far, Cloverpop has worked to account for gender diversity in its software, and is looking to expand from there. For example, if women are underrepresented, their viewpoints will be amplified (Cloverpop chose their business name using this method).
+As for the proliferation of information spawned by big data, Larson acknowledges the problem but doesn’t accept information overload as an excuse: “The burning issue is not getting more information, it’s getting people to come together and execute a decision.”
+And if any readers want to improve their decision making. But aren’t ready to use the software, Larson leaves us with these practical tips, which he says are highly effective – if you apply them consistently:
+
+Write down 5 pre-existing goals/priorities impacted.
+Write down at least 3 realistic alternatives – ideally 4.
+Write down the impact 1 year in the future.
+Involve at least 4 people but no more than 7.
+Follow up to track outcomes after 2 months.
+
+I look forward to giving the software a whirl.
+Image credit: Conscience © lassedesignen – Fotolia.com
+Disclosure: Diginomica has no financial ties to Cloverpop. I was introduced to Cloverpop by Gartner’s Hank Barnes based on my interest in decision support and workplace bias. I pursued the topic from there based on my interest.
+Read more on: Analytics planning and data analysisCollaboration sharing and digital productivityFuture of work 

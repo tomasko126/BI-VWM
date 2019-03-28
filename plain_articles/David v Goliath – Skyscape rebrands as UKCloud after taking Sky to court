@@ -1,0 +1,60 @@
+
+Simon Hansford
+When version 8 of the UK government’s G-Cloud framework goes live next week, there will be a familiar name missing. 
+Look for Skyscape Cloud Services, one of the companies that’s enjoyed the most success from the cloud computing ‘shopfront’, and it won’t be there. 
+One new name that will be there though is UKCloud. 
+The two events are connected and have a surprising, some might think rather disturbing, link back to Rupert Murdoch’s Sky empire. 
+The connection between Skyscape and UKCloud, in case you haven’t already guessed, is that they are one and the same. There will be no changes to the company’s legal entity, services, security protocols, organisation structure, governance or shareholdings, but Skyscape will now go to market as UKCloud. 
+Why? Well, that’s where the Rupert Murdoch aspect comes into play and it’s a bit of a David and Goliath story in the cloud, except that in this instance David doesn’t get to deliver a knock-out blow to the corporate Goliath.
+To court
+Skyscape was founded back in 2011, targetting specifically the UK public sector market and essentially coinciding with the first iteration of the G-Cloud program in 2012. 
+After two years of trading, in July 2014, the firm received the first of what would become many communications from lawyers representing Sky, alleging that Skyscape was infringing registered trade marks owned by companies within the Sky Group. 
+It should be noted at this point that Sky has form here. Specifically in the tech sector, the case of British Sky Broadcasting Group plc v Microsoft Corporation resulted in 2013 in the latter having to change the name of its Skydrive cloud storage offering, while last year the General Court of the European Union found in Sky’s favor that the Skype brand was too similar to Sky and would confuse consumers. That was originally due to go to appeal, but was settled out of court earlier this year. 
+In the case of Skyscape, Sky issued a deadline of 4pm on 14 August 2014 to provide “specified undertakings”, warning that, if these were not received, Sky Group reserved the right to bring proceedings against the UK start-up. 
+What happened next was effectively a phony war. The undertakings demanded were not given by Skyscape, but Sky declined to take the threatened court action. 
+Instead there was a series of further communications from Sky’s lawyers, each of which had to be addressed by Skyscape when they arrived. This, of course, cost time and money on each occasion which, for a UK start-up, was inevitably a burden that could be done without. 
+So David took Goliath to court. 
+Or as the official judgement puts it, it sought a Declaration of Non-Infringement (DNI):
+
+Skyscape say that they wish to have commercial certainty regarding the conduct of their business. They have therefore brought the present proceedings against Sky in which they seek a declaration that their use of the sign ‘Skyscape’ in relation to their services does not infringe any of the five Cited Marks.
+
+The proposed DNI was tested in court against 3 principles:
+
+The question of whether to grant the negative declaration is one of discretion, rather than jurisdiction.
+Would there be a useful purpose to the negative declaration?
+Was the underlying issue sufficiently clearly defined to render it properly judiciable?
+
+Having brought the action and with Sky not issuing a counter action of any kind, it was incumbent on Skyscape to prove that it did not infringe Sky’s trademarks, while Sky had only to prove one claimed case of ingfringement.
+In the event, it came down to email. As part of its offering, Skyscape provides email services to clients. These emails are customized to the client’s brand/name, e.g.  [email protected]. 
+Skyscape’s case was that the average IT-savvy user of G-Cloud would be able to differentiate between the two brands. CEO Simon Hansford, in his witness statement to the court, argued that his firm’s average customer is: 
+
+a well-informed and careful civil servant, purchasing on behalf of a public sector body, generally spending a substantial amount of money and needing to be in a position to justify doing so. A very high level of care will be expended in making the appropriate choice of service provider, and the purchaser’s decision will be subject to validation through a formal approvals process.
+
+But because Sky provides email services, this became the crucial point.  The court took  the view that the average consumer for what Skyscape argued was a specialist product had the same attributes as as the average person in the street: 
+
+Despite ‘Skyscape’ being one word there is a likelihood that a significant proportion of the relevant public and thus the average consumer, encountering the sign ‘Skyscape’ used for an email service, would take it to be yet another service offered by Sky. If the average consumer was already familiar with Sky email, he or she would probably take it to be a replacement or modified Sky email service.
+
+It should be noted that the court did not accept that Skyscape’s business would have a negative impact on the Sky brand and ruled that there was no risk of reputational damage to Sky. But it did decide that the supposed association between Sky and Skyscape would enable the latter to benefit from the former’s: 
+
+undoubted reputation and goodwill. 
+
+My take 
+I spoke to Skyscape CEO Hansford yesterday and he was highly diplomatic about the whole thing, but clearly there’s a desire to put this behind the firm as an unncessary distraction to day-to-day business. 
+Hence, the change of name from Monday and  a ‘let’s focus on the business at hand’ message.  Hansford says: 
+
+The company has taken the decision to relaunch on the latest iteration of G-Cloud, G-Cloud 8, with a new name that best portrays the company’s unequivocal focus on the UK public sector and reaffirms its commitment to the market. With the imminent arrival of G-Cloud 8, this was an opportune moment to refresh our brand. 
+We’re very proud to have helped save millions of pounds of public money by delivering more agile, lower cost IT solutions throughout high-profile Government departments, including the DVLA, Home Office and MOD. Our new name reflects our unwavering commitment to serving the UK public sector and supporting the digital transformation of citizen-facing services.
+
+For what it’s worth, there is an upside here. UKCloud is actually a great name for a cloud services provider that only focuses on the UK market. It does, as they say, what it says on the tin. I can imagine there will be more than a few jealous glances from other UK providers as a result of this name change. 
+In the febrile Brexit climate, and with the European Union’s General Data Protection Regulation looming, data sovereignty and data residency are likely to become agenda items. On this front, UKCloud has a longtime strong message to tell, operating UK-only data centers with the highest government-level security accreditation. Again the UKCloud brand is a good extension of that story.
+In fact, while I’m sure that Hansford and his team don’t see it this way yet, you could even argue that in the long run, with the right glass-half-full mindset, Murdoch has done them an inadvertent, albeit costly,  favor.
+Personally, I find the notion that the average public sector buyer of services via G-Cloud is no different to Mr or Mrs Average, who end up with a Sky email address as part of a broadband/TV/movies package deal, ludicrous in the extreme. 
+But then I’m not a High Court Judge. 
+Clearly there are lessons to be learned here for other businesses, the main one being that if you put the word sky into your branding, at some point you should expect a virtual knock on the door from Rupert Murdoch’s legal heavies. 
+Of course, Sky has every right to protect its brand, but its zealous pursuit of this right may seem to many as over-the-top. Or as Principal Associate Richard Plaistowe of law firm Mills & Reeve puts it in an excellent summation of the case: 
+
+The wider question about whether Sky should be allowed to dominate an everyday word so comprehensively remains unanswered.
+
+Quite. Who’s next in Mr Murdoch’s firing line?
+Image credit - YouTube/EMCRead more on: Digital government and public services
+

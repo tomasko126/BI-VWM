@@ -1,0 +1,80 @@
+
+This recent email about budgeting/planning/forecasting aka CPM – corporate performance management or EPM – enterprise performance management perfectly expresses today’s frustration among buyers:
+I am struggling to really understand how the market is segmented – everyone says they do everything, everyone that isn’t native to the Cloud says they have a robust Cloud offering or are transitioning to the cloud, everyone (with some exceptions) says they can process large volumes of complex data, everyone says their solutions work for mid and large enterprises, a bunch of other companies that aren’t CPM seem to be offering CPM-like capabilities eg Workday, and I am left with as much confusion about the market as I started.
+Oh, I feel your pain dear correspondent as I’ve heard all of this disinformation, too. It’s a mess out there. And, I fear the noise will only get amplified in the coming months. We are about to enter an era of discombobulation.
+To keep things straight, I’ve prepared the following primer on the current and future evolution of the CPM space. Some of it is radical by today’s standards.
+In the beginning….
+
+For decades there were standalone CPM products. These were spreadsheets, spreadsheet-like products and applications that could do aspects of budgeting, planning, forecasting and even consolidations.
+These early products/tools had some big limitations. These solutions were rarely tightly integrated with financial and other application software products. For data to move in/out of the CPM tool, specific integration programs had to be written. Data was often extracted from a source system, translated into a standard chart of accounts, etc. Next certain global parameters would be applied to the data (e.g., increase all salary costs by 3% and make the targeted revenue increase by 5%). Then, the records would be broken apart and placed into various worksheets for department heads to review and update.
+The department heads usually requested the data be sent to them in a PC-spreadsheet format so that they could work on it offline. Once their work was done, the records would be uploaded to the CPM solution where some dicey consolidation work would occur. This is where you’d see things like:
+
+People added additional budget line items
+Two different department heads may have budgeted for the same expense/resource
+
+This process gets really ugly in companies with matrix or fluid organizations. Just trying to figure out who really ‘owns’ a specific person, resource or initiative made this process a mess.
+After all of this is sorted out, the budgets are reviewed, in toto. Additional macro changes are made and the revised budgets are re-sent to the department heads. This review, revise, re-distribute cycle can go on multiple times over many, many months. It saps morale and kills productivity.
+But possibly the worst aspect of this world was the sheer number of different spreadsheets and tools a company used to fulfill its CPM needs. It had a budgeting tool, spreadsheets, a standalone financial consolidation tool and various business intelligence, data warehouse and reporting tools.
+In summary, these early tools were only partially effective. Yes, they were better than paper but not by much. Many consolidation and reconciliation attributes weren’t there. Integration with key finance and operational systems was expensive and tough to do. There were latency issues with the data and it was hard to manage all of the different versions of the truth. There were too many handoffs between systems and people.
+This world had to change.
+And then came cloud CPM tools
+In the next evolutionary stage, we saw cloud CPM products emerge. These products did a few things differently.
+First, the data mostly stayed in one place: the cloud. It didn’t need to keep popping out into offline spreadsheets. This enabled better collaboration between users, fewer version control problems and fewer data latency issues.
+Second, these solutions were generally designed for a mobile and cloud-first world. Department heads could work on their budgets virtually anywhere they had an internet connection. They didn’t need to export a budget worksheet to a laptop spreadsheet and hope that it would later upload correctly back into the budget tool.
+Third, these tools didn’t need any material IT support as the solutions could be implemented, for the most part, by savvy finance staff. If any IT help was needed, it was often to integrate or connect some existing financial or other applications to the cloud CPM solution.
+Finally, these tools didn’t need additional capital expenditures by IT. No servers, no disk storage, no systems software licenses, etc. were needed for these cloud products.
+For all these reasons, sales of cloud CPM products have been strong the last several years.
+But these tools have a key limitation. They weren’t designed for the big data/Internet of Things (IoT) world. They were designed for industrial age ERP systems’ small, transactional or financial data operating in a spreadsheet metaphor that refuses to go away.
+Is it any surprise therefore that what was once a Cinderella technology Band-Aid has turned out to be a Cinderella on Steroids Band-Aid. Quicker, cheaper, faster and (arguably) more accurate but just how relevant are these solutions to modern problem solving. The simple answer is – they’re not.
+Looking towards Generation 3
+
+A new generation of CPM will emerge soon and it will come with a very different underpinning or foundation: in-memory computational capabilities that are married with outstanding machine learning, predictive capabilities and more. These tools will be quite different in some very material ways.
+These tools will use non-conventional business data to do a better job of predicting financial outcomes across every line item of the P&L. I’ve already documented for the American Accounting Association how this is already happening in many firms although it’s mostly focused on a few line items per company today.  For example, hotels can now predict their occupancy and revenue by monitoring what is happening to the online reviews (on TripAdvisor or Expedia, for example) of their properties versus those of competitors.
+Training costs can be estimated by using an algorithm to assess what percent of the workforce is likely to leave the company in the next quarter. For each person that must be replaced, the company should budget additional recruiting and training costs.
+Using big data (and in this context I mean business data that is the output of what today might be seen as unconventional systems), machine learning and algorithms, businesses can create far more accurate/reasonable preliminary budgets that managers can finesse. That alone can save operational leaders lots of time as it’s always easier to review a prepared product that build something from scratch. This would also improve management confidence in the plans that are put forward. In short, these new approaches will allow businesses to start running meaningful Zero-Based Budgeting but without the blank sheet of paper.
+Machine learning tools will keep getting smarter. These tools will understand, with a growing amount of history and other data points, how the predictions/plans can be made ever more accurate. This will be transformative as it will allow firms to get almost real-time, updated plans/forecasts based on the use of massive datasets, a wealth of history, improved correlations and unlimited computational power.
+Make no mistake, we’re not there yet but that’s where we’re headed directionally.
+Humans just won’t be able to create as many plans in such a refined way and within similar timeframes.
+This change in CPM will be profound as systems will anticipate with greater certainty than ever. This is what businesses want. They don’t want a system that creates spreadsheets for managers to complete using little more than sophisticated What-If scenarios.
+Getting from here to there
+This won’t be an easy evolution for some CPM software providers. Prior generations of solutions may still be running on older relational database management systems (RDBMS) that can’t perform the volume of calculations against the size of big data databases that customers will want to use. Waiting for a read-write head to move to a specific sector of a hard drive takes a lot more time than accessing data in-memory and is comparatively expensive in compute cost.  So, if a CPM solution is not in-memory, it’s probably going to have a limited ability to deliver a solution that incorporates non-conventional business data.
+We can expect (and are already seeing) some transitory or hybrid solutions appearing. One solution I recently wrote about has cut an alliance with a cloud in-memory provider. This alliance brings a lot of data visualization capabilities to the party as well.
+For those vendors with a long ETL (extract, translate and load) history, this change could be traumatic. Their strength was in technical disciplines like connecting different systems to the tool, performing data cleansing/transformation activities and parking the data into a warehouse for people to use. Their competency might not have been around understanding the customer’s business. Imagine how tough it will be to create solutions involving big data and algorithms when you don’t know the customers’ businesses.
+The changing competitive landscape
+With this evolution, there’s also another change coming, too, and it could’ve an even bigger impact on the CPM market.
+ERP stalwarts like Oracle and SAP have had their own CPM solutions for some time (e.g., Oracle Hyperion, SAP BOBJ). These solutions have been getting some love lately and are part of the cloud offerings of each firm.
+Financial & HCM software vendor Workday is developing CPM tools to complement their suite. These are due out in the Fall 2016.
+Host Analytics has recently completed an alliance with cloud in-memory and data visualization vendor Qlik.
+ERP vendors could have several strategic advantages, if they choose to exploit them. For example:
+
+Incorporate the HR organization structure tightly with the planning tool – the lack of integration is frustrating with many existing solutions as the finance system, CPM tool and HR systems have different organization charts, headcounts, etc. To budget, one must know how many people work in a given organization and who they work for. This sounds simple but it’s not as some systems don’t count interns, contract or contingent workers, or, on-loan internal resources to name a few. It shouldn’t be problem for a company to have one book of record regarding the workforce but it often is.
+Incorporate the financial management language and structure into the CPM tool – The development of budgets/plans should follow the same chart of accounts and other reporting fields (e.g., cost center, product line, country, project) used in the financial system and have the same validation rules, too. This effort should not require any re-keying or synchronization effort.
+Harness your size, mass and R&D budgets to apply your knowledge of in-memory technology, big data, etc. to this space – Make your current CPM offerings more relevant for the Digital Age.
+Focus your pre-existing and deep industry knowledge to create the powerful and valuable big data fed algorithms and planning predictions that will power next-gen CPM tools.
+
+The buyer checklist
+
+Buyers need to assess vendors across these dimensions:
+
+Did the vendor simply port an old product to the cloud?
+Is the vendor public cloud enabled so as to help keep costs to a minimum and afford the potential for operating based upon broadly accepted standards?
+Where are most of their product installations: on-premises, private cloud, or, public cloud?
+Does the vendor take advantage of high speed in-memory technology as the starting point for service delivery?
+Is the vendor either contemplating or actively using non-conventional business data feeds as a way of informing their predictive solutions?
+Does the vendor have machine/deep learning and/or AI algorithms that improve planning outcomes?
+How tightly integrated will the vendor’s solution be vis-à-vis my financial software? For example, Adaptive Insights appears as a tab in NetSuite’s application suite.
+Has the vendor created industry templates and algorithms that reflect the nuances of information needed for the buyer’s business or industry?
+
+Some of the solutions will take a long time to evolve to the next generation. Some could actually perish.
+Smart CPM buyers will:
+
+Disregard regressive marketing messages from old-school vendors (e.g., “The cloud is still an untested, risky thing”). Vendors touting out-of-date FUD are basically saying that they either missed the change in the market or don’t have the ability to innovate to the next generation of solutions.
+Press each and every vendor for their compelling afterlife story. If the vendor can’t show you anything more than a modest incremental improvement in how you budget/plan, then seek true love elsewhere. They need to be able to explain how radically different you’ll be planning and forecasting in the near future using big data, IoT data, artificial intelligence, etc. If they can’t describe this vision, you can bet they don’t have one. Don’t buy product from firms who can’t anticipate and deliver what your firm will need.
+Look for lots of improvements beyond labor savings. The best CPM solutions will focus on better forecasts not just fewer keystrokes.
+
+Something for everyone?
+I expect some readers believe that all of these futuristic capabilities is the stuff that only big companies will use or could afford or that the finance department will remain stuck in its spreadsheet enabled world. Wrong!
+I’ve seen a $100 +/- million manufacturer use in-memory cloud database technology to parse massive point of sale databases to understand the sale of their products, product sales seasonality and geographic trends, potential stock-out issues, etc. They also used the data to understand the sales and other factors behind competitor products too.
+My colleagues at diginomica are using predictive algorithms and machine learning techniques to better provide information to their readers. It won’t be long before that data is used to enhance the business model.
+End note: This story was enhanced with content from Den Howlett’s research into this topic.
+Image credit - Businessman on ladder planning network design in cloud © Tom Wang, Male engineer with blueprints standing on straight road © Stasique - both via Fotolia.com, graphics via the authorDisclosure - Workday, SAP, Oracle and NetSuite are premier partners at time of writingRead more on: Analytics planning and data analysis 

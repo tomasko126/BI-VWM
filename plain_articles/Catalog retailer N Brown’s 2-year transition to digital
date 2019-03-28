@@ -1,0 +1,23 @@
+
+With a 140-year history and a business oriented around catalog selling, fashion retailer N Brown Group is in the midst of a transformation program to refresh its systems for the digital age. Called “Fit 4 the Future” this is a two-year project to move systems to the cloud and replace aging applications that are no longer fit for purpose.
+The group’s portfolio of home shopping brands include JD Williams, Simply Be and Jacamo, aimed at consumers who are poorly served by mainstream fashion retailers, such as older women and those taking a larger fit. Employing around 2,800 people, the LSE-listed company operates largely in the UK, with a presence in Ireland, continental Europe and the US. Revenues for the last financial year were £866.2 million ($1.2bn). Two-thirds of its sales are online, with the rest through phone, mail order, and 15 recently-opened stores.
+The group’s systems were in need of a radical overhaul to support its multi-channel ambitions, says Lee Harris, programme director for the transformation project.
+To change content on our website required code deployment that took 24 hours.
+The contact center had no view of the customer basket from their green-screen financial services application.
+The platforms we had didn’t allow us to scale in international markets.
+The strategy for putting this right consisted of deploying modern new systems while moving the entire infrastructure to the cloud. The back-end Oracle Retail Suite, Fusion Financials and HR have moved to an IBM-managed private cloud, while the new Hybris ecommerce platform runs on the IBM Softlayer public cloud. A new credit scoring platform by Powercurve forms the core of the all-new financial services application.
+Agile delivery
+The new systems have been accompanied by a switch to a new development mindset more in tune with the cloud-native environment. The devops model of continuous delivery has transformed the company’s ability to manage change, says Harris.
+We’ve now got a truly agile delivery model. We can deploy new code in minutes and we can now start to scale up systems very quickly, which is going to be very important as we hit those peak days.
+The full e-commerce and credit platform is already live for European customers and will launch next in the US. After a pause for the peak shopping season — the website served 12.5 million pageviews on Black Friday last year — the system will roll out to the flagship brands and markets early in 2017.
+The experience of using the cloud platforms has built confidence and now cloud is “the de facto choice” for hosting applications, says Harris.
+One hard-learned lesson has been the need to host the integration servers closer to the e-commerce system than originally planned. With hindsight, it would have been better to have planned that from the outset, as Harris explains:
+To get the performance and latency we need, we’re now having to move the middleware onto the Softlayer platform. That was a learning — and difficult to do in the middle of the program.
+If we’d realised how much we wanted to put into Softlayer at the outset, we’d have made different choices.
+Business colleagues have also had to make adjustments as the in-house development team has embraced the rapid-cycling devops model. They are still adapting to the speed with which new functionality can be introduced, says Harris.
+The developers love devops, the difficulty has been the business losing control.
+My take
+Another retailer bites the bullet and replaces ageing systems with a more adaptable digital commerce infrastructure.
+One of the most important takeaways from this story concerns decision to relocate the integration middleware to the cloud. In any ‘bimodal’ IT landscape, the middleware becomes the ‘gearbox’ that allows systems running at different speeds to synchronize effectively. If you’re going to engage your customers at digital speed while maintaining slower-paced back-office systems, then a high-performance gearbox becomes a critical component to ensure smooth operation.
+Another takeaway is the need for business colleagues to understand that this is more than simply a technology replacement. Going digital has repercussions for the speed at which change can be effected, which demands more agile methodologies throughout the business.
+Image credit - Shopfront  © N Brown GroupDisclosure - Lee Harris was speaking at IBM's EMEA analyst summit in London last month. Oracle and SAP are diginomica premier partners at the time of writing. Read more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackRetail e-commerce and the omni-channelUse cases 

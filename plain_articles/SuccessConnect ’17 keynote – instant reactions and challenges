@@ -1,0 +1,44 @@
+
+SAP’s James Harvey and Amy Wilson
+SAP’s SuccessConnect 2017 day one keynote was short on big news items but long on importance. That’s because it marked the debut of an all-new SAP SuccessFactors leadership team, which includes cloud chief (and Executive Board Member) Rob Enslin and SVP of Products Amy Wilson.
+I had planned a mix of several keynote reactions but due to the problems with the live stream that’s not an option (more on that below). However, Holger Mueller and I taped the most impromptu reaction video in the history of impromptu reaction videos:
+
+After touching on the leadership and lack of big news stories, I asked Mueller if he took anything useful from the keynote. He said several announcements “helped me out,” noting, in no particular order:
+
+Onboarding “will be relooked at”
+There was a new “no-code required” editor announced for the candidate experience, which currently requires coding – “that’s always a good thing”
+There’s a new iOS mobile look developed by SAP, which has a big Apple partnership. But what about Android? Mueller won’t let Android neglect go without a jab: “I tweeted that this is the third time SuccessFactors has broken its commitment to never let the Android version fall behind.”
+There is a big SuccessFactors-on-HANA commitment – “This was always in the air and supposed to be happening, and it now seems to be happening with a pilot next year, starting with analytics.” (There was no statement on the transaction side).
+
+The Digital Boardroom demo was an effective example of SuccessFactors and HANA (and, like a couple of the demos shown, is available now, which is always good to see from the keynote stage, where vendors have a tendency to show off hypotheticals).
+One impressive demo not yet available (though evidently close to live) was partner Ernst & Young’s “workplace buddy” demo of a helpful chatbot for onboarding and beyond. Mueller:
+It wasn’t clear what the tech behind it was, but we are talking ML, AI, language recognition and speech recognition. It’s your buddy at EY that is going to help new employees orient themselves… even before they start working.
+The “buddy” sets a welcoming tone while confirming your vitals, leading Mueller to say with a combination of cynicism and appreciation: “The cheapest learning by an employee is before you have to start paying them.”
+This fits into his vision of voice-driven HCM:
+I would have liked to hear SuccessFactors say more about this, because I think strongly that voice is the new UI. Why do we have all these manager and employee self-service apps, instead of saying, “I have a live change,” such as “I have a new family member or new bank account,” which are a nightmare in the current employee self-service paradigm.
+I’m not a fan of judging a show by the opening keynote, so I asked Mueller what else SAP needs to accomplish to call SuccessConnect 2017 a success:
+SAP has to show that they have innovation across the board, not just the highlights they talked about. they have to address the AI and machine learning that was lying somewhere in the background; they have to address how does SuccessFactor play along with S/4HANA the suite – will it [only] integrate in the cloud version of S/4HANA, or also integrate with on-premise?
+I see integration between SuccessFactors and S/4HANA Financials as one of the highest priorities. Whether SAP sees it that way is a question I am sorting now.
+But I can say that in the post-keynote presser, Enslin said SuccessFactors will integrate with the public cloud version of S/4HANA as the priority, but also the on-premise version (which is also offered as a hosted option). However, Enslin joked – but in a serious way – there are no plans to build out on-prem options for any of SAP’s cloud products.
+Jarret Pazahanick’s reaction
+I received a blistering take on the opening keynote from SuccessFactors expert and independent consulting Jarret Pazahanick, who runs the largest SuccessFactors groups on LinkedIn. I’ll give you his comments verbatim:
+SuccessFactors missed a golden opportunity given “technical difficulties” as the first 70 minutes of the heavily promoted live Virtual Event did not work which is unacceptable for a technology company at their major HR event of the year.
+I talked with many SAP and SuccessFactors customers over the past few weeks who were looking forward to the opportunity to hear more about the cloud, what SAP/SuccessFactors has planned, as well as the tone of the new executive team as not one member of the keynote was on stage 365 days ago.
+It is important to note that many customers were already angry due to the conference being canceled on short notice in April and then sold out in August (due to small venue) so the virtual event took on more significance than it normally would have.
+There are a lot of big issues out with SAP HCM and SuccessFactors customers such as customer support, customer satisfaction, no effective program/bridge to help SAP HCM customers move to the cloud, that unfortunately were not addressed by the new leadership in the keynote which I think is an opportunity lost.
+On a positive note, kudos to SAP for not only setting up a Hurricane Harvey giving Page but starting off the keynote today with raising the awareness and matching donations from SuccessConnect up to 50K, as unbelievable devastation around my home town and many people are really hurting.”
+My take
+I get Pazahanick’s frustration. A non-functional live stream is a huge impediment. I’ll add – and this is not specific to SAP –  I continue to be amazed at how many vendors run well over on their keynotes, without regard to the schedules of the customers they are supposedly serving in this “customer-centric” messaging era.
+Just once I’d like to see a vendor stop mid-sentence and say, “You know what? We’ve used up your time. I’m going to stop now.” I think you’d see a standing ovation.
+Pazahanick and Mueller raised important concerns. However, I would add a few things I thought were effective:
+
+I interviewed SuccessFactors customers with compelling use cases, not just about software but about transforming HR (watch this space). Ease of software use  (and lack of need for training) was a big, encouraging theme.
+SuccessFactors’ Business Beyond Bias initiative is making progress towards productization, with some products already available. (I’ll be doing a piece on this also). I find this team has thought through the cultural and algorithmic implications of what they are doing carefully; this is not a feel-good PR campaign. (Pazahanick pointed me towards a new Business Beyond Bias video that is worth a look).
+I pressed the new SAP leadership during the press Q/A about the need for better SAP user group dialogue than we’ve seen in the past with SuccessFactors – for example, on hot button issues like Managed Payroll, where I felt user group views were disregarded. Enslin responded passionately to my question. He is eager to set a new tone; meetings have already happened to that effect. Some of ASUG’s team members are here, so I’ll be getting their feedback. In the backchannel, I see a more promising dialogue, which is a must if the kinds of issues Pazahanick raises are to be addressed.
+SAP’s Autism to Work program is one of their finest initiatives (SAP now employs 150 workers with autism). The video shown by Enslin in the keynote today was a powerful reminder your mission should inspire people to contribute – and find their unique strengths. Then your software has a chance of changing the world also.
+
+That’s enough for day one reactions. More to come as I chase the questions down.
+Also see: Holger Mueller’s Storify collection of the top tweets from day one. Updated with additional links a couple small fixes for reading clarity August 31, 5am UK time.
+
+ 
+Image credit - Photo by Jon Reed. Disclosure - SAP is a diginomica premier partner. SuccessFactors paid for the bulk of my expenses to attend SuccessConnect 2017. Read more on: Cloud platforms - infrastructure and architectureDiversityHCM and the digital future of workHR admin and payroll 

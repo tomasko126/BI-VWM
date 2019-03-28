@@ -1,0 +1,55 @@
+
+Pay up – or else
+If, like the UK’s Lincolnshire County Council, you happen to be hit by a ransomware attack, the big question always is should you pay up or not?
+While the question may appear somewhat academic, it is becoming increasingly less so as the number of such attacks – and devices attached to the internet – continue to mount. The Global Applications and Network Security Report 2015-2016, from application and network security provider Radware, revealed that just over a third of the 311 organisations it questioned worldwide had been struck by either ransom or SSL/TLS crypto algorithm attacks last year, the latter of which is used to steal credentials and other data from encrypted communications.
+Attempting to gain a ransom was also found to be the motivation behind around a quarter of all attacks in 2015 compared with only 16% the previous year, generally as a means of funding other cybercriminal activities.
+So just what is ransomware and what is the financial scale of the problem? This kind of malware actually first appeared in the shape of the so-called AIDS Trojan in 1989 – before most people even had computers. It was transmitted by floppy disk and either hid directories or encrypted/locked the names of files on infected machines’ C drives.
+But the use of such programs for financial gain – as opposed to pranks or vandalism – didn’t really take off seriously much before 2005 when the industry started seeing the emergence of lots of fake tools for spyware removal or performance improvement, followed by bogus antivirus software a few years later. 
+By 2011, a much more serious form of malware had started to take over in the shape of so-called “locker ransomware” such as CryptoLocker, which denies users access to their computer or device. This, in turn, was superseded by “crypto ransomware” such as CryptoWall, which encrypts files and data on devices’ hard disk, thereby preventing users from getting into them. Most infections, as with everything in the cyber-world, take place as a result of users opening infected email attachments or visiting an infected website.
+Worryingly though, according to a report entitled The Evolution of Ransomware from security software supplier Symantec, it is the particularly damaging crypto ransomware that now makes up just under two thirds of all such nasties, while the rest comprises locker ransomware. 
+Even more concerning is the fact that the number of attacks rose by a huge 113% in 2015 compared with the previous year. While the vast majority are simply blanket rather than specifically targeted attacks, the use of spear phishing techniques is definitely on the rise. The most common targets here include financial services firms, internet service providers (because if their service goes down, so does that of hundreds of other companies) and organisations holding sensitive personal information such as healthcare bodies.
+As to the total size of the ransomware market, no one has any really sound statistics on it, not least because many organisations are reluctant to report their misfortune. But a blog by KnowBe4, which provides security awareness training, provides some interesting estimates – it assesses the value of the market to be around $200 million per annum based on an alert last year from the Federal Bureau of Investigation (FBI). 
+Damage to business
+This alert indicated that between April 2014 and June 2015, the FBI’s Internet Crime Complaint Centre had received nearly 1,000 notifications about CryptoWall. Victims reported losses from this variant alone of more than $18 million, but infections were estimated to be at least two or three times more than the number reported. The blog continues: 
+
+Going by reported incidents only, it’s a $70 million per year criminal enterprise, but in reality it looks more like $200 million which is unbelievable. Some quick math shows $18,145 in costs per victim, caused by network mitigation, network countermeasures, loss of productivity, legal fees, IT services, and/or the purchase of credit monitoring services for employees or customers. As you can see, the total costs of a ransomware infection goes well above just the ransom fee itself, which is usually about $500 but can go up to $10,000.
+
+The Cyber Threat Alliance, a group of cybersecurity product and service vendors who share threat intelligence, estimated that the damage done to both businesses and consumers by CryptoWall alone was in the region of $325 million worldwide.
+As for the average size of the ransoms themselves, these appear to vary based on whom you talk to – and, interestingly, geographical region. For instance, security software provider Symantec says in its report that the usual fee is $300.
+The favoured method of charging to open up locker ransomware-constrained devices is payment vouchers, it adds, while transactions for handing over the decryption keys for crypto ransomware are more likely to be conduced in bitcoins.
+But cyber- and data security product vendor Imperva disagrees with such findings. In its report entitled The Secret Behind CryptoWall’s Success, it puts the average ransom demanded in the US these days at more like $700.
+The figure falls to around $500 for victims in Israel, Russia and Mexico though in order “to keep payments affordable” in line with average income. But if people fail to pay up before the ransom note expires, the amount required doubles, a fact, Imperva suggests, implies the involvement of organised criminal gangs experienced in both business and manipulating the human psyche.
+The countries being most hit, meanwhile, are unsurprisingly located in the developed world as people there tend to have the most money. According to Symantec, top of the target list is the US, followed by Japan, the UK, Italy and Germany.
+Which brings us back to the point of what to do if you come in to work on a Monday morning, turn on your computer and find a ransom note staring you in the face.
+If quotes attributed to Joseph Bonavolonta, assistant special agent in charge of the cyber and counterintelligence program at the FBI’s Boston office, are to be believed, organisations might as well just go ahead and put their hands in their pockets.
+Bonavolonta was quoted by online publication The Security Ledger last October as saying that the encryption technology used in CryptoWall was so good that:
+
+To be honest, we often advise people just to pay the ransom.
+
+To pay or not to pay?
+He was also cited as stating that the “overwhelming majority of institutions just pay”, not least because “you do get your access back”. But his comments caused a firestorm, with many a headline at the time questioning whether the FBI should really be encouraging organisations to pay cyber-criminals off, something they would never do if a ransom had been demanded for hostages.
+Most other security experts though are completely adamant that affected organisations should never pay up – even though one 2014 study by the UK’s University of Kent’s Interdisciplinary Research Centre in Cyber Security suggested that as many as 40% do, including law enforcement agencies such as a local police department in Massachusetts.
+But as David Emm, principal security researcher at internet security software provider Kaspersky Lab, points out:
+
+While it’s understandable that victims with no other alternative feel compelled to pay the ransom, the issue is very problematic. Paying the ransom validates the cybercriminals’ business model, leading to the development of more ransomware. It’s also important to remember that once paid, they may not provide the decryption key to recover the data. At the very least, paying up should be a decision of last resort, not a routine approach to the problem.
+
+Peter Coogan, principal security response manager for Symantec’s security response team, agrees. He says:
+
+There’s no honor among thieves so there’s no guarantee that they’ll unlock your files even if you pay. And even if they do, they could just re-infect you and try to extort more money. But there’s no harm in giving it a go with negotiation. Each case is individual so there’s no way of knowing for sure if you’ll be successful, particularly as they hold all the cards. If you hit the sweet spot of $10,000, you can also possibly go to law enforcement, who it’s always worth reporting the situation to anyway.
+
+In the case of the UK’s Lincolnshire County Council, it refused to pay an alleged ransom demand of £350 after a staff member opened an infected email attachment, but managed to contain the situation by taking down its network for four days – although not before the malware had spread to 300 machines.
+Orlando Scott-Cowley, cyber-security strategist for email cloud services provider Mimecast, explains the significance of the incident: 
+
+Lincolnshire suffered a classic attack. The ransomware was propagated thru network shares and so shutting its network down was the right thing to do – although taking systems offline is generally a last resort. It then restored them by rolling back its backup systems and so was able to deal with the situation quite effectively. So it was a happy ending – this time.
+
+My take
+The best way to try and tackle the growing ransomware challenge is to try and prevent it from infecting your machines in the first place. As a result, it’s about following all of the usual security advice and ensuring that:
+
+Your anti-virus and web and email filtering software is kept up-to-date
+Your operating systems, applications and browsers are patched promptly and regularly
+Your systems undergo regular penetration testing to help you understand your risk profile and fix any potential problems
+Data backups are made regularly to offline storage in order to prevent the copying of encrypted files there too
+End users are trained and reminded of good security behaviour, which includes not opening dodgy-looking email attachments and not downloading unknown applications
+You have conducted proper scenario testing, have plans in place to deal with any attack, and communicate about it with employees and stakeholders, should disaster strike.
+
+Read more on: IdentitySecurity 

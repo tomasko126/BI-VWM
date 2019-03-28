@@ -1,0 +1,31 @@
+
+Sparking
+It’s most definitely conference season. While Oracle and its ecosystem are currently blocking the streets of San Francisco and making Uber drivers very happy, over in Las Vegas IBM is setting out its stall at its Insight gathering where it’s all about analytics, BI and solving problems for big customers.
+Off the starting blocks on day one was IBM Insight Cloud Services, pitched as an enabler to empower better understanding of data in an age of cognitive systems.
+IBM Insight APIs for Developers includes four APIs that lets developers use historical and forecasted weather data from The Weather Company for Web and mobile apps. Two other APIs allows developers to stream insight-rich Twitter content into apps.
+IBM converged its access to Twitter data, all of current and historical weather data from The Weather Company and more than 150 open data sources for the Insight Cloud. This insight is intended to let businesses and governments plan ahead of severe weather.
+Elsewhere Cognos Analytics has had a lick of paint on its user experience, working around the self-service design principles used in Watson Analytics. IBM’s pitching self-service dashboards for business essentials, such as monthly financial reports, weekly sales pipeline trends, daily production yields, hourly inventory levels, that can be accessed on any device, anywhere.
+It’s also about converging Cognos with the world according to Watson. An example cited was metal roofing products manufacturer Mueller, which is using Watson Analytics to allow execs to get insight from their data by simply asking questions using natural language. Mueller can now use IBM Cognos Analytics as a unified BI platform to help improve its business performance and operations.
+Mark Lack, manager of strategy analytics and business intelligence at Mueller, says :
+Watson Analytics is an individual data discovery tool that makes it easy to uncover insights from data. With Cognos Analytics, we’ll able to put that insight into practice by distributing reports and providing dashboards with this trusted information to get everyone on the same page.
+As for Watson, well it now has an expanding cognitive computing ecosystem underway, with IBM adding 6 new names to the roster at Insight. These are:
+
+Engage – for call center support
+Macaw Speech – for call center support
+Opentopic – for content marketing
+StatSocial – for social data analysis
+Vennli – for survey analysis
+Domus Semo Sancus – for risk management.
+
+Sparking
+IBM also announced the redesign of more than 15 of the company’s core analytics and commerce solutions with Apache Spark, as well as the availability of its Spark-as-a-Service offering on IBM Bluemix. This follows a 13-week Beta program with more than 4,600 developers.
+The Spark-as-a-Service option is pitched as helping to dramatically accelerate real-time processing capabilities.bRob Thomas, vice president, product development at IBM Analytics, says:
+By embracing the insights-as-a-service model, you’re not buying raw data or analytics tools. You’re purchasing solutions to the problems and challenges you face every day.
+There is no need for you to make and manage separate arrangements with numerous data providers, to stay on top of the latest analytics technologies, or to recruit and retain the most expensive professionals in the insights economy—data scientists. IBM handles all of that for you.
+It was only in June that IBM joined the Spark Community with a $300 million commitment, declaring it to be “potentially the most important new open source project in a decade”.
+Away from the tech pimping, one high profile use case that was thrown into the mix was the Ottawa Sentators ice hockey team which is tapping into behavior-based, predictive analytics technologies in search of deeper understanding of its fan base, specifically their actions and thinking as individual consumers.
+The sports giant will use IBM’s customer intelligence system IBM Fan Insight to pool data collected from fan interactions and then crunch those numbers to make sense of attitudes, behaviors and characteristics to help identify individual fan preferences, enabling individual fans to be targeted with specific offers for the likes of season-ticket renewals.
+IBM’s tech will provide visual analysis of fan interactions, track initiatives and campaigns to gauge success, and collect and store Senators Sports & Entertainment data.
+Peter O’Leary, Senators chief marketing officer and vice-president of ticketing, says:
+This agreement will enable us to gather new insights on our fans that will allow us to be more efficient in our operations and provide a more personal and enhanced experience for all of our guests.
+Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureInternet of Things 

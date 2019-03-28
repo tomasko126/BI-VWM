@@ -1,0 +1,33 @@
+
+This week, the UK’s national weather service, the Met Office, announced the availability of its new mobile app, designed to bring faster and more accurate weather forecasts and warnings to the public. Appropriately enough, it’s being powered by the cloud. 
+The new Met Office Weather App is a replacement for the organisation’s previous mobile offering, which was launched back in 2012 – but as Met Office solutions architect Chris Beighton explains, it’s been developed along very different lines from its predecessor. 
+For a start, he says, the new app relies on data stored on systems in the Amazon Web Services (AWS) cloud, rather than the Met Office’s own, on-premise systems:
+
+As an organization, we have a lot of very powerful, on-premise hardware, that gathers, processes and collates weather information and makes it available to our customers and partners, including the public. The old app was, if you like, hard-wired into that Met Office infrastructure so that, when a user accessed the app, the data they’d see would be pulled directly out of that infrastructure. But we have many applications already using that infrastructure and a wide variety of obligations for information-sharing, not just with the public, but also with the aviation sector, the emergency services, gritting companies and many others.
+By moving the Weather App and other parts of our public delivering capability out to the cloud, we’re able to cushion and protect our core infrastructure from the loads placed on it by quite difficult-to-predict public demand.
+
+When Storm Katie hit the UK in late March, for example, the Met Office received a 200% increase in traffic and over 8 million visits to its public-facing website and app over the course of a single weekend. This new ‘Weather Cloud’ will ensure that those systems can tap into the cloud’s scalability benefits, so that underlying systems scale up in response to increased traffic flows when short-term ‘weather events’ strike and, importantly, down again when demand reduces over the summer months, thus saving the Met Office money. Beighton says 
+
+If, for example, we issue a weather warning, the app’s users will get a push notification, get out their phone and start to look at the app. That would previously have resulted in a significant impact in demand on our internal infrastructure. What having this abstraction layer does is cushion that internal infrastructure from the blow of that sudden impact and at the same time allows us to maintain the user experience, so that everyone gets the data they need.
+
+In effect, the Weather Cloud acts as a cache for data. It makes a predictable hourly call for data against the Met Office’s on-premise systems, the information is pulled up into the Weather Cloud, and is then available to mobile app users. 
+Agile thinking
+What also differentiates the new app from the old one is a more agile, iterative approach to development, says Beighton: 
+
+When we developed the original mobile app, the process was very much a case of talking to customers and users, gathering requirements and then developing something to meet their needs. One of the key things with the new app is that we’re not trying to meet the needs of everybody all at once. We’re trying to iterate. We’re going to users and saying, ‘This is our app. What do you think?’ And hopefully, they’ll tell us which features they like and which features they don’t like and what else they’d like to see in the app. By using analytics, we might decide to withdraw parts of the app entirely if people aren’t using them. We can then take all that feedback into account and make adjustments.
+So rather than the ‘fire and forget’ approach that lots of organisations took to mobile app development a few years ago, in which there’d be fairly infrequent iterations, we’re looking at an ongoing programme of iterative development and constant improvement. What you’ll see with this new app is that, rather than six-monthly or annual releases of functionality and bug fixes, we’ll be releasing software all the time.
+
+The Met Office has worked with mobile company The App Business on this development, and while the Met Office retains full oversight and owns the product queue that governs future enhancements and adjustments, much of the coding is provided by its partner. Together, they’re working in fortnightly sprints, Beighton explains:
+
+This flexible approach means that if we find that the feedback isn’t so good on a particular release, the next release is only a few weeks away, so we can improve it, or take out something that’s not working so well or replace it with something else altogether. Within our sprint backlog we can accommodate new ideas and new thoughts and reprioritise them, because the team is never committed to delivering a whole app in one go.
+
+Another key difference is a more concerted effort on usability this time around. The new Met Office Weather App has been widely tested with various members of the public and focus groups to create a product that’s more intuitive to use and should also be lighter and more responsive, Beighton claims. 
+It also includes a Weather Radar – a feature the previous app lacked. This enables users not only to get basic weather information such as temperature, air pressure, humidity and pollen count, but also view graphical representations of how rainfall is developing at any given time and how it’s moving, step by step, across the country. 
+
+That feature’s a really useful one if you’re in a location and watching rain approach from a distance. By using the app’s Weather Radar, you can see when rainfall’s going to hit you and also when it’s likely to clear up again.
+
+So what other bells and whistles are on the cards for the Met Office Weather App in the next few months? Beighton’s not saying – but that’s only because they’ll be dictated by the people who use the app, rather than some internal product development plan. 
+
+We really like the Government Digital Service way of working and one of its very good ideas – and one that we try to follow – is that everything you put into an app should be derived from end users. So in terms of what’s coming next, that depends to a very large extent on what we’re asked to provide. They’ll tell us, we’ll respond. Our roadmap right now is a case of ‘Let’s see what happens’.
+
+Read more on: MobileUse casesUser experienceUX and application design 

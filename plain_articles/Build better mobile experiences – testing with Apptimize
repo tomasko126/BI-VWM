@@ -1,0 +1,55 @@
+
+Mobile first is an approach many companies take today. They have a mobile app, optimize the web experience for mobile and focus much of their efforts on the mobile experience.
+Apptimize, a mobile experience and A/B testing platform, helps companies ensure that experience is the best it can be. Co-founded in 2013 by Nancy Hua, Apptimize now helps optimize not only the mobile experience but also the cross-platform experience.
+Think about it. Even if a company focuses on mobile first – whether that’s a native mobile app or a mobile web app, there’s usually still a website, and there’s often an in-store experience to consider. Each experience has the potential to affect the other.
+Hua said, at Apptimize they realized that it was important to understand how all channels impacted revenue even if a company was mobile first. In October of last year, Apptimize launched its cross-platform solution that would target tests across channels (including offline) and report on results.
+The mistakes brands make with mobile
+I asked Hua what kinds of mistakes she sees brands making with their mobile experiences. She told me that big brands with a lot of resources for mobile still have poor mobile app store reviews because they aren’t strong in the basics.
+According to Hua, the rate of iteration is 100x faster in mobile – you can make changes multiple times a day to respond to consumer needs. However, many brands will deploy only one version, and they don’t often test in the middle of a redesign.
+She said it’s critical to test on live users, not just focus groups, to get real-time data on how the experience is being received. If you test on live users, you can adjust the experience quickly as necessary.
+AB testing for mobile
+In its State of Mobile Experimentation research, Apptimize wanted to know what brands A/B test and why. This study surveyed product managers and found that while everyone focused on monetization, executives were also very interested in KPIs related to retention and engagement.
+From the report:
+Studies have shown that companies see a smaller number of customers contribute a larger amount of their revenue. Retention goes hand in hand with revenue since executives are looking to retain their best customers while sustaining growth with happy customers overall.
+What drives mobile testing/experimentation to achieve these KPIs? Hua said key product initiatives drive many tests. Companies also want to understand what would increase in app engagement or increase mobile conversions. They also want to know where the bottlenecks exist, and which features are most important.
+
+Source:  The State of Mobile Experimentation research
+To test monetization efforts, Apptimize suggests:
+
+For Ads – A/B test ad formats, copy, creatives, placement, serving different ads to different audiences
+Subscription rates – test the ways you display the annual subscription rates, try providing some validation to a paywall – like a user testimonial or an offer
+Checkout Flows – test different approaches to make the checkout process quick and seamless, yet secure
+
+To test on-boarding:
+
+Try testing longer and shorter sign up processes
+Test incentives
+See if there are ways you can automate part of the process to make it easier for the user
+
+To test retention/engagement:
+
+Test different features, content recommendations, promotions, etc.
+If you want to offer push notifications, test opt-in process
+
+To give you an idea of some of the things you can test for a retail mobile app, Apptimize offers these suggestions:
+
+Login – what is the right amount of login options; which login option optimizes total login and revenues
+Check out – test the sequence, the length of the process
+Menus – do you have the categories right, is the menu in the best place
+Layout – how many items should you show, how big should the images be, where and how should you show featured offers
+Suggestions – show suggestions based on past purchased, past viewed?
+Messaging/Copy – text on buttons, alerts, CTAs, security messages, titles, and menus, etc.
+
+Hua said that you need to create a test plan and define metrics for customer success. She also said the first few tests are impactful.
+Apptimize provides a few ways to optimize mobile experiences (and other channels). A/B Experiments are one way. It also provides Feature Flags – the ability to enable, disable a feature, slowly roll out new features or target a feature towards a certain group for testing; as well as Instant Updates. Instant Updates enable a brand to make real-time visual changes to a native mobile app without having to go through the app store.
+Optimizing across the entire  experience
+Initially, many companies are more mobile-oriented, and then they add in other channels. With the introduction of Apptimize Cross Channel, brands can test the user experience across all channels.
+This ability to test cross-platform is important for a few reasons. First, you want to ensure your users have the same experience regardless of channel or device they are using. If you make a feature available in a mobile app, but the user doesn’t see the same feature in the website or at a kiosk in-store, they may become confused, frustrated and annoyed, impacting their impression of your brand.
+If you are conducting multiple experiments across several channels, you don’t want a user to get one variant in one channel, and another in a different channel leading to an inconsistent experience.
+Also, as Hua pointed out, by testing across channels, you can track a user throughout the entire journey – whether it’s a purchase journey or something else. Then you can see the impact of an experiment on one channel to the other channels.
+You also get integrated metrics and reporting to see the bigger picture.
+My take
+We’ve always talked about optimizing the web experience, and there are plenty of tools to help do that. There are also tools to help optimize mobile experiences.
+But testing each in isolation is only giving you part of the picture you need. And testing in isolation has the potential to give you an inaccurate picture of an individual’s experience with your brand. That’s why I like what Apptimize is doing. It started as mobile-only testing, but it recognized that even if a brand primarily focuses on the mobile experience, there are still channels that influence that experience.
+Brands spend too much time looking at their channels as separate, even if they speak to cross-channel or omni-channel experiences. If there’s one thing to improve on this year, it’s getting to a true cross-channel experience.
+Image credit - Freeimages/dominik gwarekRead more on: Digital and content marketingMobileSocialUser experienceUX and application design 

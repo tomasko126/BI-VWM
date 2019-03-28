@@ -1,0 +1,21 @@
+
+Torn that?
+Oracle OpenWorld 2015 has been characterized by numerous strong announcements covering everything from applications through to platform as a service and on to infrastructure as a service. As such, this has been one of the meatiest OOW’s in a few years.
+The IaaS topic is particularly compelling because Oracle is pitching both a highly secure and aggressively priced offering to the market.
+On the apps side, Oracle has fleshed out important parts of the ERP puzzle with a slew of manufacturing related modules that are coming to market before the end of the year.
+If all of the wasn’t enough, Oracle is trumpeting strong traction with its subscription based offerings across the board. All good. But — the post Safe Harbor problem of data storage looms large, as it does for every vendor.
+This was a topic I and others raised with successive executives. Each gave a slightly different answer. Thomas Kurian, president product development and the brains behind much of Oracle’s technical transformation said in an analyst session that he is “very comfortable” with the company’s data center positioning in Europe.
+Oracle issued us with a statement on this topic where it said:
+Oracle offers Cloud customers the ability to store their data in Europe so that it is not sent for storage elsewhere.  Certain Cloud operations may require access from engineering resources in other regions.  Those resources are subject to EU data transfer requirements without reliance on the Safe Harbor Framework.
+This is careful wording and I give Oracle credit for attempting to address the problem. But it isn’t a ‘get out of jail free’ card.
+I, along with Vinnie Mirchandani, sat down with Steve Miranda, EVP Oracle Applications Product Development. He acknowledged this is a tricky problem but anticipates that European countries will figure out a way forward. I am not so optimistic.
+In the meantime, Oracle is making sure that customers understand that for certain operations, Oracle may need to move data out of nation states, but, critically, that data is encrypted with the keys held by the customer in their home state.
+Miranda agreed with me that the current situation is a “quagmire,” an expression first brought up by one of Oracle’s partners who is deeply concerned that there isn’t a catch all solution in sight from Oracle at this point in time. I’m not sure that would be possible, given the current state of uncertainty not just inside Europe as a whole but among nation states.
+My sense is that Oracle will act both responsibly and carefully. It is in their interests to do so. But, like all other vendors, they will have difficult choices to make around how they manage data and under what circumstances, they have to move between locations, some of which may not be in the EU, or, for that matter, into states where Oracle does not have owned data center coverage.
+To that extent, Oracle’s hybrid strategy of offering captive data center services will likely tide customers over the hump of the current legislative impasse.
+Colleagues think the EU is behaving badly and see the current situation as a form of protectionism. I disagree. It is difficult for some colleagues to truly appreciate the extent to which US intrusion into the lives of non-US citizens has irked both people and the governments that represent them.
+Be that as it may, my view is that Oracle’s current position is about as good as it can get.
+The fact that Oracle may be compelled to hand over data to government agencies from data centers it manages will not matter to customers. As both Larry Ellison, CTO and Miranda pointed out, Oracle cannot see customer data. That provides a measure of customer protection that is compelling.
+Of course we are all making assumptions about outcomes that lay in the future but paradoxically, the current status quo hands Oracle an interesting advantage in the competitive landscape. How well Oracle plays that particular card — and preferably without larding too much FUD — remains to be seen.
+We will check in with the company at the turn of the year to see how this plays out.
+Read more on: Governing identity privacy and security 

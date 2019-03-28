@@ -1,0 +1,58 @@
+
+At first it seemed like a trickle, but in the past few months the cascade of data science-driven products and strategies from enterprise software vendors has become a raging torrent. Smart computers are no longer science fiction. Many of the industry’s leading names along with countless hot new startups have succeeded in harnessing the potential of data science, bringing a sudden tide of innovation across the business software market.
+The overused term ‘big data’ is no longer enough to encompass the full range of technologies that are being deployed. Each of three distinct data science trends are in play. Here’s a rundown of all three in turn.
+1. Predictive analytics
+After years of false dawns, computers are finally gaining the ability to analyze patterns and make intelligent deductions that have real-world business impact. Success has arrived thanks to an improvement in algorithms at the same time as cloud computing has made the necessary infrastructure far more affordable.
+Vendors are adding these machine-learning capabilities to their products to help speed up or refine processes as diverse as form filling, project planning, talent management, helpdesk case allocation or sales forecasting. In just the past few months, we’ve seen a cavalcade of announcements from virtually every enterprise software vendor of note:
+
+
+Last week, Unit4 unveiled a new technology platform for its flagship ERP and financials products that makes significant use of machine learning to personalize the user experience and help automate repetitive tasks. Unit4’s global head of product management Thomas Staven had previously written how the vendor’s concept of “self-driving ERP” could be applied to project planning:
+
+
+If a company has already run hundreds of projects and your ERP has captured all the budgets, forecasts, re-forecasts, timesheets, expenses, invoices and other actual costs related to the project, the ERP can make a prediction on the time and cost of the next project to be estimated. It is all about leveraging the data, defining patterns, clustering similar types of projects and using machines for what they do best — processing vast amounts of data. There’s no reason why the machine can’t work out the best project plan, propose the best resources available and the right competence for each job.
+
+
+Microsoft CEO Satya Nadella put machine intelligence at the center of his keynote at the vendor’s main business software conference last month, with several announcements reinforcing the theme. He hailed the emergence of a new generation of “systems of intelligence” that he said would transform the capabilities of enterprises:
+
+
+I think we are at the dawn of a new generation of business systems.
+With the ability to reason over data, we now can build these systems of intelligence.
+This is going from having systems that are very useful unto themselves but are somewhat static and converting them to learning systems … where everything that you have becomes intelligent.
+
+
+Salesforce last month announced it is adding machine intelligence to its Service Cloud platform to automatically route service issues to the most appropriate agent based on their skill set, workload and the case history — including routing contacts to the same agent even when they switch from, say, email to phone or video chat. Sarah Patterson, VP of marketing, Salesforce Service Cloud, described it as “using data science so that businesses can run more intelligently and provide more effective customer service.”
+At the Mobile World Congress, SAP showcased its technology for machine-aided service maintenance.
+Workday last year unveiled new analytics tools that apply data science and machine intelligence to produce predictive insights and recommendations for specific business scenarios. The first batch of tools provide assistance ranging from rating retention risks or recommending career paths to identifying expense policy abuse or potential late paying customers. These capabilities build on innovations of the past ten year, wrote VP of technology products Dan Beck last week:
+
+
+Innovations in data classification, machine learning, and unstructured data access will enable even smarter enterprise applications that will deliver a new wave of understanding about our organizations.
+
+
+Infor has also recruited predictive analytics, which CEO Charles Phillips last year said would enable a “breed of applications that anticipate what it is going to happen.” Last month, Infor president Duncan Angove elaborated on this message of using data science to unlock business value:
+
+
+The successful companies of the future will be the ones that turn big data into smart data, and build that data into the core of their businesses. The next challenge is to discover the most valuable way to process, visualize, and share that data.
+The above is just a sampling — there are many more examples, including IBM Watson’s ability to summarize the character traits of Steve Jobs, Richard Dawkins and diginomica’s own Den Howlett.
+2. Big data platforms
+Many of the above capabilities rely on underlying datastores and analytics engines that utilize big data technologies such as Hadoop and the full gamut of ‘not-only SQL’ platforms.
+Vendors and enterprises alike are investing in these new data platforms to find patterns in time-series data and other non-traditional data sources. This is creating a new generation of applications and capabilities that were unimaginable just a few years ago.
+There are strong parallels to the emergence of SQL database platforms in the early 1990s, when relational database technology became the catalyst for a new generation of enterprise applications. Initially these were custom built (remember 4GL development platforms?) but after a few years the marketplace coalesced around a few packaged applications that did the best job of delivering what businesses needed.
+Will we see similar packaged applications in the field of big data? To some extent we are already seeing some of the functionality being packaged up in all of the machine learning examples mentioned above. But most enterprises investing in big data are still at the experimentation stage.
+For such companies, Brian Sommer’s 2-part analysis of big data winners and losers is instructive. His tl:dr; verdict: “The kit for this is not the usual ERP stuff.”
+3. Everyday analytics
+At last month’s Convergence conference, James Phillips, corporate vice president of Microsoft’s business intelligence products group, set out for me his take on three generations of business intelligence tools.
+
+First came the technical BI tools such as Cognos and Business Objects, which required a high level of technical skills to produce any results.
+The next wave was aimed at business analysts. Microsoft Excel is the stereotypical example. It still took a certain amount of skill to build models but you didn’t need to be a technologist. More recent arrivals such as Tableau have added the ability to do more appealing visualizations. But this is becoming a commodity play, said Phillips.
+The third wave of BI is “a service that any non-technical person can sign up and start getting value,” said Phillips. He cited Salesforce Wave, IBM Watson analytics, and Microsoft’s own PowerBI as the leading protagonists in this third wave.
+
+This third wave lets business users work with dashboards and graphics that help them interpret and act on the latest data from both within and outside core business systems. Sometimes these capabilities come standalone, but increasingly they’re embedded in familiar applications.
+Although these capabilities typically operate on the same underlying big data platforms, this kind of analytics is distinct from the automated analytics of machine learning. Instead of leaving the decisions to the computers, these tools surface the data in ways that allow humans to do the analysis more effectively and make better decisions.
+Increasingly, the analytics is embedded in the applications that people use in their day-to-day work rather than being something that has to be loaded up and operated separately.
+My take
+People tend to classify big data and analytics as a single category but that’s probably misleading. There are three separate trends within the category. They may interlock but each has different repercussions for specific groups of users. What they have in common is that all of them will have a huge impact on how people work with enterprise applications in the future.
+Disclosure: Infor, Oracle, Salesforce, SAP, Unit4 and Workday are diginomica premier partners. Microsoft funded my travel to attend Convergence.
+As chair of industry group EuroCloud UK I’m organizing content for an event on this topic in London on the afternoon of April 9th. For more details and to register follow this link: Analytics and Big Data: What it Means for SaaS and Cloud Providers.
+Image credits: Woman answering digitally © Sergey Nivens – Fotolia.com.
+
+Read more on: Analytics planning and data analysis 

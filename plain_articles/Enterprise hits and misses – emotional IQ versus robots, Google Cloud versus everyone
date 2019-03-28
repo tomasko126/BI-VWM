@@ -1,0 +1,62 @@
+
+
+diginomica hit: Culture, leadership, and emotional intelligence – beyond the robots with by Denis Pombriant and Paul Wallbank
+quotage: “Social workers, teachers, psychologists, doctors and others do this kind of thing instinctively, requiring more than a modicum of emotional intelligence. In part, the future of business and of being better business people lies in understanding what those people already know. Perhaps that’s one reason there’s such a difference between the public or political sector and the private or business world and why so often business leaders fail to translate their successes into the political domain.” Denis Pombriant, Emotional intelligence, the empathy no robot can (yet) emulate
+myPOV: Hits/misses picks have been dominated by AI of late. This week we’ve got the revenge of the humans, or, the potential revenge. Rmotional intelligence is a career asset. As Pombriant argues, it’s also a key to relevance as machines get better at not only parsing data. but recommending courses of action.
+Denis shares recommendations on how to improve one’s emotional IQ. As Pombriant says, it might not be long before machines diagnose cancer and suggest treatment. The good human doctor still does that one big thing: sits down with the patient and reach common ground on what’s next. Will robots nudge professionals with crummy bedside manner to the unemployment line?
+In Brewing cultural change at AB InBev, Wallbank hits on more terrain beyond – or in this case, with the machines – culture change. Fresh off the Sydney Ad:Tech conference, Wallbank details actions the world’s biggest beer company is taking to re-invent amidst changing conditions, not the least of which is the boom in microbreweries.
+diginomica three –  my top three stories on diginomica this week
+
+Luxury brands – the final frontier for omni-channel e-commerce? – Stuart shops upscale this week with the question we’re all pondering: will anyone buy $10,000 handbags online? Fresh McKinsey data says yes – to a point. Then a plateau. But before that plateau is market share. It’s too early to say which luxury brands will be omni-channel winners or losers, but Stuart has some thoughts. Also see: Stuart’s Williams-Sonoma passes e-commerce retail tipping point.
+
+Marketing automation is personal, contextual and mobile – Scondoo’s story – Barb with a nifty use case that shows us a glimpse of what personalization could be when it’s real and not just a flogged fable false promise excuse-to-spam load of marketing tripe. What makes this one from Kahuna different? The push to get the right content at the right time – but also on the device/channel you prefer. If you think that’s easy talk to the hotels I keep unsubscribing from due to their spray-and-pray “personal” offers.
+Arthritis Research UK enlists AI chatbot ‘Arthy’ in mission to offer information and advice – nice to see a non-profit push the chatbot envelope. Stuart filed this one for our diginomica/gov site – a cool effort to use an IBM Watson-powered virtual assistant to (hopefully) provide a human-like on-site interaction. Arthritis sucks – go Arthy! (the name for the chatbot prototype).
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+IaaS will lead our cloud advance, says Ellison as Oracle pleases Wall Street – I’m still not sold on Oracle’s IaaS push, but as Stuart points out, it marks a fascinating shift in competitors: “No mention of ‘first to $10 billion’. No mention of Salesforce. A passing reference to Workday. A nod to SAP. The competitive messaging coming out of Oracle yesterday was somewhat different to that we’ve become accustomed to. It’s Amazon and Microsoft in the sights now, particularly the former.“
+SAP Hybris and the push towards enterprise microservices – an analysis – Dick with a nifty two-parter on microservices in the enterprise, spiked with learnings from recent SAP Hybris events, and his own Encyclopedia Browning: “For customers, microservice-based architectures also represent new challenges. If you are using an application that is composed of 90 different services from 10 different sources, who do you call if there is an issue? You want one neck to choke. From a CIO perspective, governance of such scenarios will probably be become more complex.” (quote is from the follow-on, A deep dive into SAP Hybris YaaS microservices.)
+DataStax CEO launches new CX strategy – focus shifting from tech to business – Derek hits on a change in NoSQL business strategy with implications beyond DataStax: “The strategy is particularly significant as it signals a shift in focus for the NoSQL vendor. A shift away from tech-heavy discussions, towards understanding organisation-wide business problems. This is something that we’ve seen the likes of competitor MongoDB attempt to do too, which shows that this market is rapidly maturing into one that has high-level board interest.”
+
+A few more vendor picks, without the quotables:
+
+FinancialForce signs another hot shot, appoints Fred Studer as CMO – Den
+Plex bypasses IoT buzzwords for business led intelligent analytics – Den
+Coupa ends FY17 with a flourish, sees ‘disciplined’ growth – Phil
+
+Jon’s grab bag –  Net neutrality is a concerning issue; Denis Pombriant explains why in The net neutrality hairball comes rolling back. Pombriant exposes this low-value charade: “The problem with reopening the net neutrality debate is that it encourages regulatory entrepreneurship in which a few get rich without inventing anything that would benefit society. It’s a form of rent seeking.”
+Derek wraps my picks with Police Scotland’s failed i6 system is a reminder of why we can’t go back to big IT in gov, a reminder that the shadow of IT failure is never as far away as we think. Derek drains swamp: “big government IT projects simply don’t work and aren’t fit for purpose.”
+Best of the rest
+ The pros and cons of Google Cloud, and the shop floor redemption of…  Google Glass? by several smart folks
+quotage: “Whether it is talking about multi-cloud or partnering with SAP or talking about the engineering support options, Google tried to appeal to enterprises moving to cloud. One of the criticisms about Google Cloud was they appeal to vendors like Snapchat and Evernote but not much to traditional enterprises. They tried to negate this by lining up vendors like HSBC, Colgate, Schlumberger, Disney, The Home Depot, etc.. Listening to all these customers, I saw a common thread on their interest with Google Cloud. It is about the potential for Machine Learning workloads aided by powerful big data offerings from Google.”  – Krish Subramanian, Google’s Enterprise Ambitions – Google Cloud Next ’17 Report
+myPOV: Amidst some fluffy/fanboy Google Cloud takes, a couple meatier ones appeared, including Subramanian’s pros and cons. While giving Google props for its machine learning edge, Subramanian is still not sure if Google has hit the enterprise relevance threshold. He doesn’t see enough customers going “all in” with Google Cloud, ergo Google’s “multi-cloud” pitch. which he sees as a weakness. Google must be a “destination” for most of their customers’ cloud workloads rather than giving the message they are one provider amongst many.
+In Google Cloud Invests In Data Services and ML/AI, Scales Business, Doug Henschen of Constellation Research fleshes out Google’s ML/AI edge. Henschen cautions that most of what we heard at Google Next is “heavy on betas and light on general releases.” Henschen also gives Google a practical edge over other providers in “managed cloud services.” Whether Google can turn these strengths into a dominant enterprise play is the question.
+Speaking of general releases in surprising places, my newsfeed readers enjoyed this modest redemption story, Google Glass Didn’t Disappear. You Can Find It On The Factory Floor. These use cases, many still in small rollouts, are ideal when “hands free” is a huge edge over, say, carrying a tablet, and no one cares if you look distracted or pretentious as long as you are doing your job safely.
+Numbers are bearing fruit, such as farm manufacturer AGCO, where quality checks are up 20 percent. Not sexy for the TechCrunch crowd but for us enterprisey types, this story has legs, err spectacles. Another redemptive angle: did you know that children with autism are using Google Glass to recognize emotions?
+Other standouts:
+
+Warning: This Is Not Your Grandfather’s Talent Planning – If you can avoid First Round’s annoying tedious soulless exit pop-ups, this is a piece to gnaw on. I was wondering about “superstars” versus “rockstars” but the distinction in how to manage them makes sense.
+An Open Letter to Database Administrators: Be the DBA of the Future! – Meant to push this New Stack ditty last week. Check this wake-up zinger: “The database change process is slowing down application releases. What was absolutely mind blowing, however, was how clear the problem is to the rest of the company, not just to you, the database administrator (DBA).”
+The Ad Contrarian: Ad Industry’s Dangerous, Misguided Policy – A consumer privacy statute is under fire from the White House and advertising trade associations. The Ad Contrarian blows a gasket, in the best way possible: “Well-accepted practices like stalking us, selling our personal information to the highest bidder, enabling creeps and criminals to hack info about us. We wouldn’t want to deprive them of innovations like that. Heck no.” Blammo!
+
+Honorable mention
+
+
+IBM unveils Blockchain as a Service based on open source Hyperledger Fabric technology – armed with a slew of security safeguards, IBM officially launches a commercial blockchain offering.
+Uber president quits, says firm’s values are incompatible with his – Uber may need self-driving management more than self-driving cars.
+Ethical Hacking: The Most Important Job No One Talks About – Yep, it’s time to get an ethical hacker on your payroll. Though if the phrase “DevSecOps” takes off, I might have to quit the enterprise beat.
+Will artificial intelligence be essential to competitiveness? Yes, but please don’t walk around saying it, that will get annoying very quickly.
+The great enterprise chat race – The collaboration game has changed, but saying Slack has “momentum” ignores a simple fact: your IT department would like a word with you. So would your ERP vendor, your collaboration vendor, and anyone else trying to embed procceses and chat together where they belong.
+
+Whiffs
+Sloppy page view charlatans schmucks vampires over at the Hollywood Reporter were so determined to get their exclusive on The Matrix “relaunch/reboot” out that they missed most of the actual facts. It was with some relief that I read screenwriter Zak Penn’s clarifications, including:
+
+How about just re-release the matrix? Don’t reboot it, you can’t do better.
+— Zak Penn (@zakpenn) March 17, 2017
+On the other hand, Mr. Penn, if you want to take a whack at redoing part two or part three of that bloated shark jump of imploding mythology and underground hipster club scenes, go for it.
+Oh, and how about the coincidence of McDonald’s test launch of mobile web ordering in the U.S. along with Over 22 million McDonalds India app users compromised after massive data leak. And another headline that speaks for itself: Windows 10 is bringing shitty ads to File Explorer, here’s how to turn them off.
+Finally, I dig the RedMonk gang; they’ve been picks in this column countless times and never, to my recollection, in the whiffs, but as for The RedMonk Google Next Recap, this stream-of-consciousness chat doesn’t work for me – too AOL chatroom/Kardashians-were-here. Organizing this around vital topics would have helped the reader. What happens on Slack should probably stay on Slack. Next time, podcast it.
+Over to you, Clive.
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Cloud platforms - infrastructure and architectureHits and missesMachine intelligence and AI 

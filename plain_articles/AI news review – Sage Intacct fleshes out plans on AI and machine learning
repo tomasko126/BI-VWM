@@ -1,0 +1,70 @@
+
+Intacct’s Aaron Harris announcing Sage Intacct’s Pacioli AI
+With the “Hey, we have a bot too!” enterprise craze in full swing, there was no surprise at the Sage Intacct Advantage conference in Las Vegas when Aaron Harris, SVP and Head of Engineering and Technology for Sage Intacct, previewed Intacct’s upcoming digital assistant and AI bot, dedicated to the needs of finance pros.
+Sage Intacct previews new AI bot and digital assistant – Pacioli
+Honoring historical figures with bot names is the other trend du jour. Given Intacct’s cloud financials focus, naming their bot Pacioli after the Italian godfather of double-entry accounting seems right. Intacct had fun with the naming; seeing Pacioli’s face show up on your Intacct Collaborate work stream is fairly certain to brighten your work day.
+The customer audience seemed enthusiastic about Pacioli. Harris showed how Pacioli could be a helpful chatbot dude in the midst of an Intacct Collaborate chat:
+
+If you can’t read the convo, it’s an interaction between a couple employees about a customer, “Bank Tech,” in the midst of a renegotiation. Employee “Ryan Snark” wants to know the revenue of this customer. Pacioli chimes right in with the Q1 2017 numbers.
+This is one of several potential use cases Harris showed on stage. He tied the role of AI into “transforming” the way finance professionals think and work. That means AI can help:
+
+Eliminate the close with a continuous close throughout the month
+Provide a continuous audit
+Accelerate and support predictive analytics
+
+Clarifying Pacioli readiness and Sage buy-in
+For the jaded inquisitve analysts in the room, the preview of Pacioli raised more questions than answers:
+
+Just how far along is Pacioli? Is it closer to a product or an idea?
+How much free reign does Intacct have to pursue its own AI strategy, given new parent company Sage has its own AI plans underway? How will those dual pursuits be reconciled?
+
+During an media/analyst session with Intacct execs, we pushed into those questions. Diginomica contributor and pesky-questions-specialist Brian Sommer challenged the Intacct team:
+You seem to have incredible, emboldened confidence around what you’re going to be able to deliver around Pacioli & AI machine learning kind of technology. If you’re really that good and your team is that great on these capabilities, then are we going to see Pacioli showing up in Sage X3 and some of these other product lines? That’s what I want to know.
+Harris responded:
+What I can tell you is that one of the first things that I did after the acquisition was take Sage CTO Klaus-Michael Vogelberg through the Pacioli vision. And I think it really knocked his socks off. I’ve had nothing but encouragement from him to push harder and faster in that direction. So I do have lots of confidence.
+Harris clarified the status of Pacioli as a product:
+I want to be sure everybody is clear that what I shared today is vision. Some of it is closer to reality than anything else but we want to really tell the story to our customers so that they’ve got the right mindset and frame set for what we’re going to be doing. They can anticipate that, and the market is sort of telling the same story we are.
+Some features will release quickly:
+Some of it, like anomaly detection, that’s soon. There’s technology today to do that. We don’t have to wait for push notifications. We can work on that today. We’ve already got some pretty clever ideas for tracking dynamic changes in the state of the business and raising alerts, so that stuff can come pretty soon.
+More sophisticated AI will take longer:
+Having Pacioli become part of a Collaborate conversation: that’s pretty hard. Even if you look at Google, and what they’re doing with AI, they code every answer. If you ask Google AI a question, there’s a team that’s composed of actors and screenwriters and personality experts and psychologists that come together and decide, “Hey, what if they ask this question, what’s the answer going to be?”
+So the technology is still pretty nascent for really having human-like interaction in natural language. So, that’s a little further out. I’m confident eventually we’ll get there. We’re just going to be delivering iteratively for the next couple of years.
+AI experts give practical automation steps for finance teams
+In his Sage Intacct Advantage presentation, “How AI is Changing the Finance Team,” Omar Qari of Abacus also hit on the issue of AI readiness. Qari believes there are AI use cases companies should explore now. That requires clarity on the tech that’s ready, and the tech that’s not:
+
+Omar Qari, #adv17 – AI/ML is great at finding exceptions, but “not good at extracting which insight it pulled out of the haystack is the key insight”
+— Jon Reed (@jonerp) October 19, 2017
+Qari’s point: smart small. Automate the mundane. Keep humans in the loop and play to their strengths.
+In a session for Sage Intacct’s CFO Summit day, “AI: What it Means for the Office of the CFO,” Bruce Guptill of ISG Insights made a very similar point:
+
+The goal of AI in business isn’t to take humans out of work, it’s “take the robot out of the human” – Bruce Guptill at #adv17
+— Jon Reed (@jonerp) October 19, 2017
+Qari pushed back on AI objections:
+
+fully automate  – not necessary. You can blend humans into the process, e.g. “AI augmentation.”
+too expensive – not necessarily, though Qari said “be skeptical of investing in AI” if you don’t get your data structure and architecture sorted. Otherwise you will run into cost problems. “Data hygiene” matters.
+too unreliable for enterprise – Yes, Siri misunderstands us constantly. But some AI, such as machine learning at Facebook, has performed at scale (perhaps not with beneficial consequences, but that’s another debate).
+
+Beneath the AI umbrella, Qari singled out machine learning as a prime candidate for early projects. He cited data that 25 to 40 percent of finance tasks are ripe for “AI augmentation.” The goal? Create automations that allow you to move from tracking past data to predicting the future more accurately.
+Yes, this means a shift in focus for the finance team. The goal is to pull them from administrivia, using machine learning to identify patterns in large data sets, spitting out exceptions for humans to act on while flagging (and potentially automatically fixing) errors. (Note: this fits well with Harris’ vision of the continuous AI audit). Sidenote: a subsequent presentation on “Creating Excellent Workplaces” by Tanya Yakhnis of Tandem HR included an appropriate slide on the best role for finance departments:
+
+AI and finance – immediate use cases
+So what about immediate use cases? Qari spelled out several, including his own company’s:
+1. Automate manual work – use AI to realize new productivity gains – “Finance teams spend 50 percent of time on tasks that machines can do better.” Therefore: automate until you reach the point of diminishing returns. Project example: Abacus and client NASS – predictive expense management helped NASS spend 35 percent less time on reconciliation. Caveat: a key part of the success was re-evaluating the expense process, and moving to a mobile-first, automated process that “removed the need for human-generated reports in the first place.” Now employees “snap a photo of the receipt and forget about it” – it’s all properly/automatically allocated from there.
+2. Prevent fraud – AI/ML is ideal for finding the kinds of anomalies that indicate fraud. Project example: Sift Science helped OpenTable reduce review time by 80 percent and improve fraud detection by 200 percent
+3. Uncover hidden insights – AI makes your strategic advisory more valuable, and improves personalization. Project example: Black Diamond used Salesforce’s Commerce platform recommendation engine, “powered by Einstein,” to boost site revenue by 16 percent.
+My take – big AI changes coming, near-term favors incumbents
+The customers I spoke with were all intrigued by the Pacioli announcement but weren’t clear on product readiness; hopefully this clarified that a bit. It will be worth watching how Sage and Sage Intacct collaborate on AI and whether they can raise their collective AI game across product lines. In theory that’s what will happen, but we all know it doesn’t always play out that way.
+Starting small and practical is the right approach. Down the road, things get complicated. After Qari’s presentation, a customer asked him about integrating data sources, which led to a discussion of a data warehouse to support AI that can also pull in external data (e.g. IoT sensor data, social media and/or weather data).
+But that’s a consideration for later. For now, Intacct customers seem interested in AI but mostly in a tire-kicking mode. That matches data Guptill presented from an ISG report which indicated that while only 20 percent of companies have yet to deploy any kind of AI or automation, mission critical AI projects were less common. Project success rates weren’t outstanding but seemed to land in the 55 to 70 percent range. (Those success rates consistently fell short of the perceived importance of the project, a concerning fact).
+The good news is that with a few exceptions, ISG’s data showed IT and business in close alignment on AI’s importance:
+
+Budget, resistance to change and security/compliance concerns are biggest AI/automation obstacles to prepare for – Bruce Guptill #adv17
+— Jon Reed (@jonerp) October 19, 2017
+Guptill and Qari emphasized that culture/process change were the biggest AI impediments. No arguments here, though in the longer view I wonder about all those workers who may not find a place within sophisticated automation. As a startup guy I’m used to so-called “constant re-invention,” but many of my peers would rather have lives outside of work and predictable work to support it. I don’t blame them, but I’m not sure that the waves of automation ahead will afford them that indifference.
+At the end of Guptill’s session, customer questions honed in on whether it was worth being an early adopter of AI. This attitude may favor Intacct and/or Intacct analytics partners in the near-term, as their customers hold out on build-your-own-AI. “Waiting for the vendor to embed AI rather than doing it ourselves” was a common refrain. As one CFO put it:
+We’re going to stay conservative and let someone else figure it out. Am I concerned that I will be delayed and everyone will lap me? Maybe, but I won’t spend as much money, and I’m good with that.
+I see problems with that mentality but I also understand it. That doesn’t mean cloud ERP vendors can relax. They better start tackling that external/unstructured data issue now if they want to be in the long term AI game. Yes, Sage Intacct’s vision made sense to customers, but there is plenty of “prove it” work ahead. At best, cool demos buy you time. Stay tuned.
+Update, 9am UK time: fixed a poorly-constructed sentence and added the  Tandem HR slide.
+ 
+Image credit - Feature image of Aaron Harris from the Twitter feed of Robert Scott (@bobwscott). Photo of Tandem HR slide by Jon Reed.Disclosure - Sage Intacct paid the bulk of my expenses to attend Sage Intacct Advantage 2017. Salesforce is a diginomica premier partner.Read more on: Cloud platforms - infrastructure and architectureIoT robotics and AIMachine intelligence and AI 

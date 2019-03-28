@@ -1,0 +1,86 @@
+
+If you’re like me, you’re always looking for ways of to better manage the onslaught of digital noise.
+Recently I evaluated an appealing consumption and archiving tool called Instapaper. I thought I’d share the evaluation process to see what insights we can pull.
+We all need ways of:
+
+Discovering and tagging the most relevant and – entertaining – content for later consumption
+A method for easily locating and sharing that content later
+A means of organizing shared and consumed content for use in future projects (research, etc)
+
+The professional stakes as high. As I argued in Rethinking enterprise productivity – a critique of digital minimalism, our motivations can be classified as:
+
+Productivity – How can these content tools improve my productivity, by automating tasks and making it easy to consume and share what I need.
+Differentiation – How can these tools differentiate my skills, rather than turning me into a Facebook/email generalist?
+Digital sanity – How can I extract value from the noise coming at me, without getting bogged down?
+
+Why the bookmarking problem is worth solving
+With curation tools, we have the opportunity to make parts of our process public. Sharing content we’ve thoughtfully curated builds our industry network – while giving us a push in our quest for topic authority.
+The problem we face: one tool rarely solves the problem by itself. I hear from folks all the time who want to do a better job of bookmarking. They’ve realized scrolling their social feeds and compulsively resharing the latest meme is a half-assed approach.
+
+What if you see a terrific piece you’ll need later?
+What if you need it six months from now, when it is long-buried in an unsearchable feed? 
+What if you forget to share something you want your colleagues to see, then you can’t find it on your phone during a meeting or presentation?
+
+
+I’m always keeping an eye open for tools that can help me with one of those three worthy goals (productivity, differentiation, digital sanity). For example, I’m a huge fan of the Newsblur feedreader. I’ve written about how I use Newsblur as the reader for the 1,000+ content sources I curate for my enterprise newsfeed. But even there, I have tricky territory.
+When I see stuff in Newsblur that’s relevant for my feed, I post it to my Pinboard bookmarking service. That’s a public repository for the feed. But what about other stuff I might want to pull into an article later – e.g. white papers or podcasts? Maybe a whiff I’d like to feature in hits and misses? Well, I can save that within Newsblur’s saved items. That’s a searchable section of Newsblur, but it’s easy for things to get lost there over time.
+Enter bookmarking. Up to this point, I mostly use Evernote and Google Bookmarks. They both work well, but when I need to locate crucial content quickly, I’m often a bit flummoxed. Those services are kind of a searchable data lake for me. When I’m writing up a breaking news story, I don’t want to wade through a lake. In other words, I have a short term problem. It’s that two-week content window between “immediate” and “archive” that I struggle with.
+Step one – how do you cast your content net?
+When evaluating curation tools, I recommend this question:
+How can I combine the best sources of information in my industry, while including some “discovery” on cool things outside my main sources? (no filter bubbles allowed!).
+Usually, the answer to this is complicated. There is no centralized place where you can consume and read all the information you need. The goal is to consolidate, into a manageable number of channels, your initial content net:
+
+subscriptions to vital content via email or RSS feedreader
+judicious use of social channels like LinkedIn, Facebook, and Twitter, which you’ll tweak to make you are seeing the best content quickly
+other relevant information sources, such as private discussion forums, team chats, and private emails
+
+That last bullet is the toughest part. It can be tricky to organize content that doesn’t exist on a public page. I email such things to my Evernote account. I also have a limited gmail folder for content that pertains directly to current articles. That folder gets cleared out as articles are written. Then there is question of sharing and transparency.
+The essential curation process questions
+
+How do you easily share content? (tools like Buffer, Hootsuite, or just a social networking app)
+How do you easily locate shared content later when you need it? (search engines, tagging items as favorites, saving to Evernote or OneNote or what have you)
+How do you organize the most important content so you don’t lose your hairline trying to find it?
+How much of your curation process will you expose? Where possible, share bookmarks. Example: my Pinboard collection of best enterprise articles is moving towards 3,000 pieces, with an easy keyword search.
+How much of your process can you automate? (example: linking your feedreader with your bookmarking service, or setting alerts on important keywords).
+How “mobile” is your process? If we can’t do it on our smartphones, it’s usually a fail. My biggest criteria: compatibility across the devices I use.
+How much of this process can you “whitelist” with approved tools from your employer? If using different tools, are you at least in alignment with approved IT and data policies?
+
+But the most important issue is:
+Where are the gaps in my process? Where are the points where I feel inefficient or overwhelmed?
+I had a short/mid-term problem in my process. I identified a problematic gap between what I share immediately and what I archive for later.
+Grading Instapaper – the potential of a “read later” tool
+With that in mind, let’s look at Instapaper. I found out about Instapaper while reading Cal NewPort’s Some Thoughts on Transitioning to Digital Minimalism. A commenter wrote:
+I do something similar and do use tech to simplify it all. The two products I use are Feedly and Instapaper. Feedly allows me to subscribe to all the news/blogs I think are meaningful. At the end of each day, I go through my feed and save any article that seems important into Instapaper (with just 1 click). Sundays I head out with my tablet and load up Instapaper and read everything I have saved.
+That caught my eye because Feedly is akin to Newsblur. Would a similar process work for me? The main questions I had for Instapaper:
+
+Does this have an easy interface and app?
+Is it easy to move articles in?
+How is the search functionality for later?
+What tagging or sorting options are available?
+How well can you organize content within the tool?
+Backup – can I easily backup my content in case the tool goes belly up?
+Public or private, or both?
+Discovery – access to other users’ content
+Social responsiveness – are the social accounts active and do they respond to feedback?
+
+In order:
+Interface – yes, I like the lightweight web interface and the droid app is light also (I don’t have an iPhone)
+Moving articles – yes, it’s super easy. The bookmarklets for Chrome and Firefox work well and content is saved quickly – faster than Evernote – though unlike Evernote it all goes into one repository. Newsblur has an Instapaper plug in, so I can move content into Instapaper quickly. One advantage to the Newsblur plug is: the input form has an extra summary field where you can add a comment or keyword.
+Search – the search is efficient and thorough. Instapaper pulls in most of the article, so open text search works great.
+Tagging – tagging within Instapaper is limited, primarily because you can’t search on either the “summary” or “notes” fields. (When I asked Instapaper about this obvious shortcoming on Twitter, they said they’d evaluate for future releases).
+Organization – I find the simplicity of Instapaper appealing. All articles appear in one main stream. You can archive any articles at any time, and the disappear from that main stream. You can also favorite articles, or add notes to articles (notes can be your text or a highlighted portion of the article). Once you favorite or add a note, you can easily scroll through those items on the menu. Instapaper also has a nifty “Videos” section where it pulls any of your video content.
+Public or private -your choice, in the settings.
+Discovery – you can browse any public accounts.
+Responsive – Instapaper has a dedicated support handle and they got back with me pretty quickly about my searchability questions – overall, I’d give them a strong/solid B for social engagement, which is far above average. I find an active social presence bodes well for the future of a tool.
+My take
+I hope this method for evaluating tools prods your thinking and motivates you to put in the time. I think you’ll be delighted by the efficiencies later.
+As far as Instapaper, it really depends on your use case. Like the aforementioned commenter, most would use Instapaper as a “read later” tool. In my case, I tested it as a “create/share later” tool.
+Instapaper lends itself well to both use cases due to its simple archiving structure. My rule is that the “liked” section is for articles I am working on. The “notes” section is for whiffs for future hits and misses columns. Most would use the main river for pieces they have yet to read; I use the main river for pieces I have yet to tweet or share. Once done, I archive. Bonus: you can pull an RSS feed for your main stream – that means readers could also subscribe to it. So, in my case, I’ll archive everything as soon as it’s used, and I’ll unfavorite things after I write about them. That will keep the main sections clean.
+Instapaper doesn’t replace my so-called “lakes”. I’d still use Evernote for things like email-based content, and vital tech support articles I want to save. I still use keyword tagging in Google Bookmarks on some articles I save into Instapaper. If Instapaper ever makes such tags searchable, I might change that practice. For now, I like being able to call up a few essential articles via a tag, and for me, Google Bookmarks is ideal for that (though it sucks shockingly badly for search, so you must nail the tag).  I’ll try to reduce the use of both lakes in favor of Instapaper where I can – as long as I can avoid making Instapaper too “busy” for it’s narrow-but-vital purpose.
+I wonder how well Instapaper would work if your main goal was to revisit thousands of articles later on. To me, its ideal use case is short to mid-term. When you consider the obvious gaps in the search/tagging functionality, its creators probably feel the same.
+For now, I’ll keep my Instapaper private as I already have a public feed for my best picks. But here’s a screen shot that shows the clean layout:
+
+Yes, I added an extra tool to my workflow – something I don’t take lightly. But so far, Instapaper has served its purpose well, helping me to write content quickly, and on-the-go. I really can’t put a price on that.
+End note: this piece is from my semi-occasional diginomica series on productivity, filtering and beating the noise.
+ 
+Image credit - Male hand assembling the Word Test © Gajus - Fotolia.com.Read more on: Analytics planning and data analysisContent marketingDigital and content marketingDigital skills and trainingMobile 

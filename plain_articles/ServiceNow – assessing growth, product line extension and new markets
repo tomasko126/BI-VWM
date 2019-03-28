@@ -1,0 +1,48 @@
+
+Until recently, ServiceNow was one of those big firms few outside of IT had heard about. One of its origin solutions was in the IT Service Management space (ITSM) and its cloud-only focus in a sea of on-premises competitors attracted a lot of attention from the IT crowd. But, it was an IT product sold to IT leaders, then.
+A few years ago, the company started taking its toolset and focus on service tickets, problem resolution functionality, SLAs, etc. into other functional areas like HR, Security, Customer Service and Finance. The HR offerings have caught on quite well and were a key part of this year’s customer show announcements and presentations. ServiceNow CHRO/Chief Talent Officer Pat Wadors and a key client of ServiceNow’s were featured in one such keynote. The company also released the results of an HR study that identified the journey HR organizations will pursue as they strive to provide ever higher levels of value for their firms.
+Since his arrival at ServiceNow, CEO John Donahoe has toured the world meeting with customers and assessing ServiceNow’s next moves. A number of initiatives were identified and the company is implementing them now. These included new branding, corporate culture changes and only a couple of minor changes to the executive team.
+Knowledge18
+It’s easy to draw comparisons in how this show has changed and grown to those of Salesforce and their Dreamforce event. Each vendors’ shows started off as small, intimate affairs but successive events were markedly larger, noisier and more exciting. This year’s event stayed true to that form.
+There were lots of announcements at this year’s show. Many of these involved extensions of the core product line and some of these will be fueled by acquisitions. The gist of these product extensions is to add more advanced technologies and technology capabilities to the problem of solving workplace and customer support issues quickly. If problems can be resolved faster, the hope is that employees are more engaged at work and customers are more satisfied.
+This year’s acquisitions include:
+
+VendorHawk for software asset management
+Qlue for chatbot technology
+SkyGiraffe for mobile experience
+Telepathy for UX enhancements
+Parlo for NLP (natural language processing)
+
+When used in employee interactions, the chatbot functionality, aka “Virtual Agent”, will offload a number of human-based or manual support efforts in the HR, IT and customer service areas. The goal with Virtual Agent is to make the customer’s experience materially better, while simultaneously making the service center worker’s life more satisfying (e.g., reducing the number of customer call backs). ServiceNow customers will also have opportunities to modify and extend the chatbots functionality.
+
+ServiceNow is connecting the chatbots functionality with workflow. The goal is to more quickly move a caller to the right resource (e.g., person, content, etc.) to more quickly resolve an issue. To make the workflow and chatbot linkage deliver value, ServiceNow will need to develop a significant number of pre-built workflows based on common issues/challenges that vex their customers today. Partners can also to develop these flows for ServiceNow customers (note: readers should check with ServiceNow as to whether and how flows from other customers could be shared/licensed). ServiceNow did indicate that customers should be able to design their own virtual agent conversations via drag/drop methods. Additionally, customers will be able to link these agents to messaging apps like Slack.
+To work well, the workflow/chatbot combos will need personalization at every customer. How problems can get resolved and who does that work will need to be adjusted in the out-of-the-box flows.  The more these bot driven flows move away from simple question/response formats to multi-step work processes and conversations, then the greater the need for personalization at the individual customer level.  To really understand how far this technology can go, see this review of Aera Technology.
+The Parlo deal helps as it extends the NLP (natural language processing) toolset for ServiceNow. This is important as humans have an almost inexhaustible number of ways of asking for help and this is further complicated with different accents, languages, dialects, etc. The NLP tool will need taxonomies to help correlate a customer’s request to one of its known workflows. Like the workflow technology, Parlo will need training at each ServiceNow customer if only to learn all of the customer’s jargon, industry terminology, and other shorthand terms in use at that firm.
+While some colleagues oohed and aahed about this, I’m not convinced it was all that surprising. These announcements/M&A deals were quite logical extensions of the ServiceNow product roadmap. The company can grow into more horizontal areas outside of HR and IT or it can make the current products more technically powerful. It’s definitely doing the latter.
+Why is it evolutionary? Look at where big integrators have taken shared services operations for their clients the last several years. They’ve already automated the daylights out of those processes. They reduced the cost structure through offshoring and scale. They’ve deployed RPA (robotic process automation) to handle many of the routine, repeatable tasks. So, smarter agent/bot technology with workflow is the next logical step in the evolution.
+Customer Service
+I interviewed an individual with a state governmental entity regarding ServiceNow’s customer service functionality. This capability is still relatively new for ServiceNow and its use in a governmental entity is, in a word, novel.
+The back story on this is interesting as this governmental body has had a history of tying up people for very long wait times on the phone. Worse, these persons are often some of the poorest, most desperate in need of public aid callers imaginable. Making these vulnerable people wait so long on the phone and even longer to finally speak with someone who could help them is simply unconscionable.
+Within this agency was an idealistic fellow who persisted in pushing forward an idea for a better way to serve their constituents. Like Sisyphus, this chap fought for a solution for the better part of 2-3 years. It recently got greenlit.
+Here are some key statistics:
+
+In 2015, 2 hour wait times online and 1 hour office waiting room times were the norm
+Agency workers had no way to share inquiries or measure customer satisfaction
+Assignment times have fallen from 36 hours to 8 minutes
+The solution was launched in 1.5 months after the project was approved
+Other state agencies are now considering this solution
+
+I asked what the top 3 takeaways from this project were. I heard:
+
+Any process/entity can change
+Today, they are spending money on reducing service delays not just service delivery
+The new solution is eliminating lots of redundant data entry
+
+Longer term, this agency hopes to fully integrate the case management, scheduling and other functionality.
+My take
+The new customer service push is interesting and those using it (or planning to) seem genuinely enthusiastic. However, the real world is full of examples of companies that don’t really care about customers or service. The airline industry comes to mind here as we aren’t even customers to them – we’re seat or passenger revenue miles.
+The best sales prospects for this solution will be companies that truly want to change. Inertia (i.e., we don’t need to change our customer practices now) will prevent some deals from happening. Denial (i.e., we don’t have any customer service issues) is another deal stopper. But it may be structural things inside prospective customers that could be a drag on adoption. With the short-term earnings focus of many executives, I suspect many will kick the can down the road and wait for their successor to fix the service issues. It’s logical that they’ll defer any spend on customer service matters as this just dilutes current period earnings. And, if those earnings aren’t a delight to Wall Street, then that executive might not make their bonus, pick up new stock options, or, keep their job. Until Wall Street makes customer satisfaction a concern, then executive behavior will continue to be self-serving.
+The marketing challenge for ServiceNow won’t be in explaining its new logo or branding colors, it will be around creating a call to action at the highest levels of its prospects around customer service/satisfaction. That’s the marketing story I wanted to hear them address at the show.
+To put an even sharper point on this, I remember years ago having a conversation about this subject with a major firm’s CEO. He said that I could pursue the project but I had to make sure that no customer calls or issues landed on his desk. He doesn’t solve customer problems. And with that, I dropped the idea as this individual wasn’t going the set the tone from the top.
+Kudos to ServiceNow for putting customer service in their sights. As a consumer, I want better interactions with businesses. I want more firms to have a laser focus on delighting customers, exceeding expectations and fixing the rare problem that does pop up. I want that problem solved well, fast and someday, before I even know something is going to go amiss.  At next year’s Knowledge19, show us those stories of companies that have materially changed. They’ll be the ones that get my business.
+Image credit - via Brian SommerDisclosure - Service Now is a premier partner at time of writing and coverd the author’s T&E.Read more on: Customer service managementFuture of work 

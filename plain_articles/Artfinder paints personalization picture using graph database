@@ -1,0 +1,38 @@
+
+Almgren and Szczesny.
+After an hour with its founders, I’m rather sold on Artfinder, an online marketplace for exploring and buying original, affordable artworks. That may be because, as it turns out, I fall squarely into the website’s core customer demographic: female, aged between 45 and 55, interested in home decor. 
+Or maybe it’s because at Artfinder’s heart lies a graph database that ensures that, each time I visit, I’m served up a selection of artists and their works specifically selected to appeal to my individual tastes and preferences: impressionistic paintings in oils and watercolours, mostly still lives, mostly depicting food. 
+But, importantly, this is just a small selection of what Artfinder has to offer. The three-year-old site now features around 180,000 artworks, from almost 7,000 artists, including paintings, prints, collages and photography. Around 1,000 new artworks are added to the site every day. But every registered customer – of which there are 500,000 now – is served up their own home page of recommendations, based on behavioural analysis of their previous visits. 
+Says Artfinder CEO Jonas Almgren:
+
+We know we have artworks for every buyer. The trick for us lies in matching the art to the buyer.
+
+For this, Artfinder uses the Neo4J graph database. This helps it make sense of the links that exist between customers, artworks and artists. Or, to think of it another way, a graph database treats as first-class objects the connections that exist between two ‘nodes’ on the graph (representing those customers, artworks and artists), allocating as much value to them as to the data itself. 
+As a result, Artfinder can run queries based on relationships and interdependencies between data. With a structure based on node labels and relationship types, it doesn’t need to stick to a rigid schema and can include as much metadata in nodes as it likes, explains Michal Szczesny, Artfinder’s COO. 
+Customers can ‘like’ particular artists on the site and add artworks they’re particularly interested in to their own online connection. This adds to the tapestry of connections held in the graph database so that, over time, analysis of relationships should become richer and recommendations even better. Says Szczesny:
+
+The kinds of queries we’re running are very complex, because as you can imagine, there can be many, many strands between the individual nodes on the database. But this complexity is also a gift, because it allows us to dig really deep into who likes what, and why. With Neo4j, we can go multiple levels deep.
+
+Artist-first
+As the UK-based company continues to expand its US-based audience, he adds, this will enable the start-up to better understand the subtle differences that exist between the two markets.
+What’s interesting in all this is that, while the graph database helps Artfinder showcase its inventory to customers based on their preferences, it’s actually the artists themselves that take primacy in the company’s philosophy. Or, as Almgren puts it:
+
+We don’t focus so much on customer acquisition, because we’re more about helping artists make a good living out of their art, by providing them with everything they need to market themselves successfully in the digital age.
+
+With that in mind, Artfinder artists have access to a stack of tools via a ‘seller portal’ that help them promote their work on social media sites, message with customers, manage transactions and participate in the company’s ‘artist forum’. Says Almgren.
+
+Here, we hear about their successes and their frustrations. It’s a place where we gather intelligence on what they need from us, on areas where they need more help.
+
+This is in return for the 30% commission they pay to the site on works sold there. Not every artist will be chosen to appear on Artfinder, either: of the 500 that apply each month, between 20% and 30% will be rejected, says Almgren:
+
+not on the basis of the quality of their art, but on the basis of their ability to communicate effectively about it with potential buyers, how they intend to present themselves on the platform and their commitment to being a full-time artist, rather than a hobbyist.
+
+In February 2016, 300 artists set up new stores on Artfinder. For Almgren, the goal is to democratise the art market – creating a fairer, more sustainable market and connecting artists with a global audience, no matter what their location, profile or background. 
+
+We’re one of the few companies that sell art in a really commercial way, treating art as merchandise and selling it online in ways that use the same tricks used to sell other kinds of products online.
+
+But, he adds, the model works just as well for customers as it does for artists:
+
+Our competitors in the art world are still claiming to be able to hold up ‘the next big thing’ or ‘investable art’ as if they are the gatekeepers of good taste. The world just doesn’t work like that any more. Personalized recommendations mean you see art you want to see, just like you listen to the music you want to listen to. That’s how it should be.
+
+Image credit - (c) Marek MatulkaRead more on: Digital and content marketingNoSQLRetail e-commerce and the omni-channelUse cases 

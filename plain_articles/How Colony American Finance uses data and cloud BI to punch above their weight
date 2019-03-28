@@ -1,0 +1,59 @@
+
+Companies that punch above their weight are always worth a sit down. Colony American Finance fits that bill. With a staff of only 54 people, Colony American Finance originated $2 billion in loan products in 2016.
+At Domapalooza, Domo’s annual user conference, I had the chance to learn about their secret sauce during a chat with Colony American Finance CIO Matthew March. It’s a lean IT/cloud tale, but with an data-as-business driver twist.
+Colony American Finance bills itself as a provider of “real estate financing solutions for single-family rental investors and brokers at competitive rates.” And that’s where March picked up, talking about their lean growth style:
+When we compare ourselves to our peers, we’re probably one-third the size, from a head count perspective, as our closest competitor. And we do twice as much volume as they do.
+As CIO, March is right in the thick of it:
+One of the reasons that we’re able to do that, from a shared services perspective, whether it’s HR, IT, marketing and so forth – we’re very lean.
+From spreadsheet chaos to cloud-first
+March gets it done with a team of three. When he joined Colony American Finance in 2015, they didn’t have a lot of technology beyond Salesforce and Microsoft Office. March knew that needed to change:
+They were doing things in Excel spreadsheets, you know, the typical startup type of mentality. But they really needed to implement technology to do more with less.
+An all-cloud approach was fundamental:
+We ended up going 100% on the cloud. So Office 365, Exchange Enterprise, Salesforce, and so on.
+So far, so good – but a big problem remained. Data was everywhere:
+We had 27 different sources of data. We had nine sources of data from our marketing department. Our users were pretty typical, downloading data from various systems, cobbling it together in Excel.
+That data problem had business ramifications:
+The time to market to get data out to folks to act upon it was pretty late. We needed to find a better way to do things… We really needed an enterprise BI solution.
+But March was wary of enterprise BI from prior experience:
+In my past life, I implemented multi-million dollar data warehouse projects with SAP and MicroStrategy. I spent the last eight years on the Microsoft platform, drinking the Microsoft Kool-Aid. These solutions work, but they have a huge upfront cost, a huge maintenance footprint.
+The search for a cloud BI solution
+March’s team had two main BI criteria:
+
+They wanted a cloud BI solution, not a data center of their own.
+They didn’t want to have to hire a DBA or any other back end support a hosted solution would have required.
+
+They went through an RFP process and looked at some solutions, including Microsoft’s Power BI:
+Power BI can run on the cloud, but it came with a lot of hidden costs. It has to run on Sharepoint, so then we have Sharepoint licenses we’ve got to include. It became unwieldy pretty quickly.
+March at Domopalooza ’17
+Domo was another finalist. March liked the “low cost of ownership” and cloud platform. Then there were Domo’s 500+ data connectors. “The data connectors were pretty interesting game changers,” says March. Building their own API into Salesforce to pull had taken two months, not to mention the challenge of maintaining the API and tweaking the ETL process. March didn’t want to go down that road again:
+I had a team of ten in a past job. Half of them were just keeping the lights on and supporting the changes to source data.
+Colony American Finance chose Domo for three reasons: cloud, data connectors and platform:
+With the platform you get the database license, you get the ETL tools, you get Workbench, and you get all these different tools [Workbench allows you to build your own Domo data connectors]. It’s all bundled in the cost, and then Domo maintains the data connectors.
+From go-live to 100 percent adoption
+Colony American Finance went live on Domo on January 3, 2016. By January 31, they had all of Domo’s pre-built data connectors they needed in place. By the end of February, they were pulling 27 data sources into Domo dashboards (March and team built half of those connectors on Domo’s platform).
+Buzz, Domo’s collaboration platform that is embedded into Domo’s cards and dashboards, intrigued March during the evaluation. Dpmo was the first BI offering he had seen with collaboration built in. Past nightmares of tedious email threads with report attachments made March think Buzz might pay off for them. It took a little while:
+We didn’t use it at first because we didn’t really understand the power of it, but if you’ve got a report, or a card, or a specific snapshot of data, and you want to ask questions, you can do that right there, on that card. That interaction is tied to that card, and it becomes sort of a blog that happens in real time.
+March told me about an issue involving a big email campaign that was delayed. It ended up going out on Friday. The president of Colony American Finance – still their most active Domo user – saw on Domo that the open rates were dramatically lower. Using Buzz, the president pinged the VP of production with a note about the bad email performance.
+That led to some data investigation, and a resolution involving an email resend at a different time. This collaboration happened only a couple weeks after employees had access to Domo.
+Domo on mobile is a big hit:
+It’s fully mobile enabled. It’s dynamic, it’s responsive, it looks good. It has good alerts, you can login securely and take a look at the reports and things of that nature. So, all of that for a really low total cost of ownership.
+These features contribute to a very important stat: a 100 percent Domo adoption rate.
+The adoption was immediate because it’s easy to use. You don’t have to jump through flaming hoops of fire to figure out how to use the tool. The business had transparency to the data, they were able to take action, look at causation, correlation, come up with a conclusion and they didn’t have to call me. I love that.
+For the marketing team, March pulled in data from nine sources and built out a complete suite of cards and dashboards. (“Cards” are Domo’s name for the visual building blocks of dashboards.)
+For the marketing team, this was a huge change:
+For the first time, we had data, KPIs, and reports that were being updated as frequently as every 15 minutes, from Facebook etc. In the past, some of those reports we didn’t even have, because we couldn’t put them together. The other ones we did have, we had to do them on a monthly basis, because it took so long to get them together.
+On data quality and security
+CIOs can’t just hang their hat on adoption. Bad data leads to bad decisions and security breaches lead to the unemployment line. After go-live, a few data quality issues needed fixing, including Salesforce, their most widely-used application. Data profiling showed the way forward: there were opportunities in Salesforce to make certain fields required and to enforce data precision. Eliminating some free text fields helped.
+Even though they have 100 percent adoption now, March did have training and adoption issues to address. One biggie: the highest performing salesperson didn’t use Salesforce, so in that case, data precision was useless. Once users were retrained and active, they could see their sales rankings. “Now they had complete transparency,” says March. That put a bunch of positive pressure on the top sales performer to participate. Adoption happened.
+March views Domo security in the context of all the cloud apps that feed into it. You can encrypt files in Box and other services – features many companies don’t turn on. March doesn’t need to put their most sensitive HR data in Domo, but if he did, he would encrypt it: “I can encrypt a table, I can encrypt a row of data in a table.”
+March also sees governance in Domo as critical: “You’ve got good controls in place as it relates to change management, user access, termination, onboarding, offboarding.” He told Domo executives last year that the biggest risk to Domo was “Immature organizations. Because if you don’t put good governance in place, any BI solutions going to fail.”
+The wrap – good results, but work ahead
+March cited benefits due to Domo’s transparency and ease of use. But hard numbers matter too:
+Before Domo, 20 percent of our monthly business was repeat business. Now that’s at 40 percent compared to a year ago. A lot of that’s due to our ability to look at the data, look at the trends, and do the analysis.
+One way those returning customers were boosted? By using Domo data to quickly determine which customers still had room on their credit lines, and reaching out to them to spur usage:
+We’re doing a much better job of re-engaging our existing customer base then we did in the past, and we’re doing that through data.
+At last year’s Domopalooza, March learned about Domo partner Big Squid, which offers a predictive/data science solution for Domo. March reached out to them with the goal of answering a key business question: what are the key factors that determine who ends up becoming a Colony American Finance Customer?
+Though they didn’t have a ton of data for Big Squid’s algorithms to chew on (1,200 customers at the time), Big Squid was able to help them identify six key customer characteristic. Some were expected, others were surprises. That led to pro-active steps, such as capturing opt-in data on the web site that qualifies prospects based on those six key criteria. They now buy prospect lists based on those characteristics as well. I asked March if these steps are already boosting sales:
+Our sales goals now for 2017 are 50 percent higher than our 2016 actuals. There’s no doubt we’re going to hit those goals.
+Seems like a good note to end on, eh?
+Image credit - Feature image - Jumping skier at jump © Jag_cz - Fotolia.com. Photo of Matthew March by Jon Reed. Disclosure - Domo paid the bulk of my travel expenses to attend Domopalooza 2017.Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureDigital enterprise in the real worldUse cases 

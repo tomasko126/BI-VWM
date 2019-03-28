@@ -1,0 +1,93 @@
+
+A few years ago, colleague Vinnie Mirchandani wrote “SAP Nation.” The goal of his book was to value the size of the ecosystem around SAP software.  It was a sobering assessment of an ecosystem bigger than the GDP of many counties.
+Mirchandani’s book was about valuing. Rob Bernshteyn’s new book, “Value As A Service”, is an examination of how technology vendors are/aren’t delivering value. Rob, is CEO of Coupa – a cool procurement technology vendor. A procurement professional should know something about value. (Note: Coupa has recently filed to go public. This piece only deals with his book not the pending IPO.)
+Phil Wainewright has already given his assessment of the book starting with the premise that:
+Bernshteyn believes the enterprise software industry — even the SaaS contingent — has become focused on shipping functionality without thinking about what customers are actually trying to achieve
+…and concluding that:
+Yes, it is stating the obvious to say focus on the value you deliver, but it’s surprising just how rarely enterprise technology buyers focus on the results they want to achieve. Vendors and buyers alike have fallen into a habit of drawing up wishlists of functions and capabilities while forgetting what was the original purpose of the conversation.
+I’m taking a different tack, relating this back to my own experience of counseling numerous enterprise buyers.
+“Value as a Service” has a lot of commentary as to the right/wrong ways to sell and market goods/services, the change challenges in selling a transformative product/service, and, the value/lack thereof in ERP deals. It’s the latter that really got me thinking.
+Value myths
+Enterprise software vendors are one confused lot when it comes to value. They confuse so many things. Some think functions and features are a proxy for value. Tthey aren’t if they are a beast to implement or create inappropriate processes for the customer. Here are some of the myths that buyers have assumed to be proxies for value:
+
+Some think having a ton of channel partners/systems integrators to implement the solution is valuable. Again, not so, if these implementers can’t do the job at a reasonable cost and don’t deliver a solution that truly meets the customer’s needs.
+Some think offering a solution via subscription pricing model is valuable. No, selling an antiquated on-premises product by the month is just putting lipstick on a pig.
+Some think it is creating software that can enable standard processes. Providing a process to everyone in the customer’s industry is not a best practice, it is an ‘average’ practice. As such, the efficiencies these processes deliver are not adding much, if any value.
+
+I can go on and on.
+Defining value – by the customer
+Value must be defined by the customer – not the vendor – and vendors have to do a better job of listening for (and delivering to) a great customer experience. The problem is that this doesn’t seem to happen often in ERP. This is a big theme in Rob’s book and one that his own firm has apparently stumbled on a time or two to get right. In his opinion, delivering value depends a lot on carefully and patiently getting to the root of what the customer will value. Unfortunately, in some firms there is no single view of what value should be or a well-thought approach as to how value will be delivered.
+Too many software vendors have a, how can we say, ‘fluid’ sense of value delivery.
+ERP vendors and value are a quixotic pairing. The concept of delivering value is something that can mean:
+
+Are we delivering value to our customers? or
+Are we delivering value to our investors/shareholders? or
+Are we (management) enriching our net worth?
+
+The self-interest of vendor executives extends throughout a software firm. Seriously, do you think the salesperson really cares whether you get their software installed or not? No, they just want their commission and they’re off to their next pigeon – er, I mean, next sales prospect. If you think I’m being flippant then ask any mainstream vendor representative implementation consultant what they think.
+The answer you get from vendors can change over time, too. Early stage firms are more idealistic and see the good their solution can generate. Vendors with long-in-the-tooth products are more selfish, jaded and venal. They want your money and value-be-damned.
+I’ve seen this movie so many times, I know it by heart.
+Founders of great, cool, innovative firms start bringing in ‘professional’ sales leads, chief operating officers, CFOs, etc.  These outsiders don’t speak to innovation or customer value delivered. They live for growth and increased personal compensation. These companies go public and start living and dying by what Wall Street, not customers, want and need. Bottom line, software firms often lose sight of the external customer and their need for value They develop an inwardly focused obsession on grabbing as much of a customer’s wallet as possible. It’s part of their own internal lifecycle.
+
+ 
+Does SaaS/cloud provide the cure?
+Bernshteyn’s book speaks to the benefits of a subscription or software-as-a-service (SaaS) model that so many cloud-based vendors adopted. While the concept of a vendor re-earning the customer’s business month after month is appealing, it isn’t always working.
+
+It turns out that SaaS vendors can be just as money-grubbing, venal, etc. as their long-time on-premises competitors. When a cloud vendor goes public, it will feel the same growth and revenue pressures that other publicly-traded software firms face. As they grow, they will also bring in executives who have a different view of value delivery i.e. more value for them and less so for customers.
+Some SaaS vendors get what needs to be done.
+I’m impressed with both Ceridian and ADP in that both CEOs want to know when their firms are or aren’t delivering value. I tested each firm on this. I told ADP’s CEO about a mutual client that was having issues with their solution. The next day, seven people from ADP were at my client’s HR Director’s office. Not only is the client problem fixed – the customer is pondering new ADP functionality to license. Ceridian’s CEO makes it a point to give out his email address to customers. When a colleague was working on a time-sensitive Payroll RFP, I gave him the CEO’s email address. Ceridian’s CEO responded within 15 minutes.
+Payroll processing, within the software industry, is clearly a very time-sensitive, super accurate, transactional application. The vendors here must re-earn the business or they will be replaced ASAP. Both ADP and Ceridian know this. For vendors selling manufacturing, financials, supply chain and other application software products, I ‘m not convinced they feel this same pressure or feel it as acutely.
+Troubling signs
+Specific to cloud/SaaS vendors, I see a number of troubling signs that customers will get less value than they anticipated. These signs include:
+
+Lengthening subscription terms. Sure, you could spin the discounts involved in long term arrangements as ‘valuable’ but they also act to cause the vendor to care less about delivering added value each and every month unless there is a soft clause in the contract somewhere.
+A grossly inadequate channel ecosystem to implement the solution. Do the implementers have the talent, in quantity, to implement solutions fast, correctly and appropriately for customers anywhere in the world the customer operates? Does the implementer have the other skills like change management and/or radical process re-engineering, to truly deliver a valuable solution? And, most importantly, are these implementation providers consultants who put the client’s interest above their own, or integrators who put their interests ahead of all others?
+A lot of discussion about TCO instead of ROI. If the vendor won’t discuss ROI, is this a sign that they cannot deliver real value or will not spend the time to discover, with the customer, exactly how the value will be uncovered and delivered?
+Cloud solutions that are merely repaved cow paths of the on-premises world. A solution that is functionally the same as an on-premises solution but is hosted on someone’s cloud is not adding much value, if any net value. Likewise, single-tenant, hosted solutions are often the same old solution in new sheep’s clothing. How can old code, old data models, old business processes, etc. deliver material value if the only change is how the software is operated? How do these help a customer introduce transformative processes and all-new value opportunities?
+Vendors that try to sell solutions via electronic means only – If a vendor won’t even come to your offices once, how in the world are they going to learn what will truly drive value creation in your organization? Electronic delivery of small function apps may work for SMEs but enterprise is a whole different thing.
+Vendors that try to do the implementation remotely – Yes, some data file conversions and other tasks can be completed remotely, but, my clients are living proof that sometimes a real person is needed on-site to expose clients to new ideas, new approaches, etc. On-site personnel can also deal with obstructionist client personnel who won’t change or will only accept a new solution as long as it is exactly the same as the old solution.
+
+Offensive or defensive value in legacy?
+Oh, and on-premises vendors are often less focused on value creation than their cloud peers. In strategy terms, many of these firms are in the cash-cow, or as a lawyer pal calls it: shale-fracking, stage of a software vendor’s existence. Some of these firms know they are no longer innovative or relevant. So, they’re doing all they can to milk the last drop of cash from their customer base.
+
+There is a point when a vendor quits playing offense as it relates to value creation for its customers. After that point, the vendor shifts to a defensive posture where it no longer cares about creating value for customers but instead looks to maximize its shareholder value.
+How do you know if your vendor has made the shift to defense? Here are some signs that I’ve found are indicative of defensive posturing:
+
+Frequency of software audits has increased
+Price increases are well above inflation rate or consumer price index
+Vendor continues to reduce its operating or development costs but never passes the savings to customers
+Vendor spends inordinate amounts of advertising monies, user conference time, etc. badmouthing competitors
+Vendor creates upgrades/new releases that are onerous and cost prohibitive to implement
+Vendor doesn’t police its channel partners to ensure they deliver value every time
+
+How vendors get it wrong
+When I said vendors are a confused lot, here are some examples of how they get value all wrong:
+
+Giving a prospect a 90% discount off list price is not delivering value. It’s just a discount off an already over-inflated price point. Value creation occurs when the new solution can dramatically improve business results for the buyer business. Is the new software making the customer more competitive, materially generating more revenue or delivering a better product/service outcome for the customer’s customers?
+Selling functions and features instead of value – Some vendors think they sell a product like a scalpel. Unless the product is put in the right hands, used the right way and in the right situation, it does not add value. What is the value that these functions and features provide? If a vendor can’t answer that, it isn’t delivering value – it’s selling ‘stuff’.  
+Selling a licensed product via a subscription model offers very little value. This simply spreads out payments over time.
+Selling a suite of products does not, in itself, create customer value. Worse, selling a loosely interfaced collection of acquired products is not a proxy for value creation either.
+Shelf ware, i.e. software that is sold but not implemented creates NO value.
+Selling ERP, without ensuring it delivers real change, is not value.
+TCO and ROI are not the same and should never be used interchangeably. 
+Talking about how many F500 customers a vendor has doesn’t mean they are necessarily delivering value to those customers today.
+Throwing the implementation effort over the wall to a 3rd party implementer does not necessarily mean value will be created.
+
+How to get it right
+In the ideal, vendors would move closer to a value creation world if they:
+
+Used open source to keep costs to a minimum  and gain access to a vast pool of development resource. See this piece on ZOHO as an example.
+Delivered multi-tenant solutions because these provide the most flexible way of delivering fully configurable solutions to the maximum number of customers.
+Pass along operational savings to customers. How can Amazon reduce its costs quarter over quarter and still make money while enterprise software vendors can’t/won’t?
+Made sales of their products more frictionless and straightforward. Chasing the business model is a great opportunity to discover value in the buy cycle.
+Spend more time learning the customer’s business and recommending powerful change strategies instead of focusing on undifferentiated function/feature demos and drawn out contract negotiations.
+Focus more on the experiential and transformative opportunities their solutions can enable, providing examples of business use cases where the value is obvious.
+
+Final words
+A critical message in Bernshteyn’s book is about how value must be built-in from the beginning AND it must be a continuous – not one-time – aspect of many solutions. So true, but the temptation to move away from value creation is omni-present and strong.
+Business model changes are going on in virtually every industry not just in enterprise software. Every industry needs to focus on value as a service. Why? The subscription economy is creeping into every facet of business from hotels, taxis, jet engines and, of course, software. But readers should look at the best and worst practices employed in the software industry to understand what path they wish to follow.
+Defining a great value creation strategy for any project, including an IT project, can be tough. I liken this effort to a family getting their luggage in a station wagon and being ready to pull out of the driveway to start their vacation. The only problem is that they don’t have a common destination in mind let alone the right map or transportation device. Value creation is often something that sellers and customers must work together on or else the customer is going to be seriously dissatisfied.
+I mentioned both Mirchandani and Bernshteyn’s book in this piece as they feed one another. One graphically explores the vast amounts expended on one solution while another attempts to craft a framework for getting better results from these expenditures. Reading both and digesting the lessons is a good primer.
+Will Coupa, a SaaS vendor about to go public, be able to avoid the temptations Wall Street will place on them to put Wall Street not customers first and shift from offense to defense? We should check in with Bernshteyn in a year or two to assess how they’re handling this.
+Until then…..
+Image credit - Graphics via the author, featured story image via stock photos. story image via Coupa Disclosure - Coupa is a partner at time of writing. Read more on: Cloud ERP financials and supply chain 

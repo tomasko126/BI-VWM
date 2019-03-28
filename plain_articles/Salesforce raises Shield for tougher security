@@ -1,0 +1,28 @@
+
+
+Shields up
+As cloud computing heads towards its third decade, one thing remains an unfortunate constant – adoption studies in which security concerns are cited as the main inhibitor to enterprise take-up.
+With that in mind, enterprise B2B cloud services providers have long pitched the mantra that they live or die by their security track record. But still security and governance concerns remain an issue in key sectors.
+That’s one of the drivers behind the introduction of Salesforce Shield, targeted squarely at enterprises with higher compliance and governance needs, such as financial services, pharma and public sector.
+According to the official Salesforce pitch, Salesforce Shield includes:
+
+Platform Encryption to allow businesses to encrypt their most sensitive data while preserving important business functionality, such as search and workflow. Salesforce provides the example of a healthcare insurance company which can manage personally identifiable and protected health information, without compromising the ability of customer service agents to search, view, modify or run workflows and other key functions using that data.
+Field Audit Trail allowing customers to track changes at the field level for up to ten years and set different policies for each Salesforce object to ensure data is purged when no longer needed.
+Event Monitoring to allow IT organizations to see which users are logging into Salesforce, what information they are accessing, from where, and through what channel. As an example, Salesforce cities the idea of wealth management firms using Event Monitoring to determine whether financial advisors are capturing the right client data in Salesforce.
+
+Next year these will be joined by Data Archive to allow customers to store long-lived business data in the Salesforce1 Platform. Hospitals, for example, can store patient data for decades as required in law, but they can transfer that patient data into near-line storage and access it via simple queries when necessary.
+Adam Spearing, head of platform EMEA, says there is a two-fold driver for the new offering:
+
+We see cloud becoming more and more accepted in the enterprise and at the same time, we’re seeing people in certain industries want to put more and more sensitive data into the cloud. You have IT folks trying to solve issues around compliance, security and regulation. It becomes a challenge from building apps through to fixing adjunct problems.
+Some applications just don’t get considered for the cloud today. If you look at the governance structures around them, they may not use the cloud. There are some things that you don’t put in the cloud for regulatory reasons, others for emotional reasons. We are taking away the emotional reason.
+There are a lot of European regulations which start to talk about who has had access to what data and when. That’s where we see a need for audit trail information. You want to know who has had anything to do with information. Event Monitoring allows you to understand who is doing what. If you can see someone in Singapore is downloading vast amounts of data.
+
+Spearing sees a lot of interest in areas such as financial services, telcos and pharma firms:
+
+If you’re a pharma company, then you have to work in different regulatory regimes. In Germany, you have to keep data for ten years. In South America, it’s two years. You need to be able to manage that.
+
+My take
+Will this finally rid us of the ‘security as main barrier for adoption’ studies? No, of course not. But it is a sensible move to address that sentiment head on. It also provides some potentially significant up-sell and cross-sell opps for Salesforce.
+Disclosure – at time of writing, Salesforce is a premier partner of diginomica. 
+
+Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceInternet of ThingsSecurity 

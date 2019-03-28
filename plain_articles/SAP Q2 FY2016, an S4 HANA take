@@ -1,0 +1,59 @@
+
+Rob Enslin, Steve Singh, Bill McDermott, Luka Mucic and Berndt Leukert at SAPPHIRE NOW 2016
+Rather than update my initial drive by analysis of SAP’s Q2 FY2016 results, I’m running a piece that talks to the S/4 HANA story.
+While SAP puts plenty of emphasis on its cloud and subscription model story, S/4 HANA is an important element in SAP’s ongoing strategy. This is because it plays directly to SAP’s ability to move its large, installed on-premises R/3 and Business Suite customer base. First off, some comment on the call.
+Eagle eyed observers will have noted that SAP changed the manner in which it presents its results. Out goes the tedious and sanitized press release and in comes a set of graphics, charts and spreadsheet style data that should satisfy the most diehard numbers nerd.
+Also, in comes a different style of analyst call where, instead of the CEO and CFO dog and pony, SAP included Rob Enslin (global sales), Bernd Leukert (global technology) and Steve Singh (cloud and business network.) These people are also members of the executive board. This format made for a much more rounded set of conversations with analysts than is usually the case. I was impressed and felt that it worked well.  But then it’s always relatively easy to run an impressive call when things have gone well.
+As further background, I, along with others, have been attempting to chase down a more detailed picture of what’s happening in the SAP user base as it relates to S/4 HANA. I’ll say right off the bat that most of what I’ve seen in the public domain is either rubbish or ill-informed. Some of it is downright scurrilous.
+For my own part, I have a long list of questions that SAP is currently reviewing as it relates to the S/4 HANA situation. I expect to formulate a much more complete picture in the coming weeks as I conclude a series of calls with various people inside SAP.
+For the moment therefore, I will only talk to the numbers and color that SAP offered on the analyst call. This is how Bill McDermott, CEO talked about S/4 HANA in prepared remarks (truncated for emphasis)
+
+We see continued strong momentum with more than 3,700 S/4HANA customers, up 500 in the quarter, of which 40% were net new.
+Since announcing S/4HANA last year, more than 10% of our ERP customer base has already signed on. And this is the fastest upgrade cycle in our history, four times the adaption rate of R3 in the 1990s.
+
+OK – so on that basis, McDermott is saying that the R/3-Business Suite base is some 32,000 customers strong. My intelligence says it is more like 45,000. 500 adds in the quarter IS strong in this context, an uplift of 15% of the total previously reported.
+
+As I mentioned in my SAPPHIRE keynote, we’re also focused on empathy for our customers. For those considering S/4HANA, our value assurance program will deliver every customer, a clear migration road map whatever their preferred deployment model is; cloud, on-premise or hybrid.
+
+This is where things get tricky. There is a significant amount of conversation around this topic and while I give SAP a lot of credit for the roadmaps, I am of the view there are some missing components that are important for the long haul. I can’t say more than that right now because I don’t have definitive answers from the company. That will come on a few weeks’ time.
+
+We’re in a world where choice is a beautiful thing. We delivered for customers like Dow Chemical, Hershey and BAE Systems, who are all breaking free from traditional database limitations to unleash digital innovation with S/4HANA.
+
+These are important logos. These companies are very early in the implementation lifecycle but nevertheless, the mention of their names is enough to convince that S/4 HANA is real.
+
+Targin Group, a Russian oil field services company, will increase efficiency, inventory turnover and market share with S/4HANA. In Hong Kong, Cathay Pacific chose S/4HANA to simplify processes and enable real-time reporting. Flagship companies like Sabre and Nomura Research Institute are now live with S/4HANA. Sabre is live with S/4HANA together with Ariba, SuccessFactors and Fieldglass. So, it is absolutely clear that S/4 is also catalyzing broad customer adaption of our entire innovation portfolio.
+
+OK – so this is a bit overstated as you’d expect on a call of this nature but I know from the customers we met at SAPPHIRE that S/4 HANA has much broader appeal than some might think.
+Moving into the detail, analysts pressed the company on the adds and momentum – as they should. Here’s how McDermott characterized the current result:
+
+This is a multi-year upgrade cycle opportunity. And if you think about us slightly less than 10% into that journey, you can see a lot of runway that’s still left in the business model just on the upgrade cycle.
+But then when you add on the fact that 40% of these S/4HANA deals are coming in on a new business level, you really kind of get excited that maybe there is a major movement going on here…
+
+The fact SAP is able to talk substantially around net new is a healthy sign and something I did not expect.
+Having said that, we met some interesting customers at SAPPHIRE who have gone straight in with S/4 HANA having had almost nothing beforehand. The sense I got was that SAP has done a solid job making the ‘platform for innovation’ message stick in markets that you would not perhaps expect – like China. Enslin made that point in his remarks:
+
+There’s over 1,200 implementations now taking place around the world, 220-odd are live and plus/minus a couple of a hundred are ongoing. More importantly, I think when Bill talks about 40% new customers, and we’ve seen a significant uptick in the upper segment of the midmarket in places like Latin America and Asia, where customers see this as the future opportunity in the ERP space…
+
+1,200 implementations at this point in the cycle is not shabby but to me the more important point is that go lives are up 30%. SAP will have to accelerate this further if its customers are not to be stuck with shelfware. For his part, CFO Luka Mucic variously referred to automation and investments in the services SAP applies to S/4 HANA, implying that the company expects to see significant growth in those go live numbers over the course of the next year or so.
+Enslin gave a solid commitment on this point a little later in the call when he said:
+
+So, I think this is what we can expect towards the end of the year, mid-to-high-triple-digit customer go live. We are really focused on getting our partners trained, more than 5,000 really trained. We’ll have close to 10,000 by the end of the year. Our internal consultants have now well-trained, and we see that go lives are actually taking between six months to nine months, so a lot faster than anything else in the marketplace.
+
+If SAP and its partners achieve Enslin’s forecast then that will be a massive improvement. We will watch this one closely but we already know that some of the top seven SI partners have made huge investments in their HANA practices, with varying degrees of success.
+Where I do draw a little breath is when Leukert says:
+
+And we had in Q4, so the 15/11 release, a complete coverage of the HANA adoption and exploitation across the entire modules in S/4.
+
+SIs I’ve spoken to would likely dispute the implied full module coverage but that’s a discussion for another day.
+Returning to the sales mix, Enslin had this to say:
+
+I think what you see is the large SAP customers on – are looking at transforming the digital environment rapidly fast. We saw that with Nestlé. We’ve seen that with companies like Accenture.
+But what you see is companies that are moving to a next-generation ERP system from older systems are actually looking at S/4 as the future, and that’s what we see in the mid markets. So, there’s new companies coming to SAP quite a lot.
+
+More logos but the companies mentioned are in the ‘all you can eat’ category that doesn’t necessarily add to the top line as in new license sales. Again, more nuance is needed on this aspect but right now, I’m not convinced those elements have a material impact on the top line.
+My take
+The analysts certainly gave SAP a working over on the S/4 HANA adds and, to its credit, SAP provided good color on where they’re at.
+As I said at the top of this story, there are a number of moving parts involved here and gaps in my knowledge that need filling. What I need are more numbers with certain splits to help better understand where value is being seen.
+Having said that, it appears that SAP has gone a considerable distance in figuring out how to get the S/4 ball rolling, even in the face of much criticism about the value S/4 delivers.
+The market will always demand more but at least on this occasion, the market must have heard enough to keep it happy as the shares were marked up after the calls.
+Image credit - via Doug Henschen at ZDNetRead more on: Analytics planning and data analysisCloud ERP financials and supply chain 

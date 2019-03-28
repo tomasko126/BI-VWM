@@ -1,0 +1,36 @@
+
+Enterprise computing firm Oracle last week released the results of a survey that finds business leaders around the world are grossly over-estimating their organization’s agility.
+More precisely, the survey shows, according to Oracle, that many business people have not realized how far their organization’s IT infrastructure and application development capabilities have fallen behind what’s possible with today’s cloud technologies.
+Of course Oracle has a clear vested interest in pushing this message. Like many other IT vendors today, it’s eager to persuade its customers that they need to buy more new stuff, especially cloud stuff. As John Abel, engineered systems leader for the UK, Ireland and Israel told me in an advance briefing:
+We’re obviously trying to make customers jump that innovation gap.
+I put it to him that the survey’s findings didn’t automatically lead to the conclusion that enterprises should be buying into platform-as-a-service (PaaS), as Oracle is suggesting. Another equally valid interpretation might be that they should be investing in software as a service (SaaS) as well as agile, iterative development methods and devops-style continuous delivery platforms.
+Abel responded that the key message to take away was the importance of being ready for change and awareness of the available options:
+IT change management training is crucial.
+If I’m an IT leader, I absolutely want to have the right change management sklls in my department and I must understand how these different types of cloud technology can give me accelerated time to market.
+For example, he said, enterprises should be lowering the barriers to innovation while at the same time developing highly disciplined processes for governing the roll-out of new applications at scale.
+More worrying for some
+There are worrying findings for individual countries in the Oracle Cloud Agility study. Partnering with Oracle, market research firm Opinium quizzed 2,636 people working for large global organizations in a cross-section of countries around the globe, including Australia, Brazil, China, France, Germany, South Korea, Poland, UK, and the USA.
+Among the key global findings highlighted by Oracle:
+
+81 percent stated that the ability to rapidly develop, test, and launch new business applications is either critically important or important to the success of their business.
+64 percent consider their organization to be agile — defined as being able to adjust quickly to new business opportunities or to iterate new products and services quickly.
+52 percent indicated that their business does not have an IT infrastructure capable of meeting competitive threats.
+Only 50 percent of businesses can develop, test, and deploy new business applications for use on mobile devices within six months, and just 30 percent can do so in less than one month.
+49 percent either cannot, or do not know if they can, shift workloads between public, private, and hybrid clouds, and migrate on-premises applications to the cloud.
+Only 32 percent state that they fully understand what PaaS is, and among those, almost half say the main benefit is cost savings, while less than a third cite reduced timeframes for application development as a main benefit.
+
+Masked within the global figures were big variations between different countries. China came top in the rankings for claimed agility, with 80 percent of respondents saying their organizations were agile, while the UK was second from bottom (elbowing Australia into last place) with just 55 percent feeling positive on this point. The US scored close to the median with 66 percent.
+The UK performed even more poorly on execution, with only 20 percent able to deploy new mobile apps within a month, and just 36 percent if the timeframe was extended out to six months. Companies in China were way ahead here, with 29 percent able to roll out a new app in less than a month and 52 percent capable of delivering within six months.
+This kind of disparity is a key point for enterprises in the UK and Europe, said Abel, who risk falling behind more agile competitors from overseas.
+In countries that have got a large heritage in IT capability versus countries that have jumped some generations, that heritage may be the reason they’re developing slower.
+One of the bigger risks is that in the global market we have today, the geographical [location] is not so important to innovation. Are you going to be outgunned in a competitive way because they’re faster to market? That quick speed to market means they can do things much faster.
+At the same time, Abel felt the findings also showed that it was possible to recover ground with the right skills in place.
+We’re hungry for the technology, we’re hungry for the agility, we need some change management skills in there. Once we do it, we seem to pick it up quicker.
+My take
+It’s good to see Oracle putting its marketing weight behind the push to the cloud, even if you might quibble about some of the specifics of the study data produced to support its case.
+I’m especially surprised to see any conclusions being drawn from the finding that as many as a third of people actually claim to understand what PaaS is. This is a very broad category of cloud computing in which every vendor seems to have their own unique definition, tailored to the specifics of their offering. No wonder two-thirds of people are either perplexed or nonplussed.
+One of the drawbacks of a survey like this is that it goes down the track of defining agility and outcomes in terms of the available technology. Therefore I was glad to hear Abel emphasizing the importance of skills and awareness.
+Yes, cloud technologies provide agile platforms, but they can’t turn around a business that isn’t ready to adapt. You need to couple them with innovative thinking and agile processes to achieve any real impact.
+Disclosure: Oracle is a diginomica premier partner.
+Image credit: Elephant on tightrope in cloudy blue sky © Sergey Nivens – Fotolia.com.
+Read more on: Cloud platforms - infrastructure and architecture 

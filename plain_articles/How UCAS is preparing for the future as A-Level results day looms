@@ -1,0 +1,39 @@
+
+On Thursday this week, half a million 17- and 18-year-olds in Britain will find out their A-Level exam results, and whether they’ve done well enough to get into their chosen university. For those that don’t make the grade — usually around 10% — a race begins to find the best alternative place through a system called Clearing, run by the Universities and Colleges Admissions Service (UCAS), a non-profit which administers the application process for British universities.
+From 8am on that one day in the year, there’s a surge of activity as successful students are allocated places, while others log on to start searching for alternatives. It’s a big day for the IT team at UCAS, says Nick Harper, Head of Enterprise Technology Architecture:
+The load is phenomenal for that particular system. It makes it quite an interesting day.
+It’s possible there will be even more students reassessing their options this year, after the UK government mandated tougher standards — although there’s been some confusion over the exact impact of the new grading.
+Whatever happens, the traffic spike on results day is dramatic, says Mark Woodfield, Head of Technology Development:
+It’s many hundreds of percent higher load — we go from thousands of hits to millions within a few hour window. It’s an unprecedented scaling-up that only really happens to large-scale organizations that have very particular deadlines or times that they scale.
+We’re like when you get some of the phone-in telephone shows with voting deadlines. We have a similar kind of scale where we go from nothing to a million miles an hour.
+Mission-critical in the cloud
+There was a time when UCAS had to physically ship in rented hardware systems to supplement its on-premise systems for that one day of the year — its predecessor UCCA starting using computers to manage the process as long ago as 1964. But this was a costly and unwieldy way of handling the annual spike in load. So UCAS became one of the first organizations in its sector to move mission-critical computing to the public cloud, explains Woodfield:
+We moved to Amazon in 2012-2013, which was quite early, especially for the education sector and a charity. We had to. We knew the cloud was the only option for us. We were quite fortunate we got the backing to move to that.
+But as is so often the case, moving its existing systems to the cloud was just the first step for UCAS. A much more fundamental transformation is now under way, with the organization harnessing new technology to build next-generation digital systems. It’s an important step, says Woodfield:
+The move to digital allows us to go more elegantly.
+It was ‘old wine in new bottles,’ whereas what we have in place with our digital acceleration service is applications that are built to scale, and scale rapidly.
+The transformation effort makes use of Amazon Web Services (AWS) and Microsoft Azure public cloud, and maximizes deployment of commercial off-the-shelf (COTS) products in preference to custom-built, in-house platforms. But while UCAS is taking the opportunity to branch out into new areas, it has to balance the desire to innovate with the need to deliver a robust service. As Harper explains:
+What we’re doing in the new world is still our core services — but we are trying to do it in a more agile, iterative, evolutionary way to get to an end state. It still has to be delivered with a high degree of control and governance and certainty. So it’s still quite challenging.
+All our new services are either COTS products or a lot of AWS. UCAS has spikes of activity and we can drop down some of those services to very low levels.
+We also have to interact with the legacy as part of that transition.
+The result is a landscape that’s a little more nuanced than the stark division implied by Gartner’s model of bimodal IT, he says:
+Even though you want different speeds and risk models you still want a level of consistency and conformity.
+API-led integration
+How systems connect to each other has been an important consideration. UCAS has deployed the MuleSoft AnyPoint integration platform to help streamline integration, as Harper explains:
+We quickly realised that in order to facilitate the vast amount of data [and interactions], we’d need a system integration layer.
+We were going to do a traditional ESB but started to realize there was a whole approach [that MuleSoft] embed that would lend itself to some of the things we were doing.
+UCAS has adopted the Center for Enablement model recommended by MuleSoft to encourage adoption of pre-built integrations. These are made available as APIs on the Anypoint platform, which encourages reuse rather than needing to build a separate integration for each requirement:
+It’s a real drive to get a buzz about it so that people use Mule across the estate.
+While IT looks after lower-level integrations to core systems, other users can easily pick up APIs in the Anypoint web interface, Harper explains:
+We try and make the distinction between the core Mule platform vs the Anypoint web interface where you can create and place APIs. That layer is very much about collaboration, sharing, not having to redo work.
+There’s that fundamental layer underneath where you need to escalate to a subject matter expert that support is available. The core platform is maintained by central IT.
+The Mule integrations are primarily focused on enabling new services within the modern digital applications, with integrations to legacy systems added when necessary. The approach is agile rather than waterfall, says Harper.
+We’ve got quite a monolithic legacy estate. We’ve adopted agile as well. Point by point, we understand where there’s legacy endpoints and what the parameters are for them. The key is not to go into hugely specific detail upfront, it’s a matter of working that through when the sprint teams get to that point.
+We’re a bit more agile than usual enterprise architecture teams, we don’t specify everything upfront.
+Ability to flex and scale
+The overall goal is to build a better connected system that offers the best experience, with more flexibility to provide new services, both internally and in co-operation with third parties. Harper concludes:
+The strategic objective is to create an ecosystem where it’s connecting all our learners and providers and customers and giving them a great experience …
+Part of the strategy for this ecosystem is to create an ability to flex and scale into different market sectors. We want the platforms to be able to facilitate our strategic product managers to suggest opportunities. A partnership platform is part of that — using Mule to, for example, share content and onboard and offboard different people.
+The world we’re creating is very much about flex and change and adaptability, as well as a stable core service.
+Image credit - Image free for commercial useRead more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackDigital government and public servicesEducationUse cases
+

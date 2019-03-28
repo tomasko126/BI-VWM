@@ -1,0 +1,42 @@
+
+ 
+Saddleback Leather is a perfect example of the ‘American Dream’ in practice. Saddleback Leather’s CEO Dave Munson has grown his leather goods business from being a one man show living out of a $100 a month apartment in a town near the border in Mexico, to a quickly scaling omni-channel, multi-million dollar company that ships its products globally.
+And as the business continues to grow and just as it prepares to launch its first bricks and mortar store in Fort Worth in Texas, Munson has gone all in with NetSuite’s e-commerce platform; as he believes that to successfully run a retail business, it’s important to use a platform that can can give you a 360 degree view of both the customer and the company.
+Munson explained how it all began in 1999 when he was teaching english to students in a place near Mexico City, where one day he wanted to buy an ‘Indiana Jones-style’ bag to carry his books in – but couldn’t find one anywhere. As a result, he went to a bag maker and got himself one made. But when he got back to the United States, he realised that there might be an opportunity there. He explained:
+
+I got back to US and people were asking all the time about where they could buy the bag, sometimes even four or five times a day. So I ended up moving to a city near the border back in Mexico, putting money in the banks of a father and son down south in Mexico who were making the bags, who would then put the bags on a bus and send them up to me.
+I would then go across the border and sell them on eBay. I lived in a $100 a month apartment with my dog for three years. We didn’t have any hot water, we were sleeping on the floor, but I was saving a tonne of money by not paying rent in the US. I put all that money back into the bags and they just kept sending them up. And pretty soon I couldn’t keep up with demand.
+
+Pretty incredible, right? So Munson ended up launching his own website when the company continued to grow and eventually ended up moving back to Texas, San Antonio, to marry his girlfriend (which, by the way, he met on Myspace!). They have continued to scale the business, with the website now getting up to 13,000 hits a day, and Saddleback Leather has opened a factory in Mexico to do its own manufacturing.
+However, up until 2011 Saddleback Leather was mostly using Excel and it has a poor website, based on Ruby on Rails, that was prone to crashing under the slightest bit of pressure. At this point Munson realised that he needed an e-commerce platform that could grow with the company and one that could take care of everything from customer-facing web systems, to financials, to manufacturing, to marketing and point-of-sales. Which led him to NetSuite’s SuiteCommerce platform. Munson said:
+
+[Up until that point] it was a total disaster. The website was down all the time. We got a story written about us somewhere and we got about 20,000 visitors in five minutes, but we only saw about 1,000 of those because the website just shutdown. So we knew it was time to invest in something like this.
+
+The company now has also added manufacturing in Mexico to the application and will be introducing PoS when the first store opens in Texas sometime over the next 12 months. He said that implementing NetSuite meant that the company could save money by not having to integrate a bunch of different applications and it could introduce efficiencies through a greater level of automation, by having all of Saddleback Leather’s data in one place. Munson said:
+
+So if someone makes an order, it sucks it out of inventory, it sends a message to Mexico to order raw materials, then it sends the email for the raw materials to the provider. It’s all automated. Why that will help with us is because we have almost $1.5 million in inventory right now in Mexico and that’s just horrible because its money on vacation. It’s just sitting there. And so what we are going to do is be able to get $500,000 or $600,000 out of inventory and turn it into cash, because we are no longer ordering unnecessary large amounts, and then we can use it for marketing and all these other things.
+It’s very helpful to have everything in one place. We estimated that we would spend between $200,000 and $300,000 if we had things that we thought we would always have to be tweaking, monitoring and connecting. We would have had to hire a few extra people to do that, but NetSuite just does that now.
+
+Not only this, but the company’s performance has improved dramatically given that NetSuite now manages all the integrations with systems that are external to Saddleback Leather. Munson said:
+
+And we are saving a lot of money not having to integrate with other systems. Like when UPS or FedEx would upgrade their systems it used to just freeze our website. But now when they do that, they go to NetSuite and we just have to deal with NetSuite.
+
+However, it wasn’t all plain sailing at the start, simply because Saddleback Leather was one of the first
+The original backpack
+companies in the early days to start using NetSuite’s e-commerce platform, meaning that there were some steep learning curves. Munson said:
+
+We were kind of guinea pigs, so it kind of sucked at first. No-one knew how to programme or do anything, their e-commerce was kind of new.
+It took about three years to get over the bumpy bits at the start. It was both our faults though. As they were developing things, they were asking us to try things out, but but they were only 80% done. We had tonnes of bugs. Internal errors were being thrown at us and we didn’t know what they were. But now its nice and fine and its smooth.
+Some of the problem with the manufacturing implementation in Mexico was that our developers thought they knew what they were doing because they’d worked with SAP. But the architecture was too difficult or different for them to handle. But now NetSuite is launching sites for developers to learn this stuff and they can download bundles, so its a lot easier now.
+
+But despite the rocky start, Saddleback is continuing to invest in the platform and rolled out SuiteCommerce Advanced in April 2014, which Munson said was an incredibly smooth implementation and took just three months. And Munson added that NetSuite was the right choice, because it is the platform that can do it all.
+
+If we had picked each individual piece and then had to write APIs to do the connecting, it would have been difficult. No-one had the one platform that would do it all – apart from NetSuite.
+
+Whenever I speak to growing businesses that are making use of the cloud, I am always keen to find out if they had any hesitations about putting all of their company data outside of their firewall and into the hands of someone else. And I just wanted to finish with Munson’s response, because I haven’t had an answer from a CEO in a while that was so honest and serves as an important reminder for senior execs out there making those all important technology decisions. Munson said:
+
+I didn’t really know what it [the cloud] was. My job as CEO is to hire people that are really good at what they do, that are really knowledgable and then I trust them. They evaluate everything, go to the conferences, then they bring me some options, dumb it down for me and then we decide.
+
+Disclosure: NetSuite and SAP are a premier partners at time of writing. 
+
+Read more on: CRM and customer experiencee-commerceUse cases 

@@ -1,0 +1,53 @@
+
+We can talk in general terms about Leonardo, SAP’s next gen kitchen sink digital umbrella, but beyond a point, I don’t find it useful.
+What is productive is breaking out Leonardo’s components for analysis – with a close eye towards industry readiness.
+At SAP TechEd Barcelona, we accomplished that for SAP’s blockchain pursuits. Via the SAP blogger program, we had series of frank sessions with SAP Leondardo and blockchain leadership. Den got the analysis started with Can SAP provide a comfort blanket for the turbulent financial services industry?
+The following day, we met with Torsten Zube, VP, Head of Blockchain at SAP SE (pictured above). I’ll explain SAP’s approach – then critique it.
+How SAP blockchain is structured
+As Zube explained, his blockchain team is charged with driving blockchain tech within SAP. That plays out in three areas:
+
+Blockchain evangelism – evaluating blockchain tech, fleshing out potential use cases, and “Helping our customers and partners, as well as internal developers, to understand the technology and to understand what you can do with it.“
+End-to-end use case development both internally, and with partners and customers. Typically, this starts with a proof of concept (POC). That means supporting Gil Perez’s team, which is focused on blockchain for IoT and digital supply chain (Howlett assessed our talk with Perez and Rueckert). Zube’s team also supports S/4HANA’s blockchain needs, as well as industry solutions. They report into SAP’s Juergen Mueller, SAP’s Chief Innovation Officer.
+Technology enablement via blockchain as a service – “What we are building right now is a blockchain as a service. This is built on the SAP Cloud Platform.” The official name is vintage SAP bulky nomenclature: SAP Cloud Platform Blockchain Services.
+
+Why blockchain as an SAP Service?
+So why the focus on delivering blockchain services via SCP? Zube explained:
+We want to shield away the complexity of blockchain technology. We also want to offer a platform of protocol-agnostic approach that enables an application developer, whether these are internal developers or external developers, to easily consume blockchain capabilities by just calling rest APIs – rather than really going into the details of each ledger.
+SAP’s approach combines standards participation with agnostic views towards emerging protocols. SAP has already been active in Hyperledger (see my recent piece with Hyperledger Executive Director Brian Behlendorf). Zube:
+What we are focusing on right now is Hyperledger Fabric as one of the enterprise-grade protocols. We are in parallel also implementing MultiChain, a lightweight blockchain protocol that has no smart contracts.
+We’re also of course looking into Ethereum, or into Quorum or whatever comes up there. [Editor’s note: Quorom is an enterprise version of Ethereum, forked from Ethereum with the financial services industry in mind].
+Why does SAP focus on “permissioned blockchains”?
+We got into a pretty wonky blockchain tech discussion I’ll spare you from here. But one key question was: how is SAP tackling the trust model? In other words, is there a proof of work model like we see in Bitcoin-esque public blockchains? Zupe says that SAP is focused on permissioned blockchains.
+Zupe says that enterprises generally don’t want anonymous blockchains. They want to do business with known entities; they don’t want to join a network of anonymous parties. One benefit from a tech perspective? This saves a lot of computing power:
+When you talk about proof of work, you need to do that in the public versions. Why is that? Because the idea – especially it comes from bitcoin – was to create a network of anonymous participants. You can basically trade with people you do not know. To be sure that no one is taking over the network, you have these computational puzzles to be solved, which is, from a technology perspective, a huge waste of CPU power.
+Permissioned blockchains are the common POC:
+In most cases, we see permissioned blockchains. That means you know the participants and each of them, for example, has one node only, or they can have several, but you know who has which nodes.
+Given that all members in a permissioned blockchain have an equal vote on validations, would that not be offputting to big vertical players – like a Walmart – that are used to dictating terms to smaller partners?
+Zube envisions different scenarios, some where the market leaders establish a blockchain first, others where smaller players might join to access to a ledger, given that joining a blockchain ledger is “much easier” than other options for partner networks today.
+Enterprise adoption – where are we now?
+I asked Zube for his take on blockchain adoption – or lack thereof – with live projects (Hyperledger’s Behlendorf estimated 100+ blockchains in production now, though that number includes private/internal projects). Everledger, a diamond ledger that SAP is looking into participating via the Ariba Network, is one intriguing project that should go live by early next year. Zube started by giving his definition of a live blockchain project:
+A POC that runs for a certain part of the whole business, and with live data is not my definition of live. It’s still a POC, proofing and testing. Live means that the whole subject that needs to be done is running, and you have a business value with that one.
+POCs with live data are the norm right now, but that could change as soon as next year:
+Most cases we see as of now are at that stage where we put the POCs with real data and testing them. This is what we see. We also are already in implementations with current customers where we also hope to be live soon, early next year.
+My take – a sensible approach, except for marketing
+When I asked Zube about live SAP blockchain projects, he wasn’t able to elaborate on many due to PR approval constraints. However, he did refer back to the Italian government example that SAP first cited at Sapphire Now:
+They have agreed with us now to productize, not the exact same case but a similar one. We are now in the phase where are starting to work with them to get this done. We are working with a few more, but here I must not mention the names because we have NDAs [in place].
+For industry traction, Zube said use cases involving track-and-trace, product governing along the supply chain, and counterfeiting protection via certificates are early candidates.
+Zube conceded these initial use cases aren’t really about revolutionizing industries. Some don’t even require changing processes. Rather you “optimize” the process, digitizing information in documents. That approach might be low on blockchain-changes-everything hype, but it’s better for early adoption.
+I am definitely grouchy/skeptical about many aspects of SAP Leonardo. I question whether the design thinking approach can scale. The industry “accelerators” seem promising, but I’ll need to see more that are ready to go.
+My biggest issue remains lack of clarity in pricing, with indirect usage issues as the concerning backdrop. SAP needs to flip the script into pricing leadership and take these Leonardo scenarios into consumption-based pricing. This isn’t a novel idea inside of SAP, but without bold actions, it may remain an idea, not a customer reality. (hear more on all this during my SAP TechEd podcast with Dick Hirsch).
+Where SAP is going astray is on the marketing side. I had one attendee tell me he was fed up with all the we’ve-got-blockchain keynote preening from SAP. And some of the press releases SAP has issued on blockchain are grandiose – though the last one I saw was more reasonable, eluding my satirical pen. The informed positioning from  Zube and Perez is even more useful, and should be amplified.
+That said, I like SAP’s blockchain approach more than I expected to, given the marketing bombast. Some won’t find SAP’s push into blockchain radical enough, but it’s a lot more specific – and organizationally committed – than most pitches I’ve heard this year.
+SAP has its work cut out balancing pending customer needs with innovation awareness. More blockchain and/or Leonardo-specific events may help reduce the need to bullhorn general audiences at the big shows.
+During our meeting with Perez and Rueckert, blogger/AI pro Brian Dennett raised a stinging curve ball of a question:
+When I think about it in the enterprise, I think there’s a narrow subset of use cases where blockchains are defensible. Outside of that, it really comes down to an immutable ledger. And I’ve never heard someone talk about stealing some of the fundamental techniques that make a blockchain and just reusing those.
+Why is no one talking about just using Merkle trees within SAP, in order to create the same kind of immutable data structure without the messiness, the lack of performance that you get when you bundle all these different techniques into a block chain? Why is that dialogue not happening? Is it just because customers aren’t demanding it because of the hype cycle? It just seems if you were to really set up the use cases, you would take the fundamental algorithms, the computer science behind the blockchain and just take out the best parts of it and just apply it.
+I thought that might stump SAP for a moment, but Perez was ready:
+We’ve had a couple discussions with large corporations about similar things. I would say it’s still in the early stages. Those discussions are obviously happening.
+Reukrt added:
+You’re not the only one.
+Perez went on to say that Aerospace and Defense customers were amongst those raising similar questions.
+Dennett raises a sharp question, but I also think SAP’s participation in cross-vendor, standards-based groups like Hyperledger is vital for blockchain to achieve critical mass and overcome regulatory hurdles. Building too much proprietary blockchain-inspired tech wouldn’t help with that – and as Zube himself admitted, those regulatory hurdles pose problems for some POCs, such as bill of lading scenarios.
+SAP still has a lot to prove in blockchain, so we’ll need to revisit this. For now, I welcome the frank discussions. I’ll look forward to live customers next spring at Sapphire Now.
+ 
+Image credit - Photo of Torsten Zube via the Twitter post of Erik Krause, handle @_ekrause.Disclosure - SAP paid the bulk of my travel expenses to attend SAP TechEd Barcelona. SAP is a diginomica premier partner.Read more on: Cloud platforms - infrastructure and architectureIoT robotics and AIOpen source 

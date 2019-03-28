@@ -1,0 +1,46 @@
+
+It’s three days of non-stop pressing on the exhibit hall floor, looking for retail winners at Shop.org 2017. End of day three; one more meeting to go, with a still-composed Bernard Chung of SAP Hybris.
+Yeah, Chung’s got one of those SAP job titles that require design thinking just to figure out how to fit on a business card – his official title is “Senior Director, Head of Solution Marketing for Marketing Audience, SAP Hybris.”
+Avoiding retail tech infatuation
+My brain is way too fried for a marketing pitch. Fortunately for me, Chung would rather talk retail. “So what did you learn this week?” Chung responded:
+I was sitting in the Walmart session yesterday. The president of Walmart running e-commerce [Marc Lore] was talking about different cool technologies. One of the questions asked was, “Which technology do you really like?” VR, voice, AI – he commented on all of them, but one thing that struck me is that technology is just tools. What we should focus on is what does it enable within the organization doing the business.
+So far, Chung and I are going to get along. Though I didn’t tell him I just posted two video demos on cool retail tech:
+
+How augmented reality is changing shopping with Augment, and
+AI for body measurements/fine clothes shopping with Bold Metrics
+
+Still, the only reason I did those gee-whiz videos was because the companies could speak to results. Chung continued:
+Lore was saying he’s focused on [enabling the business] all the time. When he’s evaluating these tools, he thinks about, “What could it get me? Or what does it mean? Just because it’s the latest and the greatest, it may not have the greatest business impact, right?” Which I thought was very grounding, for me, personally, because we’re a solution vendor provider. I always think about how do we message and position this in the right way that would be most compelling.
+I told Chung what I told the Bold Metrics team after their (admittedly nifty) demo on how they are able to use “AI” to get online shoppers within 3 percent of the measurements of a master tailor:
+They could have done the exact same demo, and not mentioned “AI” or “personalization” or any other buzzwords. You could frame the entire thing in terms of a better shopping result. Chung pointed out that tech is changing how we interact with companies, and fast, with estimates on voice-enabled browsing reaching 30 percent by 2020:
+If my memory serves me correctly, Centric Digital also did a survey. They said by the year 2020, 85 percent of customer experience is going to be conducted with a non-human, which I thought was interesting. I think that number might be a little bit too high. But who’s to say?
+Then there is the problem that the mythical customer experience can be tripped up by one frustrated employee or one data disconnect:
+I like to say, “Customer experience is only good as your weakest link. So I could have a fantastic experience on email, and the web, and social. But soon as I call into that call center, “Sorry, who are you? What’s your name? What’s your customer id? Well, how can we help you?”
+AI and the awkward bumps in the road
+The debate is whether the efficiency play can also be a customer experience play. Comcast’s elaborate voice mail tree is from hell from a CX standpoint, but it’s efficient for them. Done properly, a voice-enabled solution demolishes the need for a voice mail tree and pulls in expert humans at just the right moment – or for just the right customer. Are we there yet, Mr. Chung?
+I think that’s the direction we’re heading with AI, but there’s going to be a few bumps along the way. A good example is my personal experience with Facebook. I don’t know if you know their feature where they automatically tag people based on picture recognition. Well, they’re not perfect.
+Chung has firsthand experience there:
+One of my co-workers kind of looks like my wife. My wife’s Asian. So is my co-worker. Whenever we go on business trips, it thinks it’s my wife on Facebook, and gets posted as such. And then my wife sees it.
+AI? Or just awkward.
+How SAP fits in – updates prior to SAP Hybris Live, Barcelona
+So how does SAP Hybris fit into the picture? First news: it’s full speed ahead on the chatbot that debuted at Sapphire Now (the bot allows you to interact with Hybris commerce using any messaging application):
+So, that’s very exciting. It’s a prototype, but we’re also going to, definitely work it into our core product.
+No official name for the bot yet, that’s pending.
+And you know about Leonardo.
+Yeah, I think we’ve heard of that one. One Leonardo play from the Hybris side I find intriguing is via an acquisition called Abakus:
+We renamed that product to SAP Hybris Customer Attribution. They use a machine learning algorithm. They call it the collaborative game theory approach. Basically, what it does is, it helps marketers to do more accurate attribution of activities and move them away from the last touch attribution problem, to giving a more realistic view into what different activities contributed to a sale or conversion.
+Multi-touch attribution is a sticky wicket indeed, so I’ll look forward more on that. Chung also mentioned “contextual merchandising,” which uses historical information and machine learning to provide more accurate/personalized offers to consumers.
+Of course, I couldn’t resist asking Chung about SAP’s acquisition of customer identity management firm Gigya, which should figure prominently on the SAP Hybris side. Asking Chung for his take on that purchase isn’t really fair given the acquisition hasn’t gone through yet. But speaking for his own view, not SAP or SAP Hybris, Chung shared this:
+I think the key differentiator for us is really around the data and having a complete source of customer information. And Gigya could be a big component of that. But if you think about SAP customers as a whole, they use SAP as the system of customer record. Right? It’s the first party data. And it sits in the SAP system.
+So SAP Hybris has that, especially to an install base customer. And being able to put a more customer identity and access management capability, that’s what Gigya does. On top of that, I think it makes complete sense. So being able to identify customers and also allowing them to manage their own information. That’s what Gigya does, and it’s critical.
+Then Chung made the key point:
+And it could be a central step to being able to fulfill our second value proposition, which is delivering great customer experiences.
+My take – GDPR raises the trust and data stakes
+Chung’s last comment launched us into my wheelhouse conversation about the tensions between proper data security and ease-of-customer experience. An intuitive identity management solution can ease the tensions between the two.
+That brings us to the final juicy topic, GDPR. GDPR is a classic regulatory example of how personalization and user experience will run into a wall if consumers’ data isn’t protected. And these regulations should have some real teeth, forcing vendors to regroup. Chung:
+I think GDPR has huge implications in organizations. We are taking this very seriously, and looking at our policies and our capabilities and working to shore up areas that we need to from a solution perspective to help organizations to meet these requirements.
+GDPR will (hopefully) expose black hats that push the limits on tracking users across the web. But it’s also going to compel modern behemoths like Google and Facebook to be more forthright about what consumers are opting into – or not.
+Chung and I both see this as a good struggle. GDPR is not the end of personalization, but it IS a challenge to provide a clear value exchange and clear opt-in at each step – something companies have not exactly been diligent about.
+We finished with some talk of customer stories. Chung had a good one that brought these points home, in this case, ASICS – an athletic footwear company that has used Hybris Marketing, along with customized footwear assessments via in-store treadmills. Consumers give up their own data, yes, but they get a better experience as a result. “That’s the value exchange,” says Chung.
+SAP Hybris will get further into these topics and more at the upcoming SAP Hybris Live event in Barcelona. We’ll have diginomica feet on the ground there, led by Derek du Preez. Expect more analysis and customer stories then. We’ll also have a little ditty from Dick Hirsch this week that will tie in – I’ll link to it here when it’s live.
+Image credit - Woman and scary forest © kevron2001 - Fotolia.com.Disclosure - NRF provided me with press access to Shop.org 2017. Diginomica is a Shop.org media partner. SAP is a diginomica premier partner. Read more on: CRM and customer experiencee-commerceIdentityRetail e-commerce and the omni-channel 

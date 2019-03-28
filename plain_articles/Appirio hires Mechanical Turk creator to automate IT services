@@ -1,0 +1,29 @@
+
+The lead creator of Amazon Mechanical Turk, the world’s first fully programmatic crowdsourcing platform when it launched in 2005, has joined Appirio as CTO to advance the cloud integrator’s quest to bring disruptive automation to the IT services industry.
+Alex Castro took up the post in October last year but the company kept his arrival under wraps until yesterday’s announcement. He told me by phone yesterday that he has been busy “hiring top-notch developers who build highly scalable cloud solutions,” while overseeing the company’s transition of its topcoder crowdsourced development community to a new, microservices-based architecture running on Amazon Web Services.
+What we’re doing is trying to take topcoder to the next level as well as bring more of a self-service approach to our more traditonal enterprise customers.
+Appirio also yesterday announced a new funding round led by Fidelity Management & Research Co. The round currently stands at $35 million but may be topped up before it finally closes, CEO Chris Barbin told the Wall Street Journal. The sum brings Appirio’s total funding to date to $115 million.
+Castro joins from Electronic Arts, where he was VP of product management, focused on data and analytics. A decade ago at Amazon Web Services, he led the team that created Amazon’s Mechanical Turk. Prior to that, he held several roles at Microsoft, including co-founding the team that created the vendor’s first CRM product, a precursor to its broader entry into business applications. After leaving Amazon, he founded Delve Networks, a cloud-based online video platform later acquired by CDN provider Limelight Networks.
+Topcoder for enterprise
+The move to a new architecture running on AWS will allow a raft of improvements to topcoder in the coming year, as outlined by Barbin in a blog post on Wednesday.
+Topcoder has a registered global community of around two-thirds of a million developers, designers and data scientists, who compete for recognition and financial rewards in return for their contributions to project contests.
+Alex Castro, Appirio
+Castro’s team will also be working to expose more of the topcoder functionality and other Appirio capabilities to its enterprise customers as on-demand services, he told me.
+Currently a lot of the tools that are used for Appirio to manage cloud projects are only available within Appirio. There’s some secret sauce in there we use internally.
+Also, Appirio solution architects use topcoder tools to deliver outcomes to customers.
+It’s bringing these things together so customers and the topcoder community can work together in an easier-to-use experience.
+Cloud implementation and configuration lends itself to more repeatable automation than traditional on-premise projects, while crowdsourced development can help meet the need for custom work, Castro explained.
+The on-premise solutions like SAP, Oracle and Siebel have a whole level of complexity that cloud solutions like Salesforce and Workday don’t have.
+There will continue to be custom developments. That’s part of what you’re tapping into the crowd for — there are still going to be solutions that people need. Whether it’s via our consulting team or the crowd, we can bring those solutions together.
+While topcoder is dealing with a very different kind of work than the microtasks that Mechanical Turk crowdsources, topcoder does have some elements in common, he said.
+You still have a marketplace, a customer, and community members. You reach a point where everyone feels where they’re getting value. Mechanical Turk had that same dynamic.
+Also there’s the need to ensure the quality of work, and that the work is accepted by the customer. We’re in a better position to automate some of that acceptance than Mechanical Turk was. That was one of the core issues, how did we validate that the answers that came back were correct?
+There are definitely some similarities but they’re also very different solutions.
+Appirio’s vision to change the dynamics of the IT services market was a key factor in his decision to join the company, Castro told me.
+That was one of the key attractors for me — the opportunity to do something very disruptive to a large market. What we’re doing is very innovative and the bigger picture vision of the company is very exciting.
+My take
+As I wrote a few weeks ago, Appirio is counting on the topcoder community as its main source of differentiation in the increasingly competitive cloud integration market, so this investment in upgrading and advancing the platform makes a lot of sense. If Appirio can find a way of packaging up its own smarts and the smarts of the topcoder community to make them easily consumable by its enterprise customers, that will be a major step towards the productization of IT services.
+Disclosure: Oracle, Salesforce, SAP and Workday are diginomica premier partners.
+Image credits:  Man robot © celiafoto – Fotolia.com; Alex Castro by Appirio.
+
+Read more on: The new professional and IT as a service 

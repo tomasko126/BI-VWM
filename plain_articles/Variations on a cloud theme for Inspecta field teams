@@ -1,0 +1,55 @@
+
+With three main lines of business, multiple specializations, and operations in eight countries, asset health company Inspecta is taking a careful approach to rolling out its cloud-based field service management system.
+As its name suggests, Inspecta is in the business of inspection, testing and certification. It helps its customers assure the safety, compliance and quality of assets in three main sectors: industrial and manufacturing, real estate and construction, and services and trade.
+Its first steps into cloud computing began two years ago with the adoption of Salesforce for CRM. Then last year it began piloting ServiceMax to manage site visits by its inspectors.
+It has now embarked on a three-year rollout of the cloud system to 1500 staff across its operations in eight countries bordering the Baltic Sea: Sweden, Norway, Denmark, Finland, Estonia, Latvia, Lithuania and Poland. This will become the third core application in the business, says chief commercial officer Timo Okkonen:
+We’ll have three basic systems: the HR, the financial system and this operational cloud as I call it — the ServiceMax and the Salesforce combination.
+Accommodating diversity
+Serving many different service areas, customer segments and industries in eight separate countries, the Inspecta system has to accommodate a lot of diversity, said Okkonen.
+An elevator inspection is quite different from some industrial testing applications.
+There are technology differences between countries too, with several having their own back-end financial systems. Initially, Inspecta gave some thought to implementing the cloud applications separately for each country. But in the end it took the decision to have a single foundation system that could be adapted to local needs and specific industry or operational requirements.
+A central team of five people supports local teams with implementation, as Okkonen explains:
+We use this team for the foundation for every country, connect it to the financial system, make the interface, and open it up for the basic functionalities. And then, if a certain service area comes in and wants to start tailoring some additional things, then of course we support that.
+Core functionality
+Timo Okkonen, Inspecta
+Building the core set of functionality has been a careful process. The first implementation was in Finland for fire detection inspections. The project team took three to four months to make sure the end users were happy with the results, and then it took further work to make sure the core components would be able to adapt to other fields, as Okkonen explains.
+We have to make sure that we can implement it in a quite diverse way, because we have very many different technical fields of inspections, as well as testing and certification.
+You find the common elements, the foundation, and then ensure that you are doing every step in a way that means you don’t end up with too much complexity. That’s the thinking when your organization is very diverse.
+That’s why we have been using some extra time at the pilot applications — so that, before we start rolling it out in different service areas, we really know what kind of architecture we want to have at the end.
+It’s important to strike the right balance between reusing as much as possible while still catering for all the different requirements.
+Some people might feel that, why don’t you want to standardize that? But that leads to an extremely fixed view of how to run diverse services … the same way is not optimal for the different service areas.
+The foundation system is made up of six core processes, each of which has been implemented as a discrete module that can be implemented independently.
+You have to update the customer information. You have to find a competent person. You have to make the booking in the calendar. You have to enclose a certificate after you have done the work. You have to control the invoicing and other related information. Then finally you have to communicate that to the client.
+Modular approach
+The modular approach means that each service area can adapt the parts of the system that suit its needs. For example, some areas can raise invoices from within ServiceMax, whereas in other cases the invoice incorporates information from other sources and therefore has to be raised in the financial system. Or functionality can be rolled out incrementally.
+In some businesses we may start by only doing the work order management, which means that we only do the contact and calendar modules. Because then people learn to use the system.
+So we are taking kind of a modular, tactical view on how to get people into this new working environment.
+The implementation team for a given service area will typically consist of the manager of the service area, to make sure there is strong business ownership, an IT team member, and — most important — a subject matter expert from the field team.
+That is the absolute number one criteria, that he is happy and later on the technical field team is happy with it. That’s the absolute uncompromised value of the project.
+Each project will typically take a matter of weeks, says Okkonen.
+If it’s something that they’re doing first time in a certain country, then it takes a couple of months. The next ones will be much faster. Let’s say we are talking about one or two months then for every new service area or service team.
+Four main objectives
+Okkonen cites four main objectives from the cloud roll-out.
+
+Enabling mobile devices. “In some areas we really feel that tablets and even cellphones will be the solution. We need to have a system where we can use basically any devices.”
+Calendar integration. “Previously we didn’t have such a strong calendar orientation. Everybody knew what items they had to do in the field, however they were not put directly in the calendar. There was no Outlook integration. Better work planning will make us more efficient.”
+Customer community. “Customers will be able to use online community services. In the long term there will be the possibility to integrate field equipment to the cloud in a very convenient way.”
+Internal social communication. “We are also using this environment for internal communications. It will become kind of a common digital environment … with very social influences.”
+
+Using the platform for internal communications will give users an opportunity to build it into their workday routine.
+Everybody will get to see that before we really start using it for the field work part. The idea was that this would be a perfect way for everybody to start feeling, ‘OK, I’m sharing information here, I’m finding information here.’
+We intend to use Chatter and actually slightly tailor that environment for us. It’s basically replacing the intranet, that’s what it means for us.
+The intention is that there is a very open communication environment between different people — between the sales people, between the field people and also the back-office people who are handling all the invoicing. Of course we intend to produce a completely digital communication environment.
+Proper communication of the changes to customers is another important component of the roll-out. “We want to be very open about what we are doing,” says Okkonen. Allaying security concerns is one factor.
+Some of the information that we handle in the field is security critical, so that’s something that we pay attention to.
+It carries a great responsibility how we work and how we handle it.
+Overall though the changes are about bringing more efficiency and adaptability to Inspecta’s operations. Being ready for emerging connected technology trends is an important factor.
+My take
+Cloud vendors often like to highlight high-speed roll-outs or innovative Internet-of-Things angles, but as this case study shows, the reality of many customer implementations is far more pragmatic.
+For Inspecta, the real benefit of rolling out the ServiceMax cloud field management application is to allow for flexibility of implementation by individual field teams, at the same time as preserving as much consistency across the company as is sensible.
+While it’s hoped that the cloud platform will streamline collaboration between different departments that touch customers, as well as allowing for greater use of mobile devices, there’s no rush to implement a raft of new working practices. The top priority for implementation teams is to make sure that the application supports the way the field inspectors want to work.
+Inspecta has therefore mapped out a three-year roll-out to allow enough time to do the job properly for each individual team. Change management is dictating the pace rather than change for its own sake.
+There may be more change later on — the Internet of Things probably will probably become a factor to contend with as some of the assets Inspecta polices begin to acquire connected sensors and the intelligence to report their own status. By going cloud now, Inspecta believes it is putting a platform in place that will be able to adapt to those innovations when the time comes.
+Image credits: by Inspecta
+
+Read more on: Collaboration sharing and digital productivityUse cases 

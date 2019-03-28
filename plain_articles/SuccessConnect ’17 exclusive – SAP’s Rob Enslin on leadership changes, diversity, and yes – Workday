@@ -1,0 +1,58 @@
+
+Amidst a slew of leadership changes, aggressive competitors, and the blowback from a sold-out show with some virtual streaming issues, SAP cloud chief Robert Enslin sat down with me at SuccessConnect 2017 for a frank talk on what lies ahead.
+With the formal title of President, Cloud Business Group and Executive Board Member with SAP, Enslin is something of an internal legend at SAP, known for working his way up from field sales in SAP South Africa in the early ’90s.
+Some observers felt SuccessConnect 2017 was light on big news. But the conference debut of summer leadership changes were the big headline. The top three roles at SuccessFactors have all changed, including a shift from ex-President Mike Ettling to President Greg Tomb. The other two positions are filled by seasoned HR veterans Amy Wilson and James Harvey, so this new leadership team is a mix of proven SAP leadership, and cloud HR industry leads new to SAP.
+News on SuccessFactors-on-HANA and SAP payroll
+Enslin himself is fairly new to his role as SAP cloud chief, which was added to his purview in February, 2017 (formally announced in April). Enslin was therefore in charge when the rest of these leadership changes were made, so who better to ask? Before I get to that, I don’t want to bury the two newsy items that came out of our interview. As per Enslin:
+
+SuccessFactors will be running on HANA “end-to end” by March 2018 (Many customers have already been transitioned to SuccessFactors on HANA).
+An “absolutely clear” message will be coming from SAP to customers in the next six weeks on SAP’s direction with on-prem versus cloud payroll (I’ll get to why that’s needed shortly).
+
+Why the leadership changes?
+So Mr. Enslin, about those leadership changes? Enslin paused for a moment – wholly appropriate for such a sensitive, on-the-record question – and then he said:
+The way I would describe the changes in the leadership for SuccessFactors: I think it was just time to bring some fresh thinking and some fresh ideas into SuccessFactors. I was looking for people that had a track record in the industry, a proven track record like James and Amy, and bring them into that environment.
+Harvey and Wilson did a tag-team keynote segment at the conference. So far, Enslin likes what he sees:
+I feel like they have both been very successful coming in. James and Amy both – I think you saw them yesterday when they presented – [the good chemisty]. Internally inside SAP, it’s kind of the same feeling.
+But the new leaders aren’t just about fresh thinking. Enslin wanted a more fluid role for SuccessFactors amidst SAP S/4HANA and SAP’s other cloud properties:
+It’s a good connection between SAP’s other solution sets and SuccessFactors now. For us, the thing we wanted to get out of some of the leadership changes is the power of who we are as a company, SAP, and turn that into more of a ‘we’ than an ‘I’ solution.
+In other words, no more cloud silos:
+The silos were great, but the silos don’t help in the end. That was what I really looked for – people that saw that as a reason for wanting to join SAP. I found that in both Amy and James… They wanted the challenge of the scale.
+Enslin says these changes have been underfoot since February 2017:
+I started in February. I focused on the support infrastructure, the things that people don’t see, the things that no one wants to write about, building a support team, [improving] net promoter scores, getting tickets managed, faster response time, turn around the connection between the support in an organization and the development in an organization. All those things – we’ve started on already.
+Changing the user group dialogue
+You can add user group dialogue to the list. From my talks with ASUG leadership, I know that ASUG felt disconnected from the prior SuccessFactors leadership (SuccessFactors has its own user groups as well, so that story has nuances that are still playing out).
+With the issues SAP is facing now, from indirect access to HR-specific hot buttons like the future of SAP payroll, strong user group relationships are a must. After last year’s show, when ASUG HR strategist and community advocate SherryAnne Meyer critiqued SAP’s Managed Payroll offering, it didn’t seem to me like SAP was ready to engage to find solutions. The dialogue with the previous leadership didn’t seem good.
+I posed that question to Enslin at the SuccessConnect executive Q/A panel. He responded:
+Spot on. So where are we? Geoff Scott’s ASUG team is here – they’re actually fully sponsoring this event. I’m a huge believer in user groups…  so we’ve completely re-engaged. Now, Geoff’s gotta do things on his side too, right? So we need to make certain that we’re elevating the game on both angles. I would say we’ve got newfound passion and energy there.
+The future of SAP payroll
+A happy post-interview Enslin
+The next burning issue? The future of SAP payroll. With at least one major customer that I know of signing on for a new global on-premises payroll installation, how does SAP reconcile the demand for on-premises payroll (a robust warhorse with global reach) with the cloud HR message, and current end of life of 2025 for on-premises SAP HR support? How do you give customers the choices they want, but also a clear future direction? Enslin responded:
+First of all, we’ve got to come up with a categoric statement and a message in the next six weeks on exactly what we’re doing with payroll. I’m not hiding the fact that we need an absolute, clear direction.
+Enslin went into more detail on his thoughts on the future of payroll as a service. He wants to offer customers payroll deployment choices while reducing the administrative burdens of on-premises payroll. But that’s not an official statement of intent – yet.  I’ll hold off on more until the official statement is made. Which brings us to… Workday.
+On Workday and the competitive landscape
+Though SAP has a number of worthy HR competitors, Workday has a knack for nabbing headlines with quarterly earnings announcements that include HR deals won from on-premises SAP HR accounts. Though he’s not one for trash talk, I gave Enslin the opening to say anything he wanted about SAP’s competitors:
+When I look at SuccessFactors, for me SuccessFactors has a very good transaction-based HR system. It’s a very good performance and talent management system, and a very good succession planning system. We are in the process of modernizing the analytics piece to create a true abstraction between the application and the analytics piece using our cloud solutions.
+Enslin sees SuccessFactors-on-HANA as a big competitive advantage going forward (Thus his commitment to having SuccessFactors end-to-end on HANA by March 2018). Given Enslin’s confidence in SuccessFactors, does that mean if they execute well, their competitive issues will take care of themselves?
+No. I think Greg’s view, in the US, is that we have to do a better job of having customer relationships with the HR community – that includes ASUG, to be honest.
+Enslin went further:
+We have to do a much better job of articulating the value proposition and how we sell HR, and Greg will absolutely fix that.
+Enslin echoed Bill McDermott’s recent comments that SuccessFactors excels in the areas of platform and global reach:
+We have big advantages outside of North America. Our Asian business is way ahead of anybody in the marketplace. Our Latin American business is way ahead of anybody in the marketplace.
+And:
+We will take the fight to Workday in North America.
+Enslin believes Workday will confront issues of its own integrating acquisitions and addressing global payroll complexities. But he also acknowledged SAP will have to deliver a quality integration between SuccessFactors and S/4HANA Cloud financials, as Workday offers integrated cloud HR and finance (SAP’s integration will be done via the SAP Cloud Platform).
+My take
+It’s too early to assess what Enslin and team will accomplish – especially as he is staking his work into the overall cloud and HANA portfolio. That means a monster plate of challenges. Enlin has a way of winning people over; he has a thoughtfulness about him you don’t always see. But time will tell. I know ASUG is encouraged by the change in tone and dialogue so far, but it’s early days.
+For example, when I raised the conflict between SAP’s compelling/human initiatives (e.g. Autism at Work) and its ill-advised legal pursuit of customers for alleged “indirect access” violations, Enslin understood exactly what I was getting at. Enslin says the two recent court cases are settled, and it seems clear he doesn’t want to revisit the legal tactics, though there is still work to do on the indirect access front.
+Enslin saved his most passionate words for being a “purpose-driven organization.” Whether it’s the Africa Code Week or Autism at Work, these initiatives aren’t PR window dressing for SAP. Their guest keynote speaker, Oprah Winfrey, is not easily recruited. Enslin’s team was able to convince Winfrey that SAP had the organizational commitment and audience to make her time worthwhile.
+Diversity is not just a set of values SAP has embraced. Via the Business Beyond Bias project, tools to foster diversity and reduce bias are being embedded into the software – with an eye towards giving customers an edge on talent. On the SuccessFactors front, some functionality is already live in the product, with more on the way.
+Designing to reduce bias ties heavily into machine learning. Enslin sees this as SAP’s chance to forge new HR ground, designing algorithms that support diversity and give an edge in hiring, performance evaluation, and succession:
+We’re going to start looking at those kind of things from an innovation point of view to differentiate ourselves… SuccessFactors is not just written for HR professionals. It’s written for you, for me, for us. It has to enable us.
+End note – I’ll be filing more analysis and customer use cases from the conference. To date:
+
+How Sun Communities went from paper trail to automated HR with SuccessFactors
+SuccessConnect ’17 keynote – instant reactions and challenges
+
+Pre- SAP TechEd S/4 HANA Cloud update – One thing I learned during this interview that is not widely known outside of SAP is that as part of SAP’s cloud moves, the S/4HANA Public Cloud, run by Darren Roos (see my prior piece with Roos), is now “owned” by Bernd Leukert’s organization. This was interesting to learn at SuccessConnect, as the early days of S/4 Cloud were originally under Ettling’s leadership. And now, it’s the one major SAP SaaS product Enslin does not own at SAP. I can see the pros and cons either way – with Leukert owning the rest of S/4HANA, you can see SAP’s thinking here.
+As someone who is more concerned about S/4HANA’s cloud characteristics than its HANA characteristics, I would like to better understand how the S/4HANA Cloud maintains close contact with SAP’s SaaS solutions. The aforementioned need for close cloud HR – S/4HANA Finance integration is another consideration here. Enslin told me he is working closely with Leukert’s team on such issues.  During TechEd season, it will be interesting to get an update on this and we’ll be watching this part of SAP’s cloud story closely.
+Image credit - Enslin keynote photo provided by SAP; Enslin thumbnail photo by Jon Reed.Disclosure - SuccessFactors paid for the bulk of my travel to attend SuccessConnect. SAP and Workday are diginomica premier partners.Read more on: DiversityFuture of workHCM and the digital future of workHR admin and payrollTalent management 

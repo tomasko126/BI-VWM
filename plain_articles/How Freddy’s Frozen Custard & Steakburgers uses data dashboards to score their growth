@@ -1,0 +1,47 @@
+
+Usually when you ask an interview subject for a statistic, they tell you, “I’ll get back with you later by email.” Makes sense – you can’t cite important numbers without a cross check. But at a data visualization show like Domopalooza, sometimes you get instant gratification.
+That was the case during my chat with Domo customer Freddy’s Frozen Custard & Steakburgers (don’t click on their link until you figure out your lunch plans – yum!). I was chatting with Bill Valentas, Freddy’s Vice President of Finance, about quantifying Freddy’s growth.
+Instead of putting a “to do” on his calendar, he pulled out his phone and checked his customer heatmap:
+
+Yep, that’s the customer count for 2016, nudging up on 48,000,000. Or as Valentas told me later, “If you stacked every Steakburgers we sold on top of each other on the ground they would go to the International Space Station and back.” When Valentas joined Freddy’s Frozen Custard & Steakburgers in March of 2015, they had 120 stores. Now they’re up to 250. Freddy’s is in thirty states now, with more on deck. “We should double in the next three and a half years again,” says Valentas.
+But that growth hasn’t been simple or easy – and that’s where Valentas enters. Historically, Freddy’s has been run by its founders, restaurateur Scott Redler and two brothers, Bill Randy Simon (Bill Simon passed away in December of 2016 at the age of 61). Valentas was asked to apply his financial management skills to help with Freddy’s next round of growth, and build out the management team. That path led him to Domo – and a more transparent data approach with franchisees.
+Growth is good, but course corrections require a data strategy
+I aked Valentas: why is Freddy’s is growing when a number of restaurant chains are not? 
+People are looking for quality when it comes to fast food. The differentiator we have is: we’re in the “fast casual” segment, so we’re not quick-service. We’re making the food to order. So when you get your food, it’s hot and it’s fresh.
+Valentas also says that the “family atmosphere” means kids and parents can actually agree upon a place to eat for once. But Freddy’s is hardly the only fast casual style restaurant. Valentas thinks there is another difference:
+The bigger component we add in there is the hospitality or customer relationship component. We’re making sure that everybody’s experience is great. If it’s not, we’re making corrections to meet their needs.
+You can’t make those corrections without good data. That’s why Valentas focused on dashboards after joining Freddy’s Frozen Custard & Steakburgers in 2015:
+93 percent of our stores are franchised. Our model’s a little bit different, because we have to be able to supply information to our franchisees to help them make decisions.
+The complexity of franchisees on different systems was a big hurdle:
+We were looking at all of the different things we pull that we use to measure stores, and they’re all on different systems.
+You can’t build a dashboard if your data sources are all over the place:
+The traditional systems that are in the restaurant business don’t give you the ability to load in this other data to essentially make an overall scorecard. You need to be able to look customer satisfaction, marketing data, and you’re trying to try to tie that back into your point of sale.
+Early Domo projects – social sentiment tracking and franchise benchmarking
+Bill Valentas at Domopalooza 2017
+Valentas moved quickly. By July 2015, his team was up and running on Domo. Within Domo, users build interactive “cards” that display key metrics. Valentas’ early Domo projects included:
+
+Pulling in negative and positive social media sentiment in order to let store locations know how they’re doing.
+Tracking marketing spend on ad postings, e.g. Facebook.
+
+The social sentiment data also provides big clues for other services needed to attract customers to the stores – or points of branding emphasis in new store locations. Freddy’s pulls the social sentiment data right into Domo, e.g. using Twitter’s API.
+Freddy’s has a separate search engine outside of Domo where they track sentiment based on keywords. Valentas’ team uses Domo’s dashboards to monitor sentiment trends and ensure issues have been resolved. Customer sentiment is about acting fast:
+We can usually handle those cases really quick, because we have a really good customer relations team. We react quickly no matter what, if it’s on social media, or if it’s an email to us.
+Valentas is gradually rolling out more Domo dashboard visibility to franchisees. They each have their own Domo log in where they can view their own store’s performance. One early Domo project for franchisees was a benchmarking initiative. As of March 2017, all stores were able to see how they rank across six different categories.
+Overcoming data obstacles
+One issue Valentas had to conquer: not all stores are created equal. Some are located in busy urban areas, but many Freddy’s locations are suburban or rural. Comparing “like for like” is important:
+We don’t want a store to feel like they’re underachieving, when for that market, they’re doing perfect, and they’re making money.
+Another challenge to overcome: “messy” data. After Valentas started using Domo in July, he realized that they had to pull back, and make sure the data they planned to share with stores was clean. One example: Valentas realized their point of sale (POS) data was incomplete. Their POS provider hadn’t selected all the relevant data boxes, so some fields were missing:
+We were only getting partial pieces of data. We didn’t realize until we starting building cards that we didn’t have all the data.
+Working with his IT manager, Valentas solved the problem by contacting the POS provider and pulling the full data sets into the data warehouse. The proper data to fill out the cards was then pushed into Domo. (Using Domo’s ETL tools wasn’t an option; the POS provider requires Freddy’s to pull their data into their own internal system).
+That wasn’t the only data issue they had to overcome:
+The other thing we learned is once we got all the data in, and we were trying to do menu mix reports or things like that, we were churning so much data every time we did it, it just bogged down the system. We had to take another step back and get smarter about what we were doing.
+A trip to Domopalooza paid off:
+Last year we came to Domopalooza. My IT guy’s great. He came here, and he learned a couple of tricks, and in a week, we were processing exactly how we thought we’d be processing.
+It’s full speed ahead from here. Eight months ago, Valentas hired a financial analyst to help build out the cards. Valentas has licenses ready for all his franchisees, and they’re about to start pushing Domo cards out:
+We’re probably going to push out our menu mix report that we just built. This will let them know what they’re selling most of, because they can’t really see that through their POS on a regular basis… these kinds of things will help them drive their business.
+The wrap – a dashboard is not automagical
+We wrapped by talking about the need to train folks in the best use of dashboards. Just because you can see data at a glance doesn’t mean you’ll take the right action: “There is some work that you have to put into it, and you have to analyze it,” says Valentas. He added:
+[A dashboard] will show you, potentially, where you have a problem, but them you have to drill into the source data to see what that actual issue is. Then you have to go talk to people in operations and figure out, ‘Okay, is this an anomaly, or is this something that you can retrain.’ Whatever the problem is, it can’t just be data-driven. In the restaurant business, it’s got to be driven from the store level and the managing.
+Soon, Valentas will be providing stores with a thirty-six point scorecard that helps them to understand their strengths and areas to improve. The card will update automatically – no need for waiting or digging. There’s a big journey still ahead, but for Valentas and team, making course corrections faster looks like a promising recipe:
+We’re analyzing by quarter how stores are performing. And so we know what stores aren’t performing well already. But with Domo, that updates every day. And it keeps updating itself, so we can see the trend happening every day. We don’t have to build a spreadsheet, then build a spreadsheet again, right? It’s going every day.
+Image credit - Dessert image from Freddy's Frozen Custard web site, photo of Valentis at Domopalooza '17 by Jon Reed.Disclosure - Domo paid the bulk of my expenses to attend Domopalooza 2017.Read more on: Analytics planning and data analysisDigital enterprise in the real worldRetail e-commerce and the omni-channelUse cases 

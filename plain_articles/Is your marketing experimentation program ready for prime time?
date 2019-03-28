@@ -1,0 +1,46 @@
+
+If your marketing experimentation program consists of A/B testing email subject lines or landing pages, you have a long way to go. But here’s some good news: you aren’t the only one just getting started.
+Optimizely and WiderFunnel did a 2018 State of Experimentation Maturity study and what they found was that the majority of organizations are still in the process of initiating or building out their experimentation programs.
+The report outlines five levels of experimentation maturity:
+
+Level 1 – initiating
+Level 2 – building it out
+Level 3 – collaborating across the company
+Level 4 – scaling the program
+Level 5 – driving the organization growth and product strategy
+
+In this study, not one respondent was at Level 5. Over half are at level one or two, 33% are at level three and 17% at level 4.
+Although the study was not huge, the results ring true. Experimentation is something everyone would like to do, but wanting to do it and knowing how to approach it properly so that it improves business results is often a very different story.
+From getting started to getting serious
+There is more to an experimentation program than implementing technology and WiderFunnel outlines four pillars that you must have in place to ensure your program is successful.
+
+Process and accountability – the experimentation protocol and methodology, the process for ideation and prioritization, experiment design and success metrics
+Culture – organization buy-in and program support
+Expertise – experience and resources, the right people and skill sets
+Tools and Technology – the right tools to test and support the process
+
+Of course, perfect alignment between all four is what you are aiming for; achieving it takes time and effort.
+Process and accountability are at the foundation of a successful experimentation program. When you are just starting out though, you probably aren’t thinking that formal. Instead, you have a tool, most likely part of your marketing automation software that lets you split test email subject lines and email content, landing pages and forms. Some MA tools may offer even more advanced testing capabilities. Initially, it’s often about getting used to the idea of testing itself, trying small things to see what works and.
+But to go further and provide value, you have to think about experimentation as a formal program and strategy that you need to design and manage. You need buy-in from management to secure not only approval to implement experiments but the budget to do them well. Your budget will cover things like experimentation design and development, as well as managing priorities and implementing the program across the company.
+Something else to consider is how you think about experimenting. Avinash Kaushik provides seven recommendations for building a great testing and experimenting program, and they are all important recommendations. But there are three that stand out as things that many might not consider when starting out.
+First, Kaushik says that you need to state a hypothesis, not a test scenario. So, instead of saying “I want to test two landing pages to see which one attracts the most conversions,” say “I think a landing page with the CTA upfront and a great video will convert better than a landing page with CTA in the middle and no video.” By stating what you think will be the case, you can define the test appropriately and align the proper metrics to determine if the hypothesis is correct.
+“Two great outcomes: 1) You can now contribute to the creation of the test, rather than just starting with an “I want you to do this” 2) In every well-crafted hypothesis is a clear success measurement (how we’ll know which test version wins). If you don’t see a success measurement in the hypothesis then you don’t have a well thought out hypothesis.”
+This recommendation aligns with a couple of points from the WiderFunnel research: a big part of proper experimental design is to test an evidence-based hypothesis and know when to call an experiment complete.
+Great experiment ideas are data-driven
+Most ideas for experiments come from reviewing web analytics and insights from previous experiments, according to the WiderFunnel research. Best practices and competitor analytics round out the top four places to get ideas. The key is that ideas are not based on opinions. In fact, Kaushik says you have to put your opinions aside and be open to the ideas of others. But what you also need to do is put some data behind your hypotheses if you want to prove the value of the experiments.
+Another good point is that even if you have a centralized team running the experimentation program, it’s important to pull in resources from across the company who understand their areas well and will have ideas for experiments.
+Another recommendation is that you should create goals and decisions beforehand. In this case, although some may define the success metric for a test, they don’t define what the actual goal should be. By not identifying a goal, you don’t know if the test is successful; or as Kaushik points out, you don’t know if the test is worth doing.
+The final recommendation I’ll discuss (and you should read them all) is that you must test and validate for “multi-goal”:
+Simple example of multiple purposes: Visitors come to your home page to buy, to find jobs, to print product information, to read your founder’s bio, to find your tech support phone number etc. If you only solve for conversion rate you might be majorly and negatively impacting your customers. Do you know if you are for tests you are running?
+In other words, step back and look at how your tests might impact other tests running on the site, or how your test might impact the experience of another area of the website. Kaushik said to achieve optimal success you have to look at the entire picture.
+Plenty of tools to help
+I mentioned testing capabilities in marketing automation tools, but there are plenty of other tools available including Optimizely, Adobe Target, Evergage, Maxymiser, Google Optimize, Webtrends, Unbounce and the list goes on and on as you can see below.
+
+(from the Chief Martec 2018 marketing technology supergraphic)
+Within these tools, different features give you insights to develop experiment ideas such as heat maps, click maps, goal conversions, traffic, bounce rates, and so on.
+Some tools you’ll use standalone, while others will integrate with your marketing stack. Some companies may use several tools in combination or for different purposes. The important thing is to select tools that support your planning and processes.
+My take
+Experimentation is an area that interests me, but what I’ve seen is that it’s hard to get something started in an organization. Small tests are okay, but they don’t acknowledge the real value experimenting can bring to create the right customer experiences.
+A proper experimentation program takes time, money, resources and the right mindset and support from the executive team. It also takes a curious mind, the desire to always to be trying new things and constantly learning.
+If you have a story you’d like to share on your experimentation efforts, I’d love to talk.
+Image credit - Feature image - Are You Ready? © gustavofrazao - Fotolia.com. Martech brands image credited above.Read more on: Analytics planning and data analysisDigital and content marketing 

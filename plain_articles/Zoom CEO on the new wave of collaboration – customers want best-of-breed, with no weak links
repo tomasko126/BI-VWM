@@ -1,0 +1,56 @@
+
+Zoom CEO Yuen speaking to press
+I’m sitting with Zoom CEO Eric Yuan at Zoomtopia 2018, talking over their vigorous growth numbers: 45 billion annual meeting minutes, with a new minute record set every week.
+But Yuan isn’t the kind of guy to kick back and celebrate growth. It wasn’t too long ago Yuan was a Chinese immigrant, pushing to immigrate to the U.S., with nine visa applications before he got through.
+You have to like a CEO who, when asked for his leadership secrets, simply said, “Working hard, that’s the only thing I know better than my competitor.” No four hour workweek/Silicon Valley magician stuff here.
+Putting customers at the center – an engineering discipline
+Well, the hard work is paying off. Yuan told me that 96 percent of the top 200 universities are using Zoom – and 58 percent of the Fortune 500. So for those who weren’t at Zoomtopia, what does Yuan want people to understand about Zoom?
+First of all, I want to say a special thanks to all the customers, their support, their trust, are really the catalysts… That’s the number one thing.
+And number two?
+We are not going to stop here. Every year, we have cool product announcements. Like this year, conference room innovation. Zoom Voice, Zoom Marketplace. We are going to keep innovating.
+This year’s Zoomtopia theme is about trust:
+This year is about trust because we trust our customers, partners, third party, developers, and the customers trust us. We listen to their feedback, keep working hard, and make sure they are happy.
+It’s always good to hear talk about “trust” and “listening,” but then I want to know how it’s being done. How is that listening systematically resulting in better products and services? Yuan:
+Sometimes engineers are like, “We’re pretty smart. We knew what the customer needed. Let’s develop this feature.” No. At Zoom, you cannot do that.
+The alternative?
+Every feature, we will know how many customers requested that. Why did they request that? What kind of problem we want to fix for this customer?
+But I don’t think you can develop like that – unless engineers have contact with customers. Yuan says their customer feedback data solves that:
+After a Zoom meeting is over, the first thing you will see is feedback. We look at it every day. Customers send an email and call our support and talk with us. We have customer advisory board meetings… We take it very, very seriously.
+Best-of-breed is here – CIOs must face the music
+But – there is a fundamental shift fueling Zoom’s growth I haven’t mentioned. Best-of-breed is back, and CIOs must face the music:
+There is one thing compared to 10 or 15 years ago that’s very different. The new trend is: customers are looking for best-of-breed solutions.
+Nobody challenged the CIO quite like this:
+This has never happened. 15 years before, a CIO could say, “I made a decision. That’s the solution. We all use that solution.” Nobody challenged it.
+So what’s the driver behind this? Yuan says millennials are pressing the issue:
+They have grown up with all the modern technologies. When they join the workforce, they completely change everything. Yes, you are the CIO, but if they don’t like a solution, they aren’t going to use it. The bottom-up approach is playing a very big role in this shift.
+One aspect of this I see is the “no weak link” mentality. For example, you may be a Microsoft shop, but if business users don’t like Skype, they aren’t using Skype. They’ll download their own apps, or sign up with a new service. Yuan:
+You cannot force them to use an app they don’t want to use.
+Our smart phones have encouraged this best-of-breed mentality:
+For every application, there are so many choices. The younger generation always picks out the best-of-breed of service for them. They have Snapchat. They use Facebook Messenger, right? They use all kinds of apps. There are so many other alternatives… When they join the workplace, they do the exact same thing. That’s why the difference to the CIO is phenomenal.
+And if they don’t like your “official” app, you know what’s going to happen next:
+They go back to their smartphone. They will find some equivalent of a consumer app.
+Yuan has seen this firsthand:
+That’s why we are so popular in colleges and universities.
+Advice for CIOs on the best-of-breed imperative
+In the past, attempts at best-of-breed were stymied by the slog of on-premise integration and the lack of “one throat to choke.” Arguably, APIs and cloud-based protocols have eased the integration challenge a bit, but I don’t hear CIOs banging down the door to take that on. So what advice does Yuan have for them?
+One thing is: share the same philosophy as the young generation has: embrace the best-of-breed service. Number two is: think about everything from the perspective of making your employees happy. That’s very important. If your employees are not happy, you have a huge headache.
+He points to GoDaddy CIO Arne Josefsberg, formerly ServiceNow CTO.
+Josefsberg told his IT team, “Let’s find every collaborative solution out there.” They found 42 solutions. They tested everything. Finally, they finalized around three solutions.
+After that, they picked 100 employees from multiple departments.. They told their employees, “You go test that. Figure it out which one is best, and tell us what you like.” 99 out of 100 chose Zoom.
+Yuan advises customers to make sure the best-of-breed solutions they pick have “seamless integration.” It’s on vendors like Zoom to make that happen:
+That’s the reason why integration knowledge in the cloud era is becoming more and more critical. Without that, you cannot be successful.
+User adoption is everything
+Yuan points to their partnerships with Dropbox and Atlassian as examples of the kind of commitment to integration customers want. This brings us back to my 2014 diginomica piece, adoption is the new lock-in. Shelfware used to be a fact of life. Now it’s a recipe for CIO unemployment.
+If users don’t adopt what you roll out, you can bet they’ve adopted something else via their phones. Something that might not scale, or protect corporate data adequately. And, as Yuan says, the key to adoption is best-of-breed software:
+If you have a best-of-breed service, adoption is not an issue. If you don’t have that, you always suffer from lack of adoption.
+On competitors, AI scheduling and the meeting rooms of the future
+This exchange answers whether Zoom worries about giant competitors who might compete with them by offering free video services (e.g. Google Hangouts). Yuan’s view: “As long as we offer a superior solution, we are okay.”
+As for that ultimate AI challenge of scheduling meetings, Yuan says that Zoom is on it. He envisions the phone as the ultimate meeting room scheduler on the fly: “I think this device will become a controller to every conference room.”
+The iPad on the table in the Zoom Room becomes a backup. “We need to change our mindset,” says Yuan, as he talks about putting the mobile device in the center of meeting room design.
+Security is another pre-occupation of Yuan’s; customers like Nasdaq count on secure meeting channels. Yuan says he learned from his prior time at Webex. Back then, you built features and worried about security and scale later. Not anymore.
+Speaking of scale, when I pressed Yuan on Zoom’s challenges, he brought up the same issue as Looker: retaining the essence of Zoom’s culture amidst growth. One way you can do that is to hire the right people. Yuan says Zoom hires for talent and self-motivation, not where you went to school:
+We do not look at their background like college, which company, anything. We just look at two things; does this candidate have a self-learning and self-motivation mentality or not? That’s it. If you do, you’re always hired. Sometimes you hire a sales guy. They’ve never sold anything like collaboration technology. We still hire them because life is to learn. I would say, give them some time, they will become top performers.
+I tried asking Yuan about his recent award by Glassdoor as the number one CEO, with an employee approval rating of 99 percent. He wasn’t having any of it:
+It’s also not my personal award. It’s a company award, a cultural award. If the employees like it here, they will write a good comment. If they don’t, they will write that too.
+Fair enough. Meeting over – back to work.
+Image credit - Photo of Eric Yuan, Zoom CEO at Zoomtopia 2018 by Jon Reed. Disclosure - Zoom paid the bulk of my travel expenses to attend Zoomtopia 2018.Read more on: Collaboration sharing and digital productivityProductivity 

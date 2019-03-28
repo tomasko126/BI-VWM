@@ -1,0 +1,65 @@
+
+
+diginomica hit: Cloud computing’s history foretells the future of automotive by Phil Wainewright
+quotage: “We shouldn’t assume that today’s ride-sharing giants will become tomorrow’s autonomous transport giants. Will Uber’s relatively open platform approach triumph over Tesla’s more Apple-like, vertically integrated strategy? Maybe both will lose out to future newcomers, just as Excite and Yahoo! lost the search engine wars to latecomer Google back at the turn of the century.”
+myPOV: Phil was tracking cloud developments back when “ASP” was sexy. In this diginomica special, he looks back/forward in combo, finding clues to the future of automotive in the speed bumps of cloud adoption. Though I did get distracted by the appealing/scary notion of autonomous flying passenger drones, the techno-wizardy is not the biggest takeaway here. Nor is the reminder that the mundane (fleet vehicle cleaning and maintenance) will need a rethink.
+Just as “cloud” is more than a hosting change, a driverless car is more than the removal of the driver. Phil: “We have to let go of our mental image of an automobile with the driver removed… Computing changed fundamentally when it became a connected, shared resource. The same will happen to personal transportation.”
+I just renewed my driver’s license for another five years, a tedious timesuck ritual that may belong in a museum exhibit before long. Phil’s piece is a window into how our automotive future will scale – and how a whole new set of enterprise winners/losers will emerge.
+diginomica four –  my top four stories on diginomica this week
+
+Trump signs H-1B order – sort of – ok, not a lot of hard news here. But Stuart’s got a few ideas based on the tea leaves so far. The H-1 system is far from perfect, but “reform” is all about nuance and the right minds at the table. You probably have your own opinion on that, and you can probably guess mine.
+Report – Governments could save $1 trillion globally through digitization – I’ve never been a fan of extravagant predictions. $1 trillion hot air balloons predictions or not, the public sector won’t be efficient and user-friendly anytime soon. Still, over on diginomica/gov, Derek extracts some insight from McKinsey. Derek also makes the dealbreaker point: “leadership, culture, resources and project management failings have derailed projects…” and, as such, warrant as much investment as the digital tech we issue fancy reports about.
+Shoppermotion pinpoints customer locations and journeys in Hadoop – Jess has another dandy with the story of a retail player upping the ante in consumer analysis with Hadoop, Spark, and a bake-off between Hortonworks and Cloudera (Cloudera won, no soup for Hortonworks).
+Tampa Bay Rays score freely with Adaptive Insights – Den with a use case that shows how planning and budgeting doesn’t have to suck us into the weeds of proliferating spreadsheets and version control – the original suck. It’s all about how sports IT/finance is changing to deliver for the fan. My only beef: the Tampa Bay Rays never score freely (disclosure: I’m a Red Sox fan, that makes the Rays division rivals).
+
+Vendor analysis, diginomica style. Here’s my two top choices from our vendor coverage:
+
+Oracle’s PaaS/IaaS progress – becoming real – Brian’s been clashing Oracle cloud rhetoric against reality for years now. A recent analyst event seems to mark a turning point: “The team wasn’t as hyperbolic as the messaging was at recent OpenWorld events. Why? The team can point to actual deliveries of a number of enterprise-level (not consumer, small-business, startup or hobbyist/citizen developer) capabilities to the IaaS and PaaS environments.”
+How CityFibre ‘got rid of all the paper’ in its buying process – Hey – I still have some paper in my buying processes. Consider me impressed with Phil’s Coupa use case: “Instead of being overwhelmed by complaints and help requests — despite having prepared virtually no user training beyond emailing some instructions along with four screenshots — Murray says he had people coming up to thank him.” Now that’s change management.  Oh, and a diginomica Welcome to Coupa.
+
+A few more vendor picks, without the quotage:
+
+Tibco hits the Formula 1 track with Mercedes – Martin
+GE fronts $11m for Zinc to stay in touch with deskless workers – Phil
+Will Microsoft’s serverless future turn into a FaaS? – Kurt
+
+Jon’s grab bag – Denis has another feel-not-good story on net neutrality, Trainwreck – the danger of upending net neutrality, with a convincing argument as to why we cannot look away (as in: open communications are kind of important to modernity, which ain’t perfect but really beats the alternatives).
+Stuart reported on an odd Netflix competitor: sleep (Sleep is the enemy as Netflix CEO confesses his YouTube envy). I can think of a couple other competing activities, but still. Sidenote: I’d pick Netflix’s struggle to create epic original programming as their biggest nut to crack… Finally, Stuart brings us home with one more drink at the United stand-up comic goldmine trough as United attempts to make the skies, if not friendly, at least not openly hostile (‘Mea maxima culpa’ all round as United execs try to move on from social media crisis).
+Best of the rest
+ Multi-clouds, data fluency, and the lyrical revenge of James Governor by James Governor
+quotage: “Over the years RedMonk has tried (sadly not terribly successfully) to help our clients avoid vanity metrics in developer engagement. Sun used to love to claim how many millions of Java developers there were in the world, but that didn’t ever translate into revenues. When a vendor tells me how many registered developers there are on their developer network my eyes start to roll. I have been part of these communities. What really matters is who actually does the work, and makes an impact.” James Governor, Data fluency isn’t just for tech anymore.
+myPOV:  So a few weeks ago, I put the RedMonk gang in the whiffs section. They weren’t exactly stoked, but we all move on. James Governor gets his revenge by nailing down my “best of” with a superior blogging week. Several worthy posts to gnaw on:
+
+On multi-cloud tradeoffs and the paradox of openness – In his Diginomica debut, Acumatica CEO Jon Roskill wrote about the upside of the so-called multi-cloud, including customer choice. Governor hits on the downside: “Choice comes at a cost. Managing heterogeneous networks is generally more complicated, and therefore resource intensive, than managing homogenous ones.” Fair enough. Governor’s points on the right way to handle APIs and PaaS flesh things out. And: the potential of containers.
+Data Transformation is the New Digital Transformation – Yeah, data is the key to digital models. But – Governor sees “malaise” in the Hadoop eccosystem: “But taking advantage of data is hard – requiring entirely new skill sets. Valuing it is hard. Cleaning it is hard. Querying it is hard. Managing and maintaining it is hard.” No easy fixes – but figuring out the right job roles/talent can help.
+Data fluency isn’t just for tech anymore. – From vanity metrics to clarity metrics, a riff.
+
+Other standouts
+
+
+CIO/CTO use cases on data and digital – If you can put up with the abysmal desperate obnoxious inevitable auto-play videos, CIO Insight has been posting good use cases of IT leadership. See: CTO at Sutter Health Pays Attention to Big Data and This CIO Put Amtrak on a Tech Fast Track. (Yep: Amtrak has come a long way with data in a short time).
+Machine learning audits and… AI for community? – We’ve seen plenty on algorithmic bias, but not much on how to combat it. Auditing Machine Learning and Algorithms looks at how a “new industry of algorithmic auditing” could make a difference. Bet you didn’t expect to see a post on AI and enterprise communities. I have a hard enough time staying in touch with humans much less robots, but as Mark Finnern demonstrates in AI Enhanced Community Management?, there is room for machines to make communities more efficient – and leave more time for the good stuff, such as arguing about censorship, web site redesigns, employee social media policies, and other community meltdowns human beings are so good at.
+
+Honorable mention – Facebook F8 happened 
+Last year, I wrote a number of F8 posts for diginomica. Guess what? Not so many people cared. That’s ok – I can always go from Facebook love/hate to indifference. But in honor of the developer conference for the company with too much power such exciting plans for humanity, here’s your roundup:
+
+Facebook Wants To Read Your Mind – Really nice hat (click to see the pic).  Brain-computer interface. Because poking wasn’t enough.
+Here’s What Mark Zuckerberg Told Us About The Wild Things Facebook’s New Camera Will Do – No, not a gadget article – a piece about merging the real world with the Facebook one.
+Facebook and the Cost of Monopoly – When fanboys use the “monopoly” term I start to fret.
+
+Whiffs
+Anyone who feels optimistic about humanity must reconcile why Netflix Users Have Watched Adam Sandler for a Half Billion Hours. Meantime, life gets worse in the airline industry:
+
+Airlines’ bad month continues as Kenny G plays concert on Delta flight https://t.co/Lf4PdFIfdD -> perhaps the worst incident yet…
+— Jon Reed (@jonerp) April 24, 2017
+Don’t leave American Airlines out either, evidently one of their employees decided to forego anger management classes in favor of Dirty Harry. UK readers are familiar with the excellent slang phrase “taking the piss.” Well, my colleague Derek’s Uber driver took that phrase into the land of outcomes (click on the mostly-safe-for-work link for the pic):
+
+Better than going in the car I guess….. https://t.co/8iI642Usm8
+— Jon Reed (@jonerp) April 22, 2017 
+Back to enterprise reporting: I’m psyched TechCrunch “Enterprise” is covering the blow-by-blow of Microsoft Dynamics 365’s integration with LinkedIn. Because I’m not going to. Don’t get me wrong – it’s giddy stuff. Heck, one analyst even goes so far as to proclaim this a “good first step,” if we can digest such high praise. But wait, it gets better – there’s the hint of sprinkling some “AI” in there upon a day. Sexy stuff. I look forward to reading about every laborious, value-added step.
+True, there is probably some talent-search-bonus in here somewhere, a sales productivity nugget. But as for me, I’d rather write about Yahoo’s progress integrating with AOL. I just hope Dynamics 365 users enjoy receiving LinkedIn work anniversary notifications…
+Oh, and if you have an appetite for a few more whiffs, Gartner’s Hank Barnes has revived his delicious, semi-regular Friday Fails, published over on Microsoft 365 Connect, err, I mean, LinkedIn. Here’s a keeper from March, and you can follow Barnes’s LinkedIn posts here.
+Over to you, Clive. Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Updated April 24, 9pm PT with minor improvements for readability.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock - Fotolia - all from Fotolia.com.Disclosure - SAP, Oracle, Coupa, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Analytics planning and data analysisHits and missesMachine intelligence and AI 

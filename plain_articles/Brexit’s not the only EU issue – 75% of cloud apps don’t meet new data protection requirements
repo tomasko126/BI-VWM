@@ -1,0 +1,55 @@
+
+This time next week the UK electorate has a major decision to make about the European Union (EU). Regardless of the result of the vote, the EU will continue to have a major impact on not only the UK, but also the rest of the world, including the US tech industry. 
+The new General Data Protection Regulations (GDPR) is a case in point.  The new rules come into force on 4 May 2018 and will have serious implications for both EU and non-EU companies. 
+The new rules include:
+
+penalties of up to €100 million, or 4% of annual worldwide turnover, whichever is greater.
+increased territorial scope to cover anyone doing business in the EU regardless of their headquarters location.
+tighter requirements for obtaining valid consent to the processing of personal data.
+enhanced restrictions on profiling and targeted advertising.
+new data breach reporting obligations.
+direct legal compliance obligations for data processors.
+extended data protection rights for individuals, including the odious “right to be forgotten” clause.
+processing companies—such as third-party vendors or technology service providers—are now subject to regulation and privacy compliance.
+
+But with less than two years to go, a series of recent studies presents an alarming picture of lack of preparedness. 
+Try this one for size – three-quarters of all cloud apps are not ready for GDPR, according to research by cloud security firm Netskope, which analysed over 22,000 cloud apps during Q1 2016.
+The assessment framework looked at: 
+
+Geographic requirements – Does the cloud app ensure that EU citizens’ PII is kept in data centers in the EU?
+Data retention – When a customer discontinues use of the cloud app, does the app make the data available for customer download, and then fully and quickly erase the data?
+Data privacy – Does the cloud app have mechanisms in place to protect data privacy, such as assurances that data won’t be shared with third parties?
+Ownership terms – Does the cloud app clearly state that the customer owns the data in its terms of service?
+Data protection – Does the cloud app have data protections in place, such as strong encryption and key management?
+Data Processing Agreement (DPA) – Is there a Data Processing Agreement in place between the data processor and controller?
+Audit – Does the cloud app make data access audit logs available?
+Certification – Does the cloud app have data center certifications in place, such as SOC-2?
+
+Against those criteria, the study found that 24.6% of cloud apps fall into the “high” GDPR readiness group, 47.6%  into the “medium” group, and 27.8% into the “low” group. 
+The report notes: 
+
+It’s worth noting that even a “high” GDPR-readiness level may not mean an app is fully compliant, as the GDPR has a strict set of standards for dealing with privacy data and even the presence of capabilities doesn’t mean the cloud apps are being used in a compliant manner.
+
+There are differing levels of understanding of the implications of GDPR geographically with businesses in Germany, Austria and Switzerland three times more aware than the rest of the world, according to a report from cloud collaboration specialists Metalogix. Paul LaPorte, Director of Product Marketing, Metalogix, said the report reveals: 
+
+the lack of preparedness across other European countries and North America, where there are numerous global organizations operating under GDPR in the European Union (EU), can create great risk. IT and security executives need to become more deeply educated on the implications of GDPR – which can be as large as 20M Euros or 4% of an organization’s annual revenue – so that they can better protect the personal data under their control and ensure compliance.
+
+SMB shortcomings
+Finally, a third study, part of Close Brothers’ quarterly survey of UK SMB owners, found that a frightening 82% of respondents said that they had either not heard of GDPR or  don’t understand its impact.  Only 4% of SMBs understand the legislation and are clear about the effect GDPR will have on their business.
+Ian McVicar, managing director of Close Brothers Technology Services, said: 
+
+What these results demonstrate is that there is a clear lack of understanding at all levels and across all sectors.
+
+And a vote for Brexit isn’t going to make things any easier for UK firms. For cloud services providers which have set up UK data centers in order to meet EU data transfer requirements, the UK being outside of the EU would raise some serious questions.
+At the recent Infosec 2016,  Quentyn Taylor. Director of information security at Canon, warned that GDPR would have to be followed even post-Brexit: 
+
+We have data centers all over Europe and we have data transfers that happen across huge numbers of countries. If we have to have a separate regulatory program here it will have huge impact for us a multinational. I think it will also have a huge impact on British businesses.
+
+That said, at the same event, Iain Bourne, policy manager at the UK Information Commissioner’s Office, did allude to there being non-GDPR data regimes that would be acceptable to protect privacy: 
+
+There are forms of data protection law that are much more attractive than GDPR internationally. I think we need to remember that there are many countries all over the world, in places like Australia, Indonesia, New Zealand, and Canada where there is a fully functioning data privacy law.
+In many cases, the European Union and the European Commission would deem that adequate and [think] it would provide a satisfactory level of protection. So actually there are quite a lot of options. I don’t think it’s as straight forward that we’ll necessarily have absolutely 100 percent GDPR whatever happens during Brexit.
+
+My take
+GDPR awareness needs to be much, much higher than it is, both in the EU and beyond. The consequences of non-compliance for users and providers alike are high. A timely reminder that there are EU issues beyond next week’s Brexit vote. 
+Image credit - Freeimages.comRead more on: Data privacyRegulation 

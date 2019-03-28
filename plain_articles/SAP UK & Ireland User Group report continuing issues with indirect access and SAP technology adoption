@@ -1,0 +1,42 @@
+
+At the opening keynote of SAP UK & Ireland User Group Connect 2018, user group chairman Paul Cooper was reported an improved awareness scorecard for SAP S/4 HANA but a mixed bag of outcomes and low levels of awareness of C4/HANA. At the same time, he said point blank:
+It would not be an SAP user group meeting without mention of indirect access.
+In her keynote, Adaire Fox-Martin said that indirect access represents an issue that SAP is addressing as part of its execution against CEO Bill McDermott’s mantra of customer empathy.
+But talk in the halls was not especially positive with the view among those I asked that SAP has made glacial progress in helping/resolving the indirect access issue. By way of contrast, Matthias Medert, VP global license auditing services was unequivocal on the general audit topic:
+For me in an ideal world we would not even need an audit.
+Let’s pick this all apart.
+SAP S/4HANA
+
+To put this in context, two years ago, the ‘yes’ question was only answered in the affirmative by 34% of those surveyed while the ‘nos’ stood at 49%. SAP and the user group can, therefore, take considerable comfort from the change in these results. But outcomes are not quite as spectacular.
+
+We should not be surprised by these results. In the world of SAP, it is still very early days in the S/4 implementation cycle, despite reported times to go-live falling dramatically and sales continuing apace.
+The impediments to adoption are well understood with fears over cost (32%) and change management requirements (20%) featuring heavily among those who have no plans to make the switch.
+SAP C4/HANA
+
+Again, these results should not surprise with 51% saying they need more information. This result is made more complicated in the wake of the Qualtrics acquisition announcement and what SAP said about how it is pivoting around YaaS in a conversation with Derek duPreez last month:
+With YaaS there were two dimensions to look at. Architecture is one. That has really proven to be correct. And then we applied a go to market commercial thinking to it. And there we learned a lot. We took on that feedback.
+What we did was that we had the hypothesis that this was so disruptive that large companies would not be interested in it for a long time, but rather it had to grow in a more start-up, more open way. We were proven wrong. Because technically speaking, if you have five people sitting in a room building a website, they don’t benefit that much from a microservices architecture. If you have 5,000 developers, hell yeah, your productivity will go through the roof if you can parallelise their work through a microservices architecture…
+…It brings a number of innovations to Cloud Platform and C/4 HANA. One, this idea of a loosely coupled, event based integration. So all of these C/4 HANA applications and also S4 and others, they can simply connect into Extension Factory through events. Much more decoupled. That means you can also extend a main monolithic application, maybe even an on prem application, with microservices, in a gradual way.
+These technical changes are important to SAP customers who will not want to be heading down a dead-end path. Right now, the world of microservices, serverless, Kubernetes and other tech buzzwords du jour are not well understood in the world of SAP. But there is excitement among SAP’s army of ABAP developers that they can extend with SAP Cloud Platform. the question comes – will it all hang together? Phil Wainewright, with some reservations, is optimistic:
+SAP outlined an alluring vision today but it has to show it can execute on the detail. While the integration is there in principle, it’s currently out of reach for many customers, and much of it has yet to be turned into proven, deliverable use cases that work in the real world.
+But again, it’s not a done deal and, in any event, we’d expect SAP customers to at least look at alternatives like Salesforce.
+Indirect access
+While Adaire Fox-Martin mentioned indirect access and trust in the same sentence, her words came up empty. I had hoped to hear a more proactive set of statements about tooling (which doesn’t exist in any meaningful way) and was surprised to hear her say that ‘existing’ customers, as well as net new, are working on the new pricing model, which, regular readers will remember is more akin to a consumption model.
+When I pressed Medert about this, he left me with the impression that those existing customers who have moved are also those who have moved to SAP’s cloud offerings. That makes sense because, in a cloud world, it is much easier for SAP and its customers to share a common, transparent view of activity.
+However, the generality of the indirect access problem isn’t going away. SAP may have swept the Diageo and InterBev cases under the proverbial carpet but there are outstanding cases running in the German courts which may yet change the way indirect access is understood. As expected, SAP is not commenting about ongoing cases that are running in the courts.
+For his part, Medert confirmed that SAP has now executed on its promise to remove field sales from audit and compliance discussions.
+They can’t start or stop any of those engagements.
+That’s good to hear, as is his pragmatic approach to individual cases.
+We do want to help and we do want to see fair outcomes.
+I’m sure that’s true but as was the case last year and will be into the future, it is very difficult for SAP to, for example, come up with broad-based advice or outline approaches for industry-specific situations. There is just too much variety in the contracts that customers have signed, coupled with changes and question marks over what counts as a primary contractual document, what counts as legally binding addendums and many other nuanced variations that exist among customers.
+Brexit anyone?
+
+Tech companies have been loathe to get into discussions about the impact of Brexit and, surprising to me, the SAP UK & Ireland User Group seems largely unperturbed by its potential impact although the results above indicate a partially elevated level of concern. There are two ways to interpret this. Either plans are well underway for a post-Brexit UK or users are experiencing Brexit fatigue.
+During her keynote, Fox-Martin said that SAP continues to monitor the situation and wants to help customers make appropriate decisions but that’s not enough. The legs and regs changes that Brexit implies will not be straightforward and those who express concern are right to do so. This isn’t just a line item on a VAT return that may end up redundant but cuts across many areas of bureaucracy that SAP handles in its core systems.
+My take
+2018 is a year where on some levels SAP and its users have made progress but which on issues that cause angst, much remains the same.
+Here is a discussion for another day but I’ll put it out there as a thought stream.
+As I concluded my discussion with Medert I discovered that as far as he is aware, SAP has not yet made any decision about monetizing its APIs. That concurs with my impression from discussions at SAP TechEd in Barcelona a few weeks ago.
+My view is that monetizing directly at the API level presents an effective way to overcome the IA issue. How might this work? There are a number of possibilities but with SAP making a big push towards microservices, and firing up the developer ecosystem to build for a heterogeneous world, the current IA issue just doesn’t go away.
+Monetizing the API is one way to relegate the IA issue to a non-event because in that scenario, developers and, more importantly, business process specifiers, don’t have to go back to their contracts and start mulling over whether they have to concern themselves with document handling and processing in and out of third-party systems. They could sandbox test for API call volumes in processes to assess exposure. At that point, I’d argue you get true consumption pricing that reflects the totality of the computing environment.
+Image credit - charts via SAP UK & Ireland User GroupDisclosure - SAP is a premier partner at the time of writing. SAP UK & Ireland User Group covered most of my travel and expense for attending Connect. Read more on: BrexitCloud ERP financials and supply chain 

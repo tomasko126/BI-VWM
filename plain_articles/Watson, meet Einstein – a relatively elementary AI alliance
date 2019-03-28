@@ -1,0 +1,38 @@
+
+
+Salesforce CEO Marc Benioff, IBM CEO Ginni Rometty
+Salesforce Einstein is AI for everyone…When you see Einstein, you will see that it is on par and capable to any other AI platform that you have seen like Watson and others.
+When Salesforce CEO Marc Benioff said that last September, my reaction was that here were fighting words. On the eve of the formal launch of Einstein at last year’s Dreamforce, IBM had the best-known AI offering on the market, Watson, albeit one whose mainstream claim to fame was still winning the Jeopardy TV game show.
+Away from the mainstream, some compelling use cases had been emerging for Watson, indicative of the importance of this push for IBM, which claims that the technology is currently used by over a billion people every day. The firm has launched a series of vertical pushes, such as Watson Health and Watson Financial Services, as well as functional iterations, such as Watson for Cyber-Security.
+Meanwhile Salesforce has pitched Einstein as enabling a generation of ‘smarter software’ with a more sales-and-service-focused target market, with the technology built in to the various Salesforce clouds, from Sales through Marketing and Analytics to Commerce and Service.
+Yesterday the two firms took the market by surprise by announcing what amounts to an AI non-aggression pact. While the two will continue to sell Watson and Einstein separately and there’s no revenue sharing, they’re teaming up to combine elements of each other’s tech to target joint customers. The two companies reckon to share around 5000 customers at present.
+IBM will make Watson’s insights available directly within the Salesforce Intelligence Customer Success platform, so customers will be able to tap into Einstein’s customer relationship insights and Watson’s cross-sector data pool, spanning the likes of healthcare, financial services, retail and weather forecasting
+For example, Watson could analyze shopping patterns, weather and retail data, working in conjunction with Salesforce Einstein to help a retailer send automated personalized marketing emails to customers. Or an insurance company using Salesforce could use Watson’s weather data to target customers ahead of storms knowing that they will want to protect their property.
+It was that weather angle that Benioff turned to when interviewed on CNBC after the alliance was announced, citing the example of:
+  Last night here in San Francisco, we had unbelievably crazy hailstorms. We had like a hailstorm, a bright gorgeous blue sky, then a rainstorm You know, insurance providers want to get to those auto-policy holders and say, “Hey, get your cars in the garage, the hail is coming!’. Well, Watson has that data. What Salesforce has, we have all the policy holders information and we are managing five of the top five insurance companies on Salesforce. Now you can put those two things together and all of a sudden those insurance companies can notify those policy holders, ‘Hey the hail is coming!’.
+According to the announcement, Salesforce and IBM will initially deliver:
+
+IBM Watson and Salesforce Einstein Integration, integrating IBM Watson APIs into Salesforce.
+IBM Weather Insights for Salesforce, with IBM’s The Weather Company powering a a new Lightning component on the Salesforce AppExchange to provide weather insights that inform customer interactions and business performance.
+IBM Application Integration Suite for Salesforce, so that customers can bring together on-premise enterprise and cloud data with specialized integration products for Salesforce, surfacing that data directly within the Salesforce Intelligent Customer Success Platform.
+
+There are other benefits for both firms from the new alliance. As part of the agreement, IBM will begin deploying the Salesforce Service Cloud across the company, which provides Salesforce with another marquee customer logo.
+Meanwhile IBM’s Bluewolf consulting arm, which specialises in Salesforce deployments, has set up an Einstein practice, which means IBM will be selling consulting services across both Einstein and Watson prospects.
+Use cases
+Salesforce plans to showcase an AI use case later today at a launch event in San Francisco, in the firm of a large CPG firm which uses Einstein to look at what the inventories are in refrigerators at major retailers and ensure that these are automatically topped up. Benioff previewed this last week:
+What we showed them was, with a simple camera, they’re able to do real-time inventory analysis of their retailer shelves and they’re able to, based on that analysis that’s happening from those cameras, understand the competitive environment, number one. Number two, understand their own environment, and number three, when they are seeing a level of depletion on the shelves that they want to replace, they can just roll trucks automatically using Salesforce Einstein.
+And of course that also can create customer service cases. It can create sales opportunities automatically, automatically with no one else involved. So all of a sudden, salespeople and service people and marketing people and even truck drivers are all alerted to changes that are happening in the retail environment, which up to this point haven’t really been monitored very well and certainly not efficiently.
+But that’s kind of what AI and Einstein are giving us now in the current state of play. That is with a very low-cost camera, coupled with Einstein, gives us incredible intelligence into their customers’ environment.
+More on that later today, but for an existing example of how the Einstein/Watson combo might work in practice, look to elevator company Kone, a joint customer of both IBM and Salesforce, which Jessica Twentyman examined in detail earlier this year.
+In this case, Salesforce manages the relationship with Kone and its customers, while IBM Watson manages predictive maintenance. If Watson picks up on a forthcoming problem, Salesforce’s Einstein-enabled Service Cloud can get a truck out to address the problem immediately and get the issue resolved.
+Salesforce’s Einstein strategy will be fleshed out further today in San Francisco when Benioff and his team formally launch the firm’s Spring 17 release, with Einstein capabilities built in across all clouds therein.
+Spring 17 also includes Einstein Vision, a set of powerful new APIs that the firm says allow developers of all skill levels to bring image recognition to CRM and build AI-powered apps fast, including the following capabitilies:
+
+Visual Search to allows consumers to use visual filters to find products that best match their preferences and take photos of products to discover where they can be purchased—in-store or online.
+Brand Detection to analyze user-generated images in communities, message boards and social media, giving marketers a better understanding of their customers to help improve quality of service, extend marketing reach and maximize campaign ROI.
+Product Identification to analyze images to give sales and service reps the ability to remotely evaluate product issues, manage inventory and analyze product mix and selling potential.
+
+My take
+An interesting alliance. It’s tempting to wonder whether a year or so back it would have been Microsoft that Salesforce would have looked to for AI co-operation, but given the deterioration in that relationship and the Bluewolf acquisition by IBM, this makes a lot of sense.
+Image credit - Salesforce/20th Century FoxDisclosure - At time of writing Salesforce is a premier partner of diginomica.Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceDigital government and public servicesMachine intelligence and AI
+

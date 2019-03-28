@@ -1,0 +1,62 @@
+
+The Easy/Simple Part of the Story
+In February, SAP announced S/4 HANA – its successor to the Business Suite (aka R/3 aka ECC). With that announcement went a lot of discussion of the first application of S/4 HANA: Simple Finance. And, to make sure we all got the message about “simplicity”, SAP began promoting its new “Run Simple” message.
+Apparently most everyone in the SAP channel got the simple message, too. In fifteen minutes walking the SAPPHIRE Now 2015 exhibition hall, I was confronted by partner signage everywhere touting their approach to “simplifying” SAP applications or customers’ businesses.
+For many service providers, “simplification” is the first part of a three step program to material change.  HP thinks you need to: “Simplify. Innovate. Enable”. IBM thinks you need to:  “Simplify. Innovate. Transform” while NTT Data sees the journey defined as: “Simplify. Accelerate. Transform”. All these three step change programs had me dancing the waltz through the exhibit hall.
+Some service firms see “simple” as something that needs to be (Wait for it…..) “Simplified”. FIT wins the award for its messaging: “SAP Hana and Fit – How Simple Gets Simplified” . Can it get any simpler?
+Everyone was piling on the “simple” message;
+Grom:  “Simplify Your Business”
+HP – “Simplifying the Journey to Innovation”
+WalkMe – “Instantly Simplify Your SAP Technology Environments”
+LeverX – “Simplify Innovation & Engineering Excellence”
+Revelation – “Simplify Change Control for SAP Solutions”
+SGI – “Powerfully Simple”
+Seal – “It is Simple! It is. Seal”
+CSC – “Make it Simple”
+IBM – “Simplify … with IBM”
+EMC – “Simplify Your SAP Journey”
+KNOA – “Simplify Migration With Knoa”
+Cap Gemini – “Simplify with end-to-end solutions”
+OpenText – “Simplify. Run Digital.”
+Fujitsu – “Inspiring Simplicity” and “Simplify Decision Making With SAP Solutions”
+I was, simply, overwhelmed with the unanimity of scores of service firms all focused on simplicity.
+But SAP was also firing away at the “simple” message. They, too, made the concept of “simple” ubiquitous. Take this session title that threw most everything into its name– “Simplify, Innovate, and Transform Your Business With Analytics and Mobile”. They could have won an award if they had just jammed Internet of Things, In-Memory, HANA and NetWeaver into the title. 
+But all this partner branding has me confused.
+If the new SAP products are supposed to already be ‘simple’, then why are all these service firms, consultancies, integrators and outsourcers hawking simplification services?
+The Analysis
+SAP’s S/4HANA is a dramatic upgrade to the R/3 ECC product line. The technology can support a flavor or two of multi-tenancy. The solution was designed to utilize in-memory technology and, as a consequence, it operates substantially faster. In-memory technology is also responsible for the elimination of a lot of index files, sub-ledgers and other redundant data stores. Latency is significantly removed and reporting/analysis is made substantially faster. And those are just a few of the underlying and material changes in the product.
+What these changes mean for existing customers is that they’ll need to do a material upgrade. How easy or difficult this upgrade is depends on a few factors such as:
+
+Is the customer on the most current release or are they several releases back?
+How extensively has the customer added custom tables? SAP believes a number of customers will find many past customizations could be discarded as similar functionality may now exist in the current version. However, some customizations won’t be in the new solution or won’t work in a way that the customer will accept. Some customizations call other systems so will have to be refactored.
+How will the solution be deployed? The fastest approach would be to move it to SAP’s public cloud for S/4HANA. Doing it in-house on a private cloud make take longer simply due to the time required to outfit and configure the cloud technical environment.
+
+Attendees at SapphireNow heard a lot about these points. But the item that didn’t get a lot of conversation was the state of a lot of customers’ IT environments and how this could make the “journey to simple” a bit tricky.
+The first step of a customer’s journey may not be to implement S/4HANA. There might be a fair number of pre-requisites to ponder/complete first. For example:
+
+Cleaning up (and/or converting to SAP) additional ERP systems left over from acquisitions & mergers
+Collapsing multiple instances of SAP R/3 to a single version
+Getting all instances of SAP R/3 current on the latest release
+Getting all instances of SAP R/3 to handle common processes consistently (e.g., do you really need all those different ways to reimburse employee travel costs?)
+Fixing all of those manual or non-realtime interfaces/integrations to the current R/3 systems. Why would you implement an in-memory powered system capable of crunching a billion records in milliseconds when key feeder systems still require a user to create/extract a monthly comma-delimited file for uploading to SAP? Note: the ‘R’ in R/3 stands for real-time.
+
+The bottom line is that many firms have accumulated a lot of underbrush around their original R/3 deployments. Some of that debris represents the after effects of changed business strategies, accumulated IT technical debt, a lack of corporate standardization, rogue technology purchases in the operating units, etc.  No matter the cause, it exists and it makes major upgrades, like the one to S/4HANA, tougher to do.
+“Simple” may be the desired outcome but the journey may be much more involved than a decision to implement S/4HANA.
+Looking Ahead
+In response to a reporter’s question about customer adoption of in-memory technology, SAP’s Chairman, Dr. Hasso Plattner, reminded the reporter about the huge performance and business benefits that are possible. Dr. Plattner went on to say that technology only moves forward. People don’t want go back to slower chips, disk drives, brick phones, dial-up modems, etc. He added that every one of their largest customers already has big data and in-memory technologies at work.
+I tell you this as the future for SAP’s customers is in the in-memory and cloud world. You can debate exactly when your firm will make the move, but, you’ll move. And, when you move, you’ll need to make some interesting choices.
+You need to:
+
+Re-visit what best practices and super-effective processes look like in a world where machine language technology is paired with in-memory speed and big data. Chances are those old hire-to-retire and other processes were designed for an era when all data originated within the four walls of the firm and resided on slow disk drives.
+Determine what new opportunities for standardization exist in your firm. With new business strategies and leaders, some of the old assumptions, systems, processes and sacred cows of the past just aren’t relevant anymore. They need to go.
+Get a real training/recruiting plan for IT. Chances are, your IT shop is full of people who excel at keeping apps patched and maintained while running on a lot of on-premises technologies. The new world requires IT to have quant jocks, in-memory experts, professionals who work with Hadoop, DataSift, GNIP and other products. If IT doesn’t re-equip its skills, the business units in your firm will.
+Begin experimenting with one or more S/4HANA deployment options. When you do so, compare more than the speeds and feeds. Do an honest evaluation of the cost differences and how each method aids the firm in achieving its strategic goals now and for the next (not last) ten years.
+Build a real journey plan. S/4HANA isn’t like some simple tax table or technical patch. This is a transformational project. Treat it as such.
+Realize that the value from one of these S/4HANA journeys isn’t in re-platforming SAP software. The value only starts to be unlocked when you can marry all kinds of big data with operational and financial data. If you think this is a TCO (total cost of ownership) reduction project, you’re doomed. This initiative must be about creating the environment where operational and strategic insights are popping out every second to the management and leaders of your firms.
+Get help but do so wisely. Let’s face it – there are a lot of integrators who’ll gladly help you with your S/4HANA journey but it’s a solution that’s brand new. Like your IT shop, they’ve probably got a lot of R/3 skilled resources on the bench. But you need different skill sets. Look carefully and be demanding.
+Finally, know that the service providers out there are right about the journey. It should trigger a lot of re-imagination, re-invention, change, training challenges, etc. Get those seat belts fastened, tray tables in the upright position, etc., this is going to be a trip!
+
+
+Image credits: via Brian Sommer.
+Disclosure: SAP is premier partner at time of writing and covered most of the author’s T&E for attending SAPPHIRE Now 2015.
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureGoverning identity privacy and security 

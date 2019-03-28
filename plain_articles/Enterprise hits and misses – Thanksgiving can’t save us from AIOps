@@ -1,0 +1,58 @@
+
+
+Lead story – AIOps isn’t just hype, and but AI ethics remains on the burner – articles by Kurt Marko and Stuart Lauchlan
+On Twitter, I bemoaned the emergence of the AIOps buzzword, a yucko clunker catch phrase we surely don’t need. The next morning, the intrepid Kurt Marko had already peeled back the AIOps hype.
+In AIOps – hype aside, ML infused analytics tackle problems in heterogeneous systems and applications, Marko writes that the first phase of ML and AI has been focused on improving business results and rightly so. But now:
+We’re entering the second phase of usage in which the same approaches are being used to enhance internal operations. As one of the primary sources of enterprise data, IT shouldn’t let it go waste.
+Marko cites examples he’s seen this year, from APM to Network Analytics. I’m all for applying AI/ML/automation to IT scenarios, be it end-to-end measurement, event correlation or predictive trending of performance and capacity. But you won’t hear the phrase “AIOps” coming out of my mousetrap. As Den Howlett points out, that can get you in trouble in Yorkshire (“you spilled your bloody pint again, you bleepin’ sod!”).
+AI’s practical gains do not diminish the ethics, which Stuart addresses in AI and ethics – challenging questions from the UK with global applicability. There’s a concerning “new variant on the digital divide” looming. Stuart quotes the Lord Holmes of Richmond:
+Public engagement is the real key. The massive success—or not—of AI will rest upon it. Do people feel part of the AI revolution? Have the public been engaged and do they understand that this is not for a few people in large organisations or government? Everybody has to understand and be positively part of this.
+To me, that’s the crux. Government and corporate obligations take us so far. If people view themselves as consumers rather than citizens, we’re in troubled waters. Which brings us to: the Black Friday civility meltdown as people trample each other to save a few coins retail shopping!
+Diginomica picks – my top three stories on diginomica this week:
+
+Your Black Friday retail fix – Stuart’s got your Black Friday retail two-for-one. Best yet: you don’t have to deal with coupon zombies the shopping mall. Check: Two decades of online doesn’t guarantee the necessary omni-channel balance for Nordstrom and Retail buzzword bingo at Williams-Sonoma sets the digital transformation agenda.
+Is it too late to save Facebook? Setting the stage – Jerry pushes the right question, but as long as we give Facebook our eyeballs, we’re under their heel. Still, as Jerry notes, the case for oversight is getting stronger with each absurd/alarming reveal.
+
+Vendor analysis, diginomica style. Here’s my top two choices from our vendor coverage:
+
+SAP and Qualtrics – how might this work and what are the barriers? As promised last week, Den culls from our back-and-forth with SAP and his own dives into Qualtrics: “SAP’s gamble on Qualtrics is part of a much bigger play. Once you strip away the marketing rhetoric, it is easy to understand the path McDermott has chosen.”
+ServiceMax CEO eyes the opportunity of ‘uberized’ labour markets for field service agents – Derek gets the update from inside GE Digital, with ServiceMax COO Scott Berg. Derek: “As noted above, GE has had a tough year, and the markets haven’t responded positively. However, I got the distinct impression from Berg that ServiceMax is utilising the advantages that GE offers.”
+
+A few more vendor picks, without the quotables:
+
+ThoughtSpot Beyond 2018 – democratising analytics by talking to it – Martin
+Workday Rising Vienna 2018 – a retrospective focus on diversity and analytics – Den
+Bean counting isn’t enough – Vena on the CFO as chief data storyteller – Me
+
+Best of the rest
+My top five picks from the enterprise blogosphere this week:
+
+Don’t Get Left Behind When AI Replaces DevOps – the source of my AIOps buzzword ire traces back to this New Stack ditty. Though I do fancy the notion of making DevOps irrelevant.
+AI Poised to Drive New Wave of Exploits – just in case we’re getting too chuffed about AI: “Attackers can use AI to dramatically shorten the time from finding a problem to creating an exploit.”
+As Kurian takes over at Google Cloud Platform, here are the big questions – ZDNet’s Larry Dignan on the case, complete with embedded autoplay-hell video. Dignan asks: “Does Kurian’s Oracle experience apply to GCP?” MyPOV: not from an infrastructure side, but from an enterprise credibility side – yes.
+What Value Are You Getting From Planning? Lora Cecere on why planning matters – and why it’s harder than ever. Why should we care about planning? Cecere: “Today market turbulence abounds. Spiraling transportation costs, tariff shifts and increased expectations for customer service sparks new interest in supply chain planning.”
+Elevating Customer and Influencer Marketing – Gartner’s Hank Barnes throws cold water on the analyst relations status quo, calling for bold and creative endeavors, like the Plex analyst/customer mashup I was part of recently: “It is hard to imagine an activity that would build more trust and credibility than making it easy for customers and influencers to engage with each other—both in structured meetings and unstructured conversations and activities. Jon Reed from diginomica shared a story recently of one example of this that blew me away But, why are these things, that make so much sense when you hear about them, the exception rather than the rule?” Good question Mr. Barnes. Wish I had the answer.
+
+Whiffs Turkeys
+
+No whiffs this week – we’re doing turkeys.
+First up? Linkbait headline competition finalists:
+Police can remotely drive your stolen Tesla into custody – not right now they can’t. But go ahead and lather on the cranberry hype sauce, Next Web.
+While some of us were stuffing turkeys, MIT Technology Review was blowing hot air into blockchain hype balloons (Blockchain smart contracts are finally good for something in the real world). We read on, and it’s all hypothetical, yet another blockchain startup with big plans, investors lining up for the roller coaster ride ahead. Cue the backpedal:
+Until now, perhaps..Together, they might be closer than ever to solving the problem.
+Let’s pick on Microsoft this week, shall we?
+
+Microsoft Office collects email data in breach of GDPR, regulator rules https://t.co/FuAkWVl4SZ via -> no biggie, it's only GDPR, not like it's a law or something. cc: @dahowlett
+— Jon Reed (@jonerp) November 16, 2018
+
+This isn’t a whiff, but an epic skewering I wish I’d written: Windows Isn’t a Service; It’s an Operating System. Punchline:
+No one asked for Windows as service.
+More like a disservice, but yeah. Putting the new MacBook Air on the ol’ wishlist. And, finally, as many of us gather with our loved ones, our inboxes implode:
+
+This time of year, some may be looking forward to friends and family, but I'm looking forward to my inbox being "blessed" by edgy predictions for 2019 from tech gurus and thought leaders, all of whom will go out on limbs to tip us off about data visualization and voice UIs
+— Jon Reed (@jonerp) November 20, 2018
+
+And with that, I’ll wish a good one to you and yours – and whether you do Thanksgiving or not, we definitely thank you for your discerning readership. See you on the other side.
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua - all from Fotolia.com. Feature image - Turkey isolated on the white background, by @veleknez from Shutterstock.com.Disclosure - SAP, Oracle, Workday, ServiceMax, IQMS, and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and missesMachine intelligence and AIRetail e-commerce and the omni-channel 

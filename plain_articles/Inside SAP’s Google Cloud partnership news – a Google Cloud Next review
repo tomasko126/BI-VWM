@@ -1,0 +1,37 @@
+
+Bernd Leukert of SAP
+Today, SAP announced a new, strategic relationship with Google at Google’s Cloud Next event. In brief, SAP’s application software will be available on the Google Cloud Platform (GCP). During the Google Next day one keynote, SAP Executive Board member Bernd Leukert announced:
+
+General Availability of SAP HANA on the Google Cloud Platform, which includes full support for existing SAP contracts.
+The developer edition for SAP HANA, aka HANA Express, is now being offered in Google’s Cloud Launcher for enterprise apps.
+
+A number of pending projects were alluded to, from machine learning to integrating SAP Cloud Platform with the Google Cloud Platform. As Leukert put it, “The possibilities are going to be numerous.”
+Why this relationship and why now?
+This relationship is a result of changing IT tastes. Public cloud solutions are on the upswing as are the improved economics that result from them. Utility computing is becoming more commonplace as the scale, security, low cost and speed of these solutions equals or exceeds those of private clouds and/or on-premises solutions.
+SAP and Google will also integrate Google G Suite Apps (e.g., Google Mail) with SAP’s enterprise software solution. Some of SAP’s largest customers are already using Google Apps. Tighter integration should bode well for these users.
+All about choice
+According to SAP, customers want choices in their public cloud deployments. To that end, SAP customers can use Google’s GCP, Amazon’s AWS, Microsoft’s cloud solution and SAP’s own SAP Hosting environment. Additionally, a number of partners, systems integrators and outsourcers also host the suite.
+This ‘choice’ may be a very important one given Google’s cloud scale, computing power and low cost structure. The race to the lowest cost cloud/utility computing provider should help IT buyers. Picking the provider who will continue to scale cost effectively is now the key IT leadership decision.
+Flagship customer view – Colgate-Palmolive 
+SAP watchers are never surprised when Colgate-Palmolive is brought on stage as an early adopter. But bringing Colgate-Palmolive CIO Mike Crowe on stage was a smart move. Colgate-Palmolive has brought 28,000 users live on Google’s G Suite since their May 2016 project kickoff. Prior to the project, Leukert was contacted by Crowe. The question was simple:
+How is your relationship like with Google?
+Now, SAP and Google have a specific answer to that question. For Colgate-Palmolive, G Suite has enabled productivity gains beyond Calendar and Gmail. 90 percent of their G Suite users are active on Google Drive. Crowe said that in February alone, there were 50,000 hours of employee usage of Google Hangouts. At the heart of it: enabling a mobile workforce.
+Leukert put the question to Colgate-Palmolive: what should Google and SAP do together going forward? Crowe:
+We’re excited about the Google/SAP partnership, about the announcements that have been made here today… I think it’s a perfect fit to combine SAP’s enterprise business application expertise with Google’s expertise on infrastructure as a service, running in the Google Cloud Platform.
+Crowe also spoke to the potential of machine learning advancements, and Colgate Palmolive’s plans to incorporate Google Slides into their Digital Boardroom, a co-innovation with SAP that provides Colgate-Palmolive with a real-time view of their operations.
+What to watch
+SAP announced plans to work with Google on machine learning/Artificial Intelligence initiatives. Google’s expertise (and its mountains of search and other big data) are attractive assets. Co-mingling this with the operational data within SAP customer systems, along with SAP HANA’s own machine learning enhancements, could provide new insights, revenue and productivity improvements and more.
+SAP also intends to integrate their SAP Cloud Platform (formerly the HANA Cloud Platform) with GCP. Leukert announced plans to tie the Cloud Foundry-based version of SCP into the Google Cloud Platform. The goal? Provide developers with a host of “scalable” services via APIs they can utilize to build new apps.
+Google’s Diane Greene raised an important point on SAP’s role in compliance and data protection. As Greene put it, Google and SAP are working on how SAP can become a “data custodian of customer data that’s stored in GCP.”
+Greater clarity around this new relationship should appear in mid-May at the annual Sapphire Now conference. Expect SAP partners, Google and others to add commentary around this announcement then. Greater insight into the economic benefits for customers of this relationship would be appreciated. Customers might also want more clarity re: which parts of the world this new capability will be available. Our understanding is that the partnership has global intent but specifics will be needed.
+Our take 
+Who will maintain the SAP applications on the Google GCP? That wasn’t specified, but it’s likely that an array of SAP partners will gladly offer this service if SAP itself doesn’t do it.
+Will users of the Google Apps that are integrated with SAP software be considered SAP users? The Diageo litigation might make some SAP customers think twice about this.
+SAP will continue to invest in and deploy its own cloud solution. It has customers in specific industries and/or geographies that will want a private hosted solution and not a public cloud solution.
+These announcements are in tune with the choice today’s customers expect. It’s refreshing to see SAP acting like the cloud company in their tagline, talking openly about containerization, customer choice, and empowering developers. This is a striking contrast to the perception of SAP as data auditors from the recent Diageo verdict.
+SAP can resolve that contradiction by putting its full energy into user group dialogue and cloud partnerships like these. For SAP, it’s not just about providing options – it’s about providing a viable roadmap for digital change. It may appear that the biggest gain here is combining Google’s IaaS strength with SAP’s enterprise apps know-how. But Leukert is correct to assert that the long game is about building cloud apps, powered by data services:
+With just a laptop, it’s going to be easy to build SAP software applications capable of instantly working with the largest possible suite of products… Obviously, this is going to be great news for our joint corporate software developers looking to build new products on existing data and applications.
+From our conversations with SAP, it’s clear there are no immediate plans to pursue an Android OS SDK partnership similar to the one SAP has announced with Apple. We think SAP sees the customer need for this offering, so that’s one more item to watch.
+Leukert acknowledged that “this is just a starting point.” It was good to hear both SAP and Google hammering on cloud security. Leukert got into the weeds of encryption key management at Google Cloud Next. Those are weeds customers care about.
+Any startup can talk about building next-gen apps. SAP and Google can talk about doing this securely – at a whole different scale. We’ll be watching how this unfolds in May at Sapphire Now.
+Image credit - Photo of Bernd Leukert at SAP TechEd Barcelona by Jon Reed.Disclosure - SAP is a diginomica premier partner. Read more on: Cloud platforms - infrastructure and architectureCollaboration sharing and digital productivityInfrastructureProductivity 

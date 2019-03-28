@@ -1,0 +1,53 @@
+
+Dead or alive? (Spoilers!)
+Now we’re on Season 6 of ‘Game Of Thrones,’ and various characters we’ve not seen for a while, like Bran Stark, have come back – as have others (spoilers!) we were told we’d never see again. And murky plots that started three or four seasons back start to reach their doubtless bloody climax.
+The software industry’s a bit like Westeros, too, of course. We love to see kingdoms rise and fall, and given their well-known pathologies more than one Silicon Valley CEO would fit right into the world of the Lannisters and co. And we do love to see contenders for the Iron Throne make their software bids for power, do we not?
+Case in point is the latest claimant – graph. Forrester Research says that this tech is “the killer app for Big Data”, while the biggest single company in the field – and claimed inventor of the whole thing – Neo Technology claims big take-up in everything from media to financial services to retail to telecom and healthcare. This leaves Neo’s Swedish founder and head Emil Eifrem to claim: 
+
+Some of the biggest firms on the planet use graph in some of their biggest applications.
+
+And though Eifrem and his team are scrupulous about not saying it, the implication is that graph is a serious enterprise play now – at the expense of the incumbent, RDBMS and SQL, which has been dominant in corporate data processing since the end of the 1980s.  Eifrem admits: 
+
+I love relational – it’s an amazing technology.
+
+Neo – King Of The North alone?
+Well… hmm.
+What bothers us about all this even more than killed-off characters literally being resurrected is that it seems a bit familiar. Didn’t we see a raffish looking character a season or two back called Object Databases that also reckoned they’d be taking down the corrupt old order?
+To his credit, Eifrem sees the parallel. The real positioning, after some hand-waving about the biggest error of objects being the mixing up a programming for a data model, is that for today’s developer, there is a multiplicity of database choices that make the days when there were only really four, all of which were relational, seem like the worst 20-year long Winter you could shudder to live through. Eifrem says: 
+
+We are absolutely not about replacing relational, but the era of one-size-fits-all database management is over, and it’s never coming back. What happens instead is that a team sees a problem and chooses the right data model to work with it, one of which is graph.
+
+So – got that? We have sworn loyalty to the dominant paradigm down there in Kings Landing. Ah, but you know that sedition and plotting is never far away from a database management firm’s leadership.
+Soon enough, the special pleading comes back in for graph, i.e. how it’s the only way to model relationships and connections, how it’s so like the way the human brain works, how you used to be able to model mere 40 billion node graphs, but with its latest rev, 3.0, that ‘restriction’ has gone and there is literally no upper limit now.
+Eifrem says:
+
+Most databases out there, even the newest ones, are ultimately about storing data and getting it back out again. That’s it. What graph does instead is allow you to see the connections that make the data useful.
+
+Connections, connections, connections
+It’s very easy to get sucked into the rebellion here. There is something undeniably attractive about the Neo view of the world, and it does have users who say that its tech was the only way problems could be cracked – like supply chain platform maker Trace One, in-house developers at Royal Bank of Scotland and, story du jour, the folks behind the 11.5 million document Panama Papers breakthrough, the International Consortium of Investigative Journalists.
+That body’s head of the Data & Research Unit, Mar Cabra, was in London for Eifrem’s Graph Connect Europe conference to provide insight into her team’s use of data tools, include Neo’s, to penetrate the vastness of leaked financial and customer data that uncovered even more dodgy stuff than the wicked bankers of Braavos could come up with. 
+And it does really seem that graph was the best weapon she could find to do the dirty work:
+
+Graph enabled us to spot connections we just wouldn’t have been able to see otherwise, especially the role of banks and other financial intermediaries. This would have simply not been possible in documents and photocopies, we would never have seen the patterns otherwise.
+
+That’s the word, ultimately, that will decide if graph really will win the Crown – connections. Or in other words, the link between cracking rich people’s files to all the other graph use cases, like personalized recommendations or fraud detection. Hence Eifrem’s rhetorical flourish of:
+
+We are entering a connected age, connected in terms of people and devices. Why are we surprised that data is doing the same?
+
+Can someone use my technology to build a mega-business. Please?
+Analysts agree… broadly. IT commentator James Governor of RedMonk, for example, told diginomica that,
+
+From the developer perspective, if you are collecting lots and lots of data to which connections matter, but not looking at graph – you’re doing it wrong.
+
+But Governor also points out that a lot of the non-SQL databases – including Neo – have yet to find, to quote Forrester, that “killer app” use case:
+
+Having a great answer to a problem does not always translate into a market, and the business model question is really interesting in all this. Yes, graph is incredibly important for social graph and who wouldn’t want some of all that money… but Facebook’s sucked all the oxygen out of that one already. Neo’s best hope, really, is to find some company that will become another Google or a Facebook on the back of its graph.
+
+My take 
+In the end, that’s what Eifrem’s hoping, too – that some of the 273 Neo graph start-ups he’s seen spring up will take off, not that corporates will strip out all their Oracle software for him:
+
+Neo4j gives you the power of the Google technology stack in your hand.
+
+Which suggests – perhaps as we will see in ‘Game Of Thrones’, too – that the answer isn’t just another king or queen, but a whole new way of working and living.
+Let’s hope Eifrem and his graphologists manage to live through the latest season, then.
+Image credit - HBO/Game of Thrones Disclosure - Eifrem was speaking at the GraphConnect user conference in London. Read more on: Analytics planning and data analysisDevOps NoSQL and the open source stackNoSQL 

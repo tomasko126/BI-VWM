@@ -1,0 +1,63 @@
+
+Hearing from practitioners is a great way to pierce the fog of inflated tech expectations. That was certainly the case at HfS FORA New York City, where robotic process automation (RPA) practitioners shared optimism on the business impact of automation, but warned of project pitfalls and managing overhyped expectations.
+Fresh data shared by Phil Fersht and his HfS Research team reinforced both the optimism and the cautions. As I noted in RPA hype versus reality, we’re past the so-called RPA “trough of disillusionment” but:
+
+many companies are still struggling to get automation to work
+there is an issue with RPA sustainability as tech and processes change
+
+HfS data reinforces the progress:
+
+One slide, from a recent study by HfS and KPMG, shows that RPA outpaces cloud, IoT, and analytic as areas of “significant” enterprise investment. (RPA is the only “significant investment” that scored above 50 percent).
+
+But the impact of machine learning is not yet felt on RPA by most. As per HfS Research:
+
+80 percent of companies have yet to connect AI capabilities with their RPA systems
+
+Puncture the RPA hype balloons as you go
+During the breakout sessions, RPA practitioners shared loads of advice on taking RPA to the next level, without getting bogged down in political and ROI quagmires. All were eager to scale their automation efforts. But as one practitioner warned, if you don’t find the right balance of scale and investment, you might find yourself in the hot seat:
+[The key] is finding that right balance of investment and scaling. You need all of those things at scale, but if you get a professional services organization in, and they give you the laundry list of the 5,000 things that you need, you hire 20 people, you spend millions of dollars, and then you get a bot production after nine months, you’re gonna get fired, right?
+Pacing for ROI is essential:
+How do you find that right balance? Managing 20 bots is very different than managing 200 and 2,000. How do you steer your investments and your interior capability, and your operating model, and pivot that for the right size for your investment, to make sure that you’re always driving as close as you can to positive in your ROI?
+Executive buy-in is essential. But as another attendee warned, you may have to puncture some RPA hype balloons if you want to manage board-level expectations:
+There’s a ton of hype in the marketplace around this, and it’s not as easy as everyone thinks it is. I think a lot of executive leadership is like, “You know, my buddy over there put in bots in three weeks and got $10 million.” So I think with managing stakeholder expectations is key… The biggest lesson I’ve had is managing the expectations from the board, ’cause they thought we were gonna get immediate ROI.
+Not every attendee could speak to the types of automation benefits we heard from keynoter Tony Saldanha of Procter & Gamble. But from the breakout sessions, I heard two encouraging things:
+
+This wasn’t about job displacement (though RPA does require vigorous cultural change management).
+ROI for RPA is almost always more than just an efficiency/cost savings play. The RPA benefits cited range from improved auditing and compliance, reduction of mind-numbing paperwork, improvement in job satisfaction, process automation/optimization, and, last but not least, laying the groundwork for “intelligent automation” via machine learning.
+Potent use cases included fraud detection and automating charge backs that were being left on the table (“It’s eight bots that work tirelessly to get through all of our transactions that would otherwise take at least thirty people.”). Another spoke of “automating insights” via a chat bot that could quickly generate custom reports for financial analysts.
+
+16 hard-won RPA project lessons
+The lessons shared by RPA breakout groups hit on all these points. They also addressed the role of IT and business experts, and, most importantly, the need to plan for scale – particularly by organizing an RPA center of excellence (COE). Here’s a list of the standout peer advisory:
+
+Get IT involved early. That means security, infrastructure and change control – how would you structure  for hundreds of bots, not just two or three?
+Keep IT involved throughout the project, and set up an RPA COE.
+Don’t think of RPA as a tech implementation; it’s another capability to solve business problems.
+It’s not the tech that’s hard. The hard parts are things that might be missing, such as good process maps.
+Always prepare for the robot to die, when it’s no longer useful or available.
+Your business owners/users are a key part of the project scope – manage their time and availability carefully to avoid over-extending them.
+Automation should start with the process pain points. Whether it’s a fully automated or an RDA doesn’t matter – what matters is that you address a pain point.
+Keep your first RPA business case moderate. If it’s too high, and you’re chasing to justify your numbers, you may miss out on opportunities, like creating a bigger ecosystem of intelligent automation for the future.
+Choose your POC (proof of concept) wisely; you need return and future buy in.
+Don’t go for the most complex use case first, and don’t go for an end-to-end process out of the gate.
+Find the right balance of scale and investments.
+Manage the hype – it’s not as easy as you think.
+Poorly-planned security policies can cause months of delay.
+“Don’t confuse screen scraping with robotic desktop automation”
+“Intelligent automation is about – focusing on the UX, on the outcome, on the problem you are trying to solve.” Start with a data problem or bottleneck.
+Create metrics that will accurately measure the specific bot you are building. What metrics are you trying to improve? Example: if it’s a customer service/bot, reducing resolution time might be a key metric.
+
+The wrap – how do you inspire RPA teams to evolve?
+Even if you aren’t reducing headcount with RPA, you’re going to encounter resistance. And it’s not just the humans you need to account for. As one attendee put it:
+How do you manage change? It’s very easy to put robots inside, but if your business processes are changing rapidly, how do you get your robots to change with the business process? That’s a big challenge.
+As one panelist put it, the “automation is taking jobs” hype went too far. Not many want these jobs:
+If anybody really wants to do this kind of work, that says a lot about them. Very few people want to do it. One of the things that we’ve seen in our organization, whether it’s our own labor or the labor of our partner organization, is: who wants to come in and match stuff on invoices all day long? I think the reality is that was a [news] headline that created a lot of drama and emotion.
+Another attendee said millennials actually thanked them for pulling the drudgery out of their jobs:
+In our service centers, where we have a substantially larger proportional of millennials compared to some of our other locations, they’re universally thanking us, saying that’s sh!t work. I didn’t want to do that anyway, so thank you for bringing in the automation, bringing in the robot to do that for me.
+But even if the net result is better jobs and better use of talent, change is hard. One panelist referred to the “culturally tricky” aspect of reframing the jobs of middle managers:
+It’s getting them to think about their role and their contribution to the firm in a different way. But, culturally, that is something that is quite tricky.
+Several attendees said that partnering with HR on skills retraining and career mapping pays off. Another said the key is giving people a well-timed nudge into their futures:
+It’s difficult for a lot of those folks to see what the future looks like. What are the capabilities that your teams have? How do they make the move? What are the things that are actually going to make them relevant in the future? You’ve got to give them a little bit of a nudge. I mean, we’ve all talked about big data and being able to do analytics. We can’t find enough of those people in our organizations – and I believe we have those people in some of the jobs that are doing something mundane.
+No, not everyone will respond, but the keepers will:
+Now, is everybody going to be able to make the jump? Probably not. But, how do we start to paint that picture so people can take ownership of their career?
+As more RPA practitioners bring machine learning into play, I expect to hear a different twist on all this.  I wrote about that in my other HfS FORA roundup, “Don’t do an ML science experiment” – Mike Salvino on machine learning misconceptions, and what to do about them.
+Image credit - Confident boy demonstrating his knowledge in robotics © dtvphoto - Fotolia.comDisclosure - HfS Research provided me with complimentary access to HfS FORA New York City.Read more on: Digital skills and trainingDigital transformation - frictionless enterpriseIoT robotics and AIMachine intelligence and AIRoboticsThe new professional and IT as a service 

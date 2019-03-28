@@ -1,0 +1,69 @@
+
+
+Lead story – A CxO’s practical guide to surviving the as-a-service revolution by Phil Wainewright
+
+myPOV: In this buckle-your-seat-belts guide to aspiring CxOs everywhere, Phil breaks down the as-a-service revolution into a (concise) field guide. Wisely avoiding the overuse of the “XaaS” buzzword, Phil lays out three fundamental shifts:
+
+Always-on connectivity and smart automation is making it possible to deliver services alongside products.
+Greater sophistication and flexibility in business systems makes it easier to deliver contract-based services with pay-as-you-go and subscription billing.
+New digital-native enterprises have shown how it’s possible to deliver solutions to customers over the Internet, on demand, as a service.
+
+It’s the overlap between these shifts where things get interesting. Phil warns against a superficial view (example: a shift to subscription service is not just a financial change. It’s a huge twist in how to serve customers – and what they expect to receive). Something must be changing if a professor can get away with calling themselves a “servitization expert.”
+We’re looking for your input on these themes – do comment on the post, or if you are so inclined, add your thoughts to the lovely #XaaS Twitter hashtag.
+Diginomica picks – my top three stories on diginomica this week
+
+Move over millennials. How to attract Generation Z talent to the tech industry –
+Just when we were getting a handle on millennials and their absurd precious unrealistic wise desire to derive a shred of existential meaning from their work, now we get the Generation Zs. When I think “Zs” I think catching some Zs, but as Madeline reports, Generation Z has other things on their minds. They will move into tech careers that are more about creativity and curiosity than math and coding. Apprenticeships and recruiting women in tech round out this Gen Z mix.
+Modernising voter registration via joined up services and shared data – Before U.S. readers get happy, this piece by Derek is about the UK – but we can learn, and envy at least.
+Procurement myopia – digital buyers must focus on business need, not cost – Chris slices and dices a fresh report on why “traditional procurement focus needs to shift away from cost-cutting to business value.” If our time sucks dealing with procurement offices are any indication, this can’t come soon enough.
+Campbell Soup Company rolls out its recipe for an e-commerce future – Didn’t expect to hear about a 148 year old soup company’s digital forays, didja? But as the Campbell’s CEO says, “It happened in entertainment, it happened in apparel and now it’s happening in food.” Stuart’s got the story.
+
+Vendor analysis, diginomica style. Here’s my top choices from our vendor coverage:
+
+Sage acquires Intacct for $850 million – everyone’s a winner – No summer vaca in the cloud ERP world eh? I guess this solves Intacct’s IPO question. Den’s got the rundown: “For its part, Sage gets a solid infill acquisition that sits between SageLive and X3 and can now legitimately claim to offer ‘the only cloud based financial management solution you will need from startup to enterprise.’ How well that carries as a message remains to be seen.”
+Office365 tips the balance over on-prem for Microsoft’s cloud ambitions – The bigger Microsoft news for most of us was dropping Paint. But I guess Office365 is a tad more important in the long run. Stuart filed the story: “There’s still a way to go for Azure to be generating the same kind of customer enthusiasm and third party ISV support as Amazon, but it’s undeniable that there’s cloud transition progress being made at a rapid rate of knots at Microsoft.“
+
+A couple more vendor picks, without the quotage:
+
+The Nottingham drafts plans to build ‘perfect hybrid model’ with Salesforce – Jessica
+SAP Q2 FY2017 – smooth and relaxed – Den
+
+Jon’s grab bag – Barb wants us to focus our content marketing, but not to the point of tunnel vision. This ties into the changing needs of the B2B buyer, and how we are failing them (self-flog). Cath continues her Technology for Social Good series, this time with Cisco’s disaster response efforts. – and why Cisco puts $3.5 million per year into a dedicated disaster relief team.
+Derek assesses a predictable – but not unimportant – Brexit outcome in Brexit report – Controlled immigration likely to mean automation investment in UK. Derek: “Years of access to skilled labour in the EU has resulted in a lack of investment in STEM skills in the UK” – and the dominos fall from there.
+Den examines a sad/typical decline in customer experience in favor of cost efficiencies, this time at British Airways. Yeah, it comes down to a leadership deficit. Finally, special bonus points to Stuart for working Eurocrat-in-charge into a headline. We could use an American slang equivalent.
+Best of the rest
+ Lead story – Why Microservices, not SOA, and why now? –
+by two RedMonk dudes (Governor and O’Grady)
+myPOV: As I’ve learned the last couple weeks, there are still some SOA advocates crying in their beers as their dream of interoperability-via-ironclad- standards gets buried in a sea of washed-up buzzwords. But can microservices be different? And why should companies care? Who better to tackle than the RedMonk founder tag team?
+I won’t go into all the reasons here why microservices are (hopefully) going to be different. It has to do with much better testing, incorporation of agile and open source, and so forth. Governor sums it up well in with:
+Conway’s Law is another reason SOA was so problematical. We had monolithic organisations trying to build distributed software. Today teams are small, they fit around a tapas table, and they invite the product owner to give feedback as they go along, and pay for the wine. (Why now why microservices why not SOA?)
+O’Grady’s piece came first, and he doesn’t throw SOA under the bus. But he points out:
+The most important takeaway from SOA was arguably that developers would play a decisive – and in many cases, deciding – role on what would get used and what would not. (The Difference Between SOA and Microservices Isn’t Size).
+Bingo. The best part of SOA was pushing the need for standards that should make it easier for us to use the tools we want – and not stress in the technical glue factory. Alas, that’s still a work in progress, and as Governor points out, microservices bring their own set of downsides. To the skeptical business user, I would say: it’s about getting the software you need for yourself and your customers faster and better, and pulling your input frequently. A worthy goal, no?
+Other standouts:
+
+Four Takeaways From The Gartner Tech Growth and Innovation Conference – Hank Barnes gives us the high points from a show I was not invited to (that’s ok, I think the attendees did just fine without me). How’s this for a keeper line: “Organizations must be prepared not just to launch new products, but to change the way they operate.”
+How Allstate Unleashes Developer Creativity Globally – A fine use case from The Cloud Foundry, a New Stack sponsor. Now that’s how to write about your customers, not push your brand.
+What the ‘New’ Microsoft Sales Overhaul Will Mean for Customers – A different type of customer-focused post from UpperEdge, with an emphasis on advisory over axe grinding.
+
+Honorable mention
+How Non-Disparagement Clauses Hide Toxic Workplace Culture – The kind of change we’re after won’t happen in toxic cultures. Github is one example cited, but the big story is why we don’t hear more problematic stories (answer: contractual muzzles).
+​Google Glass returns with Enterprise Edition: Why the rebirth, partner approach makes sense  – Most of us enterprise types knew that Google Glass never went away from industrial use cases. Here’s some meat on that bone.
+Managed private cloud stacks trying to find their way in the enterprise – Nice to see a look at this issue that isn’t bogged down in architectural religion.
+Please Prove You’re Not a Robot  – As I said on Twitter, I’m still more concerned about human a-holes, but machines impersonating humans without disclosure is getting tedious.
+Truth and Lies About Cold Calls, Cold Emails, and Advertising  – An inbound marketing wizard re-opens the kimono.
+Whiffs
+I’m not going to call it a whiff that Microsoft is killing of Paint after 32 years, but tell me you don’t reach for Kleenex thinking of all the quick fixes made lowbrow style, when cloud was just weather.
+We haven’t solved cloud integration, but we do know that trying to catch a baseball with beer and nachos doesn’t work – at all. This video of a family that’s kept a bees nest in their living room for twelve years was supposed to show the benefits of such an arrangement – I’m not seeing it. But I can spot a few problems.
+This headline is the gift that keeps on giving:
+
+Elon Musk: Mark Zuckerberg’s understanding of AI is “limited” https://t.co/9YLPmCCeiG -> not gonna lie I’m enjoying this spat
+— Jon Reed (@jonerp) July 25, 2017
+Neither one of these blokes are AI geniuses, but give me Musk spanking Zuckerberg over the knee anyday.
+On a more serious note, re: Wisconsin Tech Company to Implant Microchips in Employees – I guess opting into our own surveillance is worth it – for access to the snack room. I try to steer clear of the political fray in this column, but this whifferama bill – which surely won’t pass – is still a wake up call. Put the issue at hand aside – wherever you stand on it – and let’s say FU to the criminalization of dissent, shall we?
+Finally, this one is almost too epic to call a whiff. Catastrophe might be better. Both Den Howlett and Brian Sommer already nominated this as the whiff of the year: Sweden Accidentally Leaks Personal Details of Nearly All Citizens.
+It’s absolutely in pole position as of July. See you next time.
+This is a truncated “Jon feels the road burn” version of hits and misses, which by definition excludes some worthy content – from diginomica and beyond. If you read an #ensw piece that qualifies, let me know in the comments as Clive always does.
+
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Cloud platforms - infrastructure and architectureDigital transformation - frictionless enterpriseHits and misses 

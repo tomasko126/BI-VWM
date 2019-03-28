@@ -1,0 +1,42 @@
+
+The Demandbase ABM Summit is this week in San Francisco, and I wish I were there hearing about all the ways you can build a successful ABM practice. Because from what I can tell, it’s a long hard road.
+At the conference, Demandbase announced a few new things for its platform: a new integration with Salesforce Pardot (marketing automation) and a new ABM Analytics solution. Both are good things, and I’ll explain why.
+Integration of key marketing systems
+To understand this integration, you first need to know about Conversion Solution (announced earlier this year). Conversion Solution is designed to help marketers turn insights and engagement into Sales actions by providing insights and intent data on accounts to sales. The solution sends this information to Sales/SDR teams through email, Slack, Salesforce and LinkedIn Sales Navigator. These insights are captured on customers not only on your website but across the web and mapped back to Demandbase.
+Now Demandbase has added integration with Salesforce Pardot, a marketing automation system. In the Conversion Solution, you can now see individual contact activity from Pardot within the context of an account. So, in addition to aggregated account activity, you can also see what specific contacts within that account are looking. This additional context gives you even more insights into that account, helping you improve how you engage across Marketing and Sales:
+
+View of Salesforce Pardot Integration in Conversion Solution.
+Along with seeing Pardot contact information in the Conversion Solution, you can also deliver the contact information to Salesforce, as well as email and Slack.
+In a conversation with Chris Golec, CEO of Demandbase, he said the integration gives you more insights into trends and specific interests of accounts, including context you might not know.
+So why is this integration important? I think back to the conversation I had with Scott Brinker on the marketing platform ecosystem:
+Brinker sees different levels of integration. As a basic level, there is a sharing of data back and forth. Ion interactive was an example of this type of integration where ion collected data about customers when they read their interactive content and fed that data into marketing automation systems such as HubSpot and Marketo or CRMs like Salesforce. It’s a good starting point he said.
+Integration between marketing systems is necessary, and nowhere is this more easily understood than with CRM, marketing automation, and ABM. Each solution provides a key piece of the information and capabilities required to engage and win customers (and keep them).
+But in this case, you’re still working on multiple systems. This is the first level of integration and while it is good to see contact insights within the larger account information (I think Act-On provides this on a smaller scale with an ABM module), it will be nice to see the next level of integration where you don’t have to move between systems to do work continually.
+Improving the level of analytics and insights
+Demandbase also announced a new ABM analytics solution. Golec told me that they did a re-platforming of the Demandbase platform last year that enables them to look at accounts and audiences across all their solutions. He said the platforming was very much about connecting different data models.
+They watched customers stitching datasets together to get better insights into how ABM programs were working, trying to look at things like close rates and deal size. It was a manual process, and Demandbase wanted to provide customers a better way to do it.
+ABM Analytics provides the ability to compare two audiences or accounts to see what’s working. For example, you can look at a list of accounts that get served ads, personalization and do sales training against a list of accounts with a different set of functions. Marketers can see differences in pipeline, deal velocity and understand what changes they can make to improve their ABM tactics throughout the funnel.
+Analytics also help justify investment in ABM programs.  You can evaluate the impact of specific programs, and even compare the performance of different vendors (e.g., compare Demandbase ads against another vendor’s ads):
+
+Demandbase analytics screen shot
+So why is this important? Analytics are important plain and simple. The more you can learn about your programs and how they are performing the better chance you have of improving them and finding success. Analytics like this take you beyond basic metrics that don’t help you understand if your accounts are converting at the rate you expect or need. Also, knowing what works for one account can help you define a plan more quickly for other similar accounts.
+Terminus, another ABM solution, recently published a blog post about measuring the effectiveness of ABM programs:
+As B2B marketers ditch leads as their core KPI, the focus has shifted to a new measure of success: account engagement. The clearest way to track account engagement is by measuring how a target account interacts with your webpages, including event sign-up pages, product information, personalized or targeted content hubs, and so on.
+I could list another half dozen assets from other vendors and companies that help you analyze and improve the performance of your ABM programs. The point is, ABM is taking hold in companies, but for it to stay and become a large component of the marketing/sales model it needs to prove its value.
+ABM maturity
+Account-based marketing does seem close to becoming a main component of marketing programs. I asked Golec what he sees with adoption.
+He said there are three big problems companies are trying to address with ABM:
+
+Am I bringing the right accounts to the website? This, he said, is an advertising question and means companies are looking at ABM and its targeted ad capability.
+When they come are they engaging with the right content? This is a personalization question, requiring a focus on personalized, targeted web experiences using ABM.
+Is that engagement turning into sales activity? A conversion question that goes beyond the completion of forms and requires better engagement to understand account interests and trends.
+
+What’s key is to measure what’s going well and what’s not.
+Golec also talked about the state of ABM adoption. He said that three to four years ago, two-thirds of companies doing ABM were high-tech. Now high-tech accounts for about 25%, and he’s seeing many other industries jumping in, like telecommunications and financial services.
+Many of these industries have the same problems, but how they describe them is different. Golec said Demandbase has had to become an expert in these industries to help them solve their problems. To help them gain this expertise, they have been partnering with consultancies that understand these industries well.
+The take away here: yes, there are basic ABM components, but ABM is not a one-size fits all. It requires a deep understanding of your industry, as well as your key accounts and how to engage with them.
+My take
+I like the idea of marketing to accounts and individuals within those accounts and working closely with Sales to do that. And I see much greater buy-in that this is the way to go. But I also had a conversation with someone the other that said everyone is thinking about ABM differently, and that makes it hard to get a company to understand exactly what’s required to put a program like this in place.
+Integration with other key marketing systems helps, but it’s the deeper level of analytics that ABM can bring to accounts that will ultimately prove the importance of this approach.
+As one of my clients said, awareness marketing is good and necessary, but they want to spend more of their budget on bringing in the right leads to generate pipeline and revenues. I’m trying to show them that ABM can help do that. I am getting nods of agreement, but not the complete understanding of what’s required to make it happen. It’s a work in progress.
+Image credit - Highway Signpost "Account-Based Marketing" © mindscanner - Fotolia.com. Screen shots used with permission of Demandbase.Disclosure - Salesforce is a diginomica premier partner. Diginomica has no financial ties with Demandbase. Read more on: Analytics planning and data analysisContent marketingDigital and content marketingProductivity 

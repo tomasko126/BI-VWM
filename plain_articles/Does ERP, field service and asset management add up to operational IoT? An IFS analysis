@@ -1,0 +1,52 @@
+
+IFS CEO Darren Roos at IFS World 2018
+Looking back on the spring conference season, one standout may surprise: IFS World 2018, the IFS user conference in Atlanta. No, it wasn’t a highlight because IFS has it all figured out.
+Like many ERP vendors, IFS is in a state of modernization with plenty to prove. What made it standout then? No, not Atlanta, though I don’t mind ATL. No, not Rick Astley.
+IFS stood out because:
+
+Customers were honest and easy to talk to.
+A leadership transition was handled transparently, instead of over-polished “this is all going smoothly” fakery.
+The questions raised around the future of ERP, “servitization” and how manufacturing customers should adapt in their industries were potent ones – whether you are in the IFS community or not.
+
+Brian Sommer and I taped our usual infamous podcast review from the usual undisclosed location (embedded below, or see Servitization and the push to modern ERP manufacturing – an IFS World review). I wrote up some interesting customer use cases (also below). I also had revealing chats with IFS’ CTO and new CEO Darren Roos. Since the show, those chats have stuck with me.
+Before we go there, the factoids: IFS is a Scandinavian manufacturing ERP company with a midmarket focus and growing North American presence. Their standout verticals include aviation and defense. IFS’ big push is getting customers onto IFS Applications 10, their latest release, which was officially launched at IFS World. Four key process areas stand out for IFS: service and asset management, manufacturing, supply chain and projects.
+CEO Darren Roos, formerly of SAP, joined IFS in March 2018, so he’d been on the job only weeks when IFS World rolled around. I feared he’d be a bit gunshy, but Roos was eager to get into the fray with media/analysts – even getting into an illuminating Twitter beef with Brian Sommer on servitization just a few minutes after his keynote ended.
+1. Can IFS capture the “operational IoT” market? 
+Roos floated a fresh buzzword during our meeting: “operational IoT.” But give him some buzzword hype credit: he was cautious about it. What is he getting at with operational IoT? Roos believes that there is an impact from the convergence of ERP, FSM (Field Service Management), and EAM (Enterprise Asset Management). As Roos told me:
+I don’t know what to call it, whether it’s operational IoT or something else. It’s got to be something that is really relevant.
+It’s about connecting an end-to-end process – a new end-to-end that pulls in key pieces of the ERP/FSM/EAM mix. That means a much more seamless integration than ERP customers are used to:
+I think that’s really the differentiator for us, is that our EAM, and our FSM, and ERP, we’ve done a load of work prior to me getting here, on stitching them together already.
+Roos’ conversations with IFS customers convinced him:
+I think there really is value there. They have this demand. They have this need. Think about, like I said, in oil and gas. That whole shutdown and turnaround process on oil rigs is a huge pain point for them, and there isn’t a solution out there at the moment. You’ve got to believe that we have the right ingredients for that.
+With those pieces in place, predictive maintenance is a no-brainer:
+I think it’s inherent, once you have that loop and you understand where the devices are; you’ve got the sensors in; you’ve got the EAM plugged in; you’ve got the ability to get out there and service those devices; you’ve got the insight from your ERP. When all of it’s connected, then predictive maintenance becomes complete… It’s just turning that insight into action.
+At the time of our chat, Roos hadn’t decided if this push should be branded as Operational IoT, or branded down a level, for example, as “Shutdown and turnaround for oil and gas.” The answer, in my view: don’t go with the buzzword. Go with what touches a chord with your customers. The future of ERP is vertical. If you have vertical assets via a blend of EAM and field service, you double down on that until customers can work across apps as needed – without even realizing they are crossing apps to do so.
+2. Can IFS energize its partner community? 
+Two more components to delivering modern ERP are all about partners:
+
+Great implementation partners are needed to ensure customer fulfillment well beyond go-live, as we move into subscription-based software. Those partners might not be household names, but they need to get your industry.
+ISVs are needed to extend functionality via platforms and build out new micro-verticals.
+
+IFS has work ahead on both counts. On the first bullet point, Roos vows to change it. As he told me at IFS World:
+I had a partner in here yesterday. It was quite emotional, actually. They’ve been doing IFS work for a long time. For some or other reason, somebody decided they didn’t like them. They have 160 people in the company, 60 of which are IFS resources, and we would not partner with them. They were a “rogue partner,” I think was the terminology that’s used.
+He came to me last night and he said, “You know, we left the meeting with you today and we had a bit of a huddle. We said, ‘We’re not going to tell anyone because we actually can’t believe that this has finally happened for us. We’re so excited about it.'”
+Roos believes he can turn this situation around quickly:
+The reality is that if you have a partner and they’re engaged, and you can regulate them, and you can engage with them, that’s got to be better than them going off and doing the work without being a partner… We have a load of partners like them that I think are just dying to spread their wings.
+And yes, that includes big consulting names that could extend IFS’ reach in the U.S. and beyond. On the ISV front, opening up the platform hasn’t been a priority. But based on my talk with IFS CTO Dan Matthews, the platform is ready to be exposed and shared to partners, via an “extension layer” that allows a partner to add onto the IFS apps with the same architectural and design principles.
+Matthews and his team are long-time agile proponents. You might not expect that given that IFS’ roots are in on-premise ERP software delivery, not exactly an agile deployment method. But Matthews told me that their internal continuous delivery mantra changed their relationships, via better customer support:
+Although the number of customers has been growing, and the number of releases in the market has been growing, support hours have gone down dramatically since we rolled out the agile development for support.
+By “dramatically,” Matthews means more than 75 percent.
+3. Is “servitization” the right trend to hitch your wagon to?
+At IFS, we heard a lot about the impact of servitization, as in: the imperative for customers to pursue as-a-service business models before they are disrupted by someone that does. In the simplest terms, servitization means that the real revenue opportunities come after you ship something. That turns business models based on price of goods on their heads (e.g. give away the product, charge for the service).
+Servitization is a sexy topic for the keynote stage, but it is the right play? I got into that with Brian Sommer in our IFS show review podcast, where he reflected on his Twitter debate with Roos. Sommer gets a bit grouchy when it comes to servitization. As he said on the podcast:
+If you make things like plastic trim parts for the inside of a car interior, you probably will never put a sensor on that, and track the life of that piece of trim molding for the rest of its useful life. What I discovered is that a huge number of manufacturers actually care more about industry 4.0 and IoT, with regard to how it impacts their internal manufacturing operation, stuff that goes on within the four wall of the company. Not what’s going to happen externally, which is where all the buzz is right now.
+In our more recent podcast on FinancialForce, Sommer elaborated on his servitization views, acknowledging that legacy ERP products don’t offer capabilities for servitization. So if you want to modernize your business model with, say, power generation as a service, your software (and its data model) can’t keep up.
+Reading Sommer’s tea leaves, I believe he is saying that the capability of modernizing your business model within your ERP software does matter. But servitization is a theme that can be – and is – over-flogged. (For more on how we view these trends, check our XaaS effect dbook).
+Final thoughts
+IFS has a midmarket focus, but Roos made it clear he intends to pursue customers in the higher end of that market. For net new customers, IFS offers deployment options on the Azure cloud, including a “SaaS” and managed cloud model (existing customers can move to these options also). The question is: how do you manage an ERP customer base when you are bogged down in updating functionality across multiple on-premise releases?
+Though some of IFS’ technical leadership told me they didn’t see this version maintenance as a resource constraint and growth impediment, I sure do. I believe Roos agrees with me, which presents some classic challenges with how you incent customers to move – without the negative fallout of a forced march.
+Roos struck me as determined to make aggressive changes even if it means upsetting some political apple carts internally. I asked him if pending changes would make an article like this one quickly irrelevant. He said no, because the changes he envisions are less about strategy and more about execution on the regional level. On July 2, IFS announced the completion of their new senior leadership team with a new CCO, and a regional president for APJ/ME & A.
+I give Roos credit for a frank dialogue – not every CEO welcomes the kind of back-and-forth he invited. Where that leads from here, time will tell. But: IFS is grappling with the right questions.
+
+You can also download the IFS podcast or get my Busting the Omnichannel podcast series on iTunes.
+Image credit - Photo of Roos at IFS World by Jon Reed. Disclosure - IFS paid the bulk of my travel expenses to attend IFS World 2018. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureInternet of Things 

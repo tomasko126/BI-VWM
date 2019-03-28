@@ -1,0 +1,50 @@
+
+Jason Blessing – CEO Plex
+It is rare, nay unknown, for the CEO of a software business to keynote a customer conference on the last two days of a quarter but that’s exactly what Jason Blessing, CEO Plex did yesterday at PowerPlex 2015. That spells confidence to me as it should for a cloud manufacturing ERP business that is growing revenue in high double digits and which has a rolling pipeline in triple digits. Note – I am not permitted to publicly reveal exact numbers at this time but they are impressive.
+Impressed? I am and especially for a company that has been around a while and which is heading in the direction of $100 million plus in revenue. So what’s bringing this on?
+It’s about investing in growth at the right time. In our analyst sessi0n, Blessing said that the current growth is something the company should have been achieving years back but in reality has only been possible since the company took on investment for growth as noted by Brian Sommer:
+In June 2014, Plex closed a Series B capital financing round that netted the company approximately $50 million (USD). According to one source, this money is to be used for additional sales and marketing expansion. This capital financing was led by major Wall Street firm, T Rowe Price.
+The success of Blessing’s strategy could not have been more clearly laid out. When I asked about deal flow given the company has increased average deal size some 65% since 2013, Blessing said:
+Up to 2013, the company had done three seven figure deals. Now I am seeing one or two per quarter with some deals having a two in front of them.
+I can confirm that’s the trajectory among its largest customers along with continued investment in new capabilities that support non-US territories. In short, Plex is chasing much larger customers but without leaving its traditional mid-sized customers behind.
+Modernizing everywhere
+More to the point, the company is modernizing many important parts of its offering including analytics, integration with third parties and building out an all important development platform for add-ons.
+In the context of analytics, quote of the day goes to Jerry Foster CTO Plex. Foster is one of those natural presenters who can alway bring a smile to the audience and this one was a classic. Talking about a particularly troublesome report, he said:
+It took longer to run than it takes Dolly Parton to remove her makeup. Yeah – it timed out.
+OK-  we were in Nashville so you gotta give him that one.
+It was that kind of growth related issue that forced Plex to embark on an ambitious plan to inject some oomph into the reporting architecture. Reporting times are now down to acceptable levels and that has been achieved by Plex combining the analytic benefits of a star schema analysis architecture with the lightning performance you get from an in-memory column store. This is leading to upsell deals. See image below:
+
+Developers
+On integration and platform, the company is shifting from its SOAP based methods to REST in order to make integrations much simpler than they were in the past. Technology experts will argue about the veracity of this approach but there is no getting away from what this means for developers and which was cleverly summed up in one slide the company put up during the keynote:
+REST v SOAP – the startling difference at Plex
+In later conversations with some large customers, I asked if they saw this as a big deal and all said ‘yes.’ REST interfaces opens up Plex to the opportunity to capture the hearts and minds of a much larger development community than exists today.  Bolstering that comes in the form of several tools such as a developer portal in the works for Q1/2 2016 availability that includes:
+
+Reference Guide -REST & SOAP
+Request and Response samples
+Template Code (C#, Java, Ruby on Rails, PHP, etc).
+API Authentication (token based service)
+Plex Community connection
+Twitter-like experience
+
+Business should take notice of this because emerging practices suggest that line of business requirements and IT are coming closer together in the Plex world. I’m not sure Plex fully grasps what is in front of it on the developer front. So far, it has concentrated upon encouraging its customers to forge ahead with customizations. My sense is that the world of manufacturing, with its deep experience of sensor technology could use a short in the arm from developers who share an interest in this aspect of technology and especially in the world of wearables – another hot spot for Plex.
+There is one caveat. As we talked about Plex’s work with Google Glass, I asked the extent to which Plex is concerned with Google’s history of killing off perfectly good technology. In other words, does Plex believe that Google is serious about Glass? Alex executives came back assuring us that it Google is very serious about Glass as an industrial let product. Put more bluntly by Jim Shepherd, Plex’s chief strategist and a clear swipe at those of us who are headline grabbers:
+We’re approaching wearables to solve real world problems, not to be a headline in a newspaper. There are plenty of alternatives to Glass if we need them.
+That’s telling me!
+On the UI/UX front, Plex has brought a much needed facelift to the company’s offerings with PlexUX. I liked what I saw in the dashboards that now have a much more modern look and feel, are cleaner and guide the user to where they need to be through the use of common design patterns and a consistency that was absent in the past.
+The new Plex dashboard
+Partners
+Finally, we discussed partnerships. Blessing said the company is implementing Workday which is now also a technology partner. If that sounds strange given that Workday focuses on people centric businesses then you only have to look at Flextronics, one of Workday’s oldest customers and Inteva one of Plex’s largest (and shared with Workday) to realize that the trajectory is clear.
+
+Plex is cementing its position as a cloud based manufacturing ERP vendor that can scale to large enterprises with many products and thousands of employees. At the same time, it recognizes the limitations of some parts of its portfolio – HR, CRM and CPM for those larger customers. It is mimicking what we have seen in other market segments. Where the landscape has most certainly been one of SAP/Oracle, Workday and Salesforce, we can now add Plex into the mix for those companies that want to bet upon an all cloud approach to business applications.
+While some might scoff – and in this context I am thinking about a Tweet I saw from an SAP colleague who said: [Plex]…what do they do? – I am equally mindful that Plex is demonstrating a maturity of thinking coupled with a smart approach to innovation that just makes sense. It doesn’t feel like ‘me too’ because the depth of baseline functionality is solid enough to take it into plenty of deals.
+My take – and a caution
+
+I mostly liked what I saw and informal follow ups with customers suggest they did too. I will look at this in more detail when I meet with customers for video shoots later today.
+There is one nit. Plex, like Workday, focuses on US based businesses. Plex only hits a small number of manufacturing segments. While it says there is plenty of room for growth, we should not forget that it is riding the wave of a resurgent economy. It also needs to flesh out ‘legs and regs’ for non-US territories and especially the EU where random changes can have a big impact in reporting. Recent changes in that area will help but they won’t be everything that customers need. Local reporting will be a challenge for a company that is hesitant to create an overseas presence but which is trying to go into markets where it will inevitably come up against increased demand for customizations.
+In that context, it needs to nurture and continue to grow its customer community. I met with some of those community advocates and it is clear there is a strong sense of goodwill. While community members come up against the usual denial fueled gut reactions of a developer organization when feature requests are made, the vibe I get is that Plex listens closely to that community and especially to its strongest advocates. That’s easy with a relatively small set of customers. The challenges will come when new customers come up against limitations in the Plex system that need ironing out.
+
+Bonus points – here’s a video I shot with Frank Scavo who represents a diginomica affiliate partner:
+
+Disclosure: Plex is a premier partner at time of writing and met most of my T&E to attend PowerPlex and provided some video shoot capabilities.
+Image credits: Deck shots via Plex, all others by the author.
+Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architecture 

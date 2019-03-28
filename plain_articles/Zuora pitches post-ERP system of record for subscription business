@@ -1,0 +1,41 @@
+
+
+At its annual Subscribed event in San Francisco today, subscription business management vendor Zuora has unveiled a completely re-architected platform, designed to appeal to the growing number of enterprises adopting new recurring revenue business models. At the same time, it is broadening its product portfolio with a new collections application, as well as a revenue recognition management tool based on its recent acquisition of Leeyo.
+Citing customers such as heavy equipment maker Caterpillar, motor giant Ford, industrial systems maker GE Digital and security software vendor Symantec, Zuora argues that enterprises are moving to recurring revenue business models as part of a shift to what it calls the subscription economy. In this new business paradigm, enterprises build relationships with their customers over time, and instead of shipping products from a catalog, they develop ongoing service relationships in which customers pay recurring fees based on value delivered.
+These relationships require more flexible and dynamic functionality than traditional ERP and CRM packages are able to provide, says Zuora. The company therefore positions its revamped product line as a “post-ERP” system of record for such businesses. According to SVP of Product Tom Krackeler, who pre-briefed diginomica on the news:
+Our customers see us as a critical and necessary component in their enterprise architecture. CRM is where the sales information is, ERP is where the financials are. Zuora is where the business model is and it owns the customer relationship.
+Order-to-cash hub
+The new platform, called Zuora Central, acts as “the hub for the order-to-cash ecosystem,” Krackeler explains, ensuring that as the business adjusts dynamically to market conditions, changing customer needs, and individual subscriber demands, everything is interpreted and tracked accurately.
+Zuora has re-engineered its core technology to separate the underlying transaction logic from the business processes that make up the applications. This means that any application can call on the underlying capabilities within the Zuora Central platform, says Krackeler.
+We use the term engine. It’s really the heavy lifting and processing that all this depends on. These are things that historically were part of [the] Zuora [application]. What’s important is that we’ve now abstracted them into microservice based components.
+There are now five separate Zuora applications that run on top of the platform, along with a hundred third-party applications in the vendor’s application marketplace. The five Zuora apps are:
+
+Billing — this handles subscription billing and is the latest version of Zuora’s core product, refactored to run on the new Zuora Central platform.
+CPQ — a configure-price-quote application built entirely for subscription-based businesses.
+RevPro — the recently acquired revenue recognition automation tool, giving Zuora the firepower to handle new rev-rec rules that will soon come into force. Krackeler says:
+
+We really see this as the Y2K problem of 2018-2019. That is a ticking timebomb of new rules on how to recognize revenue that are completely complicated by the modern subscription business model.
+
+Insights — analytics that provide advanced subscription metrics such as average cost per account, churn rates and so on, as well as the ability to provide predictive insights, for example identifying customers that look likely to churn, or others that may be ready to upgrade to new features.
+Collect — announced today, this new product adds a collections capability to manage settlement of invoices. Krackeler explains:
+
+Subscription business models greatly increase the velocity and volume of invoices and payments and also greatly expand the kinds of payment methods. We’re trying to solve this problem anew for a multi-channel recurring revenue world, which is very different from legacy ERP collection models.
+Underlying platform
+All of these applications can call on functionality from the six core components that make up the underlying Zuora Central platform:
+
+Subscription Orders Engine manages multi-year and multi-subscription changes over the lifecycle of a subscriber and automatically calculates key bookings metrics.
+Rating Engine allows real-time monetization of any customer event such as usage or consumption.
+Subscription Accounting Engine translates revenue and accounts receivable transactions into subledger entries needed to close the books faster.
+Subscription Metrics Engine computes and visualizes key subscription metrics in real-time like Monthly Recurring Revenue, Net Retention, Average Revenue Per Account, Days Sales Outstanding, and Churn Rate in a centralized dashboard.
+Pricing Engine provides a central place to design any type of monetization model which then syncs instantly with other systems such as CRM, CPQ, and webstores.
+Global Payments Engine captures multiple, global payment methods across more than 30 gateways to maximize recurring cash collections at scale.
+
+Today’s introduction of the re-architected platform and applications marks the culmination of a two-year process, says Krackeler:
+This is something that has been in process for the past two years. We are transforming ourselves from what we historically were — which was a subscription billing product — into a subscription order-to-cash platform.
+We’re pulling billing out of the platform and running it on top of the platform, and we feel we can run the best enterprise order-to-cash platform for subscription businesses.
+A further side-effect of this architecture transformation is that the various components can be hosted and delivered via the public cloud on Amazon Web Services. Zuora is retaining its own data center in the US, but as it expands into other geographies, it plans to use AWS, with the first regional data center opening in Europe next month.
+My take
+This is a big move for Zuora, transitioning to a new, microservices-based architecture that allows it to operate as a platform supporting not only an expanding roster of its own core applications but also a growing ecosystem of partners.
+On the back of this move, it’s making a pitch to take over from ERP to become the primary ‘system of record’ for subscription businesses. Note that it’s not attempting to replace ERP, either as a system of record for finance, or as the core of a traditional product business. Instead, it’s saying that ERP can’t deliver the capabilities that subscription businesses need.
+While it’s not the only vendor that’s offering these kinds of capabilities, Zuora does have a track record of being able to support fast-moving subscription businesses at scale. This new platform extends those capabilities and certainly keeps it at the forefront of this expanding market.
+Image credit - via ZuoraDisclosure - GE Digital business unit ServiceMax is a diginomica premier partner at time of writing. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architecture 

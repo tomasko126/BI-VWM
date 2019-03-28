@@ -1,0 +1,58 @@
+
+CenterEdge’s Cutter (left) and Burnett (right)
+A few years ago, Brant Burnett of CenterEdge Software had the experience all software developers dread: the load spike meltdown. It was a worst case Black Friday for the CenterEdge IT Team. Dan Cutter, Director of Software Development (who had not yet joined CenterEdge) tells the tale:
+We had a bunch of SQL Servers up in the cloud serving up the web stores. That basically melted on a Black Friday. This is a standard end-of-the-world retail scenario, where all of a sudden, you’ve got a hundred thousand customers hitting a hundred different web stores and – it went poof.
+“It went sideways,” Burnett added. Right then, he knew it was time for a change. At Couchbase Live 2015 in New York City, Burnett and Cutter told me about their journey to cloud-based delivery, and how NoSQL fits in. For CenterEdge, NoSQL means more than solving load spikes. It means a chance to transform their business.
+Black Friday assessment: “We needed a cloud migration”
+Back in 2012, prior to Cutter’s arrival, Burnett and the rest of the CenterEdge team assessed the Black Friday meltdown. One big decision: they needed a cloud migration. Burnett:
+That’s what prompted our move into the cloud. We were seeing load spikes our system just couldn’t handle.
+For CenterEdge, supporting customers means handling big traffic surges. Billing itself as “Comprehensive POS Products for the Amusement, Entertainment, and FEC Industries,” CenterEdge provides full facility management solutions to 500 global customers in the entertainment industry, including trampoline parks, skating rinks, water parks, and music parks. That means handling their customers’ point of sale systems, as well as all their online ticket sales. 500 customers adds up to a huge web audience. Cutter:
+When we sell a solution to the amusement parks, and they have 100,000 customers, then they become our e-commerce customers. That’s how this thing scaled up. 500 customers doesn’t sound like a lot, but five million, fifty million — now you’re starting to talk about the volumes that we’re seeing.
+The first step? Addressing the load spikes that caused the Black Friday meltdown. That’s how Burnett and his team got their first experience with Couchbase. They used Couchbase Server 1.8 as a cache to improve read times:
+We would just read the results out of our SQL database, and cache them in Couchbase. Then the next time, we’d be able to get it out of Couchbase without having to go through the extra overhead of reading in and out of SQL again.
+It wasn’t an elaborate fix, but it addressed the spiking problem. Next up? Burnett’s team used the persistent storage in Couchbase for web shopping carts, a notoriously high I/O activity. “That had to be persistent, so we moved the shopping carts out of SQL, and that increased performance even further.” But this was more of an interim solution, as the Couchbase cluster was still persisting requests across thirty SQL servers.
+Competitive pressures intensify
+As Burnett’s team got a taste of what NoSQL could do, competitive pressures intensified. CenterEdge started running into a cloud-based competitor during sales cycles. That competitor had inferior functionality, but it was cloud-based – and prospects were interested. CenterEdge customers relayed similar feedback: they were looking for an easy-to-access, integrated view across their facilities, better analytics, and other features that were difficult to achieve on the existing CenterEdge solution. Burnett:
+We knew that we needed to re-architect and move to something that didn’t involve SQL at all. The vertical scaling of SQL is just very limiting.
+As technical and business pressures converged, it was time for a new IT hire. Enter Cutter. Burnett and Cutter still remember Cutter’s unusual job interview. During the interview, Burnett got out a white board, and the two of them sketched out a future cloud architecture. The whole thing would run on NoSQL. They spent two hours charting how they would move the rest of the web infrastructure to Amazon. Cutter: “What we came up with on that white board – that’s what we’re implementing today.”
+Upping the ante with NoSQL
+Cutter came on board in July 2014, and took up the NoSQL charge. Even though Couchbase was already in the technical mix, they weren’t a shoo-in for the new project. Cutter led the team through a thorough evaluation of their NoSQL options, including performance testing: “We did our proof of concepts, and Couchbase came up on top.”
+Cutter’s team was testing on Couchbase Server 2.0, but 3.0 was on the horizon:
+When we ran those same numbers on 3.0, the performance was an order of magnitude faster. We thought, ‘OK, Couchbase is winning the race. We see where Couchbase is going and how they do business, and we like that as well.’
+The CenterEdge cloud redesign has two major components:
+
+Provide their 500 customers with a revamped customer portal with enhanced analytics across all facilities.
+Move all customer storefronts onto NoSQL for all online transactions.
+
+Handling the SQL to NoSQL skills transition
+Skills were a key issue: how would CenterEdge’s SQL developers shift to NoSQL? Cutter says it was tricky at first:
+We had to watch them. They would drift out in the deep water every now and then. We’d have to drag them back. They had to learn how you structure your documents, how you implement your views, when it’s a good time for a view, when it’s not a good time for a view.
+Over time, practices solidified:
+Eventually we found that sweet spot where we established our policies. We wrote some pretty solid base classes that we’d derive all of our documents from. Then we were able to get out in the deep water together and swim… A good developer loves learning new stuff. It was big data, it was cloud, and it was greenfield – we sold it to them.
+CenterEdge was a beta customer for Couchbase Server 4.0. When 4.0 was announced last week, CenterEdge had already gone live. With 4.0’s SQL-like N1QL language, Burnett and Cutter see easier days ahead for their SQL developers. They can extend the system to their operations team. Cutter:
+Couchbase gave us an “easy” button… We knew this was going to help us with our operations department… I wouldn’t say that they’re fluent in SQL, but they’re quite capable of writing SQL queries to do research, and N1QL is so similar to SQL. It was just an easy transition for them.
+Giving customers an analytics edge
+Cutter’s team is gradually bringing their 500 customers live on their new portal. The new portal enables franchisees with multiple amusement parks to do analytics across all their sites for the first time. Sales dashboards let executives slice and dice data between sites. For the new portal, CenterEdge pulled in data from Yahoo Finance, allowing customers to do currency conversions and assess trends in the same currency. Cutter:
+Couchbase is allowing us to ingest all of these heterogeneous data types and have all of the currency mappings in place. Then we put that through a finance engine, aggregate them all together, and pop it up on a dashboard in 100 milliseconds. It’s a very fast, amazing user interface. And it works great on mobile.
+As of this writing, five percent of customers are on the new portal, with more on the way. Early feedback has been excellent, with customers lauding the data transparency. One customer told Cutter, “Tools like this can accelerate our international penetration.” By the end of the year, CenterEdge plans to have their one hundred percent of their three largest franchise groups live on the new portal.
+But it doesn’t stop there: CenterEdge is now in the process of completely replacing all of their web stores with a new web store system that runs on Couchbase, with no SQL Server. That will replace the Couchbase replicate-and-cache system CenterEdge put in after Black Friday. Burnett:
+Now we’re replicating all the data into one Couchbase cluster and serving multiple needs, because it can handle the ingestion of the data; it can handle the processing of the data, and it can handle the reusability of the data without us having to silo to get good performance. We’re very excited about that.
+Framing NoSQL in terms the business can understand
+Beyond the technical improvements, Burnett and Cutter are starting to see the business results of a cloud/NoSQL approach. This goes back to their early goals. When they first presented the project to CenterEdge executives, Burnett and Cutter framed it as a business change. Cutter:
+When we gave our first presentation of the new architecture to our stakeholders, it was not technical, it was just showing the app. We sat there, and we talked to them for an hour.
+After they demonstrated the app from a customer perspective, the executives in the room were silent. It was a nervous moment: “I thought, ‘This is it, I’m good. At least I learned NoSQL, because I’m going to have to get another job.” But then one of the executives broke the silence:
+At the end of the presentation, we looked at each other, and our marketing guy said “We are going to make so much money.” It had nothing to do with the technical bits and bytes. It had to do with, “Wow, we’ve got this new platform, and the industry doesn’t have it. We’re jumping on that wave.”
+Call it their secret pact or whatever you want – the tech team knows this newfound business agility is tied to the architecture. Burnett:
+Couchbase has enabled us to do this far more easily than we ever could have, compared to trying to deal with large SQL servers and dividing it up and partitioning data… Unlike SQL Server, as we grow, we just add nodes. We need another node, we’d spin one up. Zero down time.
+The wrap: doubling down on the cloud/NoSQL bet
+Over time, more cost savings will be achieved as SQL database contracts are phased out. As for the rest of 2015, Burnett and Cutter will have their heads down taking customers live. Cutter:
+It’s a bet that CenterEdge has made, and not just on Couchbase, but on cloud technology in general. We were listening to our customers, and the cloud is not something that they want. It’s something that they expect. You can’t choose whether you want to be a cloud provider or not.
+Burnett and Cutter advise customers heading down similar paths to have a close working relationship with your NoSQL vendor, including early access to new releases. Cutter:
+It’s an important relationship for us moving forward, too, because we’re not done. We’re not done, and Couchbase isn’t done.
+Burnett adds: “They are very, very quickly becoming a full SQL replacement.”
+Then Cutter:
+We’ve got a suite of enterprise applications in the cloud that we’re getting ready to roll out over the next 18 months. It’s going to be unlike anything our industry has seen. One of the big pieces of the puzzle is our NoSQL, scalable data cluster.
+Sounds like the guys have their work cut out for them. Interesting times, indeed.
+Image credit: on-site photo by Jon Reed.
+Disclosure: Couchbase covered most of the travel expenses for my attendance at Couchbase Live New York City. Diginomica does not have a financial relationship with Couchbase.
+Read more on: Analytics planning and data analysisUse cases 

@@ -1,0 +1,18 @@
+
+Thirty new HR apps in two years: that’s the delivery target set for Brian Kelly, executive director of human resources IT at financial services company Morgan Stanley.
+Every single app his team delivers, he says, must make a measurable difference in boosting employee engagement at the bank in some way.
+So far, the team is bang on schedule. By the close of 2015, they’ll have delivered half of the apps that Morgan Stanley employees need in order to communicate with the bank’s human resources department, using Salesforce’s Force.com Platform-as-a-Service offering as its development and runtime environment.
+Some are rewrites of existing (but ageing) applications, incorporating new, more modern features and functions. Others are new apps, built from scratch. At Dreamforce, Kelly outlined three examples:
+
+My Elections : This is an app that employee use to ‘elect’ to donate a proportion of their salary and bonuses to charities of their choice. So, for example, an employee might choose to donate 5% of their salary of a specific cash amount from a bonus to the Susan G Komen breast cancer charity, for example.  The app is based on an existing one, but incorporates new functionality, and also helps back-end HR staff in the administrative processes that surround deferred compensation, he explains. Different categories of staff are eligible for different programmes, for example, and enrollment periods vary between individual employees.
+Former Financial Advisor : When a financial advisor retires, they have to sign an attestation that they won’t take Morgan Stanley clients with them. At the same time, they continue to benefit for some time post-retirement from compensation awarded to the bank branch where they previously worked. This Force.com app presents them with that document and allows them to manage various options around compensation.
+Property Pass: Morgan Stanley operates out of many buildings in many cities and employees are sometime required to relocate between buildings and floors. The bank uses Property Pass to keep an auditible trail of the furniture, equipment and decoration that they take with them – from computer monitors to works of art.
+
+Morgan Stanley look-and-feel
+One challenge for the bank has been creating apps that have a Morgan Stanley ‘look-and-feel’ to them, reflecting not just the bank’s branding but also the way that other major apps used at the bank work. This requires the bank to make extensive customisations.
+Take, for example, My Elections, says Kelly:
+It doesn’t look like a Force.com app. This is really important to us. We have some apps that we’re happy to build on Force.com right out of the box – an app might have five or ten users, it’s fine, it works, nobody says a word. But if we’re going to deploy an application to our entire firm of 55,000 people, the applications must go through a very rigorous UX [user experience] analysis.
+We’ve actually employed an entire UX strategy for Force.com and we’re still working on it to make it more repeatable across different apps and make it part of our [development] cadence. But we’ve become pretty good at this. We’re able to write our applications in VisualForce and give our users a very, very good experience.
+Employee engagement is very important to us. If we’re going to be successful with Force.com, we’ve got to build applications that employees are going to want to adopt and use. I want them to be proud of the apps they use in their working lives.
+Disclosure – at time of writing, Salesforce is a premier partner of diginomica. 
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureFintechHCM and the digital future of work 

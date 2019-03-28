@@ -1,0 +1,112 @@
+
+The Municipality of Anchorage payroll project fiasco is a great example of how to guarantee an enterprise software project failure.
+A small band of outspoken implementers and consultants have consistently bemoaned how high profile projects go wrong. It is usually SAP that gets the bad end of these stories but are they responsible, is it the client, consultants, the SIs and other assorted hangers-on?
+The Anchorage payroll project, now in its seventh year and with costs ballooning from a projected $10 million to over $80 million provides a solid example of how to guarantee an enterprise project failure.
+One of the main reasons for picking Anchorage is because there is a long history of local reporting, informed by documents from both Gartner and SAP. The recorded history goes back to 2006 but has its roots in a much earlier project. The signs were always there that this could be a problematic implementation yet the fundamental steps necessary to at least give this project a chance were absent almost from the beginning.
+My sense, having been over all the documents and having asked pointed questions of Jarret Pazahanick, SAP and SuccessFactors Payroll Consultant and my go-to SAP payroll expert, is that everyone has a piece of this. But let’s back up and consider the question of consulting at its most basic.
+Consultant responsibilities
+Most seasoned consultants I know will agree that 80% of what ‘we’ do is tell people the obvious but in a way that would rarely be accepted when it comes from an employee. I discovered that nearly 40 years ago when I was issuing reports at a beleaguered company that detailed unsatisfactory findings that were largely ignored. Eventually, one of the Big 4 came along and said pretty much the same but from that ‘outside/in’ point of view and at 10x my pay grade.
+It’s the 20% that really matters. And here I see failure left and right. But then hindsight is a wonderful thing.
+I’d argue that on the evidence I’ve seen, Anchorage’s insistence on cost-based metrics as the primary consideration for project evaluation was flawed from the get-go. Gartner, which was contracted to run a strategic ERP review, should never have put forward the recommendation that Anchorage go with what was really an upgrade for a system that had enough risks of its own.
+In supporting a cost-based argument, (at least on what I see), Gartner didn’t adequately assess future needs and value. Instead, Gartner did exactly what Anchorage told them it wanted – the 80% and in fairly bland language – instead of considering the bigger picture. Check this from the Gartner report:
+These options were assessed from a cost/benefits perspective using the Gartner Cost Benefits Analysis model. They were also compared to the defined requirements gathered from the interview and consultation process.
+…the results of the Cost Benefit Analyses (CBA) indicate that the New ERP option would be more costly than the upgrade option.
+In its report, Gartner noted the many problems that Anchorage had faced in its previous PeopleSoft implementation and rightly pointed up numerous cases of shadow IT and workarounds.
+What I didn’t see was a root cause analysis. Instead, Gartner pointed to technical deficiencies in the PeopleSoft implementation.
+My sense – and again this is looking back – is that a root cause analysis of problems with the previous implementation would have shown that Anchorage management was hopelessly under-resourced with qualified personnel capable of taking troubled implementations and rebooting them for success.
+Instead, Gartner assumed that management could achieve a good outcome with an ERP refresh, implementing a newer version of PeopleSoft with the option of going to Fusion at some point in the future. The analysis emphasis is on what the vendors can deliver and an assumption that capable third parties would win the day. Only once does change management figure in the equation and appears to have been given virtually no weight.
+As is the case with many technical reports, it is the pros and cons of a specific approach (do nothing, upgrade, re-implement) that are discussed from a cost-benefit perspective only and then dumped into a strategy document that supports a direction the client most likely wants to take anyway.
+Critical thinking to assess the client’s ability to take on what was bound to be a huge undertaking is almost completely absent other than the raising of questions about Anchorage’s ability to manage etc. It never probed those issues – presumably since it was not part of the remit. I see that as a failure to provide what the customer needed rather than what the customer wanted.
+It is a common problem. As a consultant, you go in with a remit and almost always find there are other things going on that will impact what you’re assessing. A good consultant tells the client what he/she finds and urges the client to think more deeply before diving headlong into something that has the kiss of death waiting in the wings.
+In the end, Anchorage ignored Gartner and went for SAP, presumably based on the eventual projected $10 million costing. From what I understand, the chosen contractor was inexperienced with the software and the complexities involved but they came in at a price Anchorage wanted to pay. Except that’s not what happened.
+A troubled timeline
+Over the years, there have been numerous management changes, changes in the political leadership, more reports, more delays and on and on it goes. Here’s a timeline:
+2011
+The SAP project launches with a $10.6 million budget and a 2012 “go-live” date.
+2013
+In April, signs of trouble: Software to automate city government behind schedule; costs are rising
+August: City pushes back software project launch date
+October: City plans $7.5 million in additional spending on software project 
+2014
+In the next year, Anchorage Assembly members started to raise alarm bells.
+August: Municipality of Anchorage again delays launch of software system
+September: Task of fixing troubled software project falls to new Anchorage CFO Kate Giard
+October: Assembly members press for external audit of SAP
+Later that month: Anchorage Assembly approves an external audit of the SAP project 
+2015
+February: Reviews conclude Anchorage’s troubled software upgrade should move ahead
+March: Anchorage IT director and mayoral candidate critical of city data system revamp
+May: City’s troubled SAP project plans move to Sunshine Plaza building downtown
+July: Mayor Ethan Berkowitz takes office, replacing Sullivan.
+August: With tens of millions spent so far, Berkowitz to press ‘pause’ on troubled software project
+October: Anchorage’s troubled SAP project to continue under Berkowitz
+2016
+March: Anchorage hires former IBM executive as SAP project manager
+2017
+March: $40 million spent so far on city software project has had ‘no measurable benefit,’ mayor says
+July: Anchorage Assembly reluctantly gives more money to $81 million software project
+And then after it went live:
+December: Anchorage’s new $80M software system routinely screws up paychecks, unions say
+2018
+June: Host of problems with Anchorage’s payroll system rollout 
+Note: this latest report was published just as I was going to print. It details the impact of issues resulting from poor management, inadequate testing, inadequate training – it’s all there. None of what it contains is a surprise. The only thing that’s not clear is the source of the report which looks like an extract from an SAP QA report.
+Red flags
+When you look through the history, it wasn’t until 2014, some three years in, that the person at that time attempting to bring this project to a conclusion and relatively new in the post made this stark assessment: 
+
+
+She described project management staff are “virtually nonexistent,” and tools to track and follow changes in the process are “totally insufficient.”
+
+
+
+
+Giard also described a “prevalence of fear” among city employees working on the project.
+
+
+
+
+“There’s fear everywhere,” Giard told Assembly members. “And I want you to be aware that fear is devastating for the success of this project.”
+
+
+Earlier, in 2012, an SAP QA report highlighted numerous high-risk issues, many associated with the financials end of the project but also warning about the payroll project and especially the planned Kronos element which, in SAP’s view, required careful analysis and a separate integration project.
+By 2015, SAP was back on the scene with a 17 person QA team who discovered high risks pretty much everywhere in the project.
+Risk areas – Anchorage SAP project
+It is telling that in 2015, SAP sent out a team, none of whom had less than 9 years’ experience and some with up to 30 years experience. Most were very well qualified in this type of public sector project and the specific needs of complex payroll.
+SAP was clear that there were huge gaps:
+SAP QA report 2015
+The latest report mentioned above is the expected outcome of these failings.
+Another problem I see is that the proposed methodology shown in the 2016 SAP Charter document produced by Anchorage is the classic waterfall method.
+While an artifact of its time, it puts users last. The Anchorage project includes highly complex payroll calculations that can lead to real and expensive compensation when things go wrong. It, therefore, makes no sense to go through a highly structured implementation methodology without putting users first.
+Waterfall implementation
+While the headline cost of this project is stated at $81 million, what’s missing from the accounts given is where those funds were allocated. Since the Blueprint phase didn’t end until 2015 and the implementation only went live in late 2017, my guess is that around $30 million went in keeping the old PeopleSoft system alive. If I am correct, then it’s not wholly fair to dump the entire cost burden onto what is consistently described as an ‘SAP project.’
+What does an SAP payroll expert say?
+There are plenty of questions to answer and I went to Jarret Pazahanick with specific questions since he is never shorto fo experience based views on these kinds fo project.
+Why did they ignore Gartner’s initial advice and go with SAP?
+The answer appears to be in here (because SAP SI had a cheaper hourly rate to support).
+SAP Offers the City of Anchorage Alaska 85% Discount on ERP Software
+
+It shows what poor judgment the CIO had and when you combine that decision making with what was an obvious case of a low bid by the SI who had never done an SAP Payroll Project it had failure written all over it from day 1. My understanding was this was an SAP HCM/Payroll and FICO implementation.
+Where was the oversight?
+Good question as blame falls on the City of Anchorage, consulting partners and SAP if you ask me. They brought in a slew of different project managers over the years. Check out the 2015 Q/A report and all the simple project management things that were NOT being done and which add risk to the project.
+Why does this keep happening?
+Wild West partner ecosystem is the number one reason. I would spend 30 mins listening to Steve and my podcast as outlines to the “why”  covering an SAP Payroll project fail (hint, it is not the software)
+What is SAP doing about these kinds of problem?
+Nothing and some of these failures are creeping into the SuccessFactors and cloud world as well due to the same old same old approach to selling the software and assuming/hoping the SI/Partners will get the customer live and happy. They are adding 500 partners a quarter (aka for sales) see below article and with almost 5,000 partners they are not able to effectively manage and sadly customers ultimately pay the price.
+Why hasn’t SAP parachuted its SWAT team into the deal?
+I have repeatedly proposed the SWAT team idea to senior leadership at every analyst event I have attended. The challenge is that SAP/SF Professional services have been the prime on some of these failures (i.e. State of California) so sometimes the SWAT team has to come from outside the organization in my opinion. The other area to wonder is how much does SAP REALLY care about customer success/satisfaction as per my knowledge they do not even survey customers at go-live. Workday, for example, has one at go-live and another six months later which seems like a smart customer-centric approach SAP should adopt.
+Will cloud change the situation?
+It is not the technology but the customers and implementation partners. In theory, it could change if SAP were to better police partners but since SuccessFactors is one of the longest owned and most “mature” cloud property and given that this, for example, is happening it is unlikely
+Is cloud payroll anywhere near fit for purpose?
+Again it is not the technology as SAP Payroll works and SuccessFactors Employee Central Payroll underlying technology is SAP Payroll (that is single tenant hosted by SAP), so it also works. There are rumors that SAP/SF is going to announce a statement of intent to build the next generation truly cloud payroll but these union agreements are very complex and have legally binding pay practices so there will always have to be human involvement to configure the payroll systems to meet customer specific requirements. That said, the type of complex union requirements at the City of Anchorage are no different to the 100’s of other SAP Payroll customers who are already successfully live.
+Final thoughts?
+This whole story reeks of incompetence by the consulting partners, the city of Anchorage and a lack of REAL oversight from SAP. I feel sorry for the taxpayers that will have their hard earned dollars go to support this mess.
+My take
+It is easy to place the burden of responsibility on the client. But, as any consultant worth their salt will tell you, frequent changes in leadership alone will have a demoralizing impact on the project team. That was evident back in 2014.
+The insistence on cost-benefit as instructed to Gartner coupled with an already failing implementation should have been red flags to anyone involved in serious oversight. I may be harsh on Gartner but as the world’s pre-eminent firm of technology analysts, where does their duty to act as a business partner start? So yes, Anchorage needs to shoulder a good chunk of responsibility, and especially in due diligence of the proposed SI following the RFP but it’s far from the whole picture. But Gartner can also be criticized.
+The SIs should be thoroughly ashamed of themselves taking on a project that had little to no chance of success. But again, where was the due diligence, oversight and management?
+SAP? Pazahanick makes the type of case some of us have been making for many years. SAP’s ecosystem of partners is out of control and has been for years. For them, SAP is the fountain of riches over which there is virtually no oversight. That era is coming to an end and when it does, there will be a collective sigh of relief on my side of the table.
+Pazahanick cites Workday practices and I know that company has no hesitation in booting off an errant SI when the occasion demands. SAP doesn’t have the client and partner control necessary to impose that discipline. Perhaps it’s time to rewrite partner contracts.
+SAP hasn’t yet felt the pain of customers refusing to re-up their SaaS deals in any numbers. But if you truly believe that Everything is a Service, then you’d better understand that service in the 21st century has meaning that impacts everything you do as the software vendor. And that especially includes customer success.
+As an example, we are currently looking at collaboration software. By far the most outstanding vendor is the one who answers all our questions within an hour of them being posted. They are the most expensive but I can already measure value.
+Finally, SAP is not the only vendor who is deserving of a slap in the spank tunnel. Every major vendor has skeletons of a similar ilk. But as I said at the top of this story, it is SAP that almost always has the public domain target on its back.
+Technology project management needs to change. Cloud has provided some relief by reducing the number of moving parts but it is not the whole picture. It all starts with business strategy and desired outcomes for ALL stakeholders. Reducing that to a single dimension is asking for trouble.
+Image credit - via various documents received from a variety of sourcesDisclosure - SAP and Workday are premier partners at the time of writing. Read more on: HCM and the digital future of work 

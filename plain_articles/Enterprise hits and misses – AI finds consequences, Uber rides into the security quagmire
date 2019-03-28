@@ -1,0 +1,49 @@
+
+Lead story – AI, deep learning, and unintended consequences – pieces by Kurt Marko and Den Howlett
+
+Yeah, it’s time for a holiday serving of AI, with a heaping side of ethics (eat your vegetables!). In Embedded deep learning: out of the cloud and onto devices, Kurt looks at why Apple’s Face ID marks the second stage of embedded AI.
+Short version: up until now, embedded AI had severe limitations due to technical constraints. Now we’re pushing through those, and it’s time to consider the implications. Kurt’s advisory:
+If your business uses or builds mobile or IoT software, it’s time to start planning for an age of intelligent, self-learning and self-correcting applications.
+In AI and the specter of unintended consequences – Workday speaks, Den pushes a question most enterprise vendors – or consumer tech companies for that matter – are wary of considering, at least in the public domain:
+Who will manage the unintended consequences of labor optimization that is aided by machine learning and other forms of artificial intelligence?
+Workday is one of the vendors that has taken the Capitol Hill dialogue beyond the concerns of the consumer tech players – and into the enterprise domain. But Den wonders if we’ve taken this far enough:
+The fact Workday has turned up on Capitol Hill and is making the case for business algorithms and systems to be considered separately from the consumer Internet is a good thing. But is the work that companies like Workday are doing going to help make the world a better place for the humans they help manage or will the optimization algorithms serve to undermine the workplace?
+That’s a question all vendors – particularly HR vendors – are going to need to grapple with, as the lines between economic/political issues and enterprise business-as-usual continue to blur. AI techno-optimism is one way forward – but not mine. Dialogue and research? Bring it on.
+Diginomica picks – my top two stories on diginomica this week
+
+Retail pre-holiday blowout with Stuart – Stuart went on a shopping, err, analysis binge this week, with retail sector features like this use case: Re-inventing the customer support experience at Best Buy. Not sure I want a “stickier” relationship with Best Buy but moving on, check the demographic targeting in A&F – getting close to the 18-34 demographic via digital. (Sidenote: guess I won’t be hearing from A&F anytime soon). Meanwhile Target plans to fulfill 80 percent of its holiday shipping via storefronts (cool that brands are finally figuring out that stores are actually pretty handy sometimes).
+How much can you really trust user-generated content? – Barb tackles a thorny area where consumer brand advocacy clashes with trust, in the gray area of our cheesy social streams.
+
+Vendor analysis, diginomica style. Here’s my two top choices from our vendor coverage:
+
+Large enterprise must dare to transform – an Airbus & Workday perspective – Phil with use case that crosses a chasm: “It’s telling that even very large global organizations in established industries are now taking the plunge into more radical digital transformation. It’s no longer the pioneers doing this. It’s mainstream.” Den sparked reader interest with No Wild West here – Workday’s CEO on customer satisfaction.
+ServiceNow CMO – ‘We aren’t a cloud system of record, we’re a cloud system of action’ – Derek weighs in on ServiceNow’s marketing shift: “ServiceNow needs to take what it does well – service – and put it front and centre of everything. Talking about HR, CSM, security and ITSM is confusing because people assume you mean the system of record.”
+
+A few more vendor picks, without the quips:
+
+Nutanix CEO – there’s no Plan B beyond cloud as production environment – Martin
+GE CEO – we’re going to be “digital on steroids” – Stuart
+Five sticky SAP TechEd questions – ironing out the season with Björn Goerke – Here’s my latest (and last) missive from my SAP TechEd series. Also my use case: Why Sovanta moved S/4HANA to the Google Cloud Platform, with Data Custodian up next.
+
+Jon’s grab bag – Jerry’s got a dandy for ya on IBM’s tokin kind blockchain ambitions: Proposal – IBM blockchain to manage marijuana supply chain in British Columbia – just hope this one doesn’t go Up in Smoke. Stuart ventures to the darker side of robotics in The UN takes on the Slaughterbots – very, very slowly (just the phrase “Lethal Autonomous Weapons gives me the weebeejeebees).
+Den goes where Silicon Valley fears to tread in Politics in enterprise technology – mostly tone deaf:
+Are enterprise vendors ready to respond to policymaker oversight? Are policymakers sufficiently knowledgeable about technology to make informed policies?
+Care to guess his answer? Add that to the business risks column. Finally, Den goes autofanboy puts on a discerning eye for diginomica’s unexpected Tesla Truck coverage in Does the Tesla Truck blow your mind?
+Best of the rest
+ So I’m about to board a long-ass transatlantic flight, and on the other side is Thanksgiving. That means I might not have time to add the best from the web before I board. I’ll add what I can here, but if you don’t see much, that’s why. I’ll make it right next time.
+Whiffs
+I was running a bit low on whiffs for once; leave it to Uber to come through again:
+
+Sheesh
+— CarolineGH (@CarolineGH) November 22, 2017
+Sheesh indeed Caroline.
+Meanwhile, I don’t think I’ve ever handed out a whiff for something that hasn’t happened yet. Well, if so, here’s my first-ever pre-whiff:
+
+“It’s time for a fresh look?” Says exactly who?
+Yeah, Google, so you decapitated Google Reader, you constantly mess with Gmail and Android, your search engine for your own Bookmarks has been broken for years (and I here I thought you were pretty good at search, silly me), you turned Google Drive into some kind of flying saucer that wants to upload everything on my computer and everything I stick into it, Google Play Music makes iTunes seem like really incredible software – and now your minimalist dumb-it-down design Huckleberries geniuses are gonna mess with my freaking calendar? The app I rely on most to just work?
+I have a wacky idea: how about deploying your design resources to Google Voice Assistant, you know, the same one that reverts my calls to speakerphone or bluetooth or wherever the freaking hell it feels like, the one that understands “let’s go home” but doesn’t ask me “would you like me to open the map?” Yeah go ahead, squander your resources on Calendar, the one app you have that completely works.
+p.s. I tried “OK Google – tell your team not to change Google Calendar!” Still waiting for a reply worthy of a three-year-old…
+Oh, and the FCC are about to bring us back to the future dark ages. Or maybe I’m the rube and these are brilliant digital visionaries, not bureacrats with unsavory paymasters. Man I hope so. See you next time…
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, ServiceNow and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and missesIoT robotics and AIMachine intelligence and AIRetail e-commerce and the omni-channel 

@@ -1,0 +1,30 @@
+
+Mark Hurd
+Oracle turned in cloud revenue of $1.5 billion for its first quarter FY2018, 51% growth year-on-year as new software licences fell 6% to $966 million. That left CEO Mark Hurd to declare:
+We are the fastest growing cloud company at scale.
+SaaS revenue rose 62% to $1.1 billion, while PaaS and IaaS were up 28% to $400 million. Total profits were $2.2 billion on revenue of $9.2 billion, against comparable year ago numbers of $1.8 billion on $8.6 billion.
+So, all good? Well, up to a point. Wall Street was cool on the earnings announcement, largely based on a weaker-than-expected outlook as Oracle forecast second quarter cloud growth of 39- 43%.
+It was left to Hurd to break down the first quarter numbers:
+Overall ERP is now over 1.3 billion annualized run rate. Fusion HCM up 109%, more than double the growth rate of workday. CX all of our categories sales marketing and service were up double digits organically. Data as aSservice was up 53%. The business is now over $0.5 billion in annualized run rate.
+New customers during the quarter include Advance Auto Parts, ADEO, Coach, Eurostar International, GlaxoSmithKline, Grupo Bimbo, Hilton, Honda Motor, Modine Manufacturing, Nestle, Tata Communications, United States Steel and World Fuel Services Corp.
+The cloud focus is opening up potential customers that would otherwise not have an option, added Hurd:
+Lots of new financials customers and lots of companies that we would have never sold to 5 or 6 years ago…what really helps us is the fact that we are the only suite provider. So the fact that now a company instead having a bunch of point solutions can have a suite of applications and the opportunity for us to now bring HCM and ERP together to a customer gives us an incredible advantage across basically all of our customers.
+As for the outlook that left Wall Street cool, Hurd said the objective is a cloud margin target of 80%:
+Actually we are well on our way to achieving [the] SaaS Cloud margin target. So we expect the margins in our businesses to go up, the stock price to go up, for us to distance ourselves from our, if you will, our legacy competitors and join the ranks of the new generation of the Tech companies like, as Microsoft has done and smaller companies like Salesforce and Workday. That’s where we position ourselves.
+We think these are stretched targets and it will take several years to achieve them, but we think we are well on our way. We obviously believe they are achievable, but it will require sustaining the kind of performance we have delivered over the last several quarters.
+Self-driving
+Attention now turns to the annual OpenWorld jamboree in San Fransisco next month, with CTO Larry Ellison previewing the next iteration of the eponymous database – the “self-driving database”:
+When we deliver it by the end of this calendar year Oracle will become the world’s first fully autonomous database. Based on machine learning this new version of Oracle is totally automated self driving system that does not require a human being either to manage the database or tune the database.
+Using Artificial Intelligence to eliminate most sources of human error enables Oracle to deliver unprecedented reliability in the Cloud. We will be offering public Cloud SLAs, service level agreements for the Oracle database that guarantee 99.995% systems availability time. 99.995% availability means less than 30 minutes of planned or unplanned downtime per year.
+With Amazon currently the ‘enemy of choice’ for Ellison on the IaaS front, the new database tech will open up a new front in hostilities:
+Self-driving taxis are much cheaper to operate then taxis with human drivers. Running Oracle’s autonomous database is much, much cheaper than running traditional human driven databases like Amazon’s Redshift. Customers moving from Amazon’s Redshift to Oracle’s autonomous databases can expect to cut their cost in half or more and Oracle will be providing SLAs that guarantee those cost settings to customers that move.
+He added that OpenWorld will see Oracle execs articulate what is pitched as a major competitive differentiator to Amazon:
+They offer a couple of databases, they offer Aurora, which is their version of MySQL and they offer Redshift, which their version of an open source database. They have made some changes to it – it is no longer open source. It’s from Amazon for queries and OLTP.
+But these are technologies that are not automated. These are if you will old-fashioned technologies and a new-fangled cloud data centre, and available for record. So it’s kind of an interesting new business model, but their database technologies are not very advanced at all. They have just picked them up at open source.
+Our database, especially the latest generation of database, totally automates everything. You push a button and load your data and you’re done…Amazon requires a lot of labor to set up an online transaction processing system based on Aurora. That’s a lot of labor.
+In contrast, he added, Oracle’s database tech will do “in an hour what Redshift does in ten hours” at “one-tenth of the cost of running at Amazon”. This means, concluded Ellison:
+We are not even trying to do the same thing as Amazon.
+My take
+Not that that’s going to stop Amazon being ‘bogey-manned’ at OpenWorld next month, of course. Away from that, another solid quarter with demonstrable progress being made on the transition to a cloud business model.
+Image credit - Oracle Disclosure - At time of writing, Oracle is a premier partner of diginomica. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureCRM and customer experienceDigital and content marketingDigital government and public servicesIoT robotics and AI
+

@@ -1,0 +1,42 @@
+
+Vera Loftis
+It’s Dreamforce-eve, so it’s time for what has in recent years become something of an annual event in the form of the release of the State of Salesforce report, a study of 1,500 Salesforce customers and their adoption and use of Salesforce offerings.
+It’s commissioned by Salesforce specialist consultancy Bluewolf and polls the opinions of end user organisations of varying sizes. Some 32% of respondents are from 3000+ employee firms, 23% from companies with 500-3000 employees and 45% from those with 500 employees or less. Job roles of respondents cover sales, services, IT, marketing and operations.
+While Salesforce this year has its own global Salesforce Economy study lurking in the wings – and still lurking until after Dreamforce, it seems –  the State of Salesforce is an interesting snapshot of customer adoption on the ground of the company’s increasingly broad functional footprint.
+At a mile high level, the good news for Salesforce is that customers are planning to keep on spending. Some 64% say their Salesforce budgets will increase over the next 12 months, with 11% predicting that the uptick will be in excess of 50%.
+Source : State of Salesforce
+Nearly half (49%) of Salesforce customers now invest in two or more clouds, with 22% running more than 3 clouds. The Sales Cloud continues to dominate with 86% of respondents having adopted it, followed by Service Cloud with 51%.
+Marketing Cloud still has a less than 50% adoption rate with only 40% of the respondent base having adopted it. Looking ahead, while respondents reckon their Sales Cloud budget will go up 53%, Marketing Cloud spend is set to rise by 36%.
+That Gartner slide about the CMO as the new IT decision maker is taking its time to hit the ground running. (One fifth of the survey base was made up marketing function individuals.)
+In fact across the Salesforce portfolio as a whole, the marketing suite isn’t looking that appealing compared to other aspect. For example, only 9% of the respondent base says they are using Radian6, with 16% reckoning to spend more in the future, and 6% is using BuddyMedia, with 15% intending future use.
+Contrast that with Salesforce1, where 89% of respondents are already on board, with 99% expecting to spent more in future.
+Turning to the AppExchange, there’s good news. The number of respondents using  between 6-10 apps has risen from 16% t0 22%, whereas the number using one to five apps has fallen from 60% to 54%. Meanwhile the number of respondents using 10 or more AppExchange apps has doubled from 7% to 14%.
+Wider trends
+In terms of broader movements in the Salesforce ecosystem, the report pulls out three key trends for this year.
+Source: State of Salesforce
+Firstly, there’s the importance of employee user experience, with one third of respondents citing an employee-facing initiative as one of their top 2016 objectives.
+The report argues:
+Investing in employees is an investment in a company’s bottom line—companies are 3X more likely to attribute measurable business outcomes to the use of Salesforce when employees believe that Salesforce makes their jobs easier. Salesforce is a powerful platform, but end users must use it—and be passionate about it—for companies to achieve business outcomes.
+But there are some potentially worrying user experience findings for Salesforce around with its emphasis on mobile technology as a delivery platform. While 39% of respondents reckon that Salesforce mobile apps are easy to use, 61% say they are difficult and want the mobile experience to be easier.
+This is clearly an important point to consider as some 79% of respondents argue that enhancing a sales reps ability to work on a mobile device is a priority for improving their sales strategies over the next 12 months.
+The second macro trend involves the need for innovation on a frequent basis with respondents releasing changes to their Salesforce instance on a more regular basis, sometimes weekly. Some 64% of firms release changes at least monthly, up 20% year-on-year.
+Finally, there’s more emphasis on data. Reconciling data from different sources remains a major challenge for more than half of respondent companies, leading to 65% of them planning increased investment in analytics over the next 12 months. That’s potentially good news for Salesforce as its Wave offering, announced at last year’s Dreamforce, only reports a 6% adoption rate among respondents this year.
+Source: State of Salesforce
+The Bluewolf worldview
+I spoke to Vera Loftis, UK managing director of Bluewolf, and asked her how far the results this year mapped on to her experience when engaging with customers. Were there any surprises?
+Loftis cited the shift from the emphasis on customer experience to the user and employee experience as being a pleasant surprise:
+There’s  been a lot of emphasis on the seamless customer experience idea. I’m surprised that it’s come round so quickly to the internal facing side. That’s good. If your employees have a shitty experience, then that’s going to be mirrored in the customer experience.
+Loftis also pointed to what she called “the buzz around analytics” as being a welcome sign of attention being paid to data, data cleansing and data enrichment, important stuff that hasn’t been regarded as “the sexiest” in the past.
+On the question of the perceived mobile experience, Loftis sees this as a difficult conversation to have for Salesforce which has done a lot to promote mobile as a big selling point. Her view is that there’s a need to shape customer expectations here and that to create a very specific mobile experience, users need to become alert to the potential need for greater customization beyond basic configuration.
+But as always, a lot of this is about customers on the front line keeping pace with the agenda set by a vendor. Loftis reckons users are often 2-3 years behind where Salesforce is. This isn’t necessarily a bad thing as it creates ‘a bit of anxiety in a good way” and gets people thinking about how the new offerings from the provider apply to their own business models. She cites analytics as a case in point:
+This should be straightforward, but people are still trying to work out what it means to them and how to leverage it. How will it give you the return on investment? Are you ready to pay the cost of Wave or to put a dashboard on an Apple Watch? But in conversation with customers, it’s an area that has peaked people’s interest. We consume so much more data than we did before so people do feel the pressure to do something with it and to surface that back to the business. People get anxious that they are behind the times.
+As for the relatively slow adoption of Marketing Cloud, Loftis is blunt in her assessment:
+Marketing Cloud has suffered because the acquisitions [Radian6 and BuddyMedia] took way longer to integrate than anyone thought they would. The products are really only just getting to a place where [Marketing Cloud] is usable. It’s a great roadmap and when it does come to fruition it will be a very powerful tool.
+For now though, Marketing Cloud is, she contends:
+a little bit smoke and mirrors.
+A lot of the acquired marketing products [bought by Salesforce and Oracle and others] were in their infancy when they were acquired. Everyone got anxious about this space and said ‘People care about this, let’s go out and buy something.’ It is all about the R&D investment that people are willing to make now.
+As for Dreamforce coming up, Loftis hopes to see Salesforce talking more about the various industry-specific clouds and how to promote for different sectors as well as being excited about Lightning and the new UI which she believes will change how people will use Salesforce:
+It’s about making the sales experience more viable. If you look at the core of the Sales Cloud, for a long time it was about data input. We were just asking sales people to put lots of data in so we could analyse it. This shift shows that CRM should be more than just that.
+My take
+As ever, this is an interesting public snap shot of Salesforce adoption that I’m not necessarily convinced is always welcomed by Salesforce itself. That said, there are overwhelmingly more positive messages coming out of it than negative ones or areas for concern.
+Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architectureCRM and customer experienceDigital and content marketinge-commerceFuture of workInfrastructureMobileSocial 

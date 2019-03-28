@@ -1,0 +1,63 @@
+
+It is 60 years since Artificial Intelligence (AI) was first recognised as an academic discipline, but it is only in the 21st Century that AI has caught both businesses’ interest and the public’s imagination.
+Smartphones, smart hubs, and speech recognition have brought AI simulations to homes and pockets, autonomous vehicles are on our roads, and enterprise apps promise to reveal hidden truths about data of every size, and the people or behaviors it describes.
+But AI doesn’t just refer to a machine that is intelligent in terms of its operation, but also in terms of its social consequences. That’s the alarm bell sounding in the most thought-provoking report on AI to appear recently – Artificial Intelligence and Robotics, a 56-page white paper published by UK-RAS, the umbrella body for British robotics research.
+The upside of AI is easily expressed:
+Current state-of-the-art AI allows for the automation of various processes, and new applications are emerging with the potential to change the entire workings of the business world. As a result, there is huge potential for economic growth.
+One-third of the report explores the history of AI’s development – which is recommended reading – but the authors get to the nitty gritty of its application right away:
+A clear strategy is required to consider the associated ethical and legal challenges to ensure that society as a whole will benefit from AI, and its potential negative impact is mitigated from early on.
+Neither the unrealistic enthusiasm, nor the unjustified fears of AI, should hinder its progress. [Instead] they should be used to motivate the development of a systemic framework on which the future of AI will flourish.
+And AI is certainly flourishing, it adds:
+The revenues of the AI market worldwide, were around $260 billion in 2016 and this is estimated to exceed $3,060 billion by 2024. This has had a direct effect on robotic applications, including exoskeletons, rehabilitation, surgical robots, and personal care-bots. […] The economic impact of the next 10 years is estimated to be between $1.49 and $2.95 trillion.
+The social lightning rod
+For vendors and their customers, AI is the new must-have differentiator. Yet in the context of what the report calls “unrealistic enthusiasm” about it, the need to understand AI’s social impact is both urgent and overwhelming.
+As AI, big data, and the related fields of machine learning, deep learning, and computer vision/object recognition rise, buyers and sellers are rushing to include AI in everything, from enterprise CRM to national surveillance programmes. An example of the latter is the FBI’s scheme to record and analyse citizens’ tattoos in order to establish if people who have certain designs inked on their skin are likely to commit crimes*.
+Such projects should come with the label ‘Because we can’.
+In such a febrile environment, the risk is that the twin problems of confirmation bias in research and human prejudice in society become an automated pandemic: systems that are designed to tell people exactly what they want to hear; or software that perpetuates profound social problems.
+This is neither alarmist, nor an overstatement. The white paper notes:
+In an article published by Science magazine, researchers saw how machine learning technology reproduces human bias, for better or for worse. [AI systems] reflect the links that humans have made themselves.
+These are real-world problems. Take the facial recognition system developed at MIT recently that was unable to identify an African American woman, because it was created within a closed group of white males – male insularity is a big problem in IT. When Media Lab chief Joichi Ito shared this story at Davos earlier this year, he described his own students as “oddballs”.*
+The white paper adds its own example of human/societal bias entering AI systems:
+When an AI program became a juror in a beauty contest in September 2016, it eliminated most black candidates as the data on which it had been trained to identify ‘beauty’ did not contain enough black skinned people.
+Now apply this model in, say, automated law enforcement…
+The bias virus
+The point is that human bias infects AI systems at both linguistic and cultural levels. Code replicates belief systems – including their flaws, prejudices, and oversights – while coders themselves often prefer the binary world of computing to the messy world of humans. Again, MIT’s Ito made this observation, while Microsoft’s Tay chatbot disaster proved the point: a naïve robot, programmed by binary thinkers in a closed community.
+The report acknowledges the industry’s problem and recognises that it strongly applies to AI today:
+One limitation of AI is the lack of ‘common sense’; the ability to judge information beyond its acquired knowledge […] AI is also limited in terms of emotional intelligence.
+Then the report makes a simple observation that businesses must take on board: “true and complete AI does not exist”, it says, adding that there is “no evidence yet” that it will exist before 2050.
+So it’s a sobering thought that AI software with no common sense and probable bias, and which can’t understand human emotions, behaviour, or social contexts, is being tasked with trawling context-free communications data (and even body art) pulled from human society in order to expose criminals, as they are defined by career politicians.
+And yet that’s precisely what’s happening in the US, in the UK, and elsewhere.
+Opening the black box
+The white paper takes pains to set out both the opportunities and limitations of this transformative, trillion-dollar technology, the future of which extends into augmented intelligence and quantum computing. On the one hand, the authors note:
+[AI] applications can replace costly human labour and create new potential applications and work along with/for humans to achieve better service standards.
+It is certain that AI will play a major role in our future life. As the availability of information around us grows, humans will rely more and more on AI systems to live, to work, and to entertain.
+[AI] can achieve impressive results in recognising images or translating speech.
+But on the other hand, they add:
+When the system has to deal with new situations when limited training data is available, the model often fails. […] Current AI systems are still missing [the human] level of abstraction and generalisability.
+Most current AI systems can be easily fooled, which is a problem that affects almost all machine learning techniques.
+Deep neural networks have millions of parameters and to understand why the network provides good or bad results becomes impossible. […] Trained models are often not interpretable. Consequently, most researchers use current AI approaches as a black box.
+So organisations should be wary of the black box’s potential to mislead, and to be misled.
+My take
+The paper has been authored by four leading academics in the field: Dr Guang-Zhong Yang (chair of UK-RAS and a great advocate for the robotics industry), and three of his colleagues at Imperial College, London: Doctors Fani Deligianni, Daniele Ravi, and Javier Andreu Perez. These are clear-sighted idealists as well as world authorities on the subject. As a result, they perhaps under-estimate businesses’ zeal to slash costs and seek out new, tactical solutions.
+The digital business world is faddy – and, as anyone who uses LinkedIn knows – just as full of surface noise as its consumer counterpart: claims that fail the Snopes test attract thousands of Likes, while rigorous analysis goes unread. As a result, businesses risk seeing the attractions of AI through the pinhole of short-term financial advantage, rather than locating it in a landscape of real social renewal, as academics and researchers do.
+As our recent report on UK Robotics Week showed, productivity – rather than what this paper calls “the amplification of human potential” – is the main driver of tech policy in government today. Meanwhile, think tanks such as Reform are falling over themselves to praise robotics’ and AI’s shared potential to slash costs and cut humans out of the workforce.
+But that’s not what AI’s designers intend for it at all.
+So the problem for the many socially and ethically conscious academics working in the field is that business often leaps before it looks, or thinks. A recent global study by consultancy Avanade found that 70% of the C-level executives it questioned admitted to having given little thought to the ethical dimensions of smart technologies.
+But what are the most pressing questions to answer? First, there’s the one about human dignity:
+Data is the ‘fuel’ of AI and special attention needs to be paid to the information source and if privacy is breached. Protective and preventive technologies need to be developed against such threats.
+It is the responsibility of AI operators to make sure that data privacy is protected. […] Additionally, applications of AI, which may compromise the rights to privacy, should be treated with special legislation that protects the individual.
+Then there is the one about human employment. Currently, eight percent of jobs are occupied by robots, claims the report, but in 2020 “this percentage will rise to 26”.
+The authors add:
+The accelerated process of technological development now allows labour to be replaced by capital (machinery). However, there is a negative correlation between the probability of automation of a profession and its average annual salary, suggesting a possible increase in short-term inequality.
+I’d argue that the middle class will be seriously hit by AI and automation. Once-secure, professional careers in banking, finance, law, journalism, medicine, and other fields, are being automated far more quickly than, say, skilled manual trades, many of which will never fall to the machines. (If you want a long-term career, become a plumber.)
+But the report continues:
+To reduce the social impact of unemployment caused by robots and autonomous systems, the EU parliament proposed that they should pay social security contributions and taxes as if they were human.
+(As did Bill Gates.)
+Words to make Treasury officials worldwide jump for joy. But whatever the likelihood of such ideas ever being accepted by cost-focused businesses, it’s clear that strong, national-level engagement is essential to ensure that everyone in society has a clear, factual view of both current and future developments in robotics and AI, says the report – not just enterprises and governments.
+The report’s authors have tried to do just that, and for that we should thank them.
+*The two case studies referenced have also been quoted by Prof. Simon Rogerson in a July 2017 article on computer ethics, which Chris Middleton edited and to which he contributed these examples, with Simon’s permission.
+ 
+
+ 
+Image credit - Free for use Read more on: Digital government and public servicesIoT robotics and AIMachine intelligence and AI
+

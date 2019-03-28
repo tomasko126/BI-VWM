@@ -1,0 +1,29 @@
+
+If you thought devops was just for infrastructure teams, Chef Software wants you to think again. And even if you’ve never heard of the term, the Chef team still have a message for you, as VP of marketing Jay Wampold explained to me on a visit to London this month:
+Devops is becoming the term to define the journey that every enterprise is on to become a fast, efficient, and innovative software-driven organisation …
+Every company is becoming a software company to some degree. The holy grail now is, how do I take an idea and turn it into value quickly, through software? That is the strategic plane that we are now a player in.
+In other words, while devops may have started out as a means of enabling high-speed, iterative change deep in the datacenters of the likes of Yahoo! and Amazon, the Chef team see it as a set of practices that should now be applied to the applications and even the business processes of every enterprise.
+This is already the reality at some organizations, according to Justin Arbuckle, Chef’s general manager in EMEA, who was previously chief architect at Chef customer GE Capital:
+We have large enterprise customers that are thinking the same way. Clearly the journey is a long one and they’re not going to be there for a bit, but they’re thinking the same way.
+This is not a crazy, bleeding-edge idea. This is a leading-edge idea, but there are many takers — in the financial services industry, and other industries as well.
+Everything as code
+For those unfamiliar with the concept of devops and Chef’s role within it, I should briefly explain the background. Chef, along with its rival Puppet and others such as Ansible, provides software that helps automate the delivery of new systems within a cloud datacenter. The configuration of these systems is defined in advance so that they can be stood up and taken down again simply by issuing software commands — this approach has become known as ‘infrastructure as code’.
+Once these processes have been automated in this way, developers can put systems directly into operation rather than having to hand off to a separate team to install and run them. This fusion of the two disciplines, known as devops, gives rise to the concept of ‘continuous delivery’ of new or updated software to add or refine capabilities. A business can then rapidly test and iterate those capabilities — for example, e-commerce marketplace Etsy recently revealed in its IPO papers that it revises its software as frequently as 70 times a day.
+Over the past few years, the Chef team have been bringing their software and expertise into the enterprise domain. In doing so, they believe they’ve understood the workflow that’s needed to achieve continuous delivery of iterative change across the entire IT stack. That has been codified into a new product called Chef Delivery, which was launched at the company’s annual conference earlier this month.
+Thanks to the new product, now “everything is code,” according to Alex Ethier, VP of product, who explained:
+We’ve built a product that lets you manage the flow of changes to your systems, independent of the type of changes — infrastructure, runtime and applications.
+Continuous delivery pipelines
+The Delivery product includes functionality that would previously have been implemented using the open source Jenkins tool to create a continuous delivery pipeline, but its real strength is in bringing consistency to the processes and workflow that surround that CD pipeline, said Ethier.
+If the pipeline is fixed, if we’re using the same tools for application infrastructure or runtime environment, now all we have to do is focus on the nuance of how is your business run.
+With the deployment of the underlying software automated, enterprises can now begin to examine what else can be implemented in the same way — such as testing and compliance processes, permissions and approvals, auditing and so on.
+No wonder marketing chief Jay Wampold was enthusiastic about the potential impact of Chef Delivery.
+In my view this is the biggest product news since we launched Chef. It really sets in my view the future course of our company.
+I liken automated config management to electricity. You have to have it, but it’s not super strategic to the business. Whereas we are moving up in terms of our import inside of companies from base config into a very strategic discussion around how they operationalize and employ devops practices, tooling and culture.
+What that could mean for the shape of the enterprise is probably best illustrated by EMEA GM Justin Arbuckle’s proposals for automating compliance in financial services businesses. To learn more about that, you’ll have to read my follow-up article, Compliance-as-code brings high velocity to enterprise IT.
+My take
+Chef’s main rival Puppet Labs pre-empted the ChefCon announcement with the launch of a similar product a week before. But in characteristic form, Chef is doing more than merely delivering a product — the company is proposing a thorough makeover of enterprise culture, too. That’s a wise move, for as I observed when writing about the Puppet product:
+Making the transition from a 300-day provisioning cycle to one that’s more of a next-day proposition isn’t just a matter of bringing in a trendy new software tool. Implementing IT automation becomes a trigger for eliminating all of the form-passing, departmental fiefdoms and manual workarounds that have grown up over the years.
+What Chef is saying is that the enterprise has to completely change its whole approach to IT if it is going to realize the full benefit of continuous delivery of iterative software renewal. It’s not a comfortable message — but radical, disruptive change never is.
+Image credits: Cook with flaming pan © Viacheslav Iakobchuk – Fotolia.com.
+
+Read more on: Frictionless enterpriseInfrastructure 

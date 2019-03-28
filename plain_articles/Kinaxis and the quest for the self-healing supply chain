@@ -1,0 +1,45 @@
+
+Trevor Miles of Kinaxis is giving me an impassioned view of supply chain futures, from self-healing networks to concurrent planning. It’s heady stuff.
+It beats the heck out of today’s disconnected processes – not to mention the bloated/legacy supply chain software that flummoxes users and sinks budgets.
+But hold up – how does a company know when their supply chain processes need a rethink? Miles:
+I think the best self-test would be: imagine if they had suffered the equivalent of a ransomware attack, or something like Hurricane Harvey. How quickly would they know what the business impact is of that event? How quickly could they determine what their different recovery opportunities are?
+Most wouldn’t pass that supply chain stress test.
+You’ll see that most companies, their processes and their systems cannot help them survive those.
+Miles wasn’t plucking those scenarios out of thin air. Both stories are from Kinaxis‘ own customers. We dug into how those customers fared – and what lies ahead – during a sit down at Constellation Research‘s Connected Enterprise event last November. Since then, Miles has kept me updated. As Kinaxis VP of Thought Leadership, he has plenty of evangelizing on his plate for 2018.
+Kinaxis’s cloud-based supply chain planning solutions are used by global customers from Ford to Merck. But as Miles told me, not every company is ready to embrace a shift. That’s where the evangelism comes in.
+From supply chain data silos to concurrent planning
+Kinaxis is pursuing two next-gen trends. The first, which has already arrived, is what Miles calls “concurrent planning.” That’s the approach Kinaxis has built its software on:
+Much of the conversations we’ve heard today at CCE 2017 are based on this idea our processes need to change. The reality is within supply chain, the processes are very segmented.
+So how did supply chains become so segmented?
+Because there are different functions along the supply chain, from demand to inventory to capacity to procurement… All of the solutions that have developed have actually focused on those specific functions, without understanding that, in the very term “supply chain”, is the implication that they are connected.
+I’ll add: the problems of heavyweight supply chain software, with a notorious amount of implementation complexity – “solutions” that don’t integrate easily. And: the insufficient attempts of ERP vendors to add their own supply chain functionality. Miles responds:
+There’s no doubt about that, and I can’t pretend that we’ve completely solved that problem.
+Why not? Because Kinaxis is focused on supply chain planning; they aren’t trying to boil the ocean of supply chain transactional systems as well. But they are attacking that problem, from the data side:
+You probably heard Fred Laluyaux of Aera saying the first stage is harmonized data. [Note – see my piece, The self-driving enterprise – achievable, or pipe dream?]
+People, process and tech are all disconnected
+Harmonizing the data is a big step towards supply chain sanity:
+We’ve got one customer that bought one company a month for 14 years. That’s 256 companies. Well, guess what? That was an enormous amount of data lifting and data harmonization that had to take place.
+Getting the data in one (cloud) location? Great. But if it were that simple, Kinaxis wouldn’t need an evangelist. Miles adds:
+It’s not just the data. We connect the data, the processes, and the people. Connecting the data means at least you have visibility across the network. Connecting the processes really tells you whether something’s important, or not.
+The data doesn’t explain itself. Even if you’re a procurement officer and your dashboard says green, there may be an issue downstream that’s impacted by your decisions:
+If there’s a shipment that’s missed by a supplier, does it matter? Should you expedite? Well, the procurement person would say, “Hell yes. That supply is five days late. Get my material to me.” But is there any downstream impact? Does it really matter? Why are you going to incur additional costs if there’s no impact downstream?
+The final piece in concurrent planning? Yep, connecting people.
+We still operate in these silos, so why can’t reach across their functional boundaries to cooperate? I use the word “cooperate” deliberately, rather than “collaborate.” Collaborate is hands off. Collaboration is not a joint vested interest. Cooperation is when there is a joint vested interest in actually solving the problem.
+Customer examples – putting concurrent planning on the spot
+So if there’s a better way, what is Miles seeing on the ground? One of Kinaxis’ customers found themselves in that scary ransomware situation:
+One company got hit by ransomware. All of a sudden, their factories were shut down, and their distribution centers were shut down. When they started looking at recovery, the only place where they had all of the information in one location was in our solution.
+All their on-premise systems were inaccessible. But it wasn’t just the accessible data in Kinaxis that opened the customer’s eyes:
+Now, when they had to do the trade-offs, how long is it going to take to recover? Who is going to get product? Because it’s not one function that can actually satisfy that problem. The functions have to work concurrently. That is an illustration to them of what the value of concurrent planning is.
+Another customer wound up in the midst of Hurricane Harvey’s ripple effects:
+They had some relatively small value of chemicals being bought out of Houston that went into lots of products. The first evaluation of the problem was, “Okay, it’s not a big problem. There’s just a few items out there that we purchased. The purchase value is relatively low compared to everything else.” But all of a sudden, they realized there was an impact on a large portion of their product portfolio.
+For the concurrent planning evangelist, this is a textbook example:
+They were able to understand that impact [in Kinaxis]. You see, this is what I call “connecting the process.” The data’s fine; the data is there, but it’s understanding what the impact is that’s really important.
+The wrap – self-healing supply chains ahead
+As you might imagine, AI/ML, automation, and intelligent services factor heavily into where Kinaxis is headed. But as Miles says, the technology is still maturing. As he wrote to me recently, we’re moving towards what he calls “self-healing supply chains.”
+Wherever I go, I hear the discussion about AI/ML. Of course, we are doing stuff in this space too, particularly around the idea of the “self-healing supply chain,” where we are focused on surfacing the difference between as-designed and as-demonstrated parameters. Many analysts immediately go to master data management when we bring this up, but we are going further, to policies and all sorts of other information that governs the way the supply chain is supposed to behave (as-designed), but, very frequently, does not (as-demonstrated).
+Kinaxix is enhancing their software with AI/ML as they go. Early scenarios involve identifying patterns in supply fluctuations or pricing that humans might miss. The next phase will be about augmenting human intelligence with process-specific AI:
+Concurrent planning is a far bigger opportunity for transformation while we wait for AI/ML to mature.
+That means changes for Kinaxis also. They have their own transformation underway. Customers want more than a software provider; they want solutions that incorporate the advisory and coaching to push all the way through these changes. “Software companies are really service companies,” Miles told me.
+And yes, blockchain scenarios may factor in also, though there is less blockchain applicability on the planning side. Miles used the example of a customer that has moved from 70 percent of inventory at rest to 30 percent. With 70 percent of inventory in motion, blockchain may have relevance to tracking those materials, but it’s early days.
+I’ll look forward to tracking the progress. My next step? I hope to talk to a Kinaxis customer. Supply chain planning projects can be complex undertakings; I’d like to hear more from the customer side about efforts and results. Stay tuned.
+Image credit - Feature image - Search engine optimization © andranik123 - Fotolia.comDisclosure - Constellation Research provided my accommodations and media pass to attend Connected Enterprise 2017Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architectureDigital transformation - frictionless enterprise 

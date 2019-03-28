@@ -1,0 +1,47 @@
+
+Shawn Price, Oracle Cloud
+Every established enterprise software vendor is in a mad dash to move as many of their customers as possible to cloud platforms, as I wrote a couple of years ago:
+Vendors are beginning to realize that if their customers remain too long on out-of-date software versions, they become more amenable to considering cloud-based alternatives from competing vendors. Getting the installed base to upgrade is becoming a survival imperative, as customers left on older versions compare what they have to what’s available from the cloud and find it wanting.
+Now even Oracle, once seen as a cloud laggard, has started beating the drum for customers to move to the cloud. But that’s because the impetus is coming from the customers themselves — the vendor is merely responding to the market, says senior vice president of Oracle Cloud Shawn Price, backing up his point with metrics on a visit to London yesterday:
+We’ve 70 million subscribers and 33 billion transactions a day running through us — and the growth rate we announced of $642m on 75% year-over-year growth.
+This is a hand-raised market, in hypergrowth. It’s less of the ‘Let’s have the discussion and wouldn’t it be nice,’ more of the ‘Would you please come in, I’ve got an upgrade coming in November’ — or, ‘I’ve bought a company,’ or, ‘I’m going into new markets,’ or ‘My business model has to change.’
+[Customers] are looking for new ways to consume innovation. While they took the ERP on-prem, they customized it to such a degree that it was non-extensible — in many cases not even supportable. They couldn’t consume whatever the vendors produced without a massive scope of work with tens of millions of dollars and in a two-year period. They’re saying, ‘We just can’t move at that pace any more.’
+What the trade-off is, ‘I’m willing to do the change management, I’m willing to standardize on processes.’ The notion and comfort of, ‘We’ll build it ourselves’ — the reality is, how well did that work and how long did that value exist for? We’re running off applications that were written twenty years ago. How are they relevant in today’s way we work, on any dimension?
+Continuous upgrades
+This need for speed in taking on new functionality and in adapting to changing market conditions creates huge demand for the continuous upgrade ethos of the cloud environment. Oracle now has an overview of how customers are using its applications and is able to incorporate their feedback into a quarterly update cycle — a far cry from the multi-year gap between upgrades in the old on-premise model. Customers stuck on old versions of on-premise software see the cloud as a means of bringing in faster innovation, says Price.
+We produce updates every 90 days approximately. [There were] 500 feature upgrades to ERP in the last update cycle. That’s 6,000 per module over a 3 year subscription.
+It’s like any algorithm, the more data you put in, the more effective it becomes.
+So I think it’s agility, but it’s also, they’ve been stuck. If you put any time pressure on it, then you’ve got a forcing function.
+At the same time, an equally important aspect of the Oracle proposition is that customers can move at a pace that matches their needs. As of this time last year, almost a third of customers had already bought more than one Oracle cloud solution, says Price. While some are proceeding one step at a time, others are going all-in, depending on their circumstances:
+It depends on the project, the catalyst, and the point of view of the CEO around the modernization, consumer sentiment, and operating model shift — and the CFO’s around operating efficiency and upgrade avoidance.
+These are all catalysts that dictate how fast, how broad, how willing — how disruptive does your culture actually become? If you don’t have a lot of that pressure but you want to optimize financially, then you might start with a single app. But if you have pressure on hiring, for example, you’re probably going to do three apps to optimize that process, then add four more over time and fill in an endpoint.
+If you’re really transforming, or if you’re scaling like [online payments startup] Stripe — one of the hottest tech companies around, they’re scaling and going to 200 geographies with 16 different currencies — you’re going to go end-to-end.
+The main message here is very clear. We’ll meet you at whatever level of comfort on that consumption curve you want to be.
+Hybrid options
+For many customers, that consumption curve encompasses hybrid options, such as porting existing applications to Oracle’s platform-as-a-service or to its managed cloud, while leaving others on-premise. As Price explains in yesterday’s keynote presentation:
+The other thing that’s built into our strategy is the notion of portability. We don’t want to proscribe and force you to move these workloads to the cloud and only the cloud.
+There are sets of workloads that make sense to run on-prem and on-prem only — whether that’s governed by regulatory or data sovereignty or your own policies. There are also workloads that make sense to potentially run in a managed service, and there are adjacent workloads that run in the public cloud.
+What we’ve reimagined in our managed cloud service offering, which wraps all of this, is the ability to take units of work and port them to these environments seamlessly.
+For the benefit of delegates attending an event in the EU at a time when uncertainty surrounds data protection issues, he adds reassurance on that score:
+There’s a misnomer that somehow, in the United States, if we were running your data, that if we were subpoenaed to produce your data, we could.
+The reality is, because it’s encrypted and you hold the key, I couldn’t produce it if I wanted to. You own the key.
+The pitch even includes encouragement for customers to move their Oracle databases to the cloud, citing a provisioning timescale of 30 minutes in the cloud compared to weeks when it’s done on-premise.
+Database is pretty core to everything. What’s the database picture look like if you wanted to move a database unit of work to the cloud?
+[There are] 88 steps to provision a database on-premise. To provision our database in the cloud, it’s five steps.
+Here’s the other piece that’s interesting. You maintain on-premise a DBA [database administrator] for maintenance, scripting, patching, regression and storage. What we’ve done is, we do that operation on your behalf. So the economics make great sense.
+Enterprise cloud adoption
+Oracle’s strength, he tells me, is its ability to provide everything in the cloud, from infrastructure, databases and integration through platform-as-a-service and applications. Where others may be tempted to portray Oracle as a late convert to the cloud message, Oracle sees itself as leading the next wave of enterprise cloud adoption.
+What we’re seeing is, [the market] has moved from the small little application company that’s really good at a particular process — but sort of isolated, that was wave one — to now moving mission critical workloads to the cloud.
+We announced 1,650 customers in the last five quarters in ERP — just staggering if you think our nearest competitor did just 200 in eight years. It’s a pretty dramatic shift.
+We’re highly differentiated against the rest of a market that’s fragmented. You’ve got companies that do developer productivity for infrastructure, with a little bit of PaaS; or a set of applications, or a little bit of data. But that’s not modern computing or the complexities of our customers — they’re looking for a different thing.
+As long as you’re open [as a vendor] and can support heterogeneous workflows, so if [a customer] has Salesforce or SAP or others, that we can incorporate those into those processes — and as long as you’ve got an R&D engine with $5.2 billion of spend behind it to continually innovate — I think it puts you in a different place.
+The cloud has also changed the way Oracle goes to market, according to Price. It’s no longer a case of turning up at the customer’s site with a busload of consultants to start a multi-year implementation process.
+I do think we have a different responsibility [that]’s reflected in our engagement model. The line of business is asking us for content and expertise. ‘Show me the 80% use case for my function, show me how I get practitioner advice on usage.
+Then they’re saying, ‘I want you to remove the friction. I want to buy it with a 90-day go-live, fixed price, fixed bid. I also want to know what are the next three to four quarters of functionality I would add, whether they’re multi-cloud.
+‘I want you to price me tomorrow transparently, from one subscriber to a million. I want to talk to three references who have already done it with more complexity and more scale.’
+My take
+Cloud computing is fundamentally different from on-premise computing. I’ve been banging on about this for years. Especially about the collective innovation that’s possible on a shared platform, or how it changes the engagement model, and a host of other aspects.
+I’m relieved to discover Oracle now agrees.
+Image credit – Shawn Price on stage in London yesterday @philww. 
+Disclosure – At time of writing, Oracle, Salesforce and SAP are diginomica premier partners. 
+Read more on: Best of archivesCloud ERP financials and supply chainCloud platforms - infrastructure and architectureFrictionless enterprise 

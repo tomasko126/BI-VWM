@@ -1,0 +1,56 @@
+
+If I were pursuing digital change, I might not pick the pharmaceutical industry. But Milind Kamkolkar did. A self-described “visual data narrator,” Kamkolkar’s actual job title at Novartis is Global Head, Next Gen Analytics. During an friendly-but-frank chat at Connected Enterprise, I challenged Kamkolkar to explain what “next gen analytics” really means. I also asked him if big pharma was dying. 
+Kamkolkar takes a different view. He sees change, not implosion. For him, successful hackathons and social media transparency are seeding new business models. I cornered Kamkolkar on the patio after his appearance on the digital health care panel. Speaking personally, and not on behalf of his employer in any way, Kamkolkar shared field lessons.
+
+Jon Reed: Did I hear you say you have millions of genes on the Amazon cloud now?
+Milind Kamkolkar: It’s crazy. It’s like a trillion-odd edge node cluster.
+Reed: And most of that is research data right?
+Kamkolkar: Yes – ninety percent of that is research data. The rest of the business – sales, marketing, supply chain, and so on – is only ten percent of that.
+Reed: You could have pursued digital projects in many industries. Why are you drawn to health care?
+Kamkolkar: It’s very impactful. During our hackathons, we have a patient panel, we have a physician panel – they’re all on the same stage together. Patients are saying to the doctors: “You know, you guys don’t really get us.” The doctors are saying, “Well, you don’t really take care of your health either.” There’s not a single person in the audience who isn’t thinking, “You know, I know someone who has this issue.”
+Reed: So it keeps you away from big data abstractions…
+Kamkolkar: Yes, after these events, the motivation to do something right at the end of it is even stronger. It’s not like we’re coming out of this saying, “Okay, I want to automate some algorithm” or something like that. It becomes very personal very quickly.
+What the heck is next gen analytics?
+Reed: Your job title is “next gen analytics” – what does that even mean?
+Kamkolkar: (laughs) I don’t know man. I’m still trying to figure it out to be honest. I’ll give you a little background. I was hired to help disrupt the way in which we were doing analytics.
+Reed: Ahh – too many spreadsheets?
+Kamkolkar: You could say that.
+Reed: OK – so where do you begin?
+Kamkolkar: It started with things like education. Just getting a sense of where the organization was. What did they think they were doing right – what they were missing. It became very clear, very quickly that we have an endless pool of pilots and POCs. Very little of that was being scaled up as a core competency to the organization.
+Reed: Right.
+Kamkolkar: How do you become a more informed organization? That was the mantra I took coming on board there. When we think about “next gen analytics,” it doesn’t have to be big data, predictive, machine learning. Yes, they all have next gen capabilities, but I look at those as tooling. What we needed was a fundamental shift in the way in which we behaved when it came to information assets. That’s what I think NexGen Analytics is: how do you move the organization from current state A, and continuously keep challenging yourself.
+How hackathons fit into the business model
+Reed: So how goes this approach translate into projects?
+Kamkolkar: We have a dedicated team called Digital Medicine. The function of this organization is basically to look at new, digitally-enabled business models to support more than a pill revenue base.
+We look at digital as being a margin optimizer. If it goes well, we sell more top line – with a very low cost to implement.
+Reed: Your hackathons are interesting – how do those fit into the business model?
+Kamkolkar: They’re critically important. We’re moving from what was largely perceived as a shiny new toy over the last number of years, to proving that some of these capabilities have a financially viable impact, and a clear health outcome. The hackathon’s help us validate some of our ideas, but also to explore ideas we probably didn’t think about.
+Reed: And are the attendees customers of yours?
+Kamkolkar: Yes, all sorts of backgrounds. Last week, we had a group of high school students who wanted to participate. They drove four and a half hours from north of Tel Aviv. These kids did their homework. They independently went and surveyed patients. They independently went and spoke to hospitals. They independently went to The Dead Sea and saw how Psoriasis patients leverage sun-based treatment, or photo UV treatment.
+Reed: Can that manifest itself in services that you provide?
+Kamkolkar: Yes. The outcomes of these can be classical outcomes of a hackathon. They might just be kill switches, where you say “our idea doesn’t make sense.” In other cases, it might be something that our venture fund with Qualcomm would invest in. The last one would be, “We would want to own this,” Then we would go through the due diligence of the legality and all that good stuff.
+Social media monitoring – “you have to hear the truth.”
+Reed: Any other projects that you are excited about that are starting to mature?
+Kamkolkar: I like our social media monitoring project.
+Reed: Yes – I see you’ve been presenting on that topic. What have you learned?
+Kamkolkar: We did this to bring the outside world in. Despite our best intentions of being patient centric, if you only have objectives that are driven towards profit and revenue, you can sometimes lose that. Here’s the idea: how do we ensure that before we start any new team, we literally start our meeting with: what are our customers saying about us today? That is a big mind shift.
+Reed: So let me get this straight – you start meeting by sharing tweets from customers?
+Kamkolkar: That’s right.
+Reed: You must get some pretty intense feedback.
+Kamkolkar: Yes, and we don’t filter. You have to hear the truth no matter how hard it is to handle.
+(Note: Kamkolkar then showed me a very not-safe-for-work example of a tweet that was displayed and discussed during an executive meeting, involving adverse event reporting).
+Reed: Did you say business opportunities have come out of your social media monitoring?
+Kamkolkar: Yes. Take heart failure for example. One of the big issues in heart failure today is being paid based on the clinical effectiveness of your treatment. For heart failure, there is a thirty-day re-admissions policy. We asked ourselves, “How do we make sure patients stay on their medications. How do we make sure they’re exercising?”
+Anyhow, there a community of folks that were talking about health and physical fitness awareness. Through our monitoring, we noticed that Nike was chiming in to some of those conversations. I said, “We should be partnering with these guys.”
+How do you bridge the trust gap – the future of big pharma
+Reed: Maybe that’s part of how you bridge this patient-doctor gap, right? Via a collection of services and companies. Maybe I don’t trust every health care company, but I do trust some of these things.
+Kamkolkar: Yeah. I feel like pharma companies are not always a trusted partner in any of the networks. Let’s face it – people love to hate big pharma. At the same time, we have a moral and ethical responsibility to provide the best outcomes we can.
+Reed: Well, it’s different than just trying to sell more pills, right?
+Kamkolkar: Absolutely.
+Reed: Is this the beginning of the end for big pharma?
+Kamkolkar: I don’t think it’s the end of big pharma. But the model is changing into specialized treatments, particularly with genetics coming on board. Now you can start giving personalized medication.
+Reed: It’s an interesting place to be for a startup guy like yourself.
+Kamkolkar: Yeah, well, I was tired of consulting pitches. I wanted to build things that matter. I can do that here.
+Image credits: Photos of Kamolkar at Constellation’s Connected Enterprise, Half Moon Bay, by Jon Reed.
+Disclosure: The views Kamolkar shares in this story are his and his alone, and do not represent that of his employer, Novartis. Constellation Research puts on the Connected Enterprise event and provided for my conference attendance and hotel. Diginomica has no financial relationship with Constellation, but Den Howlett serves on Constellations’s Board of Directors.
+Read more on: Analytics planning and data analysisBest of archivesCollaboration sharing and digital productivitySocialUse cases 

@@ -1,0 +1,35 @@
+
+Welcome to Europe
+It looks like there’s one group that’s set to benefit from the Safe Harbor chaos – those who build and run data centers in Europe.
+With the striking down of the Safe Harbor regulations and no sign yet of transatlantic agreement on a replacement, more and more US cloud providers have taken the decision to shore up their in-region data residency options to appease the more jittery among their customers.
+Yesterday at the Future Decoded conference in London, Microsoft CEO Satya Nadella announced that the firm would for the first time be opening two UK data centers next year. Microsoft is also expanding its existing operations in Ireland and the Netherlands.
+Officially all of this has nothing to do with the Safe Harbor ruling. Nadella said:
+By expanding our data center regions in the UK, Netherlands and Ireland we aim to give local businesses and organizations of all sizes the transformative technology they need to seize new global growth.
+But Scott Guthrie, Microsoft’s executive vice president of cloud and enterprise, followed up his boss’s comments by adding that reducing data privacy concerns was a driver behind the new centers:
+We can guarantee customers that their data will always stay in the UK. Being able to very concretely tell that story is something that I think will accelerate cloud adoption further in the UK.
+In an interesting development,  Nadella this morning popped up in Berlin to announce new data centers in Germany that will operate under the control of Deutsche Telekom as trustee. The German authorities are the most draconian in terms of data protection enforcement. It’s telling that Deutsche Telekom is involved in order, according to Nadella:
+to ensure that a German company retains control of the data.
+What this means in practice – or Microsoft hopes it will mean in practice, a less-than-subtle distinction – is that any US government request for access to data in those data centers would have to be made to the German authorities. Microsoft’s own staff will have no access to the data stored in the data centers.
+That way, Microsoft hopes to avoid the situation it currently faces in Ireland, where the US authorities are demanding access to customer data stored on a server in Dublin, arguing that as Microsoft is a US company it comes under US jurisdiction no matter where it operates in the world.
+It’s a major test case with potentially greater ramifications for the entire US cloud services industry than the scrapping of Safe Harbor. Microsoft has vowed to stand its ground right up to the Supreme Court if necessary.
+But in the meantime, it’s doing its best to put as many barriers in place as possible for further interference.
+London calling
+Microsoft’s decisions follow commitments from other US cloud services providers to up their in-region presence within the European Union. Last week Amazon said it would be opening a UK center in late 2016 which will offer what CEO Werner Vogels calls:
+strong data sovereignty to local users.
+Salesforce has already opened data centers in the UK and Germany, with a French one set to follow next year. Meanwhile the likes of NetSuite and Box have also confirmed their own plans to set up operations within the EU.
+None of this comes cheap. With the latest expansion factored in, Microsoft will have spent over €1 billion on its existing Dublin facility alone. As well as its new UK center, Amazon is also pumping a further €100 million into building a third Irish data center, taking its overall spend there to €3.7 billion.
+But it’s clearly seen as money well spent. Apart from anything else, it opens up the public sector and financial services markets that bit more.
+Julian Tomison, UK General Manager of Microsoft partner Avanade, says:
+The investment validates the sector and will ultimately have a positive impact on the cloud industry. Collectively this will benefit the UK and the industry as customers feel they have more control over where their data is stored. Questions around data residency aren’t new, but at least now we have a new solution. Having data centers in the UK helps us stay competitive when prices and services are becoming uniform.
+But others have questioned just now much of an impact such moves by the likes of Microsoft and Amazon really will have. Georgina O’Toole of analyst firm TechMarketView notes:
+Both want to tempt reticent public and private sector customers with flexible, low-cost cloud applications and services backed up by performance, security and reliability guarantees. But we wonder just how much difference a data center sited on Blighty’s shores – as opposed to those of Continental Europe or Ireland (both companies already own Dublin facilities) – can make to boosting those capabilities and convincing customers they are getting a better deal.
+But with Safe Harbor gone and a replacement still in limbo, O’Toole concedes that there is a positive message to be spun out of opening in-region centers:
+It’s always hard to tell what direction the law will take, and whether at any point regulated UK organizations will be compelled to store data within UK boundaries.
+But one thing we do know is that Safe Harbor is bad publicity for AWS and Microsoft. Opening UK data centers averts a potential backlash, expands capacity and builds a solid platform for future service growth.
+My take
+Microsoft’s German gambit is an interesting twist – and one that has no guarantee of success. It will undoubtedly be challenged and there will be legal rulings, appeals and counter-appeals before we know if this trustee model works in practice.
+But if it does, then there will be considerable ramifications for the likes of Amazon, Google, Salesforce et al if customers expect them to follow suit and offer similar arrangements.
+Meanwhile all eyes remain focused on the end of January, the deadline for Safe Harbor – the Sequel, although the development we really need to be watching is the US Government v Microsoft case. If that one goes the wrong way, the impact on the cloud industry outside of the US could be devastating.
+ 
+Disclosure – at time of writing, NetSuite and Salesforce are premier partners of diginomica. 
+Read more on: Cloud platforms - infrastructure and architectureData privacyRegulationBest of 

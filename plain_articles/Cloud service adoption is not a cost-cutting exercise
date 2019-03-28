@@ -1,0 +1,83 @@
+
+It has been interesting to watch the coping mechanisms for purveyors of enterprise IT hardware and software as they grapple with the disruption of cloud services. Over the years, their reactions have traced an arc akin to the Five Stages of Grief.
+
+First came dismissal (“the cloud is too immature, no one will use it”)
+Then wrath (“the cloud is insecure, uncontrolled, you can’t trust it with your data”)
+Next was negotiation (“granted the cloud has some good ideas, but you’re better off with a hybrid approach, running a private cloud with just a few non-critical things on public clouds”)
+Followed by despondence (“we can still survive for a while since we at least have all those legacy workloads that can’t move to the cloud”)
+And ultimately (begrudging) acceptance (“maybe we can partner with a cloud vendor and rebrand that hybrid idea, better yet, let’s buy an open source company will cloud-savvy developers and look relevant again!”).
+
+One can see where particular companies or constituencies are in the sequence of cloud lamentations by their public statements and actions. Most seem to be somewhere between stage 3 and 5, but now and then you come across some PR reviving something from the graveyard of forgotten hits, harkening back to the days of cloud FUD. Such was the case this week when the pitch for a new vendor-sponsored survey led with the line,
+“Despite Meaningful Business Benefits, 62 Percent of Organizations Report Higher than Anticipated Cloud Costs, and 57% said cloud management costs exceeded expectations.”
+My immediate reaction was to disregard such a tired attempt at attention-grabbing controversy, but after a quick email exchange with my editor, I decided that it was worth beating this not-quite-dead horse one more time to illustrate larger points about cloud adoption.
+Propping up a straw man – a time-tested debating scam
+One of the favorite debating tactics of those without the facts or logic on their side is the straw man argument. For those needing a refresher on logical fallacies, the straw man involves arguing against a premise or contention that your opponent isn’t making. A more effective variant starts with distorting or exaggerating an opponent’s claim, thus making it easier to knock down with your talking points. Attempts to sully public clouds by contending that they cost more are based on two faulty assumptions:
+
+Reducing the total costs of infrastructure procurement and operations is the primary reason organizations adopt public cloud services.
+One can make a valid cost comparison between public cloud and on-premise infrastructure solely by calculating the net present value of future CapEx and OpEx streams while ignoring the opportunity costs of tying up IT resources in operational tasks and of delayed or abandoned projects due to resource shortages.
+
+While there can be cost benefits to using cloud infrastructure and applications, these are often secondary consequences that result from careful and astute usage of cloud services. The pitch for a new survey of almost a thousand IT professionals from Syncsort leads with the cloud cost bunk, however, the actual data has some instructive nuggets.
+Cloud challenges redux
+70% of survey respondents have adopted some form of cloud services, with more (61%) using SaaS than IaaS (47 %). PR highlights of cost overruns notwithstanding, cost savings ranked as the third most-cited benefit of the cloud behind business continuity and IT efficiency. Tellingly, cost also ranked as the third most cited cloud challenge.
+
+
+
+Top cloud benefits
+Top cloud challenges
+
+
+1. Business continuity
+1. Security, privacy
+
+
+2. IT efficiency
+2. System and application integration
+
+
+3. Operational cost savings
+3. Increased cost
+
+
+
+Source: Syncsort Cloud Survey, November 7, 2018.
+The survey also dispels other popular points of cloud FUD by finding that the two areas this set of cloud users were least concerned about are “ensuring that SLAs and incident response time requirements are met” and, dead last, “vendor lock-in to one cloud service provider.”
+Strangely, the survey data doesn’t match the PR headline since it shows that only 53 percent of respondents stated that the cloud cost them more than anticipated. It’s a shame the pollsters didn’t ask the converse to ascertain how many found their cloud experience less expensive than they thought, but that probably didn’t fit the desired ‘cloud is expensive’ narrative. See Endnote/correction.
+The primary contributor to cloud sticker shock, data and application migration, isn’t surprising since the same could be said for most infrastructure migrations, whether to the cloud or another set of internal systems. Project managers inherently underestimate the complexity of moving business systems with numerous dependencies (many of which aren’t apparent until after the migration) while avoiding disruptions to critical processes. (Insert metaphor about upgrading an airliner while flying here).
+The Syncsort results concur with similar enterprise surveys looking at the benefits and drawbacks of cloud usage. For example, an IDC Directions survey of thousands IT professionals in 31 countries found similar motivations for cloud adoption:
+
+
+
+IDC cloud drivers
+IDC cloud inhibitors
+
+
+1. Improve IT security
+1. Security concerns
+
+
+2. Improve business agility
+2. Lock-in
+
+
+3. Simplify and standardize IT infrastructure and app platforms
+3. Cost
+
+
+
+Source: IDC Directions Santa Clara, February 27, 2018.
+In both surveys, cloud costs are a potential impediment and problem to be solved, but not the most significant one. Indeed, cost improvements through improved IT efficiency and more streamlined, standardized deployment processes and platforms are a countervailing factor.
+My take
+Cloud services are an evolution of longstanding business trends towards the standardization, commodification, and packaging of products and services that were once artisanal or customized into mass produced and delivered alternatives that are more consistent, widely and quickly available, and (eventually) cheaper. While particular reasons are idiosyncratic, businesses are generally drawn to the cloud for reasons other than cost, notably the following:
+
+Agility: the ability to rapidly deploy, interconnect, reconfigure and decommission cloud services.
+Scalability: the ability to quickly and simply increase or decrease resource capacity for all manner of infrastructure (compute, storage, network) and application (database, data warehouse, search) services.
+Innovation: the availability of new resource and infrastructure intensive services in data analytics, AI, media processing and IoT management that require considerable expertise and investment to develop and deploy. As such, the cloud serves to democratize access to advanced technologies that were once only available to the largest, most sophisticated organizations.
+
+When cost is a problem, it’s often due to lax oversight with poor or non-existent policies over cloud resource usage, security and administrative access. Coincidentally, these same shortcomings also lead to cost inefficiencies in on-premise infrastructure.
+The three motivating factors for cloud usage indicate that the shift away from self-managed systems has more to do with enabling new business models, providing fuel for new products and services and improving organizational competitiveness. I agree with this assessment from Gartner Research VP Ed Anderson (emphasis added)
+“Cloud shift is not just about cloud. As organizations pursue new IT architectures and operating philosophies, they become prepared for new opportunities in digital business, including next-generation IT solutions such as the Internet of Things (IoT). Organizations embracing dynamic, cloud-based operating models position themselves for cost optimization and increased competitiveness.”
+Remember these points the next time you hear the cloud-is-more-expensive straw man being trotted out to justify keeping your outdated private data centers. Arguing just on cost is like criticizing an iPhone because it’s more expensive than a flip phone. True, if all you wanted to do was dial phone numbers, but that misses the point. Same with the cloud where the primary goal is business innovation and competitiveness, not cost minimization.
+Endnote/correction: The authors of the report sent this email which we add without comment:
+First, thank you for the great piece about the Syncsort cloud survey. Second, we appreciate your calling out the discrepancy between the stat in the subhead of the press release and the data in the report re: % of respondents who said cloud costs were higher than anticipated. You are correct about the 53% figure and that was what was stated in the original release, but at some point during the editing process, it got swapped with a different data point related to cloud costs. In fact, the 62% number came from the fact that 62% cited cloud costs as a challenge (alongside other challenges like security/privacy), but somehow that got mixed up with the % of respondents who said it cost more than anticipated, which was a separate question. I apologize for the confusion.
+For your reference, the corrected release is here.
+Image credit - Photo by Mika on UnsplashRead more on: Cloud platforms - infrastructure and architecture 

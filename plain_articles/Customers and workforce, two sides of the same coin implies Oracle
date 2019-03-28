@@ -1,0 +1,51 @@
+
+Process organigram
+When I tipped up to Oracle CX this week I was initially disappointed that Mark Hurd, co-CEO Oracle was giving more or less the same keynote that he delivered at HCM World. As he warmed to his theme and talked about end to end processes plus melding sales and marketing it suddenly struck me Hurd is talking about customers and the workforce as two sides of the same coin. It may not be explicitly stated but that’s what it is.
+That may sound like madness for those analysts who tend to bucket themselves as CRM or HCM experts but it is something I am convinced embodies the future of work and the future of customer experience.
+Think about it – where do people research for their next job? Glassdoor. Where do recruiters go to find talent? LinkedIn. Where do we look for product or service recommendations? Yelp, TripAdvisor and so on. Where do we collectively find out about services or companies that suck? Facebook and Twitter. Side note: which company gets the porn treatment on its Facebook complaints section?
+In example after example, Hurd alluded to the fact that so many of our organizations are siloed, they don’t communicate with one another unless it is absolutely necessary and act independently of one another in much the same way as a pantomime horse. In those terms, it is a miracle that anything gets done in some organizations.
+He said:
+The phone company knows when I have a weak signal or cut me off, they know where I am, they know the duration of my calls. I know because we sell them the software that tells them this. Yet what do they do? Nothing. My bank? They call me up and annoy me. They must think I’m some kind of drug dealer because the way money comes into my account is not normal. But they know this and annoy me even though I’ve been a customer for 30 years. It’s not like I showed up last week. This can’t continue.
+I doubt there’s any reader hearing this who won’t be nodding vigorously. He went on:
+Fragmented experiences are generally to do with the way companies are organized. Our company was in silos and we’re changing that. I don’t think it’s mathematically possible for us to double revenue from the market so we have to cross sell and upsell. We started to integrate the marketing and sales process as one process and not two separate processes. We’ve only done this with 22-23% of the process so far.
+In the post keynote conversation I asked the following questions (with answers):
+Qu: Customers and employees – two sides of the same coin? How does that work? 
+The challenge going forward – customers are very willing to talk about their bad experience but we live in a world of transparency. It’s even for everybody. My warts are out there but so are yours. It doesn’t take a big percentage of unhappy customers to trash your brand so that last few percent in customer satisfaction becomes really important. I can’t afford to have unhappy customers. We have to work towards ensuring that every customer is a happy customer and that takes a lot of things to happen inside the sales and marketing organizations.
+Qu – How do you turn employees into polymaths?
+Our employees are no different to any other. The salesforce want me to help them sell, to improve the quality of the profile of the customer. The salesforce wants tested processes so they need more from different sources. We’re giving those capabilities.
+Qu – What is going to happen to the banks etc who behave like they don’t know us? 
+Banks are very siloed. They go to market by product not based upon a 360 degree view of who I am. We’ll provide that view.
+OK – so he didn’t exactly home in on my exact question and tellingly, he ducked the answer to: ‘What timeframe do you envisage to achieve this new state of affairs?’ but when you assemble what he said at the HCM event and this, the picture becomes much clearer and obvious. It was a point I put to other Oracle executives and with which they agreed. But what does this mean in terms of the solutions Oracle is offering  in sales and marketing?
+What’s Oracle doing?
+Aaron Shidler, Vice President, CX Product Development talked at length about cross functional capabilities, pointing out differences between industries Oracle is addressing:
+
+Data model – using households as an example where a cell phone operator wants relationships with the whole family and not just a primary account holder. T-Mobile springs to my mind but others are following suit in rapid succession.
+Policy and workflow – in the case of a retail bank, things like the customer origination process need to reflect what the customer needs which could range from simple checking to mortgage, other loans, investment and pensions advice.
+UI – you don’t expect a bank to share on a tablet but that’s coming in. On the other hand you have to build different experiences for (say) call center.
+Integrations – provisioning, order orchestration, configure, price and quote which in turn requires a lot of work on the data, cloud to cloud, cloud to on-premise, adapters for third party solutions are all part of the mix.
+Analytics – applying industry filters, for example churn analysis in telco.
+
+I pressed Shielder on the integrations component and he readily acknowledged that much of what Oracle has done to date is (relatively) simple point-to-point but that ultimately they have to move beyond that.
+One customer I spoke with was more than happy with Oracle CPQ, saying that it wasn’t just saving time but exposing badly needed process streamlining opportunities that are visible and producing quantifiable business value. When I asked about some of the integrations that company has hefted, he was very clear that they are OK with current point to point but that end to end process integration has to come. Oracle User Group people – you listening to this?
+Attributing marketing success
+Elsewhere, I enjoyed a discussion with Steve Krause, and John Stetic, both GVP, Product Management, Oracle Marketing Cloud who talked at length about the complexities and nuance involved in understanding marketing attribution for measuring campaign success. This is a tricky topic with opinion varying wildly about what to measure and how.
+I take the view that in many situations, we see what amounts to irrational buying behavior that at times defies all logic. This is most prevalent in B2B scenarios I’ve come across but can equally apply to some retail situations.
+Krause made the point that while in detail we may see irrational behaviors that are hard to attribute back to marketing activity, the market as a whole can be viewed more generally as behaving in a manner you can at least predict with a reasonable level of confidence based upon marketing actions. I’d like to see plenty of proof points to be convinced although I get the argument.
+The cultural switch
+The question of how you overcome the cultural problems inherent in siloed operations remains open and it is far from clear where Oracle will take responsibility inside customer accounts for that necessary work.
+I have argued  – as have others – that cloud provides that once in a generation opportunity for software suppliers to leverage their power to ensure that the SIs don’t make out like bandits in another consulting free for all.
+So far, we’ve not seen an appetite by any vendor to take a strong position on this topic. This has to happen if Hurd’s vision is not to end up in the sprawl we saw in the early 2000s and which, by most accounts has been a failure or at best left companies with half assed solutions.
+My take
+This is not the first time Hurd has articulated such a vision. Last June, he kicked the ball into play with talk about customer obsessed marketing. Today, the message is more complete, richer and dare I say it? Compelling.
+It is easy to dismiss Hurd’s words as rhetoric from someone with a track record of cost cutting and lack of appetite for investment. I am mindful of that and recognize there are those with long and bitter memories. I am less concerned about his words than I am about what Oracle has achieved and the direction it is taking.
+Oracle doesn’t make life easy for itself with its ‘build and buy’ approach to technology. The fact they are stuck in point to point integration could yet trip them up.
+Hurd remains data driven and knows that you can’t run a 21st century business when you make both the wrong assumptions and/or don’t have the processes and people in place for the digital transition that’s progress. Tellingly – he knows you cannot meet the survival goals of today’s CEO without making significant changes in people and process driven by a complete and data set you can trust. That’s impossible without a combination of things which absolutely have to include investments not divestments.
+The Oracle CX story is not quite as polished as that I saw at HCM World but it is coming together in a meaningful way. Customers will still be shown a smorgasbord of solutions from which they can pick and mix but that’s not really the goal. Oracle is hoping for example that by showing success in a complete sales/marketing environment that it represents a credible alternative to marketing bolt ons to Salesforce. Expect to hear much ballyhoo in deals where they unseat Salesforce.
+The unstated end game is Oracle end-to-end. It plays the ‘best of breed’ card carefully but be aware this is what they really want to see – and all in the cloud where they can crank revenues at everyone else’s expense. That’s a very tough play.
+Bottom line – as I’ve said before, I like the direction Hurd is signaling because it makes sense. I am cognisant others will find this difficult if not impossible to swallow. With that in mind I conclude with Hurd’s parting words:
+Don’t judge me by what I say, but what I do.
+We will. For sure.
+Image credit: Four main steps for a software process cycle – © Yabresse – Fotolia.com
+Disclosure: Oracle and Salesforce are premier partners at time of writing. Oracle funded some of my T&E to attend this event.
+
+Read more on: CRM and customer experienceFuture of work 

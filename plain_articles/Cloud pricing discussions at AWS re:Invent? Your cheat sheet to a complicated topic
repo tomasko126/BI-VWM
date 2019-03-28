@@ -1,0 +1,71 @@
+
+As AWS re:Invent kicks off the post-Thanksgiving holiday interregnum it is worth opening the kimono on cloud pricing. Let’s be clear from the get-go – it’s complicated and coming up with the right cost profile is far from easy.
+Although AWS controls and dominates the proceedings, many of the attendees use the cloud-savvy, budget-flush demographic to troll for customers, more of which are no longer loyal to the patriarch of cloud infrastructure and are spreading their business around.
+There are many reasons to abandon the AWS monogamy, but cost control is chief among them. However, as a new study by RightScale demonstrates, the enormous variety of cloud services, service configurations, pricing and discount models mean that making price comparisons is better left to data scientists than financial accountants.
+Prices for cloud services drop-in fits and starts, but as the competition heats up, AWS has been more willing to borrow a strategy from its retail parent by cutting prices to maintain growth. Competitive pressure demands it. According to RightScale, which tracks cloud pricing at numerous providers and included AWS, Azure Google and IBM in its latest study,
+70 percent of the 104 price points we include in our comparison have gone down since our last comparison in April 2017. Although these comprise a fraction of the total price points, they represent some of the most commonly used instances.
+Its comparison universe included 26 of services at each provider, and just on a relative basis, all but Google cut prices across the board. Here is a sample.
+
+Service offerings comparisons are Byzantine
+As every cloud user understands, there’s no uniformity among cloud providers in how they size or configure infrastructure services. For example, Google Cloud was notably first to market with the latest Skylake generation Xeon Scalable processors providing a significant, albeit temporary performance advantage given that AWS and Azure have since followed suit. Nevertheless, as the RightScale analysis details, even among the same processor family, service instances differ in available memory and disk. Indeed, RightScale says,“Cloud providers seem to be steering users away from a reliance on local disks for instances and instead pushing them toward attached storage.”
+To make sure that apples-to-apples comparisons are impossible, each of the providers has somewhat different, often confusing, schemes for price discounting. Each of the big three cut rates in return for making one- to three-year commitments on usage, however as RightScale’s analysis points out, programs vary in three areas of flexibility:
+
+Ease of purchase, where Google scores points for enabling discounts to be applied to any instance family and size in a given region.
+Ease of changes, where Google again wins by automatically applying discounts to the aggregate number of vCPUs and memory in a region without needing request changes.
+Ability to cancel where Azure comes out on top by allowing users to withdraw reserved instances, albeit with a 12% penalty.
+
+Each also differs in the payment options, where Google doesn’t require advance payment, Azure makes you pay for everything upfront, and AWS offers the choice of all, none or partial upfront payment. The trick to maximizing one’s discount is figuring out the level of baseline use a particular application or environment consistently requires and then buying enough usage commitments to cover the sustained load without leaving unused resources on the table. As RightScale puts it,
+It can be complex to decide your committed coverage level — how much of your footprint in a particular cloud provider should be covered by commitment-based discounts. In general, the answer is it’s never a 100 percent coverage level (despite what your cloud provider sales rep might tell you), but it is also rarely 0 percent.
+However, such commitment coverage is a function of many factors, not just historical or steady-state usage, but also:
+
+Plans for growth (due to the need for added capacity) or
+Shrinkage (by moving resources to another cloud provider),
+Changes to the required instance family (e.g., moving from standard to high-memory instances), changing or adding cloud regions or
+Modification to the application design by substituting containers or serverless functions for VMs.
+
+Forget feature comparisons, model workloads
+Given the number of variables, the only way to compare costs across providers is by calculating the bill for different sample applications that include a mix of compute, memory and storage requirements. RightScale’s analysis included six scenarios across two vectors:
+
+
+
+Standard 2 vCPU
+with local SSD
+no local SSD
+
+
+High memory 2vCPU
+with local SSD
+no local SSD
+
+
+High CPU 2vCPU
+with local SSD
+no local SSD
+
+
+
+Even with such simple examples, which aren’t representative of complex applications that would include a database, load balancer, external network traffic and foundational services like identity management, infrastructure monitoring or DNS, RightScale found it impossible to make exact comparisons. Caveats aside, for each of the six scenarios, it calculated prices for a mix of situations:
+
+Hourly, on-demand per instance
+Hourly, on-demand per GB of RAM
+Reserved (yearly), discounted per instance
+Reserved (yearly), discounted per GB or RAM
+
+Taken together, these total 24 scenarios, 12 using on-demand pricing and 12 using reserved discounts. Here’s a summary of results:
+
+ 
+
+Overall, Azure is the cost leader, with the lowest price across scenarios about 71% of the time with the highest price just 8% of the time. AWS fell in the middle, while surprisingly, Google Cloud had the highest price half the time, which as RightScale points out results from the fact that it includes less than half the memory of AWS and Azure, thus inflating the cost per unit of RAM.
+Complexity like this calls for some automation
+As public cloud use proliferates and grows more comprehensive among large enterprises, the difficulty of tracking resource usage, spending and performance is an opportunity for software intelligence and automation.
+Vendors have cost management services like AWS Cost Explorer. However, these can flood users with data and don’t do a solid job of summarizing it by application, project or department, nor do they provide much help in identifying usage anomalies or their cause.
+These are just the sorts of insights software from YotaScale, a quasi-stealth startup, seeks to provide by applying machine learning to cloud workload and cost analysis as part of what co-founder and CEO Asim Razzaq calls “AI-enhanced Infrastructure Performance Management.”
+YotaScale, which has already garnered some marquee customers like Zenefits, has entered an already-crowded market that includes cloud cost optimization competitors like Cloudability, Scalr, Turbonomic, and RightScale itself. Furthermore, by acquiring Cloudyn and incorporating it into the Azure Cost Management service, Microsoft is also seizing the opportunity to let users manage, allocate and optimize cloud spending and usage across providers.
+Indeed, given Microsoft’s aggressive pricing and competitive advantage, at least according to RightScale’s analysis, it’s in their interest to help customers understand cloud spending across providers to encourage cost-saving migrations to Azure.
+My take
+Financial filings, show AWS approaching a $20 billion annual run rate. Market estimates that AWS doubles the share of its nearest competitor. In short, AWS dominates the cloud business. Even so, both Microsoft Azure and Google Cloud are making significant inroads with both cloud developers and enterprise IT.
+Each is nearly doubling their cloud revenues every year, albeit off of a smaller base than AWS which is still growing revenue at a 40% clip. Additionally, both Oracle and IBM continue to invest in cloud services targeting their legacy customer base and have carved out meaningful chunks of the cloud market.
+Cost modeling cloud spending is complicated and idiosyncratic, with every organization having a unique mix of services and usage, however by one fundamental measure, compute instances, AWS is playing a defensive strategy by keeping prices low enough to avoid defections and high enough to protect margins.
+Microsoft is acting just as expected for a number two challenger with deep pockets: work aggressively on price and deliver new services at a rapid pace. While Google comes out poorly in RightScale’s analysis of VM pricing, its focus is on simplifying the creation of globally distributed applications and higher level services like machine learning and PaaS stacks, not raw compute capacity.
+Such an increasingly competitive environment means that more enterprise users will be hedging their bets with a multi-cloud strategy, looking to avoid lock-in and reduce costs. However, as RightScale’s analysis points out, the lack of uniformity in cloud services and complexity of pricing and discount models means that IaaS isn’t close to being a commodity. No one will be doing cloud arbitrage anytime soon.
+Image credit - Story and featured image - © spacezerocom – Fotolia.com, charts via RightScale. Read more on: Infrastructure 

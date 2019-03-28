@@ -1,0 +1,31 @@
+
+Barry Crist, Chef Software
+Enterprise IT is capable of changing a lot faster than many of us realize, if the CEO of Chef Software is to be believed. Discussions of digital transformation and the 2-speed IT divide often imagine a roadmap stretching over many years, even decades, before the transformation is complete.
+But while it’s still true that the process typically begins with one or two small edge projects, Chef sees rapid adoption of the ‘continuous delivery’ ethos taking hold once the first projects have been completed. How long does it take from those first projects before the approach is endemic throughout an enterprise, I asked Chef’s CEO Barry Crist on a recent visit to London. His answer surprised me so much I asked him to repeat it just to be sure:
+It takes one to two years.
+Note that we are not talking merely about spinning up new virtual servers in a cloud datacenter, which is where Chef first began to practise the art of automated configuration management. Chef now claims its products can automate the delivery of change at all levels of the technology stack, across hardware infastructure, software runtime and even applications.
+This is part of a wider trend towards automated configuration management and a ‘devops’ mindset as enterprises battle to keep up with the rapid changes they face, in not only the technologies they use but also the business landscape in which they operate. The need for speed forces enterprises to remove longwinded, manual preparation and provisioning processes and replace them with predefined libraries of resources that can be called up on demand. The same principles apply whether the resource is a virtual machine in a data center, a service sitting behind an API or a new function introduced within a SaaS application.
+Business embraces change
+Once one or two teams within an IT department achieve their first successes with a continuous delivery approach, business managers latch on rapidly, Crist told me. Citing examples from well-known brands such as US retailer Nordstrom and global bank Standard Chartered, he explained that people in the business are typically eager to embrace rapid delivery of change when it helps them address long-standing problems or seize new opportunities as they emerge.
+There are two keys to ensuring successful outcomes when initiating projects, Chef has found:
+
+Ensure that the project team is cross-functional rather than confined to a specific department such as IT or marketing.
+Achieve a top-to-bottom focus on outcomes by involving people from developers right through to product management or business development.
+
+This new approach will rapidly chip away at the monolithic complexity of conventional enterprise IT. The old model of an unwieldy service oriented architecture (SOA) mediated by a complex enterprise service bus (ESB) is giving way to simple micro services within a REST architecture accessed via short, automated configuration scripts. As a techie might say, Chef is to ESB as REST was to SOAP.
+While Chef has many direct enterprise customers, it is often also operating behind the scenes at providers those enterprises use. SAP is currently the most active participant in the Chef user community, Crist told me, as it works on a new cloud-based generation of its software products and to streamline its cloud datacenter operations. At Salesforce, Chef helps automate operations within the Force.com and heroku platforms.
+My take
+Perhaps Chef’s perception of the pace of change is skewed by its tendency to work with early adopters who are moving faster than the majority of mainstream enterprises. But perhaps not.
+Chef describes an approach to enterprise IT that brings cross-functional teams together to rapidly achieve business outcomes, and then rinse and repeat. From Chef’s perspective, brought into these engagements by the IT team, this is transforming the way IT operates within an enterprise. But look at it from the opposite perspective and you could see it as transforming the way business works with IT.
+It may be IT that provides the first spark by setting up some initial projects. But it is the business that then rapidly understands the transformative potential and begins pushing to do more. In many organizations, those business users will have already been exposed to a more rapid and iterative style of IT project through prior experiences with SaaS applications.
+No wonder then that they catch on so rapidly and the continuous delivery ethos quickly overruns the entire enterprise in Chef’s experience.
+The result then is an acceleration in the chipping away of legacy systems as they are replaced, one function at a time, by new projects. Sometimes the replacement happens at the SaaS layer — as Salesforce president Keith Block told diginomica only last week:
+Over time, you start to slice off pieces of the engine and that’s how you do the replacement.
+And sometimes, as Chef’s Justin Arbuckle told me last month, it will happen through internal development of new systems:
+What we’re going to see businesses do over the next five to seven years is transform all of their core business assets into high-speed assets …
+The transformation happens a piece at a time, and over time we will see more and more of those pieces happen in sequence and in parallel as organizations begin to scale those smaller projects across their enterprise.
+All these small pockets of transformation that get started in various parts of the enterprise give the misleading impression that nothing substantive is happening. But there comes a tipping point at which they begin to join up and the spread accelerates across the entire organization. Is that a five- to ten-year process or is it one to two years? If the latter, there’s not long to go now before things start to really get interesting in enterprise IT.
+Disclosure: Salesforce and SAP are diginomica premier partners.
+Image credit: by Chef Software.
+
+Image credit - Egg whisk © Jag_cz - Fotolia.com; Barry Crist headshot by Chef Software.Disclosure - Salesforce and SAP are diginomica premier partners.Read more on: DevOps NoSQL and the open source stackFrictionless enterpriseInfrastructureBest of 

@@ -1,0 +1,36 @@
+
+NetSuite added new spend management capabilities to its cloud ERP suite today, including built-in ‘punchout’ purchasing from the recently launched Amazon Business marketplace.
+Today’s product keynote on day two of the company’s annual SuiteWorld conference also revealed a new Android mobile app and showed off various enhancements to NetSuite’s flagship application, including enhancements to tracking and reporting of business metrics, new revenue recognition funtionality and a number of new aids for developers and e-commerce content editors.
+Key features of the new procure-to-pay product are:
+
+An employee portal built on NetSuite’s consumer-friendly CommerceSuite platform
+Flexible and customizable workflow that can apply role-based and rule-based limits on purchases, ranging from quantity or price limits to specific supplier criteria.
+Procurement dashboards with links to demand planning
+A self-service vendor center
+Blanket purchase ordering for repeat orders
+Global vendor management with multi-currency, multi-language and multi-subsidiary capabilities
+
+As well as the integration to Amazon Business, NetSuite also announced a new strategic alliance with Dun & Bradstreet to bring its B2B commercial data directly into relevant records within the NetSuite business suite. Example uses of this data include supplier risk assessment, credit decisioning, and sourcing or validating sales and marketing leads.
+The new Android app provides full access to NetSuite’s cloud ERP, CRM and ecommerce functionality. Presenting the product keynote, CTO Evan Goldberg said:
+We’re the only company that’s applying mobile to ERP. We’re combining ERP with mobile on all types of devices.
+He also showed NetSuite functionality on Apple Watch, slated to be available later this year. Next year, NetSuite will add support for Windows Phone via Windows 10.
+Features to delight CFOs
+Goldberg also showed off new capabilities being added to NetSuite’s core ERP application that delighted CFOs and financial controllers in the audience.
+New revenue recognition capabilities are introduced to help businesses better deal with new rules being introduced this summer. The new capabilities include a new revenue arrangement object that can be used to build custom recognition arrangements and a management console designed for revenue recognition work. There are also new reporting and analytics functions. These new features will integrate with new billing capabilities that NetSuite is preparing for launch next year, he said.
+Goldberg previewed new customization capabilities being added to the NetSuite general ledger. These SuiteGL customizations carry over through twice-yearly updates without the need for recoding and were announced at last year’s SuiteWorld. The first update of this year saw the release of Custom GL Lines, which provide an alternative to manual GL entries where the GL impact of a transaction needs to be recorded differently.
+The next step up is custom GL Transactions, designed to replace repetitive manual journal entries. Goldberg revealed this function is now in beta and will reach general availability later this year in the 2015.2 update. He also demonstrated Custom GL Segments, which allow the creation of additional categories that can be automatically applied to transactions as they are created. Going into beta later this year for general availability next year, this capability will allow for instant reporting on business metrics or other segmentation applied in the GL. Goldberg explained:
+Suppose you want to slice and dice your business by a variety of different dimensions? It’s really like an uber-custom field. You can add different values, you can have hierarchical values with parents, and you can apply the segment anywhere in the system.
+We’re doing this because we want to report on it. We want to be able to slice and dice our information by these different segments.
+Developer accounts
+For developers, NetSuite will now provide the option of having more than one development account. Rather than every developer working with a single sandbox account, said Goldberg, now a customer can open separate accounts for development, staging and functional testing, leaving the sandbox available for final acceptance testing.
+A new application performance monitor provides a dashboard and the ability to send performance alerts to NetSuite administrators. This makes it possible to rapidly spot performance issues and quickly identify the cause, such as a misbehaving script applied to the application.
+Goldberg’s wife Cindy joined him on stage for the now-traditional shopping roleplay scene, designed to show off the omnichannel capabilities of the SuiteCommerce retail platform while entertaining the audience with lines such as “We’re living in an omnichannel world and she’s an omnichannel girl.”
+Goldberg then went on to demonstrate the reference application that customers start with when deploying SuiteCommerce Advanced. This has a responsive design and a modularized codebase. A portal at developers.suitecommerce.com offers design guides, tech documentation, and a customer site gallery to showcase best practice and inspiration. Goldberg said there are plans to extend the portal with video tutorials, code examples, new developer tools and a SuiteLabs area for cutting edge projects.
+He also showed off new advanced PDF and HTML templates to customize the presentation of automated invoices, emails and other documents.
+The keynote ended with a preview of new analytics capabilities that make it possible to identify clusters of behavior in a customer base and target marketing at specific segments.
+My take
+Last year’s SuiteWorld, as I wrote at the time, had a wait-and-see feel to it. There was evidently much going development work going on behind the scenes. A year later, the results are beginning to show through.
+Disclosure: NetSuite is a diginomica premier partner and a recent consulting client of the author. NetSuite funded my travel and accommodation to attend SuiteWorld this week.
+Image credit: By @philww.
+
+Read more on: e-commerceSpend management 

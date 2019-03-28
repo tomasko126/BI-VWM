@@ -1,0 +1,54 @@
+
+At the opening keynote of the Acumatica Summit, CEO Jon Roskill was in his trademark upbeat form. He cited an 83 percent growth rate for 2016, down from triple digit growth the year before but still a fast clip.
+Announcements backed up their cloud ERP midmarket strategy, including the rollout of two new vertical solutions, Acumatica Field Service and Acumatica Commerce. Mixing in good-natured quips against cloud ERP rivals – NetSuite always gets a mention – Roskill made the case for the “abandoned midmarket” that is Acumatica’s target.
+He also returned to his theme of customer multi-clouds, something Acumatica backed up with a day two demo of “seamless” Salesforce integration:
+
+Refreshing to see Acumatica demo real-time sync with Salesforce – even though they have their own CRM. Open = customer win #acumaticasummit
+— Jon Reed (@jonerp) January 31, 2017
+This demo took me by surprise; I know Acumatica is also eager to pick up customers that want to use its own CRM as a Salesforce alternative when they move to Acumatica ERP.
+During a podcast on day one, I asked Roskill to explain why multi-cloud matters to customers. Our podcast shed light on modern ERP and how Acumatica pursues it. We also explored the perception of SaaS ERP as inflexible, and the dangers of source code customization – an issue raised by my recent piece on cloud ERP adoption.
+So why does Roskill frame customer needs in multi-cloud terms?
+From a business user standpoint, I’m amazed at how many people I still meet who are like, “The cloud.” They have this perception it’s all one cloud. It absolutely isn’t. It’s very clear that’s the way the world is going to be now. By that, I mean Microsoft has several clouds themselves. They have the Office 365 cloud. They have the Azure cloud. It’s interesting, Office 365 doesn’t run on Azure, but I won’t go there.
+Acumatica also showed off other multi-cloud announcements, including a DocuSign integration and a new HR integration with InfinityHR:
+We showed Magento today. They have a cloud so, we announced a Magento partnership. We also announced the DocuSign partnership. They have their own cloud.
+Customers don’t want to think about integration. They just want services to work:
+If you think about modernizing your business software environment, it’s really important that you think about this set of core components of which ERP is absolutely one, and making sure that that set of core components is going to be able to play in that multi-cloud world.
+Ideally, customers should not even notice when they move from one service to the next:
+When I say play, it means we’re able to exchange not just information, but to be able to integrate at a fairly seamless level, so that from an employee standpoint, it feels like it’s one system. That’s ultimately what you’re trying to get to.
+Not all of Acumatica’s integrations fit that “seamless” description now, but some – like their embedded manufacturing from JAAS Systems, certainly do. Another key ingredient of modern ERP: an extensible platform, which in Acumatica’s case is called xRP. That platform should come with a slew of easy-to-use APIs. If I’m going to hear an ERP vendor brag on stage, bragging about APIs is a nice change of pace:
+
+Love to hear an ERP company bragging about “our great set of “restful APIs” – that’s what modern ERP should aspire to #acumaticasummit
+— Jon Reed (@jonerp) January 30, 2017
+APIs are the technical foundation of the multi-cloud:
+Then we get into a discussion that gets a little techy, which is: how do you make that happen? You’re really looking for vendors that are supporting modern, typically “RESTful” APIs for modern web services.
+Ergo, the Salesforce demo – a real-time approach:
+Tomorrow, we’re going to show one which is something we’ve been doing with Salesforce. These RESTful endpoints, they’re also new streaming interfaces that are starting to come to bear, so you can be completely real-time on these integrations.
+I asked Roskill if this turns classic ERP evaluation on its head.
+Jon Reed: [That would mean] customers are evaluating ERP really differently. In the past, it was all about which product has the most functionality. Now, it might be less about a functionality grid, more about: “How do you play nice with other products, and can we see your API library?” It’s a strange question to ask an ERP provider, but that’s the world we live in now, right?
+Roskill’s response: customers still need to check off their financial or logistical capabilities, as ever. But APIs are now a consideration. And he doesn’t believe all APIs are created equal:
+[Some vendors] build an application and then they do the API as kind of a wrapper around it… That’s useful only to a certain point. You can get at almost any functionality in Acumatica from a REST endpoint or a REST interface.
+The problem of “lift and shift” to the hosted cloud
+I asked Roskill about the recent piece I did with Eric Kimberling of Panorama Consulting on cloud ERP adoption. Though Kimberling, who also focuses on the midmarket, sees a trend in cloud ERP adoption, the majority is a move to a hosted cloud model, which is essentially a “lift and shift” move where you get rid of internal IT chores but keep a heavily customized code base. I’m not a fan of this approach.
+Roskill was a good person to ask, given that Acumatica has flexible deployment options, which include a private AWS instance. Though you can’t “lift and shift” into a private cloud version of Acumatica. Yes, Acumatica has a “customization framework” to tweak their offering, but that’s the same framework for their public and private cloud versions.
+When you use their customization framework, you’re not altering any Acumatica source code, which is the danger that on-premises ERP deployments historically fell into. Acumatica “customizations” are added on top of the base code line; they don’t complicate your core release upgrades. So what does Roskill think of the lift-and-shift option?
+Moving ERP to hosted environments lets you potentially save some money in your IT cost. Somebody else is in charge of the infrastructure in the managed service environment, and you certainly get some benefit from doing that, but you’re still running on 30-year-old software. It still has the same constraints that you had and so that’s the challenge, right?
+Roskill sees cloud as more than a server location swap:
+What I always go back to is: What are you trying to do with your business? If it’s an active business you’re going to have for more than five years, it makes sense to think about modernizing the entire business platform.
+Modernizing your business can justify implementation and process change costs:
+Almost everybody who winds up doing this with us in Acumatica – when they take that approach of starting off thinking about the modern business processes they want to implement, winds up saving at least two or three people. That by itself can justify the cost of the software adoption, but going beyond that, you start to see other productivity benefits.
+Another big perk of modern ERP is ease of mobile access:
+The one I love to highlight, which I still see less than 20 percent doing is mobile. One of the other reasons to getting in the cloud is that now, it’s super easy for anybody doing mobile access to get at that stuff.
+I ran into the same thing at the Acumatica Summit: a majority of customers not heavily into mobile, but the ones using mobile access will never go back. Roskill also noted the benefits of Amazon’s multi-zone redundancy: “Our experience on Amazon is just stunning. We’re getting 99.987 uptime.”
+Resolving the inflexibility of SaaS with platform
+Kimberling acknowledged that if SaaS can improve flexibility, he thinks SaaS ERP adoption numbers in his surveys will rise further. For some SaaS ERP vendors – Acumatica included – that flexibility is a core pursuit. It’s being done through the combination of APIs, a platform-based apps ecosystem, an easy framework for extensions, and vertical-based editions.
+Roskill tied that together with the so-called multi-cloud:
+You could very easily start a business today and say, “I’m going to buy Office 365 from Microsoft. I’m going to buy Acumatica. I’m going to buy an HR solution.” It could be Zenefits on the low end. It could be Workday on the high end. It could be InfinityHR [in the middle]. Then those three systems would all come basically out of the box with integrations.
+Then what else might you want? It would be a vertical solution. [Our new field service edition will cover, I don’t know, probably 20 percent of the businesses in the country – they can start to customize in that. You’re now getting into a system that is completely customizable for what your needs of your business, it’s all in the cloud.
+My take – modern ERP is a work in progress
+I don’t believe modern ERP is yet a reality – for customers or vendors. It is, however, a worthy pursuit – and progress is afoot. We haven’t covered all the criteria of modern ERP here – user experience is another key (Acumatica is working on a needed UX refresh as I type). Another one is flexible licensing – perhaps Acumatica’s strongest selling point.
+A great ERP result also requires old-fashioned things, like a strong vendor relationship, an expert implementation partner, and well-orchestrated change management. If users don’t care, modern means nothing.
+This is not meant as a critique of Acumatica’s approach – that will come later (example: can their flexible deployment options scale with their growth, or will that become an obstacle?). After I met with Roskill, I bent the ears of plenty of customers and partners. I’ll get to some use cases, and come back with a full review.
+
+Stream podcast on my iTunes Busting the Omni-channel feed
+Some podcast quotes slightly altered for brevity as noted.
+Image credit - Photo of Jon Roskill by Jon Reed. Disclosure - Acumatica is a diginomica partner as of this writing. NetSuite, Salesforce and Workday are diginomica premier partners.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureFinancials 

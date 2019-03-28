@@ -1,0 +1,56 @@
+
+Oh yeah?
+Last week, when the so-called Grand Committee of nations didn’t release the seized Facebook internal documents that had been grabbed by the UK Government, there were some who suggested that the social media giant had been let off the hook. We observed:
+Facebook wants the documents returned and their contents not disclosed. Committee Chair Damian Collins maintains that Parliamentary privilege in fact allows him to publish what they say, but gave the firm some respite by saying that there was no intention to publish them…”today”.
+That ‘today’ was an all-important caveat. The never-knowingly-undersold Collins has played Facebook like a cat plays with a mouse throughout the ongoing inquiry into Fake News that his own Department of Digital, Culture, Media and Sports (DCMS) Select Committee has been conducting. There was no way that the Committee wasn’t going to publish the files and yesterday was the day.
+Was it worth the wait? Well, the contents do make for some interesting reading – and did force Facebook onto the back foot as it issued further denials of wrongdoing. The main points of interest out of 250 pages of documentation:
+Full reciprocity
+As a general meme, the importance of friends data as a revenue stream runs through the documentation, as is the model of linking access to that data to building relationships with developers.
+This went right to the top with CEO Mark Zuckerberg demanding “reciprocity” from the developer ecosystems. In one 2012 email to company execs, he says:
+The purpose of the platform is to tie the universe of all the social apps together so we can enable a lot more sharing and still remain the central hub. This finds the right balance between ubiquity, reciprocity and profit.
+He later announces:
+The quick summary is that I think we should go with full reciprocity and access to app friends for no charge. Full reciprocity means that apps are required to give any user who connects to FB a prominent option to share all of their social content within that service back (ie all content that is visible to more than a few people, but excluding 1:1 or small group messages) back to Facebook. In addition to this, in the future, I also think we should develop a premium service for things like instant personalization and coefficient, but that can be separate from this next release of platform…
+We’re trying to enable people to share everything they want, and to do it on Facebook. Sometimes the best way to enable people to share something is to have a developer build a special purpose app or network for that type of content and to make that app social by having Facebook plug into it. However, that may be good for the world but it’s not good for us unless people also share back to Facebook and that content increases the value of our network. So ultimately, I think the purpose of platform – even the read side – is to increase sharing back into Facebook.
+This elicited a response from Chief Operating Officer Sheryl Sandberg:
+I like full reciprocity and this is the heart of why.
+What Facebook says now: 
+We explored multiple ways to build a sustainable business with developers who were building apps that were useful to people. But instead of requiring developers to buy advertising – the option discussed in these cherrypicked emails – we ultimately settled on a model where developers did not need to purchase advertising to access APIs and we continued to provide the developer platform for free.
+The Android concealment
+Facebook execs also knew that changes to policies on Android devices, which allowed for the collection of call and text information, would be controversial, so actively determined to make it as hard as possible for users to know that this would be one of the main features of the upgrade. Facebook product manager Michael LeBeau warns in 2015:
+As you know all the growth team is planning on shipping a permissions update on Android at the end of this month. They are going to include the ‘read call log’ permission… This is a pretty high-risk thing to do from a PR perspective but it appears that the growth team will charge ahead and do it.
+Fortunately a Facebooker called Yul Kwon seems to have found the solution:
+The Growth team is now exploring a path where we only request Read Call Log permission, and hold off on requesting any other permissions for now. Based on their initial testing, it seems this would allow us to upgrade users without subjecting them to an Android permissions dialog at all. It would still be a breaking change, so users would have to click to upgrade, but no permissions dialog screen.
+What Facebook says now:
+This was a discussion about how our decision to launch this opt-in feature would interact with the Android operating system’s own permission screens. This was not a discussion about avoiding asking people for permission.
+Shutting down the competition
+There’s insight into how far Facebook (and Zuckerberg) were ready to go to shut down threats from rivals, such as the CEO signing off on blocking Twitter’s access to the Facebook API when it launched its Vine video clip offering. In response to an email from Facebook VP Justin Osofsky proposing to cut off access to data for Vine, Zuckerberg simply says:
+Yup, go for it.
+What Facebook says now:
+We built our developer platform years ago to pave the way for innovation in social apps and services. At that time we made the decision to restrict apps built on top of our platform that replicated our core functionality…As part of our ongoing review we have decided that we will remove this out-of-date policy so that our platform remains as open as possible. We think this is the right thing to do as platforms and technology develop and grow.
+Whitelisting
+In its defence in recent months, Facebook execs have pointed to platform changes made in 2015/2015 to protect user data, but the seized documents reveal that it “whitelisted” certain key companies, including Airbnb, Netflix, and Badoo, to allow them to retain full access to users’ friends’ data anyway.
+What Facebook says now:
+In some situations, when necessary, we allowed developers to access a list of the users’ friends. This was not friends’ private information but a list of your friends (name and profile pic)…In addition, white lists are also common practice when testing new features and functionality with a limited set of partners before rolling out the feature more broadly (aka beta testing).
+The Onavo investment
+In 2103, Facebook bought Israeli analytics firm Onavo and used its tech to check customers’ usage of mobile apps without their knowledge.
+What Facebook says now:
+Onavo collects information about app usage to gain insights into the products and services people value, so we can build better experiences. We’ve always been clear when people download Onavo about the information that is collected and how it is used, including by Facebook. We let people know before they download the app and on the first screen they see after installing it…We use Onavo, App Annie, comScore, and publicly available tools to help us understand the market and improve all our services.
+As for Zuck…
+The publication of the documents were apparently embarrassing enough to prompt Zuckerberg into a response on Facebook:
+I understand there is a lot of scrutiny on how we run our systems. That’s healthy given the vast number of people who use our services around the world, and it is right that we are constantly asked to explain what we do. But it’s also important that the coverage of what we do — including the explanation of these internal documents — doesn’t misrepresent our actions or motives.
+He states:
+Like any organization, we had a lot of internal discussion and people raised different ideas. Ultimately, we decided on a model where we continued to provide the developer platform for free and developers could choose to buy ads if they wanted. This model has worked well.
+And he makes a stark claim that will be returned to time and again in the months to come:
+To be clear, that’s different from selling people’s data. We’ve never sold anyone’s data.
+My take
+That may be good for the world, but it’s not good for us.
+One line from a 2012 email from Zuckerberg. Remember that next time he or Sandberg start banging on  about Facebook changing the world.
+Having ploughed through the files, the only conclusion that I can come to is that Facebook consciously traded in user data for its own ends and that knowledge of this went right up through the company.
+This line of “We’ve never sold anyone’s data” sits uncomfortably with an email from Konstantinos Papamiltidas, Facebook’s Director of Platform Partnerships:
+Communicate in one-go to all apps that don’t spend that those permission[s] will be revoked.. Communicate to the rest that they need to spend on [Facebook ad platform] NEKO $250k a year to maintain access to the data.
+Zuck himself in another email talks about charging developers a fee for accessing user data, which he says should ‘cost a lot of money’, noting that:
+For the money that you owe, you can cover it in any of the following ways: Buy[ing] ads from us in NEKO or another system.
+But they never sold anyone’s data, OK? No, they just bartered access to it. Semantics is everything…
+If Zuckerberg wants to challenge this interpretation, he need only jump on a plane to London where Collins and the DCMS Committee will be only too pleased to talk to him.
+Let’s not hold our breath, eh?
+Image credit - Facebook Read more on: Data privacyGoverning identity privacy and securityRegulationSocial 

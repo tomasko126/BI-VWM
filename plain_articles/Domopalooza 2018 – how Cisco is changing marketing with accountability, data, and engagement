@@ -1,0 +1,65 @@
+
+Cisco’s Puthussery and Domo’s Josh James
+It’s been a year since I wrote about Domo’s epic quest to win the BI business user. I hear very little talk about BI this year though. It’s all about decision makers, and “running your business from your phone” – which, of course, Domo believes it’s ideally positioned for.
+Meanwhile, Domo has also outgrown their prior event space, and relocated their annual data party (3,000+) to the Salt Lake City Convention Center, aka Salt City.
+Why marketing needs accountability – and data
+Halfway through Domopalooza 2018, I’m still digging into how customers feel about the progress made. But one customer with a compelling story to tell was Cisco. During an extravagant four hour keynote variety show, Domo CEO Josh James put Cisco VP of Digital Marketing Joseph Puthussery in the chair. Domo at Cisco scale? Sure. But it wasn’t the scale that made Cisco’s story stand out.
+Puthussery’s team isn’t dabbling in data visualization. This is part of a massive shift in marketing to align with digital change. He’s been working with CMO Karen Walker to make this happen:
+We’ve really been in a transformational mindset. We knew that the world was changing, and we had to make sure that we were ready for what was coming.
+Puthussery wanted marketing be closer to the customer – and, yes, more accountable.
+I grew up in sales, and I spent a lot of time in the field. I really wanted to have the same kind of accountability in the field that the sales guys always had… The one thing was that they were incredibly close to their customers. And that relationship, that intimacy was something I really wanted to create in marketing.
+It wasn’t just about customer intimacy; it was also about data.
+I want everybody in marketing to know their customers, but also their numbers.
+As Puthussery acknowledged to James, not everyone in marketing wanted that kind of accountability.
+A lot of people wanted to stick with the art, and creativity, and fun. But we spend a lot of money. At some point, we need to be able to rationalize and justify, and grow our business. And we needed something to visualize that.
+A classic enterprise BI problem – “We ran out of scale”
+So Puthussery’s team started tracking data:
+We went down a path of measuring our leads and our revenue, and got really good at that.
+But they ran into a familiar enterprise BI problem: scale.
+We ran out of scale, ran out of performance on the previous platforms.
+Puthussery’s team looked at options, and kicked tires on Domo. Two benefits stood out. The first? Ease of use:
+Clearly the visualization is a big deal. It’s easy for people to absorb.
+The other factor? Ease of integration:
+We’ve bought something like forty applications in the last two and a half years, and spent nearly $50 million in marketing software. I couldn’t build all those integrations.
+BI user adoption – you have to earn it
+Puthussery’s Domo initiative began with two phases:
+1. Get the data foundation right, including the integrations -“that was really, really important.”
+2. Deliver the right data to the right audience – “we wanted every marketer to understand how this could be valuable for them.”
+Puthussery’s team dove into design thinking sessions, building a set of personas. They used Domo to deliver a set of standard and customized views. Fast forward 14 months: Cisco now has 1,200 people on the Domo platform, with about 200 daily users.
+When you think about the fact that our total population in marketing is only about 2000 people, there was a pretty good saturation of the really important people that are doing this.
+Last September, the CMO mandated the usage of Domo. For other companies struggling with BI adoption, should they think bottom up, or top down? Puthussery’s advice? Do both, but if people don’t love the tool, you’re in trouble:
+It was a bottom up and top down process. We really focused on bottom up to begin with. Because we wanted people to love it and enjoy it. We wanted to earn the right to have them use it… We were already about 900 users before the CMO mandated it, in terms of usage. So it was bottoms up, top down – people love it.
+Extracting value from marketing data
+So how are Cisco marketers using Domo?
+We put everything in there in marketing…  Everything to do with our funnel metrics.
+That means questions like:
+
+Tracking the sales funnel – “Are they top of the funnel, are they in consideration phase, or are they just about to buy? We have all of that data.”
+Tracking all channels and touchpoints – “We have all the channels. Social media, display advertising, web, PR, just about every touchpoint that we have with a customer is in Domo.”
+Tracking audiences by segments – “Are we talking to vertical customers, are we talking to line of business, are we talking to network buyers? All those audiences have been defined.”
+Content measurement and performance –  “The most important and biggest piece of it is to tag all of our content and measure content performance.”
+
+With all those pieces in place, “Now you’ve pretty much instrumented the whole [marketing] organization.” That’s a big change from the pre-Domo days, where there were “pockets of accountability,” and a lot of time squandered stitching data together:
+Where we are now is that we have a single source of truth, a data foundation. And then you can build as many views on it as you like.
+Changing the marketing game with “engagement points”
+Users are heavily involved in creating the views (which Domo calls cards). Card-building has taken off. Of Cisco’s 12,000 cards, Puthussery’s core team only built 3,000 of them. But there’s a notable twist: Cicsco now uses Domo in a way that even Domo did not anticipate. It’s called “engagement points.”
+The idea came out of a problem: Cisco had successfully instrumented the bottom of the funnel; they could track leads as they turned into sales. “At the closest point to the purchase, we knew a lot about the customer in marketing.”
+But earlier in the funnel, they had a problem:
+What we didn’t know was the earlier phases of the engagement. When we did an advertising campaign, we did a social media run. But what was happening with those customers?
+Puthussery’s team built a data model that instrumented every single touch point, and gave each touch point a score for any return visitor to Cisco in any form, including offline.
+Now we have this system called engagement points, and it’s the way in which every single part of the organization measures itself. I’ll have content people come up to me and say, “This content got this many engagement points.” So we’re looking at content; we’re looking at media; we look at social media.
+Now we have a neutral way for everybody to compare their performance. And so that has now become, in the last 15 months, our north star for how we measure top of the funnel, middle of the funnel, and then of course back to leads and pipeline at the bottom of the funnel.
+The wrap – AI, automation, and predictive ahead
+Domo has played a big role marketing the launch of Cisco’s Catalyst 9000 product, which Puthussery sees as “transformational” to Cisco’s business. Using Domo, they’ve had an all-out launch push with 27,000 targeted customers being tracked in Domo. Catalyst 9000 is off to a healthy start, moving from 50 to 400 to 3,500 customers.
+Looking ahead, Puthussery wants to harness Domo for predictive events:
+We’ve had a couple of experiments where we’ve seen engagement fall off. Two months later, we know that we’ve lost a very large sale to a competitor.
+Puthussery wants to build a digital early warning system:
+That been my vision and dream all along: can I bring to the CEO and the Chief Sales Officer an early warning system? If you can forecast weather, you can certainly forecast digital behavior.
+But if marketers around the world want to make good on this, there is work ahead:
+We are swimming in a lot of dirt, and we need to turn that into insight; we need to turn that into action. And time between data and action needs to be dramatically reduced.
+It’s early days, but Puthussery thinks machine learning and automation can help:
+You’re going to see us spend a good amount of time figuring out machine learning, building our algorithm where we automatically orchestrate the next part of the journey – without having to have a marketer sitting in between, looking at the app, and deciding what to do. That’s all going to be automated.
+Puthussery is counting on Domo to help make this happen:
+To the extent we can have Domo help us connect to all of our other applications, that’s going to be a big deal. Both ways, not just from the application to Domo, but back again to orchestrate the behavior.
+That’s a worthy challenge to revisit at Domopalooza next year.
+Image credit - Photo of Joseph Puthussery at Domopalooza 2018 by Jon Reed. Disclosure - Domo covered the bulk of my expenses to attend Domopalooza 2018. Read more on: Analytics planning and data analysisContent marketingDigital and content marketingUse cases 

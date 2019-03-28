@@ -1,0 +1,60 @@
+
+Lysenko of Acronis. during our video chat
+I wasn’t surprised to hear Acumatica CEO Jon Roskill mention blockchain from the keynote stage. Brian Sommer and I joked afterwards on a podcast taping that we’ll be seeing plenty of blockchain name drops enterprise stages in 2017.
+Still, this marked the first blockchain demo I’d seen with an ERP tie-in:
+
+First blockchain – ERP integration demo I have seen to date. Acronis invoice verfication via blockchain notary system #acumaticasummit https://t.co/ctsrXs33q7
+— Jon Reed (@jonerp) January 31, 2017
+Granted, it was not a financial use case. But as Acronis’ VP of Blockchain Victor Lysenko said to me in an impromptu demo floor video, he sees non-financial use cases as better candidates for blockchain traction in 2017. Lysenko certainly hopes so – the Acronis Notary product, now available, is focused on data authenticity and protection.
+Another big enterprise blockchain story in 2017 is the emergence of Hyperledger as a potential platform for enterprise blockchain projects. At least year’s Consensus 2016 show, Ethereum had the upper hand. But as I wrote in Trust, identity and the Ethereum hard fork, the hard fork shook things up. Hyperledger now appears to have more momentum – at least for now (the attempt to incorporate Ethereum code into Hyperledger  has been derailed by developer politics).
+I got into the Hyperledger weeds in a blockchain-themed audio hangout with two enterprise dudes and blockchain/Hyperledger enthusiasts, Greg Misiorek and Clive Boulton. Here’s my roundup of both chats.
+Acronis on blockchain – video summary and analysis
+On day two of the Acumatica Summit, Roskill showed off some next-gen stuff that might someday be part of Acumatica’s cloud ERP release. One of those the aforementioned Acronis Notary blockchain integration demo. During my impromptu video with Lysenko, he noted a few key points:
+
+Acronis has been pursuing blockchain initiatives for a while; Acronis Notary, now available, is one result.
+Acronis Notary fits into Lysenko’s view that the banking systems will be slower to adopt blockchain due to regulatory hurdles.
+Though blockchain stems from Bitcoin, Lysenko is bullish on other use cases. He sees scenarios involving data authentication and payment protection – the kind Acronis is pursuing – as easier to go-live (less regulatory barriers).
+Lysenko sees insurance as a prime industry for blockchain adoption, with banking and healthcare lagging.
+Lysenko thinks 2017 will be the year that enterprise blockchain moves from pilot projects to wider-scale initiatives.
+
+Off-camera, Lysenko and I delved into disagreements. I’m not as optimistic that we’ll see larger scale blockchain projects in 2017 – maybe the latter half of the year. I also think public sector (at the regional/state level) is a prime candidate for the kinds of document validation projects Lysenko advocates. See the state of Delaware’s smart contracts project, and The Republic of Georgia’s land title initiative.
+Lysenko’s central point, that enterprise blockchain will be sparked by data authentication, rings true. That certainly fits the ERP integrations I expect to see, including Acumatica’s (possible) scenario. We’re not likely to see a big ERP player rip out their general ledger for blockchain anytime soon. Tying in data authentication and asset validation on the edges are the likely testing grounds.
+Hyperledger chat – why should the enterprise care?
+My Hyperledger chat with Misiorek and Boulton shows the power of community and, something I tend to be cynical about – social networks. Misiorek and Boulton are frequent diginomica commenters, both of whom cleverly manage to mix blockchain themes into their posts here.
+They were both at an IBM-sponsored blockchain hackathon in New York City. A tweet from me sparked the two of them to meet in person – something I have been on the receiving end as well. That’s the “small world” magic of Twitter at is (rare) best. Hackathons driving enterprise adoption is another twist. Enter the so-called  Hackaonomy.
+My burning questions for the audio chat were:
+
+Why are two enterprise dudes so passionate about blockchain? This is of particular interest in Misiorek’s case, as he doubles as an old-school SAP financials biz/tech expert.
+Why Hyperledger?
+What use cases do you find most compelling?
+
+When I asked Misiorek if this was a massive departure from his SAP roots, he said the opposite. He believes SAP – and other ERP players – have a “vested interest” in blockchain:
+I cannot speak for either IBM or SAP, just for myself, but I think SAP has vested interest. It’s an incumbent in the space as far as ledgers as payments go. SAP providing solutions to financial services companies and multi-nationals and all the large business players.
+Though Misiorek doesn’t always get straight answers to his inquiries, he does see action happening:
+I definitely see interest from SAP… Microsoft is definitely dedicated but I’m sure Oracle’s working on it as well… I just don’t believe SAP wouldn’t do anything in this space.
+Boulton’s background is heavy on tech exploration, from working on a “micro-ERP” system to knee-deep in Google technologies. While at a startup incubator, he met a Bitcoin startup. Blockchain immediately struck Boulton as way to solve business problems he’d been trying to solve for a non-profit food distribution center with distributed locales that needed a network. Had he been using the “wrong technologies” before? Enter blockchain:
+When I saw blockchain, I started learning everything that I possibly could about these technologies because I could see this as an open source project. We haven’t really had an open source project in the ERP field. where people have been taking a use case and building in an open environment to try and develop the standards and the sample code and scale out to solve much larger problems.
+Why Hyperledger?
+And why Hyperledger? Boulton:
+The goal of Hyperledger is enterprise grade modular open source components and platforms that provide not only infrastructure, but the platform for [blockchain] applications. I find that exciting because I haven’t seen a collection like that for ERP and financial applications available before.
+Blockchain reminds Boulton of his micro-ERP years, when no general ledger was needed for shipping thousands of products (though the distributed info could be exported and pulled into a general SAP-type ledger at headquarters).
+Here I come across blockchain. I can see that we have a common ledger. and that common ledger can be distributed to all of the participants inside a network. In terms of Hyperledger, it’s a business network that could be as small as just two large banks doing business together, or it can be as large as an SAP supply chain for a complex product, like the iPhone. I find that technology really exciting, and just look forward to building a prototype on it.
+Blockchain use cases – SAP and Wal-Mart
+And what about use cases? Misiorek pointed to SAP’s proof of concept with the Ripple payment system. As Finextra reported, SAP teamed up with Ripple and two banks,  ATB Financial (Canada) and Reisebank (Germany), to evaluate whether banks could improve  the efficiency of cross-border payments with blockchain tech. The POC connected SAP’s HANA Cloud Platform and the SAP Payment Engine with Ripple’s blockchain network.
+The prototype was used to send what is claimed to be “the first international interbank blockchain payment of CAD $ 1,000 from ATB Financial to Reisebank.” The cross-border payment was successful. The result was promising:
+The payment which would normally have taken between two to six business days to process “was now completed in around 20 seconds, so nearly instantaneous”. In addition for being far quicker, this blockchain payment transaction cost a fraction of current transaction rates.
+Even an SAP practitioner like Misiorek doesn’t think blockchain will replace the S/4HANA general ledger. But Misiorek sees an S/4HANA blockchain payment solution as a realistic scenario.
+Boulton pointed us to Wal-Mart China, where Wal-Mart Stores Inc., is conducting a major test of blockchain technology. The pilot project will run in the first quarter of 2017, after which results will be evaluated. The project will involve tracking identification details of each party handling pork and produce. It will be built on IBM’s version of the open source Hyperledger platform.
+Final thoughts – mobile, cloud and blockchain converge
+The common thread between these two discussions isn’t Hyperledger. Hyperledger – like other blockchain consortiums – may stall and sputter (Lysenko expressed his own doubts to me about Hyperledger before the video).
+The thread is the continued testing of blockchain for use cases that involve either data authentication or, in some cases, payment validations. Some of these are connected to finance. They are not the direct shot at the heart of financial institutions some blockchain enthusiasts are rooting for.
+The Wall Street Journal summed this up:
+Supply chain management and other sectors are interested in blockchain for digitizing the hand-offs between trading partners that are often managed in paper files and subject to delays and errors.
+Blockchain tech is not perceived as the impediment by Wal-Mart:
+For Wal-Mart, the capabilities of blockchain technology itself are not in question, he said. More challenging is setting up technology for farmers, field workers and others to collect data and insert it onto a blockchain.
+It’s really the proliferation of smart phones that provides the key driver to enable remote farmers to input data. Still, Wal-Mart is about to put blockchain to a new test. It’s the convergence of smart phones, cloud computing, and blockchain tech that allows farmers to input data directly to a blockchain ledger.
+The potential? A “deep traceability” not possible before. Even here, we’re talking about a proof of concept. “Check back in six months” is an unsatisfying way to wrap an article, but we should know a lot more then.
+
+
+
+Image credit - Screen cap of Lysenko from our video shoot, live at Acumatica Summit 2017.Disclosure - Acumatica is a diginomica partner. Acumatica covered most of my travel expenses to attend the Acumatica Summit. Read more on: Digital skills and trainingInternet of ThingsThe new professional and IT as a service 

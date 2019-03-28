@@ -1,0 +1,17 @@
+
+We take a peak at SAP Digital Consumer Insight
+A couple of weeks ago, I met wth Jonathan Becher, chief digital officer SAP at the company’s Palo Alto offices. Among other things, he showed me a preview of SAP’s Consumer Digital Insight. This is a data service that, in the words of the blurbs allows buyers to:
+Access anonymized, near real-time mobile data that shows which consumers pass through a chosen location, where they come from, and how long they stay. Get detailed information about their behavior, demographic characteristics, and devices they’re using.
+When I first saw this demonstrated, I had one of those rare jaw dropping moments. I realized that SAP is onto something really BIG. It doesn’t happen often. In fact almost never. So – what does it do and why should anyone care?
+This is one of those things where it makes much more sense to show than tell but I’ll give it a shot.
+Consumer Digital Insights is an outgrowth of the telco brokerage technology SAP picked up as part of the Sybase acquisition. Uniquely – because no one else has this – SAP provides the handshake between telcos that allows you and I to speak with one another across cell phone companies regardless of provider. In turn, those handshakes generate data which SAP uses in order to provide anonymized information about geolocation activity.
+SAP therefore can start to help business answer questions in near real time about activity around any location for which it has enough data. Here are examples:
+
+SAP has done something that blew me away – it has made that data both useful and obvious in presentation. Users can make intuitive inferences about activity I have never seen before.
+At SAPPHIRE Now, SAP gave us a preview of what can be achieved. As you can see from the photo at the top of this post, colleagues were more than a little impressed. Later, we shot a video that included a discussion about this topic. Here is what some of the SAP influencers think about it:
+
+From a price perspective, the service is a no brainer. For less than $500, buyers can get a single insight available via the SAP digital store. SAP is packaging multiple insights and at some point in the not too distant future will make the service available to large customers on a PO basis. In my view, pricing is so attractive that this should become a monster and I can easily imagine it ballooning into a major product.
+In conversation with Becher, it turns out that business of any size are finding value in the service. He said that one of the first businesses to try the service was a hair salon. Who would have thought?
+There is always the question of whether the data is truly anonymized. According to Becher, SAP cannot see any personal data. Then there is the question of whether the data is representative. Again, according to Becher, the company has had the statistical validity of results independently verified and, if in a particular instance, there isn’t enough data then it returns ‘no result’ and the data buyer pays nothing.
+Net net, this is truly exciting. Go check it out.
+Image credit - Top story image via the author, graphics via SAPDisclosure - SAP is a premier partner at time of writingRead more on: Analytics planning and data analysis 

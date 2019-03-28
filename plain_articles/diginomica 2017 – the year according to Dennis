@@ -1,0 +1,120 @@
+
+ (1) Cost of 21st-century business or greedy vendors?
+I expected SAP indirect access licensing to be top of mind. I didn’t expect it to be pretty much the only topic of conversation between myself, SAP executives, customers, and partners.
+Why? The year got off to a miserable start for SAP’s reputation with the very public examination of the SAP v Diageo indirect access case. And despite best efforts by the company to come to a conclusion, there is still no end in sight for the much dreaded indirect access topic. 2018 will be a watershed year for both SAP and its customers. The good news is that we have a fair idea how this will pan out. The unknown is whether customers will be satisfied with the eventual compromises. There’s a ton of potentially bad news, but I’d rather not speculate on that stuff.
+
+SAP indirect access licensing as viewed from the UK and Irish trenches
+SAP attempts to calm user fears on indirect access with SAP Licensing Transparency Center
+Trust and relevance – the twin challenges SAP faces as it meets with SAP UK & Ireland User Group
+UK and Ireland SAP User Group’s new chairman talks indirect access, coders and Brexit
+SAPPHIRENow 2017 – indirect access, a topic that refuses to die
+SAP UK v Diageo – an important ruling for customers with indirect access issues
+
+(2) Infrastructure moves to the cloud
+I expect the coming year to be one of significant increases in cloud-native application design and deployment highlighted by the growing use of platform services, event-driven, serverless designs and high-value data analytics, AI and machine learning services. Achieving this will require plenty of work by both cloud service providers and enterprise developers and the symbiotic feedback between the two will undoubtedly lead to unexpected developments, new products and spectacular failures that we will chronicle here throughout the year.
+Why? Kurt Marko kicked off 2017 with the above prediction, which built upon the many stories he wrote around this topic in 2016, He wasn’t far wrong in 2017 and I enjoyed following his analysis as the topic unfolded with his assessment of AWS re:Invent taking on a particular poignancy. Service enablement hasn’t caught up with product releases and it is now an open question as to how much gets done by each of the big vendors to help hard pressed and likely unexperienced developers.
+
+Cloud infrastructure vendors provide design guidance, but more help is needed
+How AWS is rotting the buyer’s brain with sprawl
+Cloud pricing discussions at AWS re:Invent? Your cheat sheet to a complicated topic
+The dawning age of customized hardware
+
+(3)  Uber – taxi rank arrogance
+If Uber are successful in having this business model, obliterating industrial relations as we know them in the UK, then I can guarantee you on every high street, in retail, fast food, any industry you like, the same thing will go on.
+Why? It was an annus horribilis for Uber. A CEO who turned out to be toxic and was brought down by Susan Fowler, the FT’s Person of the Year 2017, court cases that favored workers rights over Uber’s claim to driver self-employment, losing its operating license in London, the largest city in which it operates outside the USA, followed by more license suspensions or outright bans left the Uber of 2017 in all sorts of trouble. A new CEO hasn’t been able to fix the damage, despite having a management clear out. 2018 promises to be equally challenging. There was so much we could have said but I’m restricting this to topics that are relevant to our readers.
+
+
+The Uber London employment decision – implications for contingent and gig labor
+London’s Uber ban – turning the city’s back on innovation and the ‘gig economy’?
+Kalanick’s departure is the fare for Uber’s car crash of a toxic culture
+Tone at the top – Uber’s sexual harassment problem that neuters HR
+
+(4) Workday customers speak to innovation and customer satisfaction
+Workday has become the vocabulary of the college.
+Why? Aneel Bhusri, CEO Workday has been relentless in his pursuit of happy customers and that shone through this year with a steady drumbeat of great customer stories. And it’s showing up in the deals. It’s interesting that the customers I spoke with are all expecting to innovate in their environments. You don’t often hear that from HR and finance professionals.
+
+Customers are talking among themselves about Workday – and that’s paying off
+Boston Medical Center time warps from 1864 to the present day with Workday
+CustomInk prints better results with Workday
+CIO view – inside Accuride Corporation’s two-tier ERP pursuits with Plex and Workday
+How CityMD uses Workday financials to efficiently serve kindness
+Wellesley College modernizes with Workday HR and finance suite
+After Walmart, Workday signs its retail arch-rival Amazon
+
+(5) Customers speak at Suiteworld17
+Up front we had a pretty good idea what we needed the site to do, we needed to replicate the functionality we had, needed it to be responsive, we wanted a face lift. We knew we needed to provide some critical metrics, and we also were looking for some gains in operational efficiency – we wanted to increase the amount of customer self-service and cut down some of the time spent on eternal processes.
+Why? We love hearing about customer success and at this year’s Suiteworld we got a handful and more, all with interesting facets of the shift to cloud-based ERP
+
+Cloud enabling charities to focus on what’s important
+DIY Home Center sees six digit revenue increase with NetSuite SuiteCommerce
+Food for the Hungry serves up faster donations with NetSuite
+Enviroscent builds custom subscription business in NetSuite for fragrance buyers
+Wallet maker Secrid reveals lessons learned from move to cloud-based ERP
+Design Within Reach looks to VR and AI to entice buyers
+Designer of sound proof office pods scales in the cloud with NetSuite
+Sports goods supplier Rico modernises order management
+
+(6) SMBs hunger for innovation
+Although Salesforce has healthy CRM market share in the SMB segment, the vast majority of smaller businesses still use no CRM at all. They’re managing with spreadsheets, contact managers and other ad hoc solutions.
+Why? SAP and Salesforce (to name but two) have realized that the SMB market is underserved and are coming back with better offerings. However, there’s plenty of action elsewhere as vendors realize the needs of even the smallest businesses are just as complex as that of their larger brethren. We’ve seen some excellent examples of innovation among newer vendors and expect to see much more in 2018.
+
+Salesforce Essentials welcomes SMBs back into the CRM fold
+Workday and Xero – two ends of the same spectrum?
+Can QuickBooks Online crack the UK SMB market?
+Xerocon US 2017 – is the US catching up with the rest of the world?
+Solving for the nightmare of pick, pack and ship at The Gravity Cartel with VersAccounts
+Adaptive Insights Torchie Award winners share FP&A progress in 2017
+What does a best run 21st century business look like? Ask Chagrin Valley Soap and Salve
+Accelerating time to decision at ADAC Automotive with Vena’s budgeting solution
+
+(7) Rants a-plenty
+Consumer vendors who operate digital only storefronts need to have immaculate supply chain execution. Those that don’t will face hidden and hideous costs in returns and replacement that can cripple thin margin businesses like the one I am discussing today.
+Why? Everything from crappy last mile delivery (remind me to name names – very soon,) imitation customer service and poor quality reminds me that whatever technology is promising, it’s often a cockup in the real world. We will continue to rant on these topics because it brings out the realities everyone faces and shines a light on how a failure to build in the human element often has an enormous impact on the services we receive.
+
+Instant rant: Laptopsdirect needs lessons from Amazon
+Friday rant – UK high speed internet provisioning needs a CRM reboot
+Friday rant – personalization in email marketing for services is mostly a pipe dream
+Ocado’s three-strikes-and-out e-commerce fail – good CRM doesn’t help when logistics fall short
+BT one, UK nil – Ofcom’s betrayal of the digital economy with Openreach fudge
+When quality design fails – the Fitbit Charge HR Half Bar of Death
+
+(8) Growing pains at Infosys
+The last few days I keep hearing about how Sikka didn’t fully grasp the Infosys culture in India and yes, I get that. But when you are not only facing macro-industry problems but a ‘constant drumbeat’ of things that take you away from running the business, there comes a point where you have to look in the mirror and acknowledge that it just isn’t working and may never work.
+The Indian heritage services companies are going through a very rough period as they attempt to transform from body shops of arbitraged labor to modern, partner model businesses with a consulting touch. Infosys has been on that road a few years but it ran into trouble when founders decided they didn’t like what they saw and decided to make life impossible for the CEO. The net result? Vishal Sikka, the CEO brought in by the most vocal founder, walked away. Will 2018 be any calmer? It’s hard to tell but the astonishing manner in  which they’ve airbrushed seemingly intractable problems suggests that we’ll see another showdown.
+
+Exclusive – Sikka breaks silence as he exits a bruised Infosys
+Vishal Sikka, out as CEO and MD Infosys – ‘sickening’ distractions
+Infosys board at war with founders, attacks claims as false
+Vishal Sikka, CEO Infosys under proxy fire
+Infosys Q4 FY2017 results disappoint amid management distractions and execution challenges
+The rocky road to digital transformation – CEO Infosys under fire
+
+(9) 2017 – the year of the silence breakers
+It’s really important to me that my company supports diversity. I couldn’t work at a company that didn’t. It’s important to me in choosing a job, certainly, but it’s also important that I can continue to push for making work a better place for the LGBT community.
+Why? I could talk at length about the bravery of those who have spoken out about sexual harassment but we prefer to focus upon the work that leaders are doing to make diversity an actionable top of mind topic and, more important, the progress they are making. This year we started to see a movement away from the angst of early coverage to stories that demonstrate success. Right now, the success cadence is modest but 2018 will be MUCH better.
+
+How CA Technologies ensures diversity and inclusion thrive
+The accounting field confronts workplace diversity – data and reflections from Xerocon
+GE Digital’s Deborah Sherry – why diversity and equality add up to productivity
+Bras, Bitcoin and Brexit – Baroness Mone on entrepreneurs, business diversity and tech
+FinancialForce on workplace diversity – from grassroots to executive buy-in
+Why Salesforce’s diversity prophet doesn’t need to preach to the Ohana
+Diversity is good for business – but does everyone get it?
+
+(10) Other people’s awesomeness
+There are plenty of smart people who influence my thinking and provide fresh avenues for discovery. Here’s a small and very selective set of topic examples that I’ll be pursuing or following in 2018:
+A Quantum Leap toward a Computing Revolution
+For now, quantum computing doesn’t make the classic computer irrelevant. Smartphones and laptops will still use transistors for the foreseeable future.
+Why? It’s early days but when qubits become a reality, the blockchain. becomes instantly irrelevant And that’s just for starters.
+How Bitcoin Lost Its Way As A Means Of Exchange
+It was originally meant to be used like any other currency: to buy pizza, alpaca socks, and stuff from the dark corners of the Internet. It aimed to be the magical internet money that solves the problem of securely transacting online without censorship or oversight from Big Banking.
+However, does bitcoin’s recent run-up in price, combined with extant scaling problems, mean that it has effectively shed its utility as a currency? At least for now, probably.
+Why? Cryptocurrency volatility is bordering on the insane. The potential for a massive hit is very real. Will it kill the Blockchain? Doubtful but then there are other threats.
+What Being a Bike Courier Taught Me About Our Broken Economy
+I wanted to tell him that it’s a grim future, that the gig economy strips away the rights of workers, that it exploits the poor and the underemployed and those who do not have the capital to participate. That it operates on inequality. That the anxiety that accompanies the precarity can be suffocating and that the only time the money is even close to good is when the weather is so bad that going outside is akin to human sacrifice. But I didn’t.
+Why? Because no-one is asking the basic questions about the impact of the gig economy on those who have to toil in it. Yet there are many vendors hoping to cash in on the gig economy enabled by major governments that seem happy to roll back worker rights. This is not sustainable.
+Net Neutrality Was Never Enough 
+When it comes to net neutrality, supporting or opposing it is no longer sufficient. Killing net neutrality probably won’t make things better, but keeping it without any other substantive changes will ensure things get worse—instead of civics, only mania will remain. The internet is as much the enemy as it is the hero of contemporary life. It is not the free and open internet that must be eulogized, but the public’s blindness to its consequences.
+Why? I’ve taken a clear position on this topic but what if I’m wrong? Time will tell and the debates will continue. I’ll continue thinking about this.
+
+Image credit - Freeimages.com Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureCRM and customer experienceDigital enterprise in the real worldDigital transformation - frictionless enterpriseGoverning identity privacy and securityHCM and the digital future of workIoT robotics and AIRetail e-commerce and the omni-channelThe new professional and IT as a serviceUX and application design 

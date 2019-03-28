@@ -1,0 +1,48 @@
+
+Denton and Rosenberg at Couchbase NYC
+As we age, nothing is more isolating than coping with hearing loss. When we struggle on phone conversations, our isolation from far flung relatives and friends increases. Enter ClearCaptions, which provides a real-time captioning phone service for the hearing impaired.
+You can’t pull off a data-intensive service like this without serious technical chops. At Couchbase Connect 2018 New York City, I got a look under that hood courtesy ClearCaptions’ Wes Rosenberg, Director, Software Engineering and Chief Software Architect and Tyler Denton, Sr. Solutions Developer.
+ClearCaptions is free to qualified users, so if you know a U.S. resident who might be interested, it’s no cost to them (the device and the service are both free). The company is funded by the Telecommunications Relay Fund, which we pay into by a tax on our phone bills.
+High performance for cloud data calls is non-negotiable
+That adds another performance twist: without continual proof of high performance, ClearCaptions’ funding goes away. So far, so good: there were 50,000 ClearCaptions phones in use as of our chat. But from a tech standpoint, it wasn’t easy to get there.
+Performance from device to cloud is under pressure with each database call. There are three to five database lookups when a ClearCaptions request comes in, including user validation, fraud detection, and endpoint verification. With their prior SQL Server setup, that wasn’t too smooth. Rosenberg:
+Each one of those look ups took anywhere from like half a second up to a second. So you’re talking about call setup taking anywhere from one and a half to three seconds for a typical call.
+That’s changed now:
+When we switched to Couchbase, those half second look ups became like ten millisecond look ups, so the call setup is like under half a second now consistently.
+It’s not just users who are pleased with the performance bump. Denton added:
+Which makes the FCC very happy.
+Hitting the required performance is no joke. Rosenberg:
+We have certain service levels to meet each day. So at five and ten second intervals, we have to provide those answer speeds at a certain percentage level. When we don’t meet those service levels, we don’t get paid. We bill by the minute. So we will lose an entire day.
+It hurts the user even more:
+One day where SQL Server goes down for an hour and a half and we can’t provide service, that’s affecting our ability to answer.
+Their team still faces tech issues from time to time, but database performance isn’t one of them. Rosenberg
+There’s a lot of moving parts to the platform. Couchbase has been rock solid. It basically never goes down. The other components go down. But Couchbase has been up basically all the time. So when something does go down, we’re no longer at the mercy of, “Oh my God, we’re down for five minutes. Our service level just skyrocketed.” Because when it comes back up, we’re servicing Couchbase call requests so fast it has almost no impact. So that’s a big deal for us.
+From better database performance to product delivery
+ClearCaptions launched in 2011; they went live on Couchbase two years ago. Given the range of NoSQL options, did they consider others besides Couchbase? Short answer, yes: Cassandra also had a similar data replication architecture.
+But in the end, says Rosenberg, “Couchbase was the only one that came close to what we needed.” The clincher? Couchbase’s N1QL query language. Because N1QL uses industry standard ANSI joins for manipulating JSON data, SQL users can pick it up quickly. Rosenberg:
+N1QL clinched it. It was the ability to just give this to the development team and say, “Hey, look. You can do a query just like you can with SQL Server.” It looks almost exactly the same… Different data model underneath. But you don’t need to know that really.
+Denton was skeptical at first. But he was won over:
+That was one of the hardest things to wrap my head around is that this is so different. But then when you actually get to using it and interacting with it on a daily basis, it’s really not. It acts the same. It just runs way faster.
+Adds Rosenberg:
+It allowed us to define the data model and how we interact with the database, instead of the database defining how we interact with it.
+That’s not just a perk for the IT team:
+It freed up the way we thought about our data and what it looked like. And it increased our ability to deliver products by probably ten fold.
+Looking ahead, ClearCaptions has some interesting business challenges to face. It’s not always easy to win over new users. Some folks that struggle with hearing loss aren’t ready to acknowledge the extent of the problem  – or try something new. Rosenberg:
+A lot of people won’t admit they have hearing problems. But when they see the service, when our sales people actually demo it to them, they start to see, “Oh, this might actually help me.”
+The wrap – enhanced analytics on deck
+Growth in new users is always good, but ensuring folks use the equipment is just as important. I gave into snark and said: “Why don’t you just call them?” But ClearCaptions isn’t allowed to incent users to use their service by calling them. So enhancing usage requires analytics to identify trends in use, or lack of use.
+That’s why Rosenberg and Denton are keeping a close eye on Couchbase 5.5, which was formally announced at Couchbase Connect 2018. One feature of 5.5. is enhanced analytics services. That matters because at the moment, ClearCaptions’ reporting is still a SQL Server operation.
+Rosenberg is optimistic that over time, Couchbase’s upgraded analytics services will allow them to shift a big chunk of the reporting workload to Couchbase. He sees several benefits: SQL Server is “extremely expensive,” and the ETL work between SQL Server and Couchbase consumes resources:
+I think now that analytics is actually coming out as a more mature product in what it can do, hopefully it will be an easier sell to say, “Hey, look, we can do this over here. We may still be able to give you something on SQL Server, but most of the work is happening on this cluster.”
+Even with the big changes already made, Rosenberg sees a lot more with Couchbase on their roadmap:
+Couchbase right now, while it’s doing a really good job of what it does and it’s super fast and super reliable, it can do so much more and simplify a lot of our data flows.
+Sounds like Rosenberg and Denton a busy year to look forward to.
+End note: ClearCaptions functions as a separate device, or as an app on the users’ smart phone, but with a ClearCaptions phone number. For more on how it all works, from privacy to sign up rules, their FAQ is a good place to start.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image credit - Photo of Denton and Rosenberg at Couchbase Connect 2018 by Jon Reed. Disclosure - Couchbase paid the bulk of my expenses to attend Couchbase Connect 2018. Read more on: Analytics planning and data analysisDevOps NoSQL and the open source stackNoSQLUse cases 

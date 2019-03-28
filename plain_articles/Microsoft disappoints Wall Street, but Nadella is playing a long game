@@ -1,0 +1,41 @@
+
+Satya Nadella
+Two big deals from Microsoft yesterday – the death of the X-Box 360 and a slowing down of the enterprise cloud business. Which one matters more to the enterprise IT decision-maker is up to each of us to decide, but as I’ve never been a gamer, let’s focus on the cloud business. 
+It’s not entirely bad news by any means. Revenue from Microsoft’s Intelligent Cloud segment, which includes Azure on-demand computing services, actually grew 3% in the firm’s third quarter to $6.1 billion. That’s down 2% sequentially from the second quarter and only a 3% year-on-year increase, but the firm can now boast a run rate in excess of $10 billion for commercial cloud. 
+There is better news around Office 365 – whose revenues are recognised as part of the overall Office numbers rather than in with the cloud figures – where consumer subscribers were up 79% year-on-year and commercial users up 57%, topping the 70 million monthly active user mark.  Meanwhile Dynamics CRM online seats more than doubled across the quarter with over 80% of new CRM customers deploying in the cloud.
+But overall, it was a bumpy quarter at best for Microsoft. Profits were down 25% year-on-year to $3.8 billion on revenue of $20.5 billion, down 6%. The company attributed this to a $1.5 billion impact from a combination of revenue deferrals due to Windows 10 upgrades and restructuring charges, as well as currency impacts.
+Nonetheless CEO Satya Nadella went out to bat with Wall Street analysts on something of a back foot, but pitched a vision of added value services built around Azure that position Microsoft as a digital transformation leader. Top of mind are AI, business analytics and the inevitable Internet of Things (IoT): 
+
+Our new Azure IoT suite streamlines the process of building IoT applications and acts as a hub for managing and monitoring millions of assets.
+Each week, more than 2 trillion IoT messages are processed by Azure, and analytics is another rapidly growing market where Power BI has more than 200,000 customers and 5 million users. 
+Companies like Toyota, BMW, Johnson Controls are all using Cortana Intelligence Suite, Azure IoT and Power BI to transform themselves as well as their industries. 
+Siemens is also using Azure to connect and analyze data from medical imaging systems around the world, helping providers in their effort to transform healthcare. 
+We are the only cloud provider that helps companies embrace the cloud on their own terms, and we continue to innovate in areas that make it easier for our customers, including the recently released preview of Azure Stack and by bringing SQL Server to Linux.
+
+That decision was brought about by what Nadella sees as increased competitiveness of SQL Server: 
+
+With this new release, SQL Server 2016, it’s become a fantastic database for many, many of the workloads, everything from OLTP to data warehousing to BI to advanced analytics for the Tier 1. This is a capability that’s been multiple decades in the works, but here we are [not just] with very competitive total cost of ownership price competitiveness, but with a technology that is in many cases, as Gartner talks about, at the top of the charts when it comes to all of these workloads.
+So now that we find ourselves at that capability, we’re saying, ‘Look, what’s the way to think about all the markets that we can in fact take this product to?’. The Linux operating system database market is not something that…we ever worked in. So therefore, we look at that as an expansion opportunity, so we take that. We’ve already made the call that Azure for Linux is first class. We already have 20%-plus of VMs in Azure are Linux, and we’ll all increasingly have Linux be a big share of our percentage of what is happening in Azure. 
+So for the first time now, we have the ability to go to an enterprise and talk about their entire data estate across Windows and Linux. Now people don’t really move between operating systems. Those choices have been made, but at the same time, now they have a choice around database, and so we think that that’s a very good incremental opportunity for us.
+
+Developers
+Nadella argued that Office 365 is also expanding its strategic relevance, becoming more than just a productivity tool and morphing into a developer platform:
+
+There is an incredible amount of value developers can deliver by harnessing the data in this platform. It can be as simple as Starbucks enabling somebody to email a cup of coffee, or it can be as sophisticated as DocuSign streamlining processes for digital signatures based on the understanding of people’s availability and organizational hierarchy. 
+
+This is important strategically as part of a wider push to keep ISV momentum alive, said Nadella: 
+
+Developer momentum, ISV momentum is super important priority for us, both in terms of our developer evangelism, our product engineering teams, as well as everything that we will do to even create success for our partners through our field sales organization is a top of mind priority. 
+The thing that I’m seeing a lot of is, we’ve had traditional strength with SQL as well as .Net. [ISVs} are moving a significant number of them to the cloud, and in fact replatforming to be multi-tenant and cloud-native. At the same time, we’re also seeing a lot of open source ISVs also be part of the Azure marketplace. 
+So we’re not only bringing people who have traditionally worked with us, helping them re-platform to a completely new model, but we’re also bringing a lot of new ISVs into the fold as well. 
+Ultimately Microsoft’s growth is dependent on re-inventing personal computing and coming up with new platforms, said Nadella, with the focus on mobile first, cloud first:
+
+We are creating entirely new ways for people to interact with technology and also new ways for them to build technology. HoloLens developer kit is one such example. Organizations around the world like Volvo and NASA are using HoloLens to redefine what it means to build and explore, and Case Western University is redefining how students learn to be world-class surgeons.
+Conversational interfaces is another example. We envision a world where people will more naturally interact with their devices in the future through conversation. Imagine simply asking Cortana to book a hotel or being able to order a pizza through instant message and Skype. Conversations will be a new platform that every business, every app and every website will begin to embrace, and we are at the forefront driving this platform shift.
+We are building out cloud services and platform to enable every business across every industry to digitally transform themselves and in turn build their own capability to create more digital technology. Empowering people and organizations to thrive in this digital world is central to Microsoft’s mission.
+
+My take
+The SQL Server Linux gambit is an interesting one to watch. Microsoft is still playing catch-up with Oracle in the database world, but offering Linux compatibility will provide an interesting option for new customers. 
+Whether Microsoft’s free licences for existing Oracle customers will have any impact remains to be seen, although such gimmicks rarely deliver much more than some PR-friendly headlines. 
+Wall Street wasn’t too happy with the numbers yesterday, but in reality this is a minor stumble on a longer trek. Nadella’s right to identify the re-invention of personal computing as the key mission here and that’s a long game. 
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureCollaboration sharing and digital productivityCRM and customer experienceDevOps NoSQL and the open source stackInternet of ThingsUX and application design 

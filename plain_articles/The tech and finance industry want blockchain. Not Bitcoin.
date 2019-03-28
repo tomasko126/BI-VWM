@@ -1,0 +1,34 @@
+
+As my colleague Dennis Howlett once said: “It’s not about Bitcoin, it’s the blockchain stupid”. And he’s right. Although the general public and the national press are obsessing over the future of Bitcoin as a new digital currency, trade organisations are getting themselves excited about the prospect of a new ‘hyperledger’ in the form of blockchain.
+Blockchain essentially underpins the capabilities of Bitcoin. But whilst Bitcoin needs blockchain to exist, the same isn’t true vice versa. Blockchain has opportunities that extend way beyond digital currencies. Blockchain, as a new protocol, could potentially impact anything that would benefit from a faster, more secure system of trade.
+Which is why a number of technology companies and big players in the financial sector have come together to work on a new open-source project that will separate blockchain from Bitcoin and focus it on their industry needs.
+Companies such as Cisco, IBM, Accenture, ANZ Bank, Fujitsu, London Stock Exchange Group and Wells Fargo have together, with open-source organisation the Linux Foundation, to contribute code and further the use of blockchain.
+Jim Zemlin, executive director at The Linux Foundation, said:
+Distributed ledgers are poised to transform a wide range of industries from banking and shipping to the Internet of Things, among others.
+As with any early-stage, highly-complex technology that demonstrates the ability to change the way we live our lives and conduct business, blockchain demands a cross-industry, open source collaboration to advance the technology for all.
+But what is it?
+ The key questions, therefore, are: what the hell is blockchain and why is it so important to all these companies?
+Now, I’m not the most technical of people out there, but essentially blockchain is a distributed ledger that allows for the anonymous trading of assets. The protocol is considered significantly more secure than anything else out there at the moment, as a public record of everything that has been traded is automatically created and any change to a record is automatically logged.
+Decentralisation is also key to this, as well as the real-time nature of the transactions. But, I found a blog written on Brookings that defines and explains blockchain better than I could. The authors, Mohit Kaushal and Sheel Tyle, write:
+The elegance of the Blockchain is that it obviates the need for a central authority to verify trust and the transfer of value. It transfers power and control from large entities to the many, enabling safe, fast, cheaper transactions despite the fact that we may not know the entities we are dealing with.
+The mechanics of the Blockchain are novel and highly disruptive. As people transact in a Blockchain ecosystem, a public record of all transactions is automatically created. Computers verify each transaction with sophisticated algorithms to confirm the transfer of value and create a historical ledger of all activity.
+The computers that form the network that are processing the transactions are located throughout the world and importantly are not owned or controlled by any single entity. The process is real-time, and much more secure than relying on a central authority to verify a transaction.
+With that cleared up, why are the banks so interested in working with the technology industry on this? Well, as the Linux Foundation notes, blockchain, for example, could allow securities to be settled in minutest instead of days, which could allow for huge efficiencies in these organisations.
+As my colleague Dennis wrote in his earlier piece on the subject:
+The potential impact is huge, hence bank interest (sic). Think of it this way. Each day there are trillions of dollars, yen, British pounds, you name it, swilling around the global banking system. Someone’s lending that money and someone’s borrowing it because even if it is not credited as cleared to your account, the holding bank can still make money from it on overnight deposits.
+In monetary terms and assuming a 0.5% interest rate spread, financial institutions are making $13.7 million PER DAY for every trillion dollars floating around in the system. Readers can work the math on other rates and amounts. If you factor in payment fees running 2-5-3.75% then blockchain operated payment transfer methods that charge a ‘mere’ 1 percent start to look very attractive to small business and the unbanked.
+Collaboration
+Many of these organisations had already been working on blockchain as a future ledger already. However, bringing everyone together under a new open-source project is likely to rapidly accelerate progress. Equally, although anyone will in theory be able to contribute to the project, it should also allow for the companies involved to focus development on applications that are important to their industry.
+IBM has said, for instance, that intends to contribute tens of thousands of lines of its existing codebase and its corresponding intellectual property to this open source community.
+Here are some of the canned statements put forward by the companies involved.
+Dave Ward, SVP and chief architect, Cisco Systems, said:
+The open ledger project is a key turning point in the industry establishing enterprise grade blockchain technology. It’s key for the industry to enable an open developer community around blockchain and it’s great that so many colleagues are joining and supporting the effort to move the entire Internet community forward.
+Jeffrey Tessler, Member of the Executive Board, Deutsche Börse AG, said:
+Deutsche Börse group sees great potential in blockchain technology and is delighted to join this initiative. As a market infrastructure covering the entire value chain, we believe that the true value of the blockchain will only materialise as part of industry initiatives such as Hyperledger project.
+Arvind Krishna, Senior Vice President and Director, IBM Research, said:
+A broad, cross-industry and open source approach is critical to advance the potential for blockchain and make it mainstream. Even beyond building out standards, creating common code will allow organizations to focus on creating industry-specific applications that enhance the value of this technology.
+Moiz Kohari, Group Head of Technology Innovation, London Stock Exchange Group said:
+LSEG is committed to an open source collaborative approach to the development of the building blocks for blockchain technology. We believe this technology has the potential to drive change across the industry but will need to be developed in partnership with clients and other industry participants under an open source approach. This needs to be done in a considered and rigorous manner to benefit the market as a whole.
+My take
+Watch this space. Although it all seems a bit abstract at the moment, blockchain is likely to be critical in the future.
+Read more on: Cloud platforms - infrastructure and architectureFintech 

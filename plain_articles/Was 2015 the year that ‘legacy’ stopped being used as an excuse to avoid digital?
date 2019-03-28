@@ -1,0 +1,49 @@
+
+As the year draws to a close, I thought it might be useful to reflect on some of the dozens of customer sessions and case study interviews I’ve had the benefit of delving into over the past twelve months.
+And whilst I’ve had to suffer plenty of organisations telling me about their ‘digital’ strategy, which consists of nothing more than an upgrade to their current on-premise IT suite with a couple of cloud modules attached here and there, I have also noticed more and more companies that are no longer using the word ‘legacy’ as an excuse for not driving through change.
+Maybe the threat from challengers is getting more real, who knows. But I’ve certainly noticed that more companies are less willing to say “well we can’t do that because of our legacy agreements” or “we will have to wait for our outsourcing deal to end completely before we address that”. Which I used to hear a lot a couple of years ago.
+Things are moving too quickly and new business models are springing up out of nowhere. And traditional businesses are beginning to respond. Which is why I thought it might be useful to pull together a list of some of the themes I’m beginning to see emerge from those companies that are really thinking about how they can do things differently.
+From guess work to data driven design
+ The Government Digital Service has done an excellent job here in the UK promoting the requirement to design digital services around the user need, iterating as you go based on testing and feedback. But this hasn’t been limited to the public sector. We’ve seen examples in the private sector too, where companies are beginning to recognise that they can no longer assume that they know what their customers want. Because typically, they have often got this wrong in the past.
+Beyond market testing and creating feedback loops to drive iterative design, some organisations have taken this further and have begun collecting huge amounts of data and have been using tools like Hadoop or machine learning engines to not only drive the design of online services, but also physical products.
+Key readings:
+Using Hadoop inside Jaguar Land Rover, Zurich Insurance and the Home Office
+Lotus F1 COO races from intuitive design to machine learning with Microsoft
+What’s the design process at GDS?
+Using existing assets to drive innovation
+I went to a talk at London Technology Week earlier this year where a speaker (whose name escapes me) discussed the theory that there is absolutely no reason that the taxi industry didn’t invent Uber, the hotel industry didn’t invent Airbnb or Barclays didn’t invent a digital-first bank. He said that the only thing holding back innovation at these traditional companies is an inertia, where they can’t see how to be agile enough to respond to the changes in technology and customer need.
+However, he argued that if companies were able to think about how they could use their existing assets in a different way, then they may be able to compete. At the time I didn’t really understand what this meant. However, a few short months later I came across a Coca-Cola session, where they were talking about how they were co-creating start-ups to help drive innovation at their company.
+In return for a stake in the business and some funding money, Coca-Cola gave interesting businesses access to their supply chain, contacts and human resources. This allows for quicker scale than if a start-up was beginning on its own. Definitely one to watch out for in 2016.
+Key reading:
+Innovator’s dilemma: Coca-Cola is using its existing assets to co-create start-ups
+Shadow IT isn’t a bad thing anymore
+Remember when CIOs used to go on and on about the dangers of shadow IT? And how if they didn’t pick a cloud to procure internally, teams would go ahead and buy their own anyway? Well, that’s still a thing, but digital leaders are becoming less concerned about it from my experience.
+Instead, I see tech chiefs thinking about ways that teams can safely pick and choose what cloud options they want, by giving them some choice. This is usually done via some sort of platform, such as Salesforce, or it is done via a service catalogue enabled by identity management. Either way, as companies begin to develop more of their own capabilities in house, it becomes impossible to control absolutely everything from the centre.
+Instead IT teams are noticing that if they educate, provide tools and guide, their business peers are able to thrive on their own and typically stick within the lines of what’s appropriate. More innovation is possible if it’s being pushed out to those that know about their areas of focus and are given the opportunity to try.
+Key reading:
+Eurostar, Ocado and Eli Lilly want to move from ‘shadow IT’ to ‘citizen development’
+Customer experience is key
+When I think back to customer interviews a few short years ago, the benefits were always so incredibly tangible, because they mostly focused on driving efficiency within the business. For example, a new virtualised data centre meant X amount of savings. Or a new software implementation meant running X number of processes that much quicker.
+However, the customers I speak to now are less interesting in pushing their technology investments to these back-end areas. Yes, back-end investments are being made, but they’re not being seen as key to winning in the market anymore.
+Instead, the use of mobile, data, social and cloud (and the convergence of these four technologies) has meant that in order to compete, companies need to figure out how they can use these to offer intuitive, personalised customer experiences. Companies are winning purely on their CX. This is fundamental.
+Key readings:
+SH:24 – Modernising sexual health testing in London by making it digital
+Ticketmaster is using Splunk to improve the ticket buying experience for customers
+Ryanair’s shift from ‘stack it high and sell it cheap’ to personalised, digital experiences
+Servitization (yes, it’s a horrible word)
+Despite the ugliness of the word itself, servitzation has been a key theme throughout 2015. This has two elements two it. Firstly, IT departments are becoming better at servicing their organisations by rethinking their processes and considering how they can be more ‘customer facing’ with their internal buyers.
+However, the more critical point, is that thanks to developments in the internet of things market, product companies are servitizing their offerings to customers. So, for example, instead of designing and shipping a product once every three years and just engaging with the customer at the point of sale, companies are now using sensors and collecting data to provide service wrap-arounds for their products.
+Organisations that are successful on this front, that embed service in the core of their organisation, are the ones that are going to be the likely winners in the internet of things field, in my opinion.
+Key readings:
+Bosch and the clash of two worlds – IoT and product manufacturing
+The Internet-of-Things isn’t ‘up for grabs’, it is a diverse new phase of the web
+Regularly shipping code/Insourcing talent
+Although two distinct areas, I often find they go hand in hand. We’ve noticed that the companies that are increasing their agility and competitiveness in the market are the ones that are taking advantage of a dev/ops culture and are regularly shipping code. This requires a huge shift in culture internally, a huge change in the way operations are run and an incredible amount of talent.
+However, if done successfully, it allows an organisation to move as quickly as the best in the market. Want a new feature? Throw it out there tomorrow and see what happens. Management of this can be tricky, but it seems that those doing it properly find it a worthwhile challenge.
+Key reading:
+Paddy Power CIO: ‘Shipping code four times a day is a huge cultural challenge’
+Modular approach to purchasing
+Finally, and maybe one of the most important shifts that I’m noticing, is that the ‘successful’ digital organisations are not talking about going to one big vendor and asking for a solution in a box that answers all of their questions. That’s just not possible anymore. And those vendors tend to be focusing on the back-end, rather than the innovation driven by the customer-focused opportunities.
+NoSQL, open source tools and cloud mean that companies are far more likely to just pick and choose what they want, when they want and when they need it. Technology leaders want their tools to be stable and scalable, which has its own challenges, but they are less and less wanting ‘IT in a box’. Key reading:
+William Hill’s CTO explains why open source and digital trump buying one big IT box
+Read more on: Analytics planning and data analysisCRM and customer experienceDevOps NoSQL and the open source stackFuture of workInternet of ThingsUse cases 

@@ -1,0 +1,39 @@
+
+Kote Lomidze at Sage Intacct Advantage 2018
+When cloud ERP vendors invite me to their shows, they always look forward to me pressing them on their platforms.
+What I care about is: who is building awesome apps on their platform? Who is extending the core functionality with apps? How easy is it? Is it making a difference to customers?
+I don’t always get good answers, but I press on. I believe in three to five years, the ERP vendors lacking deep apps and an open platform will wither on the vine. Will I be right? Time will tell. I’m not a fortune teller, just someone persuaded by those partners – and customers – who have forged ahead.
+A CFO discovers the power of platform services
+So at Sage Intacct Advantage, when a little birdie (aka Taylor Macdonald) told me about a customer who has built more than ten apps on the Sage Intacct platform, I was all ears. Soon I was getting the skinny from Kote Lomidze, who is the intrepid coder behind World Learning’s Sage Intacct app building. Lomidze is also World Learning‘s Senior Vice President, Finance and CFO. Wait, hold on a sec: a CFO can build apps? This one certainly can. As Lomidze said to me:
+We discovered the power of platform services inside of Sage Intacct… Our first application was tracking stop time of requests and time balances, so that way when people do time sheets, they can simultaneously see how many vacation balances they have, or sick times they have left. That made the timesheet system a well-rounded system.
+Full speed ahead to app two:
+Through that process, we learned how to do some more complex things. We had the problem of collecting files from vendors. We have several thousand vendors every year. Collecting W-9s and banking information was a challenge. We have maybe 500 employees, and they were all collecting vendor information. I didn’t want confidential data to be lingering on people’s emails.
+And the app?
+We created an application inside of Sage Intacct that sends a portal link to the vendor’s Intacct portal, where the vendor can go in, enter their banking information, upload the W-9 and submit it. It gets routed to our finance users, and the finance user click a button, and create a vendor.
+Before we get into how a CFO builds apps, a bit about World Learning. World Learning is an 85 year old educational non-profit. The mission? Promote people-to-people exchanges, education and sustainable development around the world. World Learning has a presence in more than 50 countries worldwide, managing $150 million in revenue. Lomidze:
+We’re sizable enough that we have real impact on people’s lives. We’re trying to make the world a better place.
+World Learning’s flagship program is called the Experiment in International Living. This 85 year old program sends high school students from the U.S. overseas to experience foreign countries; they now send almost 3,000 students a year abroad. A worthy mission is now a significant financial management undertaking as well. So I ask Lomidze: how did he become an app builder in support of that mission?
+Automating workflows with apps
+Lomidze spilled the beans: “I have a little bit of a software engineering background.” And: World Learning’s finance director, Mersea Boku, is Lomidze’s partner in these app-building adventures. So how did this all begin?
+It started about three or four years ago, about a year after we went live on Intacct. We went to one of the sessions at Advantage where Intacct was showcasing their platform services. We looked at it and said, “Wait a minute. We can use this in creative ways to solve our problems.” We started slow with a simple database, simple application, a couple triggers here and there – and then it took off.
+But does app-building have bottom line impact? Lomidze says yes. Prior to the W-9 app, World Learning had to enter the data in a PDF document, then re-enter it into Sharepoint, and then into Sage Intacct. Not a good solution – especially for sensitive data. Lomidze:
+That’s confidential data. Every single error means either you’re not reporting the right information to the IRS, or you are sending money to the wrong number or bank account. We process a couple thousand transactions to those new vendors every year. So that was a lot of time saved using that system.
+But wait – there’s more. Lomidze and team have also built employee onboarding and offboarding processes into their customer application in Intacct. Before someone is recruited to join World Learning, the recruitment authorizations are submitted.
+Once the job order is approved to be posted, the recruiter gets an email from the system authorizing the web posting. When someone is hired, a new work authorization is automatically created. That means they will have an email address, laptop, Intacct access, and a desk waiting for them. That’s a big improvement: before the onboarding app, new employees wouldn’t have a computer for two weeks:
+This process eliminated the empty space of when employees were not useful or productive, and the same with offboarding.
+Getting real – what tech skills were needed?
+Sounds like the guys are on a roll. But what did it really take technically? Was the skills part difficult?
+Every system that I counted was written by the two of us.
+But the key isn’t the coding anyhow:
+The most important part was thinking about it, what would the process be? Some of the applications, I told you, I coded in a weekend.
+Lomidze coded the apps in JavaScript. But get this: he had never coded in JavaScript before. Yes, he had some Visual Basic background and so on, but no JavaScript. So how did he do it?
+It’s mostly Googling JavaScript and copy, pasting, and finding, how do I do this?
+Now that they’ve come this far, Lomidze and Boku are looking into commercializing the apps, and sharing them with other customers (they’ve been asked repeatedly to do this after presenting at past shows). To sell the apps, they created a separate company, and started packaging the apps as a solution that can work for any Sage Intacct customer.
+Though only a minority of Sage Intacct customers are building their own apps now, Lomidze says that’s starting to change. At the 2018 event, he talked to “15 or 20” people who want to do it. “I think the word is spreading,” says Lomidze.
+One big concern: upgrades, and making sure that programs are compatible with future Intacct releases. That’s easier to do with a multi-tenant product with published APIs, but without planning, things can still break from time to time. Lomidze’s advice?
+We coded using the rules that Intacct says it’s going to support going forward, so we don’t do custom things that would break when something changes.
+So far, so good:
+It’s been three or four years that we’ve been doing this, and I haven’t noticed any issues.
+Lomidze and Boku are not building apps willy-nilly. They are evaluating Sage Intacct’s functionality and roadmap, solving problems with apps beyond that scope. No matter how rich a SaaS vendor’s functionality, there will always be the need for differentiating apps – or pain points worthy of extensions. For Lomidze and World Learning, there are plenty of apps ahead:
+Every other month, we think of something that we can automate.
+Image credit - Feature image - Kote Lomidze of World Learning at Sage Intacct Advantage 2018. Disclosure - Sage Intacct paid the bulk of my travel expenses to attend Sage Intacct Advantage 2018.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureDigital enterprise in the real worldUse cases 

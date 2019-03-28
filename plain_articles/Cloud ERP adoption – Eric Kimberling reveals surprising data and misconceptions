@@ -1,0 +1,63 @@
+
+My last piece with Eric Kimberling, on project failure and ERP vendor rankings, provoked debate and rightly so. Any form of vendor ranking veers into subjectivity, something Kimberling acknowledged. As for project failure, everyone is bloody well sick of the topic, but alas, we can’t leave it alone until failure rates finally improve.
+One potent area we missed was cloud ERP adoption. That’s an issue that Kimberling’s firm, Panorama Consulting, addressed head-on in their annual ERP report. The short version: In 2017, Kimberling expects cloud ERP adoption rates to exceed on-premises in his survey for the first time. But – there are some qualifiers – including the type of cloud deployment.
+In a follow-on call, Kimberling told me how his views on cloud ERP have changed. In short, he is less of a cloud ERP skeptic but not an evangelist yet either. He also shared surprises, which can be traced back to Panorama’s distinctions between cloud and SaaS ERP.
+Cloud ERP adoption is rising – with caveats
+A few caveats: Panorama’s annual ERP reports don’t tend to have a huge sample size (2016 was comprised of 215 respondents). The data gets more interesting with year-to-year comparisons; Panorama’s first ERP report came out in 2009. Kimberling’s insights also stem from his client base, which centers around midmarket manufacturing companies. These companies don’t tend to be early tech adopters. That means Kimberling’s views on cloud are likely to be less religious than some:
+Most of the clients we work with are not bleeding edge type companies that are wanting to be the first to adopt cloud technology. These are midmarket manufacturers… they just want to make their businesses better. We’re a little more mainstream in that way, whereas a lot of the industry analysts are maybe more on the forefront, talking to early adopters embracing these trends.
+ERP deployment options may be shifting, but overall ERP adoption continues. In this year’s survey:
+
+81 percent of organizations are either in the process of implementing ERP software or have completed implementation.
+14 percent of organizations are in the process of selecting software.
+5 percent are in the process of upgrading software.
+
+As for cloud adoption, this year’s numbers showed the highest levels of cloud ERP adoption to date:
+
+On-premise – 56 percent
+SaaS – 17 percent
+Cloud ERP – 27 percent
+
+Defining SaaS ERP versus cloud ERP – in Panorama’s terms
+You may be wondering about the SaaS -versus-cloud distinction. Panorama defines “cloud ERP” as a hosted solution, an off-premises deployment. Whereas SaaS ERP would be the classic multi-tenant SaaS definition, a growing category of cloud ERP solutions that includes the likes of NetSuite, Plex, Intacct, FinancialForce, Workday, and Acumatica (SaaS ERP is a big ol’ umbrella; many of those cited would not view each other as direct competitors, and rarely see each other in deals. SAP, Oracle, and Infor also have SaaS ERP offerings).
+The biggest distinction between cloud ERP and SaaS, as Panorama has defined it? With cloud ERP, or “hybrid” or “hosted” if you prefer, a company can customize the code base to their heart’s content. SaaS ERP implementations do not allow code customization and usually require a rethink and/or simplification of processes within their configuration choices. As an advocate of “cloud native SaaS” as defined by my colleague Phil Wainewright, and a skeptic of hosted ERP or a “lift and shift” to cloud approach, I was intrigued to hear Kimberling’s views.
+Cloud ERP – cost savings versus security
+One benefit of cloud ERP that Kimberling is tracking – cost savings:
+
+From Panorama’s 2016 ERP Report
+In my experience, cost savings is not the main benefit customers cite from a cloud ERP move. And: when you do a full tally of upfront versus subscription-based, year-over-year cost savings are not always significant. Kimberling responded:
+In our data, we do see some cost savings, but it’s not a key driver or a key reason why people are moving to cloud ERP. It’s more about the headache, and just not wanting to manage an infrastructure – which I totally get.
+When it comes to barrier to cloud ERP adoption, security concerns still rank highest for Panorama:
+
+Perceived risk of security breach – 29 percent
+Insufficient information about cloud offerings – 16 percent
+Perceived risk of data loss – 9 percent
+
+This led Panorama to emphasize, under the heading “Misconceptions”:
+In our experience, we have found that the above concerns are misconceptions. In fact, a number of cloud providers are enhancing their security to meet customer needs, especially in the financial sector.
+Cloud ERP versus SaaS ERP adoption – why the difference?
+So what about the growth of cloud ERP (the hosted stuff), from 11 percent in 2015 to 27 percent in 2016? From the report:
+The significant increase in the use of cloud ERP, from 11 to 27 percent, makes sense considering the increasing number of vendors providing this option. Both SAP and Oracle are investing more research and development in cloud technology than in on-premise software, and other vendors are quickly following.
+So I asked Kimberling, why is cloud ERP on the rise in his surveys, but not necessarily Saas?
+Even with our own clients, we’re seeing a lot of companies that are saying, ‘We want the best of both worlds, we don’t want the whole multi-tenant SaaS thing. We want the flexibility to do whatever we want to with the software. But: we don’t want to deal with all the crap that comes along with on-premises solutions, so let’s go with cloud, where we own the licenses. We can do whatever we want. We can bastardize it if we want – for better or worse – and we can have someone else deal with the headache of managing the infrastructure behind it, and the application support.
+The ability to customize a hosted solution factors heavily for Kimberling’s clients:
+I think the SaaS ERP model’s a little bit stuck right now. We don’t see a lot of movement there yet in terms of growing exponentially like overall cloud is. You’ve certainly got vendors like Plex, NetSuite, Workday, and Salesforce that have a pretty strong niche within their respective areas, but as a whole, SaaS ERP is not growing out with the pace the whole Cloud movement is.
+I asked Kimberling: in any given five cloud ERP adoptions he sees, how many are SaaS? Answer: just 1 in 5. In smaller companies – or companies that don’t have legacy processes -the ratio changes:
+Yes, that does shift quite a bit when you look at smaller organizations, or companies that maybe don’t have very mature processes or systems in place yet, that ratio is a little bit more balanced. Maybe not quite 50/50, but maybe it’s more three to two than four to one.
+Kimberling sees SaaS ERP trending in those cases:
+These types of companies have less to lose. They don’t have as much baggage with the old processes, or a set in stone way of doing things that will be difficult to change.
+Kimberling underscored that we are talking SaaS ERP here, not line of business SaaS like HCM Or CRM:
+Remember, I’m talking full-blown ERP. If we’re talking to companies that just want a CRM system, or just want an HCM system, that’s more in favor of SaaS – I’d say 3:2 SaaS.
+The problem of over-customization – and client advisory
+We had an in-depth talk on the dangers of bringing a “customize the code base” mentality into the cloud – and the problem of client advisory. Check this exchange:
+Eric Kimberling: It seems too easy to say, “I’m just going to buy the software licenses, and I’ll have someone else deal with all the crap and I have all the flexibility I want.” It sounds good, but to your point, there’s a lot of risk there. And there’s a lot of downside you’re going to experience when you go through the implementation.
+Jon Reed: Doesn’t this go back to a lot of the advice you’ve been giving for years on avoiding project failure? It seems like one of your key arguments is: don’t get caught in the over-customization trap – use this opportunity to rethink your processes.
+Eric Kimberling: A lot of executives just don’t want to deal with it. Because of what you just said: that’s a lot of work up front. Their view is, “I want to do is go out and get an ERP system, and now you’re making it all complicated by telling me I need to rethink my business processes.”
+Jon Reed: Your point brings out that tension of being a consultant. I think that the best consultants are advisors. Sometimes that means telling people what they don’t want to hear. But there’s a point where you do have to back off from that.
+Eric Kimberling: We face that challenge. We have clients where we feel like they’re doing it wrong, or they’re going down a wrong path. Sometimes we have to catch ourselves and say it’s not really about right or wrong. We can talk about where the risks are and where the odds of success are going to lie. If they choose to go down a path that we think are minimizing their odds of success, we’ll tell them that. We have to try and guide our clients through that, and we’re not always successful, by the way. Sometimes our clients push back, and say “That’s great, I hear what you’re saying, but we’re different. We need it this way, and here’s why we go down that path.” You’re absolutely right about that.
+My take
+I do believe, in the long run, that SaaS ERP will become the dominant ERP deployment model across SME. Large enterprise will likely go in a different SaaS direction, opting for LOB-based SaaS with open integrations, allowing them to mix and match their own. For large enterprises, it will be data control and trans-national regulation that cause some SaaS holdout, not flexibility. Some of the SaaS downsides Kimberling noted, such as lack of flexibility and integration, are now being mitigated by extensible solutions, a platform of add-on apps, and API-enabled services.
+Kimberling met me halfway on that point:
+One of the potential assumptions that could change would be if SaaS were to continue down the road they’re going, which is to make better integration and personalization tools. The more flexible SaaS becomes, the more likely it is that you’ll see more companies go that route versus the (hosted) cloud.
+Kimberling used to be a cloud skeptic, which dates back to the days of ASP overhype. Now Kimberling is persuaded by the data – and client feedback. But he still stands against cloud krishnas who would advocate cloud as the only approach. I don’t have a problem with that. Customers should be the arbiters, and when was the last time customer needs could be generalized?
+Update, April 26, 2018: Kimberling is now with Third Stage Consulting, an independent ERP consulting firm he has recently founded. 
+Image credit - Lying businessman holding fingers crossed behind his back © Bits and Splits - Fotolia.com. Chart from Panorama ERP report credited above.Disclosure - SAP, Oracle, NetSuite, Plex, Salesforce, Financial Force, Infor and Workday are all diginomica premier partners.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureProfessional servicesThe new professional and IT as a service 

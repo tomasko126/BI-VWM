@@ -1,0 +1,57 @@
+
+Last week’s revelation that retail giant Walmart has signed up to use Workday HCM and related products was a surprise in itself. But within that news, the inclusion of the new Workday Planning stood out as particularly interesting.
+Reflecting on the news, I dug out some notes from a session delivered back in October 2015 at HR Tech World Congress in Paris by Walmart’s then Vice President of Global People Analytics, Elpida Ormanidou. She had spent the past three years building up the retailer’s workforce analytics resource into a global team of more than 60 data analytics specialists. (She has since moved on, in July last year, to lead analytics and testing at fashion brand owner Chico’s FAS).
+At the time of her presentation in Paris, Walmart’s people analytics function had reached an interesting juncture. She set out in detail how the data scientists had created a data infrastructure and methodology for producing analytics that was helping to achieve meaningful business outcomes. The next step, she said, was to teach Walmart’s managers and workers — its associates — how to use analytics in their day-to-day work routines. As Ormanidou explained:
+Now that we’ve learned how to put together a good analytics team for HR, how do we now strip out the analytics capability portion and go and start teaching it to our 65,000 managers in the US or maybe the 2.2 million associates across the globe?
+They don’t have to be technical experts. But if we can get our workforce to actually, based on these principles, be able to consume analytics information faster than their competitors, then we believe that’s something that will move us to the future.
+One of our strategic priorities [set by our CEO] is bringing digital and physical together. We believe the way to do this from an HR perspective is to actually get people very comfortable with how to use quantitative information. So that’s the next part of our journey.
+Analytics tools
+At the time, Ormanidou’s team was using APT, Tableau and Alteryx as its primary analytics presentation tools. But given the aspiration Ormanidou outlined a year-and-a-half ago, it may be that Walmart has decided rolling out Workday Planning is the best route to achieving that goal (perhaps encouraged by the 95% discount that some say it negotiated on its Workday contract — a figure that’s not been corroborated).
+Originally announced in mid-2015 and finally delivered late last year, Workday’s collaborative budgeting, planning and forecasting tool is designed to make it easy and intuitive for business users to harness and share data analytics. Here’s how I summed up Workday Planning at the time general availability was announced last September:
+Planning brings together live transactional data into a cloud-based, collaborative worksheet environment that allows participants to prepare budgets and forecasts and then publish the output into Workday’s dashboards and reports, from where users can drill down into the underlying data and spreadsheets. The important differentiator from traditional FP&A solutions is that Planning works with live data that can be refreshed at any time, all shared within a single, cloud-accessible spreadsheet rather than many different standalone versions.
+That principle of working with live data is an important advantage in the fast-moving retail environment. As Ormanidou explained:
+Things change so fast that no matter how planful we can be, there will always be something that comes in last-minute. Your ability to get it answered and put it in the hands of the business quickly will drive credibility with the business.
+Delivering value
+Building credibility for her team’s analytics work had been crucial, she said. The team had more than doubled in size in less than two years through proving that it was able to deliver results, and thus securing the budget to expand.
+You cannot discount how important it is to get your operational reporting correctly. These are the people that will pay for my team to expand, for the infrastructure that I need, for all the parts that I want to use. I [also] found that it’s important to be able to deliver on-demand analytics …
+[It’s] not how many hours we work, but the value we offer to the company and the decisions [those] guys were able to take faster, cheaper, more relevant, that [they] wouldn’t have without our team.
+A significant milestone came early in 2015 when integration work was completed to allow Ormandiou’s team to make its data models available for users to plug into their own reports. This freed up Ormanidou’s team from having to do reporting themselves. As she explained:
+When we say we’re building a workforce analytics team, we’re not building a team that will create a lot of reports. We’re building a team that will actually run models and create new knowledge for the company that someone just looking through a report wouldn’t be able to get.
+Getting to that point had taken a lot of groundwork, especially in the early days, to get the company’s data into shape and build a solid infrastructure for analytics.
+The first thing that we looked at is, look at your data sources and your data quality …
+Data by itself is not very valuable — but this is where the business spend a lot of their time. We spend time to clean data, to get it complete, to get it comprehensive. But by itself we don’t find value.
+As you start getting some reports, then you get a little bit more value, and if you have good data and a solid foundation it becomes a little bit easier to get.
+People analytics
+Ormanidou described four segments that make up what she called the “analytics engine” of her team:
+
+Modeling and data mining — this is where the team’s statisticians and mathematicians work on models to help with forecasting or in making “evidence-based decisions.”
+Research — this deals mainly with unstructured data. It runs a global program which surveys the entire Walmart workforce each year as well as running focus groups and online panels to “capture the voice of the asssociates.”
+Prototype and visualization — Here concepts are developed that allow the data to be applied to business issues.
+Test and learn — Once a proof-of-concept has been developed, it’s tested in a store or other facility before moving to pilot. Once it has demonstrated its business value, IT moves it into production.
+
+All this is underpinned by continuous measurement of the impact the team’s work is making, said Ormanidou:
+In pretty much every one of our instruments, we ask for feedback that happens on the spot. Also Walmart has a philosophy of pulling information forward from the stores. We have a very strong grassroots effort. So that feedback is absolutely collected and we do analyze it centrally …
+Everybody talks about, what’s the value that HR brings to the business? So we have to develop our internal methodology — in the US we call it the measurement ABC. A stands for what are we going to do for the associate — what they would think we were delivering. B stands for business — what business metrics are we trying to improve — sales, profit, are we going to reduce shrink? C stands for Capability, which basically says, how well are we doing what we’re saying already?
+Setting priorities
+Projects are prioritized according to HR’s agenda, as determined by Ormanidou’s management team, before being allocated to a project team:
+We all get together and bring the business problem in and then we see how each segment problem fits into specific priorities that we have in HR, and that’s how we prioritize the work.
+Then we pull in thought leaders. These are people with expertise in a specific analytics discipline. We talk about, this is the problem that we’re trying to solve, how can we apply what you know, what expertise you have to be able to solve this problem.
+Then we put together a plan and they have this pool of about 50 people who are more junior and a lot more technical — statistician or industrial engineer — and they will put together the right team to actually get the work done.
+The people analytics team is distributed across the globe, so the ability to work remotely as part of a collaborative team is a crucial attribute, she said.
+We need people with the ability to create networks. Maybe in Europe this is not as big of a problem, but in the United States there is this mentality of being the self-made person and everything we do, we do on our own. So this individualism is very strong.
+What we’re trying to say is, we want people that have the mentality that you cannot get everything done on your own. You will need people and your ability to build relationships and help others so they help you is very important.
+Avoiding groupthink
+When recruiting, other sought-after qualities include ambition and inspiration:
+We want somebody who’s very smart in their discipline, has the knowledge, has the energy, is able to communicate and work in a team environment. This is the baseline. We take this and say, OK, but we’re also looking for people who have ambition. We want people who want to actually drive their science forward and we want to give them a platform to do this and the tools and resources they need to innovate …
+Finally we need people in and around this team that can inspire movement. People that can speak with authority and they can create an emotional connection with a leader or a business partner and make everybody rally around the detail and unique cause so that they can get it done.
+Diversity is also highly valued, she added:
+What we found worked for us is to create a very diverse team. In fact, and this is a little controversial, but for us sometimes diversity is sometimes if not more important than getting technical expertise. Assuming that you have a lot of technical expertise in the team. So we will actually overinvest in diversity.
+What do we mean by diversity? I mean diversity of thought. Somebody who’s actually going to be able to provoke you, provoke the way you think — to debate you, to bring new ideas, to have different perspectives, different cultures, different experiences.
+Being willing to challenge received wisdom and hidden assumptions — and have the data to do it — is hugely valuable in an enterprise of Walmart’s scale, she concluded:
+The biggest threat I see to Walmart is groupthink.
+My take
+This presentation was a rare insight into the mechanics of people analytics at Walmart. The retail giant doesn’t often speak openly about its internal operations — the motivation for doing so on this occasion was probably revealed in the detailed description of an ideal job applicant. There’s a skill shortage in the HR analytics field, so where better to talk about the profile of your ideal recruit than at a event attended in force by early adopters of HR technology?
+Winding forward to the present day, it provides important context for understanding the decision to sign up for Workday’s HCM platform with its built-in analytics capabilities. With a global team of 60-plus solely dedicated to delivering people analytics — and to proving its business value — Walmart has already seen ample evidence of the value people analytics can deliver in a retail business.
+diginomica supports
+
+Image credit - via WalmartDisclosure - Workday is a diginomica premier partner at time of writing. Read more on: Analytics planning and data analysisHCM and the digital future of workRetail e-commerce and the omni-channelUse cases 

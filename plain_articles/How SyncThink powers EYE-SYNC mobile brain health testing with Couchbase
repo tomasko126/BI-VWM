@@ -1,0 +1,39 @@
+
+EYE-SYNC in action at Couchbase Connect
+Since I interviewed SyncThink at Couchbase Connect, they’ve been busy. In November, SyncThink announced another big partnership for EYE-SYNC, their mobile brain health technology (Pac-12 partners with SyncThink to further support student-athlete health and well-being).
+At Couchbase Connect Silicon Valley, I shot an EYE-SYNC demo video with Dan Beeler, CTO of SyncThink.
+The demo has a cool science fiction element when you see Beeler’s eyes on the tablet screen, but the purpose is practical: help medical professionals in the field to identify possible concussion symptoms. Or, as SyncThink puts it:
+EYE-SYNC is an FDA Class II medical device that is an integrated, head-mounted eye-tracking virtual reality system used for recording, viewing and analyzing eye movements in support of identifying visual tracking impairment.
+Head injuries need mobile health tech
+But there’s more to EYE-SYNC than eye-tracking goggles and a tablet app. As Beeler explained to me in San Jose, SyncThink uses a cloud platform powered by Couchbase’s NoSQL database to support its brain health analytics mission.
+The EYE-SYNC app is informed by years of clinical research – and an unusual research partner. Teaming with the Brain Trauma Foundation, SyncThink got plenty of clinical research support from the U.S. Army. And what was the U.S. Army’s interest in the research? Beeler:
+They had a lot of solders coming back from Iraq and Afghanistan. One of five deployed service members from Iraq suffers a traumatic brain injury, all the way from concussions to something more severe. They are incentivized to hide that injury. They want to get back out in the field and help their buddies. So, the Army needs objective metrics that are mobile, and field deployable.
+Beeler says the inspiration behind EYE-SYNC goes well beyond the military:
+Supporting the military is definitely a goal of ours. But the issue of head injuries are certainly larger than that. We provide the same field deployable objectives to stakeholders like team physicians, athletic trainers, sports medicine, and physical therapists.
+For sporting events, brain health tests should be mobile, but also fast enough to get folks back into the game, or, alternately, to give the evidence to hold an athlete out:
+We want to provide this objective data to help make better decisions on the sidelines during treatment.
+Here’s our five minute EYE-SYNC demo video from Couchbase Connect:
+
+As Beeler explains, the key metric in EYE-SYNC is something called “visual tension”:
+Our primary metrics involve assessment of visual tension. It’s something you need to orient yourself in a moving world. And, if you have an impairment, then you’re just going go back out in the field and risk another injury.
+How does the test work?
+Our premier technology is an eye tracking technology, so we track eye movements. It takes about 60 seconds to provide an automated analysis. And, it’s the perfect objective first step in evaluation. If there is an impairment, then you can move onto technologies that could use eye tracking to evaluate balance, cognitive state, mood anxiety, or headaches.
+Diagnosing the head is complicated stuff. You could have a brain injury, an inner ear vestibular issue, or a neck injury. All produce symptoms that overlap with signs of a concussion. EYE-SYNC, which has been on the market since 2016, can help to distinguish between these types of impairments.
+Why Couchbase? Moving EYE-SYNC to the cloud
+And how does Couchbase come in? For the latest edition of their platform, Beeler’s team wanted to add a cloud component. This would allow data from a sideline evaluation to become immediately available to team physicians, and distributed among all other devices easily. That means EYE-SYNC can play nice with other platforms as well:
+So, next time, say game day, you don’t have to worry about picking the device that has the data for the players on it. You can provide connectivity to your electronic medical records system. We’re not the be all platform for player health. We need to enter this data into their medical records.
+Couchbase met SyncThink’s criteria. They needed a database that was compatible with their Android platform in the field, as well as Microsoft Azure. Couchbase Lite allowed them to ramp up quickly:
+We needed two-way synchronization; Couchbase Sync Server does that for us. We needed a robust data cluster that we could perform advanced analytics and data aggregation on, and Couchbase Server does that for us.
+Once they got rolling, they got Couchbase Professional Services involved:
+When it came time to work towards field deployment, we needed to build out the cloud infrastructure, so we turned to Couchbase Professional Services. They connected us with providers like Level to help deploy a cluster.
+There there is the not-small matter of HIPAA compliance, which involves everything from encryption-at-rest to disaster recovery to constricting data via role provisioning. Couchbase is HIPAA compliant; the other database they considered was not. Beeler:
+Azure supports the requirements for deploying medical records on the cloud. Couchbase has a tool that lets us implement those backups, the logging, the auditing, without too much overhead. And, it’s mature enough that we don’t have to worry too much.
+Things moved quickly from developing on Couchbase Lite to customer go-lives; the first cloud go-lives started in August 2017. As always, go-live was an exciting day:
+It was definitely a high pressure situation. We were onboarding one of our biggest clients, the University of Texas. We came in with a bunch of devices, tested all the players. We were able to use a Couchbase sync server so that we could just leave one with them, and it has all the data that we were collecting on one account. And we can provide quality assurance support remotely.
+The wrap – brain health data from Pop Warner to the pros
+With the Pac-12 on board, not to mention the NBA-gold-standard Golden State Warriors, it looks like big things ahead for SyncThink. Beeler says their Couchbase cloud platform is crucial for what’s next:
+We can now can provide a much better service with a central repository. We can build out advanced analytics we can bring into future versions of software.
+As a youth sports player who had my own battles with concussions, it’s heartening to see advances that will give medical staff the data to make informed decisions, whether it’s on the sidelines or in military field conditions. In my playing days, very little was known about concussions, which led to repeat injuries and, in some cases, long-term consequences.
+The big college and sports teams might grab the PR headlines, but there’s no reason why tools like EYE-SYNC can’t protect the youngest athletes:
+The issues involved here are affecting everyone at all levels. Even though we can provide technology to professional teams, that doesn’t mean it’s any less of an issue at Pop Warner.
+Image credit - Screen cap from SyncThink EYE-SYNC on-site demo by Jon Reed. Disclosure - Couchbase paid the bulk of my travel expenses to attend Couchbase Connect. Read more on: DevOps NoSQL and the open source stackHealthcare transformationNoSQLUse cases 

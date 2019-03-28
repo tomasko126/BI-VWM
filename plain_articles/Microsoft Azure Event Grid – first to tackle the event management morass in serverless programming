@@ -1,0 +1,51 @@
+
+Microsoft Azure Event Grid Overview
+Serverless functions are a deceptively simple idea that while not especially new, only makes sense in the context of shared cloud services of immense scale. Still, serverless as a reality is both new and buzzworthy enough that if mapped to a hype cycle, it would be firmly on the path to peak enthusiasm heading towards eventual disillusionment. As I wrote last spring in discussing Azure Functions,
+Serverless functions are still in the early stages of inflated expectations where marketeers and over-exuberant analysts flock to the shiny new object as a solution to every problem.
+Eventually, the industry will come to a more nuanced understanding of the relative strengths and limitations of event-driven functions and Microsoft is to be commended for accelerating this process by emphasizing the role of Functions within a larger application architecture.
+As is almost always the case, communities of interest have a tendency to optimistically overestimate the utility and applicability of a new technology — one that vendor hyperbole only fuels and exploits, aided and abetted by well paid analysts. On the flip side, there’s a converse propensity to underestimate technology challenges, complexities and unintended consequences.
+When it comes to serverless functions, one area that early adopters and enthusiastic boosters seem blind to is the difficulty of managing a growing portfolio of functions and, in particular, the events that trigger them; challenges that only worsen once usage scales beyond a few limited test cases.
+Such management and scaling problems will be the catalyst for a new category of publish-subscribe services designed for event-driven serverless functions. To its credit, Microsoft has taken the lead by introducing a new Azure Event Grid service.
+Event management for the serverless era
+A problem with early serverless implementations is that event triggers are treated as one-off objects tied to a particular function and application. Looking back, you have to wonder why event management wasn’t considered as a long term requirement given the history of enterprise development and especially that of object re-use. Be that as it may…
+Such usage obviously doesn’t scale (at best, inefficiently) since the same event will likely be used by many applications in an enterprise portfolio. Event Grid seeks to consolidate event management into something resembling a publish-subscribe message bus that can be used by both Azure and third-party services and polled by event-driven Azure Functions and Logic Apps.
+As an independent registry like those used for PaaS-developed services and container images, Event Grid decouples events and function triggers from the underlying serverless code and so facilitates event usage across applications while reducing management overhead.
+As Corey Sanders, project head for Azure Compute, puts it, Event Grid…
+…truly completes the story for serverless apps. [It] makes an event a first-class object in the Azure platform. This will simplify creation and management of event-based and serverless applications.
+In that sense, Event Grid resembles a missing piece of the serverless ecosystem akin to the Spring Eureka or HashiCorp Consul service registries or container image registries like Docker Hub or Azure Container Registry.
+Aside from the inherent simplicity of aggregating and managing a suite of events via a single service, Microsoft Azure Event Grid provides the following features:
+
+The ability to route events from any source to any destination. Events can trigger actions at other Azure services such as responding to new data in a database or initiating external applications via an HTTP Webhook.
+Simplifies application integration and process automation since events can trigger complex workflows using Azure Automation or Logic Apps.
+Support for custom events produced by external applications that once ingested can be consumed by other Azure services and functions.
+Event filtering based on metadata or type of event for more efficient usage by limiting extraneous triggers with filters targeted to particular applications.
+Facilitates adding new event sources to existing applications and functions by acting as a single registry and API, eliminating the need to write unique code for individual events.
+Built for cloud scale to handle millions of events with consistent performance. The service automatically hides infrastructure details and scaling from users.
+
+As a preview service, Microsoft Azure Event Grid is a work in progress and initially, is only available in two Azure regions, US West 2 and US West Central and, it works with a subset of Azure the services, namely:
+
+Azure Automation
+Azure Blob Storage
+Azure Functions
+Azure Resource Manager
+Application Topics
+Event Hubs
+Logic Apps
+WebHook Endpoints
+
+Microsoft Azure Event Grid is priced similar to other usage-based Azure services at 60-cents per million events actions, namely event pushes or pulls from the hub. Developers get the first 100,000 events free and the rates are half price during the preview period. A nice incentive to play.
+Microsoft expects to expand support throughout the year to include Azure Active Directory, API Management, Cosmos DB, Data Factory, Data Lake Store, IoT Hub, Service Bus and Storage Queues.
+Sanders says its initial goals for the preview are educational and evangelical, to help developers understand and use the service and to encourage third parties to build Event Grid support into their applications. Eventually, he would like to see an ecosystem of Event Grid-compatible third-party services, but the mechanism for doing so is unclear and will depend on feedback Microsoft receives from early users.
+My take
+Microsoft Azure Event Grid is an important addition to the cloud service portfolio that both simplifies the development and increases the capabilities of event-driven applications using serverless functions.
+Although Sanders balked at the comparison, Microsoft Azure Event Grid closely resembles a publish-subscribe message bus or queue by adding an abstraction layer between event producers or triggers and application consumers, namely Azure Functions and Logic App workflows.
+As with a message bus, such decoupling can significantly improve scalability, performance and developer usability, albeit at the cost of some flexibility in how event creators format and deliver the data.
+Microsoft Azure Event Grid is unique among cloud services in its design focus on serverless functions and the need to streamline and simplify event management as the number of event-triggered applications multiplies.
+Although there are workarounds on the other mega clouds, none match the feature set with a service designed specifically for serverless code. For example, AWS CloudTrail, its service for logging and tracking API usage, can source events for Lambda and thus act as an intermediary between event producers like S3 or Aurora and serverless applications. Likewise, Google Cloud Functions can be triggered by messages on its Cloud Pub/Sub service or changes to Stackdriver logs, again providing a degree of logical separation between event sources and serverless application consumers.
+That said, Microsoft Azure Event Grid is differentiated by the ability to filter events, work with third-party services and its tight integration with event consumers in the form of Azure Functions and Logic Apps.
+I fully expect the other mega clouds to address event registration and management in support of their serverless products with similar services. I wouldn’t be surprised to learn Amazon Web Services has something to simplify Lambda event usage and management ready to unveil at re:Invent later this year.
+Advisory
+We’re still very early in the development and, more importantly, adoption of serverless services and functions-based, event-driven cloud applications. Expect product and technology innovations around this space to be rapid.
+Enterprise developers should tackle the serverless learning curve through online coursework and experimentation.
+Next, they should start incorporating functions into new designs and provide ample feedback to service providers to help shape the features and priorities at the mega cloud providers who admittedly base most of their new services and enhancements on customer requests.
+Image credit - via MicrosoftRead more on: Cloud platforms - infrastructure and architecture 

@@ -1,0 +1,44 @@
+
+Lew Cirne, New Relic
+CEO Lew Cirne defines New Relic’s mission as enabling its customers to “go fast at scale.” They use its monitoring software to get rapid alerts on how their systems are performing, so that any problems that occur in operations, or when updating new software code, are quickly detected and resolved. This allows them to update their software frequently, even many times a day.
+The corollary of helping customers sustain that pace of innovation is that the vendor must itself keep moving rapidly, while scaling fast as it grows. There’s no limit to its ambition — Cirne says, “We want Google-like share of our space.”
+At its annual FutureStack conference in New York last week, the vendor introduced 37 new product features, and announced one new product that “wasn’t even on our radar” six weeks previously, says Chief Product Officer Jim Gochee. That’s while running a multi-tenant SaaS infrastructure that collects 1.5 billion metrics and events every minute from a fast-growing customer base.
+How to go fast?
+For customers that are themselves constantly tuning and improving their own applications to serve their clients, this pace of product innovation is welcome. They’re also keen to learn how the vendor is able to deliver at such speed, says Aaron Johnson, Global Vice President of Product Management:
+It’s fascinating when you go into customer meetings and the questions aren’t about, ‘Hey, what are you going to release?’ or, ‘We’re unhappy with this thing.’ It’s like, ‘No, we’re happy with everything you’re doing, we just want to understand how you’re moving so fast.’
+But until a recent reorganization, New Relic was facing bottlenecks, Gochee reveals. Its engineering function had grown to a size where there was increasing friction as the number of connections and dependencies between different teams had exploded.
+I clearly remember the point at which we hit that size at which all work stops.
+There’s plenty of advice around on how development teams should organize themselves to get around these bottlenecks, says Chief Architect Nic Benders, but not so much on how to actually achieve the transformation:
+It’s simple on paper. Everybody says, ‘Oh, you empower people. You create autonomous teams.’ Okay, great. That’s like in a fortune cookie. How do you actually do that?
+It takes a huge amount of focus, determination, and practice. And faith in your people saying, ‘You know what, we’ve hired the best people in the world. I’m not going to go down there and say, do things this way.’
+A radical plan
+Bender, Gochee and their colleagues formulated a radical plan called Project Upscale to reorganize New Relic’s software engineering function and eliminate the bottlenecks, as Gochee explains:
+I went to [CEO] Lew [Cirne] and I said, we’re going to make a number of changes, here’s what we want to do. We want to break dependencies between teams, we want to clean up information flows, so that all teams are always aligned with the business priorities, and we have a clear information flow about what work’s to be done. Then what we’re going to do is, we’re going to cut down the number of projects in flight — and we’re going to swarm, we’re going to focus on a smaller number of things to get higher velocity.
+Most notably, New Relic decided to dissolve all its existing teams and create the new structure on a single day — by putting everyone in one big room and letting them decide which team they wanted to join. Although this caused quite a lot of anxiety as the day approached, Gochee explains that it was prompted by advice from an agile development expert:
+He said, high-performing teams are a puzzle. Usually management tries to solve this puzzle by moving people between teams and seeing what works and what doesn’t. He said, let the team solve this puzzle for themselves.
+46 teams in a day
+When people walked into the room on the day this was all to take place, they saw 46 tables, one for each team.
+At each table was a clear articulation of what the team was responsible for. They also had business constraints, [such as] these are the skill sets needed, this is the minimum number of people that has to be on this team.
+Then we spent a day where people shuffled around, looked at different teams, and they solved the puzzle for us. Everybody got mapped to a team, so people got to choose where they wanted to work.
+40% of people chose a new team to be on, 60% stayed in the team they were at. It’s a little bit like opting-in again — I’m going to recommit, if I even stay on the team that I’m on.
+So these teams are highly energized, with a clear mission statement and clear lines of communication — and this was a transformational phase for us.
+It wasn’t just the engineers who were nervous. Cirne admits it was “a nail-biter” for management too:
+What happens if this one project we really need to succeed next month doesn’t have engineers that are well suited to making that project succeed?
+Full accountability
+But now each individual team has full accountability, says Cirne, which means the company as a whole can move much faster:
+Every team is responsible for the quality of their service. They have full accountability for it, they carry a pager for their stuff, and it’s not somebody else’s problem. They measure what’s going on in production, they have best practices for knowing how to allocate resources based on data, not just opinion. They understand the impact of every change.
+It’s not how many lines of code can you have an engineer write, it’s how many lines of code can you deploy to production safely and how rapidly can you do it, that’s the bottleneck to speed.
+The fact that everyone has chosen their own team creates enormous enthusiasm, says Benders:
+There were a couple of hiccups, but what we got out of it was an organization where everyone is on the team they’re on because they wanted to be, and because they cared about the mission of that, and they felt as a part of that shared mission, you could just accomplish these things.
+Moving  at speed
+The autonomous structure is the key to moving fast, Benders adds:
+As chief architect, I’m not making technology decisions for people. I’m not there to tell you how to build your software on the engineering teams. My job is to ensure that you know how to build the software on your team, and that you understand the trade-offs and the results of your decisions, but it’s not to make the decisions for you.
+Because if we make the decisions from the top, then every team is bottlenecked. If we can get the teams so that they can move at top speed, that’s how we’re able to deliver.
+The new structure has had a huge impact on the speed at which New Relic can ship new features, says Gochee.
+It’s taken us a little while to do the reorg and get our legs under us, but the results have been outstanding.
+For example, last week’s introduction of Distributed Tracing, a entirely new product that identifies precisely where problems are occuring within an interconnected set of components, was put together in record time.
+We were able to pivot very quickly and get several teams to co-ordinate on Distributed Tracing — so it’s not just like one team does the work. We had our user interface team, our data team had to participate as well, some of our agent teams. That agility at scale would not have been possible prior to Upscale.
+My take
+It’s fascinating to hear that New Relic’s customers are as interested in how it runs its software engineering function as they are in using its finished products. And it’s no surprise when the vendor is now able to demonstrate just how agile it has become.
+This underlines the importance of adapting cultures and working practices to become successful with new digital technologies. Vendors can’t just sell the technology, they must also pass on the knowledge and nurture the skills that will help their customers be successful with it.
+Image credit - via the authorDisclosure - New Relic is a diginomica premier partner and paid the author's travel to attend its conference last week in New York. Read more on: DevOps NoSQL and the open source stackDigital transformation - frictionless enterprise 

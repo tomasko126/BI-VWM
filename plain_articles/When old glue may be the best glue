@@ -1,0 +1,26 @@
+
+Glue
+Progress Software may have sold off much of its integration tools and technologies two years ago or more, but that does not mean the company has completely lost sight of the advantages of such capabilities out in the real world.
+But this time the integration is pitched firmly at applications, and in particular building firm, practical links between both new and existing legal applications and the wider reaches of the Salesforce environment.
+As such this not particularly new, but according to Nicolas du Manoir, the company’s regional VP for data connectivity and integration, Progress is taking a different approach: integration using ODBC and JDBC connectors, which allow direct applications integration at the data level:
+This is similar to building an API for an application, but does have an advantage. Integration does not mean applications developers have to connect to third party APIs which can, and do, change from time to time. That then means the integration has to be re-written with each change.
+ODBC and JDBC are well established standards where once the connector is written no other changes are required. The only tailoring is to adapt the structure of the actual queries as required by different applications.
+This, he suggests, speeds up the development of complex, multi-application services while at the same time making subsequent maintenance much easier.
+Progress has a long track record in building Open Database Connectivity (ODBC) and Java Dabase Connectivity (JDBC) connectors for a wide range of legacy applications, as well as its own Progress 4GL suite. Both standards have a track record of wide acceptance and use stretching back some 20 years – arguably to the point where many developers may have forgotten about their capabilities.
+Database thinking
+The company has all of the technology and experience available to exploit them, however, and is using them to develop new interfaces for the emerging Open source SQL and Non-SQL databases that are now getting traction, especially in and around the cloud where Salesforce is already a major player.
+One of the first to appear from the company is a connector for the non-SQL Mungo database:
+There has been an explosion of them, and they are more difficult to work with. But is not impossible, and our only issue is to choose which of them to tackle first.
+This is part of du Manoir’s plan to target new data-level applications integration tools at business-focused developers to allow them to connect any application to any application. On to that foundation, he sees the company adding tools that help citizen developers build their own applications:
+The aim is provide the greatest applications flexibility to the greatest number of customers. That way Enterprise IT departments will be able to delegate part of their work onto the citizen developers, making the business very flexible and very agile.
+He sees this as an increasingly important opportunity for Progress within the wider Salesforce partner community, which of course include the company’s own extensive and long-standing partner community around the world.
+Part of the strength of that community was built around the company’s ability to provide them with tools that connected data sources widely used in their particular market sectors with the Progress 4GL which they then used to build tailored business management environments.
+These are still widely used around the world in hundreds, probably thousands of niche market sectors, meaning that the Salesforce tools are now also available to those businesses.
+But it also means that Progress can also offer the growing army of Salesforce partners the same level of data-to-data, any application to any application, connectivity and integration.
+This may have the side benefit of opening up new market opportunities for Progress for its SaaS-delivered version of its 4GL business management system. This has been available for some time, though only around 25% of the company’s partner community has moved over to it.
+That being said, it must be added that some measure of the under-lying resilience of the Progress 4GL may be gained from the fact that around 10% of its partner community are still using versions of the package that are up to 15 years old on the time-honoured maxim of `if-it-ain’t-broke-don’t-fix-it’.
+For Salesforce partners looking for a business management system as a SaaS `bolt-on’ option, there could be an opportunity here for all concerned.
+My take
+In a world where connectivity and integration between any applications is becoming increasingly important – with ease of achievement an obvious side-benefit – this may prove to be a case where the ‘old ways’ still end up as the ‘best ways’.
+
+Read more on: InfrastructureSecurity 

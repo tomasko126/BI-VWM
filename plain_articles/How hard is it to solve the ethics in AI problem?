@@ -1,0 +1,29 @@
+
+I tend to divide AI into the types of tools that are readily available now and in use, Available AI, or Now AI as some call it, with the uncertain future AI, the singularity or what is known as AGI, Artificial General Intelligence, the latter being the stuff of science fiction.
+Experts predict we will reach this point where an AI gains superior intelligence to human beings (though on some days I wonder if this isn’t a pretty low bar) in twenty years or two hundred years or not at all. However, in terms of thinking about ethics in the use of AI now, I think I’ve been a little cavalier in considering only the Available AI.
+If there ever is an AGI, it won’t happen overnight. It will be an accretion of many pieces and parts, some of which are already here. For example, in 2012 an AI could distinguish a fake smile from a real one. In 2015, an AI lie detector beat the best interrogators. In 2017, an AI predicted whether someone is depressed or even suicidal from facial recognition related techniques. Many AI capabilities are already familiar such as facial recognition, Natural Language Processing, etc. In addition, there are dozens of capabilities already here that will be part of a cognitive AI:
+
+Computation creativity
+Machine learning. Neural networks – Deep Learning
+Robotics
+Fuzzy systems
+Evolutionary computation, including Evolutionary algorithms – Genetic algorithms
+Probabilistic methods including Bayesian networks, the Hidden Markov model.
+Chaos theory
+
+AI got a huge boost when IBM’s Watson beat the Jeopardy champs, but the less than roaring success IBM had commercializing Watson revealed that artificial intelligence isn’t all it’s cracked up to be. Watson had to be agonizingly trained for each domain it was put to (oncology being a good example), and there was no connection between one domain and another. In other words, it only knew what it was told.
+Something very different happened when DeepMind’s AI beat the best Go champions in the world. Training an AI to play chess, for example, relies on the computer’s blazing fast calculations to see a huge number of potential outcomes with each move. Compare this with DeepMind’s AlphaGoZero. Instead of learning how to play by analyzing millions of games played by humans, AlphaGo Zero did without human input. It was essentially given the rules of the game and shut up in a box until it was the best Go player in the world. It took three days.
+Is that scary AI? You bet it is, but AlphaGoZero cannot explain a Chinese text from 3000 years ago. Yet. The point is that nearly all these seemingly intelligent capabilities only perform in limited ways. Except for AlphaGoZero. That one has me worried. It can learn without being taught. That’s a little different.
+I’ve been spending time on the topic of ethics in AI or, more precisely, how can organizations ethically deploy AI. Where do we find a moral compass? It’s a hard problem because the topic of ethics is full of contradictions. This academic article provides a flavor. It is one of many such pieces.
+However, I’ve painted myself into a corner by limiting my analysis to Available AI, especially machine learning and neural nets. We know about GIGO (Garbage In Garbage Out) because machine learning is dependent on datasets we create. Those datasets can implicitly convey to the algorithms all sorts of biases, or BIBO (Bias in Bigotry Out). There are many cases of “deep-learning” failing dramatically in unexpected ways. For example, in image or facial recognition, the removal of even one pixel can confuse the net. This opens the door to all sorts of mischief by bad actors.
+There is some hope in the form of “auto-encoders,” neural networks trained to reconstruct their original input. There is a technique that’s been around for a while called the “Hamlet Strategy.” a learning system, HAMLET[1], which learns from planning episodes, by explaining why the correct decisions were made, and later refines the learned strategy knowledge to make it incrementally correct with experience. Why Hamlet? Of course, an inner-monologue.
+It may be possible for us to begin to avoid the AI black-box effect if AI can tell us what it’s doing. But – as this story explains in the context of AI black-box concerns:
+The reason is not so much inherent in the nature of the model used, yet resides more in a failure to produce an intelligible description of the results produced in each case and, in particular, to highlight the most important features of the case in question that have led to these results. This failure is largely due to the dimensions of the spaces in which the data are evolving, which is particularly crucial in the case of deep learning.
+Even when we think we understand, there remains the question, what ‘s the right thing to do? Should we encode an exhaustive set of ethical principles into AI? The German Federal Ministry of Transport and Digital Infrastructure attempted to do this for autonomous vehicles but the results raised more questions than answers. Google tried to democratize this issue through crowd-sourcing, but the results were not consistent. MIT’s Moral Machine is described as
+…a platform for gathering a human perspective on oral decisions made by machine intelligence, such as self-driving cars.
+This looks like it holds potential for advancing solutions that have an ethically sound (whatever that means) dimension. I’m going to spend some time with the Moral Machine and report in my next article.
+
+Veloso, M. and Borrajo, D. (1994) — learning strategy knowledge incrementally. In Proceedings of the Sixth IEEE International Conference on Tools with Artificial Intelligence, pp. 484490, New Orleans, LO: IEEE Computer Society Press. ↑
+
+ 
+Image credit - © Ivelin Radkov - Fotolia.comRead more on: Machine intelligence and AI 

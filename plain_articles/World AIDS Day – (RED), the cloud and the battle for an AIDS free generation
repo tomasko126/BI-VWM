@@ -1,0 +1,54 @@
+
+In 2005, more than 1,200 babies in Africa were born every day with HIV. 
+Today that number is 400. 
+By 2020, there’s every chance that that number can be driven down to zero. 
+When that happens, there’s the prospect of something that once seemed beyond reach – an AIDS free generation. 
+It’s a goal that AIDS charity (RED), the brainchild of U2 front man Bono and US activist journalist Bobby Shriver, thinks is within reach. Since its inception, (RED) has raised $365 million for the fight against AIDS and saved an estimated 20 million lives. 
+(RED) CEO Deborah Dugan attributes much of the success of the organization to its contemplation of values and what motivates individuals: 
+
+Bono has a few values of his own. He really does believe that each life has equal value, that where you’re born shouldn’t determine whether you live or die, and that it isn’t about charity, it’s about justice. For each of us – pause, think about where do your values come from.
+You shouldn’t leave your values at the door when you go to work each morning…It all sort of converged at Red, my values and my business skills. We apply business skills to philanthropy.
+
+As a small organization of only 20 full-time staff, (RED)’s reach is magnified by its network of partner companies, including Bank of America, Coca-Cola, Apple, GAP and Starbucks, producing (RED) branded products to raise funds. 
+Tech firms have played their part. SAP, for example, has committed a minimum of $1 million per year to The Global Fund, an organization designed to accelerate the end of AIDS, tuberculosis and malaria as epidemics and the recipient of RED’s funding. 
+Meanwhile at the World Economic Forum in Davos this year Salesforce and (RED) announced a five year $5 million partnership. Tonight in the City of London, to mark World AIDS Day, the Salesforce Tower will be illuminated in red as a sign of the ongoing relationship between the two.
+Over the past year, Salesforce employees have volunteered more than 900 hours of pro bono skills and technical know-how to get (RED) up and running on Salesforce  tech, including Wave Analytics, NonProfit Starter Pack, Data.com,Commerce Cloud, Pardot, and Communities. 
+Cloud use
+At Salesforce’s Dreamforce conference this year, Ebony Frelix, SVP Philanthropy and Engagement, salesforce.org, explained how (RED) is tapping into the cloud to optimize its operational model:
+
+One of the first things we did was we used our product and our pro-bono volunteers and we implemented Wave Analytics. The power of Wave is that it allows you to import massive amounts of data, from sources such as The Global Fund and UNAIDS. 
+The beauty of Wave was that it allows Red to tell its story in a very impactful way. For example, we can see that two-thirds of people living today with HIV live in sub-Saharan Africa, which is why Red focuses their funding primarily in Africa.
+
+The data insight provided through use of analytics is shaping strategic decisions for (RED), said Frelix, citing the fact that the number of people living with HIV is at an all-time high:
+
+
+At first that might seem like a very grim statistic, because we know that there are new HIV infections every single day. But we also know that people with HIV are living longer today. Their life expectancy is increasing. That is why (RED) and The Global Fund focus on the number of new HIV infections, primarily passed between mother and child.
+What they are doing is working. (RED) is focusing on outreach programs, like training and counselling and the availability of treatment therapies, that are being specifically focused on women and girls. In 2014, just in South Africa alone, nearly 300,000 lives were saved due to the availability of these new treatment therapies. 
+
+The use of Wave has also enabled (RED) to take its story out to partners and prospective new partners, added Frelix: 
+
+No matter the size of our company or what product we sell, it doesn’t matter to Red. They need more partners to help on this life-saving mission. What Wave allows them to do is to go out and demonstrate and tell this story to their partners. When they’re out on site with their partners, they’re able to demonstrate to them the impact of their matching donations, their events, their product sales.
+
+(RED) has also used the Communities Cloud to bring together partners and AIDS experts from all around the world. Frelix explained: 
+
+(RED) has the products, they have the data, they have a way to share with their partners what’s going on. What they realised they needed was a way to create a space for all these partners to collaborate, so they could amplify their message. As one person we can do a little, but together as a community we can do amazing things.
+
+The resulting community site allows users to check on the overall status of (RED) contributions and funding as well as to enable partners to collaborate on campaigns and actions. 
+Salesforce’s Einstein AI tech is built in, recommending answers to questions or prompting contact with experts who are also members of the (RED) community. 
+Also present are tools to create pop-up shop fronts for (RED) products, complete with all branding materials and Commerce Cloud capabilities to track transactions in real-time. Meanwhile Einstein is on hand to recommend potential bundling of products that might optimise sales. 
+All of this combines to help (RED) as a business to achieve its goals. Or as CEO Dugan puts it: 
+
+What we try to achieve is the ultimate ROI – lives saved.
+
+My take
+An AIDS free generation is an aspiration that’s well worth reaching for. 
+(RED) is a superb example of the new breed of corporate philanthropic activism in action and Dugan’s ROI metric – lives saved – is a powerful one. 
+At Dreamforce, delegates this year were set a challenge of raising funds for (RED) over the duration of the conference, a sum that would be topped up by $1 million from Salesforce CEO Marc Benioff and his wife Lynne and double-matched by Bill and Melinda Gates.  In total, $3 million was raised. 
+Donations to (RED) can be made at https://red.org/donate/. In case you need further convincing of the value of the cause, the words of Connie Mudenda, (RED) Ambassador and AIDS Activist, may make the case. 
+Mudenda is an HIV positive Zambian woman who’s now been on medication for 12 years. After contracting HIV at a time when it carried great stigma and having lost three children to HIV, she’s now the mother of an HIV negative daughter and enjoys a healthy life thanks to taking a daily pill that costs 30 cents a piece. She attributes her well-being to the actions of (RED) and other companies that raise money for the fight against AIDS. Or as she puts it: 
+
+It will keep me alive.
+
+And millions of others worldwide.
+Image credit - Freeimages.com/YouTubeDisclosure - At time of writing, Salesforce and SAP are premier partners of diginomica. Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureCollaboration sharing and digital productivityCRM and customer experienceDigital and content marketingDigital enterprise in the real worldMachine intelligence and AIThird sector and non-profits
+

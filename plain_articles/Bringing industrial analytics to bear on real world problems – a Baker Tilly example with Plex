@@ -1,0 +1,57 @@
+
+One of the biggest weaknesses with most cloud ERP vendors is the problem of incorporating so-called big data into decision making.
+Cloud ERP customers do love the “single source of truth” their systems provide – but what’s the right play when so much of the data that matters resides outside your transactional system?
+Whether it’s sensor or equipment data, social sentiment or geolocational info, the ingredients for better decision making often lie outside the purview of ERP systems.
+As Brian Sommer and I have banged on about during our spring event podcast recaps, the examples of cloud ERP vendors tackling this problem head-on are, alas, few and far between. One notable exception, however, was at the PowerPlex user event in Detroit.
+On the final day, I had the chance to hear the Baker Tilly team give a presentation on industrial analytics. They drilled into the power of predictive analytics in an Industry 4.0 context.
+“Predictive analytics are not as time-consuming as you might think”
+I’ve written about Baker Tilly before (“Manufacturing is the growth engine” – why Baker Tilly advocates for Industry 4.0, IoT, and Plex). I like how they go beyond what you see from many ERP consulting partners. As part of their consulting practice with Plex Manufacturing Cloud customers, they provide a deeper context of where we’re headed (an attribute which we sometimes tag with the awkward label “thought leadership”).
+But “Industry 4.0” talk can get a little futuristic. Baker Tilly knows that their Industry 4.0 maturity model isn’t something a customer can completely absorb in one quick session. The questions are:
+What can customers do about these concepts today? And can they make a bottom line difference? To answer that, Baker Tilly leaned on the practical. They told the audience, most of whom were new to Industry 4.0 concepts:
+Predictive analytics is not as hard or as time-consuming as you might think.
+To get us there, they made a business-oriented pitch, not a tech case:
+The goal of a data scientist is to predict the future with a high degree of accuracy. The goal of a business leader is to not only predict the future, but to influence the future.
+Industrial analytics in action – an aerospace supplier use case
+That works – but how do you make it happen? To put this into practice, Baker Tilly built tools to help Plex customers ramp these projects up quickly. But even with helpful tooling, customers aren’t going to dive in without a business case. To back that up, Baker Tilly’s Michael Huzinec shared a compelling aerospace example from a tier one supplier to a major airline manufacturer.
+This company worked with Baker Tilly to apply industrial analytics to a complex interconnected plane project, which involves “tons of machine data.” During the proof of concept, they were able to identify a problem their prior approach hadn’t solved. As Huzinec says, that’s your business case right there:
+What we were able to figure out is they’ve got thirty outstanding issues in any one month. If we can reduce that just by one, it’s going to be in excess of a million dollars savings just in terms of engineering time and the number of the people they have looking into it.
+That’s what a proper analytics approach can do:
+Now they could, through automated data consolidation, really go for the exception. So when they’re having issues, [they can explore the data], and ask, “What do I need to look into?”
+So how did they get there? As Huzinec told the audience, it started with a manufacturing data problem – a data problem made more difficult by the data exhaust of modern equipment.
+It’s one of the most advanced planes out there, a 787. It’s very much interconnected to all the different systems, so you have tons of machine data that are talking about different systems and how they’re interacting with each other.
+The story unfolded with a data headache to solve:
+The CEO of this company told us about all this message data they were getting off planes related to their systems, and components. [Their client] was asking them, “Hey, do you know what’s causing this issue?”
+They have a pretty good relationship with their client, so they were kind of winding each other up, but the CEO forwarded that on to his management team and said, “Look, we’re getting these messages. What can we do about it?”
+They started emailing the messages around, trying to figure out the root cause. That led to the industrial analytics pilot with Baker Tilly. They didn’t know if they would find value in it, but they were open to a new approach. Huzinec:
+It’s the same thing on the shop floor, right? If we’re having a component that breaks down, and part of the line breaks down, what are the different environmental conditions going on when that happens?
+Keys to getting a manufacturing analytics result
+Bring on the unstructured/external data:
+So we looked at stuff like flight data, flight patterns, how many cycles between the flights, how often are they moving? We looked at weather data, which will affect things getting clogged and overheating. What else did we look at? We looked at engineering nodes, which is unstructured data. We really just started to pull this together and said, “What can we learn out of this?”
+Huzinec didn’t know if they’d immediately solve the problem. With analytics pilots, you don’t necessarily know where the big win is going to come from.
+My favorite part of the story is we’re sitting there and testing, and he’s a little nervous, right, because he’s got to launch this pilot project, and you don’t know if it’s going to work. That’s one of the keys of analytics: you’re really doing some investigation.
+Baker Tilly’s pilot had two things going for it:
+
+It was pulling data from Plex and external data sources, providing a more complete view than the customer had access to before.
+The data was easily searchable.
+
+Picking up the story:
+So we typed into the search box. We just said “leaks” and what that did, it sub-segmented the data down to any times where an engineer was talking about a leak issue, or any message where the machine data was talking about leaks. So when this chart started to move around, the CEO goes, “Yeah, all right. That’s pretty good.”
+Ahh, now we have another key to data projects: even if you know how to build a great data tool, a subject matter expert will interpret the data differently than you do:
+The CEO basically said, “Well, it looks like it’s cold and wet conditions. So I can tell it has to do with the de-icing fluid.”
+Trusting the data is a process unto itself:
+The other interesting part of the story was: we’re looking at message data and how these different systems interact. He says, “Nah, guys you still got the data wrong. I shouldn’t see these messages with these messages. They’re just different systems. There’s no way that those two could possibly relate.”
+But Huzinec knew the data was right. That led to further data exploration, and the conclusion that one plane in question probably got hit by lightning and blew a surge protector, which caused a downstream issue:
+It’s the context of pulling that information together and exploring it, which is really where a lot of the value is.
+The wrap
+There’s more to the story than I’ve told here. But now the business case had legs. Elusive and costly problems had been properly identified. As Huzinec shared at PowerPlex, momentum from that pilot led to more work, identifying other pain points with their end customers:
+A lot of what it’s about is resource allocation. What do I focus on? How do I cut out the noise that’s in the data? And then, you’ll see this often with analytics, is one idea spawns another idea.
+Eventually, that business case fleshed out into bigger numbers:
+
+16x improvement in fleet visibility and coverage.
+75 percent of manual data consolidation and reporting processes automated, resulting in a $740,00 annual cost savings.
+$1.8M to $3.9M – “expected single program annual savings driven by faster time to issue resolution.”
+25 percent improvement in service and design engineering resource allocation.
+
+I didn’t get into the nitty-gritty of how Baker Tilly connected to Plex. I also didn’t cover how Baker Tilly ties industrial analytics into their Industry 4.0 maturity context I wrote about last time, in my talk with Baker Tilly’s Peter Pearce. That’s a topic I’d like to return to.
+For now, what we have is a nifty example of the power of combining cloud ERP – in this case, cloud manufacturing – with data we don’t traditionally see inside of ERP systems.
+Image credit - Feature image Side View Of A Young Male Stock Market Broker Analyzing Graphs On Multiple Computer Screens by @Andrey_Popov, from Shutterstock.com.Disclosure - Plex paid the bulk of my travel expenses to attend PowerPlex 2018. Plex Systems is a diginomica premier partner. Diginomica has no financial ties to Baker Tilly. Read more on: Analytics planning and data analysisDigital enterprise in the real worldInternet of ThingsThe new professional and IT as a service 

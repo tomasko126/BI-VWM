@@ -1,0 +1,83 @@
+
+Mark Hurd
+There was a bit of a tense moment during Oracle and NetSuite’s ‘where we go from here’ presentation yesterday. 
+It came as the latter’s Chief Technology Officer Evan Goldberg handed the PowerPoint clicker over to the former’s EVP of Applications Development Steve Miranda. Miranda quipped: 
+
+I was a bit nervous on the clicker hand-off. I was afraid if I dropped it, you guys might think that the development teams weren’t working well together. 
+
+That would indeed have been awkward given the purpose of the session was to emphasise continuity and answer some of the many questions hanging over from Oracle’s $9.3 billion acquisition of NetSuite, which closed early last month.  As Oracle CEO Mark Hurd noted: 
+
+There’s only so much you can say when you’re trying to close a transaction. 
+
+So yesterday was the first attempt to dive down into more detail, although the message from Hurd actually boiled down to two words: 
+
+Just more. 
+
+That’s more R&D, more countries, more resources, more data centers, more products, more vertical market sectors. 
+And for Goldberg, a stark order from Hurd: 
+
+More product – faster!
+
+The same, but more
+For existing NetSuite customers, Hurd insisted that there’s nothing to worry about in terms of ongoing support for their existing investment: 
+
+NetSuite products will go on forever. Our intent is to keep NetSuite and invest in it. Customers will get access to all of Oracle’s resources and Oracle’s [software] stack…Our strategy with NetSuite is very key to our overall strategy in the cloud. The portfolios will work together. We’ll make more products available to our joint customers. 
+
+He added:
+
+Prior to the companies getting officially integrated, the products didn’t work together. Now of course there’s the desire and ‘Can we get it done tomorrow?’. So we’ll have the debate that will go on, between [adding] features…at the same time as we look at product integration…We don’t want to have NetSuite go off and build a separate HCM solution when we already have one. Those will get integrated. The debate will not be an ‘if’. It will be a timing issue. 
+
+There is very little overlap in the two companies’ product sets, with 95% of the products serving customers with different attributes, he argued: 
+
+These are products that are materially, and I’ll asterisk ‘materially,’ more complementary than competitive. 
+
+So, essentially the ‘mile high’ messaging is simple enough – NetSuite solutions work well for startups and smaller companies, while Oracle solutions work well for large enterprises. There are large enterprise NetSuite customers and vice versa, but that’s the basic assumption on which the combined strategy is being built. Hurd asked rhetorically:
+
+Can you find a start-up who bought Oracle ERP? Yeah. Can you find an enterprise who bought NetSuite ERP? Yeah. But those aren’t where the bulk of it is. The bases have almost no overlap in terms of the attributes. 
+There may be customers who fit the NetSuite attributes, who say ‘I really want Oracle’. Or there may be [customer with] attributes that would more naturally fit the Oracle product, but who say they want NetSuite. It’s going to be OK either way. 
+
+That said, there will be more cross-selling opportunities, he stated: 
+
+I always tell people, ‘You’ll have more Oracle sales people coming to see you!’.
+
+Global push
+Particular emphasis was placed on increased globalisation opportunities for NetSuite, with Hurd pledging: 
+
+We will globalise NetSuite. NetSuite has been very successful in the United States. We believe there is a tremendous opportunity to bring NetSuite across the globe, to leverage Oracle’s global footprint, to be able to leverage Oracle’s global resources, to be able to do all around the world what NetSuite has done in the US.
+
+Jim McGeever, NetSuite President and now head of the NetSuite Global Business Unit inside Oracle, said there are clear new international growth options: 
+
+If you look at where NetSuite had data centers, we had five data centers in two regions. These are not cheap endeavors. A data center is an expensive thing. What do we get to leverage as part of Oracle?  We get to leverage their data center environment. They’ve got 19 state-of-the-art facilities, most of them very new. 
+We had offices in 14 countries in the world. Primarily where we had focused on was the English-speaking world. Oracle had a few more offices! We were catching up, but it would have taken us a while. The hardest thing for us going into a new country was this go-to-market [aspect], creating local language support, the sales team, the services team, the product. Well, now we’re going to have a lot more [resource] and be able to take the NetSuite product global much faster than we could have done by ourselves. 
+
+For Goldberg, the international expansion is also a priority from a product development perspective: 
+
+We’re going to be able to do more international markets more quickly…We’re going to continue to invest in our global capabilities. The OneWorld product, there’s going to be a next generation of that that has much more powerful inter-company features. We’re going to leverage the ability to do multi-book. Each jurisdiction needs often to do things differently.  Country-specific localisation is a big area of investment for us. 
+
+Don’t mention the S-word
+Evan Goldberg
+Oracle’s Miranda took to the stage to pitch Oracle’s own cloud credentials, staking a claim to having the world’s biggest marketing cloud, for instance. He cited 2800 customers running Oracle ERP/EPM Cloud at headquarters across 77 countries with more than 400 go lives over the past six months. 
+There are common adoption patterns that can be seen with NetSuite, said Miranda, with Oracle Cloud customers typically taking a phased approach, layering cloud solutions on top of existing on premise installations. That’s important for NetSuite customers, he argued: 
+
+As the engineering teams collaborate…those base areas of incremental adoptions help add seamlessly to the NetSuite suite of applications and existing customers. 
+
+On HCM, Oracle is, he said: 
+
+Large and growing faster than our nearest competitor. 
+
+That nearest competitor – Workday – wasn’t mentioned by name, although did feature on the slide deck.
+Asked about SAP, Hurd said that was a word he tried not to mention, but Goldberg added that NetSuite’s had German ambitions for some time:
+
+We’ve had the plans in place for some time, but we haven’t had the resources to be able to execute. It’s ready to go. 
+
+This appeared to overcome Hurd’s reticence as he stated: 
+
+One other thing about SAP, we talk about the cloud. Steve talked about ‘another company’ in ERP, not SAP.  That’s because they [SAP] have really done almost nothing. Their cloud strategy, which is most often refered to by the term S4/HANA, is fundamentally a hosting strategy. It’s really taking their core ERP on prem app and hosting it in a data center. It’s really the physical movement of a computer from here to there. 
+That’s not cloud. That’s not SaaS. So I’m not sure that we really think of them as a core SaaS competitor. We see them as an opportunity to take their old on prem base and move it to a whole new set of modern applications. So Germany is very attractive, but frankly the whole SAP base is attractive, regardless of what country it sits in.
+
+My take
+The thing that struck me as I watched the presentation was that this was the first NetSuite event that hadn’t been presided over by CEO Zach Nelson and whose absence was notable yesterday. He will be staying on at Oracle as an evangelist for the NetSuite offerings and cloud ERP in general. Quite how that works in day-to-day terms wasn’t made clear yesterday and will doubtless work itself out in time. Hurd was effusive in his praise of Nelson, but it’s McGeever who’s now the boss at NetSuite, as Goldberg acknowledged, and reporting in directly to Hurd. 
+Back in November, Nelson predicted that Oracle would become more like NetSuite  in the future. The messaging yesterday from Hurd was emphatically one of complementary co-existence between the two firms cloud offerings, reiterating the argument that 95% of the combined customer bases had different attributes and needs. 
+There’s an enormously long road to travel of course and questions remain to be answered. But in terms of what yesterday’s session set out to achieve, there were no nasty surprises to scare the NetSuite customer base.  Or in other words – nobody dropped the clicker. 
+Image credit - Oracle Disclosure - At time of writing, Oracle, NetSuite, SAP and Workday are premier partners of diginomica. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureCRM and customer experienceDigital and content marketingDigital government and public servicesHCM and the digital future of workRetail e-commerce and the omni-channel
+

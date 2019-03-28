@@ -1,0 +1,31 @@
+
+ 
+Matt Calkins
+Spending time with Appian CEO Matt Calkins, at the company’s recent AppianWorld conference in Miami, gave me a bit insight into his thinking behind its move into the world of producing complete applications.
+Perhaps more importantly, it opened up an interesting line of ongoing debate as to when, where and how some of the current ‘significant players’ in the IT product and service provision sectors might at least see some buffers coming that could slow down their current rates of success.
+The call centre management application announced at the conference does not mark the start of a trend for the company, Calkin insisted. Well, not yet anyway. Much depends on how well they do with the first one, and he was not giving way the KPI set that will mark success or failure, except for noting that part of ‘success’ will be in giving customers a great experience:
+It is not my goal to build an application model and then stamp out a bunch more applications. It is to address a market where I believe we have a unique advantage.
+He does not think any call centre systems vendor can match the way Appian brings data from anywhere together at the point of decision:
+The typical call center action is taken in relative ignorance, and we’re going to full inform it. None of the others have the ability to pull in data from around the enterprise. We’ve been doing that for years, its our edge in BPM. And we are already rate number one in case management.
+Companies such as Aviva and Goldman Sachs are running call centers put together with the help of the Appian Foundation, so the move to packaging up the application for wider use has not been that much of a step for the company.
+It’s that mystery company again
+But Calkins announcement of this at the company’s Miami conference was followed by the representative of Mystery Company X (the one that won’t be named or directly quoted). Its self-built governance management applications seemed like an obvious candidate for a follow up to the call centre application.
+Calkins however, is in no rush to head off in this new direction:
+Actually the world is brimming with next candidates and you are right, that is one of them. But I want to focus on the first and make the most of it. And it wouldn’t upset me if someone other company used Appian to produce any of those applications. In fact I am down in the partner room every day (at the conference) telling them that is what they should do.
+He did, however, drop the hint that it could still be a possible future target for Appian, particularly as Mystery Company X is not one that is likely to launch out as an application vendor.
+Another candidate for the as-yet non-existent Appian follow-up application mused upon by Calkins was in the area of GDPR management, especially in the area of individuals having the ‘Right to be Forgotten’, which he sees as a great opportunity.
+What will be the final arbiter of any next move into the application space for Appian will be a history of successful deployments – and a market in a state of change that offers an opportunity for a new entrant. Calkin argues:
+All of our competitors force their choices onto customers. Our philosophy is that they can run anywhere, host anywhere, have data anywhere. Our rivals are so big they have the market power to demand that customers do things a certain way. We don’t have that power, so we have to say to them `you do it your way and we’ll make it work for you’.
+Is this the future of Salesforce?
+The Appian CEO does make the bold claim of seeing his firm increasingly overlapping with Salesforce in a number of areas, particularly when it comes to tailored applications development to meet specific customer requirements:
+We compete with their custom application development environment, Force.com, all the time. In fact they are the third most common competitor we see…what we are doing is very different in that it is far more easily customized and far more industrial strength.
+But Calkins hopes to tap into opportunities in the market the Salesforce’s footprint can create:
+This is our whole game plan. Salesforce, with its wonderful marketing outreach, is going to whet everyone’s appetite – and they cannot fulfil that appetite…Salesforce is out there getting a lot of attention – money too – but it is getting our idea to millions of people who would not otherwise have heard of it based on our ability to do outreach. And then those people say, ‘I love this idea, I want more than Salesforce can give me’, and so they look into it and they find us.
+He did jest that he had considered sending Salesforce some sales commission, but hadn’t done that so far.
+Of course, if Calkin is correct, then an acquisition of a low-code company like Appian could be a next logical step for Salesforce to take…
+My take
+At the moment it is certainly hard to see how the likes of Appian could prove to be the nemesis of companies like Salesforce. Then again ask IBM, stranger things have happened.
+It is possible to see a case where low-code applications development will have a good deal going for it compared to the current ‘quite-a-bit-of-code-really’ environment.
+This is especially likely if the other half of this equation –  innovation – is primarily delivered in future by business people rather than archetypal techies. Then it will be a case that identifying and releasing new process functionality will be far more important than whether it is written in Java or Python. At that point, low code could even be a positive advantage.
+ 
+Image credit - AppianDisclosure - At time of writing, Salesforce is a premier partner of diginomica. Read more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stack 

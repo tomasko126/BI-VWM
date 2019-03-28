@@ -1,0 +1,59 @@
+
+Media war rooms and a busy night
+It’s going to be a big night for New Relic tonight, as well as for Donald Trump and Hillary Clinton. 
+According to company President Hilarie Koplow-McAdams, the coming in of the US Presidential election results is likely to be a big use case for the firm’s analytics capabilities. Or as she puts it: 
+
+We will have people in the war rooms of every media company around the globe. 
+
+Given the febrile and contentious nature of the campaign and tsunami of claim and counterclaim and contradictory data, helping to make sense of the  election results would certainly be a powerful proof point. 
+It’s a claim that fits with the confidence exuded by the firm as it prepares to launch its latest cloud infrastructure offering next week at its FutureStack user conference in San Francisco. 
+Yesterday the firm posted a net loss of $14.3 million on revenue of $63.4 million, up 48% year-on-year,  but it’s the upwards trajectory of the firm’s client numbers that impresses Wall Street. 
+According to CEO Lew Cirne, the second quarter ended with more than 400 customers spending in excess of $100,000 a year, nearly three times the number two years ago, and over 20 customers now past the million dollars a year level. 
+Other stats of note include an enterprise customer base of 1500 logos, including The Gap, Barclays, Nissan and Liberty Mutual, and 25 trillion “events” collected during the second quarter, up 14% on the first quarter. 
+Cirne says that there is a clear set of drivers for adoption of the New Relic solutions: 
+
+As companies are launching digital businesses or adopting the public cloud as a core component of their technology strategy, there are more and more often turning to New Relic. As developers, IT operations professional, and line of business owners increasingly collaborate and try to join success of their company’s digital initiatives, the breadth of our platform is helping to change the game by driving hundreds and sometimes thousands of users in a single company to connect and interact with our analytics platform.
+
+Being a cloud pureplay provides a significant competitive advantage, he argues: 
+
+To become truly ubiquitous in the market, we believe it is imperative to be a true cloud-only company, built for the cloud from inception. Our cloud-based platform enables us to address the needs of companies of any size in all sectors across the world from startup digital to the largest enterprises in the world in the midst of digital transformations.
+
+He adds: 
+
+As more people connect with New Relic, it generates a scalable and data rich feedback mechanism that can help improve our value proposition and optimize our customers’ digital experiences. This is a significant sustainable competitive advantage that we have versus traditional on premise vendors, who are blind and in a silo unable to processor or share these connections.
+
+Infrastructure additions
+Next week the firm will launch New Relic Infrastructure, the latest element of the Digital Intelligence Platform.  According to the pitch, the New Relic Infrastructure enables operations teams to: 
+
+Move fast and deploy with confidence by correlating configuration changes with health metrics in real time. Powerful infrastructure-wide search across every host enables your team to find inconsistent configurations to detect and resolve issues quickly.
+Scale and adapt to diverse environments with any combination of cloud instances, micro-services, containers, or traditional servers. Tag-driven dashboards and alerts scale with your dynamic infrastructure reducing administrative overhead.
+Gain full-stack visibility with the New Relic Digital Intelligence Platform – a unified view from your infrastructure to application code performance to customer experience, in one seamless context. Correlate host health with your application metrics from New Relic APM and understand how your infrastructure performance impacts business metrics through New Relic Insights.
+
+This is about addressing changing needs in the market, says Cirne: 
+
+The nature of the problems [have] changed dramatically over last few years as clients have moved to cloud. What has been a challenge of putting visibility into the tens or hundreds of servers, might be now putting visibility into thousands of virtualized servers or containers and a large percentage of that may come and go as a normal course of operations. So, traditional visibility tools that assume a small number of servers, kind of stay in place aren’t well-suited to the needs of today’s enterprise customer.
+But what’s an even bigger point differentiation for New Relic Infrastructure is tracking in real-time the state and configuration across all those servers. Imagine, as many of our customers do, if a security flow was exposed by an open source package, New Relic Infrastructure will allow our customers to search across tens of thousands servers and instantly see where that faulty piece of software might be installed. We also track changes in real-time.
+What we found out from our customers is that the number one risk to production availability is a change, a change that might be benign by intent, but actually cause a production problem.
+
+Cirne talks up the new offering as a significant extension to the firm’s existing capabilities, citing the participation of 1500 customers in the beta program as proof of its potential:
+
+
+We designed [New Relic Infrastructure] to provide real-time visibility in a critical configuration changes that affect the company’s cloud infrastructure and intelligently alert users so they can troubleshoot problems and reduce downtime.
+We believe New Relic Infrastructure meaningfully expands our total addressable market. It makes our rebranded Digital Intelligence Platform, which can now analyze massive quantities of both software and infrastructure data increasingly relevant to core IT use cases over and above our support for digital business initiatives.
+In addition we believe New Relic Infrastructure has the long-term potential to become a second initial entry point for new customers on top of being an excellent opportunity to further expand existing customer relationships.
+
+That said, the firm is quick to caution that it’s likely to be fiscal 2018 before the new offering has a material impact on bottom line. 
+Meanwhile New Relic’s cloud pricing option, introduced in August, is seeing traction, says Koplow-McAdams. The new scheme allows customers to subscribe to licenses based on the types of instances they expect to use and how they plan to use them. The intention was to create a model of pricing that is aligned to how customers consume their cloud infrastructure. 
+This has been well-received, says Koplow-Adams, and helped close the largest deal of the second quarter, a seven-figure per annum signing: 
+
+We had the goal of creating a drop dead simple price point that customers could easily translate for their cloud-based platform that they were using, namely AWS, Azure, Google etc and we found that to be really successful.
+We saw a seven figure deal. We saw a lot of customers, existing customers opt to use cloud pricing. They did what we wanted which was they expanded their footprint significantly with New Relic and then we saw new customers say, ‘This is a wonderfully simple way for us to understand our pricing and think about using New Relic more broadly’.
+
+With election night out of the way, there are more busy times ahead to put New Relic’s offerings to the test, concludes Koplow-Adams:
+
+
+We’ve got Cyber Monday and Black Friday coming up, we have healthcare enrollment periods, both public and private. It’s kind of our season to work with customers and we haven’t felt any sort of negative sentiment in the market. If anything we felt their need to get our advice on how they go faster.
+
+My take
+A strong wave of confidence upon which to ride into FutureStack next week. The use cases are impressive and, as we always say, it’s the use cases that are the single best proof points for any vendor’s claims. 
+Image credit - CNNRead more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureDevOps NoSQL and the open source stack 

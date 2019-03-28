@@ -1,0 +1,46 @@
+
+Thomas Otter
+In my “eight questions” SuccessConnect preview piece, Thomas Otter promised an update on SuccessFactors’ time functionality plans. Otter, who is knee deep in product management for SuccessFactors Employee Central, wasn’t kidding around.
+On the first day of the show, SuccessFactors announced a global reseller agreement with WorkForce Software. SAP will now sell three components of the WorkForce solution, Time & Attendance, Advanced Scheduler and Absence Compliance Tracker, under the wonderfully concise name of SAP Time and Attendance Management by WorkForce Software.
+The story behind the WorkForce reseller agreement
+Otter had a rock in his cycling shoe about how I portrayed his prior comments, which ultimately led to a Vegas sit-down as the show was closing down. Otter provided more context to the WorkForce decision and SAP’s time functionality plans. This was Otter’s last meeting of the show; he relaxed into an informal view of cloud-based development, and dropped a nifty customer anecdote.
+Reflecting on the WorkForce deal, Otter cited three considerations:
+
+Today, SAP doesn’t have a rich, cloud-native time and attendance solution. But the market interest in a robust cloud time and attendance solution is strong.
+Taking SAP’s on-premise time solution and trying to use it to serve that demand was “not the appropriate strategy.”
+SAP can’t build a robust time solution overnight. But there is a customer expectation that SAP deliver such functionality.
+
+So with the WorkForce reseller agreement, SAP proceeds on two fronts: reselling the WorkForce solution, and building out their own time functionality, one release at a time. Otter:
+We felt that in terms of immediate fit, WorkForce made sense. But this does not mean we are scaling back our own effort to build time and attendance. We believe that we will need elements of time and attendance in EC [Employee Central] going forward. We have clear customer demand for time and attendance native to EC.
+Other partners, including Kronos, will remain viable options:
+This doesn’t mean we’ll stop working with Kronos.  In fact the opposite – we think Kronos is a fine solution. Many customers want to use Kronos, and we welcome that. But we were at a point where our customers were demanding a time and attendance solution on our paper.
+Otter on time functionality: “Our approach has not changed”
+SAP’s communications around time functionality strike me as a point of contention for Otter. He previously commented on a blog post from HR expert Sven Ringling on the SAP Community Network, challenging commenters and promising an update. The update, as it turns out, was the WorkForce reseller agreement. For those who feel SAP has not been consistent on time functionality, Otter disagrees:
+Our approach has not changed. The way we’ve approached time in EC is the way we approach all product development in SuccessFactors, which is what I call Minimum Viable Product. You build the skateboard first, then you build the scooter, then once we get feedback from customers, we build the motorcycle, then the car. We do that very quickly, and when we get to the end, we have a pretty good truck. But we’ve been talking to customers all along, rather than spending five years building a truck without talking to anybody.
+Otter applied this MVP approach to time:
+We started with time off (absences) first. It took us nine months or so to build the first iteration. We got quite a lot of customer feedback. We’re now at the point where we have a number of customers using our time off solution across multiple countries.
+The next step is the payroll time sheet. We launched the payroll time sheet a couple releases ago. We’re now getting the feedback on the early adopters of the time sheet on how to take the payroll time sheet to the next level. Now we’re doing the time evaluation piece, the time engine if you like, which is the next stage of it.
+But WorkForce can keep a leg up through industry specializations:
+WorkForce are doing things with time at a much deeper industry level than we are currently capable of, or plan to do. Let’s say you’re a manufacturing org with 100,000 people. 60,000 work in a plant, and are unionized. 40,000 are salespeople and office staff. We’ll let WorkForce handle the manufacturing staff; we’ll handle the office staff.
+Which I believe sends a clear message to SAP’s time partners: specialize if you want to thrive. Otter:
+What will be incumbent for the niche vendors in time: they’ll have to offer more value and specialization than our generic solution.
+The future of HR, Brooks Brothers style
+Thomas Otter
+If you’ve met Thomas Otter, you know that he puts his corporate male brethren to shame on the fashion front. So it’s hardly a surprise that Otter’s watershed HR moment came at a Brooks Brothers store (a SuccessFactors customer).  Otter has since blogged about the episode, but here’s how he told it to me.
+The day prior to SuccessConnect, Otter found himself shopping in a Philadelphia Brooks Brothers store. As he put it, “I like a bit of retail therapy.” The next day in Vegas, Otter moderated a panel with four SuccessFactors EC customers, including Justin Watras from Brooks Brothers. After the panel, Watras asked Otter about the shopping experience. Otter told him:
+I had excellent, friendly service. The salesperson said hello to my daughter and gave her some magazines. I explained to him what i wanted: I was here for a shirt. He didn’t upsell me on a suit, but he did sell me two shirts, when I only came in for one.
+Watras said, “That’s great, do you remember who you spoke to?” Otter:
+Justin picks up his phone straight away, brings up the SuccessFactors org chart, and it’s one click into the Philly store. He brings up the team photos, and says, “Which guy was it?” He clicks on the picture straight away, and gives him kudos then and there.
+For Otter, this is how HR is supposed to be:
+How cool is that? That is every single thing we are trying to do, demoed to me by a customer just doing their job.
+As he peeled it back, I could see why Otter prized this moment:
+This is the real business impact of an HR system. Think about the ripple effect that it has. You’d have to be a pretty dedicated person to get home, open up your laptop, and figure out who that employee was. Then it gets buried in the email chain. But now, next time this salesperson’s performance appraisal comes up, this feedback is already there.
+Think about multiplying that by one hundred occasions. That was an awesome tactical use of HR tech to solve a business problem. But it wouldn’t work without several elements working tightly together. It wouldn’t work without the EC org chart, it wouldn’t work without the mobile, and it wouldn’t work without the talent management system for the kudos [ratings]
+My take
+Otter and I also talked about whether the consulting ecosystem can keep up with SuccessFactors project demand. We don’t agree on all the nuances. Otter points out that many SAP HCM experts aren’t going to make the cloud consulting transition without a serious retooling. He used a detailed analogy of on-premise as a luxury cruise liner and HCM SaaS as an aeroplane. Otter doesn’t see many of the ship repair folks making it into the airplane hangar. Yes, but: I’ve seen highly motivated folks make the transition. I think a few old school SAP HR folks will surprise Otter.
+Despite that, Otter is more optimistic about the ability of the SuccessFactors ecosystems to keep up with skills demand than I am. When I aired my concerns about SAP Education’s approach to SuccessFactors certification, he told me this issue had the attention of some key players at SAP. In sum, he is confident on the skills readiness side. I plan to address skills in my event wrap piece. My views on this are also aired out in my event wrap podcast with Jarret Pazahanick.
+Disagreements aside, it is always good to have a frank sit down when no one is watching the clock. And with that, I can mark another question off my eight questions list. And no, I’m not writing six more blogs. The final post will cover the rest.
+End note: Thanks to Sven Ringling for originally bringing this issue to my attention on his SCN blog post and on the SAP HCM Insights podcast series. For more SuccessConnect coverage, also check out my use case, How Edgewell Personal Care conquered data and skills issues on their SuccessFactors go-live. I also filed a piece on HCP, Extending SuccessFactors on the HANA Cloud Platform – a SuccessConnect gut check. Later this week, I’ll file a piece that revisits my eight questions posed before the show. I’ve also issued a SuccessConnect event review podcast with Jarret Pazahanick.
+Disclosure: SAP is a diginomica premier partner as of this writing. SAP paid the bulk of my travel expenses to attend SuccessConnect.
+ 
+Read more on: Cloud platforms - infrastructure and architectureFuture of workHCM and the digital future of work 

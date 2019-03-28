@@ -1,0 +1,40 @@
+
+Smart thinking
+In January 2013, UK Health Secretary Jeremy Hunt challenged the National Health Service (NHS) to go paperless by 2018, saying:
+It is crazy that paramedics cannot access a full medical history of someone they are picking up in an emergency – and that GPs and hospitals still struggle to share digital records.
+Since his reappointment to the position following the UK’s General Election earlier this month, it seems likely that Hunt could soon be banging the drum again for more digitisation in the NHS, especially as progress to date has been patchy at best.
+But one hospital – the Royal Free Hospital in North London  – can at least report positively on its own journey to date.
+According to Will Smart, director of information management and technology, if not paper-free, it’s on track to be ‘paper-lite’ by Christmas this year. By that time it will have scanned and digitized some 750,000 case notes previously held in paper format in its medical records library and various clinics, and organised them in a new records management system from enterprise content management supplier OpenText.
+Smart says:
+I’m told we’ll be done by Christmas. We’re around one-third to one-half the way through the medical records library and, when I last looked, there were around 71 million pages in the system.
+Digitization has posed significant challenges, he admits. In part, that’s due to the size of the project. Combined, the Royal Free London NHS Foundation Trust employs around 10,000 staff and treats 1.7 million patients each year.
+The OpenText Content Suite system went live in November 2014 across all clinical services at the main Royal Free site in Hampstead, but it must still be extended to two other sites: Barnet Hospital and Chase Farm Hospital, near Enfield. Says Smart:
+Like any large-scale IT project, some things have gone well and others we’ve had to learn from as we’ve gone along.
+Prescription for success
+So what have been the main lessons he has to share with other healthcare CIOs facing a similar digitization challenge?
+ 1. Triage your backlog effectively 
+Among healthcare professionals, the process of sorting and prioritising patients for treatment is often referred to as ‘triage’. A similar process can be applied to a huge backlog of medical records. Smart says that the Royal Free has approached the job from two angles:
+First, we’ve basically been pulling records on demand. As a patient is booked to come into the hospital, we’ve pulled their notes two weeks ahead of appointment and scanned them ready for when they arrive.
+Second, we’ve looked across the library for patients who don’t have appointments for six to twelve months and scanned those records, on the basis that they’re not required immediately.
+In this way, the Royal Free has worked from two ends of the spectrum, when it comes to urgency, with a view to the backlog being finally dealt with somewhere in the middle.
+2. Take an holistic approach to treating paper problems
+Royal Free
+The Royal Free Hospital was approached by OpenText three years ago, when the supplier was interested in finding an NHS partner to help them develop their product, says Smart. His due diligence suggested to him that the vendor’s more generic approach to record keeping might suit the Royal Free better than a more vertical, medical records-focused product. He explains:
+We took the view that while medical records is one particular example of records keeping in the NHS, it’s not the only type of records keeping. We employ 10,000 staff, for example, and each member of staff has their own file stored on paper, either in their manager’s office or in our workforce department.
+So we decided that we wanted to implement a platform that could address the generic issue of how we store and manage unstructured data and, when we looked at other providers, they were very focused on the medical records issue, but not necessarily positioned to help us with our wider records management issues.
+That more flexible approach won OpenText the account, along with customer references from other prestigious hospitals, including the world-famous Mayo Clinic in Rochester, Minnesota.
+3. Closely monitor end-user side-effects
+When the OpenText system went live at the Royal Free, Smart had a team of between 40 and 50 helpers walking the hospital wards and ready to help medical staff navigate the new system. That went “reasonably well”, he says, but clinicians soon began to show signs of fatigue, recalls Smart:
+We quickly found that, while the user interface worked well in development, clinicians were finding it difficult to navigate and to find information. We worked hard to get the user interface to work as much like a paper-based record as possible, and we certainly consulted with clinicians during development, but our results after go-live didn’t match expectation.
+As a result, Smart’s team has needed to release a revised user interface that was scheduled to go live in May.
+4. Respect the value of second opinions
+At the Royal Free, paper records have been scanned into the OpenText system ‘as is’. In other words, as Smart puts it:
+We didn’t try to sort or weed through the information prior to scanning, as that would slow us down too much.
+But as staff have become more adept at using the system, they’ve started asking for supplemental information to be added to it. Some effort, says Smart, has thus been diverted into adding new details, above and beyond that provided in the original, paper documents, into the OpenText system:
+That’s certainly a lesson that we hadn’t anticipated. But the result of that extra effort is that the medical record we have today is actually more comprehensive than its predecessor – and of more use to medical staff as a result.
+5. Be prepared to issue repeat prescriptions
+Smart cheerfully admits that his background is more in data analytics than in IT – so it’s natural that he should start considering how to mine the information now held in OpenText for new insights. That’s firmly on his ‘to do’ list, he says:
+I’m thinking about how we could apply OCR [optical character recognition] to the typed content held in case notes and use semantic analysis to start to drive value out of content such as referral letters, outpatient letters and so on.
+There are lots of questions we could answer through these techniques. An obvious one is looking for cohorts of patients, based on condition. We’re a research hospital, after all. If we were able to group patients by condition, we could identify them on the basis for their inclusion in studies. Or enable clinicians to compare treatment protocols and outcomes across that group.
+
+Read more on: Collaboration sharing and digital productivityFuture of workHealthcare transformation 

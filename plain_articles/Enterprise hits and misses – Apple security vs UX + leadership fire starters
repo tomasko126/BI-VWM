@@ -1,0 +1,47 @@
+
+diginomica hit: Apple’s security versus user experience issues, and why enterprises should care – by Kurt (and Martin)
+quotage: “Just think about the havoc an unprotected device might cause in a BYOD environment, as is becoming increasingly common. While it’s hard to say what kind of replay attack hackers might dream up, this could potentially impact any organization. Then there’s the potential for fraud against corporate cards stored on one’s device. It is therefore wholly understandable that Apple takes a brute force approach to the problem. But it went too far.” – Kurt
+myPOV: What does a problematic iPhone upgrade have to do with the enterprise? Plenty, Kurt Marko contends in iPhone Error 53 – a study in bungled user experience, but great security. Basically, if you’re an iPhone user, you don’t EVER want error 53, dokie? It’s practically a dead phone at that point. The error-of-death seems to come up for certain users who have had TouchID replaced in non-Apple repair shops, and then attempt to upgrade to iOS9.
+But the more interesting part is that the error  – and the user experience fail that results – stems from Apple’s sophisticated hardware-based security. Apple probably has leeway on the UX side given their iPhone fanboys and fangirls, but it doesn’t have leeway on security. As Kurt points out this goes back to trust – a vital issue for those seeking to earn a piece of the mobile transaction pie (as Apple is determined to do with Apple Pay).
+Kurt sees plenty of lessons here for companies both on the security and mobile payments side, an issue Martin has also covered in the potent Wearables, security and why you’re suddenly the one to blame for bringing down the company (August, 2015). This week, Martin raised questions on Apple’s prospects against the Steel Intensity Curve in Why Apple may need to ‘steel’ itself.
+diginomica four: my top four stories on diginomica this week:
+
+Embrace change and collaboration like a digital native – Phil weighs in on the state of mobile event app mediocrity (a topic we’ve been debating at diginomica of late), then weaves it into the problem of being a grouch err, I mean a non-digital native. Collaboration requires adoption which means we have to grasp how collaboration tools transcend different age groups – or not. Or as Phil puts is: “This is not about age but about ability to adapt.”
+Data center powerplays as global energy supplies hit – Maxwell raises some pesky questions about data center location and elecricity we’d best not ignore.
+Interview – GDS Director Stephen Foreshew-Cain on what keeps him up at night – Derek with a key update/interview on a story of digital change in the UK he’s been tracking closely. This is his first interview with Foreshew-Cain – hopefully the first of many as this unfolds.
+A Right to be Forgotten? Google caves to privacy zealots as boss exercises right to forget his own salary! – Google caves to the “EU privacy zealots.” Guess who’s not happy? Yup – Stuart. So he lets loose with some eviscerating prose. And for good reason.
+
+Vendor analysis, diginomica style – here’s my top choices/key stories from our vendor coverage:
+
+Parker Conrad ousted at Zenefits as no longer zeneficial – Den endeavors to move beyond “inside baseball” to bring you the real issues at stake. He gets in a couple of choice digs though, I will say that.
+Microsoft – the modern ERP arms merchant – Brian hits on a sneaky big ERP story: Microsoft is everywhere, but not in the way you might think.
+
+A few more vendor picks without my snarky bits:
+
+Qlik misses Q4 2015, soft guidance for 2016. What’s going on? – Den
+Cornerstone OnDemand losses increase, but FedRAMP approval won – Stuart
+Computer science for less privileged children – a conversation with Vandana Sikka, Infosys Foundation USA – Den
+Enterprises eye Xero’s $300bn small business transactions – Phil
+
+We’ve got some new threads baby! By the way, diginomica has some new threads and a bunch of spiffy new topic communities you can check out – and subscribe to based on your interests. Lots of elbow grease = new look, based largely on your feedback. Check out our team blog,  Hello world – the all new diginomica. Thanks for your loyal readership – yeah we mean you!
+Best of the rest
+Starting fires on purpose, and leadership without blame – by firstround.com
+Quotage: “This is a difficult task, but if you want people to be able to provide the full account of what happened — which is the very definition of accountability — you need to remove blame and punishment from the equation. Otherwise, folks are naturally disincentivized to share what they know.”
+MyPOV: I hate their exit pop-up with a passion beyond rational explanation, but I’ll still give content kudos to firstround.com. They put meat on the bone. In this case, two pieces on leadership that offer nuance instead of boilerplate. The quote is from This is How Effective Leaders Move Beyond Blame. It’s not necessarily surprising advice, but then, why is it so rarely taken?
+Then there’s Starting Fires on Purpose — When and How Leaders Need to Break the Rules, which has some counter-intuitive field lessons from the former CIO of The Huffington Post, Paul Berry. Evidently Berry attracted all-star talent with some very non-corporate practices, including minimal structure. There’s plenty of specifics, but it comes down to, “Breaking process in the right way is about instinctively knowing when to give people that creative freedom.” Can we get an amen?
+Honorable mention
+The Automotive Industry’s Big Data Challenge (Part 2) – The second part of this muscular series looks at how the incumbent automotive OEMs can address the big data challenge.
+Learning from Twitter’s Decline – The first useful piece on Twitter’s recent travails.
+A Farewell to Moore’s Law – A concise piece on the end of an era, giving way to smallish IoT devices. Left me pondering the implications for the shift to how IT revenues will be made – and who will (or won’t) make the cut.
+As cloud computing spreads, survey shows IT managers getting more resourceful – A breezy look at RightScale’s latest survey of 1,000-plus IT managers. Winners? Hybrid cloud and DevOps. (82 percent of those surveyed are now in a hybrid cloud environment).
+Quantum Physics and the Shifting Foundation of Analytics – Concepts need more fleshing out, but this is one of the more original analytics posts you’ll see, authored by a statistician from the U.S. Bureau of Labor Statistics.
+Defining Modern BI: Where SAP’s Market View Differs from Gartner’s Assessment – Buyers need multiple perspectives to get at the truth of product decisions, and a razor sharp BS filter to boot.
+Five Common (and Inaccurate) Myths of ERP Systems – You may find a couple surprises here. Looks like the ERP customizations dilemma/trap still looms large…
+Whiffs
+When I was just a wee lad, I did a summer internship with a research firm. One of the directors showed me how to deconstruct even the most logical-sounding of arguments. He claimed he could always spot the leap of faith amidst the facts. “That’s a Kierkegaardian Leap!” he’d assert with contempt. Which brings me to this head-scratcher of a piece, UBS Misses The Point With Their Report For The WEF In Davos Over Robots.
+Now, I don’t  fully understand the arguments in this article, and that may be my fault more than the author’s, who is trying to assure us that the robotic revolution will be just dandy. One leap is consumption inequality, which is deemed more important than income inequality. Umm – not to those without jobs, right? As the argument goes, I guess our Silicon Valley super heroes are going to earn incredible wealth which will level consumption inequality, and eventually boost all our wages by 200 percent.
+Oh, and consumption equality now extends to the chance to consume What’s App. Consuming the app might appear to equalize – but what about the smart phone to run it on? The broadband to actually get most apps to function properly? Comparing the consumption benefits of What’s App to the mass production of stockings in the industrial revolution is a ludicrous, helium-ingesting comparison, even by Kierkegaardian standards. Let me know when a handful of Silicon Valley upstarts can create millions of stockings at scale. But hey, I’m looking forward to my 200 percent wage increase… can I get that in bitcoins?
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credits – Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Winter Sports © lassedesignen – Fotolia.com – all from Fotolia.com.
+Disclosure - SAP, Workday, Infosys and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and misses 

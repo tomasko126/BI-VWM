@@ -1,0 +1,28 @@
+
+Remember last year when Salesforce announced that Amazon Web Services had been selected as its preferred public cloud platform?
+Flash forward to 2017 and it seems that you can never have too many preferred public cloud platforms as the firm named Google as the latest provider to carry that label.
+The news of a much-deepened partnership between Salesforce and Google was announced on Day One of Dreamforce and it’s fair to say that while there’s clearly an intent to make this work for both firms, at this point, with the ink seemingly barely dry on the deal, there wasn’t a great deal of detail.
+In particular, the question of what this meant for AWS was never entirely addressed, although it was asked in multiple formats by media and analysts at the formal announcement. It’s a perfectly legitimate queston to ask. It was only a few months ago that Salesforce CEO Marc Benioff said:
+At Salesforce, we really strongly believe that the enemy of my enemy is my friend, and I think that makes Amazon Web Services our best friend.
+So does that mean that Google is now a better best friend? It was only a couple of years ago that Microsoft CEO Satya Nadella was the start turn at Dreamforce as the BFF du jour. That went sour for various reasons – and today’s Google tie-up can be read as yet another indicator of just how far apart Salesforce and Microsoft are drifting. Azure has never been a preferred public cloud provider.
+But Ryan Aytay, Salesforce’s executive vice president for business development and strategic accounts, insists that it’s not the case that AWS has fallen out of favor and that this latest relationship is a result of customer demand:
+We have a great relationship with Amazon and this changes nothing on that. For the benefit of our customers, we find it necessary to have multiple preferred cloud partners…We have a lot of mutual customers. There’s a lot of demand for us to work more closely together…We view this as the best of both worlds for our mutual customers.
+It’s a point reiterated by Tariq Shaukat, president, partners and industry platforms, Google Cloud:
+As we look at G-Suite, one of the requests we have been receiving from our customers is tighter and tighter integration with Salesforce. We’re not just doing the light touch integrations we’ve been doing but co-engineering solutions to make the experience that much better for customers.
+As for what preferred means, Aytay says:
+Preferred in our world means, ‘Can we consider something to be part of our trusted infrastructure?’. Preferred is something our engineers can work on and considered to be in that circle. For the benefit of our customers, we have multiple technology partners.
+So what do we actually know as of today? We know:
+
+Salesforce will use the Google Cloud Platform to expand its international operations, with the assumption that this is about countries and regions that are not currently opened up. Salesforce is already using AWS in Canada and Australia, for example, and will continue to do so.
+Google will standardize its own operations on Salesforce software.
+Google will also offer Salesforce customers companywide G-Suite licensees free for up to one year.
+Salesforce intends to integrate its marketing, sales and advertising data with Google’s G Suite productivity services. Joint customers will be able to get access to Salesforce data from within G Suite products.
+Salesforce will continue to use AWS for its Heroku cloud Platform-as-a-Service offering – for now at least.
+
+My take
+It’s a big deal, but the devil’s going to be in the detail. Salesforce CEO Marc Benioff in his keynote address pitched this as:
+All of the power of Salesforce and all of the power of Google.
+It’s unclear how that works on the ground and how and when one best friend is preferred over another. Doubtless that will become apparent over time.
+For now, mark this down as an interesting multi-cloud development that adds another layer of competitive difference between Salesforce and Microsoft and Oracle.
+ 
+Image credit - Own Disclosure - At time of writing Salesforce is a premier partner of diginomica. Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceDigital and content marketing 

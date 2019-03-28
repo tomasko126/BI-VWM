@@ -1,0 +1,44 @@
+
+When you’re competing with the giants of aerospace, you better have your act together. That’s the high bar Polamer Precision set for itself. Their niche? Building aerospace engine components that can withstand the rigors of demanding applications.
+Their ambition? Punch above their weight globally by embracing new approaches. That means an aggressive pursuit of new tech – including IoT and shop floor dashboarding – while empowering employees with better data. At PowerPlex 2018, I got the story of Polamer Precision’s rise from Chris DiNeno, Director of Enterprise Operations, who is something of a surprise himself.
+Since he joined the company in 2011, DiNeno helped grow Polamer Precision by ten times from when he started. The number of employees has expanded in kind, from 30 employees when DiNeno started to more than 250 now.
+The story behind the growth
+Plex Systems has been in the thick of that growth also. The Plex Manufacturing Cloud provides the operational capabilities – and data – that helps DiNeno’s team build a culture of data visibility. So I asked DiNeno: what’s the key to Polamer Precision’s 10x growth? The answers start with the owner, who DiNeno credits with the “drive and vision” that sparks the company. Next ingredient: a hard-to-copy manufacturing niche. DiNeno:
+We do go after the products that people struggle to make. I think that helped us really get the foot in the door too.
+Having the attitude (and tech) to compete globally, instead of limiting to local markets, is another key.
+We’ve always presented ourselves with a modern approach. We’re making efforts as a small company to compete with companies 100 times our size overseas.
+DiNeno talking shop at PowerPlex 2018
+Let’s add outside-the-box hires to the list, starting with DiNeno himself. Now, I’ve interviewed a boatload of Enterprise Directors; DiNeno breaks that mold. Growing up, DiNeno didn’t intend to work for someone else:
+I had a very entrepreneurial spirit growing up. I had never intended to work for a company. I was very clear about that.
+Right out of high school, DiNeno was knee deep in marketing consulting, building web sites and experiment with e-commerce. But he also had a hands-on, engineering bent, and that’s where the story gets interesting:
+I created this energy efficient snow gun that I went through and got a patent on. I met the owner of Polamer to build out some prototypes for it. He was really interested in what I was working on, so he just wanted me to come on board.
+DiNeno still wasn’t thinking of himself as an enterprise guy, but that changed quickly:
+I started on the floor on the machines. Then, I did a presentation to get our supplier code for our biggest customer, so I helped really set the image of what the company had in mind as far as its vision goes; it was a small Mom-and-Pop shop at the time… I think I just aligned really well with the owner’s vision.
+Things moved quickly. DiNeno found himself knee deep in Polamer’s Plex implementation; they went live early in 2013:
+I went from co-implementing Plex, and then expanding upon that. I was able to make my way through all the departments, and really understand their struggles.
+A white board mentality paid off:
+Since we didn’t have existing business processes, I was able to basically build them from the ground up based off of what made sense for the company. Now, I continue to evolve those. We have a much more robust team in place.
+Next up – analytics and IoT
+Managing operations in Plex was the engine Polamer Precision needed. But soon, DiNeno’s team was pushing beyond operations, building thirty dashboards from Plex data – dashboards that are now used by every employee in the company.
+Analytics is a primary focus now, from analytical reports leveraging Power BI to dashboards Polamer built themselves. They populate their analytics via data replication from Plex every four hours. They also bring in live data from Plex, via millions of wind surface transactions a month.
+The analytics project also pulls in IoT data from non-Plex sources, including all of Polamer’s IoT-connected machines:
+We’re trying to really build out actionable data models for each department, and present them on live dashboards throughout the shop floor and office.
+The good thing about including shop floor employees in your dashboards project: it forces you away from static reports and cumbersome data searches.
+On the shop floor, it’s critical that we’re really trying to take them out of interfacing with anything. We want to make it as seamless as possible… Any situation where someone has to go to a work station with regular frequency, and pull up a report to know what’s going on or what they need to do, we need to eliminate that.
+Getting data to the shop floor pays off:
+The supervisors can see just by looking down an aisle the status of all the machines, the state of the spindle, the performance of the job.
+The dashboard project feeds into Polamer Precision’s transparent approach:
+There’s a lot of visibility. We don’t really try to put it all behind the curtains. It’s all right there at your fingertips, out in the open, sales and all of that.
+Making data available isn’t a cure-all. DiNeno acknowledged they work hard on making the data actionable – and not losing the human touch. But one thing is certain: this wouldn’t be happening without Plex.
+Plex is the core of our company. It’s the culture of our company really. We adopted it when we were really small, and it’s definitely what has gotten us through this growth.
+Plex UX – an early adopter view
+It’s full speed ahead with Plex as well. Polamer Precision is part of Plex’s early adopter program for Plex UX, Plex’s significant UX and platform evolution. They have yet to roll out Plex UX to the entire company; there are older customizations to be dealt with. Many were early workarounds in Plex “Classic” that can probably be dispensed with. Overall, DiNeno likes what he sees with Plex UX:
+The look and feel is definitely great. Then, VisionPlex enhancements. We write a lot of our own VisionPlex reports, so that’s definitely improved in there too.
+DiNeno likes the platform modernization plans Plex shared at PowerPlex. Better Plex APIs and easier extensions line up well with DiNeno’s plans:
+We’ve been getting creative in extending Plex. Lately, Plex’s approach has been to support it in a more modern way, so that’s just going to make it easier for us to take that to the next level.
+We talked about the unique employee mix at Polamer Precision – a topic DiNeno addressed on the “trends in manufacturing panel” prior to our chat. When DiNeno joined Polamer, he was the youngest person at the company by about twenty years.
+Now, there are more younger employees, drawn to the techno-savvy opportunity. But DiNeno places a high value on the experienced machinists as well. Getting that talent mix right is tricky:
+The young culture is tough too, because you get some to come in and are really ambitious, with a lot of energy and can really, really make a difference. Then you have some come in who are kind of riding along, and not going up too far.
+Polamer works hard to stand out by presenting itself in a modern light, sponsoring robotics events at local colleges and so on. For now, DiNeno has plenty on his plate. 3D printing has already made its mark inside of Polamer; he’s now studying up on machine learning and predictive analytics.
+Given he’s accomplished more in his career than most of us do in twice the time, I suspect DiNeno’s next moves at Polamer will be worth a look. We’ll revisit.
+Image credit - Feature image - Group of people, team pulling line, playing tug of war. Teamwork © Photocreo Bednarek - Fotolia.com. Photo of DiNeno at PowerPlex 2018 by Jon Reed. Disclosure - Plex Systems paid the bulk of my travel expenses to attend PowerPlex 2018. Plex Systems is a diginomica premier partner. Read more on: Analytics planning and data analysisCloud ERP financials and supply chainInternet of ThingsUse cases 

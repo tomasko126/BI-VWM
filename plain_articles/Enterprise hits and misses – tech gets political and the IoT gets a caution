@@ -1,0 +1,61 @@
+
+Lead story – Tech gets political – by Stuart, Derek, and Jerry
+You couldn’t avoid the clash of tech and politics this week as tragic real world events forced the issue. Tech companies are now compelled to carve out a role in these debates, and – like it or not – choose sides. Tech media sites like diginomica are in that same position. Informing readers without taking strong positions is a farce, so we make our stance clear and you can decide.
+Derek hits on the cybersecurity aftershocks and ill-advised fingerpointing in Theresa May criticised for blaming London’s terror attack on the Internet. Stuart addresses diversity issues and tech’s role in Back to the bathroom as tech alliance takes on Texas LGBTQ discrimination. Jerry confronts an underlying issue in The FCC plan to kill net neutrality. Then Stuart goes jugular in Tech v Trump – America First, Planet Earth…not so much.
+Diginomica two – my top two stories on diginomica this week
+
+Deloitte – Smart cities investment requires some “creative thinking” –
+So if we don’t have smart cities yet, does that mean we live in dumb cities? Deloitte would put it differently, but as Derek reports, we’re not there yet.
+Abercrombie & Fitch looks beyond takeover rumors to an omni-channel future – What’s the best way to proceed when rumors of a pending takeover after “years of decline” loom over you? Well, have your CEO talk up “omni-channel” and “customer-centricity.” Stuart’s got the story – run through his omni-wonderful BS filter.
+
+Vendor analysis, diginomica style. Lead story: A tale of two HPs – by Stuart and Martin. It was a meaty week of HP commentary on diginomica, with analysis of HP, HPE, and… in memory disruption?
+
+A tale of two HPs – HP Enterprise progress report – Stuart kicks off a two-parter with his review on the HPE side. His take: more restructuring and transformation work ahead. Of Whitman’s remarks: “There’s a lot of spinning going on here” – ouch! But with a promising wireless services market ahead, this is “a long game.”
+A tale of two HPs – HP Inc progress report – And now for the HP side. Stuart’s redux: “HPI is clearly benefiting from its independence and ability to ‘stick to the knitting’ of its core businesses.”
+HPE and `The Machine’ – potentially the next big IT blockbuster, but one helluva gamble – HP as an in-memory disruptor? HP has now announced the prototype of “The Machine.” And, says, Martin, “The beast is real” – a big step in performance if HP’s numbers can be achieved in the wild. And yes, there is such a thing as a Yottabyte.
+
+A few more vendor picks, (mostly) without the quips:
+
+Ceridian’s affirmative analyst meeting – Brian
+As cloud goes dynamic, New Relic helps you see what’s going on – Phil
+Boxing clever – Aaron Levie on partners, international growth and legacy ECM – Stuart
+Solid Q1 for Workday as financials traction takes hold – As per Stuart: Despite a bump in customer win rates against SAP and Oracle, “Wall Street was somewhat cool on Workday’s numbers yesterday.” Go figure…
+
+Jon’s grab bag – Barb’s got a provocative piece for marketing/data buffs to consider, To have or not to have a CMO. She rolls out a keeper: “Without the right data, you don’t know the customer, but without the right story, the customer doesn’t know you.”
+Den’s got your lunchbreak have-a-think special with Purpose and responsibility – a response to Phil Fersht’s job elimination rant. I really like the end note on “invocation to purpose” – even if it means riding with my frenemy-at-large Mark Zuckerberg. Finally, take a stroll down Jess’ digital garden in
+Connectivity in bloom at Royal Botanical Garden of Madrid.
+
+Best of the rest
+ Lead story – Rise of the machines: who is the ‘internet of things’ good for? by Adam Greenfield
+Quotage: “Quite simply, we need to understand that creating an algorithm intended to guide the distribution of civic resources is itself a political act. And, at least for now, nowhere in the current smart-city literature is there any suggestion that either algorithms or their designers would be subject to the ordinary processes of democratic accountability.”
+myPOV: Greenfield’s IoT critique hits on two points: the problematic impact of personal datastreaming services, and, on a different front, the danger of “smart cities” planning that assumes benevolent or neutral algorithms. The thread between them is that data is never neutral. You might find value in a button on your pet’s bowl that automatically reorders pet food, but Amazon gets even more value out of the aggregated yous.
+Greenfield isn’t trashing smart cities but he’s warning that measuring data doesn’t make an activity objective, and smart cities will be dangerous – or at least ethically problematic – if we don’t insert advocates for public well being into the lab and/or boardroom of the algo makers.
+Whiffy bonus: in Smart cities are as stupid as the people who make them, Boing Boing’s Cory Doctorow brazenly cynically tactically leverages Greenfield’s article with the patented Boing Boing linkbait headline. Also see: Joe McKendrick’s Without enterprise architecture, the Internet of Things is just… things.
+Honorable mention
+
+Mary Meeker puts out slides, the enterprise waits for context – It’s an annual tradition to get Mary Meeker’s monster Internet trends slide deck, which has the dubious honor of being the “most anticipated slide deck of the year.” Then we scour through it looking for enterprise takeaways.
+Re/code posted some “analysis” of the slides, which works if you like your analysis as light as tissue paper (you can download the slides from there also). Vinnie Mirchandani took a concise look from an enterprise angle, mostly to point out that consumer trends dominate the report – which, given the influence of Amazon, Google etc on the enterprise, isn’t irrelevant. Mirchandani contends that enteprise tech is “riding the coattails” of the Amazons/Facebooks etc.
+
+IBM Pushes ‘New Collar’ Approach to Cybersecurity Talent Gap – This post expires in the public domain in six days if you are not a Constellation subscriber, so get this heartbreaking work of staggering genius post while you can.
+Oracle Joins the Kubernetes Movement – As we were saying about consumer tech’s influence on the enterprise…
+The Fog of Innovation Marketing: SAP Obscures S/4 HANA’s True Competitive Advantage – Some cogent points from Josh Greenbaum – and a couple of bonus peanut gallery blog comments from yours truly.
+Renewable energy generation in the US dramatically exceeds 2012 predictions – Not sure if there is such a thing as a feel-good-story right now, so how about a feel-better one?
+“Serverless and the the death of devops”. Can you not? – James Governor joins me in the unwinnable thankless foolhardy Captain Ahabian quest against misleading linkbait with this broadside on the exaggeration of devops’ demise.
+Big Data Comes to Pet Tech – Your pets are gonna love big data. But is there a support line for overly-attached pet owners?
+
+Whiffs
+Fancy few more? Shall we start with this dude?
+
+Man who mowed lawn with tornado behind him says he ‘was keeping an eye on it’ https://t.co/xFXMFRl3Fg -> paging Charles Darwin
+— Jon Reed (@jonerp) June 5, 2017
+This latest wish-it-was-fiction from British Airways:
+
+British Airways flight disruption was caused by someone unplugging the power https://t.co/ZtGSRVXhhZ -> wow
+— Jon Reed (@jonerp) June 2, 2017
+Good to see the karmic system isn’t broken: these bound-for-Harvard lobotomites got booted by the school for their boorish Facebook antics. And yet karma isn’t so fair to this poor sod who accidentally deleted his employer’s production system on his first day on the job (and was instantly fired). Nice to see the reader poll fingers the CTO for this gaffe as well. When a first day employee can nuke the production system, the entire IT team should be updating their LinkedIn profiles.
+Speaking of which, Bob Warfield is not pleased with LinkedIn groups closing down their APIs (Get Ready to Give up On LinkedIn for Marketing). But there’s a baby/bathwater thing going on here – and the API thing is a mixed bag. I don’t blame LinkedIn for wanting to prevent folks from auto-posting into twenty groups at will – that’s not marketing, that’s carpet blasting.
+And it turned most LinkedIn groups into unreadable cesspools. That said Warfield is right to warn about putting too much trust in walled gardens. If I could endorse Warfield on LinkedIn for “properly crusty,” I would. Over to you, Clive.
+This is a truncated “Jon feels the road burn” version of hits and misses, which by definition excludes some worthy content – from diginomica and beyond. If you read an #ensw piece that qualifies, let me know in the comments as Clive always does.
+
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock - all from Fotolia.com.Disclosure - SAP, Oracle, New Relic, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and missesInternet of ThingsIoT robotics and AI 

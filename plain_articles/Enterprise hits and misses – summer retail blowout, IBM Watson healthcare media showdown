@@ -1,0 +1,71 @@
+
+
+Lead story – Summer retail blowout by Stuart Lauchlan – Macy’s wrestles the omni-channel, Kohl’s and Amazon make friends (kinda)
+
+With NRF’s Shop.org 2018 coming right up, Stuart’s got a venerable blowout of retail analysis for you:
+
+Macy’s shows signs of omni-channel life, but needs to sell the idea harder to sceptical Wall Street – Another chapter in the Macy’s transformation, with pop-up shops and the Retail-as-a-Service platform injecting life. But: “There are signs of improvement, but it’s still a pretty fragile one. Much was made of comparative improvement in same-store sales. Fair enough, but when you’ve closed a whole heap of stores, you’re not exactly doing an apples-to-apples comparison, are you? “
+
+Kohl’s, meanwhile, finally agreed to take retail dance lessons with Amazon, and while they might not be cheek-to-cheek just yet, Stuart says the Foxtrot is working out okay (Kohl’s benefits from Amazon partnership, but remains curiously cautious). For now, Kohl’s is limiting their moves to serving as an Amazon return center. Why? A chance to convert:
+What’s in it for Kohl’s? Increased footfall in-store, that’s what. According to analysis by Gordon Haskett Research Advisors, which tracked footfall in 13 Chicago Kohl’s stores, the five stores that were participating in the Amazon returns relationship, had an 8.5% lead in terms of traffic.
+One brand that definitely doesn’t gyrate to Amazon’s beat is Walmart. Stuart reports on their latest gambit in Walmart delivers e-commerce cheer as Indian market push begins.
+One thing we know: omni-channel pressure separates retail winners and losers. Stuart examines one from each in Nordstrom gets digital dividend, as JC Penney bombs out – a tale of two retail omni-channel pushes. Talk is cheap; digital talk moreso:
+JC Penney, under Ellison at least, has been the one to make the most noise about digital transformation, but it’s Nordstrom that’s quietly done the necessary spade work to make it happen.
+Note to self: swing by my local JC Penney to see if a clearance sale is afoot…
+Diginomica picks – my top three stories on diginomica this week
+
+We need to talk about organizational change management – Uh oh – Uncle Den’s here to take us all behind the project woodshed. It’s a spanking lesson sorely needed: “Treat employees with the same respect and reverence as customers, and results will follow. Treat them as a resource that needs managing like spare parts that can be replaced, and you’ll fail.”
+Adobe report analysis – email is still #1, but a cross-channel strategy is more important than ever – Barb slices and dices fresh data, with email still entrenched but other channels (SMS, Slack/IM, etc) on the rise. Most sad pathetic alarming revealing: all the places where we check our email (think toilets, and probably weddings and funerals for that matter, though Adobe didn’t cover those two).
+Twitter, shadow banning and the war on social media – Jerry asks: will the fallout from banning politicos from social media “spill into the workplace?” Man, I hope not. It’s awkward enough checking Tinder from your cubicle.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Oracle v Rimini Street – the saga continues with this round going to Oracle – Den has the post-game analysis. The big winners? The lawyers, as always. This one ain’t over: “None of what is said in the judgment prevents Rimini Street from continuing to offer third party maintenance. In an earlier statement, Rimini Street reported quarterly revenue up 20% and a run rate of $246 million at a gross margin of 58.4%. That compares with Oracle’s estimated maintenance and support revenue of $19 billion at margins that are a tad difficult to calculate with precision but appear to be in the 90% range.”
+CF Industries on their move to S/4HANA Cloud – “We’re not cloud-first; we’re business-first” – How’s this for an unflinching CIO, who needed to reboot his partnership with SAP: “It started by terminating our support contract.” Strong words – and a result: a strong S/4HANA cloud partnership with SAP. A use case by yours truly.
+AstraZeneca reveals the data engine behind their cloudy business transformation – a Talend use case – another Jon Reed special.
+
+Jon’s grab bag – Jess has a nifty AI story (no, that’s not always an oxymoron) about Tom, Dick and Harry: Small Robot Company plants seeds of Farming-as-a-Service. Tom, Dick and Harry aren’t your typical dudes – they’re robots, set to help farmers improve their yields by working the crops for data, and even spraying targeted areas with chemicals (that’s Dick’s job). Barb meets Jess’s AI startup story and raises it with blockchain in How Lightstreams is putting the privacy back into blockchain. Bonus: frank talk on overcoming blockchain’s limitations.
+
+I fielded sharp reader questions on my last go-round in Cloud ERP success requires more than a go-live – the debate continues. And here’s the high points from my slide-free unconference session in B2B Buyers are changing; we are all publishers now – answering the top audience questions.
+Finally, in Phil’s last piece before his summer sojourn, he does the near-impossible: breathes new life into the word innovation – albeit via a quirky curveball of a think piece (Innovation – it’s in our genes, and nurtured by networks).
+Best of the rest
+ Lead story – Debating IBM Watson and the the role of AI in cancer care.
+
+myPOV: This is an unusual week for hits and misses: one of the biggest stories of the last couple weeks – the critique of IBM Watson’s approach to cancer treatment – is compromised by lack of quality stories.
+But since the role of AI in health care – especially in cancer treatment – is so important, we’ll work with it. Articles like Slate’s IBM’s Watson: How the A.I. project to improve cancer treatment went wrong fall back on the same sensationalism they are attempting to criticize with IBM’s obviously overhyped Watson marketing.
+A Wall Street Journal article behind a paywall had a more careful headline, but was quick to issue a “gloomy” diagnosis for Watson and cancer treatment. The latest wave of Watson critique dates back to July 26, with articles like the Verge’s IBM’s Watson gave unsafe recommendations for treating cancer. I don’t know the veracity of this, but if true, there’s a very important caveat. Here a doctor calls Watson “a piece of [email protected]”
+Two sentences later, we get this:
+It turns out most of the data fed to it is hypothetical and not real patient data. That means the suggestions Watson made were simply based off the treatment preferences of the few doctors providing the data, not actual insights it gained from analyzing real cases.
+I’m a card-carrying AI-game-changer curmudgeon, but is this an AI problem? Sounds like we should be blaming a weak, inadequate data set. Speculation: perhaps a proof of concept with inflated expectations and flawed communication is the culprit? IBM’s Vijay Vijayasankar takes up the data quality point in AI in Cancer care and managing the great expectations around it. Vijayasankar obviously has a dog in this fight, but: his data argument carries beyond Watson.
+There are several obstacles to getting AI to work as we need it to – and getting data organized for AI to learn from is one big one. Even in areas where we have been at it for decades – like loading legacy data into a new ERP system, it takes a lot of effort.
+Vijayasankar isn’t hyping AI cures for cancer here. He wants AI to support overworked – and unevenly distributed – healthcare experts:
+That is where I see the true potential of AI, including Watson! It helps take expertise from people and institutions that have it and move it to places where no such thing exists.
+Like other older tech giants, IBM has serious existential challenges – and big institutional advantages to attempt to counter them. I’m not in the business of handicapping IBM’s future. But I’ll be disappointed if IBM backs off Watson Health Care (based on this official response, doesn’t seem likely they will). Vijayasankar is right: marketing bombast can give “air cover” to nascent technologies. But any AI vendor pitching cancer treatment needs to dial that back. Save the hyperbole for smart toothbrushes.
+Bonus: the reactions on my enterprise discussions Facebook page by Vijay Vijayasankar and Adrian Bowles flesh out this debate. (Facebook will, of course, be a data vampire as usual and try to make you log-in, but you can see the comments without doing so).
+Honorable mention – the top six 
+
+Open banking: Three fintech CEOs on its next wave – McKinsey with a meaty piece on fintech disruption, though you’ll have to wade through extensive Q/A to pluck out the morsels.
+TEC on ERP demos and automation – Standout week for the TEC analyst blog, as they issued helpful guides to both ERP demo evaluation (fun!) and ERP automation.
+Are Programmers Ethically (and Legally) Responsible for Their Code? – Over on The New Stack, Jennifer Riggins explores a great question: what does an ethically responsible development process look like?
+Tis the season for software lawsuits – Vinnie Mirchandani bravely forays into the rhymes and reasons behind the latest raft of enterprise lawsuits.
+Global State Of Enterprise Analytics, 2018 – Louis Columbus of IQMS shares key findings from a big analytics study from Microstrategy. I wanted to see Microstrategy push harder on the implications. Example: is it really an insight that respondents see cloud, AI, and big data as the top three tech trends in analytics? But there are some juicy bits in here on analytics industry adoption, etc.
+Common (and Avoidable) Divestiture Headaches – Okay, so divestiture isn’t the most exciting topic of all time. But it’s pretty darn riveting when you’re caught up in one. UpperEdge has your tips and tricks.
+
+Whiffs
+Get this: some Spokane, Washington residents want to do the neighborly thing, and blow wildfire smoke to Canada via – that’s right – fans on their rooftops. “That’s ridiculous – says expert.”
+For the “yep, that’s air travel folks” files: looks like there’s plenty of blame to go around on this one. Doesn’t change the fact that police removed armed federal marshals from a plane at Minneapolis/St. Paul, and cuffed them.
+So Verizon claims their refusal to stop throttling Santa Clara County Fire Department’s “unlimited” data service while it was fighting California’s largest-ever wildfire has “nothing to do with net neutrality.” They blame a garden-variety customer service Idiocracy meltdown “support mistake.” Either way, that’s seriously pathetic.
+Yeah, I’ve got a yipping schnauzer of my own in this fight, but the Forbes.com UX kinda sux, right?
+
+.@joemckendrick was going to share your interesting @Forbes article on AI not replacing taks, not jobs, but as soon as I got on the article, an autoplay video with sound jumped on the page and starting playing with sound. Sorry man. If you post it somewhere else too let me know.
+— Jon Reed (@jonerp) August 17, 2018
+Not sure if this is a whiff, or just a heaping dose of dystopia, but Thousands Of Stores Will Soon Use Facial Recognition, And They Won’t Need Your Consent.
+But hey, all is not lost – sometimes a big honking whiff can be redeemed by common sense better policies:
+
+Google, Apple ditch college degree requirements https://t.co/wIBqDju86B -> a welcome development, a brute force screening tool that limited talent pools. Better ways to screen for motivation/smarts. cc: @briansssommer
+— Jon Reed (@jonerp) August 22, 2018
+See you next time…
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Beach vacation © lily - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, Rimini Street and Salesforce are diginomica premier partners as of this writing.Read more on: Analytics planning and data analysisHits and missesMachine intelligence and AIRetail e-commerce and the omni-channel 

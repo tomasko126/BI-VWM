@@ -1,0 +1,32 @@
+
+Aditya Agarwal, Dropbox
+In part one of this interview with Dropbox CTO Aditya Agarwal, we mentioned how simplicity and ease-of-use are such important attributes for Dropbox because they’re key to adoption.
+Rival products may offer more sophisticated functionality (though Dropbox is catching up on that score), but if people can’t be persuaded to start using them, they offer no value. Even if the end result will be a leap forward in productivity, few enterprises can accept the trade-off of a big dip in effectiveness while people learn to use the new tools.
+That’s why Dropbox puts so much emphasis on ease-of-use, he explains:
+We’re building software that we believe can get people to [higher productivity] with the minimum amount of retraining required in the deployment and so on.
+I think the best we can do as a software company and startup is to focus on the right things. We’re not focused on catering to the CIO’s whims.
+We’re focused on building software that is usable, that is simple, and is going to be the end user’s love. Once we satisfy those things, we believe that we are way closer to [delivering higher productivity] than before.
+The move to its own infrastructure, discussed in part one, has enabled Dropbox to take a vertically integrated approach that’s analogous to how Apple designs its products, says Agarwal.
+Apple’s whole approach is to be a completely vertically integrated company. They feel as though by controlling the end to end experience, they can provide something better for the consumer.
+I think our approach is similar, which is that, if your mission in the world was to provide the world’s best file syncing and sharing, and cloud storage, then you should actually control the storage part itself and not outsource that.
+Data scale and AI
+I asked him if moving to its own infrastructure meant that Dropbox might miss out on advances in AI that Amazon and other cloud infrastructure providers are currently investing in. Drawing on his earlier experience as Facebook’s tenth employee, he countered that it’s the volume of data you have to work with that matters in AI and machine learning.
+It’s not about the particular computing infrastructure that you have or the particular algorithm that you have. Once you have that scale in terms of data, you’re able to get by, in terms of the other stuff.
+I developed some of the first machine learning algorithms at Facebook, when I was there, working on search and working on ads. The thing that we learned immediately was that, ‘Oh, it’s not actually about the quality of the algorithm, it’s about the amount of data that you have.’
+It’s funny, because there’s so much research that’s being done in the machine learning world and the AI world, the deep learning world. At the end of the day, all it boils down to is like, how much data do you have for creating your own models?
+Dropbox is already using machine learning for predictive analytics. One example is in identifying prospects who may be ready to upgrade to Dropbox Business:
+We’re using machine learning to figure out who in Dropbox, even if they’re not self-organized in a Dropbox team, is actually operating in a team-like setting. We recommend when we believe that they should upgrade to our beta offering, when they should invite the other people in the teams, to the beta offering.
+Machine learning also plays an important role in how Dropbox Infinite works:
+We want to shift the market’s understanding of what file syncing and sharing means, away from, ‘We’ll sync down all the data onto your local device,’ to, ‘We will intelligently figure out what are the data that you actually need to get your job done and that’s the only subset of data that we’ll put on your device.’
+There’s a lot of machine learning involved in that, intelligently figuring out what are the minimum subsets of data that we want to transfer over the network to your device, that you need for work.
+3-step product strategy
+In terms of broad product strategy, Agarwal says that Dropbox has a three-step strategy. First to get people using the cloud for file storage, then to observe what patterns emerge, and finally to build new products — such as Dropbox Paper, to make those patterns more productive.
+It is so powerful, to be able to tell a company or to tell a user that everything that you need to get the work done, all the data, all the information, is going to be available, wherever you want it, regardless of which country in the world you wake up in, regardless of which device you have. I don’t care if you’re iOS or Android or Mac or Windows, it doesn’t matter. You have your data everywhere.
+It is so liberating, right? That’s step one. Get all the data in the cloud and basically allow people to use it wherever they are.
+Step two, which is more interesting maybe, is what are the things that you can do with the data and what are the commonalities? What are the common workflows?
+Is it being able to share that data? Is it being able to comment on that data? Is it going to be annotating that data? Those are the things that we are focused on building out.
+Step three is that, okay, now that you have got the data, you have seen what people are doing with that data, what are the new breakthrough products that you can build, that essentially are condensed versions of those workflows?
+Hence, Dropbox Paper. It’s almost a distillation of all our learnings, into a new product that we’re building, as a result of everything we’re seeing people trying to do with legacy systems.
+That’s basically our strategy in a nutshell.
+For more from Agarwal on Dropbox Paper, read last week’s post on Sharing meets collaboration – Box Notes vs Dropbox Paper
+Image credit - business team solving puzzle © alotofpeople - fotolia.com; Aditya Agarwal portrait via DropboxRead more on: Collaboration sharing and digital productivityMachine intelligence and AI 

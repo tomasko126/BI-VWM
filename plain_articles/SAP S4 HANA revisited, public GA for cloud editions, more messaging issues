@@ -1,0 +1,59 @@
+
+Public Cloud version is now GA?
+I’ve known that SAP was getting serious about the public cloud version of S/4 HANA when I started to find legal documents necessary for contracts (pricing details, etc.) but I had never seen anything more than a vague date (“Q2 2015”) for the official GA release.
+While running my daily scan of S/4 HANA-related material, I found an interesting blog concerning the GA availability of the public cloud version of S/4 HANA.  This blog contained an “announcement” regarding this release.
+Dear Colleagues,
+The SAP S/4HANA release 1506 cloud editions (cloud project services, cloud marketing and cloud enterprise edition) are generally available for all customers as of June, 18th 2015.
+After the launch of the SAP S/4HANA on-premise edition in February, this marks the next milestone of our joint SAP S/4HANA journey. It will soon be followed by our most important milestone this year: our SAP S/4HANA 1511 on-premise delivery.
+The cloud editions will be complemented by SAP services for onboarding, configuration, migration and integration as well as extensions and custom code management to ease the transition into the cloud.
+Transforming us on our way to the cloud comes with major changes in how we act. Our dedicated virtual one-team approach of development, delivery and content development was a crucial ingredient for this milestone today.
+We are just at a starting point and learning day-by-day!
+Congratulations to the entire one team across all functions and units, and please join us in thanking all teams for their relentless efforts and the great work.
+I was intrigued by this announcement for a variety of reasons including that the fact that this blog is the only reference to this announcement that I found after extensive searching; furthermore, the communication also appears to be internal in nature (“Dear Colleagues”, “Congratulations to the entire one team across all functions and units”, “please join us in thanking all teams for their relentless efforts and the great work”, “Transforming us on our way to the cloud comes with major changes in how we act.”, etc).
+If true, the GA announcement is an important milestone for S/4 HANA and I’d expect a lot more buzz surrounding it.
+I wouldn’t have paid this particular blog any more attention beyond a cursory read but I’ve found additional material which suggests that this announcement is probably correct.
+There is a new SAP Help site available for SAP S/4HANA, cloud edition 1506  (the same version mentioned above) that contains a SAP S/4HANA, cloud edition – Feature Scope Description document with a first version that is dated from 2015-06-18 (the same date mentioned in the announcement described above).  This document which is labelled “PUBLIC” contains further details on all three public cloud editions (marketing, project services and enterprise) in a granularity that I haven’t seen in the past.
+As demonstrated by one section regarding security, customers are the audience of this document:
+As a customer, please contact SAP cloud support with any queries you might encounter on the handling of personal data in SAP S/4HANA, cloud edition.
+This document provides details on each edition’s feature scope, configuration information available in the app as well as additional information on security. For example, the scope details for the project-based service edition provides a deep dive with business background as well as key features into the following areas:
+
+Customer Project Management
+Time Recording
+Procurement
+Sales Order Processing for Project Services
+Accounting and Financial Close
+Country-Specific Features in Accounting and Financial Close
+Accounts Receivable Accounting
+Profitability and Cost Analysis
+Country Availability
+
+The document also provides details on the security-related aspects of the public cloud version including multi-tenancy.
+To provide enhanced data integrity, the S/4HANA, cloud edition uses an advanced database management solution to store customer data and securely isolate each customer’s business information in its own database instance.
+There are additional chapters concerning the configuration available for specific editions. For example, here is the associated table for the marketing edition.
+
+We’ve never seen this level of detail in the past and it shows the level of maturity of S/4 HANA’s public documentation as well as the associated application evolution.
+Virtustream’s acquisition by EMC and the eternal debate between private vs. public cloud deployments
+After Virtustream’s recent acquisition by EMC,  colleague Dennis Howlett described the potential impact of this move on customer’s desire to move to S/4HANA (any version) away from their existing HANA-based environments.
+I am struggling to see how it makes sense in the current business context. If I can already get substantial TCO benefits from Virtustream without disrupting my existing deployment landscape then why would I do a rip and replace for S/4 HANA? There would need to be at least a 2x improvement in my cost profile and right now I don’t know of any case where that has been successfully made.
+In my opinion, there is another aspect that must be considered as well – the impact on the associated cost-related aspects between a private and public cloud installation of S/4 HANA. Usually, one of the most important reasons for the use of a public cloud for S/4 HANA is the lower costs associated with this version. If a Virtustream-based S/4 HANA installation such as that currently used by Florida Crystals and other private cloud-based offers from other providers are available at a substantially lower price, then customers may decide to retain their customized versions of S/4 HANA rather than move to the public cloud area with its greater restrictions regarding customization.
+Worries about the role of ABAP in S/4 HANA
+In a recent SCN blog, there was a great deal of attention paid to the topic that ABAP was being ‘killed’ by S/4 HANA.
+They want all us customer companies to move onto S/4 HANA in the Cloud
+I hope that bit is not too contentious, not too much of a shock. Here comes the problem – as noted there and then it seems that as much as 50% of the screens that end users currently see are in fact custom screens written in ABAP. That sounds right to me, at my company it’s more like 100%.
+So, in the cloud you cannot change the code. Nobody is going to put up with standard SAP – as we have seen – even standard SAP with lovely new UI5 screens. Everyone is always going to want to put their own stuff in, as they have always done with user exits and custom reports and bespoke applications for things specific to their company and so on.
+How does SAP intend to square this circle? As I understand it from the talk at the Inside Track, the idea is that S/4 HANA will have API’s which custom applications can hook into, thus achieving the same sort of thing we have today.
+How do you build such custom application, such custom code? In the HANA Cloud Platform (HCP).
+OK, what language do you program things in using the HCP? The answer is – any language you want, so long as it is not ABAP.
+In a series of useful comments, Björn Goerke EVP and Corporate Officer, SAP Product & Innovation Technology did a great job attempting to clear up this misunderstanding but for me, the blog was a perfect example of what SAP needs to correct in terms of its messaging regarding S/4 HANA.
+What irritated me even more was that I had seen slides from SAP regarding this topic that demonstrated the critical role of ABAP on the platform. As a part of a S/4-related webinar for SAP Mentors during a recent DKOM, I saw an excellent presentation from SAP developers on the topic that provided important insights on the role of ABAP-based extensions in the Public Cloud edition. I reached out to Sven Denecken, Global VP Co-Innovation and Strategy S/4HANA) and asked him for the permission to publish a specific slide from a presentations that originated at the Sapphire conference.
+
+This official slide is important because it clearly demonstrates SAP has a very mature understanding of the different types of extensibility in S/4 HANA in particular as they relate to the On-Premise or Cloud editions. Björn did a great job responding to the worries of ABAP developers via his blog comments but there should be a specific set of blogs / webinars that start at this slide and provide deeper dives for the developer community and especially for those working in the existing Business Suite ecosystem.
+With the upcoming GA of the public cloud edition, the involved technology / policies regarding extensibility in S/4 HANA should have reached a level of maturity such that details could be provided to placate community concerns. Once a common understanding regarding extensibility has been reached, ABAP developers will be more likely to become S/4 HANA supporters.
+S/4 HANA-related jobs
+There are also recent job offerings which provide some new insights into SAP’s S/4-related activities.
+Senior UI Developer Job
+Scale, Enablement and Transformation -SET (earlier name SAKP) is part of GSS (Global Service and Support).  Our mission is innovation adoption at scale. RDS is one of the key deliverables of SET team. SET Packaging Framework team delivers framework and applications for an easy end-to-end implementation experience of S/4 HANA applications in all deployment options.
+Our team builds Fiori based configuration applications for S/4 HANA.  The technologies used are SAP UI5, Fiori, ABAP and Object Oriented JavaScript
+This is one of five positions being offered by one team in India. Fiori-based configuration apps are critical for acceptance – especially in the public cloud edition where customizing is restricted. These job offers also demonstrate that ABAP still plays a central role in S/4 HANA – regardless of the involved deployment option.
+Disclosure: SAP is a premier partner at time of writing
+Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureFinancials 

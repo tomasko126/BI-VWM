@@ -1,0 +1,50 @@
+
+ERP vendor, SYSPRO, recently briefed analysts on its new Version 8 solution.  SYSPRO is one of a very few ERP vendors that has grown organically. Its architecture, product roadmap, licensing, etc. remain easy to understand and connect to.  This product is now available (with more capabilities due to arrive this Fall).  Here are four things to like in the newest version (i.e., SYSPRO 8).
+The new UX
+SYSPRO’s new user experience/user interface is quite nice. It feels like you’re working on a Microsoft Surface Pro with the different panes, menus, etc.  This web-based UI is called Avanti. Avanti works on a wide array of web-enabled devices (e.g., smart phones, tablets, desktops) and uses HTML5 among other technologies.  The UX supports pane-based applets that display a number of data types in various forms (e.g., dial gauges, histograms, etc.).
+Avanti has application tiles on one side of the screen and business insights (with embedded KPIs on these tiles) on the opposite side. There’s a center section that contains interactive charts and graphs that are sensitive to the work and data someone is interested in. Layouts are customizable to a user/role. Clicking on some tiles may launch a list view. The content of list views can be exported to a pdf file or a Microsoft Excel spreadsheet. List views are not static – they are context sensitive and adjustable in the moment.
+Avanti has a look/feel consistent with many consumer applications. The value in this comes in reduced user training requirements.
+Some data may be displayed in revolving carousels.  Data results can also be focused via filters. These filters, like those in many in e-commerce websites, work via checkboxes and slider bars.
+The UX is designed to support a more IoT oriented future for SYSPRO customers. As opposed to static menus, Avanti tiles can show key metrics from sensor data. Other capabilities (see below) can tie these data intensive tiles to workflow, predictive analyses, suggested courses of action and more. The full potential for this will continue to evolve over time – some of this will appear in the October 2018 release.
+Avanti is a cloud first UX and was developed using HTML 5, CSS3 and Websockets.
+Avanti UX Image Courtesy of SYSPRO
+SYSPRO IoT
+Like some of its ERP competitors, SYSPRO has the technical ability to handle some IoT functionality. But unlike its competitors, SYSPRO appears further along in making this capability a reality. This is especially important to mid-market customers/prospects as these firms often lack the talent or budget to make IoT a reality.  Mid-market firms need an ERP vendor to make IoT more of an out-of-the-box capability not a bunch of parts that require a lot of custom assembly and configuration.  It also needs to be out-of-the-box as these firms can’t afford to hire lots of expensive consultants for extended periods of time to setup and tune the various integrations, anomaly detection programs, workflows and algorithms that are needed to complete an IoT powered manufacturing solution.
+In SYSPRO’s case, customers can connect data from their machine tools/capital equipment via a Microsoft Azure IoT Hub. There are capabilities for IoT device management, data storage and data mining.  Sensor data is stored in Cosmos DB in the cloud.
+Summarized data is sent to the on-premises or hosted SYSPRO system. SYSPRO has a workflow connector that allows an IoT device to connect to the SYSPRO Hub. It’s in the Hub where logic exists to trigger an action that the workflow connector enables.
+SYSPRO also has an IoT Message Management, IoT Device Management and Data Mining capabilities. These can also be integrated with SYSPRO’s Push Notification API, Workflow Connector API and Data Connector API.
+As part of its Manufacturing Operations Management functionality, SYSPRO also states that they now have “a number of native drivers for plug-and-play connectivity to the most common factory machines and devices.”  These provide capabilities for:
+
+Real-Time Exact Status Tracking of Equipment and Jobs
+Job Costing Accuracy
+Loss Visualization and Continuous Improvement
+Overall Equipment Effectiveness Improvements
+
+Some configuration/customization by the customer will be required.
+AI meets the SYSPRO world
+SYSPRO now supports ‘digital citizens’ (a.k.a. bots) in its ERP suite. These bots can take care of repetitive tasks to improve user productivity. This technology uses Microsoft’s Azure BOT capabilities and, when used with other technologies, can provide RPA (robotic process automation)–like functionality.  As described by SYSPRO, BOTs can assist with identity verification/matching, power self-service apps and offload repetitive/routine tasks (e.g., check supplier payment status).
+This technology has the potential to offer up recommendations, predict shipping/delivery dates, predict final job costs based on prior deals, do trending on costs and currencies, predict cash flow and predict payment defaults.
+SYSPRO’s plans for AI/ML include plugging into collaboration/social media/chat programs (e.g., SYSPRO Harmony). Using the AI/ML, SYSPRO makes the data within its UI tiles/applets smarter.  AI can highlight anomalous behavior in IoT data feeds (or traditional day-to-day operations) and model out (or predict) opportunistic or aberrant business outcomes based on data.
+ Another Power of One vendor
+Many ERP vendors have an appalling slow innovation capability. The largest ones are often the most laggard in their innovation efforts. Their necessary product line updates are slowed by old technical infrastructure(s) or the need to update the numerous product lines that a firm may possess.
+To compensate for missed opportunities, some ERP vendors acquire more nimble vendors with new, market relevant product architectures. While these acquisitions may help short-term revenues, they also cause additional dilution of R&D efforts across an ever larger product line and that can slow the innovations to a crawl.
+SYSPRO has not embarked on a buying binge to acquire additional applications and they’ve kept their product line free from acquisitions. SYSPRO essentially has one product architecture for all of its application software.  Fewer architectures mean fewer tech stack components, fewer product integrations, fewer potential failure points, less regression testing required, etc.  In fact, SYSPRO maintains a kind of architectural purity by staying close to Microsoft and its technology innovations.
+Until a recent acquisition, Workday pursued a similar singular platform strategy. Workday has made quite of bit out of this over the years. A few others have poked at their competitors using variants of the Franken-Soft monster concept (something I coined in 2012), too.
+Photo of airport billboard in May 2015 – Photo courtesy of TechVentive, Inc.
+A single platform is a (really!) good thing for software users and buyers. It gives the vendor speed in developing, testing and rolling out new innovations.  It cuts down on integrations and the potential for data latency. It can make it super easy to do reporting and analysis.  It can also speed delivery of new applications and reduce troubleshooting time. A vendor can’t be fast in developing and rolling out new innovations if it must:
+
+Re-design the innovation to fit every platform that its multiple product lines utilize
+Tweak the innovation to fit every version of every product within its multiple (and sometimes redundant/competing) product lines
+Regression test this innovation against numerous customer technical environments
+Adjust the new innovation to work with several different relational/in-memory databases and other systems software tools
+
+One platform is a good thing.
+Version 8 and Beyond
+SYSPRO (and/or its channel partners) offers a single-tenant hosted product that can also be offered as an on-premises solution.  The company counts some 15,000 customers today. According to SYSPRO, 70% of their customers are already on Version 7. That should make adoption of Version 8 easy and timely.
+SYSPRO has indicated that manufacturing customers will see more shop floor functionality this Fall with their R2 release. For manufacturers that are making their products-as-a-service (aka servitization), detailed revenue recognition capabilities may not be available.
+The October R2 release should make a lot of the above ‘practical’ and out of the box. It should include a Machine Language Designer to permit non-techies to design their own Artificial Intelligence models and to connect these AI models to the UI (likely via display applets).
+Closing thoughts
+The look and feel of SYSPRO 8 is quite good. It’s not just a pretty or slick navigation bit. It is tiles and panels that contain information to inform (not just guide) users.  It is also a UX that can get even more helpful and informative when a customer implements the IoT functionality.
+All of the items above help make SYSPRO 8 more market relevant and attractive to customers. The one thing not in the solution is multi-tenancy. I suspect that in time SYSPRO will need to provide this too if they want to maintain competitive parity.
+SYSPRO has a veritable galaxy of channel partners/resellers. In addition to the users of the software, these partner firms will likely be the beneficiaries of this new release, too. Why? I suspect a lot of the Version 7 customers will want to upgrade to Version 8. But some of the SYSPRO partners will need to bone on up on their IoT skills to take that subset of customers to a more digitally transformed future.  Given the scarcity of IoT skillsets (e.g., math quants, data scientists, etc.), I remain skeptical that any mid-market vendor or partner firm will have (and retain) these skills in any measurable quantity. My guess is this will likely be a discussion item at the next SYSPRO partner event.
+Image credit - as noted in captions, featured image via FotoliaRead more on: Analytics planning and data analysisCloud ERP financials and supply chainIoT robotics and AI 

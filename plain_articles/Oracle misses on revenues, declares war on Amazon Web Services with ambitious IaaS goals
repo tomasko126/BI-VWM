@@ -1,0 +1,51 @@
+
+Larry Ellison
+$100 million – that was the number of the day at Oracle yesterday. $100 million was the amount the firm agreed to settle with the State of Oregon in its long-running dispute over a failed Obamacare health exchange implementation. 
+More importantly perhaps, $100 million was how much Oracle missed revenue targets for its Q1. There was some Brexit blaming for this in the form of currency headwinds of 1%-3%, but the knock-on effect was disapproval from Wall Street and smallish tumble in the share price. 
+That said, in Q1 Oracle turned in a net profit of $1.8 billion, against $1.75 billion a year ago, on total revenue that was up 2% to $8.6 billion. Cloud was the star performer, up 59% year-on-year to $969 million, but new license sales fell 10.5% to $1.03 billion. 
+While the growth percentage reads well, that leaves cloud computing – in its various forms – accounting for 11% of total revenues, albeit up from 7% this time last year. SaaS and PaaS combined make for 9% of total cloud revenue, up 77% year-on-year, but IaaS still isn’t making an impact, up only 7% and accounting for 2% of the total. 
+Oracle’s hoping that IaaS will get a kick-start next week at the Oracle OpenWorld conference, where two new offerings are being lined up and war is being declared (again) on Amazon. Oracle’s pitch is that its Generation2 IaaS will deliver twice the compute, twice the memory, four times the storage and ten times more I/O at a 20% lower price than Amazon Web Services.
+CTO Larry Ellison cited the rollout of the Generation2 data centers as providing Oracle with a lead, claiming: 
+
+For the first time, we have this big technology advantage in the Infrastructure as a Service.
+
+He added: 
+
+These new data centers give us the significant cost and performance advantage over Amazon Web Services. Plus, our new bare metal offering makes it possible for our customers to lift and shift their entire existing corporate infrastructure, data and applications without any changes whatsoever and move it to the Oracle Public Cloud. You just can’t do that with Amazon Web Services.
+
+Ellison pitched the argument that with a vamped-up IaaS offering, there will be a side effect of boosting PaaS subscriptions: 
+
+We sell PaaS twice. Sometimes we package PaaS with our application SaaS together. And this new business is selling PaaS with infrastructure as a service, where they’re building a lot of custom applications or moving existing applications into the cloud. What I think about it is, our SaaS business has got a new business or lot of new customers. We’re just beginning to shift our installed base from the on-premise into the cloud, which is enormous potential for us.
+
+Complimenting Microsoft?
+This line of reasoning also led to an unexpected compliment for a rival, but also to an attempt to establish some differentiating parameters:
+
+
+We are just beginning to move our database customers from on-premise into the cloud. Microsoft has already done a very good job of moving their office customers from on-prem into the cloud, and that’s the basis of the overwhelming basis of their cloud growth. The overwhelming basis of our cloud growth are new customers for applications. So we haven’t started shifting our base yet, which I think is very interesting. 
+We’re now beginning to move our installed base into the cloud. And this is a lot of expansion. It’s not like they’re going to stop running in premise. We believe this is sort of the next decade. This is a co-existence story. They are going to continue running some of their stuff on-premise and they’re going to move some of their stuff into the cloud and those two things have to coexist. And our unique offerings to our customers and database is the fact that we support the identical software on-premise and in the cloud. And you can move data and workload back and forth very, very gracefully – that’s our PaaS offering.
+
+He added: 
+
+Microsoft is holding on to their Office customers by moving up the on-prem into the cloud. We are not holding on, just holding on, to our on-prem customers, moving our application customers to the cloud. We are doing that too. We are holding on to our apps customers by moving them to the cloud. But more than that, we’re gaining more than half of them are net new customers.
+So that’s very different than what you see is going on in the Microsoft. And our big installed base, which is the database, we’re preeminent….We’re just beginning in the early stages of holding on to them and moving them to the cloud. So it’s a bit of a different story between us and Microsoft. That exciting prospect of moving all those database customers to cloud, that’s in front of us.
+
+Meanwhile on the customer front, CEO Marc Hurd did his usual chalking-up of wins, which this quarter consisted of: 
+
+776 new SaaS customers. 
+677 expansions. 
+346 new CX customers and 488 expansions. 
+173 new HCM customers and 69 expansions. 
+344 ERP EPM customers – 50% of which had no existing Oracle investment – and 135 expansions.
+2,032 new PaaS customers
+1,671 new IaaS customers. 
+
+Oh and for anyone wanting to know what’s happening with the planned $9.3 billion NetSuite acquisition – which didn’t include a blithely uncurious bunch of analysts on the post-earnings conference call – there’s not much more to add at this point. Catz says the deal has passed anti-trust reviews everywhere except the US (which is kinda important, of course). 
+She made no reference to the news that mutual fund T. Rowe Price – which holds 12.3% of NetSuite stock – is questioning the agreed bidding price. Whether the T. Rowe Price intervention leads to Oracle having to pay a higher price, remains to be seen. Oracle has extended the deadline for its tender offer to 6th October.
+My take
+Unmentioned yesterday was the ‘race to $10 billion run rate’ between Oracle and Salesforce. In recent quarters, Ellison’s been bullish about beating his rival to that benchmark, declaring:
+
+We need to be number one.
+
+Assuming the NetSuite deal goes through, that would take the Oracle cloud run-rate up to around $4 billion, meaning that the promised ramp up in PaaS and IaaS revenues are really going to have to deliver – more than doubling current levels? – if that $10 billion is to be realistically in sight. That’s a big ask.
+And away from the Salesforce-baiting, there is the AWS question. For its most recent quarter, Amazon reported AWS revenues of $2.89 billion, up 58% year-on-year; Oracle yesterday reported IaaS revenues of $171 million, up 7%.  All told, next week’s IaaS pitch at OpenWorld is going to be very interesting to observe.
+Image credit - YouTubeDisclosure - At time of writing Oracle and Salesforce are premier partners of diginomica. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureCRM and customer experienceHCM and the digital future of workRetail e-commerce and the omni-channel 

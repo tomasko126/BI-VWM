@@ -1,0 +1,57 @@
+
+It’s day one of Constellation Research‘s Connected Enterprise 2017 at Half Moon Bay, and Hyperledger Executive Director Brian Behlendorf is running hot.
+He’s just coming off a spirited blockchain panel, moderated by Constellation Research’s Steve Wilson, a noted blockchain critic/advocate/contrarian (Wilson’s views seem to evolve each time I hear from him, which I prefer to a rigid stance on blockchain anyhow).
+As is often the case with blockchain, the panel ran out of time long before the issues did.
+I’ll give Brian Behlendorf his rebuttal time here – but before we get to that, let’s frame it up. Whenever you debate blockchain in the enterprise, you’re going to run into tensions between practical and idealistic.
+Enterprise blockchain – radical new disruption or useful new tools?
+Blockchain has ideological ties to cryptocurrency utopianism. Some envisioned cryptocurrency as a means to topple financial oligarchs with decentralized currencies – not as another option on a payment pull-down menu.
+You can see those threads in the enterprise blockchain debate. About halfway through Constellation’s Beyond the Hype of Blockchain panel, one panelist asserted a more radical stance:
+I’m not interested in helping companies fix problems – I’m interested in building next generation companies.
+Another panelist, Matthew Kerner of Microsoft, responded with a more practical take:
+Blockchain is a piece of technology that can help drive digital transformation beyond the four walls of your business. Whenever there are more than two counter-parties involved in some type of activity in the market, then blockchain is a tool that can be used to enable all those counter-parties to exchange data, run workflows, share audits, and so on – in a way that’s trustworthy. It addresses some fundamental problems around a shared data layer, in a novel way.
+As for radically disruptive models, Kerner added:
+I fundamentally agree that blockchain opens up [potential for totally new markets and business models], but I guess where I differ is that this won’t disrupt all of our established industries overnight.
+Kerner went on to cite barriers to widescale blockchain adoption, including regulatory hurdles, established customer behaviors, IT assets and skills development – “those things will need to co-exist with blockchain.” He added:
+One of the things blockchain needs to do better is to work with existing systems, or I don’t believe that it can be adopted in a meaningful way by [enterprises].
+A few minutes later, one of the panelists literally called “bullshit” on the corporate alliances around blockchain, which he sees as duplicating an outdated and undesirable form of lock-in. I’d be leaping to conclusions to assume his critique was directed at Behlendorf, but I can understand why Behlendorf wanted to respond.
+Clarifying the role of Hyperledger – Behlendorf responds
+Behlendorf at Half Moon Bay
+Behlendorf is Executive Director of Hyperledger, an enterprise blockchain platform that has the backing of 170+ corporations, including a range of notable enterprise players. Members actively involved in Hyperledger projects span from IBM – which arguably has made the biggest contributions to date – to Intel, Deloitte, and Ernst & Young (SAP is a premier member. – Oracle is a member also). Hyperledger also has an active community of developers you can sign up with.
+During our one-on-one, we dove right into the debate. Behlendorf’s lock-in rebuttal?
+The fact is with the Apache license on all projects, vendor lock-in a lot harder to achieve. A company like an IBM with Bluemix hosting it will have to compete in the open market with Oracle providing the same service or other companies providing the same service, companies large and small. Or people self-hosting on AWS.
+Any other panel reactions?
+I didn’t have any reactions to the other panelists except for that seeming misperception about how you [need to be a big company to get involved], when half the members of Hyperledger are startups. 40 percent of them are headquartered in the Asia Pacific region. It’s really a global effort.
+Hyperledger developers span the spectrum:
+Even the developers working on the different projects come from a mix of companies like IBM and Huawei and other large companies, down to individuals working for startups or students.
+That’s the key to avoiding lock-in from corporate members:
+Again, when an open-sourced project is well-managed, when it has a diverse contributor base, that’s when people can trust that they are not buying into a single vendor’s vision.
+On the panel, Behlendorf gave a gut check on enterprise adoption:
+There are hundreds of them in pilots, probably a hundred in production somewhere out there. We will probably see thousands or tens of thousands eventually, and the size of them will differ. You’ll have some that are very small, because they deal with use cases for small parties; others will be large, broader markets that touch everybody.
+So what are the real impediments to adoption? During our chat, Behlendorf honed in on skills and project experience:
+It turns out running systems at scale is more than just having the code, there is a real skill to it. And blockchain specifically will have different scaling characteristics than your average big data lake or your average large website. So there will be some expertise required behind that. But when it comes to actual lock-in, as most people know it, [which includes] a huge cost to have to switch away, that’s just not here when we are talking about open source code.
+From blockchain skeptic to Hyperledger director
+For those who are skeptical of blockchain, Behlendorf was too. Previously a venture capitalist, he joined Hyperledger after its launch in 2015:
+As a VC you’re supposed to be skeptical, by nature. I was pretty skeptical until somebody mentioned to me the use case of land titles and emerging markets. For me that was finally an example where I could make a very reasonable financial argument for why you didn’t want anybody to own, or be at the center of that database. You wanted a truly decentralized, distributed ledger.
+Behlendorf was drawn to Hyperledger because he doesn’t believe blockchain uses should all be tied to currency:
+I was struggling to find a technology platform that actually was not currency based. When it was clear that was going to be their goal, to build these systems that didn’t require that, I realized there was a real opportunity here to build an open-source community in an area that had been neglected.
+The Linux Foundation’s involvement was another key:
+So that was what pulled me in, and I had always thought very well of the Linux Foundation; it has a great reputation for building open-sourced communities, especially those around enterprise needs. It felt like there was a chance.
+Assessing Hyperledger’s progress
+Fast forward to 2017, and Hyperledger is picking up momentum. Behlendorf says their global developer community can be hard to quantify, but he points to 20,000+ people in Hyperledger meetup communities across 60+ cities. Two months ago, Hyperledger elected a technical steering committee, which is the governance body that greenlights projects and manages project expectations. 300 voters were eligible, based on their active participation in Hyperledger. Then there are the countless folks reporting bugs or subscribed to mailing lists.
+The same day of the interview, Hyperledger launched blockchain training materials on the edX MOOC founded by Harvard and MIT – they had 16,000 pre-registrations. Behlendorf is hoping they can reach 100,000 people this year with the training materials, with deeper dives on Hyperledger projects like Fabric and Sawtooth to come.
+Blockchain has proven it can run on cryptocurrency scale. But can it run on enterprise scale? In other words – when are we going to get beyond pilot projects? Behlendorf, who already estimated the number of live blockchains at around a hundred, sees us moving past this pilot phase shortly:
+The Diamond Ledger chain will be in production by the end of this year or early next. There are about eight production chains I think that IBM tracks.
+The scale skeptics are still out there:
+It’s tempting to say, “Well how many transactions for per second are these private chains doing?” And it’s probably not an interesting number yet. But they are creating value.
+Behlendorf cited examples from IBM, supply chain blockchains for laptops and support claims against those laptops, which have reportedly resulted in “the order of $15 million in savings from deployment of that.” Bottom line from Behlendorf:
+These things are running in production. No question about that.
+For production-ready blockchains, Behlendorf believes that Hyperledger Fabric hitting release 1.0 in June 2017 was a milestone:
+The pressure for that was from many people who were ready to move this to production, and needed the platform for the developers to send that signal to the market.
+My take – the blockchain debate is necessary
+I’m not going to try to settle a necessary debate which I believe is hugely helpful for customers – or anyone staking futures to enterprise blockchains. Hyperledger isn’t the only way forward for enterprise blockchains. There are other platforms and players; Ethereum is still looking to make its enterprise mark also. But so far, I like the progress and professionalism (no political controversies of the kind that have rocked Ethereum – yet).
+I tend to view blockchain as less revolutionary and more of an emerging tool to solve existing problems and forge new marketplaces. It will have its pros and cons like any other method. There are encouraging signs for blockchain use in developing countries and economies; that’s a story still unfolding.
+I don’t believe, as some do, that blockchain is the next most important development after the Internet itself – that honor/burden clearly goes to AI and machine learning. Behlendorf is an effective blockchain advocate precisely because he doesn’t oversell. He evoked the biggest laugh from the audience when he quipped:
+There is a tendency to talk about blockchain in very singular, reverential, almost religious tones, This is more than a distributed database, this is less than holy water – this is somewhere in between the two.
+End note: the “Diamond Ledger” is Everledger, which is working with both IBM and SAP on moving the diamond supply chain to a distributed ledger, primarily to try to keep blood diamonds out of the supply chain. I also recommend checking out the recently announced MediLedger project for the pharma industry, which was represented on the panel by Susanne Somerville, CEO. Also, if you want to see reactions of two diginomica readers to a hands-on Hyperledger event, see my notes and podcast on why enterprises should care about Hyperledger.
+
+Image credit - Hyperledger t-shirt from Twitter screen shot. Photo of panel screen shot by Ray Wang.  Photo of Brian Behlendorf at Connected Enterprise by Jon Reed. Disclosure - Constellation Research provided my hotel accommodations and press pass to attend Connected Enterprise 2017. SAP and Oracle are diginomica premier partners. Read more on: Digital transformation - frictionless enterpriseIoT robotics and AI 

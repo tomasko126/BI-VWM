@@ -1,0 +1,53 @@
+
+I just spent two days in Italy with analyst peers and the management of LMS (Learning Management System) vendor Docebo. It’s funny how a lot of quiet time can help one focus on a topic. Here are my observations about the LMS space. In a second story, I’ll discuss my thoughts about Docebo in particular.
+The wild, wild LMS market
+The LMS market is a wild place. What else would you call a software market with hundreds of competitors and more arriving daily? One analyst at the event pegged the number of vendors at around 600-1000 firms. I’d say he’s right on with that figure.
+Many of these firms will never get very far. These companies provide training content for a specific purpose be it a vertical (e.g., how to operate a stamping machine), a general skill (e.g., how to create an Excel pivot table), or, a course one might take a la a MOOC (e.g., Ancient Civilizations). Generally, these firms can’t scale easily or quickly as it takes a lot of time and money to develop each course. When I was responsible for developing online courses years ago, we estimated that it took at least 40 hours of work to create an hour of classroom content. It also took 80+ hours of work to create a minute of quality video.  No, the creation of content is the big growth inhibitor of some LMS firms. 
+That’s why the space is fragmented. Lots of vendors focus on content development while others (often HRMS vendors) provide everything else. What’s in that everything else? Well, a company might need:
+
+A way to track what training a person has already taken and how well they met the training objectives
+A mechanism to plot future training needs
+A way to tie performance evaluation shortcomings to a training plan
+A library of available training courses
+Etc.
+
+But maybe that perspective is just a bit too oversimplified. 
+Learning needs today
+LMS vendors love to pitch features and functions to industry analysts and software buyers. We get to hear about things like HTML 5 user interfaces but rarely do I hear a LMS vendor address the BUSINESS needs of customers/corporations today. 
+In a quick sketch of the business problems I believe firms face today, I can identify five common needs: 
+
+HyperGrowth – Some companies experience extraordinary growth. Look at some of the high-tech and new Digital Age firms for examples of this explosive growth. Their training needs are often acute as a person they hired just 6 months ago to lead a twenty person software development team now must manage a 200 person group. Oh, and next year, that group will need to be 1000 people strong. In super-fast growing firms, growth can’t be put on hold waiting for people to eventually grow into new roles and responsibilities. Either the people must get replaced or they need fast, effective training. 
+Survival / Sustain – There are many companies that cannot grow because they cannot find or develop enough skilled professionals. This has to be a big issue as I hear this complaint over and over. What exacerbates this problem are the record numbers of retiring workers who possess significant amounts of institutional knowledge. For the company to survive, two things must happen: knowledge must get transferred to more junior workers and junior workers need many new leadership skills that have not already been imparted to them.  
+Switching from industrial to digital age delivery– In this scenario, a company is moving from one economic era to another. What they’re finding is that their workforce is well-suited for a time gone by but not for the Internet of Things (IoT), digital commerce, sensors, algorithms, etc. of today. These firms are finding that they either need new people or must re-equip the people they already possess. Compounding their woes is that they need to make these adjustments like yesterday!
+The one global firm – When a multi-national decides it wants to become a global firm, it may find that it makes products (or delivers services) differently in every country within which it operates. Before it can standardize its business and reap true global economies of scale, it first must determine how it actually produces products by country and then how it will do so going forward. Institutional knowledge must be captured and analyzed first. Then, after key decisions are made, a huge re-training process is required to get the company to work consistently, everywhere around the globe.  
+Contingent workforce – As more firms move to embrace more contingent workers, these companies must find ways to very quickly train these (often seasonal) workers. Depending on the industry, some contingent workers pose especially difficult training challenges as they may not have PC’s at home, lack a smartphone or broadband Internet access, etc. How do you train people fast and at scale when they may not be able to easily consume the content?
+
+Training at scale is a key issue in several of these business problems. 
+Other learning challenges
+There are other learning/teaching challenges out there, too. Firms often spend small fortunes ‘teaching’ things like ethics to employees. Last time I checked, no one has created a course than can actually (and permanently) change someone’s moral/psychological makeup. A bigot can take diversity training but will they really change? I doubt it. 
+What these courses do is help the naïve avoid making mistakes. 
+There’s another challenge that involves what people want, today, out of training. They want more of their training in small, just-in-time, digestible bites. They want a short YouTube-like video that feels tailor-made for the business or technical problem they’re facing. 
+These quick-to-consume video bits are often in the form of a peer/colleague showing an employee how to get a particular task accomplished.  While these are of great value in certain situations (e.g., a video showing how to clear a paper jam from a particular model of photocopier), this method may not work when trying to teach someone how to get promoted. Context is the key here.
+Knowledge transfer – a major LMS challenge
+Last week, it became clear that Docebo wants to sit in the intersection set between LMS and Knowledge Management technologies. They have software that does a lot of the planning, recording and tracking of a person’s training and now they are adding video recording abilities so that a company’s subject matter experts (SMEs) can quickly record and share their knowledge to others. 
+Technically, there really aren’t any big hurdles to creating video these days. Most smartphones, cameras, personal computers and tablets possess the technology natively. No, getting knowledge captured versus distributed is the real issue.  What are the knowledge capture issues?
+A lot of the knowledge that many companies need to capture rests in hands/minds of middle-to-senior management personnel. This level of workers is the key demographic that is retiring in record numbers today. For example:
+
+50% of accounting firm partners in one U.S. state will retire in the next ten years
+75% of accounting firm staffers could retire in 15 years
+The average age of a CIO is dropping from 57 (in 2014) to 42 (by 2020)
+60% of U.S. Social Security Administration supervisors could retire by the year 2022
+
+These individuals might not share their knowledge, though. Why? Time, methods and compensation are just some of the reasons.  
+For decades, the span of control within organizations has continued to widen. Managers who had little free time years ago have none today. To put it bluntly, they have no time to organize their thoughts on a subject and record a short video of it. Besides, that’s not their problem. Today’s issues are their problem and training their replacement is someone else’s issue. 
+These soon-to-be-retired workers are also more familiar with and comfortable with other modes of transferring knowledge. They prefer things like classroom training, lectures and/or PowerPoint presentations. They don’t do video.
+Video scares some folks. They don’t look good on camera and they don’t want their (no longer photogenic) face playing on a video for years or decades to come. 
+Video also requires conciseness. It takes work to write, edit and tune a script so that you impart great insights to the attention-deficit in under 90 seconds. That’s a skill few people possess. 
+So, the people with the most knowledge to transfer might not be all that excited to do it, even if they can get the time to do so.
+There are other knowledge transfer issues, though. And, they’re not immaterial.
+Small firms may not possess many subject matter experts who can create these quick video training snippets. This video capability may be a luxury that larger firms can more effectively afford and deliver.
+Few firms reward people for sharing their expertise. While we can all ‘see’ the logic that knowledge sharing is a good thing, people only do what their rewarded for doing. Unless businesses give people the time to create this content, it won’t get created. Moreover, if taking time to create content eats into a person’s selling time, then they lose commissions. If firms want to get these knowledge capture efforts going, they must identify their subject matter experts and make it rewarding (or at least income-neutral) for them to contribute. Otherwise, the initiative fails.
+In many firms, the actual number of SMEs is quite low. Those that are willing to share their knowledge are scarcer. And those that will go on camera to share their knowledge are the scarcest. 
+When you think of the kinds of knowledge that can be shared, there are often two kinds: knowledge to perform the current task/job and knowledge to get oneself promoted. The short video format probably works best for the former but real mentoring may be better for the latter. 
+In my next story, I talk about how Docebo fits into this landscape.
+Image credit - Computer Keyboard e-Learning Concept ©  Artur Marciniec - Fotolia.comDisclosure - Doscebo provided T&E coverage for most of the author's costs of attending the event to which he refers. Read more on: Talent managementBest of 

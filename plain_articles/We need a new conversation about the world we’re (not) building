@@ -1,0 +1,41 @@
+
+Sir Tim Berners-Lee
+The last year or so I’ve heard some tech CEOs talk about building a better world. It sounds like a net good but that’s not happening.
+When I look around, I see a continuing concentration of power in the hands of fewer vendors whose common currency is a massive market valuation that is lauded and feared in equal measure.
+The behemoths
+Facebook, Amazon, and Google are collectively worth $2.18 trillion. If you want to add in Apple then that number balloons to a shade under $3.1 trillion. To put that collective market cap value in perspective, the whole of the UK’s GDP is pegged at $2.6 trillion. In other words, the joint output of just over 750,000 employees of these four companies is deemed worth more than the production of 60 million people.
+These companies aren’t going away any time soon. If anything, the race is on to see which one becomes the first $10 trillion business with the odds favoring Amazon. And to put that into perspective, Nick Halstead, in his excellent weekly Datascan newsletter noted:
+
+Jeff Bezos and Amazon have the advertising industry looking over its shoulder. Claire Atkinson describes how Amazon’s growing advertising business is poised to challenge the Google/Facebook digital ads duoplay:
+Google knows what consumers are interested in, and Facebook knows who you are. But Amazon has what many in the advertising industry regard as the most important piece of the puzzle: what people buy. And the e-commerce giant is starting to capitalize on that data in a big way.
+
+Also, other advertisers should be wary around data sharing:
+
+
+For advertisers, the short-term opportunity that Amazon offers is offset by the realization that they could be providing the company with the data and market power it needs to eventually run them out of business.
+Advertisers that spend money to display their products on Amazon’s search page give up data about their customers in return for sales, but those same marketers are also helping Amazon build a better mousetrap by learning more about customer intent.
+
+Or, how about this from this week’s Exponential View, in which Azeem Azhar writes:
+Tim Berners-Lee is “devastated” by how the world-wide-web has evolved, dominated by a few corporations. His new project? To re-decentralize the web and“give people privacy and […] control of their data”. (See also, The Economist asks “what if people were paid for their data?” Good question to ask but a complicated issue because their are many cases where our data can form part of a public good, and be more valuable for that than by private exploitation by us or an intermediary, like Facebook.)
+When Berners-Lee speaks, people listen, but I wonder whether they will look to the researchers that are the backdrop to the Economist article. Those researchers propose that data in a world of AI should be treated as a form of labor that will eventually be organized. They conclude:
+One way or another, societies will have to find a mechanism to distribute the wealth created by AI. As things stand, most of it accrues to the big data distilleries. Unless this changes, social inequality could revert to medieval levels, Mr Weyl warns. If that happens, it is not unreasonable to assume that one day, the data workers of the world will unite.
+Poking the bear
+Coincidentally, I read an FT interview with Jaron Lanier, who, in the FT’s terms is:
+a Berkeley-based composer, computer scientist, virtual reality enthusiast, author, Microsoft-affiliated researcher and scourge of social media. To revert to epithetic journalese, he is a one-man polemical polymath.
+Lanier may not be well-known to readers, but his thinking gets under the skin of many in Silicon Valley. That’s hardly surprising given he is both credited with some of the early VR research that ended up as product while at the same time warning that:
+…the likes of Google and Facebook [are] ‘behaviour manipulation empires’, and fears the weaponised form of advertising that polarises us, turning us into ‘assholes’
+In the accompanying video interview, Lanier posits that the hoarding and use of data by the behemoths produces a situation where the people with the biggest computers win with the rest of us fighting for scraps. Like researchers quotes in the Economist article, Lanier advocates for companies to pay for data. More controversially, he also believes that governments should also pay for data.
+His rationale is simple – by redistributing the economic value of data, everyone wins. Please find a few minutes to see and hear what Lanier proposes. It’s worth it.
+Do the words of Lanier, Berbers-Lee and others carry enough weight to foster change? No. There’s history here.
+The data is locked up
+Back in the late 90’s, I advised a startup in the accounting market that was recently acquired by RBS at a £50 million valuation. Small change you might think in an age of unicorns but significant nonetheless. Back in the 90’s, my advice to the company was to consider a model where they gave away the software service in exchange for data use.
+I foresaw a world where segmenting across SICs would allow the business data collectors to create troves of information that would better inform bank, insurance, telco, and healthcare markets about both buying behaviors and risks. I also saw the opportunity to offer benchmark services back to users.
+I believed the data generated out of the accounting system would be so valuable that multi-million deals could be struck with the large institutions. In turn, that data would help institutions discover patterns that would be of value to both their customers and themselves. In my mind, it represents a virtuous circle. The company didn’t take me up on that, but you can bet that RBS will be very interested in that data. But then neither did any other SaaS company with which I raised that same question. Perhaps naively, I believed that data would be naturally used for the commonly shared good.
+Today, the reasons for demurring on such ideas are evident. Concerns over privacy in a post-Cambridge Analytica world and security in a post-Trump and post-Brexit world alone are enough to drive technologists to distraction. More to the point, we mostly have no way of peering inside algorithms to understand how data is being manipulated. And today, there are too many examples of unintended consequences for anyone to be comfortable with this type of proposal.
+A more powerful argument resides in the nature of the bargain we strike with the behemoths when handing over data. It seems inconsequential that in exchange for some bits of data, we (sometimes) get shown relevant adverts. We live in the Consumer Society FFS.
+Closing thoughts
+I don’t see any simple answers to this conundrum. I don’t buy into the idea of unfettered economic value falling into the hands of a very few. But then it is difficult to hold conversations that have the whiff of ‘ethics’ or ‘morality’ when so much money is on the table and the political climate is so polarized and toxic.
+Even so, I draw hope from the conversations that are starting.
+I was both encouraged and impressed with the quality of conversation that started spontaneously at Hfs FORA around this topic. The fact that those conversations are underway among people who are tasked with RPA projects have an interest in the application of ‘Augmented Intelligence,’ and the blockchain is a net good.
+I’ve always believed that technology should serve us as a society, improving what we do, how we do it and leaving us more satisfied. Right now, that’s not the way it is working. If we are to avoid what amounts to a corporate takeover of our lives, then it’s time to have a fresh conversation, one that’s inclusive of the needs of the many. If we don’t, then the concentration of power and resources will lead us to a much worse place than we see today.
+Image credit - screenshotRead more on: Analytics planning and data analysisIoT robotics and AI 

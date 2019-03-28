@@ -1,0 +1,130 @@
+
+1. Maturing vendor stories everywhere
+Why then? Because it’s time for ERP vendors to quit trying to push cloud (and social, mobile and analytics) to cloud-hating Luddites when technology is already moving on from there. They need to focus on the companies, prospects and partners that will drive material change and ignore those firms that will be victims of it.
+All manner of enterprise software vendors got spanked in 2017 with new capital, growth and earnings realities. Cloud vendors got religion around Rule of 40 earnings/growth requirements as the ‘grow at any cost’ days of yore may be over. Several vendors went from awkward adolescence into adulthood and, as a matter of course, will need to acquire new disciplines and management practices.
+Here’s a sampling of these developments:
+
+Acumatica – tons of product updates and a major MRP enhancement –
+Cornerstone OnDemand and the impact of Rule of 40 
+And this piece on Workday and how competitors have aped many of Workday’s messages
+
+2. Finance/Accounting is fundamentally changing – Big data is the change agent
+The profession as a whole may want to develop two tracks: one for those who aspire to be a CFO or partner in a certified public accounting practice and one for those who wish to become deep subject matter experts in the digital technologies that impact accounting processes and decisions. A certified digital accountant perhaps?
+Software vendors and the accounting profession have been on a collision course for decades. For a profession used to minor transaction processing efficiencies coming from technology, big change is coming fast. The rise of cheap, powerful in-memory tools along with mountains of digital exhaust from sensors, third parties, social sentiment data, etc. is forcing this industry to change. In 2017, I did a time-lapse review of these big, recent changes in this space and how machine learning, robotic process automation, in-memory technology and more are disrupting this space.
+The vendor changes in financial, accounting, planning and other related solutions were definitely worth watching this year even as CPAs cling to their spreadsheets. Here are some of the more interesting stories:
+
+How the accounting profession is getting radically altered via Big Data
+My state of the financial software space for 2017
+
+3. RevWreck/Revenue Recognition – A Non-Event
+January 2018 is the start of a number of new revenue recognition accounting requirements that have kept many accountants, software vendors, and corporate accounting types busy the last couple of years. Did it turn out to be another Y2K time sink? Sorta….
+I covered RevWreck to death in 2016 and gave piles of webinars on the subject. While I thought for sure we’d hear more teeth gnashing stories in 2017, it didn’t happen. But the 2018 compliance window hasn’t fully hit yet and a pile of new lease accounting changes are next up.
+Read more here:
+
+Revenue Recognition for 2018 and beyond
+
+4. HR – The Culture Wars
+One of their messages to the analysts was simply this: “Does your company culture enable or inhibit performance?” That’s a great question and one that more executives (not just HR) should ponder.  Why executives? Because cultural change is not the responsibility of HR alone and it can’t be fixed by a mandate, technology or HR. It needs the support of all executives and management. Electronic atta-boys just won’t cut it.
+In HR software circles, everyone has an opinion on culture, engagement, and analytics. Those three items make up 90% of the vendor discussion at most analyst events. The problem is that few vendors get any of these three right and their solutions reflect this immaturity. Just look at the myriad of metrics different vendors use to ‘predict’ retention/attrition behavior.
+Please read this piece on OC Tanner’s understanding of the relationship between culture and corporate performance:
+5. HR – Four themes no vendor will discuss
+I couldn’t make it to the annual HR Technology show in 2017 but I did put forth my wish list of topics that vendors and speakers should have addressed there.  I touched on matters like bad vendor behavior, The Alexa-ifacation of HR, age discrimination and other matters.
+The age discrimination issue is one that no vendor wants to tackle and, yet, their recruiting and analytic applications do almost nothing to identify problems/opportunities for employers to get things right. That’s a shame. It makes me wonder whether I should care about the corporate social activities these companies are involved in when they abet such egregious activity.
+Just this week, the NY Times broke a story on how employers can use targeted Facebook ads to reach workers of certain age groups and demographics. When ALL software vendors, accounting firms and consultancies start to post their average age of employees and new hires, then I’ll consider their technology innovations and other social responsibility initiatives.
+My piece is here.
+Oh well, there’s always 2018.
+6. Big M&A stories
+Leaves aren’t the only thing changing this time of year – A number of HCM vendors have or will soon change hands. Recently, we’ve seen Oracle acquire (ERP vendor) NetSuite. Sage has acquired Fairsail and Finance vendor Intacct. Two major HCM vendors are either up for sale currently or will soon be as their equity backers are looking for an exit.
+By year-end, one big deal didn’t happen, one didn’t get off the ground and another triggered a PIPE investment. Looking at the Oracle/NetSuite deal:
+ Let’s compare NetSuite of a year ago with the NetSuite at SuiteWorld 17 last week. Last year, NetSuite was competing with a variety of cloud accounting and ERP solutions from firms like Intacct, FinancialForce and more. NetSuite was a firm continuing to expand beyond its core North America base and was adding data centers and functionality to do so.
+In some cases, NetSuite was expanding beyond its two-tier ERP strategy and moving upmarket into enterprise class firms. Long a proponent of e-tailing and omni-channel commerce, the company was continuing to enhance those solutions. And, we even heard them describe material upgrades to their Revenue Recognition functionality. That was a year ago.
+Since then, NetSuite was acquired by Oracle – a company whose CTO, Larry Ellison, has been a major investor and guide to NetSuite’s founder and former Oracle employee Evan Goldberg. Larry, it’s been said, even sold an old Bentley of his to NetSuite’s former CEO Zach Nelson. To say these two companies and executive teams were well acquainted with each other would be an understatement.
+Here are some of the more interesting pieces:
+
+The post-merger SuiteWorld 2017 wrap
+HR mergers
+
+7. Poor Training Excuses
+First year: I completed 475 hours (out of an annual 2000 hours) of training that year. I took courses in:
+
+
+
+
+Effective writing
+
+
+Online design
+
+
+IMS DB
+
+
+Data administration
+
+
+Detailed design
+
+
+Programming management
+
+
+Revenue systems
+
+
+Word processing
+
+
+Code review techniques
+
+
+Documentation techniques
+
+
+Systems projects administration
+
+
+Assembler Language
+
+
+RPG Language
+
+
+Oil & Gas Industry
+
+
+And more
+
+
+
+
+I looked at Training this year and debunked a number of the excuses poor employers give for not training employees. This is actually an interesting topic as we have a booming economy that has employers scrambling for talent that they won’t train. Hmm, does anyone else see a problem here?
+Readers should also check out this recent article by Angie Hicks re: American manufacturing jobs. The need for higher skilled and college-educated employees by manufacturers is growing. Unskilled job growth isn’t there.
+In one piece I recapped the early career training I got at Accenture. Out of a 2000 hour first year, I clocked in some 475 hours of training. Is anyone getting anything even close to that?
+
+Talent shortage and a failure to plan training
+
+8. Cloud ERP comes of Age
+I did a 5 (count them) part piece on the state of the cloud ERP space this year. I looked at Plex, Kenandy, Rootstock, and IFS.  While each is making lots of progress, Plex may be the most transformed and fastest growing (dollar-wise) in 2017. In a discussion with Plex’s Andrew McCarthy, we discussed:
+There is “lots of hobbyist activity” out there re: IoT (Internet of Things) and IIoT (Industrial Internet of Things). Much of the IoT focus according to Andrew has been around “earning the label” – a concept where companies use sensor information to ensure all production steps have been completed and to specification before the good earns the right to wear the product label.
+Earning the label activity is overwhelmingly an internal-facing set of metrics. It is not transformational but incremental. The big frontier, using the digital exhaust from products post-production is still a ways off for many firms.
+
+State of the art in Cloud ERP
+
+9. Platforms, platforms everywhere…
+“Oh, and let’s not forget how big this potential lift and shift market for Oracle could be. This could include a fair number of existing Oracle customers with Oracle EBS, PeopleSoft, JDEdwards and other product lines. A recent Oracle fact sheet pegs their application customer count at 110,000. That segment alone could keep them busy for the foreseeable future.”
+Everyone had something to say about platforms and platform-as-a-service (PaaS) in 2017. Oracle had me out for a briefing re: their PaaS, Infrastructure-as-a-Service and cloud-in-a-box offerings. It was an impressive toolset and showed their moxie in going after AWS. I must confess it was a different vibe hearing Oracle target someone other than Workday for a change.
+Anaplan had an interesting platform story to tell as well this year.
+“Platform conflicts will certainly occur in the market. Prospective customers who also have Salesforce may have Force.com. ServiceNow users will wonder why they need ServiceNow’s platform and Anaplan’s, too. These platform discussions could slow the sales process and start the kinds of religious wars that have plagued mankind for millennia.” 
+Here are some of the noteworthy stories:
+
+Oracle, PaaS and IaaS
+Anaplan and the vertical platform
+
+10. And the award goes to….
+One of my pieces this year won an award for best ERP article. I got the gold for a piece on Aera and how it foretells a new wave of ERP technology. Before you accuse me of bragging, let me say this: old transaction based, limited data model, pre-Internet, pre-Internet of Things, etc. solutions are just not relevant anymore. Businesses need something that was designed for businesses other than one of those 1950’s Industrial Age firms we read about in History books.
+The Aera story is one to re-read. You’ll find it here.
+Final word
+2017 leaves me bittersweet. While some things clearly shone, others remained doggedly unchanged or ugly. For example, real evolution in Industrial IoT applications was non-existent. While we got tons of announcements, vaporware, and prototype demos, there were almost no production solutions for businesses to take advantage of. That has to change in 2018.
+Vendor behavior was all over the map this year with some vendors suing their own customers and others asking for obscene price increases when initial cloud subscriptions expired. We didn’t see a lot of white-hat good-guys/gals out there. As one client told me during a recent cloud renewal negotiation “Wow, I didn’t realize how ugly these things are!” Amen!
+In 2017, I wrote a manuscript for a digital transformation book. I interviewed lots of CXOs and their thoughts on ERP vendors and vendor leadership were rarely complimentary. 2017 was NOT the year of love for ERP vendors and I’m not sure we’ll see much different next year. A wake-up call is coming.
+Image credit - © Tom Wang - Fotolia.comDisclosure - Workday, Plex, NetSuite-Oracle and Oracle are premier partners at the time of writing.Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCollaboration sharing and digital productivityHCM and the digital future of work 

@@ -1,0 +1,45 @@
+
+Email is not dead. It’s not even close. That’s the first insight from Adobe’s 2018 Consumer Email Survey. What the survey also revealed, however, is that other channels, like instant messaging, phone, face-to-face, video conferencing and others, are increasing in importance.
+So yes, you do need a good email strategy, but you also need to improve your multi-channel engagement approach.
+Matt Rawding, product marketing manager for Adobe Campaign, took me through some of the survey findings, and then filled me on some Campaign product updates, plus a couple of things happening in the Adobe Innovation Lab.
+Email remains the top engagement channel
+According to Rawding, 67% of Adobe customers use three to four channels when engaging with customers. But the top channel continues to be the wonderful email that we all love and hate (and at the same time).
+The Adobe survey found that, on average, respondents spent 2.5 hours a day checking their personal email (not work email – that number would rise significantly). That’s a 17% increase over last year’s survey results. Nine percent are checking personal email at work and less than 5% disconnect from their email during vacations (so I don’t feel quite so bad now).
+I think you’ll get a kick out of these number though – I wonder how many of you would relate to checking work email:
+
+28% in the bathroom
+30% while in bed
+31% while on the phone
+22% while walking
+17% while at a meal with others (my sister snapped at me for that one once).
+
+Note: This is work email, the percentages for checking personal email is even higher:
+
+(from 2018 Adobe Consumer Email Survey)
+That’s personal email – what about work email? My first thought when I saw the numbers of people who checked work email in bed and first thing in the morning is that Ariana Huffington would be mortified. (She would like me though – that’s a habit I have managed to break!).
+Workplace email is something you can’t get away from. The survey does show that it’s not necessarily the only channel that’s important these days. Face-to-face meetings are tied with email as the preferred method of communication at work (31%). Phone (16%) and instant messaging (11%) come next.
+Here’s my view on why face-to-face is becoming equally important: you can read way too much into an email based on how it’s written. I believe email, while fast and effective, can be one of the worst methods of communication in business. Language is subjective, and we are usually in too much of a rush when writing an email to think about “how” we are writing it. It’s better to have a face-to-face discussion, whether it’s a positive or negative talk. Email can then be a follow-up to the discussion.
+Oh, but never write an email that starts with “…not sure if you saw my last email..” Apparently, people hate that. So be patient, even if you have to wait a year to hear back about a simple question that you need an answer to in the next two hours that somehow got buried in the hundreds of emails that your [boss, co-worker, HR rep], received that day (or maybe she just ignored it because you need to be more proactive and self-reliant).
+Using email to market to consumers
+We like our email; it’s still our preference for brand communications. But our favoritism towards it is slowly decreasing in favor of channels like direct mail, instant messaging, mobile apps, social media, SMS, phone calls and chatbots.
+How companies use email though needs to change. Consumers aren’t interested in your promotions as much as they are in getting useful information they can use. They also want you to improve content personalization and use more engaging content – like videos and images:
+
+(from 2018 Adobe Consumer Email Survey)
+Even on a smartphone, consumers want more video and less text. But they also don’t want to wait for images to load and above all, they don’t want to scroll endlessly.
+If you thought making sure your email was responsive/mobile friendly was hard enough, it’s only getting harder.
+Adobe Campaign updates that improve the way you send emails
+The publication of the email survey comes alongside some updates to Adobe Campaign – all-new capabilities designed to improve how you create and send emails. A quick look at what’s new:
+
+A new drag and drop email designer. Create emails from scratch (you had to work with templates before and HTML). You can save fragments (content blocks) to reuse across emails. The email designer is also connected to the Creative Cloud and Experience Manager, allowing you to pull in assets. When you add an image to your email, you can edit it using Photoshop directly in the Designer (no Creative Cloud subscription required). Integration with Dropbox is also coming in beta later this year.
+Updates to email reporting. Add custom reporting dimensions to slice and dice your data to help you understand what’s working and what’s not. You can also email reports from within the tool either one-time or on a scheduled basis.
+Multilingual push messaging. Create, segment and send personalized messages by language. You can create your language translations in an Excel spreadsheet and upload it, with all the translations filled automatically. And, now you can report on language variations as well.
+Improved scalability and deliverability. Emails are sent faster and with better deliverability rates. Adobe has worked with the MTA technology to enable you to adapt delivery settings in real-time (so if that one ISP is suddenly super slow, you can turn it off and shift sending to another ISP). Rawding gave improvement stats that ran from 50% to over 200% improvement in sending email faster and decreasing bounce rates.
+
+Rawding also mentioned a couple of innovations currently being worked on in the Adobe Research Lab. They are trying to predict the best time to send emails to an individual based not on aggregate email send data, but individual usage data (or that of look-a-like profiles). Adobe Sensei is at work here. For example, Rawding said you can pick a start and end date for your email and identify the audience to send the email to; then the system will determine the best time to email each individual. This actually sounded familiar – Kahuna does something similar.
+The research lab team is also looking at intelligently sending emails based on an individual’s engagement. They are looking at how long an email sits in your inbox before you open it. You can then define segments and change the email experience using this data.
+Of course, Rawding noted that these innovations might never actually make it to Campaign, but the idea of how they can improve email experiences is enticing.
+My take
+I hate email. But I love email. But, I’m getting used to Slack and messaging on my iPhone. You can’t write long messages – you have to get to the point quicker, which I feel is more productive at work. And I do like the messages brands send me via SMS – I read those much faster than the brand emails sitting in my inbox.
+I spent two hours cleaning out my inboxes this past weekend (I have three – two for work, and one for work/personal). It was mostly a delete job, but I did read some – the ones that offer me information and insights – and the ones with great images.
+Yeah, email isn’t dead. But it’s also not the only way to reach your customers these days – so you need to have a better plan.
+Image credit - Feature image - Success concept © denisismagilov - Fotolia.comDisclosure - Diginomica has no financial ties to Adobe.Read more on: Content marketingCRM and customer experienceDigital and content marketingMobileUX and application design 

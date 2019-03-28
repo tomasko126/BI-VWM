@@ -1,0 +1,64 @@
+
+Paul Ovigele is on a mission: change SAP consulting. And: get answers to customers in a faster/better way. His company, ERPfixers, is hardly the first to try it.
+Many entrepreneurial ships have crashed upon the rocks of entrenched consulting interests, including wreckage from my own attempt in the late 1990s. It’s a dilemma that resonates far beyond SAP.
+The problem is simple, but brutally hard to solve:
+
+Customers overpay for ERP consultants due to the issue of excessive “layers” between the company and the end consultant.
+Historically, labor costs of ERP projects far exceed what they should, resulting in cost overruns and, in my opinion, contributing to a significant undertow of failed projects.
+The hiring of independent consultants and specialized boutiques – at a fair price – is an uphill battle, as a “short list” of approved vendors (usually) controls project access, forcing consultants to go through one or more “pass through” agencies that are notorious for marking up rates far beyond the value they deliver passing the paper. (Depressing that nothing has changed since my roundtable podcast on changing the future of SAP consulting from 2010, except two of the three companies are now out of business or have abandoned their models, which included cool concepts like reverse auctions).
+This makes it harder for companies to hire independent consultants that are big assets to better project outcomes.
+
+SaaS hasn’t made the problem go away
+SaaS software has changed some of this for the better. In the world of cloud ERP/CRM/HCM, customers have no tolerance for the 1:10 consulting ratios of “legacy ERP.”  Depending on the size of the company, 1:1 is the expectation, perhaps 1:5 max on large, very complex SaaS projects. (Check my piece, The pitfalls of becoming an HCM SaaS consultant, for more on the difference in cloud consulting models).
+But for many initiatives – including the many ERP projects still on-premises – the problem remains. In the 1990s, my team’s solution was to build a marketplace of consultants who could be hired directly, with only a $10 per hour markup for the customer. Since then, many other “let’s reform consulting!” marketplaces have come and gone, leaving a trail of hopeful and then disillusioned consultants behind them.
+Ovigele has taken this a lot further with ERPfixers – but he’s also created a model that can co-exist. His adoption rates are far better than I expected (more on that shortly). ERPfixers is redefining ERP consulting in another way: as an on-demand scenario, not (necessarily) as a traditional, long-term engagement. In many cases, it’s as simple as a burning question.
+How do SAP customers get their questions answered?
+Ovigele, who is a presenter at the annual SAP Controlling conference put on by ERP Corp, did a webinar on ERPFixers for SAP controllers. He opened the webinar by relaying stats on the size of the SAP ecosystem and the high percentage of labor costs tied to SAP projects – perhaps as high as 70 percent of project costs. Those stats aren’t verifiable by me, but Ovigele went on to say:
+Even when I look at my current customers and potential customers, when they tell you about how much they’re spending, you will see that most of it is on the expertise: managing, supporting, monitoring and consulting on SAP software as opposed to the actual licenses.
+With so much investment going into consulting, how do companies get their SAP questions answered and enhance skills? Ovigele says that hasn’t changed much:
+
+Get answers in SAP forums (Google it)
+Hire a recruitment agency (usually for full-time hires)
+Engage a consultancy
+Train in-house staff, either online or at workshops
+
+One challenge to conquer – validating expertise
+Ovigele brings up another problem: quality control issues with answers on SAP forums. Quick, authoritative answers are hard to come by:
+There’s a lack of flexibility for quick solutions. If you want an expert, can you easily say, “Hey, I’ve got this question, give me this answer”?
+He believes the barriers of traditional consulting models cause an “uneven distribution of knowledge,” with bottlenecks galore. ERPfixers aims to add a whole new option. Two trends fuel ERPfixers:
+
+The US Bureau of Labor Statistics projects that by 2019, approximately a quarter of the entire US workforce will be independent workers.
+The so-called “sharing economy” is also in high growth mode. The SAP Center for Business Insight estimates that “the sharing economy will grow 3,000% between 2015 and 2030.”
+
+Ovigele’s research convinced him that shifts like mobile tech and services-over-ownership could lead to a new SAP skills model:
+What is the sharing economy is an economic model that is based on sharing underutilized assets from spaces to skills to things for monetary or non-monetary benefits. It’s largely focused on peer-to-peer marketplaces… I have brought this to the SAP ecosystem.
+So how does it work?
+
+A customer posts a request.
+The request is routed to the experts in that module or submodule.
+They respond to the customer.
+“If you’re happy with what they’ve done, you review them.”
+
+Ovigele told me they are now up to 3,600 registered SAP experts, with 300 customers:
+That matches my planned “expert-to-customer” ratio of 10:1. That way, when a customer posts a request on the platform, there will be sufficient resources to assist them.
+ERPfixers works on a credits-for-answers system. When a customer posts a question for “fixers,” they don’t pay anything. But if they like the initial answer, they pay credits for the equivalent of the hours they budgeted for the job – one hour per credit:
+The credit is only used up when you’re satisfied and you’ve marked the request as fixed.
+Each request has a deadline. For every hour allocated, there is a twelve hour timeframe for the fixer to respond (the customer can extend that deadline).
+The biggest objection Ovigele has run into? Validating the “fixers.” He gave a very honest answer during the webinar:
+There is a certain level of mistrust in the industry about getting the wrong type of consultant. It’s one of the things that we don’t have an immediate answer to. We are trying our best from an IT point of view, from a software point of view, to make sure you’re getting the right quality. It’s very hard, because we could say that, “Yeah, this person has a great Linkedin profile, and  their resume looks great.” But it is still possible for you to have a bad experience with them.
+The quality of peer review systems gets better over time:
+The more people use the platform, the more ratings or reviews you get, [it’s just like] Uber and Airbnb – it’s the peer-based review that really validates the experts.
+In his most recent email, Ovigele says they are pushing ahead with more expert validation:
+We are still in the process of validating the experts that we have on the platform to make sure that they meet the requisite quality standards. We do an upfront verification when they sign up, but we are also reviewing any customer reviews/comments to make sure that quality control is in place.
+My take
+ERPfixers has hurdles to overcome. An alliance with ASUG, SAP’s North American User Group, has helped to build credibility in the user base. Having 300 customers involved is big, because too often getting end customers to sign up for these services is the impediment. I’d like to know more about whether consultants get hired off ERPfixers for longer gigs, and if so, if the same problems with “layers” emerges again.
+Ovigele told me there is demand for a new ERPfixers offering that provides a team of experts to a customer. If that picks up, it would make the model more disruptive. If this model proves out, there’s no reason to limit it to SAP in the long run.
+A ratings system for ERP consultants is sorely needed; attempts to pull that off have been unsuccessful. If ERPfixers can help fill that gap, it will serve a need unto itself. I’d like to find out more about how ERPfixers handles negative reviews and feedback, and if there is a process for removing questionable consultants from the platform.
+For Ovigele, it’s one step at a time:
+I don’t think that this means that every SAP customer should now use ERPfixers or a model like this for all their consulting issues… You should still have an internal IT department. You should still have your consulting firms or recruitment agencies if you need them. I still think there’s a space for quality expertise where you expect the expert to give you a solution. Not just to give you a suggestion, but to give you a solution – and they can do it in an almost real-time fashion.
+I’ll look to do a podcast with Ovigele later this year that digs into these issues.
+End note: for related pieces, check my diginomica series, Why independent consultants matter to enterprise projects. Updated 10am PT August 17 with expanded conclusion section.
+
+Update: In July 2016, SAP Mentor Jelena Perfiljeva posted a review of ERPFixers based on an ASUG webcast. Another review, based on an interview with Ovigele, was posted on September 2016 on IT toolbox.
+ 
+Image credit - Screen shot from ERPfixers webinar.Disclosure - Diginomica has no financial ties to ERPfixers. I met Paul Ovigele of ERPfixers at the SAP Controlling Conference, of which I am a founding (paid) member of the conference team. The conference takes place each September in San Diego. SAP is a diginomica premier partner. Read more on: Digital skills and trainingProfessional servicesThe new professional and IT as a serviceUX and application design 

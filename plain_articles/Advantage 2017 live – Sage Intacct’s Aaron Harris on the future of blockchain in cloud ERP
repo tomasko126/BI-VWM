@@ -1,0 +1,32 @@
+
+As I belched in last week’s hits and misses, my bloated inbox has seen a resurgence of “blockchain changes everything” hyperbole from PR outlets, usually without real world use cases to back it up (but game changing things are coming!).
+Despite the PR overdose, I still believe blockchain has non-bitcoin use cases that will prove relevant to the enterprise. It’s always good to hear views that land between blockchain-is-just-a-slow-database cynicism and decentralized cryptocurrency utopianism.
+Blockchain’s enterprise potential
+At Sage Intacct Advantage 2017, a media/analyst session with Sage Intacct’s executive team sparked some blockchain talk. No sooner had Aaron Harris, SVP and Head of Engineering and Technology finished detailing Intacct’s AI and machine learning plans, analysts were in his grill (hat tip Laurie McCabe) on blockchain tech. “Aaron, what are you guys doing, or thinking about, in terms of blockchain?” McCabe not-so-innocently asked. Harris responded:
+Okay, that’s a broad, broad topic. I’ll give you a list of things that I believe about blockchain. I believe that blockchain is going to become a critical part of many of what I call sub-ledgers. Thinks about supply chain. Blockchain has obvious benefits to supply chain. Blockchain has obvious benefits to financial markets.
+Even things like subscription businesses with consumers. There’s high incidents and low volatility on what their customers are buying. So, blockchain makes tremendous sense. It’s instant reconciliation, block transactions; it’s immutable, so its easier to audit.
+Harris is tracking smart contracts:
+I’m particularly intrigued by the notion of smart contracts. If you’re familiar with Ethereum – Ethereum is the number two virtual currency but it went from a market cap of like 100 million this year to a market cap of like 25 billion.
+Anyway, the promise of Ethereum is that they’re actually building a blockchain that you can run applications on. So, this is the first instance of somebody treating blockchain as a general purpose technology, and what they are doing to fund you running that application on their blockchain is they’re selling you Ether coins, right? By virtue of investing in the blockchain, you are making it more successful – and one of the applications that they’re pushing is the smart contract. [Editor’s note: see Ether prices Hold Above $300 as Fork Fears Fade]
+On smart contracts – and Intacct’s bitcoin enablement
+Not everyone was familiar with smart contracts:
+The idea of a smart contract is that in a two party transaction, there might be multiple events that happen that trigger actions. If you think about it in terms of accounting, it might be that you sell a software contract, but the license doesn’t actually get enabled until money changes hands.
+Revenue recognition might be a smart contracts use case:
+You might track additional events in a smart contract to trigger revenue recognition for example. I think smart contracts on the blockchain are going to be huge.
+Subledgers are one thing. But when it comes to replacing the general ledger, that’s where Harris hops off:
+I, personally, don’t think that blockchain is going to replace the double-entry general ledger. I just don’t see that happening.
+Harris sees another challenge ahead for Sage Intacct – integrating external blockchains:
+We are going to have to integrate the blockchains. That’s just understood. If we have somebody where supply chain is a big part of their business, we’re going to have to integrate to blockchain that feeds the supply chain transactions.
+Enterprisey types are always pushing past crypto-currency in search of new blockchain scenarios, but Harris says that’s a mistake:
+Oviously, virtual currencies are driven by blockchains. My personal view is that while most of what’s going on right now is speculation, and people mining for wealth, there are real advantages to virtual currencies.
+Sage Intacct has already enabled that:
+They’re going to become relevant, so we already built out our multicurrency capabilities. We’re sort of agnostic to whether it’s a government-backed currency or whether it’s a blockchain backed currency. We don’t really care. If we can get access to the exchange information for it, it works in the system.
+So that means Intacct supports the BTC (bitcoin exchange)?
+We do. You can choose that currency.
+Amidst analyst chuckles comes Harris’ sensible disclaimer:
+That’s risky. (laughter). I’m not sure I would advise it, but you can use it.
+My take
+At the moment Hyperledger and Ethereum seem to be the most promising enterprise blockchain platforms, but that could change again, with Ethereum still emerging from an important coding fork.
+As our fintech contributor Angelica Mari said in The dazzling world of blockchain is fizzling among financial services organizations, there are several fintech use cases that enterprises are kicking tires on. But as I’ve griped noted, as long as we’re stuck in pilot project mode, momentum will be sluggish. Blockchain skills shortages are another barrier Mari cites.
+My current views aren’t too different than Harris’. I find his middle ground sensible. There are tons of brilliant people involved in edgy blockchain startups and the enterprise involvement in Hyperledger and Ethereum is well beyond dabbling. For now, Sage Intacct won’t lose any deals due to lack of crypto-currency support. The rest will have to wait for a future event. This time around, AI was front and center.
+Image credit - Businessman in blockchain cryptocurrency concept © Elnur - Fotolia.comDisclosure - Sage Intacct paid the bulk of my expenses to attend Sage Intacct Advantage 2017. Read more on: Cloud ERP financials and supply chain 

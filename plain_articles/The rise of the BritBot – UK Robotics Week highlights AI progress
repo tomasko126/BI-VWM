@@ -1,0 +1,57 @@
+
+Robotics and autonomous systems (RAS) form one of the ‘Eight Great Technologies’ that Britain believes are vital to its future prosperity, and UK Robotics Week throws an annual spotlight on the country’s ambitions to lead the field, inspiring pupils, undergraduates, and professionals alike.
+The events are hosted by the UK-RAS Network, an action group of academics run by the Engineering and Physical Sciences Research Council (EPSRC), the UK’s main agency for funding research in these areas. Robotics Week 2017 ended on 30 June with a showcase that also launched an independent report on the quality, reach, and impact of the EPSRC’s work.
+So are the robots rising in the Brexit gloom?
+The panel that produced the report – chaired by Prof. David Hogg of the University of Leeds, with senior representatives from Dyson, Harvard University, UC San Diego, UCL, and King’s College London, among others – concluded that while there is world-class research in the UK, there are greater opportunities to collaborate across disciplines, such as robotics, machine learning, and computer vision, and to identify critical investment gaps.
+One way of doing this would be to establish a shared UK infrastructure for RAS research, says their report. It urges private companies to provide universities with experimental facilities, and information-centric organisations such as Deep Mind and Amazon to place their data in the public domain, complementing the UK’s wealth of anonymised data sets. Industry-specific data will be a huge growth market over the next 5-10 years.
+The Neverendum
+But another of the report’s recommendations might prove to be more challenging, thanks to Brexit rearing its ugly head once again:
+The RAS research community and EPSRC should work to sustain and develop international research links and joint funding opportunities, both within Europe and beyond.
+What the EPSRC calls “a risk of a reduction in funding for UK institutions from the EU” is a certainty if Brexit goes ahead, and it may affect inward investment from elsewhere, too. That said, a number of technology companies, including Apple and Google, have significantly increased their presence in the UK since the referendum.
+There are other signs of hope. The UK may benefit from a ‘Trump bump’ in robotics research – at least, according to one delegate. Pietro Valdastri, Professor and Chair in RAS at the University of Leeds, told diginomica how Trump’s ‘America first’ policy is damaging international collaboration within the US, so he has come to the UK to seek a more welcoming community. Other experts may follow as Trump’s disinterest in science and the environment takes its toll.
+The EPSRC notes that while there will always be a need for fundamental UK research into robots – which another delegate described as “the arms, legs, and eyes of the internet” – there is:
+an opportunity for a greater proportion of the overall portfolio to be linked to societal needs and industry challenges.
+In other words, academic research into RAS sometimes takes places in an ethical, societal, and industrial vacuum and gives too little consideration to the technologies’ real-world purpose. Backroom boffins must do more to translate their efforts into applications that benefit society as a whole.
+Speaking at the event, Dr Lester Russell, Senior Director EMEA Scale Team at Intel, urged the RAS community to consider the ways in which “the black box” of AI can be used for social good:
+You do need the people and the process and the technology to each be set to ‘one’, otherwise the output will be zero. If either the people or the process is set to zero, all the technology in the world will make zero difference.
+He added that by considering the ethical and societal impacts at the design stage, the future application of robots, AI, and autonomous systems will be “less about replacing workers, and more about how we segment our work and create new jobs”.
+The showcase also saw the launch of four UK-RAS white papers on: the development of AI and machine learning; RAS for resilient infrastructures; robotics in extreme or hazardous environments; and robotics in social/health care.
+In Britain, the last two are particularly important.
+Extreme robotics
+The UK will spend £2bn every year for the next 100 years cleaning up its nuclear waste – principally that left behind by the arms race, rather than by nuclear power stations. So RAS represents a £200 billion opportunity in one industry alone.
+Nuclear fusion is another robotics hotspot – in every sense – but extreme temperatures, electronics-killing radiation, and residual magnetic fields currently make it almost as hazardous to robots as to human beings. So there are enormous opportunities to develop haptics, AI, and autonomous/remote systems to work in the power stations of the future – what RAS-UK calls “a race to zero” in terms of human intervention.
+With climate change, the global need for early warning technologies and more resilient critical systems is just as clear. According to RAS-UK, 263 million people worldwide were affected by disasters in 2010 – 110 million more than in 2004, the year of the Asian tsunami.
+The UK already has a strong network of universities that are conducting world-class research into sensors, microelectromechanical systems (MEMS), batteries, and AI in these fields, along with leading institutes, such as the National Centre for Atmospheric Science (NCAS) and the National Oceanographic Centre (NOC), which offer global perspectives on their application.
+Search and rescue bots, smart oil fields, and the remote maintenance of offshore wind farms are further areas in which the UK is conducting world-beating research.
+The paper makes a number of recommendations on how the UK can capitalise on its extreme- environments expertise. These include the need for:
+
+A fast track to market for RAS technologies.
+A more permissive stance on aerial robots.
+Light-touch regulation.
+Greater emphasis on RAS at the Department of Business, Energy and Industrial Strategy (BEIS) .
+Stronger connections between innovative SMEs and established bodies in the defence and aerospace sectors.
+Government agency-led robotics trials.
+More streamlined access to national facilities.
+
+The white paper concludes that RAS technology has reached a tipping point in these areas, with “massive commercial opportunities already being demonstrated”. It adds:
+Careful regulation and strategic stimulus is required to ensure that the UK has a significant impact in the use of, as well as the design, development, and manufacture of, RAS services and solutions.
+The healthcare conundrum
+Robotics will also have a significant impact on social/health care worldwide, as ageing populations create unprecedented societal challenges.
+The need for technology assistance is real. By 2020 there will 12 million people over the age of 65 in the UK, and by 2035 that figure will have increased to 17 million. There are too few qualified nurses and care professionals already, together with high staff churn, and yet public spending on social care is falling in real terms.
+In England and Wales, 2015-16 expenditure stood at £8.34 billion, only fractionally more than the £8.3 billion spent a decade earlier. Factor in the effects of inflation and an increase of nearly two million in the 65+ population during that timeframe, and this represents a per-capita reduction in available funds of more than one-third, according to RAS-UK figures.
+Fortunately, the UK has a number of world-leading university research projects (at Bristol, Hertfordshire, Sheffield, Edinburgh, and elsewhere) exploring how RAS technologies can help ageing, sick, or disabled people to live more independent lives: a programme of assistive and rehabilitative care rather than the ‘dehumanised’ system that some have predicted.
+According to RAS-UK, these technologies can help address physical, cognitive, and companionship challenges within ageing populations, and provide smarter home, residential, and hospital environments, tele-health systems, and more. For people with disabilities, driverless vehicles could be a transformative technology.
+The white paper counters the widely held belief that RAS in a social/health care environment will mainly be about replacing human workers:
+First, as technologists who are trying to understand the challenge of care, we are very aware of the level of human skill involved in everyday care activities […] RAS can be developed to assist with these activities, but they will not match or replace the ability of human carers in the near future.
+Second, the interpersonal aspects of care, such as empathy and understanding, are uniquely human. AI personal assistants and social robots may be able to provide a form of synthetic companionship that people may find engaging, but this will never replace human companionship.
+The paper recommends that RAS development in these fields should focus on relieving the burden of repetitive, strenuous work so that human carers can handle the professional, human-to-human aspects of care. It adds that robotics will have an important role to play in rehabilitation and the delivery of medical assistance in the home, with systems that allow people to stay in their own homes for longer.
+My take
+Excellent progress for the UK, and positive goals for researchers and suppliers. So let’s hope that customers don’t only see the opportunity to slash costs, rather than augment human abilities.
+But a lot of buy-side analyst and think tank research on robotics, automation, and AI focuses on the potential to remove human workers rather than to assist humans, improve society, or complement skills.
+Take the recent Reform group report on robotics and automation in the public sector, which saw opportunities to remove 250,000 staff, including teachers and nurses, and create an automated environment in which human workers compete via reverse auction for ad hoc work.
+Like all of the UK Robotics Week publications, the social/health care white paper is a clarion call for UK ambition and talent. It concludes that the UK’s “innovation culture”, combined with its “thriving academic base and a burgeoning SME sector”, proves that Britain can be a world leader in RAS over the next quarter century.
+However, today’s Brexit landscape of political instability and regulatory uncertainty, together with a lack of central investment in the national infrastructure and secondary education, mean that the UK has a fight on its hands to avoid squandering its own potential – and to persuade buyers not to junk real benefits in favour of easy, cheap answers.
+ 
+
+ 
+Image credit - pinterestRead more on: IoT robotics and AIRobotics 

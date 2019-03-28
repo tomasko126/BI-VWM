@@ -1,0 +1,64 @@
+
+The Government Digital Service (GDS) has laid out a new vision for the GOV.UK platform, stating
+
+that whilst it has become an essential part of the UK’s national infrastructure, it is far from being in the best place it could be.
+GOV.UK was GDS’s first project and focused on consolidating the dated Directgov and Business Link websites, whilst also folding in hundreds of government domains into one consistent, easy to use website.
+It was launched back in October 2012 following a call from Baronness Lane Fox to make government services easier to find and use online, whilst also reducing costs for the taxpayer. It was also the first opportunity GDS had to prove that working in an agile way, in the open, using open source code was okay for government and was scalable.
+Senior officials in government now joke about the fact that a website has allowed GDS to get buy-in from the Treasury and elsewhere to deliver on bigger ambitions, such as Government-as-a-Platform.
+However, GOV.UK’s product lead Neil Williams has laid out a ‘rebooted vision’ for the platform, having consulted with 150 people inside and outside government between November 2015 and February 2016. He said:
+While GOV.UK has become the best place to find most government services and information, and is now an essential part of UK national infrastructure, it’s far from the best place it can be. There’s much more to do to bring government’s web estate together, merge content and transactions to form coherent services, and curate them to meet users’ real needs.
+GOV.UK must be a constant revolution. We need an equally clear direction for everyone whose work contributes to its ongoing development.
+Williams said that the vision for GOV.UK that he has laid out this week is not a plan for delivery, but is rather an ‘ideal future’ that should be iterated towards.
+As a side note, although people often refer to GOV.UK as ‘just a publishing platform’ for the government, it’s actually a bit more critical than that. If you consider that GOV.UK is the first point of contact for all citizens interacting with digital public services, it’s easy to see why this is important to get right.
+ GDS’s new vision for GOV.UK is as follows (I’ve pulled the following directly from Williams’ blog, which you can read in full here):
+1. GOV.UK will provide coherent services that are easy to discover and use
+For example, it will:
+
+meet every valid user need, from the most common to the most specialist
+bring content, transactions and support together as coherent services
+make services easy to find through navigation, search and notifications
+make information clear, concise and simple at every level of detail
+remove the need to know how the state works, not just central government
+
+2. GOV.UK will make government participative, open and accountable
+For example, it will:
+
+make government structure, leadership and policy clear
+make it easy to see what government is doing, saying and changing over time
+make it easy to see evidence for decisions, and evidence of outcomes
+help users feed back on and influence government plans
+
+3. GOV.UK will help government communicate with authority and trust
+For example, it will:
+
+give users reassuring, definitive answers in a single place
+provide information people need during emergencies and major events
+convey the government’s unmediated position, domestically and internationally
+support clear and effective announcements and campaigns
+
+4. GOV.UK will make great digital and user-centred publishing easy
+For example, it will:
+
+make high quality digital publishing easy, fast and cheap
+provide HTML formats so good PDFs become the exception
+make it easy to base content decisions on evidence of need
+show how well needs are being met, and highlight failure
+make it easy to test and iterate different approaches
+
+5. GOV.UK will make government content easy to re-use and build on
+For example, it will:
+
+provide government content and data in stable, machine-readable formats
+provide digital representations of real world things, backed by registers
+offer ways for government (and suppliers) to share our publishing service
+fully open-source GOV.UK’s code for others to run and contribute to
+
+Williams said:
+This vision will guide our plans as GOV.UK develops. Big changes will be taken forward as projects, and we’ll iterate towards these statements in small ways all the time.
+My take
+The vision above takes into account a lot of stuff that GOV.UK doesn’t do quite as well as it should. For example, there are still plenty of PDFs found on the site, the ‘open’ data available isn’t the most useful and from what I can tell there is currently little use of tools like notifications. The search functionality could also do with some improvement.
+A refreshed vision was necessary. No-one can deny that GOV.UK is more user-friendly than the hundreds of disparate websites that came before it. However, it does get criticised for not being as useful for ‘power users’ that now struggle to find the content they need. I hope that’s considered too.
+Watch this space, there should be plenty of stuff developing throughout the year. As the interface between users and government, getting this right is critical.
+
+Read more on: Digital government and public services
+

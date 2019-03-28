@@ -1,0 +1,62 @@
+
+Sephora’s Bouvron at Domopalooza 2017
+As I wrote in my Domopalooza day one review, the overriding theme is that BI is changing. No – BI must change.
+Businesses won’t tolerate sluggish, “file a report request with IT” BI anymore.
+No waiting for the next year to make adjustments – today’s retail stakes are too high. Real time Black Friday adjustments were a theme in Target’s talk as well (Changing the data conversation at Target).
+
+Sephora talking about huge BI shift from emailing spreadsheets around to making real time Black Friday week adjustments with BI data #dp17
+— Jon Reed (@jonerp) March 23, 2017
+The good news for customers: a convergence of cloud (elastic scale), UX, mobile, and collaboration tools means the tech to deliver on real-time BI, at last, is no longer a pipe dream – even if the predictive/AI aspects are not yet mature.
+Pretty visualizations mean nothing without adoption
+The bad news: BI teams must sort through hyperbolic/frustratingly similar messaging from BI vendors about “empowering business users” to find something that works for them. And even if a modern tool is selected, business users won’t necessarily stampede to embrace it. Understandably so – they’ve been burned enough by false BI promises of the past. Pretty visualizations no one looks at or understands mean nothing.
+Obviously, Domo sees itself as leading the charge towards modern BI. In truth, they are tapping into jugular trends far beyond one vendor. The enterprise is getting smarter about avoiding multi-year projects with bloated scope that accumulate technical debt. And: we’ve learned enough about digital/mobile consumers to realize that adoption/UX is everything when it comes to successful projects versus shelfware debacles.
+The over flogged “data-driven business” is actually creeping towards a viable idea – though huge pitfalls in governance, security, and change management remain.
+Making the modern BI case – Sephora’s story
+So how does a vendor like Domo make their modern BI case? By letting customers do the talking for them. Domo CEO Josh James (and other Domo executives) conducted detailed interviews on the keynote stage. One standout was a chat with Sephora’s Christel Bouvron, Head of Business Intelligence at Sephora Southeast Asia. Sephora is one of the world’s largest retailers for makeup and skincare, with nearly three hundred brands – including, as I learned from Bouvron, a successful men’s skincare line, a business I am not expert in.
+When she came on board half a year ago, Bouvron ran into classic BI headaches. Suddenly she was in the deep end of the pool, in a role the company had never had before. With Black Friday rushing towards them, their data strategy was, well, legacy. Given that Sephora prides itself prides itself on pushing the boundaries, something had to give. Bouvron:
+My role had never existed in the region or at Sephora before. It’s purpose was really to connect the dots across the company, one part of which is using data – but there’s a huge qualitative aspect to it. There were a lot of Excel files being sent around daily, weekly. It was very painful to watch.
+Bouvron went looking for a new BI platform:
+At my previous company, I had used a competitor of yours. I tried really hard to make that work. It wasn’t doing quite what we wanted.
+So Bouvron laid down the challenge:
+I had a meeting with at team from Domo and I told them: If you can build me something for Black Friday that lets me track our sales in real time, and also a bit of a deeper dive into what we’re selling, then we’ll start talking.
+Two weeks later:
+They knocked it out of the park. We were able to hook in our data sets really quickly. I had sketched out some charts of what I wanted. They didn’t do that, but what they did was even better. I really liked that it wasn’t simply what I was asking for – they were trying to get at the business problem, the outcomes we were trying to get from it, and think about the bigger picture.
+Putting Domo to the Black Friday test
+Black Friday was all hands on deck. Bouvron coordinated with team members and Domo support across locations via Buzz, Domo’s embedded collaboration.
+The business used it, they got their numbers every fifteen minutes. It was great. I think it’s a BI person’s dream. You prep for it, you build it and on the day itself it runs.
+It wasn’t all smooth sailing. With just a two week ramp-up, Bouvron hadn’t connected all their data sources into Domo yet, which impacted the inventory “cards” (views). That required some data hacking, but it paid off:
+That was really helpful for our performance marketing team. because as an item went out of stock, we did not want to advertise that on Facebook or on our programmatic channels.
+Being data-driven means agreeing upon – and measuring – only the right things
+Which brings us to culture change. The BI team needs to consult closely with the lines of business to identify the numbers metrics that are worth tracking:
+A lot of people ask for metrics or data and it’s not really what they need, or what they need to make a decision, or what’s accurate to tracking your performance on a regular basis… It’s about educating them in data, how it can help them, how they should think about it critically as it relates to their team.
+BI tools fall short if they measure the wrong things:
+On the one hand, it’s showing the actual results on Domo, but on the other hand it’s about getting them bought in, because otherwise I’d be measuring metrics that aren’t terribly relevant to their day to day.
+Bouvron’s team sat down with each department head to define their three key KPIs for the year. The rule was: no more than three. With these questions: “How does will this KPI contribute to Sephora’s overall revenues?” and “Beneath that, what are the levers of each?”
+For a retail business like Sephora’s, those levers for sales include traffic, conversion, and basket size. Beneath those levers, drill-down data was made available in Domo, all the way down details such as Instagram posts and likes. But always with the question in mind: how are these initiatives performing and impacting the company?
+Better data means (much) better management meetings. Bouvron:
+How we used to have our weekly management meetings was: people would come in and say, “Oh, I had a great week, we did X,Y and Z.” It sounds awesome, but you’re not really unearthing challenges in the business, or actions that the other teams or yourself can take away from that.
+With three hard-won KPI cards per team, the tone changed:
+They way we run our meetings now is when someone’s up, they’ve got their three cards. They talk about how each of their efforts has contributed to their KPIs and to our revenues. That’s made our senior management meetings results oriented, and a lot more data-driven. If someone says they had a great week, they’ve got to back that up with numbers, or at least a card – but also it helps them prioritize.
+The wrap – winning the business over takes time
+Modern BI is hard to pull off, but simple to explain. Business users want BI that is:
+
+in a visual form that’s intuitive for them
+that reflects metrics they feel ownership of
+and is powered by “single source of truth” data that’s pulled from disparate systems they could never compile in real time
+
+At Domopalooza, I heard plenty of stories from customers, on and off stage, who were knee deep in the challenge of winning business users over to a new way of working. A CIO at a bank I spoke with was going the route of Ben Schein at Target, starting small with Domo and winning users over gradually.
+Domopalooza keynote chat – Target
+On day one, Target’s Lisa Roath, Vice President of Merchandising Transformation Insights, brought business users’ attitudes into focus (see more in my day one review). Roath shared the shock business users felt when Schein’s team came back the exact same day with fresh data views (cards) that reflecting their feedback:
+
+I cannot emphasize enough how mind blowing that is. People can’t even get their heads around it. We’re used to putting stuff into a queue, and maybe we get an answer, maybe we don’t.
+
+Roath warned the audience: even if you impress business users with a fast turnaround, that’s just the beginning.
+
+Even after that group of fifteen users saw that these changes could be made in a day, I still don’t think that they internalized that that could be a normal thing. That this could actually be how we do business on a regular basis. It’s just so different. So don’t underestimate the amount of work that needs to be done to showcase people what the future could be.
+
+Roath had a pep talk for those in the audience who are up against “people who are stuck in their ways.”
+
+If you’re here, you probably are one of the people that gets it. That should be a really empowering thing, when it comes to your voice within your organization. You have this data and access to it that is meaningful to your leaders. Just go with that. You cannot be afraid to be the voice for it.
+
+Hopefully that’s a positive spark for others pushing to change their company’s approach to data.
+Image credit - Customer photos at Domopalooza by Jon ReedDisclosure - Domo paid the bulk of my expenses to attend Domopalooza 2017.Read more on: Analytics planning and data analysisDigital enterprise in the real worldRetail e-commerce and the omni-channelUse cases 

@@ -1,0 +1,51 @@
+
+“Data-driven culture” is a great phrase-dropper to toss around at event parties, but what does it really mean in action?
+At Tableau Conference 2017, I had the chance to put that question to Grace Preyapongpisan of Allrecipes. She also told me about her journey to scale dashboarding, and the bumps along the way.
+As the Vice President of Business Intelligence for Allrecipes, Preyapongpisan has a near-ideal job for a dedicated foodie (favorite food: Udon soup). Though she has an engineering/tech background, Preyapongpisan wanted a more user and business-oriented role, which is precisely her challenge at Allrecipes, which she joined in 2009.
+Allrecipes is the largest – but perhaps not the most famous – brand owned by Meredith. The Meredith female lifestyle brand includes such stalwarts as Martha Stewart and Better Homes and Gardens. Allrecipes has an interesting/geeky founding story of its own. Allrecipes’ taxonomy-obsessed architects wisely, or perhaps fortuitously, set the brand up well for today’s machine learning trends.
+Allrecipes’ advertiser-funded site runs at serious scale: 1.5 billion annual visits, making it a top media food brand worldwide. But for such a huge site, Preyapongpisan’s dashboard projects started small.
+Starting small with dashboards – Tableau at Allrecipe
+For a data junkie like Preyapongpisan, the scale of Allrecipes is a worthy pursuit:
+Once at Allrecipes, I was exposed to this really incredible database. The history of Allrecipes is it was founded by sociology students who wanted to set up a website to capture cookie recipes and begin to capture these family traditions around cookie recipes.
+The scope moved well beyond cookies, but the architecture held up:
+Because they were academics, they really took an academic approach to setting up this database. So much of the code that was developed, and so much of the infrastructure that was built 25 years ago is still in place.
+A fussy approach to content classification now pays off for analytics:
+They were really all about taxonomy and being able to classify the content and the data. What I’ll talk about in the presentation tomorrow is that this approach to content classification is something that has enabled a lot of the food-based trending and insights that were able to do at scale now.
+The proliferation of dashboards dates back to an early Allrecipes Tableau project in 2013. So what led Preyapongpisan’s team to try Tableau?
+It was a classic example of a lot of analysts doing manual data pulls, using Excel and not building anything that was repeatable or scalable. We needed to automate this reporting… Two years ago. we were in an environment where we were looking at data that was updated maybe monthly, at best weekly.
+Time for a change:
+We started off with ten Tableau desktop seats and ten server seats, so we started off pretty small. We spent probably six to eight months building reporting, and then realized very quickly, “Okay, we need to expand.”
+Expanding BI demand across the company
+Allrecipes was one of the first teams to centralize, and become a set of services for all Meredith organizations. Today, Preyapongpisan’s BI team supports 250 Tableau server users and about 60 desktop users.
+The growth of BI adoption has led to a surprising change: a less formal approach to BI. It pays off to become adept at “minimum viable BI.” Or, as Preyapongpisan put it:
+We have been so successful at building the demand for the tools. We’re at this really critical point now where we need to become a little bit more rogue, so what I am pushing the team to do is really be thinking about more rapid prototyping.
+Now, Preyapongpisan’s team needs to get dashboards out faster.
+We’ve got more people outside of the team across the entire organization with desktop seats. What we’re encouraging them to do is prototype very rapidly, and get visualizations in front of people as quickly as we can. We’re focusing a little less on rigor and perfection to really get to that speed to insight.
+It’s time to incorporate machine learning into the analytics picture:
+What we’re trying to figure out is how do we take twenty years of this and make that happen across these other brands very quickly. That’s where some of the buzzwords in terms of machine learning come in. [It’s a new twist] on a very classic problem: how to take a corpus and actually be able to classify it rapidly.
+Beyond a data-driven culture to… data-forward?
+Now, the demand for dashboards is coming from users, not from an IT or BI agenda. So how do you pull that off?
+We’ve talked for years about having a data-driven culture. Now I think we’re really looking at this as being a data-forward culture.
+Ahh, a new buzzword! So what is a “data-forward” culture?
+Preyapongpisan explained that reporting has always been in the descriptive realm. As in: evaluating business health. But now, it’s time to externalize those insights to clients and partners:
+I’ll talk about in the presentation tomorrow is that partners want the data, right? They want the learnings and the insight that come from that data, so being able to now utilize what we know about consumer patterns, particularly in food. Food is our strength, but we have a lot of insight when it comes to a lot of the other aspects of the home category and parenting category.
+We talked about insights Preyapongpisan has learned through dashboard building. An expected learning comes in the form of traffic peaks, with 4pm in the afternoon being the time when traffic spikes as visitors scramble for family dinner recipes. But what about surprises? Preyapongpisan told me that food demand can be a big indicator of weather events:
+We were starting to see chili recipes spike before we knew there was this huge ice storm moving through the northeast. It’s trends like that that are just so fascinating.
+That type of data could be shared with advertisers for campaigns and real-time ad targeting.
+The wrap – interactive dashboard data, and predictions for foodies
+The next step: interactive data. At first, Allrecipe’s stakeholders just wanted visuals, but now they are ready for a “highly interactive” tool where they can really dig in:
+They want to get at the data. They want to slice it and dice it, so we’re sort of now trying to evolve our implementation to be more on the interactive side.
+A hypothetical example: the desire to drill into a dessert category, and see the level of interest in desserts with a non-dairy-based milk that use fresh fruit as an ingredient.
+They want to be able to drill down and apply certain levels of granularity that we couldn’t anticipate on the front end. We couldn’t anticipate every single combination of classification they might want to look at.
+The BI team also plans to move into the so-called “predictive” space. That means turbo-charging content classification:
+That’s the key that unlocks the machine learning aspects, and some of the AI aspects. We worked a little bit with Amazon on the Alexa skill. The more that we’re able to tune the content classifications the better those kinds of AI products work.
+They are still in the early phase of automating such tagging, but it looks like the right mix will be automated content tagging with some human intervention where needed.
+Seeing the impact of data in corporate decisions is a huge step:
+We’re in a place where our stakeholders want to see very rapidly when they launch a change on the site how is that impacting the metrics.
+Oh, and for you foodies out there, Preyapongpisan wrapped our chat with a couple trending foods they are tracking (and content-testing on). It took Quinoa seven years to become a hipster food, so Allrecipes is trying to predict – and perhaps influence – the next one. Some candidates:
+
+Aquafaba – the liquid in a can of garbanzo beans (sometimes available separately as well). This can be used as an egg white in yummy vegan recipes.
+Harissa – a North African spice paste. “We think harissa’s going to be the next sriracha.”
+
+Okay, typing about food isn’t working anymore. Off to dinner for me.
+Image credit - Feature image - Woman having green vegetables thinking about cooking © Voyagerix - Fotolia.com. Photo of Preyapongpisan at Tableau Conference 2017 by Jon Reed. Disclosure - Tableau paid the bulk of my travel expenses to attend Tableau Conference 2017. Read more on: Analytics planning and data analysisDigital enterprise in the real worldUse cases 

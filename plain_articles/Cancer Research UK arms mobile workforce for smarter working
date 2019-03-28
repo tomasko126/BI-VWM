@@ -1,0 +1,25 @@
+
+This week, researchers in the UK announced that they have developed a new, improved method of diagnosing ovarian cancer, one of the hardest cancers to detect.
+According to their study, published in the Journal of Clinical Oncology, the new method is able to detect eight out of 10 women who have the disease – a big improvement on existing techniques – and may hold the key, at least in the long term, to establishing a nationwide ovarian cancer screening service.
+That’s just one example of the kind of pioneering work that charity Cancer Research UK supports. As Mick Briggs, its head of IT points out, forty years ago, only one in four cancer patients survived the disease. Today, that figure is two in four. And in the next 20 years, he says, Cancer Research UK aims to improve that rate to three in four survivors:
+Now, that’s a really simple statement of intent and we’re committed to that goal. But in IT terms, we’re very much aware that we’re really going to have to up our game to achieve it. We’re going to have to work harder and we’re going to have to work smarter. A big part of that is about investing in the right tools that people need to do the job.
+With that in mind, Cancer Research UK is working with Citrix to create an IT environment that will allow staff and fundraisers to access apps and data on any device.
+This is based on a number of different Citrix products: XenMobile for enterprise mobility management; ShareFile for enterprise file sync and sharing; productivity tools from the Worx Mobile Apps line; and application delivery controller, NetScaler.
+It builds on Cancer Research UK’s existing Citrix XenDesktop infrastructure, which was deployed in 2010 to reduce real-estate costs and create a ‘hot desk’ environment for all employees.
+Moving forward
+This next phase of the project, according to Briggs, will deliver a range of benefits, including:
+
+Simplified IT management: The combination of XenMobile and Xen Desktop gives Briggs and his team a secure, centrally managed infrastructure from which they can allow access to key apps and information from any device.
+Secure collaboration via mobile workspaces: For example, the committee members on which the charity relies for advice and guidance on grant allocations can access confidential files securely via Sharefile, instead of removable media and paper documents.
+Empowered fundraisers: Cancer Research UK fundraisers were previously restricted to print-outs of information when visiting benefactors and could only log donations once back at the charity’s premises. Now, they can access data securely on their tablets and smartphones.
+
+Chasing a cure
+According to Briggs,
+Goals like these really make sense for our organisation and are increasingly achievable, too. That’s the piece of the puzzle – identifying the right goals to pursue – that took us a little while to get right and it’s a journey that we’re still on. But I’m happy to say that we’ve made some important steps in the right direction.
+The interesting thing for us is that, as the organisation starts to use these tools, they’re seeing first-hand the value that the IT department is delivering. They’re saying to us, ‘I’d like to be using this kind of device’, and we’re telling them, ‘Well, go ahead. Use it then.’ It’s such an empowering thing. We were at a meeting the other day where we talking about embracing shadow IT and I couldn’t believe those words were coming out of my mouth.
+In principle, he says, there’s really no reason why most of Cancer Research UK’s applications shouldn’t be accessible from pretty much any device, as long as that device is capable of running the relevant Citrix plug-ins.
+Briggs, for example, carries around his own iPad Mini at work. He could run a virtual desktop on that device, he says, and while he chooses not to, he’s aware of other colleagues in the charity who do. But he points out:
+It’s less of a question of IT telling people what they can have and more a case of them telling us what they want on their devices and we deliver it to them. That’s actually pretty liberating for an IT department – but it takes some radical thinking to go in that direction.
+From my point of view, I want to ‘not care’ about what devices people bring to work. What I care about is having policy-driven granularity of control while, at the same time, letting people work where and when they want. That makes our team more effective and it makes Cancer Research UK more effective as a whole.
+
+Read more on: Collaboration sharing and digital productivityMobile 

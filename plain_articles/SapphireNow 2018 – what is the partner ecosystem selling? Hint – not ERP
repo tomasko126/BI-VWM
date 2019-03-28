@@ -1,0 +1,51 @@
+
+I took a camera in hand and toured the 2018 Sapphire Now expo floor this week to document what systems integrators, consultancies, software partners, hardware partners, outsourcers, managed service providers and others were hawking to SAP’s customers and prospects.
+It seems they all have a point of view about what customers need (hint: it’s to move to SAP S/4HANA) and how they stand ready to deliver this.
+What did I discover?
+I missed the memo – it’s not ERP, It’s a Journey!
+I must have missed the memo that announced that ERP as a concept is gone and has been replaced with a “Journey”.  Apparently, every company needs to go on a journey to some new digitally powered, transformational future state.
+And, you can’t get there with just any old ERP or the SAP ECC solution. You need the newest S/4HANA , C/4HANA, Master Data As A Service, etc. to pull all of this off.
+
+When I think of a journey or a trip, I think it helps to have a destination in mind before setting off on this adventure. So, what’s the destination that the integrators, et.al., see ahead for SAP customers?
+It turns out that while there’s no unanimity in the destination per se, they all seem to think that customers:
+
+Will need (lots of external) help getting there
+Aren’t prepared to handle the scale of the journey by themselves
+Need to think about highly transformative efforts that will dwarf prior projects
+
+
+I’m not fully sure what Business 4.0 exactly contains but it was something a lot of exhibitors were willing to discuss.  Likewise, there was a lot of hype around transformation with some firms wanting to transform a function (e.g., Finance), some want to transform the entire business and others want to help companies digitally transform.
+The latter term was clearly the most over-hyped phrase out there with no clear guidance as to what it really entails. I am not surprised but I did wonder whether customers are buying into this. Jon’s SUGEN story suggests otherwise.
+Regardless, most exhibitors there stand at the ready to help you get to that nebulous destination.
+
+It was interesting that for such material, complex, fuzzy projects that are being hyped, the partner messaging would suggest (for the most part) that the move to S/4HANA should go fast. How can something so transformative, so disruptive be so easy to accomplish?
+I think the answer is that many firms are really only selling a bunch of lift and shift services. Some want to move your on-premises S/4HANA to a cloud (preferably their own cloud, not necessarily SAP’s public cloud).
+Some want to migrate your old ECC instance to S/4HANA. That might only be an on-premises upgrade or it could result in the product going to a hosted world.
+These lift and shift projects are NOT transformations. In fact, as one gleeful integrator told me on the flight to Orlando, they are selling a technical platform upgrade to get the customer’s systems ready to someday support more advanced, digital capabilities.
+In plain English, they’ll help a company spend a lot of money to move from an old ERP instance to a newer version at a nice cost point. They even host the transitioned solution for a fee, too. And, they’ll do the maintenance (for a fee) for the customer as well.
+That kind of project has little economic value. The incremental cost to upgrade and eliminate a lot of technical debt will be great while the incremental benefits may be negligible. It might be great business for systems integrators but I suspect many executive committees and boards of directors will not approve such expensive, low-value-added projects.
+Software customers will want new solutions that:
+
+Get them out of the data center business (cloud apps)
+Get them out of the application maintenance business (multi-tenancy)
+Get them out of the integration maintenance business
+Deliver massive numbers of net-new business insights (via pre-built and end-user tunable (not custom developed) industry, IoT, AI/ML, etc. tools)
+And, most importantly, provide real ROI (not just lower TCO)
+
+
+While many exhibitors (and SAP) have initiatives underway to make much of this real, it may take years for all of it to be a reality. So, in the interim, partners are pitching lots of lift and shift projects until the value-added capabilities come on-line.
+The show floor had a number of proof of concept demonstrations and some SAP digital kits that customers can get customized to their particular environment. However, I just didn’t see demonstrations of solutions that were anywhere near as comprehensive and transformative as the signage would suggest.  I suspect the aspirational hype is outrunning the reality for now.
+The integrator crowd was busy one-upping each other to see whose messaging could be more transformative than the other.  Some want to transform specific business functions while others wanted to ‘reimagine everything’. I just don’t know how you can top that objective.
+
+What struck me about all this Journey talk was the absence of materials, signage, etc. about what companies need to do to prepare for such a major change.  In fact, all I saw were people willing to chat your ears off about how to upgrade ECC to S/4HANA or how to move your S/4HANA to a hosted or cloud environment.
+When I did find that rare bit of journey prep guidance, I didn’t find it all that helpful (see below).
+
+My take
+I suspect a number of the outsourcers and integrators are hoping that this is the second coming of ERP. They’re hoping that SAP customers will move in droves to the S/4HANA solution as this will re-energize their SAP practices.  Like we say in Texas, “wantin’ and gettin’ are two different things.”
+SAP customers are a smart bunch. If they’re going to spend a lot of money on a critical (and often large, integrated) piece of application software, then there will need to be a compelling business case for change.  These customers will likely have a number of old customizations that will need to be examined for continued relevance or elimination.
+But what I’m seeing at clients is that they expect new ERP solutions to deliver something VERY different than what their old ERP currently does. They want the new ERP to support a Factory of the Future in its fullest definition (no proof of concepts but a full, viable, implementable solution). They want to abandon old business models and operate new ones. They don’t want new plumbing under their old ERP. They want new solutions that are solving new business problems. 
+I’m also leery that customers will want to do the two-step shuffle where they undertake a major upgrade to S/4HANA only to do more work later when additional digital capabilities come on-line.
+Instead of an explosive amount of lift-and-shift work to happen, I suspect large enterprises will undertake this in a more measured manner.
+What can be said for sure is that SAP has the business case examples and tools to manage the ECC to S/4HANA change (i.e., the SAP Transformation Navigator). It’s all of the other aspects of the Journey that need working out.  I guess businesses need a TripAdvisor for ERP….
+
+Image credit - All story images via the author, featured inmage via © Sergey Nivens - Fotolia.comDisclosure - SAP covered most of the author's T&E for event attendance. SAP is a premier partner at the time of writing. Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architectureCRM and customer experienceFrictionless enterpriseProductivity 

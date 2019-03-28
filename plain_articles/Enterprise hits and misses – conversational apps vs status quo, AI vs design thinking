@@ -1,0 +1,57 @@
+
+
+Lead story – The conversational revolution in enterprise apps – by Phil Wainewright
+
+It’s a mistake to think of “voice” as another interface, warns Phil Wainewright. That’s like comparing the early ASP days to what cloud has become:
+ As the history of data center servers has shown, going headless is just the first step on a long journey of increasing disembodiment.
+Heady stuff (or not-so-heady, in this case). Conversational computing is a twenty-five year reset in UIs that will shake up enterprise computing. Phil also sees a fresh opening for messaging systems like Slack. On screen, a messaging layer can be a distraction, but if you’re an enterprise worker talking to your interface, who cares what bot is listening as long as they deliver the right service?
+Not much time to adapt: Phil quotes an HR expert who believes all HR apps will be conversationally-based within five years. That’s a big jolt to collaboration vendors, and to designers as well. But hold up: Phil argues this will impact systems of record as well.
+Once the user interface moves away into a separate conversational layer, it opens the way for the underlying transactions to be recorded and stored in far more efficient patterns.
+Ergo: it’s a good time to be a collaboration vendor, constructing a conversational layer that can push and pull transactions. If you get it right.
+Diginomica picks – my top three stories on diginomica this week
+
+Amazon and Whole Foods – what happens once the honeymoon is over? – Cath’s right – cutting prices was the easy part. Modernizing Whole Foods is a whole lot different than modernizing a warehouse. “Amazon must be prepared to listen and learn from Whole Foods’ management and employees” – and since when was Amazon any good at listening? Also see: Stuart’s Lands End ends eleven quarter run of falling sales as e-commerce focus takes hold.
+New jobs are a-coming but where are the people? – Fancy a future-of-work rumination with Den parsing the latest impact of automation data from HfS Research and debating those findings with HfS honcho Phil Fersht? I thought you did. Pour yourself a tall glass, add Mother’s Little Helper a lemon twist, and read on.
+Protect yourself against vendor change of control – you’ll need it – Your trusted vendor just might be someone else’s shiny-new-toy-for-shareholders-to-enjoy. Brian Sommer has advice on self-protection from the dreaded “material change of control.” I was going to say “sage advice” but I think they just bought someone…
+
+Vendor analysis, diginomica style. Here’s my four top choices from our vendor coverage:
+
+CEO Todd McKinnon on why Okta is steering clear of buzzwords – Derek made his first Vegas jaunt of this conference season to get the skinny on why Okta sees people – and therefore identity – as the lynchpin of digital systems. He also filed customer uses cases, e.g. Lyft drives down IT’s manual processes by automating with Okta.  (I’m just a tad confused about that no buzzwords thing – where does that leave Okta’s marketing team? I kid).
+How FinancialForce customers flex for change – video interviews – Phil and I finally surmounted an absurd tale of international video production hurdles to complete our ten video collection from FinancialForce Community Live. Phil covers off three customer shoots here; you can also see our full FinancialForce coverage YouTube playlist.
+VMWare sheds insularity for full on cloud religion – And our own Kurt Marko was on the ground to witness the conversion. 🙂
+SuccessConnect ’17 exclusive – SAP’s Rob Enslin on leadership changes, diversity, and yes – Workday – If you’d like to dip your toes into my SuccessConnect coverage, this would be a good place to start.
+
+A couple more vendor picks, without the quips:
+
+Customers are talking among themselves about Workday – and that’s paying off – Stuart
+Oracle wants to help enterprises get business results from IoT – Phil
+
+Jon’s grab bag – Cath forges on with her stellar series, Technology for Social Good – funding African education through Big Data insights.  Not historically renowned for our bitcoin coverage, diginomica’s been chiming in of late. Case in point: Denis’ Bitcoin, Uber – blowing bubbles as business models come back into focus and Stuart’s Bitcoin’s boom slowed by China’s clampdown on crypto-currencies.
+Jerry’s filed a thoughtful take on a political hot potato, Silicon Valley reacts furiously to end of the Dreamers Act. Finally, if you’d like to descend a bit further into the diginomica indoctrination project community-of-free-thinkers rabbit hole, check Phil’s post on the video I shot with him, where we break down his frictionless enterprise framework that informs much of our coverage.
+Best of the rest
+ Lead story – AI versus design thinking versus – cockroaches?
+myPOV: It was another notable week in AI debates, this time sparked by the optimistic-but-concerned Avinish Kaushik. Kaushik, who works for Google, believes AI’s deep learning advances are fast leading to a “camels to cars” type advance. (The Artificial Intelligence Opportunity: A Camel to Cars Moment). Kaushik is breathlessly excited by the possibilities, but concerned about those who don’t grasp the pace of change. It’s an interesting juxtaposition of AI cheerleading and buckle-your-seat-belts in the same post.
+Bob Warfield, who has seen his share of AI hype over the years, took objection in Avinash Kaushik Responds to My AI Cockroaches Post. Warfield doesn’t think the current use cases (including the famous chess and Go victories over humans) justify extravagant AI talk:
+If the term “Artificial Intelligence” is to have any meaning, it must get beyond niche applications that don’t produce human-like results and clearly don’t work anything like the human mind.
+I’ll buy that – but terminology is cheap. The best use cases I’ve seen as of today recognize – and even leverage – the different talents of machines, fusing them with human skills/trades. Example: CAD algorithm proves its power in early diagnosis of lung cancer. AI? No. Useful? Yes.
+Meantime, a solid post from Dell’s Bill Schmarzo (Design Thinking: Future-proof Yourself from AI). His premise, that design thinking is the only way to future-proof your career, is wrong. But, Schmarzo is also right: those skills are smack in the middle of the “become more human” skills program we should pursue. Bonus points for articulating how design thinking links up with machine learning, as we need to work amongst the machines, not siloed from them. Loss of bonus point for use of “game changing.”
+Honorable mention 
+
+Socially-paranoid media: where did it all go wrong? (Weekend rant) – Phil Fersht logged on Twitter last weekend, and it reeked of pimpage. So much for the virtual town hall. Rant time: “What used to be a fun place to share untethered banter, humor, intellectual conversation and debate, perhaps be a little risqué, has degenerated into a stuffy medium for puffing up corporate brand mush, and regurgitating the same old bland insight we’re having pushed at us daily.” As for what happened? You answered it in your very next sentence. Genie – out. Bottle – empty.
+Mining Supply Chain Data for Insights – Now here’s a great way to promote a conference: actually share something useful you will learn there.
+VMworld 2017: Everything you need to know about VMware’s hybrid cloud strategy – Larry Dignan’s best post of the month. “Everything you need to know” tricked him into a deeper analysis, and we all win: “VMware’s positioning for 2017 and 2018 looks as strong as it has ever been… In the end, the hybrid cloud has bounced its way.”
+Uber’s New CEO – The job has been filled, and Ben Thomspon is in his blogging wheelhouse.
+
+Whiffs
+So Microsoft will never again sneakily force Windows downloads on users – but notice that they didn’t say anything about not jamming OneDrive down your petard, leveraging your personal details, infesting programmatic ads on your operating system, and pushing virus scans and product updates that require techno-genius to opt out of.
+
+New Algorithm Can Determine Whether or Not an Instagram User Is Depressed – Wait, we needed an algorithm for that?
+Apple’s New Open Office Sparks Revolt – I get it, this “news” story grinds your axe, but it’s not a damn news story, it’s a rumor, third hand whatever passed through the linkbait machine. Don’t schmuck out – label it as rumor right in your title.
+
+Gonna try to weave a bunch of things into one big collective societal whiff. While thousands of displaced Texans struggle with their rent/landlords, Googlers at Burning Man are air lifting lobsters in. At least there is some fiscal sanity, with the $400 Juicero startup going belly up, though I guess when you can do the same job as a $400 juicer with your bare hands (to the surprise/chagrin of investors), your kale is pretty much squeezed.
+Meanwhile, Nate Silver pushes away from useful stat crunching to create a childish/careless sports meme nobody needs, and goes through the social spank tunnel and apology circuit for his trouble (note to Silver: let the New York tabloids make fun of Boston, they’ve got it very well covered… the “like them apples?” Good Will Hunting reference is brilliant cultural recycling). Facebook might be of some help, but they’re busy trying to figure out how to make it possible for you to block Mark Zuckerberg.
+With another monster storm heading towards U.S. shores, the one redeeming thing is… us at our best. No whiffs on this boat – and it was hardly the only heroic efforts we saw last week. Be safe out there…
+If you read an #ensw piece that qualifies for hits/misses, let me know in the comments as Clive (almost) always does.
+
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, King Checkmate © mystock88photo  - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, FinancialForce and Salesforce are diginomica premier partners as of this writing.Read more on: Future of workHits and missesMachine intelligence and AI 

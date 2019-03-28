@@ -1,0 +1,50 @@
+
+At Consensus 2016, I thought I had a pretty good handle on the state of the enterprise blockchain. I crashed a panel of optimistic experts, got a goodly dose of blockchain startup views, and heard from bigger names making blockchain investments and pursuing proof of concepts. After the show, I expected a slow – if not glamorous – evolution as use cases are put to the test.
+But then Ethereum messed up the narrative. Viewed by many as a vital cog in the enterprise blockchain, Ethereum grabbed headlines with a controversial hard fork that has split the Ethereum community. Ethereum is hardly the only way forward for the enterprise blockchain. But for those advocating blockchain as mature enough for enterprise problems, the high drama of the Ethereum fork has to be disconcerting.
+Blockchain – a threat to “legacy businesses”?
+William Mougayar is the author of The Business Blockchain. One of the early proponents of a decentralized business blockchain, Mougayar has a history with the Ethereum project, dating back to an early encounter with Ethereum inventor Vitalik Buterin in a Toronto stairway. (Mougayar now serves as a board advisor to the Ethereum Foundation, a non-profit backer of the “new” version of Ethereum after the fork. Buterin wrote the foreword to Mougayar’s book.)
+You can count Mougayar in the “blockchain changes everything” camp. Via his book intro:
+The blockchain is part of the history of the Internet. It is at the same level as the “World Wide Web in terms of importance, and arguably might give us back the Internet, in the way that it was supposed to be: more decentralized, more open, more secure, more private, more equitable, and more accessible.
+He writes that blockchain can not only change the Internet, but replace “legacy businesses”:
+Ironically, many blockchain applications also have a shot at replacing legacy Web applications, at the same time they will replace legacy businesses that cannot loosen their grips on heavy-handed centrally enforced trust functions.
+Before we dismiss Mougayar as a blockchain dreamer, he’d like to remind us – as he did to me in person – that he wrote a similar book in 1997 about the Internet:
+It was called  Opening Digital Markets, and I was explaining the business of e-commerce. This was before the hype hit.
+When it comes to the blockchain, Mougayar isn’t worried about hype:
+I’m not too worried about hype, because we are smarter now… What I’m worried about is ignorance… Meaning that some people have a misunderstanding about the Blockchain.
+And that misunderstanding is?
+Some people only see the ledger part. Or only see the variance part. There are like eight things in between that are also about the blockchain that we don’t hear about that much, because they are more difficult topics… It’s about identity. It’s a network. It’s a marketplace. It’s a financial services network on a marketplace as well. And it is a software developers classroom.
+The Business Blockchain intends to clear up these misconceptions, and serve as a primer for business leaders. At Consensus 2016, I pressed Mougayar for the areas of highest impact. Unlike many, he doesn’t see financial services as the exciting area for blockchain:
+The banks are all over the blockchain, but all they see is a distributed ledger solution… and distributed ledgers doing it on the blockchain instead of a database is an improvement. It’s not a big innovation.
+The power of blockchain – decentralized networks
+Where is the big impact then? To answer, Mougayar takes me back to his early encounters with Vitalik:
+I knew there was something to this technology; there was a human element. It wasn’t just any technology; it’s about people. About identities. About trust… It’s about a new economy. That’s what the blockchain is going to create.
+Example please? Mougayar pointed to Open Bazaar, a peer-to-peer marketplace; eBay without the middleperson (he is an investor, and also on the board):
+It’s the first large scale peer-to-peer application on the Bitcoin Blockchain. They passed 110,000 downloads in about six weeks. This means anybody can buy and sell without anybody in the middle… And you’re not paying 6 percent to eBay or 4 percent to Etsy. It’s peer-to-peer, and it’s trusted, and it’s built on reputation.
+Mougayar drove the trust point home, using the success of Airbnb as an example:
+The trust is gonna work on the blockchain once we start to share our identities and reputations. The same way that uh AirBnB is allowing a stranger to sleep in your house, because they know [your reputation] already. The same thing is happening with Open Bazaar.
+“Blockchain identity needs an app”
+But blockchain identity isn’t there yet. Mougayar says that blockchain “identity needs an app.” Our current online identities are tied to Facebook, or LinkedIn: “but they own your identity, not you.” Mougayar believes a portable blockchain identity is coming:
+We are going to have the equivalent of a passport on the blockchain that is yours, and that hopefully should be tied into applications. You will have a transportable identity.
+Why Ethereum matters
+During our chat prior to the fork, Mougayar believed Ethereum would drive enterprise adoption of blockchains: “I can tell you for Vitalik, three of his big priorities are scalability, privacy, and security” – three priorities that resonate well with enterprises.
+Mougayar sees Ethereum as integral to the blockchain: “Ethereum is to the blockchain what Java was to the web… It’s a Java for smart contracts.” (Smart contracts are sometimes defined as contracts between parties stored on a blockchain).
+Making sense of the Ethereum hard fork
+So where does he stand on Ethereum now, after the hard fork? In an email, he wrote:
+The implications of the Ethereum hard fork are not yet fully understood. It’s not clear whether ETC was politically motivated by ETH antagonists or by a real desire to diversify the innovation behind Ethereum. The ETC group will have a lot of proving to do, whereas the ETH camp is known to have been delivering on their promises for the past two years already.
+Note to readers: the ETH is the hard fork backed by Vitalik and the Ethereum Foundation. ETC is the so-called “classic” version of Ethereum which is now, arguably, vying with ETH to become the defacto Ethereum platform. If you want to dig into the nuances, this blog post will help.
+Another unpublished chat from the show was with Roman Mandeleil, who coded Ethereum’s Java implementation. He is the CEO and founder of ether.camp, Ethereum’s most popular block and contract explorer, and a home base for Ethereum developer events.
+To explain his views on the fork, Mandeleil penned a lengthy post, The DAO Crisis: A Philosophical Retrospective. The DAO Mandeleil refers to is a “distributed autonomous organization,” created as a fund for Ethereum-based projects. On June 17, 2016, the funds from The DAO were hacked, pulled into an account controlled by hackers.
+The hard fork decision was made, moving the funds tied to The DAO to a new smart contract, allowing the original token owners to withdraw their funds. However, the forking decision was perceived by some to have bigger implications, such as decentralized versus centralized authority, which has raised the stakes. Now we have headlines such as Vitalik Buterin Won’t Support ETC If It Takes Over ETH.
+Mandeleil expresses confidence in Ethereum, including security lessons:
+After all the drama. we are all much smarter now. We are a community of developers/miners/investors/ fans and supporters. We have studied a direct way to exploit multi-contract systems and learned how to protect our future systems from it.
+He sees a more stable future:
+Ethereum is here and it is not going anywhere. It will grow, the network will stabilize and investment will continue to pour into ecosystem projects. The number of people needing to be convinced on a future hard fork will grow dramatically and the probability of a successful fork decision will be much lower.
+My take
+Ethereum was never the only way forward for the enterprise blockchain. Readers of my blockchain series are tracking Hyperledger, a push towards cross-industry protocols supported by heavyweights like IBM and Linux.
+I expect Ethereum to weather these storms. However, even a best case “growing pains” scenario illustrates why enterprises, notoriously conservative, are loathe to invest in technologies that can’t be easily separated from the tribulations of idealistic communities. Phrases like “immutability” may have to be toned down now that Ethereum has mutated. Security also takes a hit.
+That also applies to blockchain-powered “freedom” and “decentralization.” Enterprises loathe ideological purity. It was only after the hierarchy-leveling ideology behind “Enterprise 2.0” was fumigated that collaboration became entrenched, albeit in a more practical form.
+But I empathize with Mougayar’s view that if blockchain limits itself to a fintech efficiency driver, it will be a profound underachievement. Mougayar already sees (some) banks taking the conversation further:
+The progressive banks are starting to ask themselves whether there is a blockchain strategy that could be used for reinvention, as opposed to doing the obvious thing, which is cheaper, faster, better transactions.
+Ethereum’s struggles are instructive for outsiders, but unless you are bored with Netflix and seeking high summer drama, it’s a better idea to step back. Enterprise blockchain should live or die based on proof of concepts and bold/controlled experiments, not on the results of an ideologically-potent dispute.
+End note: thanks to diginomica readers Greg Misiorek and Clive Boulton for their blockchain views and ideas.
+Image credit - Concept of choice with crossroads spliting in two ways © Sondem - Fotolia.com.Disclosure - Coindesk provided me with press access to Consensus 2016; diginomica covered travel expenses.Read more on: Frictionless enterpriseIdentity 

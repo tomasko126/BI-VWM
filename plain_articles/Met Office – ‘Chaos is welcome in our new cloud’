@@ -1,0 +1,29 @@
+
+ 
+So this doesn’t sound scary at all, right?  Invite in some outsiders to destroy critical parts of your cloud application infrastructure – then step back and see how your IT team can found out what went wrong?
+If you think that sounds like a recipe for sheer chaos, then you’d be right – but maybe not the way you think.
+That’s because no less a solid fixture in all our lives than the service that tells us what the British summer has in store for us today – the United Kingdom’s national weather service, The Met Office – has indeed just done exactly that.
+Meet the concept of ‘cloud chaos’ – a technique pioneered in the private sector that the Met, a Trading Fund of the Department for Business, Energy and Industrial Strategy (BEIS), says it just took a chance on.
+That was in the shape of its own recent ‘Cloud Chaos Day’, as its Head of Operational Technology, Richard Bevan, confirms:
+Cloud Chaos Day enabled us to test our operating procedures in a safe environment, giving the Met Office the confidence we are suitably prepared for the launch of planned new services.
+‘Chaos’ is an idea that’s starting to gain ground, but is still something of a rarity – especially in the public sector. The concept comes from streaming media and video on demand giant Netflix, which pioneered this unique form of careful ‘resiliency testing’ back in 2011, building software that attacked its own Amazon Web Services-hosted cloud.
+This eventually became formalised into the idea of a ‘Chaos Monkey’, the idea of seeing what would happen to your service if there was a wild monkey with a weapon loose in your cloud, randomly shooting down instances and chewing through cables . Could the system cope?
+So successful was the idea that there is now a successful Open Source project, Chaos Monkey, but the Met Office decided to just use Netflix’s idea, not its software, choosing to manually select areas of a service to break then supporting its CloudOps team as they tried to figure out what had gone wrong.
+Why cloud?
+Why is the Met Office even interested in cloud, though? Cloud is a relatively new addition to the Met Office’s IT armoury, says Bevan, but is becoming a resource of greater and greater interest as a useful way of moving large amounts of requested weather data on a ‘pull’ as opposed to a ‘push’ basis, Bevan told diginomica government.
+Using cloud also means it can avoid the expense of having to maintain hardware that ends up not needed for large parts of the year, but can instead add and remove resources quickly as demand goes up and down, he adds. Now, there are around 60 Amazon Web Services accounts being used by the body, with cloud offering a range of benefits including the ability to get additional resources online in quick response to weather events in under two minutes.
+Clearly, cloud – more specifically, public cloud – is going to figure more and more in the Met Office’s plans, then. Hence the idea of chucking some chaos at its first foray into this way of delivering services, in this case the application it uses to deliver weather information to broadcasters and media customers, Bevan states:
+We’ve been developing the API for this as a possible cloud service for about 18 months, but felt it would be really useful to test it as extensively as we could prior to going live. We liked the idea of seeing what could go wrong in a safe environment, identifying any gaps in our knowledge and capacity.
+It also seemed better to find issues on our own terms than the usual way of them knocking on the door at 3am.
+To provide a secure context for the Day, the system was set up so that if any problems could not be solved it was possible to simply discard the now-broken cloud image and safely roll back to an earlier, working version, says Bevan.
+Chaos Day was orchestrated for Bevan and the internal Met Office ‘cloud ops’ team by supplier CloudReach, a UK cloud company that implements public cloud for organisations including Liverpool FC, Volkswagen, and The Economist.
+The brief CloudReach was given was providing an answer the question, How ready are our CloudOps team at handling problems in a key application before it’s offered to customers?
+On the Day, Met Office CloudOps team members were led into a meeting room and were presented with a set of problems, or ‘symptoms’ of the damage being wreaked on their system. Issues were noted and gaps in documentation that hadn’t been noticed before soon started to pile up, says Bevan.
+This was a full 9 to 5 day, by the way – a serious bit of testing got conducted: seven out of 150 potential parts of the system were broken and offered blind as problems to the Met Office staffers.
+What was the atmosphere like as the team sat down? Bevan recalls:
+There were some nerves, yes. In some ways this is a frightening thing to try and do. But the good news is that our guys soon turned into ‘Sherlocks’, finding it a fun and interesting series of challenges that actually boosted their confidence.
+For example, the team was able to crack one issue in under five minutes, but some bugs took more like 45 minutes to resolve. In some cases, a solution could not be identified in the time given, which was also a result of interest to the team, says Bevan.
+CloudReach’s Cloud Systems Developer James Wells, who helped MC the testing, says,
+By the time things wrapped up in the afternoon, we’d come out with some pretty good outputs – a giant bundle of notes of lessons learned, lots of empty snack packets, and a CloudOps team pleased with their problem solving skills.
+Image credit - Met Office Read more on: Cloud platforms - infrastructure and architectureDigital government and public servicesSecurity
+

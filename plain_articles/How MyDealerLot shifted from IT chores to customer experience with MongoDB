@@ -1,0 +1,40 @@
+
+David Strickland at MongoDB World
+Now that diginomica is getting a bit long in the tooth (3 years, 3 months and counting), we have the chance to revisit prior use cases. Follow-ups matter: without business results and cost savings, what was the point of the project in the first place?
+I was glad to get a sit down at MongoDB World with David Strickland, CTO of MyDealerLot, for a project gut check. At the time of Den’s 2014 piece, MyDealerLot was embarked on a project to use a mix of “RFID and information delivered via MongoDB to deliver an array of value add services that benefit both the customer and dealership.”
+In 2014, Strickland could speak to early results, such as 140 dealers live on the system, and reducing the mapping layer by 80 percent on MongoDB. Oh, and they got it done with “one IT guy.” Fast forward two years, and plenty has changed: they have now 200 dealers live, which meant training 20,000 people on the new system. And: some interesting personalization and analytics benefits to discuss. About the only thing that hasn’t changed? Yep – MyDealerLot still has one IT guy.
+Another thing that hasn’t changed: the shifts in the automotive industry, which, as Strickland says, has dealers “snapping us up,” to help win and retain customers in an industry where post-sales service IS the bottom line. MyDealerLot aims to help their dealers win the post-sales game by flat-out delighting customers who might be dreading a paperworky car drop-off and/or bad waiting room TV.
+“We changed the entire technology platform”
+So what’s changed? When Strickland spoke to Den Howlett, they had only moved heir most expensive processes to MongoDB. But as of March 2015, MyDealerLots was NoSQL, as in: no more SQL processes. Everything was now on MongoDB. Strickland:
+We had on the order of 70-80 thousand lines of mapping code that would map from SQL Server. Those were all replaced with five generic functions in MongoDB… The read and write speeds are ridiculous. We’re getting like eight hundred thousand records a second. Actually, it’s over that number and that’s already ridiculous.
+It wasn’t just a move to MongoDB: MyDealerLot moved everything to a private cloud platform:
+We changed the entire technology platform. We were a classic ASP.net shop, using NHibernate. We went to Angular, so we’re now an Angular front end. Basically everything in our world is JSON now.
+It took another six months to migrate the users to the new system, including the training of 20,000 dealership users, all employees of their dealers, e.g. valets, service advisors, managers, and general mangers. A massive UI simplification was a good thing, but a new thing to employees. So how do you train 20,000 people remotely? Lots of video, as in a hundred hours of training video, all created by a MyDealerLot product manager.
+One by one, the dealers were migrated over. Strickland’s team would camp out at midnight and convert gigabytes and gigabytes of data. When the dealership came in the next morning, they logged onto a whole new system, on a whole new URL. By November 2015, all dealers were migrated. That sound Strickland heard? Crickets. The kind of help desk crickets all IT managers want to hear:
+You know how I remember that day? Because prior to November 2nd, I got five phone calls a day for the SQL Server system. Someone would say, “Has it failed? I see these alarms going off in the support center. Should I be concerned? Do I need to start calling clients? Do we need to issue some blanket apology already?” I have not received one phone call since we moved… It’s better than any medication you can possibly imagine.
+Personalizing CX with analytics: “Do not turn this off!”
+Moving a huge user basis to a new UI is no picnic. So are there any benefits? Strickland says one jumped out:
+There are analytics [dealers] didn’t have access to that they have access to now. It’s kind of cool, because you can actually slice the data now. There’s all kinds of crazy analytics that you can do.
+I asked Strickland for an example: can they assess individual salesperson performance? Identify which features sell better and adjust? No – his answer was a lot more interesting than that:
+It’s more like connecting analytics with relationships.
+One of MyDealerLot’s Dallas dealers was giving away car washes for life. The dealer asked if they could start connecting the sales team with the people waiting to get the car washed. Strickland:
+We said, “Okay, so what do you want to do?” They told us, “We want you to enable the messaging so that our team gets a notice when these folks show up. We want to run it for one month. At the end of the month, we want to turn it off and we want to do some analysis.”
+And?
+They called us before the end of the month and said, “Do not turn this off!” And I said, “Okay, tell me what happened?” Because I see data, I don’t see the other side of what’s happening. They said, “We sold seventy-eight vehicles to people standing in the car wash lane for the free car wash.“
+To which I said to Strickland: “[email protected]!” That’s your ROI question, solved:
+They need to sell one car to pay for our system. They sold seventy-eight, plus the others they sold.
+Which prompted this exchange:
+Jon Reed: Because if I’m waiting for my dirty car to go through the car wash, and you’re like, “Hey, did you know the 2016 model of your car has this feature or that...”
+David Strickland: Yeah. Obviously, when the salesperson approaches you in line, they already know a lot about where you stand… Cars that you’ve liked or have owned.
+The wrap – customer experience done right
+I’m an avowed customer experience skeptic. But what MyDealerLot does via RFID personalization on NoSQL clearly sets dealerships apart, as in this before and after:
+If you take your car in for service, on average it takes about forty-seven minutes for them to collect all the data, give you a car, you get out of there, come back in the afternoon, get your car back. We can turn that into six minutes and thirty seconds. Six minutes in the morning, drive your loaner car back in, get out of your car, get in your own car, and drive home. That’s it. No walk around. No paperwork. No signatures. Zippo.
+Is that because MyDealerLot has automated all the steps?
+Yes. Well, the steps and the connectivity. Right as you’re coming into the dealership, the valet already knows you’re there. They already know your name. They walk to your car, open up the door, and welcome you by name to the dealership.
+And it gets better:
+Then they walk you to the service advisor, and he already has the repair door open, and you type in a sentence or two. He notices that you need a loaner car. They give you the loaner car and you’re gone. Tell me, is that an experience you’ve ever had in your life?
+To which I could only answer: “No.” But I am going to show this article to my Toyota dealer.
+Needless to say, Strickland is already on the case. As of the time of interview, they were in dialogue with Lexus, and coordinating with Toyota also. However that pans out, the prospects look good for MyDealerLot, which is already the preferred supplier for Audi. Strickland told me some off-the-record stories that underscore a customer passion that would make Harley-Davidson jealous.
+We’ll see where MyDealerLot goes from here, but the dots they’ve already connected between cloud IT, analytics and customer experience is an instructive story indeed. Oh, and we can throw the IoT buzzword in there for good measure.
+ 
+Image credit - photo of David Strickland by Jon Reed. Disclosure - MongoDB paid for the bulk of my expenses to attend MongoDB World 2016. Diginomica has no financial ties to MongoDB.Read more on: Analytics planning and data analysisDigital enterprise in the real worldInternet of ThingsNoSQLUse cases 

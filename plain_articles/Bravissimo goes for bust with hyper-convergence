@@ -1,0 +1,31 @@
+
+Bravissimo
+By his own admission, Ian Murphy, IT manager at Bravissimo, had been “banging on for years” about the need to refresh the lingerie retailer’s ageing IT infrastructure.
+But when he finally got the nod to embark on a server-room makeover, he decided that the logical next step – simply virtualising the 30 physical boxes running at its Leamington Spa head office  in the UK – wasn’t going to be enough.
+Consolidating those servers, which run the company’s retail, mail order and fulfillment apps along with core finance, HR and telephony systems, onto fewer, larger machines might mean less systems administration work for Bravissimo’s small IT team and help it achieve better server utilisation rates, he figured.
+But it would still leave them with the issue of managing a complex storage area network (SAN), a task that it had already outsourced for some years to a third-party provider, due to a lack of in-house storage skills.
+Instead, he decided on a more radical approach, with ‘hyper-convergence’ as his goal. As he explains:
+We tend to bleed our kit until it’s dead – but we’d got to the point where we realised we’d fallen behind. There was so much in our infrastructure that needed to be looked at.”
+At the same time, it’s been difficult for us to outsource SAN management – to rely on other people to understand our core infrastructure. We may be a small team, but we still like to know about the kit we’re running and we’ve never been comfortable with the level of storage knowledge that we’ve got here.
+Learning curve
+Instead, he started reading up about ‘converged infrastructure’, the idea that server, storage and networking resources can be bought in a single box. It’s a concept promoted by many of the major IT vendors, including IBM, HP, Cisco and Dell, although different vendors variously use the terms ‘converged architecture’, ‘integrated systems’ and ‘unified computing’.
+Either way, the end result for the customer is the same: the basic elements of IT infrastructure combined in a pre-tested and pre-integrated stack. But most of these approaches put servers, rather than storage, front and center.
+As he read on, however, he learnt about Nutanix, a company that takes a more storage-centric approach to converged infrastructure, based on the theory that it’s easier to insert standardised virtual machines (VMs) into an optimised storage environment than it is to build really good storage around virtualised servers. With Bravissimo’s SAN management troubles firmly front of mind, that thinking struck a loud chord with Murphy.
+Hyper-convergence, in Nutanix-speak, involves a purpose-built converged infrastructure device based on a pool of storage resource into which faster mediums such as Flash can be inserted, but also storage management software for tasks such as backing up, taking snapshots and data deduplication.
+In short, this approach would enable Bravissimo to take a new and simplified approach to storage, while simultaneously reaping the benefits of server virtualisation. Murphy says:
+It struck me pretty early on that not only could we start handling our own storage management in-house, to the level our business requires, but also we’d be getting better storage performance than from a more traditional SAN approach. Nutanix would fly by comparison.
+This is an important point, because even the best designed SAN can start to struggle in a virtualised server environment, where multiple VMs compete for speedy input/output (I/O) over a network. An approach like the one offered by Nutanix addresses this issue upfront by keeping storage traffic inside the device itself, where it’s transferred over a shared backplane for lower latency and higher speed.
+The more he read – and talked with Nutanix, as well as a number of SAN vendors – the more Murphy became convinced that hyper-convergence was the way to go. He says:
+If I’m honest, there was also an element of needing to catch up with the latest developments in IT. We’ve never been on the bleeding edge, but there was a time when we were more proactive about looking at where things in the industry were going and how new developments might help the business. So it felt to me like virtualised servers may be where things are today, but we wanted to leapfrog that stage and move onto the next thing. We wanted to go hyperconverged.
+Good fit
+Ultimately, he took the plunge: the Nutanix hardware arrived at Bravissimo in late 2014 and staff started getting to grips with it early in the new year.
+Today, they’re in the process of moving workloads off of those physical servers and onto the new infrastructure. Two members of Murphy’s team are due to have professional training on Nutanix.
+Lingerie online
+In 2016, Murphy plans to invest in a second Nutanix box for failover: this will run in a nearby customer fulfilment centre and provide a business continuity and disaster recovery. As he explains:
+We’re giving ourselves time over the rest of this year to work on this in a phased fashion, starting with development servers and those production servers that are less critical before moving onto the servers that host customer-facing applications.
+Right now, [the Nutanix infrastructure is] just hosting a handful of development and low-level production boxes, so we can see how different configurations affect the new infrastructure and how any tweaks we might make to configurations impact it, either positively or negatively. I feel like we’re making good progress, though, on becoming conversant with the technology. I’m very optimistic.
+He concludes:
+It’s a bit strong to say this was a leap of faith for us. We wouldn’t bet our core business apps on a leap of faith. But there was some risk. With a new technology, you can have as many examples and case studies and customer references as you’d like – but you sometimes have to just get into the technology and learn about it and understand it to see what it could do for your business.
+The way we’ve handled this project, we’ve been able to do that – but more importantly, we’re putting in place an IT infrastructure that can carry us into the future, five years from now and beyond.
+
+Read more on: Cloud ERP financials and supply chainInfrastructureUse cases 

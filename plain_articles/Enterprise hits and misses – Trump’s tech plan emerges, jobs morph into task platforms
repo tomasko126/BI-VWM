@@ -1,0 +1,63 @@
+
+
+diginomica hit: Trump and tech – clues to the new administration’s approach – a series by Stuart Lauchlan
+quotage: “Nearly three-quarters of the general public respondents see traditional manufacturing and service jobs as more important than investing in innovation, with 59% believing that the country has been on the wrong economic track. Most believe that an innovation-based economy leaves Middle America behind and favors Wall Street. Only 46% of the general public believes that tech industry innovation can Make America Great Again.” – Trump and tech – what Joe Six Pack really thinks about the tech industry
+
+myPOV: Who wants to wade into the confusing morass of Trump’s technology plans? Well, that would be Stuart. Truth: don’t know yet what Trump’s policies will favor. Based on the study Stuart cited above, many voters, Trump and otherwise, question whether Silicon Valley “innovation” addresses their priorities. Meantime, in the companion piece, Trump and tech – government policy when you believe “No computer is safe”, Stuart parses more confusing messaging.
+It’s too early for enterprise buyers to draw big conclusions on the Trump administration and technology. Example: what would an “Obamacare” repeal mean for health care innovation? What would a change in the H-1B program mean for tech skills supply and demand? Stuart thinks the statements so far might prove a windfall for the big outsourcing firms, while providing a body blow to digital efforts like Cloud First, which could come under “tremendous pressure.”
+It’s too early to know, but that may be better than grim certainty. If I were a big tech shop I’d be looking hard at training and upskilling and recruiting young talent. The rest I can’t predict for ya, despite Stuart’s best efforts.
+diginomica four –  my top four stories on diginomica this week
+
+Is security the next big cloud app? – At the risk of sounding like a knee-jerk alarmist I do see 2017 as the year the enterprise truly gets the cybersecurity problem. Denis puts us on notice that “security 1.0” won’t get it done for much longer. He lays out the characteristics of “security 2.0.”
+Account-based marketing – get your foundation right – Barb Mosher Zinck with a terrific writeup on a new approach that can easily be screwed up. She offers advisory and expert quotes, explaining why ABM can be potent in companies where buying decisions are not made by individuals alone.
+Enterprise cloud migration – your chance to make a fresh start – “Ask your doctor if an enterprise cloud migration is right for you.” Better yet – ask Kurt Marko. His advice? A tunnel vision tech migration is a limited move. Use the migration to re-evaluate, especially when it comes to security and data protection processes: “success in the cloud will come to those that exploit native services .”
+Australia shifts the digital government goalposts – and the UK and US should pay heed – Stuart sees a problem in Australian digital governance – including a resignation that has led to uncomfortable truths, as well as a lack of political will for change: “Governments should be able to use state-of-the-art technology; it is outrageous that we can’t.” Ouch! And take heed…
+
+Vendor analysis, diginomica style. Here’s my top choices from our vendor coverage:
+
+SAP SuccessFactors migration to HANA begins in earnest – Phil’s been tracking this one. It’s been a slow burn, but that’s about to change: “This is a major undertaking by SuccessFactors — which mirrors similar ongoing migrations by other products in the SAP portfolio, including Ariba and Concur. Successful completion will be a major milestone for HANA, but until the migration is complete, customers will be watching carefully for any signs that things aren’t going according to plan.”
+Interview – Basho CEO takes aim at IoT and edge computing – Derek gets a NoSQL-evil-plans progress report: “We are beginning to see a lot of vendors, and some buyers, talking about the growing importance of edge computing in a world where all devices are connected – as there is often a need to place processing and analytics close to the device e.g. machinery, smart cars etc. This model differs from the solely cloud computing world where everything is centralised, but in reality it is likely to be bi-modal and a mixture of the two approaches.”
+
+A few more vendor picks, without the quotables:
+
+FinancialForce signs hotshot CEO to lead cloud ERP surge – Phil
+Customer service on the front line – the business differentiator? – Stuart (Salesforce report)
+$20m for CloudCraze bolsters Salesforce B2B commerce push – Phil
+Workday wants customers who embrace change, SIs who enable it – Phil
+
+Jon’s grab bag – Derek’s got a disconcerting update on the not-so-surprising news that companies are not protecting customer data across their supply chains. Instead they are sharing it with dubious consent claims, leading to – you guessed it- gobs of complaints (Direct Marketing Commission warns of ‘worrying issues’ around data consent). Derek rounds out my picks with a nifty analysis on the latest IoT data from 451 – Research – IoT spend on the up, but Return on Investment unclear for many.
+Best of the rest
+ Say Goodbye To Your Highly Skilled Job. It’s Now a “Human Intelligence Task.” – why crowdsourcing changes labor by Mark Harris
+quotage: “Perhaps it’s inevitable that in a few years, software will swallow up these jobs, too. But as the tech conversation has fixated on how artificial intelligence will affect the job market, crowdwork has quietly grown in impact and scale. The next jobs to receive the crowd treatment? Doctors, managers and teachers.” 
+myPOV: Automation of the robotic variety is the sexier debate, but as Mark Harris reminds us, automation via the Taskrabbitization of work is the more immediate shift. Crowdwork platforms can be efficient, but they definitely disrupt our career prospects. As Andrew Keen once countered to Mitch Joel on Joel’s podcast, “Do you want your kids to graduate and go to work for TaskRabbit?” I’m not picking on TaskRabbit here – heck, I’ve used crowdsourcing platforms to hire for projects myself.
+But in 2010, researchers at New York University calculated the median wage of Mechanical Turk workers at $1.38 an hour. There’s a reason tech workers call these jobs “meatware.” As Harris points out, it’s opportunity with an edge. I fear the blade may be two-sided.
+Other work futures pieces of note: Ross Mayfield stoked some debates with his piece on The Coming Tech Backlash (me: that backlash is already here, though it’s complicated – peeps love their phones and flat screens, even as they fear the robots). And, not to exclude AI: Japanese white-collar workers are already being replaced by artificial intelligence (an IBM Watson use case).
+Other standouts:
+
+How Shell Oil Is Taking DevOps and Agile to the Cutting Edge – We don’t see a customer use case of this caliber every week. Well done Jennifer Riggins (The New Stack). Just don’t use the word “agile” if you’re hanging around Shell: “At Shell, we are not using the term agile, we are using the term ‘Edge.’ Edge is a wrap up around Scrum and DevOps… Project Edge began in 2010 because “We needed the IT solution to change as fast as possible,” a faster, cheaper way to deliver projects and to remain competitive.”
+Amazon Is Building the Fourth Pillar of Its Business, and other AI predictions – Jamming a couple pieces into one pick here. First on the four pillars. The first three Amazon pillars are online retail, Prime, and AWS if you were wondering… Anyhow pillar four is AI, and Jeff Bezos is so serious about it, he got into a fight with Alexa when Alexa tried to spin up a Microsoft Azure instance for him. OK, that’s just bad standup, but this piece digs into why Amazon is betting heavy on AI, including the release of three new AWS “AI” tools. Machine learning quibble: Alexa does a crudtastic job of playing music I might like, despite having 12,000+ songs to “learn” from. I usually put predictions pieces in the circular file, but newsfeed readers seemed to like 5 Big Predictions for Artificial Intelligence in 2017.
+
+Honorable mention
+
+
+MongoDB ransacked: Now 27,000 databases hit in mass ransom attacks – “Over a quarter of MongoDB databases left open to the internet have been ransacked by online extortionists.” Yikes!
+Hyperledger Project Enters 2017 with Major Momentum – Even blockchain curmudgeons seem impressed by the corporate backers lining up behind Hyperledger. You may also want to check my informal podcast, Hyperledger hacking and enterprise blockchain potentials.
+Gartner Acquires CEB In $3.3 Billion Deal, Eyes Expanded Footprint in Enterprises – One seasoned industry observer tweeted “Wow” when this news hit, so it must mean something. I’d say it’s about Gartner (attempting to) push beyond IT decision makers.
+Salesforce has a platform vision – 2017 it has to get real – Salesforce already had its first analyst event, here’s what went down.
+2017: The year of the “BandAid Economy” as the new digital world gets smarter and the old one just gets dumber – best blog post title of the week? Definitely wins on verbosity. Good piece also.
+Software is eating our managers, but that’s okay, we have containers – It’s a dead heat for best blog post title of the week folks…
+
+Whiffs
+It’s a whifferama. There’s just no way you can spin this: Sisters Miss Dying Dad’s Final Moments After Being Kicked Off Allegiant Air Flight While Consoling Each Other.
+Oh, and it’s hard to spin this one either: The Washington Post Uses Male Symbol to Announce Historic Women’s March (image right). That’s some world-class whiffery folks, implicating not just a designer but some type of senior editor. Basically a chain of brain-dead individuals put themselves through the ol’ spank tunnel. That’ll wake you up faster than a Five Hour Energy!
+On a more serious note, I’m all for respecting cultural differences but not when it comes to kissing the buttocks of a repressive regime (Apple Removes New York Times Apps From Its Store in China). Apple’s already removed their dongles, now off come their sacks… Sorry, that really ticks me off.
+Back to the lighter side, hits/misses reader Frank Scavo surfaced this attitude-laden move by Wendy’s:
+
+Seriously, I think this is refreshing. Wendy’s new social media strategy: Roasting detractors https://t.co/Jja3RcfByo cc @jonerp
+— Frank Scavo (@fscavo) January 6, 2017
+his is not a whiff on Wendy’s; this is a whiff on the anonymous potshotter who was pasted by Wendy’s after he accused them of trucking frozen beef:
+
+Well played Wendy’s, well played indeed. Over to you, Clive.
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Snowboarder Crashing © dismagwi - Fotolia.com - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Future of workHCM and the digital future of workHits and misses 

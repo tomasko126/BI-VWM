@@ -1,0 +1,59 @@
+
+Cisco’s Derek Dykens, a demo award winner
+The massive NRF 2018 exhibit hall was a bustling mix of nifty demos, vigorous foot traffic, and hyperbolic brand marketing. Amidst that backdrop, I kicked tires on numerous demos. Some were worthwhile, others not so much.
+With that in mind, here are my first annual/entirely subjective demo awards. But hold up:
+What constitutes an effective retail demo?
+My answer: it can be futuristic, it can be analytical, it can be ruthlessly practical – but I place weight on functionality that retailers – or their customers – can use today. I don’t care about how “disruptive” it is. If it’s easy to use and install, that carries more weight than “disruptive paradigm shifts.”
+If it seems like an easy job, here is what I was up against:
+
+To negotiate the NRF 2018 show floor, you must forge through waves of hype about “reimagining” everything through the wonderfulness of AI, which can supposedly personalize and convenientize your life until there is no human suffering left. But here’s a few demos that pierced the noise.
+Cisco’s Toybox shows off a better shopping experience via a pop-up store
+Cisco spent a couple of months prepping a pop-up store of sorts for the show floor:
+
+Called Toybox, the idea was to show an entire mini kids’ store powered by Cisco retail technology. My tour guide was Cisco’s Derek Dykens. Pictured next to Dykens is the Cisco box that powers the store, including the routers:
+
+We performed a shopping scan on my product of choice, directly into the phone app:
+
+I attempted to trick the system by bringing a product through in my basket that I hadn’t scanned. At the point of checkout, my “oversight” was caught by the Cisco system:
+
+There was also a coffee bar; I handled my own payment and order via the app, which was then served up by a Cisco associate. Though Toybox was not a pop-up store, it does represent a way to put mobile tech in the hands of store employees quickly, while managing inventory and automating checkout. As pop-up stores and seasonal storefronts proliferate, this type of tech will be needed. It’s the wired store as demand-gen experiment, not massive investment. (I told Cisco next year they should put this to the test of a real Manhattan storefront).
+Cisco also showed off a Virtual Reality version of Simon, which made me feel ridiculously old as I still remember scheming to get my hands on an original:
+
+Zebra Technologies – handheld RFID readers for better in-store services
+Zebra Technologies walked me through a bunch of interesting demos, but there was one that stood out: the handheld RFID reader.
+
+The handheld RFID reader can quickly scan store shelves, cross-checking hundreds of items and identifying exceptions or anomalies. In this case, the exception is a red shoe that is not properly tagged for sale.
+
+That problem is quickly rectified by surfacing the problem item. A portable RFID printer allows a quick print job on the fly:
+
+There are several wins here: quick scanning of merchandise which can be tallied against popular items, far surpassing a manual effort. Quick RFID/tag changes on the fly without a tedious tech support call. Arming store employees with better tools and better information is crucial – if retailers want the customer experience to get anywhere close to the “retail reimagined” hype.
+SAP – a very smart fridge makes my fridge not smart
+SAP had a personalized shoe design display that got huge foot traffic. However, I was partial to the smart fridge, a Samsung model with SAP app coding. I was shown this demo by an SAP employee who is not authorized to speak to media, so I kept him out of the photo fray:
+
+The fridge’s app center is like a mobile phone’s. Except it also has an energy consumption dashboard:
+
+You can re-order products from a punch up display. But “you might also like” recommendations a la Netflix/Amazon type recommendation engine are built in:
+
+But the fun feature is the nutrition intervention. Here’s where we stand:
+
+Uh oh:
+
+More alternatives are recommended:
+
+Not everyone is enamored by a “smart” fridge making nutritional recommendations:
+
+Last thing I would want is for my food choices to be judged by a fridge. 🙂
+— Jelena Perfiljeva (@JelenaAtLarge) January 27, 2018
+I’m with Perfiljeva on this one, but I can easily think of health tech-obsessed pals who might enjoy these features. A bigger perk would be the ability to quickly re-order items based on fridge contents. Or, put items on auto-replenish status. There are plenty of perils to making devices smarter, not the least of which is malicious hacking and security concerns. But if we can get along with Alexa, some of us will learn to get along with our smart fridge.
+The wrap – prior winners, and the impact of in-store events
+I’ve also given out prior demo awards to:
+
+Wipro – for a Customer Churn example, drilling into a sales anomaly amongst a category of high-value customers via dashboards, until the problem demographic was identified.
+Yi Tunnel – an upstart Amazon Go eompetitor from China, with a sophisticated self-checkout that can tell the difference between nearly identical items, such as different brands of apples (see how that works in my informal demo video).
+June20 – for an example of a Telsa Model S configuration – technology that is available in stores today. This one flips the script to make the in-store experience more like the online. It’s one solid example of how retailers must be creative and tech-savvy to meet the expectations of today’s in-store shoppers. June20 has designed this to earn data from consumers, both in aggregate and via opt-in when they request that their product preferences be saved… Winning with data via the right kind of value/experience exchange is the overriding theme of this year’s show (also includes my demo video)
+
+I also did a memorable Salesforce customer tour in Manhattan at John Varvatos – which paid homage in its decor to the prior attendee – legendary rock club CBGB. However, the environment was not ideal for demo pictures, so they aren’t part of the awards. That said, bringing media out for an on-site visit is a always a win. Salesforce consistently does this at NRF. Check my piece with Salesforce’s Rob Garf, Has mobile commerce turned a corner? – Rob Garf reveals Salesforce’s holiday retail data.
+
+End note: it is humanly impossible to see even a small percentage of the overall demos at NRF 2018. Apologies to any great ones that I missed. Feel free to share any good ones in the comments.
+
+Image credit - All demo photos by Jon Reed. Disclosure - SAP is a diginomica premier partner, as is Salesforce. NRF provided me with a press pass to NRF 2018. Diginomica is an NRF 2018 media partner.Read more on: MobileRetail e-commerce and the omni-channelUX and application design 

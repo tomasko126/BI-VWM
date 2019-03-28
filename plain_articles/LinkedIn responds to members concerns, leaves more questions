@@ -1,0 +1,29 @@
+
+Yesterday, we added some commentary to Ray Wang’s concerns about how LinkedIn had changed the ability of its members to download their data. Wang followed that up with another note riffing on a clarification by the company. Unfortunately, Linked In’s response poses more questions.
+Let’s wind the clock back.
+On 24th July, the company issued a statement on its security blog talking about the changes it made to the download process. It made the point that:
+…This change is also part of a larger and ongoing effort by LinkedIn to make the scraping of member data by third parties more difficult. Scraping is against our Terms Of Service and potentially detrimental to the members whose data is being scraped.
+OK – so…a sledgehammer to crack a nut and LinkedIn is now trying to fix its cock-up as it relates to the impact on members.
+But there are other ways in which LinkedIn could combat unauthorized scraping. Witness what ADP did when it thought Zenefits was doing naughties. In fact, as I will show later, it is already doing that on a selective basis. And since scraping is against their Ts&Cs, they could initiate proceedings against those it believes were scraping their site. So far we’ve not heard anything of that sort coming from the company i public statements.
+On 25th July, LinkedIn posted another update on its security blog saying:
+Earlier this week, we turned off our CSV connections download tool and asked our members to use another data export process.
+If by that they mean the 24th July posting was their request to members then fine but as far as I can tell, they didn’t advise any member directly by email. Why?
+At the end of the post, the company reiterates:
+Scraping is against our Terms Of Service and potentially detrimental to the members whose data is being scraped.
+As Wang points out in his latest update:
+There appears to be an internal LinkedIn effort to lock down access to the social graph by scrapers.  Based on conversations with over a dozen LinkedIn partners, many old time partners have had their LinkedIn feed access cancelled or terminated over the past 6 months.  The goal is to keep partners who may have been building new services and potentially competitive services on the LinkedIn social graph from gaining access.
+Wang has worded this carefully but in doing so, he is understating the issue. There are services we were successfully using for example that allow us to post directly from diginomica into groups of which we are a member. That’s data and content going IN to LinkedIn, not being scraped OUT. In fact no data  is scraped by any service we use because we see almost nothing of the LinkedIn social graph. Those posting services were locked out some weeks back.
+We are led to understand LinkedIn will negotiate access to allow for our services to reinstate the access method we use but it is up in the air at the moment. Rather curiously in our mind, there are other ways in which we can achieve the same effect but those alternative methods scatter the graph data. Why is it then that some services can readily post into groups while others cannot?
+One view is that LinkedIn wants the whole of the content rather than what we prefer to offer which is a linked headline and summary. Members can then link to our original content and still choose to hold conversations inside LinkedIn. We have no problem with that as part of the fair use quid pro quo in using LinkedIn as a distribution network.
+In its latest quarterly 10-Q filing, LinkedIn lists among the many risks to its business a potential inability to:
+…halt the operations of websites that aggregate our data and/ or combine it with data from other companies or sources, or copycat websites that have misappropriated our data;
+Later in the 10-Q, it provides a lot more detail, which has been boiled down into the statements made in the recent security posts.
+I see a fundamental problem here that LinkedIn clearly struggles to resolve and which is exemplified by recent events.
+The 10-Q makes clear that scraping attempts are nothing new to the company and that it has deployed a range of countermeasures to prevent it from occurring. However, it doesn’t seem to have squared the technical measures against its stated core value that:
+One of our core values is to make decisions based on the best long-term interests of our members…
+It is barely a year ago that LinkedIn settled a class action for having sloppy security measures. And while scraping is not the same as cracked passwords, it might as well amount to the same thing if scrapers are able to get to the whole of an individual’s social graph from inside LinkedIn.
+However, those same core values appear – at least from the outside – to remain something of a hostage to LinkedIn’s business model which, as I previously pointed it, is akin to Facebook’s.
+In short, the language used by the company may well be conciliatory but be assured that it won’t stand in the way of the business model to which it is accountable on Wall Street. Isn’t it about time LinkedIn got honest about this with its members so that we know what their real intentions are?
+By all means mine the social graph and monetize it but please be clear about what’s going on and why. If members interests are truly LinkedIn’s number one priority then it behooves the company to be better at communicating intentions than it is today.
+Image credit: Computing concept © Sergey Nivens – Fotolia.com
+Read more on: Future of work 

@@ -1,0 +1,72 @@
+
+The recent kiboshing of Digg Reader led to the usual misguided RSS is dead/no it’s not posts. That’s wrong on many levels. If you want to talk product deaths, it’s the fall of the crowdsourced bookmarking sites in favor of social media mega-sites that’s the obvious story (Digg, Delicious, StumbleUpon, etc, with only Reddit remaining relevant).
+But there was a hidden casualty of the Digg Reader demise: Digg simultaneously pulled the plug on a terrific push notification and curation service called Digg Deeper. Cue the requisite semi-pathetic apology:
+
+What made Digg Deeper cool? It was an easily configurable service that pushed the most popular content from your social feeds into your email or app – on a timely basis. (For me, the email-based option is crucial). Update: Nuzzel seems to offer something similar, but how it will stack up will take me some time to evaluate.
+Why care about news push notifications?
+Push notifications matter because they give us the confidence to step away from incessant monitoring of a noisy stream. We can trust that the most important content will be surfaced for us.
+In past years, there were tons of social push services; most have faded into oblivion. The reason for their demise? Twitter, Facebook, and LinkedIn imposed their algorithms on your main feed. So if you log in, in theory, they are showing you the most popular content. That gives external curation services a redundancy problem.
+But it’s not that simple. Take Twitter’s “what you missed” as an example:
+
+You have to remember to log-in to get the info, defeating the main goal of a “push.”
+Once you react to new Tweets, the “what you missed” section flows down the river, with no trail for later.
+Twitter is making algorithmic decisions about what you see. Plenty of that isn’t tied to news, but whatever folks are chatting about, which might be fun, but it often trivial. Retweeted marketing crud also hogs the feed.
+
+Enterprise professionals – our roles and news needs vary
+There are meager automated push options for enterprise news trackers. Before I get to those, here’s what I think matters for enterprise professionals:
+
+Our roles are different, but we’re all overly busy and dealing with the problem of excessive noise versus the news and content we need to do our jobs. We also want to stay on track with what our networks are up to, particularly when we are missing key events.
+Most of us have customized topics we want to follow. Some are vendor-related, like Oracle HCM or SAP HCM. Some are topic-related, like DevOps. Most of the topics we want to follow are not easy to set up as automated push notifications, due to the noise around that keyword.
+Increasingly, the topics we care about are being discussed beyond log-in walls, like LinkedIn and Facebook, where getting topic-related push notifications is basically impossible. We are dependent on our network of friends to (hopefully) surface that content for us.
+
+Timing is the difference between us. Most enterprise pros have a day job that is distracting enough. There is little need for real-time notifications on most topics, but some would like a daily briefing. Others are happy with a weekly update, if they can get an well-curated one. As for the occasional big real-time news or urgent update, we can only hope that surfaces on our social streams in a way we won’t miss – otherwise we may look foolishly unprepared at our next meeting or client call.
+We have too much faith in our algorithmic social feeds
+Most folks I talk to are willing to let their social networks surface what’s important. Given the dual problems of flawed algorithms and the social popularity contest that’s been hijacked by marketing and personal branding agendas, I urge readers to question the assumption that our networks will surface all we need. Investment in research and curation tools remains a differentiator.
+The only group that’s in good shape? Those who have time for a weekly research discipline which they have perfected – one that includes discovery time that takes us beyond our insular networks. However, this assumes you can get by without real-time notifications. That isn’t the case for all of us.
+Occasionally, I meet people who are able to use their company’s enterprise-grade monitoring tools to get this content pushed to them in targeted ways, or via intelligence reports. If you have access to such tools, I’d highly recommend it, as the best curation and news services have moved up to enterprise accounts – and no longer offer much that’s useful for free push notifications.
+News consumption and curation is a four step process
+Break this into four steps, with tools for each:
+1. Track breaking news in our industry, preferably via push notifications in case we are distracted by deadlines. (This was Digg Deeper’s specialty. In theory, Google Alerts does this also).
+
+2. A tagging system where we can store breaking stories and notable stuff that we can organize and consume later. For tagging, there are great paid and free choices (everything from Evernote to Diigo to whatever corporate tools you may have access to). I’ve written before on the virtues of Instapaper (free) for quick storage and sorting, and why it’s so valuable.
+3. A weekly/semi-regular means of reading content that is not dictacted by algorithms, but by our own subscription preferences. Readers like Feedly and Newsblur are still ideal for this function. However, they are not always as good for number one (breaking news) – at least without some tweaks, like building custom Twitter RSS feeds. There are other means of doing this besides newsreaders, which do take time to setup and prune. Subscribing to email newsletters is a common option.
+4. Ideally, a curation system that allows for posting of your favorite items as you read them (or later). For some, this is as simple as clicking on the “share” button on articles you’d like to share with your network. For others, a curated bookmarking tool that you share with the public could be a nifty value add for you and for them. I’ve written plenty on how I do this, currently using Pinboard and then posting out to my curated jonerpnewsfeed channels for my enterprise picks. You can also build a curated channel on services like Scoop.It (which is still free, but with some limitations for free acounts. Paid accounts are not out of reach of individuals. This is my media disruptions Scoop.It channel).
+Points 1-3 have choices based on the emerging subscriptions economy. We should be happy to pay modest amounts for such tools to ensure there is a business model behind them. Plus, paid tools tend to have better regard for our personal data than free tools, as Facebook’s bad behavior continues to remind us.
+Real time push notifications options are now limited
+So how do we deal with number one – breaking news via push notification? Aside from the free version of Nuzzel, which I am testing now, unless you have an enterprise-grade tool, you may be out of luck here. Paid versions of Nuzzel, which aren’t cheap, do some more sophisticated things. I asked fellow curator and diginomica colleague Den Howlett about his use of Nuzzle. He didn’t give me an overwhelmingly positive review, using the phrase “I have a bunch of alerts on there but it’s becoming nagware.”
+
+At the moment, I’m now dependent on Twitter app mentions and pings from colleagues for push news.
+Some like the paper.li option, which you can receive daily, but I find their auto-curated newspapers rudimentary to the point of utter uselessness.
+If you have an RSS reader, you can get The Tweeted Times there, and it will update you on popular tweets (they’ve told me they are going to move the refresh to 1-2 hours, and for now it is free).
+If you are willing to do a web refresh, Nuzzel and The Tweeted Times will refresh regularly if you go to the landing page of your auto-curation, which is based on those you follow (Nuzzel gives some list-based options too). Here’s my Jonerp Tweeted Times page as an example. Both are superior to paper.li, because they prioritize the shared items rather than spraying across topics without ranking them. Note: in addition to email-based alerts, you can do some push from Nuzzel into Facebook Messenger.
+
+Nuzzel can take advantage of Twitter lists, so if you follow master curators like Den Howlett (who is pretty much tracking every enterprise development with a pulse), or Jarret Pazahanick (who is particularly adept with SAP and HCM stories), you can get their up to date links, mixed, of course, with their Twitter rants and raves. I do that also on my main Twitter, but I also maintain a separate newsfeed for all of the most relevant content pieces I consume in a day (that newsfeed is also available as a daily email digest).
+Daily and weekly enterprise news curation choices are better
+Once we step away from the need for intelligent push notifications on real-time news, our options get better. Many web sites offer daily news subscriptions, including the auto-curations noted above. But you may have better luck on the human-curated dailies or weeklies:
+Den curates our diginomica daily newsletter, which you can subscribe to (just hit the red button above). That’s a handy daily roundup of diginomica’s best, served on a platter with commentary.
+I do the same on a weekly basis via my Enterprise Hits and Misses column.
+There are all kinds of topic-specific weekly email roundups. Two of the best are:
+
+ARCHITECT, a weekly curation and analysis of data-related news stories from Derrick Harris.
+Azeem Azhar’s Exponential View, a weekly curation on the future of tech that always includes a heaping of AI articles probably won’t find on your own.
+
+Daily email options include:
+
+There are some good dailies I track there, including TechCrunch’s daily crunch which keeps me on top of consumer tech stuff.
+If you track specific vendors via stock symbols, Seeking Alpha will send you updates on those including earnings transcripts. You can also get a variety of Daily Updates from Seeking Alpha, including their flagship Wall Street Breakfast.
+If you are an Alexa user, you may want to check my how-to on getting a halfway decent tech news Alexa Flash Briefing.
+
+I am religious about my Newsblur reader, which is the basis for most of the stories I curate. It’s prioritized for easy scrolling, with plenty of stumble factor and content discovery. I never miss a blog post from those enterprise commentators I think are essential. And via Newsblur I can port email newsletters into the reader, so I have an organized section of all email newsletters there. Here’s more tips on how we can all become curators.
+But organizing that is too time consuming for some. An easier weekly ritual would be Google News searches. You can set up automated push topic alerts in Google News (just do a keyword search within Google News, and scroll to the bottom to set up a Google News Alert). They aren’t perfect, but for some topics you will get a nice output. My Google Alerts on “Jon Reed and diginomica” surface web mentions I haven’t seen, but again, it depends on how you configure it. Sometimes the junk ratio is too high. Other times Google Alerts misses vital stuff.
+Yes, preference goes to tools that are part of your corporate domain. But: anticipate what might happen to your content if you moved jobs, or they switched tools. Sometimes a simple backup into a common format is enough. And of course, apps may also have to be scrutinized for enterprise compliance on your phone.
+My take – give me some intelligent push notifications
+Right now, intelligent push notifications in real-time are lacking. If you have something reliable for surfacing custom enterprise content via real-time push, I’d love to hear about it.
+I think you’ll find that human curation will still beat machine-based for the dailies or weeklies. But it’s not an either/or. I don’t mind some automated dailies.
+Since Digg Deeper bit the dust, I have to remind myself to check my networks a bit more often. I now have browser buttons that open up Tweeted Times and Nuzzel. Checking those at least once an hour is my current rhythm.
+But I forget, and that’s where my elaborate filtering and prioritization system is breaking down. I’ve done an obsessive fine job prioritizing noise levels, so I can shut channels down to different levels based on deadline urgency. But I’m in danger of being too filtered, and I tend to immerse too intensely.
+I crave an intelligent push service that will interrupt me in ways I find useful and not distracting. Right now I’m not getting it. But I’m getting all kinds of “pushes” from LinkedIn, alas, many of dubious quality.
+If I’m overlooking something good, do let me know.
+This piece is part of my diginomica series on curation and productivity. See the entire series on productivity, filtering, and beating the noise.
+Updated, Saturday April 14, 10am ET, with a number of small tweaks and lots of resource links. Also updated to reflect that Nuzzel does offer a free notification service via email, which I am now testing, that their CEO alerted me to. You can find the option in your profile settings.
+
+Image credit - Feature image - text THE END on the beach © ChiccoDodiFC - Fotolia.com. Digg Deeper screen shot from their web site.Disclosure - SAP and Oracle are diginomica premier partners.Read more on: Analytics planning and data analysisContent marketingDigital skills and trainingThe new professional and IT as a service 

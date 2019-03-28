@@ -1,0 +1,30 @@
+
+Dave Elkington, InsideSales
+After 11 years of growing its customer base and the data engine that powers its predictive analytics (see part 1), this year has been something of a banner year for sales acceleration vendor InsideSales. CRM rivals Microsoft and Salesforce both backed the company in a $60 million round of financing, it acquired sales pipeline analytics vendor C9 in May, and all the while its rapid growth continues.
+The latest move is last month’s launch of its Predictive Cloud platform, just before Salesforce’s annual Dreamforce conference in San Francisco. This will enable third parties to extend the use of the InsideSales predictive analytics engine beyond its own application into specific verticals or other aspects of business. It’s all part of a wider trend to mine data that the company had always anticipated, its CEO David Elkington told me when we met in London last week.
+There’s this trend in enterprise software that’s led to predictive analytics. A year ago, at Dreamforce, there was almost no conversation about predictive analytics. This year, that’s all we heard.
+What changed? Actually it’s the commoditization of big databases with open source versions — Hbase, Mongo and Couch. All of these databases have created some degree of ubiquity around how to store the stuff. Now people have it, and they’re saying what do we do with it?
+What do we do with data? Predictive analytics. I actually believe it’s going to change our lives.
+Proving value
+The company originally chose sales as its sphere of operation simply because it provides the most easily proven use case, Elkington told me. It probably also helped that highly directed inside sales agents were most amenable to the pattern of incremental micro improvements for which data science is best suited.
+I wanted to start where I could prove value. Because the challenge is — think about it, ten, eleven years ago, there was a lot of skepticism of machine learning and AI and all that. So I started it in the sales space because there’s such an easy and tangible demonstration of uplift.
+Our value prop is very simple. It’s not productivity, it’s revenue. Our numbers are — within 90 to 120 days you should see anywhere from a 15 to 30 percent uplift in revenue.
+Reinventing sales
+Now the sales acceleration space is becoming a huge opportunity, for InsideSales and other companies. Elkington sees the market evolving in a similar way to the marketing automation market, which has consolidated around four to five vendors — but ultimately reaching a much larger scale.
+The reason the market has such huge potential is because analytics and connected computing are reinventing the way sales operates as a business process.
+There’s a completely different way of selling using digital technologies, just like there’s a completely different way of marketing using digital technologies.
+The Internet’s disrupted sales and the result is this space that fits right between marketing automation and CRM, it’s called sales acceleration. It’s all of these tools that drive productivity using the digital sales process. You can’t pick a field rep and just put them on the phone. It is a completely different sales cadence. And it’s vastly more efficient.
+Very few people are even taking advantage of it right now and it’s a massive opportunity — there’s anywhere from $30 to 35 billion in opportunity sitting out there. It’s bigger than us. We’re riding the trend but we’re definitely not the creators of this trend.
+Platform play
+Opening up an API is the first step to becoming a platform that will allow InsideSales to extend its reach into other business processes as well as build up an ecosystem of partners.
+Our application consumes Neuralytics, that’s the name of this engine, through an API. We’ve opened that API to virtually anybody. So anybody can now go build predictive systems.
+In my opinion, it’s the democratization of data science. It’s kind of like, to dumb it down, it’s a PhD in a box. The alternative is go hire a bunch of PhDs or statisticians and give them a bunch of data and put them in the back room for a year and they come out and you hope they’ve built some interesting systems. What we’re finding is, the people that understand the algorithms don’t know what to do with them.
+The problem with a PhD is that you over-specialize. In business, you need generalization — how to abstract the value of time series stochastic modeling and say, well OK, but maybe random-forced algorithms are a better approach.
+A lot of our customers and partners have failed using predictive science experiments and have come to us and said, can we use your predictive cloud?
+My take
+Digital disruption is coming to the sales team, in the same way that it has already transformed marketing, recruitment and many other aspects of business operations. It’s taken longer because sales is an intensively human process, one that machines can’t replace. But the advent of machine learning and its ability to identify productive patterns of behavior is bringing about a new phenomenon: the machine augmented sales team.
+This is a fascinating example of smart machines working in symbiosis with skilled humans. The machines do the grunt work of analyzing the data — which they’re very good at — while the humans do what they do best, which is interact with the customer and close the sale.
+Sales is such a big component of business activity that it’s no surprise Elkington is talking about a market opportunity counted in tens of billions of dollars. Being in on the ground floor of this digital transformation, InsideSales looks set to be one of the key vendors as it plays out. One to watch.
+Disclosure: Salesforce is a diginomica premier partner.
+Image credits: Woman’s finger touching statistics screen © Ruslan Olinchuk – Fotolia.com; Headshot courtesy of InsideSales.
+Read more on: Analytics planning and data analysis 

@@ -1,0 +1,38 @@
+
+Quantum Experience
+IBM has stepped into the quantum age by making a quantum processor available in the cloud as an on-demand service for experimental applications. Will there be an enterprise application any time soon?
+The processor is housed at IBM’s TJ Watson Research Center in New York, where it is kept in a highly-controlled, super-cooled environment. This is because quantum systems and quantum information are extremely sensitive and error-prone, and can be affected by vibration, radiation (including heat), and other local interference.
+The ‘IBM Quantum Experience’ combines the new processor with a dynamic user interface in the cloud, demonstrating that quantum computing is no longer a theoretical concept, but an early-stage, working technology with a roadmap for scalable development in the decades ahead.
+So how does it work? Here’s the science bit.
+The processor comprises five superconducting quantum bits (qubits). Qubit-based computing is a radically different concept to classical, silicon-based systems, in which a switch (transistor) is either on or off. By definition, there’s no state between 1 or 0 in a binary system, but in a quantum system any number between 1 and 0 is a valid state, according to Dr Stefan Fillip, quantum researcher at IBM Research in Zurich.
+In this way, quantum processors use the phenomenon of superposition, in which a bit can be at 1, 0, or both at the same time – imagine a coin spinning so fast that it is showing heads, tails, and every point in between. (Or the proverbial cat in a box, which may be simultaneously alive, dead, or looking a bit peaky – until you open the box.) The higher the number of quantum bits, the higher the number of simultaneous calculations that can be made by the processor – a form of highly efficient parallel computing.
+Finally, such processors also use the principle of quantum entanglement, in which any change in one of a pair, or group, of subatomic particles creates an instantaneous change in the other(s), meaning that the particles form a single integrated system. Pile on more and more bits, and such a processor can be in any number of possible states at the same time, exponentially. This is why quantum physics deals in probabilities, not absolutes.
+IBM’s Fillip explains that the five-qubit machine is but a small – if significant – milestone on the road towards creating a universal quantum computer. He says:
+
+Yes, it is a true quantum computer, but a very small one. Working with superconducting qubits gives us the opportunity to play around and test quantum mechanics and what you can compute with the technology. It’s a stepping stone towards a large quantum computer.
+
+But what is any quantum computer for? Says Fillip:
+
+The application is probably not geared towards personal use… [but] what IBM is doing is fostering more applications for the technology. Making this publicly available will help to answer the one big question of what it is for and develop the field of quantum computing.
+
+In a sense, therefore, IBM is outsourcing and open-sourcing the questions ‘why?’ and ‘what do we do next?’
+But there’s a caveat, explains Fillip: the processes of a five-qubit quantum machine can be simulated on a classical binary device, so “there’s no claim that there’s a ‘quantum advantage’ as yet,” he says. 
+However, in five to 10 years’ time, IBM predicts that 50-100 qubit systems will be up and running. Much beyond that, and quantum processors would pass the point at which binary systems could keep up with them without access to impossibly vast memory resources. 
+No more Moore?
+That implies that the Moore’s Law-defined era of binary processors may be drawing to a close. But is it, given that the nature of the computations would seem to change with the nature of the computer? Do quantum computers actually have any day-to-day or enterprise applications?
+The long-term answer is yes, given that a core advantage of quantum processors is their ability to analyse large amounts of unstructured data. Quantum computing and Big Data (or the types of super-massive data that will be gathered by the SKA Programme and similar projects), would seem to be made for each other. 
+And arguably, the less structured data becomes, the less likely that research will be prone to confirmation bias, opening up ever more esoteric areas.
+Other real-world applications are fast emerging, however. Increasingly, R&D is taking place at subatomic (quantum) level across many different industries. For example: the search for, and manufacture of, new materials with extraordinary properties, such as super strength, resistance, or superconductivity, and the quest for new medicines. Fillip says:
+
+Nature is quantum, in that you have to deal with the laws of quantum mechanics to describe nature and to simulate what happens in nature, such as whenever you want to understand or develop new types of material or processes, or chemicals and drug designs. Classical computers are not as good at simulating the natural world.
+
+Another application is security, says Fillip. For example, in so-called ‘blind quantum computing’ the computer has no ‘idea’ of what type of data it is processing, unlike in binary systems, in which data are typically described.
+However, given the extreme sensitivity of quantum systems, it’s highly unlikely that there will be a quantum computer on your desk in the next decade. But Fillip adds:
+
+In the long term, there is no known obstacle to making them more compact and personal. We are at the beginning of this stage.
+
+My take
+Even quantum physicists don’t fully understand the strange and counter-intuitive world of quantum mechanics, in which single particles exhibit wave-like motions or communicate with each other instantly (in apparent defiance of Einstein’s universal speed limit). But scientists know one thing: quantum mechanics works, and some of the most bizarre theories have been tested under lab conditions.
+While the comparatively slow speed of cloud communications would seem to strip away at least one benefit of quantum computing, the advantage of ‘qubits in the cloud’ is the unique processing power of those quantum states. Over the next 10 to 20 years, that potential will become increasingly obvious, even as the technology becomes more and more accessible.
+So our on/off romance with silicon may soon be replaced with a younger, less predictable model: a force of nature, no less, and one that’s super-small and super-cool.
+Image credit - IBMRead more on: Cloud platforms - infrastructure and architectureIoT robotics and AIUse cases 

@@ -1,0 +1,60 @@
+
+Cain at Couchbase Connect ’17
+When I went to Couchbase Connect 2017 Silicon Valley, my goal was to get a gut check on Couchbase’s NoSQL pursuits at enterprise scale. I got some of that – see my use case, How DreamWorks Animation uses Couchbase as a service for microservices at scale.
+But I quickly became interested in a different angle: Couchbase’s push to be the database for digital transformation in the enterprise.
+Yeah, I’m used to hearing “why you need our software to avoid being disrupted” – but not from a database vendor.
+Couchbase’s digital transformation agenda also includes fresh positioning as “the engagement database.” But what is an engagement database? And is this a “rip and replace” scenario, or does an engagement database happily co-exist with other players, as it does in the Dreamworks example?
+Several weeks ago in the UK, my colleague Derek du Preez sat down with (fairly) new Couchbase CEO Matt Cain. Derek’s piece, Couchbase CEO – ‘Ignore the engagement economy and you will lose’, addresses Cain’s leadership plan (full speed ahead, basically), and explains Cain’s engagement database pitch. Derek also got Cain’s take on the upheavals in the NoSQL market, including the receivership and asset acquisition of Basho. He also reviewed some customer findings from a commissioned IDC report. I won’t repeat those things here – check it out.
+Couchbase – 90 percent of digital transformation projects deliver underwhelming results
+I do, however, want to evaluate how Cain positioned Couchbase as a driver of digital transformation. It begins with some startling numbers in Cain’s keynote:
+$2.2 trillion is projected for digital transformation spend by 2019, but:
+
+90 percent of digital transformation projects fail.
+
+These numbers come from a Couchbase report of 450 CXOs (Couchbase digital transformation study). The “90 percent of DX projects fail” line got picked up by media as a sexy headline. The actual findings are a bit more nuanced: “90 percent of digital projects fail to meet expectations and only deliver incremental improvements.” That’s still a concerning number. This stat cited by Cain was also notable:
+
+Companies with a strong customer experience retain 89 percent of their customers versus 33 percent retained by low CX companies.
+
+Another key stat from the report:
+
+89 percent of enterprises say their industry is either being disrupted by digital technology, or such disruption is only a matter of time, even after spending an average of $5.7 million on digital transformation in the past year.
+
+How databases impact digital transformation
+Tying that back to databases may seem like a stretch, but not to Couchbase. From that same CXO report, Couchbase found that:
+
+84 percent of respondents said the limitations of legacy databases caused problems for them on their digital transformation projects.
+
+What kinds of limitations? The report breaks it out:
+
+86 percent cited a lack of agility when developing new applications.
+61 percent were unable to scale applications to suit demand.
+Enterprises have to wait an average of 28 hours before their databases could take advantage of data, which makes real-time data use an unattainable goal.
+Just 19 percent believe their current database would be up to the task of supporting modern technology such as virtual reality, augmented reality, and Internet of Things.
+
+Matt Cain
+Couchbase says an engagement database is better suited for digital transformation projects because it is: “Always on, always fast, seamlessly mobile, built for change at scale,” cloud-based, and, last but not least, “secure secure secure.”
+After the keynote, Cain made the case for database disruption:
+If you look at the layers of technology, the databases are really on the last frontier of layers yet to be disrupted. Now why is that the case? Well, the database is the platform that’s running mission critical applications. It requires a pretty significant, compelling event for an enterprise to look at their database solution and potentially make a change. What I would argue is, this digital transformation that we’re seeing is that compelling event.
+Cain told me that’s why Couchbase is geared for enterprise success:
+Couchbase is at the intersection of two major transitions. One: enabling customers with their digital initiatives. And two: the technology transformation of new data schemas, open source technology, and NoSQL data bases. We are literally at the intersection of those two transitions, which is why we’re having the success that we are with our enterprise customers.
+Engagement databases are more than rip and replace
+One mistake NoSQL vendors often make is to justify their enterprise traction with “rip and replace” scenarios. For me, the most refreshing thing about Couchbase Connect was seeing a different – and much more realistic – positioning. Check this “before” slide, and apology in advance for the bad lighting:
+
+Couchbase argues that “point solutions everywhere” is not a sustainable way to transform. Their model looks like this:
+
+It’s a deceptively simple slide, but a potent one – far more realistic than the “NoSQL will rip and replace transactional systems” schtick. Obviously, there will be tension around the edges as databases from each area attempt to push market share and technical capabilities. But that’s a good tension for end customers, ensuring choices for each use case with less one-size-fits-all fuzzy overreach.
+I can’t lie: I struggle with the “engagement database” catch phrase. It seems like one of those happy phrases you can never really nail down. But Cain said something to me that really cut through the marketing fuzz:
+For any digital transaction, whether I’m booking a flight or buying something over e-commerce, what have you, there are on average 1,000 interactions for that one transaction. Legacy solutions were built and optimized for the transaction. The very experiences that we expect as consumers, and that our customers are trying to create for their customers, is managing these interactions in a very compelling and differentiated way.
+And that’s how Couchbase’s data pitch comes together:
+Architecting a solution that can combine structured and unstructured information, move, manipulate, and manage data at that level of volume on a real-time basis across all over your devices from cloud to the edge. That’s what our focus is. And I think that’s why you’re hearing from our customers that this is a new solution that is allowing them to do things that they otherwise wouldn’t be able to.
+Cain also brought up Couchbase’s survey finding, that legacy solutions are incapable of supporting the applications that make digital transformation a reality for the end customer. Couchbase is betting its future that a different platform is needed:
+Implicit in what I’m saying is that we need a fundamental data architecture that supports the world of unstructured information and can create a customized experience for you that’s different than me and have an application that’s learning on an instantaneous basis about your preferences, which could be orthogonal to mine – and how do I create differentiated experiences for every one of my customers.
+My take
+It’s a nice change of pace to hear a database vendor talk so passionately about changing the end customer experience. That’s an interesting play for a NoSQL vendor, given that most NoSQL growth seems to be based on developer engagement and bottom-up adoption.
+If Couchbase wants to succeed at the enterprise level – particularly with a digital transformation pitch – it will have to “engage” beyond a tech audience. How will they do that? Cain told me:
+We need to be mindful of the developer; we need to be mindful of the IT teams, we need to be mindful of the operations teams, we need to be mindful of the business leaders or line of business leaders who are responsible for the overall outcomes.
+Another challenge Couchbase has is bringing digital transformation and customer experience to life after both concepts have been severely over-flogged, to the point where meaning is lost. The data Couchbase is cultivating helps. Next up, they’ll need more of their own thought leaders on industry transformation to emerge. I found Cain’s frank comments about the difficulty of digital change reassuring; this is a worthwhile pursuit, but as we hit on here at diginomica all the time, not an easy one.
+The best way Couchbase can cut through this buzzword meaning deficit is through the advocacy of their own customers – something they seem to understand. This time around, the Dreamworks Couchbase-as-a-service story was the best presentation I heard on Couchbase at enterprise scale. I have two more use case interviews from the day with Couchbase to file. Both are compelling, but live outside the core enterprise market, so I look forward to more enterprise customer interviews in the future.
+End note – one day before publication, Couchbase issued a new press release, announcing Deloitte ranking them as the 120th fastest growing company in North America as part of Deloitte’s 2017 Fast 500 Technology Companies. Cain cites revenue growth of “more than 1,000 percent between FY2013 and FY2016” in the release.
+Updated, Saturday November 11, 10am UK time with a few small tweaks for reading clarity.
+Image credit - Feature image photo of Cain by Jon Reed. Thumbnail photo provided by Couchbase.Disclosure - Couchbase paid for some of my travel and expenses to attend Couchbase Connect 2017 on a press pass.Read more on: DevOps NoSQL and the open source stackDigital transformation - frictionless enterpriseNoSQLOpen source 

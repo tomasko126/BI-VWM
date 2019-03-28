@@ -1,0 +1,74 @@
+
+MongoDB World 2015 began with President and CEO Dev Ittycheria rallying the assembled users with some potent stats. Citing the seismic shifts in the software market in every layer of the IT stack, Ittycheria said:
+I believe the database market is ripe for disruption, and I believe the time is now.
+And for those MongoDB stats:
+
+MongoDB is the most searched term in the NoSQL space.
+MongoDB has 10 million downloads, 2,000 customers, 1,000 partners, and 300,000 registered students.
+LinkedIn’s MongoDB job profile index is “off the charts” – people are “truly building their careers around our technology.
+db-engines.com recently announced that MongoDB was the top database of the year for the second year in a row.
+
+Later in the day, I heard field views on MongoDB practitioners on how these results are impacting customers. During a presentation for Infusion on MongoDB in the financial services industry, senior consultant Ryan Chase reviewed several scenarios his use cases are finding effective, including ODS (operational data stores), better data storage options, and storage of large documents. For the ODS scenarios, Chase outlined several key areas where MongoDB excels:
+
+MongoDB can provide an integrated view of the data from multiple systems that is optimized for the needs of consuming applications.
+MongoDB can store the large data volumes easily, scaling horizontally as needed.
+Expensive calls to mainframe or RDBMS based systems can be offloaded to a MongoDB based ODS with a reduction in cost.
+The ability to build an ODS with application optimized data encourages better data usage.  New reporting and analysis systems can be built at lower cost if they leverage a MongoDB based ODS.
+
+Reality check – turning data into business outcomes ain’t easy
+That mix of improved effeciency on the one hand, and new data-driven business models on the other, were big themes on day one.
+But hold up a sec – that doesn’t mean we’ve figured this “data-driven business” thing out. During the closing day one keynotes, both speakers raised warning flags. First up, Dan Malinger poured some cold water on data science hype:
+
+Dan Mallinger of Think Big citing danger of data science initiatives that never go back into the biz (e.g. Netflix challenge) #MongoDBWorld
+— Jon Reed (@jonerp) June 1, 2015
+and:
+
+Mallinger: for biz believe in data science, it must be something actionable – something they can touch, monitor and measure #MongoDBWorld
+— Jon Reed (@jonerp) June 1, 2015
+The next speaker, Hilary Mason, drove the point home:
+
+Hilary Mason of @fastforwardlabs There is no greater insult than having an elegant solution to an irrelevant problem #MongoDBWorld
+— Jon Reed (@jonerp) June 1, 2015
+A meeting with MongoDB partner Attunity reinforced this point from a different direction. The Attunity team pushed back on data science romance by confirming that for their clients (which includes a sizeable chunk of the Fortune 100), data science projects are a non-starter until data from diverse sources is properly prepared – not as easy thing for an overburdened IT team to contend with.
+How Saks Fifth Avenue turned disgruntled developers into rock stars
+These themes came together during the most compelling customer presentation I attended Monday, “Building a Culture of Innovation at Saks Fifth Avenue.” Presenter Larry Glenn VP, Platform and Systems Development, Saks Fifth Avenue/HBC Digital, spoke memorably about why culture change is integral to modern IT.
+But Glenn didn’t promote that over-used bromide about “recruiting the best and brightest.” Instead, told the story of how his team was able to turn his existing team of disgruntled IT workers into MongoDB-savvy high perfomers – the kind of creatively engaged developers that make the difference between good projects and bad.
+Saks Fifth Avenue is part of Hudson’s Bay Company, the oldest company in the USA (founded 325 years ago). When Glenn joined Saks in 2007, it wasn’t a pretty picture. The tech was clunky and morale was low. Fast forward to today:
+
+Saks.com is now a very successful luxury retail site. Despite the economic downturn, the site’s revenue is four times what it was in 2007.
+Saks.com is consistently rated with the highest uptime and shortest response times during the holiday season, despite peak traffic hours that are “orders of magnitude higher”.
+As Glenn puts it, “Our tech stack is now pretty enviable. We’ve gone from being Java touching Oracle with something in the middle to mostly a Scala shop today.”
+The emerging Saks.com stack is API-heavy, moving to microservices with “a lot of MongoDB behind it.”
+Glenn describes his team as “incredibly strong.” These days, when they interview people, the usual response is, “Geez, I’d love to work here.”
+
+“We didn’t bring in 500 consultants”
+But it wasn’t always this way. In 2007, the atmosphere was bleak: IT teams working in crisis mode, getting grilled by business when crashes occurred. The site was notoriously unstable on heavy traffic days, and there was “no trust” between business and IT. Glenn:
+When I came to Saks in 2007, it was not a great environment for technologists. We had a big, brittle, 2000-style e-commerce environment that had been poorly implemented by a bunch of consultants who had disappeared. Our tech stack was enterprisey – big stuff you weren’t allowed to touch.
+The company decided it needed to be fixed, and fixed now. We had a goal to build a world class team.  We thought it was a great opportunity to take something apart, fix it, and put it back together again. it didn’t look like a winning proposition. But it didn’t end badly – it ended quite well.
+Except: they didn’t do the expected. As Glenn told us, they didn’t spend a ton of money. They didn’t bring in 500 consultants: “All we touched was the culture.” So how is that done? Glenn points to three keys:
+1. The art of building great software is changing rapidly. If you’re not continually taking advantage of advances in new tools and techniques, and tapping into people’s drives to learn, then you’re going get left in the dust.
+2. You can’t always recruit the most expensive talent – sometimes you need to work with the people you have: “Don’t confuse the things that someone’s been doing in their job with the things they are capable of – if you took their handcuffs off and let them discover their own inner drive.”
+3. Building software should be intrinsically rewarding to the people that do it. Too many people work in hyper-controlled environments. How can such a job be intrinsically rewarding? How can you consider yourself a craftperson when the business users are yelling at you?
+How to build a better culture
+Building a better culture sounds vague in writing. But Glenn offered some specifics on what worked:
+
+Breaking the wall between business and IT – Glenn encouraged business users to come and interact with all IT team members, not just the managers.
+Gave IT teams more control over their day, more autonomy over their tools, testing, and language choices.
+Encouraged team members to see themselves as generalists here to solve problems, not as specialists tasked with one limited job.
+Gave tech teams high quality tools (e.g. good laptops), and loosened restrictions on what they can use and download.
+Implemented an 80/20 rule, which allows team members to spend 20 percent of time on their own projects (This did not impact project delivery timeframes).
+Gave people 2-3 hour time blocks to immerse in their work – didn’t disrupt that with excessive meetings.
+
+One of Glenn’s most interesting points: giving employees more autonomy encourages “background processing” – in other words, pondering ideas and taking initiative on their own time. Background processing includes the occasionally brilliant notions we sometimes have in the shower, and as Glenn put it, “No one has shower ideas about things they hate doing.”
+Another key point: improving the IT culture means improving the technology. Agile approaches and continuous delivery reduces the stress of huge deadlines that puts teams in sleep-deprivation mode. For Glenn, this means giving people the ability to work with tool that aren’t part of their “tightly controlled tech stack.” Even better: “This helps our own stack to evolve, and it’s got to evolve.”
+Developers pursuing their own stack has paid off for Glenn time and again. At one point, he wanted to move to Clojure. But the developers felt strongly about Scala. “They voted with their feet – and they were right.” Later, when Saks.com went to MongoDB, the team was already familiar with it from their own tinkering. “Letting them play with different tools makes them a better generalist,” says Glenn.
+Helping the business to grasp these software changes isn’t easy – it’s not their job to focus on it. As Glenn puts it, the cost of trying something is so low now, “you might as well just do it.” That’s wildly different from the six figure, multi-region enterprise software negotiations business grew up on.
+Wrapping his presentation, Glenn seemed a bit sheepish that the success of Saks.com comes down to culture, and treating people like people, not resources:
+We didn’t focus on solving technical problems, we focused on creating an environment where problems could get solved.
+Maybe it’s not that simple for some companies, I don’t know. It certainly worked for Glenn. Now let’s see what day two reveals.
+
+Image credit: Photos by Jon Reed.
+
+Disclosure: MongoDB paid for the bulk of my travel expenses to attend MongoDB World.
+
+Read more on: Analytics planning and data analysisNoSQLUse cases 

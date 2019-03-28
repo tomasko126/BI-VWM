@@ -1,0 +1,60 @@
+
+
+diginomica hit: Dreamforce wall to wall, by Stuart, Derek, Madeleine, and Phil
+quotage: “At a time when machine learning has hit the ‘peak hype’ apex of the famed Gartner hype cycle, there’s a danger of people getting carried away in their anticipation of what can be achieved with this new technology. This is a classic pattern with any promising emerging technology — before people really understand it, they tend to overestimate what can do for them. The next phase of the cycle is that they get disappointed when it fails to live up to their overinflated expectations, and they end up losing faith just as it starts finally to prove its worth.” – Phil, from Dreamforce16 – Is Salesforce Einstein really rocket science?
+myPOV: I can’t give you the full rundown on our Dreamforce coverage – 36 stories and counting, browse at your leisure. I picked Phil’s piece on Einstein because AI is something of a meta-theme of this week’s hits and misses and a marketer’s wet dream pre-occupation in general. So what I’ve done here is to pick a handful of stories indicative of what you will find:
+
+Dreamforce16 – Benioff – why I really wanted to buy LinkedIn – rumor clarifications. And: it wasn’t about LinkedIn’s data. (Stuart)
+Dreamforce16 – Brexit, trailblazing and co-opetition – catching up with Keith Block – executive sit downs. (Stuart)
+Dreamforce16 – Smashing the glass ceiling – tips from minority leaders – diversity and future of work (Madeleine)
+Dreamforce16 – how Accenture is skilling up for Salesforce – partner prognostications, with Accenture pledging 81,000 Saleforce consultants by 2020. (Phil)
+Dreamforce16 – GE Aviation breaking down data silos with Salesforce Wave – customer use case (Derek)
+Dreamforce16 – Farmers Insurance CIO advises on how to innovate around legacy – customer use case (Derek)
+
+Even if you’re bloated with Dreamforce content, you might fancy a look at the use cases. Here’s our full customer use case library spanning all shows and topics.
+diginomica three –  my top three stories on diginomica this week
+
+Healthy HR for seniors at ResCare – Janine adds another HR use case to her diginomica stash, a Cornerstone project for unified talent management. As always, change management tactics come into play.
+Black women in the workplace, 2016 – climbing a steep ladder – Gail Moody with a timely and effective follow-on to her last piece on the politics of diversity in tech. Moody raises issues that are hard to talk about but matter greatly, such as differences in professional perceptions of “assertive” white and black women.
+Twitter’s dilemma – why you should care – chuffed and stoked to welcome Denis Pombriant to the diginomica ranks as a contributor: “Advertising is a limited business model and at some point—maybe now—we’ll outgrow it and need to figure out ways to make money that do not include selling eyeballs.” Yep, that’s an amen.
+
+Vendor analysis, diginomica style. Here’s my top choices from our vendor coverage:
+
+Demystifying AI, ML, DL with Vishal Sikka and real world examples – the hype and misunderstandings around AI are becoming as unbearable as a Justin Timberlake poetry reading. Den takes action with Vishal Sikka, a man who knows a thing or two about AI. History, progress, concerns are all aired. Sikka thinks a better grasp of history will reduce the fear of AI (it’s been around for a long time), along with an understanding of how AI will enable humans to work with and alongside machines. Read further for details on Infosys’ own AI plans.
+‘We’re doing it wrong’ – Vandana Sikka on computer science education – a double dose of meaty topics from Infosys, again from Den: “Instead, Sikka points to the way very young people are exposed to computing devices and, when given the chance, will work these things out for themselves. Using an example from India, she told of a project to bring electricity to a hill village. As part of that project, the team took along compute devices. They found that children intuitively knew how to explore the things they were given and didn’t need much more than the most basic help.”
+
+Jon’s grab bag – Another week, another shishkabobin‘ of archaic HR practices by Brian Sommer. This time, it’s consulting recruitment that’s caught his ire. (That trick Sommer played challenging consultants to identify their own marketing tagline was diabolical). Nobody likes to load up on insurance, but in the wake of countless embarassing firewall breaches, Kurt Marko makes the cyber insurance case (Cyber insurance – a necessary cost of modern business).
+Den donned his stat geek hat to crunch some interesting diginomica traffic numbers in Sharing the love – customers rule, this is how it works. Short version: readers dig customer use cases, and we like doin’ em. There’s a method behind our editorial madness – sometimes anyhow.
+Best of the rest
+The bleeding edge of AI – quantum grocery picking and automated vehicles by several scribes
+quotage: In any case, drivers will still play a large role in Lyft’s business model for the next decade, Lambert said. Phase one, with human drivers, is currently underway. Five years from now is phase two, a “hybrid” system with autonomous vehicles manned by human drivers that can aid the cars if certain routes are unable to be performed by the car alone. In 10 years, we can expect “fully autonomous” Lyft vehicles, Lambert said, but even then human drivers won’t be entirely out of the picture.” – Christian Stafford, Lyft CTO: Future of transportation is the end of private car ownership
+myPOV: The auto industry is a fascinating disruption case. Some changes are immediate (Uber, Lyft); some are on the slow burn (autonomous cars). But when the future does come, the world is gonna be a different place – no more parking tickets? Friday night cruising rituals? AI and machine sophistication plays a role, as in Stafford’s piece above – thus the ten year timeframe. But when you see news like Germany calls for a ban on combustion engine cars by 2030, you know the future is coming on fast.
+Meantime, unpacking fairly straightforward services points to AI’s current limits, such as Bob Dorman’s At the bleeding edge of AI: Quantum grocery picking and transfer learning. This piece has some technical nuances, but the gist is that automating delivery services poses “huge mathematical challenges.” Yep – that’s where quantum computing might come in (someday – how soon depends on who you want to believe).
+Turns out automating grocery delivery is a “four-dimensional” problem. Dorman: “Even with AI, the problem is that robots and the neural networks that will imbue them with sufficient cleverness to perform a particular task have immense difficulty in learning new tricks while remembering old ones. So handling an inventory of over 48,000 items of all shapes, sizes, and consistencies would be a big ask.” Learning new tasks while retaining older habits requires new AI tech, called “progressive neural networks.” That’s where these new simulation tests Dorman describes come in.
+So yeah, the robots are coming, but they’ll claim the focused tasks first. Complicated work/service routines are still the realm of humans, with our beloved ingenuity and inefficient imperfections.
+Other standouts:
+
+
+An inflection point for HCM executives – Vinnie Mirchandani and I don’t agree on some key conclusions from his Silicon Collar book on the impact of robotics on the future of work. But I do agree with this: “I am firmly convinced HCM executives are in for a dramatic jolt. They face massive opportunities and challenges.” Machines are becoming a source for talent, recruiting is broken, workers are becoming more mobile, the list goes on. Oh, a degrees are (mostly) outdated, apprenticeship models are in dire need of revival, and employers hire the wrong people. Now we’re getting somewhere…
+
+
+Honorable mention
+
+Turning APIs into Products: The Next Stage of Business Growth – integrating customer data via APIs = new biz models.
+Why Salesforce Should Buy Twitter  – “Bear with me before dismissing me as crazy” – I would never dismiss someone almost as crazy as I am.
+Analytics about people – nothing but land mines all around – “When we do analytics on cash , inventory etc every unit is the same and we can make good decisions on aggregated information . People are not the same – and at an aggregated level, the data is usually misleading.” Yes!
+Event Report – SAP / Trenitalia Digital Summit – Always tough to have to do an event in Rome. Fortunately Holger Mueller made the lifestyle sacrifices to get this content to you.
+DevOps requires teamwork, tools, techniques, and above all, tenacity – Concise, but still some meat on the bone.
+The Internet of Things Sucks So Bad Even ‘Amateurish’ Malware Is Enough – Yeah, this malicious crud is real. I riffed on the enterprise implications in A massive IoT security breach hits the web – how should enterprises respond?
+Good Behavior is a Business Opportunity – A hopeful – though I fear wildly optimistic – case for ethical advertising based on an enlightened/expansive view of who a company’s true stakeholders are.
+Whiffs
+For whiffs, it’s hard to beat having to recall phones that caught fire that were replacements for others that caught fire. Bizarre twist – here we thought Apple needed to innovate, but all they have to do for a stock price surge is make phones that don’t light up like a roman candle when you’re boarding an airplane.
+Microsoft shouldn’t get to duck under whiffs radar for its abominable handling of Windows 10 updates either. The comment thread on this ZDNet post is a study in customer exasperation. To add insult, Microsoft is turning its back on Windows 7 and 8 users, creating a forced march into a user experience abyss. Tech writers who cover Microsoft are getting it good by getting these raw, virulent (mandatory) updates nice and early courtesy the masochistic Windows Insider program. Commenter Tony Barnes had a case of the Microsoft Mondays:
+W10 is approaching unfit for purpose status as Redmond’s permanent beta with take it or leave it alpha updates program implodes due to hubris, entitlement, arrogance and greed… talk about golden goose ignorance.
+Between Samsung and Microsoft Windows walking their own planks, the holidays came early for Apple this year, who gets a hall pass for a crummy watch. Oh, and we should add Google to that list also. I’ll get their latest design fart UX horrorshow Android OS “upgrade” next week. For now, though, we should give Yahoo another encore: Yahoo didn’t install an NSA email scanner, it was a “buggy” NSA “rootkit”.
+We don’t know yet what government agencies searched Yahoo email for, or what keywords they might have used to comb through if they did. Oh, and Yahoo recently asked users to change their passwords for a totally different (and alarming) breach. Good news is I hear Yahoo is sending all affected users an “I was hacked and spied” t-shirt, with “email like no one’s watching” on the back.
+Which #ensw pieces of merit did I miss? Let us know in the comments.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman is choosing success or failure road - Fotolia - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, Infosys and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and misses 

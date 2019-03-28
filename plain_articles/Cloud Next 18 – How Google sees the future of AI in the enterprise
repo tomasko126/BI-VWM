@@ -1,0 +1,27 @@
+
+Artificial intelligence is set to be a big theme of Google Cloud Next 2018, which opens today in San Francisco. As a prelude to the event, I recently caught up with Rajen Sheth, senior director of product management, who heads up Google’s cloud AI and machine learning product team. Here’s what he told me about how Google sees the role of AI in the enterprise.
+One thing he emphasizes is that AI is a really significant technology development — one that’s arousing a lot of interest and which will have a profound impact, but which is still at a very early stage:
+When I present to any of our customers, usually the first slide I put up is a picture of the Mosaic browser from 1994. My point to them is, AI is where the Internet was in 1994. It’s just now starting to expand to the point of really impacting the average individual, but still very nascent.
+I think people are still trying to figure out exactly what it’s good for, exactly what it’s not good for. A lot of businesses are trying to figure out, is this something they should be dealing with or not, and in what ways? And I think similar to the Internet, I see this as becoming a fundamental foundation of computer science over the next 20 or 30 years.
+Google has AI offerings that cover three different levels, he explains.
+
+Some organizations just want to build their own AI models using Google’s specialist TPU machine learning hardware running in the Google Cloud. But that level of expertise is restricted to a handful of industries, such as financial services.
+Therefore Google also offers AI services it has developed, such as computer vision and natural language understanding. These can be further tailored to specific business requirements. While the classic machine learning example of “recognizing a dog or a cat is not that useful to a lot of businesses,” it clearly might have value if a machine were able to recognize specific products in a store, or spot defects on a factory line.
+The third layer is creating packaged solutions. One example is AutoML, which uses machine learning to create a machine learning model when fed a specific set of data. Google is also working with customers to build industry-specific solutions, in areas such as retail, healthcare, manufacturing and oil and gas.
+
+The future of AI
+Whether it’s Google building the solution or customers doing it themselves, AI is extending the potential of computing into new areas of automation, Sheth believes:
+Everything we’ve seen in the cloud up to this point has been around how do you create information or data, how do you consume it, how do you manipulate it and analyze it? This takes it to a whole new level which is, on top of that base, how do you automate and how do you create actions?
+So what does the future hold? Sheth says the most impactful applications of AI are those where people aren’t even aware of the technology:
+I think that it works best when people aren’t thinking about, ‘I’m interacting with AI’ — where they’re interacting with an application that is empowered by AI and just does magical things for them. This is where things like Google Photos has taken off. People don’t think about, ‘Hey, I’m interacting with AI.’ They’re thinking about, ‘Hey, I want to find every picture of my daughter on the beach.’ And it’s able to give them that information.
+Similarly in business, I think that’s where we need to head for. We should spot the problems that we’re going to be able to create magical experiences for.
+He cites three areas where AI is already being applied with some success:
+
+Automated assistance — for example the use of chatbots to respond to customer service enquiries.
+Process efficiency — examples include predictive maintenance and demand forecasting
+Creating structure — extracting structured data from unstructured sources, such as archived documents, audio, video and images.
+
+The third has particular resonance for Google, he adds:
+A lot of areas where we’ve seen machine learning in enterprise over the last several years is in structured data, but I think we’re now entering the realm of unstructured data — being able to deal with voice, video, images, documents that, we’ve always been trying to crack that nut. Ever since the Google search appliance days we were doing that, but now we have a whole new set of tools to be able to make sense of that data.
+We look forward to seeing what new solutions emerge at Cloud Next over the next few days.
+Image credit - Big science head © Sergey Nivens - FotoliaDisclosure - Google has funded the author's travel to attend Cloud NextRead more on: Cloud platforms - infrastructure and architectureMachine intelligence and AI 

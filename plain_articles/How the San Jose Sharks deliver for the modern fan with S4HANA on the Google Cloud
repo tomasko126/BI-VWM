@@ -1,0 +1,50 @@
+
+Becher with Sharks fan during their playoff run
+Jonathan Becher and I have had a feisty dialogue for quite a while now, dating back to his earliest years at SAP to his departure from SAP last summer, where he was serving as SAP’s first Chief Digital Officer.
+I figured I could start our Sapphire Now 2018 interview with a blunt question:
+What are you doing here?
+As it turns out, in Becher’s role as the President of the San Jose Sharks hockey team, he has quite a lot to do with SAP – now he wears the customer hat.
+It’s an S/4HANA-on-Google Cloud story, but Becher doesn’t want to start there. He wants to talk about why sports are changing first. You can’t get the Sharks technology story without that. I’ll take that cheese, Mr. Becher. What’s changed?
+Sports entertainment has finally woken up and realized it’s going through some kind of disruption. You can decide whether it’s a digital transformation or whatever phrase. But it can’t just stick to what everything it has done before.
+Three disruptive trends sports entertainment must address
+1. It’s getting harder and harder to get people into live sports buildings. Whether it’s hockey, football, or soccer, the problem is the same. The rise of streaming was the first disruptor:
+You can get the experience good enough by watching on your device anywhere you want.
+Social media piled on:
+It got even worse when social media became part of our fabric, because the new generation learned that it’s more fun to share your experience of the game with some other people – even people you don’t know.
+It’s easier to be a social fan from the couch:
+Social media is easier outside a venue than it is inside a venue. It’s almost like the second screen became the first screen when it came to sports.
+Becher thinks AR and VR (augmented and virtual reality) will make the butts-in-seats stadium challenge even harder:
+It’s going to get even worse when AR and VR, which I do believe in – and I know some people don’t – become somewhat mainstream, because then you can project the crowd noise and your non-in game experience will become virtually identical to your game experience
+2. When people do show up at an arena, they don’t just want to go to a game – they want to be entertained. 
+You’re competing with share of wallet. It’s competing with whether they’re going out to a nice dinner, or whether they can go to a concert, or whether they can go to a show. So, you’re actually seeing venues invest heavily in things like hiring food service for more variety. You see them invest in more music and other side entertainments.
+To which I could only say, “God, I hate that sh!t!” Becher countered that old school folks (like me) who want to watch a ball game, and not be subjected to a substandard variety show and mediocre schlock music, are “traditionalists.”
+That’s what the next generation of fans want, and there’s a transition to the new generation of fan. It’s only going to accelerate.
+Becker cited the hockey examples in Las Vegas and Nashville – two entertainment cities.
+They are 90% about the entertainment and only 10% about the game.
+3. Sports have become as much about the social currency and the interacting with people you know the game itself. But there’s a problem:
+Unfortunately venues aren’t designed by that. Venues are designed that I’m going to go to the game with just Jon Reed, or maybe there is a group of four of us. It’s hard to communicate with someone two seats away, let alone a group of ten.
+Expect that to change:
+You’re going to start seeing venues redesign group outings as “experience centers,” to use a phrase SAP will be glad we’re using, where the social matters more than what is happening on the ice or the field or anything else. That’s just a way of priming the pumps.
+Sports events are becoming more like B2B and less like B2C. More and more companies are investing in sports “experiences” as a way to engage their clients. Becher plugged his own team here:
+We’ve created affinity groups. For example, we have universities or alumni associations – we might have a Stanford University night. We’ve got professional services groups that come, so we’ll have a firefighters night, or a first responders night.
+B2B is big sporting business:
+We’re a 17,500 seat building. These groups can represent 10 or 20 percent of the attendees.
+Bridging the B2B/B2C gap with SAP cloud solutions
+So Becher decided to bridge this gap with S/4HANA. The Sharks were already on that train, but Becher pushed the accelerator:
+We’re an S/4HANA customer running on the Google cloud platform. We’re also a Hybris Marketing and Cloud for Customer shop. I know some of these names will change. We started S/4HANA on Google cloud after I joined. We’d been C4C before I got there; we started Hybris Marketing after me. We were SuccessFactors before. So, I’ve accelerated this.
+Becher is emphatic: the Sharks are NOT going to be a tech company; they have no interest in an IT department. They are aggressively cloud first.
+I know everyone likes to say that every company is a technology company. I will happily state we are not a technology company. We want things straight out of the box; we don’t want any customization. I don’t need best practices, pretty good practices are enough for me. I don’t have any physical room in my building for a server, so everything is in the cloud. The minute someone says on-premise, I’m like, “I’ve got no premises for you, so you can’t put anything on-premise.”
+So now for the proof point: does SAP’s cloud solutions give the Sharks a competitive advantage?
+There are multiple parts of my business. And frankly the single most important part is the product on the ice. And, to this point, it does not give me a competitive advantage for the product on the ice.
+However, we are a business, and it’s not just about the product on the ice. We have 50-75 concerts per year; we have a non-profit foundation; we run three ice skating facilities that have 4+ million people per year. And yes, it gives me a competitive advantage for the business, even if it’s not changing the competitive team on the ice.
+One S/4HANA play is an event management/profitability analysis tool. And it’s live now:
+We brought together different content from different modules, and we created something to allow us to analyze the profitability of a concert, which is different from the profitability of a hockey game, which is different from the profitability of Bill Clinton speaking. Then we figure out how to do some “What if” analysis of petitioning the NHL to move from a Tuesday to a Thursday to free that up. What does that mean, etc.? That’s our first scenario.
+Becher is doing S/4HANA Cloud, but he’s doing it his way:
+Don’t think end-to-end, classic ERP. That’s not the way I’m deploying. SAP hates when I say this, but I will probably take a year and a half, two years, because I’m in no hurry. I’m just doing module by module, piece by piece… As we find tough problems where I can add value with S/4HANA, we do that. The days of big bang I think are disappearing.”
+Does the Google Cloud hosting make a difference?
+Because I’m on GCP, it’s completely elastic to me. I just spin stuff up and drop it off when I don’t need it, so I can run experiments where I need it – all good.
+The wrap
+Becher has other SAP scenarios in the works, such as renewal optimization for season ticket holders. The Sharks are building SAP Leonardo predictive models to assess season ticket renewal risks. One early surprise: age, income, and location aren’t very predictive for renewals, but behavioral factors such as arriving late at games or consistently giving away tickets are.
+We had a spirited argument about whether algorithms and advanced stats fetishists are ruining sports (I say yes, pointing to the foolish 3 point shot “mathematics” that cost two NBA teams dearly this postseason; Becher begs to differ). One thing we do agree on: successful sports franchises will use data to make their consumer and B2B experiences better than their competitors.
+Sounds like the San Jose Sharks are “all-in” on those data and CX pursuits; it will be interesting to track their progress. Of course, their fans will expect them to do all that, and advance even further into the playoffs than last year. No pressure, Mr. Becher. No pressure at all.
+Image credit - Photo of Becher with San Jose Sharks fan during the playoff run is from Becher's Twitter feed. Disclosure - SAP paid for the bulk of my expenses to attend Sapphire Now 2018. SAP is a diginomica premier partner.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureUse casesUX and application design 

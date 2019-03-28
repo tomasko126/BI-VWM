@@ -1,0 +1,47 @@
+
+Aneel Bhusri – CEO Workday
+In an unusual move, Aneel Bhusri Workday CEO took to the company’s blog to announce an intention for Workday to offer a platform upon which partners can extend the core Workday applications. Prefacing his remarks with an explanation of persistent questions on this point, Bhusri said:
+While opening up the platform was a likely possibility in the future, we needed to stay focused on more immediate priorities for our customers and the requisite needs of our application development teams. Indeed, we had to ensure our technology core offered rock-solid reliability and scalability as well as the flexibility to continually evolve with a rapidly changing business landscape.
+Today, we are ready to take a big step forward on our extensibility journey by announcing our intent to open our platform to customers and a broader ecosystem of partners, independent software vendors (ISVs), and developers. The news was shared by our Chief Technology Architect Jon Ruggiero at Altitude, our annual conference for the Workday services ecosystem. This announcement followed an exciting platform hackathon that took place earlier at Altitude and validated that we are on the right path.
+
+Late to the party?
+What’s going on?
+Workday came to me offering a briefing but unable to get that done now, since Altitude is still ongoing and people are not immediately available. That’s fine and since it is early days then you can take this as a developing story. However, putting on my ‘Many Years’ hat of experience in dealing with both Workday and Bhusri, this looks like a hastily cobbled announcement that does not bear the well polished and orchestrated ‘feel’ of the Workday we have come to know.
+Be that as it may, the company knows it is under pressure because if you rank it among the panoply of SAP, Microsoft, Salesforce and Oracle, Workday stuck out like the proverbial sore thumb as the one company not offering a developer platform. And guess what? Analysts are of the belief that in the 21st century enterprise world, it is the platform that wins, not the application solution set per se. The reason is easy to see.
+If we take the example of Salesforce, that company has never had intentions of entering certain verticals or, for that matter, certain horizontals but by offering a platform (Force.com) upon which developers can knock themselves out, Salesforce has spawned a multi-billion dollar ecosystem from which it too benefits. The most immediate examples that spring to mind are Apttus in CPQ, FinancialForce in financials and Rootstock in manufacturing, all of which are built upon Salesforce’s PaaS.
+In December 2015, our own Phil Wainewright publicly added his voice to the many believing that Workday needs a PaaS. In the provocatively titled Has Workday ceded the cloud platform to Salesforce and Microsoft?, Wainewright warned:
+
+For now, industry cloud solutions are in their infancy, but as they mature, that nagging question again rears its head, and this time with even more urgency. If all my vertical functionality is built on a specific cloud that also fulfils all my other functional needs, do I really want the bother of integrating to a business administration system built on a completely separate cloud?
+None of these question marks have much impact on Workday’s prospects of success in the short term. There’s plenty of low-hanging fruit among enterprises whose pressing need is to move off ageing business systems to a more flexible, mobile-friendly and integrated cloud platform. But at some point in the future they will become more pertinent to the vendor’s growth strategy.
+
+Today, Bhusri said:
+
+Simply put, a growing number of customers have been asking for a more open Workday platform. They want to use Workday as a cloud backbone that supports cohesive, digital workflows across multiple business applications—reflective of how their people work and how their businesses operate in today’s hyper-connected, real-time world.
+
+10 questions
+Where does this leave us? I could drop a ton of questions but we can start with,
+
+What will be platformed? Finance and/or HR?
+Will there be more extensive hooks for existing integrations to solutions like Salesforce and Adaptive?
+What about hooks for the emerging machine learning/deep learning subset of applications that numerous dev shops are building?
+Will there be a Salesforce style community?
+Will a PaaS allow Workday to open up entirely new markets like those in manufacturing related industries, something the company has avoided?
+Will Workday make it easy for developers to hook into Workday processes?
+What dos the REST API roadmap look like?
+What will be the positioning against its main competitors?
+Will Workday go out on a limb and offer Zapier like connectivity?
+Does Workday plan on making access free for devs and if so then what does the business model look like?
+
+…and that’s before I draw breath 😉
+My take
+It’s been a long time a’coming but now comes the wait as Workday gets its collective ducks in a row for what will be a very different Workday Rising this Fall.
+Any time I spoke with Bhusri on this topic in the past, I’d be greeted with a wry smile and a fluffy answer. My interpretation has always been that PaaS is not in Worlday’s DNA, largely because the company’s leadership had no experience of how this might work or what it would bring to the table. In short, PaaS was too far outside the comfort zone while it drove aggressively towards building a powerhouse, world class HR and finance system. Indeed, why would you divert resource to building a PaaS when the company’s trajectory was so obviously good? Check past results for validation.
+But as every wise leader knows, past success is no guarantee for the future, and in any event, no enterprise software vendor on the planet has ever managed to cover the entire scope of all industries with which it plays. Even the mighty SAP with 25 verticals under its belt only touches 30% of business processes. That after 45 years of development. However you define it, ecosystems of developers are a necessity that, when done right, help propel the value proposition.
+My guess is that the initial results of the Altitude hackathon served to open leadership’s eyes to the potential in what I might describe as a ‘road to Damascus’ moment where Bhusri felt compelled to make a statement of intent. He said:
+
+…customers will be able to create new tasks and business processes to consolidate workflows and they’ll also be able to integrate external applications with Workday using new APIs.
+
+My hope is that contrary to Workday’s normal modus of command and control, it quickly learns the need to have a hands off but listening approach to developers. If it does that, then it will provide a third and valuable alternative to the growing threats from SuccessFactors and its highly vocal ecosystem and Oracle, with its mid-market HR success.
+In short? Game on!
+Update: Aneel Bhusri contacted me to say that this has been in the works for some time so no ‘hastily cobbled.’ I’ll take that…as I should have spotted a degree of pre-planning coming via the hackathon element. My bad.
+Image credit - via WorkdayDisclosure - Workday, SAP, Oracle, FinancialForce and Salesforce are all premier partners at time fo writing. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureHCM and the digital future of work 

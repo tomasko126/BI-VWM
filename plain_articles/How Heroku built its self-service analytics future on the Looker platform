@@ -1,0 +1,46 @@
+
+Heroku was a big customer win for Looker in 2014 – it validated Looker’s big ambitions as an upstart analytics platform.
+Fast forward to Looker JOIN 2018: Heroku had plenty of company amongst Looker’s enterprise customers. So how has Heroku fared on Looker?
+I got the story at JOIN, via a sit-down with Michael Schiff, Heroku’s VP, Business Operations. Schiff was the one who brought Looker on board at Heroku – but that’s not even the half of it. Schiff came to Heroku because he was given the freedom to build their analytics strategy from the ground up:
+Basically I told Heroku, “I’ll come over if I can establish your data culture.” I think that’s where you have to start.
+To use Frank’s term [Frank Bien, Looker CEO] – what is your data culture now, and what do you want it to be? Get people to buy into that vision, and then the technology and everything falls out of that.
+“The first part was data chaos”
+So, in 2013, Schiff joined Heroku. But you can’t build a data culture when you’re mired in swamps and silos. Schiff’s first job? A data health check:
+The big thing within my operations group was just to get a handle on where all the data was.
+The early prognosis? Pretty messy.
+We heard Frank’s keynote discussion about data chaos. The first part at Heroku was just data chaos – forget about talking about it with any vendors, or doing anything with it.
+By 2014, Schiff and his team had a clearer picture. Now they needed the right tool:
+We finally figured out, “Okay, here’s our major data sources. Now, we can talk about productizing and curating it.”
+“I’ve got to look at the next generation of analytics”
+But Schiff didn’t want to relieve his BI past. If Heroku can change coding, isn’t there a vendor that can change analytics?
+I had used all the monolithic BI suites – BusinessObjects, Cognos, Microstrategy. For the last thirty years, that’s been my life. I said, “Look, just like Heroku is reinventing how we do application development, I’ve got to look at the next generation – the next stack.”
+Schiff’s due diligence yielded a surprise:
+I made sure I knew what was available at the existing vendors, and then I asked around in my circle of influence if you will. One of them said, “You’ve got to look at this up-and-comer named Looker.”
+So what’s the big deal about Looker? Schiff’s colleague told him:
+“Well, they’re really trying to make an analytics platform… They’re doing it the right way, and not worrying about three-dimensional, two-million color dashboards. They’re really making a platform that scales. So that’s when I met up with Frank and Lloyd. [Editor’s note – Lloyd is Looker’s CTO and founder].
+Looker beat the heck out of the SQL hacks and custom interfaces Schiff’s team relied on: “Oddly enough, not everybody wants to code SQL to get an answer.” Heroku signed on with Looker right around the time of the Looker 3 release – that’s when the real data fun started.
+Looker wasn’t doing half of what it’s doing now, but the idea of having that layer, and investing in that layer to be able to have analytics at scale – I really bought into it.
+Changing the analytics experience for business users
+So what questions did Heroku want to get to the bottom of? Schiff told me his internal groups, from products/engineering to sales, marketing, and customer success had all done their homework. For example, Heroku marketing would tell Schiff, “I would love to know the of active users on the Heroku platform.”
+You can’t ask that question without a good definition of active users. But marketing had a good definition also. However, Schiff’s team had no way to push the right data for them:
+The problem really was the data chaos, and how to package it so they could be more self-service.
+Could Looker get them there? It was six months from the Looker decision to the initial go-live. Four years later, Heroku’s Looker team has grown. They now have 30 power users, with 450 total users on Looker. (That doesn’t included the many Heroku users who access Looker embedded – in apps like Salesforce).
+In Schiff’s group, there are two centralized analysts who are trying to solve the “big gnarly questions” from sales and marketing. The rest of the power users are spread out amongst the lines of business, applying their expertise to Looker data. A big part of their job? Serving their line of business users.
+So – how has the lives of those users changed? Initially, business users were excited that Looker data could answer their burning questions. But that led to a new challenge:
+Step two was, “Great. Thank you for that answer. I have 17 follow-on questions about it. And how quickly can you serve that up?” Schiff cited the active user question as an example. Let’s say Heroku wants to know how quickly someone goes from signing up, to doing something meaningful on the platform? The answer could be 240,000 active users. That raises new questions:
+“Well, hold on. Now let’s break that down. How many are active by a given product? How many are active in Europe versus America? How is that changing over time?”
+If Schiff can’t serve that up to his users, he’s not satisfied. He doesn’t want to be the BI bottleneck anymore:
+What you don’t want to have to do is say, “Oh, good question. Let me get back to you in a day or two.”
+You want to be able to say, “Hold on a second. Let me add that dimension, because we already had that as part of our model.”
+Putting Looker to the live meeting test
+Heroku now puts Looker’s drill-down capabilities to the test, in live meetings:
+We run our weekly sales and marketing meetings. We have Looker up on there, and we have standard dashboards that we start with: How many people signed up? This is our active users. But then: this is how it changes over time.
+There’s always those times when somebody asks, “Can you give us a breakdown of how many people are signing up by role, or by ad source?” Literally, it’s “Hold on a second.” And we just add it – in the middle of the meeting. And we all review it. To me, that’s the holy grail.
+That holy grail is pretty close – Schiff estimates they can do that type of drill down on 70 percent of the data sets they’d like to. Of course, you can’t do that type of live data riffing if you don’t trust the numbers. Looker’s visible metrics solved that problem:
+If you have a lookup, or you have a dashboard, you can actually look at the definition of that metric right there. So when somebody says, “Where did you get that monthly active user number?” I can click on it and say, “Here’s the definition.” They go, “Oh – okay, cool.” And then you just move on.
+The wrap – balancing ambitions with relationships
+Heroku was something of an early adopted with Looker on some of their embedded analytics pursuits. With Looker 6, launched at JOIN, embedded analytics are a big theme – and Schiff hopes to take advantage. The global payments demo showing the user of Looker to provide an external data portal for customers also hit home.
+Schiff’s team has also moved into event-based and real-time data use cases. One successful example: credit card abuse detection, with Looker sending over quick reports of possible violations to Heroku’s Security Ops team: “They can go and check to see if they’re real or not and suspend them on the spot.”
+But while technical innovation matters, so does the caliber of relationships. Has that changed since the early days? Schiff says so far, so good:
+I think people take the vendor relationship for granted. We don’t have a lot of vendors, but we’re highly dependent on them… So to be able to sit down with them and say, “Hey, we’ve been using Looker for four years, what aren’t we doing that we should?” And they still do that four years later? That’s really cool.
+Image credit - Feature image -  man places last piece of puzzle surreal concept, by @frankie's - from Shutterstock.com.Disclosure - Looker paid the bulk of my travel expenses to attend Looker JOIN 2018. Heroku is a part of Salesforce, which is a diginomica premier partner. Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureDigital enterprise in the real world 

@@ -1,0 +1,55 @@
+
+We know that social engineering algorithms can ruin lives with each iteration. But there’s a more subtle – yet still irritating – aspect of algorithms-gone-wild.
+Brute force algorithmic automation undermines the customer experience. There is a disturbing similarity to each case: the human recipient has very little apparent recourse. At best, time is wasted getting out from under.
+Algorithms-gone-wild – quick tales of yuck
+I’m sure you all have irritating stories. Anecdotes from own life:
+
+My bank flags me for potential “money laundering” based on a pathetically weak series of machine-generated data points about occasional overseas payments, powered by a brute force algorithm. Why? Because it’s much cheaper for my bank (Bank of America) to fire off notices based on a simplistic rules engine. Requiring me to prove my innocence is cheaper than to fund a more sophisticated algorithm that weeds out false positives and pulls in human oversight. This blunt pattern detection is strictly cover your @ss – as long as the gross offenders are caught, the collateral damage of brand resentment by a few unlucky minnows caught in the algorithmic net is deemed acceptable.
+Machine learning perpetrators darlings Google generate a “someone has your password” email warning and lock me out of an email account, solely based on logging in from a different location on a supposedly different device (though it was the same device, different browser). Google’s action did not say “someone may have your password” or “unidentified log-in” – it said “someone has your password”/your account has been compromised. I am unable to log in as I don’t guess my security question I set up ten years ago correctly, even though security questions have been discredited as a means of account protection and Google has supposedly discontinued them (Google’s security algorithm also freaks out about new devices logging in via the same IP address). If you aren’t able to sort this on your own, good luck getting an actual human at Google to help you out.
+Southwest wifi asks for my Paypal password as it routes me to Paypal for wifi payment. Paypal immediately flags this activity as suspicious, even though I frequently use Paypal to buy Southwest wifi in-flight. Paypal asks me to verify my identity via a text message code as the only way to prove my identity, even though I am in a freaking airplane in airplane mode.
+Five minutes after I check out of a hotel – any hotel – I’m now automatically subscribed to that hotel’s “personalized” brute force promotions lists, even though a simple algorithmic review shows that my travel is tied to business and not to pleasure visits and hotel room discount promotions. I’ll need to click on multiple unsubscribe links to get off those lists, hopefully before those lists are shared with that hotel’s “spam travel partners.”
+
+Those are just a few of many. And yeah, they could all be classified as “First World problems.” Yet the wasted time and productivity dropoffs do add up. We all have people who count on us at work and beyond. When we’re fighting through algorithmic blowback, we’re falling behind.
+Automation can be a part of a good customer experience
+These same algorithms-gone-wild scenarios have much more disturbing implications in the realm of social engineering. I’ll get to that in a sec, but first, you may be wondering, am I claiming that algorithms are inherently evil?
+Not at all. Algorithmic automation can allow brands to invest more heavily in customer-facing anomaly resolution and value-add relationships.
+The algo-fail described above is a reflection of poorly-designed algorithms that lack sophistication and proper human intervention. Many companies – Dropbox comes to mind – have a far more sensible security escalation procedure than Google. The “was this you?” email from Dropbox is easy to respond to. It immediately tells them what you are up to. Meanwhile, their machines can learn from those pattern corrections.
+Bad customer automation:
+
+lumps people into dumb segments based on inadequate and simplistic rules engines.
+errs on the side of efficiency by exploiting the technical ease of blasting/excluding segments or flagged profiles.
+measures boosts in sales, whereas the resentment from the minority victimized by that automation is not easily measured, and is ignored in the face of other gains.
+provides unsatisfactory and time consuming escalation for the victims.
+
+I had another fraud experience with a much better outcome. On a different credit card, Bank of America’s fraud detection somehow flagged a transaction only an hour’s drive from my house. But it’s in a direction I rarely drive in – clever algorithm. They acted quickly. Rather than cancelling my card, I was contacted to determine if the charge was fraudulent.
+That was done via text message, and then a dedicated service number. I did, indeed, have to cancel my card and deal with those hassles, but it was a different experience – due to their smart and accessible approach.
+Why don’t more brands do automation the right way?
+Smart automation that supports customer experience is well within technical reach. So why don’t more brands do it? I believe it’s one of four reasons:
+
+Lack of clarity on the damage caused by brute force segmentation.
+Poorly-integrated data in too many silos, preventing even a decent algorithm from acting in a “smart” manner due to lack of data context.
+Too much faith in technology and complete automation, rather than designing elegant processes that include alerts that allow humans to intervene.
+Lack of customer power.
+
+Yep. Despite all the breathless proclamations of customer experience gurus that the “customer is in charge,” in many industries, there is still plenty of lock-in. Financial services is supposed to be a heavily disrupted industry, but it’s not that easy to switch banks. Maybe you have a credit line you’d have to re-apply for, etc. Yes, you switch from an iPhone to an Android or vice versa, but what happens when you’re committed to Google Home or Apple Pay?
+Brands get us hooked on platforms. We can vote with our wallets only if we’re willing to go through the fuss of a whole new platform. So we might complain, but how much weight do our complaints really carry? Brands know, and they act accordingly. The customer has power in some situations, but it’s hardly universal.
+The wrap – help solve for society and we’ll help solve for business
+Some problems are difficult for algorithms to conquer. This year’s flu shot, for example, is estimated to only cover around 20 percent of the flu strains that have spread during a monster flu season. That includes the most virulent flu strain making the rounds.
+I asked IBM’s Vijay Vijayasankar why predicting flu is such a tough issue:
+
+There are two related problems that need solution – 1. a data problem on how to predict impact better, and 2. A medical problem on how to get better/faster/cheaper vaccines out.
+— Vijay Vijayasankar (@vijayasankarv) February 3, 2018
+That sounds right – two vexing problems that intersect in complicated ways. That’s more difficult than a business automation problem due to the problem of politics, agency funding, cooperation between the public and private sector and so on. Therefore:
+
+That needs a lot of focus and investment given it needs a lot of different teams to come together – ergo I am not holding my breath on getting it done real soon
+— Vijay Vijayasankar (@vijayasankarv) February 3, 2018
+On diginomica, we’ve devoted editorial to the ethical dangers of algorithms gone wild. The latest example we haven’t delved into yet comes from Australia (Australia put an algorithm in charge of its benefits fraud detection and plunged the nation into chaos). Granted, Boing Boing’s headline is borderline linkbait. But the story is instructive:
+The Australian government created an algorithmic, semi-privatised system to mine the financial records of people receiving means-tested benefits and accuse them of fraud on the basis of its findings, bringing in private contractors to build and maintain the system and collect the penalties it ascribed, paying them a commission on the basis of how much money they extracted from poor Australians.
+The outcome so far? A much more disturbing version of the inconveniences I grouched about above:
+The result was a predictable kafkaesque nightmare in which an unaccountable black box accused poor people, students, pensioners, disabled people and others receiving benefits of owing huge sums, sending abusive, threatening debt collectors after them, and placing all information about the accusations of fraud at the other end of a bureaucratic nightmare system of overseas phone-bank operators with insane wait-times.
+More nuances of this situation are here, in a slightly less axe-grinding article. The lack of recourse is always the worst part:
+Those who wanted to contest their debts had to lodge a formal complaint, and were subjected to hours of Mozart’s Divertimento in F Major before they could talk to a case worker. Others tried taking their concerns directly to the Centrelink agency on Twitter, where they were directed to calling Lifeline, a 24-hour hotline for crisis support and suicide prevention.
+We’ve documented troubling enterprise variations at diginomica. One HR example is via Brian Sommer, in “You’re not our kind of people” – why analytics and HR fail many good people. I won’t touch the election issues that Facebook, Google and Twitter are knee deep in, but that’s the obvious tech backdrop.
+Automation is always imperfect. Some problems (e.g. flu, natural disaster predictions) are tough for algorithms to nail down. But I read somewhere that the first step is admitting we have a problem. Well, let’s add “customer experience” to the list of things that algos-gone-wild endanger.
+Update: added a fourth reason to the list of why companies botch this (the data silos reason). 
+Image credit - Leadership or Business Failure © ptnphotof - Fotolia.com.Read more on: Analytics planning and data analysisCRM and customer experienceMachine intelligence and AIUser experience 

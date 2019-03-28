@@ -1,0 +1,43 @@
+
+SAP has taken something of a beating this week in the media. The UK and Ireland SAP User Group didn’t pull any punches in letting SAP know where it is failing them. Sadly it’s all too familiar. There are many reasons why the user group surveys from around the world tell the same or similar story. But I recently heard a different story from Newcastle University (PDF download). The story should give SAP customers who are on the fence reason for reconsidering their position. It should also serve as a lesson for SAP in how it goes forward.
+Andy Steer, CTO itelligence UK, the SIs in the deal, pinged me about this story. While I will be referring to elements of our conversation, I will not be quoting Steer because there were many intertwining parts that necessarily are not ready for public disclosure. The case wasn’t presented on the main stage but as a session during this week’s conference. Given the welter of facts, the rationale behind the business case and the contributing factors that have got the story to where it is, its relegation to a side room is a major lost opportunity for SAP customers. Here’s why, set out in bullet point style.
+What was behind the move to HANA?
+
+Hardware coming to end of life
+Degrading performance on critical reporting and data management
+Knock on effect impacting the ability to get things done
+A need for real time information in certain areas like clearing and confirmation for incoming students and the education equivalent of ‘capacity planning.’
+A desire to continue keeping current with SAP technology
+Potential to simplify the technology landscape as a pathway to reduced TCO
+
+What was done and where are they up to?
+
+Investing in SAP HANA is not trivial and represents a significant change in the landscape. As a first step Newcastle University embarked on a business case supported POC.
+The POC was designed to take selected data from their SAP QA systems and then assess based against the needs outlined above and required benefits.
+One 600,000 record data feed that took 40 minutes to transfer data to custom systems now runs in 11 seconds which removes bottlenecks.
+An emergent use case of smart card issuance means students will not have to wait for overnight batch processes to complete.
+
+What’s next?
+
+The POC is considered a success but now the real work starts with an anticipated go live in time for the start of the 2016 academic year – around July.
+Products going into the business case include Business Suite on HANA: ERP, CRM, SRM and SLcM plus BW on HANA.
+
+The keys to success
+
+The case study doesn’t really go into these although the clues are there. This is where the conversation with Steer came in.
+Hardware coming to end of life combined with pressure to improve performance in an expanding landscape is always pause for thought.
+itelligence has a long track record of working with Newcastle University and has specialist skills related to higher education systems in the context of SAP landscapes. Newcastle University has a policy of keeping current with SAP technology and patches. It has a solid skills base. In short, there is plenty of vested interest supported by up to date skills and technology so in theory at least, the next steps should be relatively easy.
+Taken together, the POC business case is relatively straightforward, with opportunity to explore improvements or new functionality that would not otherwise be possible.
+It doesn’t look like there are important change management issues. I suspect this is because the SAP estate is in good order and up to date, while the business case looks compelling.
+
+It’s not quite a done deal
+The case study makes clear and Steer confirmed that Newcastle University has not got all the moving parts in place. There are some important assumptions that need testing but it appears the business case stands up well for ROI/TCO purposes. The timeline is aggressive but I get the impression Steer is confident they can make it fly. The proof will come when the hammer is brought down in July, 2016.
+Why is this case different?
+It isn’t. In large measure and at a technical level, the story is about ‘speeds and feeds’ a topic we’ve heard about for many years and of which we, and customers, are thoroughly bored. The crucial difference comes in the fact that Newcastle University sees clear business value beyond refreshing the SAP estate that can be understood by business leaders. Talking about minimal student wait times, service delivery improvement, capacity planning improvements and the ability to deploy mobile applications are all things that make business sense and are readily understood. It is a very different conversation than one that focuses on a report running in 11 seconds. What’s more, the POC results support those business use cases in spectacular fashion. Over arching all of this, the business case was built around demonstrable pain points.
+One quote that’s worth including. Alan Cecchini, SAP development manager at Newcastle University said:
+Incremental change is achievable. It’s easy to get overwhelmed with the technology and buzzwords from SAP. This can make you suffer from inertia.
+In short, ignore SAP marketing and get on with what’s necessary. Or, as Bill McDermott, CEO SAP might say: ‘Keep your eyes on the prize.’
+For the future, Steer thinks there is good value to be had from experimenting with predictive analytics and has already done some work with his old alma mater at Plymouth University on this topic. Again this is about business case delivery so while it is early days, there is much to look forward towards.
+It remains to be seen if SAP can make sense of how cases like this university, augmented by a dose of reality from those on the ground, and project follow through can transform the conversations SAP needs to have with the many customers who don’t ‘get’ it. The clues are all there.
+Disclosure: SAP is premier partner at time of writing.
+Read more on: Analytics planning and data analysisUse cases 

@@ -1,0 +1,49 @@
+
+Cloudy view from Infor’s NYC office
+One of my favorite things to do at a show is to pick use case sessions off the schedule and sit in. It’s hit or miss depending on topic/presenter, but I got a hit at Inforum 2016 with Pilot Flying J. At session HCM 203C, three Pilot Flying J team members shared lessons from their Infor CloudSuite HCM implementation, still in progress.
+What made this presso stand out? Because the three presenters hailed from different project roles: IT, HR, and project management. Hearing the combined views in one sitting gave a rounded view – the kind you usually don’t get.
+Pilot Flying J‘s HR challenges reflect their scope. Headquartered in Knoxville, Tennessee, Pilot Flying J has 650 locations in 44 states and 6 Canadian provinces. The ninth largest privately held company in the U.S. , Pilot Flying J bills itself as the “largest operator of travel centers in North America.” That means 24,000 employees to manage, which brings us to their HR systems overhaul.
+Cloud HR migrations – the IT project view
+Which brings us to the first presentation, the IT view from Dave DePrimo, Manager of Corporate Systems at Pilot Flying J. DePrimo put up a dizzying slide, showing their current HR environment in the U.S. and Canada. It’s a complex world to manage – a big part of why they are standardizing on Infor products as they move towards HR cloud migrations. DePrimo on their current landscape:
+It’s a combination of home growth, third party applications, and a lot of it is disparate. A lot of it doesn’t flow seamlessly, so one of the things that was really attractive to us with the Infor solution was the opportunity to bring all these applications into one single solution.
+panelists from left to right: DePrimo, Morrow, and Bales
+Pilot Flying J’s HR migration has a lot of moving parts, some of which, like self-service, are heavily customized. The challenge: how do they integrate about 25 different applications into “one seamless new solution?” Two key pursuits: a gradual CloudSuite HCM migration, starting with Talent Science (live in their support center, with further rollouts in the works). Another core piece: moving their Lawson S3 HCM system to the Amazon Cloud. Global HR and Succession are also in rollout mode.
+DePrimo provided cloud-specific migration tips:
+1. Test the heck out of your database migration. DePrimo:
+
+I can’t emphasize this enough. This is not trivial, and you need to make sure you plan accordingly for this… It’s got to be done in stages. You have to have a sandbox or test area where you’re making these migrations, and then you lift that to the cloud.
+2. Take data cleansing seriously – do some housecleaning. “It will make your migration a little bit easier.”
+3. Be prepared to clear out custom programs. Cloud migrations often require renouncing a custom code addiction. In the case of Lawson, which is customized in Cobol, moving away from custom programs is non-negotiable:
+You’re going to have to come up with some decisions. When you go to the cloud, custom Cobol programs are not allowed. What that means, saying with Pearl Scripts, is you need to find the right tools to do the job.
+4. Involve all stakeholders in a complete security review. In DePrimo’s case, Lawson admins, Infor techs, and network administrators were all involved in security discussions looking at inward-facing and outward-facing applications:
+Really, what we’re talking about here is: how vulnerable is your data. Again, make sure everybody in your company understands what we’re talking about here. Then lastly, validate. Test, test, test, test… Really what I’m saying is, do your homework. Just don’t expect everything to be flawless and perfect as you go.
+HR migrations – the functional HR view
+Next up was Brad Morrow, HR Business Partner at Pilot Flying J. Morrow joked that they were so invested in Infor’s HR products that they were “drinking from the fire hydrant, not the hose.” One big motivation: “a single HR book of record.” That meant cutting back on users’ cherished Excel docs in favor of updating the system of record:
+From an asset management perspective, on average, we have about 500 people move on and off from some type of leave every week. Today, we do that through the excellent system of Excel. As you know, there could be a little small mistake here and there, and so once again, it’s just an easier way. How do we track that? How do we create notifications? More importantly, how do we shift the ownership? I think this is the really advancing for us. What Infor can give us is putting the ownership on the team member, and not on the manager, so allowing that team member to go and say, “Hey let me attach that doctor’s note,” or “Let me attach this medical information and whether that leave is approved or denied.” That ownership is on the individual and not on the company.
+Morrow sees the HCM CloudSuite Talent Science as the first “big win” from this round of go-lives. They basically outgrew their prior talent solution. Morrow wanted to better understand their talent growth, but without requiring a propeller hat. Their last system was complex:
+I think you had to have a degree to understand some of the specific results. Even being in HR, I was kind of questioning, “Hey, how’d you get some of this information?” More importantly, how do we come up with the development plan, and then if the [employee] is progressing their career?
+It’s also pretty nice to save on license fees:
+As we went to Talent Science, obviously, we’re saving on the license and fees. From an ROI perspective, HR doesn’t get a chance to save money. Usually, we’re spending it. This is our chance to give a little bit back to the finance people…
+HR analytics will be another win, as they wean off Excel onto the new system:
+We really don’t have any analytics… We’re excited about the future and being able to use some of [Infor’s] BI tools. More importantly, is having the customizable dashboards, so whether it be our senior executive team or a manager on the front line, [they can analyze] what’s important to them and differentiate those views, so they’re able to run their business a little bit more effectively.
+HR cloud migrations – project manager’s view
+The session wrapped with project management views from Rebecca Bales. After joking about all the Excel bashing (“I’m a little offended by all the Excel comments.”) Bales, who has a finance background, shared her project management must-dos.
+Bales was the second presented to emphasize the importance of RICE (Reports, Interfaces, Conversions and Extensions):
+I’ve learned a lot of acronyms in the HR world and in the technical world in the past few months. If I could stress one acronym has the most significance in this project, it would be RICE, and you’re going to eat of lot of it if you’re around a while. If you’re highly customized or a mature company, or you’ve developed all of these things to help you deal with your turnover or all that, you’re going to have a lot of RICE. It’s okay, but I recommend you look at that first before you do anything else. That’s where you start, and before you ever scope your project, before you ever decide on your timeline, before you ever say, “This is my strategy,” go through your RICE. Make sure you’ve got it all, and analyze it.
+Bales advises that a “RICE” approach can even salvage a lost timeline:
+The great thing about it is, even if you find, “Hey, my timeline’s not going to to work out. It’s not going to be what I wanted it to be.” When you go through your RICE, it’s not a lost cause. You’re going to find things in there that you don’t need anymore. That you can get rid of. You don’t need the space on your current system and all that. You can make really good strides even before you start your implementation.
+From there, her team looked to use Infor’s extensibility tools to decide what, if any, functionality to reproduce.
+Bales’ final bits of advice:
+
+
+Train on third party tools ahead of time (or line up skilled external resources)
+Line up your internal resources and make sure they’re not double-booked
+Eat that RICE (don’t do it just once at the beginning; work through it frequently and course correct)
+
+
+Last, but absolutely not least, change management. Bales uses the example of addressing turnover:
+The company may say, “We need to change turnover,” but any time you’ve had any large change, what the users are going to say is, “Well how does this impact me?” We’re really starting to think in that direction and make sure that we adequately address that. We’re identifying and utilizing change agents. We can have the most beautiful software implementation ever, and if you don’t manage the change correctly, then you just won’t adopt it.
+The (quick) wrap
+Looking ahead, the Pilot Flying J team frequently cited Ming.le, Infor’s collaboration tool, as one they are keen to use. They are also eager to work with Infor on mobile user access. From a functional perspective, there’s a ton of work ahead, including benefits, and eventually, when Infor releases it, CloudSuite payroll. A full plate indeed, to borrow from the rice analogy.
+ 
+Image credit - All photos by Jon Reed. Disclosure - Infor paid the bulk of my travel expenses to attend Inforum 2016. Infor is a digiomica premier partner.Read more on: Analytics planning and data analysisDigital enterprise in the real worldHCM and the digital future of workTalent managementUse cases 

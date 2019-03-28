@@ -1,0 +1,27 @@
+
+Wanda clears up an expense item
+Spoiler alert – demo video at the bottom of this story.
+By far and away the most impressive session at Unit4’s analyst and media day this week was the demonstration of Wanda, a text-to-speech-to-text intelligent assistant.
+First demonstrated as an advanced proof of concept in January, Unit4 has made significant development progress claiming to be on track to deliver in June, 2017 as part of the company’s Spring 17 release. So – what about his little lady then?
+Wanda was initially pitched as a way of getting project alerts and status information and then amending the data held in the back end Unit4 project system as project circumstances dictate.
+That’s interesting and I can see plenty of use cases where responding to intelligent Skype, Slack or Facebook Messenger messages on a mobile device just makes sense. Similarly, I can see how that same functionality can take advantage of the Amazon Echo interface. In fact, the Wanda demo we saw used an Amazon Dot.
+Right out of the gate, Unit4 will offer customers alternative ways to interact with Wanda. This is a super smart move because as I pointed out, There will be plenty of occasions where end users will not wish to use one or more of the systems mentioned above.
+Wanda is still very much in the development phase but already the company has identified and has developed:
+
+HR Assistant– Simple completion of HR-related employee self-service tasks like making absence requests and enquiring about holiday balances and pay slips.
+Purchasing Assistant– For finding products & suppliers, generating requisitions and managing approvals.
+Time Assistant– Automatically generates timesheets based on multiple data streams and GPS and beacon location data to track time.
+Travel Assistant– Generates travel requests and manages approvals based on travel patterns and preferences. Auto-population of expense claims using receipt recognition technology.
+Approval Assistant– Notifies and reminds managers to approve tasks and flags important tasks where deadlines are imminent.
+
+The demo that caught my eye was the road warrior’s favorite pastime – expense filing (not). Slick, intuitive and including elements of machine learning for cost classification and amounts confirmation, the demo shines as a polished example of the possible. Mindful that expense handling often lives inside workflows, the offering is really an abstraction of functionality out to a set of new interfaces that happen to be devices du jour. That may seem trivial but as someone who has commissioned Amazon Echo development, I can tell you it is not so straightforward.
+Watching Wanda in action was super impressive. Offering device choice makes end-user take up a no brainer because, as the company said, people will use it on devices with which they are most familiar and comfortable, whether that’s Skype on a tablet or smartphone, Slack on desktop or smartphone or or Facebook Messenger on smartphone. When thought of in those terms, Wanda is truly headless. Which in itself is something of an irony.
+My one nit was over the question of security as it relates to Wanda on Amazon Echo. Readers may recall that not long ago, an errant Alexa decided to order a ton of dollhouses. In our house, that matters because Alexa seems happy to respond to the most broad Yorkshire accent along with my mid-Atlantic twang. Unit4 says it will take care of security issues, largely through the rules engine working in the back end.
+My take
+My immediate reaction was to say that Unit4 could readily position this as a straight replacement for Expensify or Concur, saving the customer money on implementation and avoiding expensive integrations. Thinking further, this approach to automation for this class of expenditure carries the opportunity to render existing, modern alternatives redundant. It surely is a fast moving world. And of course once Wanda gets her foot through the door, who knows where this goes and how many additional users, Unit4’s software might reach.
+Unit4 is onto something here. Wanda ticks all the industry analyst buzzwords – machine learning, natural language processing, geo-location, digital assistant, runs in a cloud etc. For the user who could care less about such niceties, Wanda helps solve one of the most feared part of any professional services person’s life – expense handling. And from what we saw, it does so elegantly.
+My one slight concern is that Wanda is tightly coupled to Unit4’s rules engine and as such cannot realistically be shown as a stand alone product. That’s a pity because for my money, it stands up well as a method of solving a range of difficult problems that can be integrated later into other transactional processes.
+Now – if Unit4 can get out from underneath its understated marketing, and push this directly into the hands of end users then it’s onto a winner.
+Bonus points – early development demo
+
+Image credit - via Unit4 and fotoliaDisclosure - Unit4 is a premier partner at time of writingRead more on: Future of work 

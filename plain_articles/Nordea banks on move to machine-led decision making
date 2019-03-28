@@ -1,0 +1,38 @@
+
+It’s become axiomatic that companies are looking to exploit customer data better – it’s become the mantra for the age.
+Against this background, banking has a bit of a problem. It’s certainly not a lack of data – banks are drowning in it – but the complexity of extracting that’s adding to the pressure. What doesn’t help is that banks have emerged in their present state as a result of decades of mergers and acquisitions, their IT systems a clumsy heap of disparate systems.
+Swedish bank Nordea is a company with a particularly convoluted history. It was formed from the merger of four mid-sized banks, themselves building on a history of more than 300 companies. And to add to the complexity, these banks were located in the four Nordic countries, based around different legal backgrounds.
+The long history means that the bank is strong on financial integrity but the downside is that modern company has to knit together a particularly convoluted legacy system at a time when the financial sector is becoming ever more competitive. European organisations are now grappling with an additional headache: the imposition of the General Data Protection Regulation (GDPR) conferring new responsibilities on all institutions operating in the EU – this will mean that financial companies will have to be much more efficient at dealing with personal data.
+The need to implementing a better analytic system is something that the bank has recognized. In an attempt to improve its data gathering capabilities, the bank has implemented Cloudera data lake architecture, based on Hadoop, that allows Nordea to produce, report, and monitor core data more quickly.
+It’s an impressive implementation, so much so, that it won a Cloudera Data Impact Award. The bank is now proceeding to upgrade its systems and making increased use of artificial intelligence to aid its decision-making process.
+Alasdair Anderson, Nordea’s head of data engineering, sets out some of the bank’s philosophy. He pointed out the thinking behind the move to Cloudera and the data lake option:
+Adherence to open source is the most important thing for us and Cloudera have a terrific support organisation to back it up.
+Key to the Nordea set-up is the use of cluster technology, Apache Spark, which underlies the Hadoop data lake. Anderson explains how the systems work in harmony:
+Hadoop and Spark are complementary technologies sitting on a unified enterprise architecture. For our team Spark is a natural evolution from the map reduce era of Hadoop.
+Data
+To actually be able to use the data, Nordea has also implemented software from data analytics company Trifacta to prepare the data for analysis, and Waterline, a data cataloguing company.
+The input from Trifacta, in helping Nordea to save time in data preparation, as Anderson explains, this means that what used to take days is now down to hours. And it allows for better collaboration too, he adds:
+It means that the IT department can get out of the way out of the business folk while the business people can end up with the shape they wanted.
+Anderson explains the rationale behind the transformation of the bank’s software infrastructure:
+There were three main reasons: The first of these is cost, our OpEx per terabyte of data was too high and we needed to structurally reset the economics of our data platform.
+This restructuring was only one part of the process, however. The second part of the equation was a move to open source – the platform is built heavily on Apache Spark – and agile methodology. This was essential to meet business demands:
+The delivery of data to our stakeholders was too slow. By the time we had delivered data the questions had changed and we could never get in front of the demand curve. We saw Agile working and a lean approach across both business and IT as essential in addressing this challenge.
+The final element in the move was in the requirement to build dynamic, predictive, learning capabilities in order to provide insights into customer data. Nordea has been building machine learning into its processing to try to improve this process, explains Anderson:
+ Our data changes over time, the data drift problem, therefore we want to be able to constantly profile the data in production to ensure that we are continually improving our matching tagging accuracy. We have started implementing a supervised learning strategy for data management.
+As with many banks, the sheer age of the legacy systems is causing problems – and these aren’t always technical issues.  For example, the data is sub ledgers from legacy mainframe platforms, says Anderson, explaining why this is particularly problematic:
+The challenges are that a lot of the people who built these systems have left the bank and that people who understand how the data is structured in the legacy platforms are just as rare.
+The Hadoop data lake is going to change things, but it’s going to take time. Or as Anderson puts it:
+It will help address some of the legacy challenges but we’re not ready to switch off the legacy.
+That said, the efficiency gains  have major implications for the bank, as Anderson explains:
+We have reduced our time to market by 90%  and total cost of ownership by 80%.”
+He says that the savings are more likely to be used to generate greater efficiencies rather than herald a cut in staffing levels:
+Time will tell what measurable benefits can be realized in our operations areas, but it’s more likely we will grow the workload rather than reduce staffing.
+There’s little doubt that Nordea’s approach is a radical one, it’s a path that many banks are following but a move away from human interaction to machine-led decision making is still in early stages and a long way from completion. Anderson says the exercise is a learning process while Nordea works towards a new way of working, it’s not entirely machine-led yet:
+There’s very much a human in the model, a human who says ‘yes’ or ‘no’. There’s some way to go before we remove that human from the loop.
+He says that the company has learned a lot but there’s still some way to go:
+I wouldn’t say that we had every single answer, there are challenge at scale – we’ve still got a bit to learn in that space.
+And there’s still the unexpected to deal with as Nordea gets to grips with algorithms:
+Are we prepared for the results if they throw up something unpredictable?
+My take
+The Nordea initiative is one that we’re increasingly going to see from financial institutions in future. All sorts of organizations are making better use of customer data and tying this information to decision-making processes. The problem, as Nordea, is finding out is the sheer scale of legacy software, making this type of undertaking much more difficult. Nordea is, at least, setting off down the right path but there will be plenty of challenges ahead.
+Image credit - Nordea Read more on: Analytics planning and data analysisCustomer service managementDigital enterprise in the real worldFinancial services and fintechIoT robotics and AI 
