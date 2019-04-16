@@ -1,7 +1,6 @@
 sites:
   -   url : "https://diginomica.com/page/{}/"
-      min: 1
-      max: 644
+      maxNumberOfDownloadedArticles: 1000
       target: read-more
 
 # Similar websites

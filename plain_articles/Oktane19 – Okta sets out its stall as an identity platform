@@ -1,0 +1,23 @@
+
+Okta is announcing a raft of updates to its identity management platform today as it opens its annual Oktane conference in San Francisco. Most notable is a new service that provides additional security when accessing public and private cloud infrastructure. Most strategic are additional customization options for its identity platform and other steps to encourage innovation in its ecosystem. Here’s a quick round-up of the announcements.
+
+
+
+
+
+Advanced Server Access provides an extra layer of Okta-driven identity security when accessing public and private cloud resources, including Amazon Web Services, Google Cloud Platform, and Microsoft Azure. This replaces static keys traditionally used to access these resources with Okta’s centralized identity security and administration, including a dynamic credential mechanism that allows contextual authentication of every login.
+Okta Identity Engine is a new set of customizable building blocks that enable developers to adapt pre-defined authentication, authorization and registration flows to meet their specific needs, shaping a user’s identity experience depending on the context. Possible use cases include allowing different degrees of authentication, from passwordless email links to multi-factor, or progressive profiling, where opt-in subscribers are asked for additional information as they progress through levels of engagement. Bringing additional flexibility to the Okta Identity Cloud when it becomes available in the second half of the year, the new functionality “makes an infinite number of identity use cases possible” according to Okta CEO and co-Founder Todd McKinnon.
+Okta Hooks is a new capability that gives developers freedom to customize their integrations between Okta Identity Cloud services and other applications, connecting Okta services into third-party applications such as e-commerce, marketing automation, CRM, HCM and IT service management. Designed for today’s distributed, microservices architectures and mixed, best-of-breed IT environments, the new capability lets developers extend Okta workflows with custom code or integrate third-party services, all triggered by events within Okta such as registration, authentication, and authorization. Available in early access from today, this additional flexibility built on the Okta Integration Network is set to be extended with no-code capability following the recent acquisition of Azuqua.
+Risk-based authentication applies machine learning to authentication processes, building an understanding of user behavior to detect anomalies that may suggest an attempted exploit, and invoking adaptive authentication to validate a user’s identity with additional verification steps or other actions.
+Okta Ventures is a new $50 million investment fund focused on startups that use technologies such as artificial intelligence and blockchain to address challenges in identity, security, and privacy. Tbe aim is to support innovation in modern identity architecture design and adoption and to extend the Okta ecosystem. The first investment is in Trusted Key, a blockchain-based digital identity company that allows organizations to share strongly proofed user identities within a common ecosystem.
+
+
+
+
+
+My take
+Interviewed by my colleague Derek Du Preez at Oktane two years ago, Okta CEO Todd McKinnon set out the company’s platform vision, and was under no illusions as to how much of a task it was to build a meaningful platform, market it to developers, and then continue to develop it:
+It’s about continuing to add value to developers and the fact that you’re connecting all of these developers and APIs together, makes the platform more valuable. The more developers we get using the platform, the more value we can add for developers, because we can expose more of the value of other people using the platform to developers. It’s possible if you do it in the right order.
+Today’s announcements bring that strategy to a new level and demonstrate significant maturity in the company’s offering. Of particular note is the introduction of new support for flexibility and extensibility, making sure that Okta can play its part as a trusted identity infrastructure in an API-first world.
+[Updated April 3rd to add announcement of Okta Ventures.]
+Image credit - Concept of computer security © lucadp - Fotolia.comRead more on: Governing identity privacy and securityIdentityInfrastructure 

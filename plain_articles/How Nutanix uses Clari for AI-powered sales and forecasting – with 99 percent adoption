@@ -1,0 +1,48 @@
+
+It’s notoriously tough to get a high-performing sales team to use any kind of enterprise software, no matter the benefits. So when I had the chance to find out how Clari has achieved a 99 percent adoption rate with Nutanix, I seized it.
+But what I really wanted to know is: what impact does a so-called “AI” sales enablement tool like Clari have? Where will AI-driven sales take us next, given that enterprise sales is still a human talent game?
+Rickie Goyal, Vice President of WW Sales and Revenue Operations at Nutanix, is the right guy to ask. He’s been working in inside sales for most of his career, including six years at Nutanix.
+Keeping tabs on Nutanix – a job unto itself
+Keeping up with Nutanix is a full time job unto itself. They are masters of speedy, buzzword-compliant techno-flexing, from “hyper-converged infrastructure” into edge computing and who knows what’s next. Goyal has enjoyed the ride so far:
+I remember when I was first interviewing with Nutanix. I had that ‘aha’ moment of why this company was doing something that was going to be a part of this big paradigm shift in how companies view applications and storage and servers.
+And what do you hear from customers?
+Just the feedback that we get in terms of what it’s done for them – either from a financial standpoint or just from a quality of life standpoint. Meaning the time that their people were spending on doing certain things has completely changed. It’s cool to see.
+Of course, life at a so-called disruptive tech company means you are always pushing ahead, before someone else disrupts you.
+Definitely. I think our CEO, Dheeraj Pandey, he has really amazing visions for where he sees this all going. I think back to six years ago, the way that he used to talk about Nutanix and our product, he was really more hardware-centric and just more about the CI (Converged Infrastructure) story.
+Now it’s time to pivot, and with all these acquisitions and new offerings, that we have to really own the entire stack. And now, internally, we don’t talk about the infrastructure at all. We just talk about the applications and what you can do. And then this hybrid public and private crowd environment and having a unified fabric… It’s pretty exciting.
+Enter Clari – out with legacy sales processes
+But no matter how excited you are about your products, you still have to sell. What’s more, the discipline of sales still requires accurate forecasting, and meeting regional targets. And that’s where Clari enters the picture. Goyal’s team has been working with Clari for almost five years:
+We started with Clari when their web site still said stealth mode. It was just a cool-looking graphic and no information.
+But Clari came highly recommended – one of the Nutanix founders was connected to Clari CEO Andy Byrne. So why Clari? Bottom line – the Nutanix sales process needed modernization.
+If you look at sales management and sales execution, a lot of it is still legacy. Everything from hiring to one-on-ones, to QVRs, to forecast calls, it’s all still done the same way that it was created 20-30 years ago.
+And did Clari do the trick?
+We did a paid POC with Clari somewhere around five years ago; it’s been pretty amazing to see how much transformation they’ve undergone… Once we got onto version one, it helped with a lot of manual entry of how do we get reps to update the CRM, so they can do the bi-directional push between the mobile application and Salesforce.
+But Goyal saw the potential for something bigger:
+I told Andy at that time, the most critical thing is going to be forecasting. Once I can mandate that forecasting is done through Clari, that’s when I’m going to hit the 99 percent adoption rate, because you have no choice. You have to forecast.
+Before too long, they had forecasting – and 99 percent adoption.
+Maybe about a year after we had that discussion, Clari went live with their forecasting module. And our adoption rate went from 65-70% up to 99%. Sometimes 100%. And that’s when we really started getting the critical information that we needed. In a very non-intrusive way, we can sync activity and calendar and email.
+Clari’s impact – how sales at Nutanix has changed
+Forecasting at Nutanix has changed – for the better. Even when a forecast isn’t manually updated:
+In an ideal world, every single rep, every single sales manager updates their forecast every single week. But, the scale that we’re at now, in between the discrete quota-carrying reps and the sales managers, we’re looking at 600-700 people. It’s almost impossible where 100% of people are going to do it.
+But Goyal says Clari is smart enough to fill in any data gaps:
+In reality, if all 700 people decided not to do it one week, I still have the Clari projection… You can dissect it down, using all the same Salesforce parameters that we use today – the region, subregion. Essentially, if the field exists in Salesforce, you can then use it as a filter in Clari.
+That sounds like a big, positive shift – both in user adoption and forecasting accuracy. But the big question on my mind was: how do you measure the ROI of Clari, amidst all the attribution factors that sales and marketing put into the mix?
+Talking sales productivity – and ROI
+Goyal acknowledges the ROI question can be tricky. But one thing is not disputable: Nutanix sales reps see the change.
+I know a lot of reps that work out of Clari. So they’re in their forecast; they can update their forecast numbers which takes them about 15 seconds. But then, from the opportunities, they can actually see all the opportunities. They use the green and red indicators to tell them what’s going good, what’s not going good.
+Goyal estimates that preparation time for forecasting calls and reports is significantly reduced with Clari – especially when you spread that time savings over 700 sales reps.
+This is saving us in expenses in the seven-figure range a year. And the visibility that we get into what’s happening behind us, which is almost invaluable.
+Goyal thinks once you factor in the additional deals closed, that they are “theoretically getting a 20-25x return on Clari.” Yes, that type of attribution is hard to nail down. But Goyal does know this:
+When I go to Finance for the Clari renewal, nobody pushes back or questions it, because I think to some degree, we all agree that these savings are there. We know that the time is being reallocated to selling.
+Nutanix now uses Clari’s “Trend” and “Pulse” features to look at “out” quarters, anticipating pipeline issues further out than before. Clari is also helping to break down that classic sales/marketing divide:
+We now have all the demand gen and marketing working out of Clari as well. So targets for marketing and demand gen’s pipeline numbers are all based on what Clari shows. And it unified the two groups, because we’re not fighting over the data anymore.
+The wrap – where next for AI and sales?
+Goyal didn’t once mention “AI”. That said, I did ask Goyal – what would next generation sales look like? Where should the “AI” part of this ultimately go?
+Goyal pointed to the daily dashboard checkup – the value of immediately seeing the “green” versus the “red” and knowing where to focus his attention. Looking ahead, he sees two phases. The first? Highlight the trends he should be looking at globally:
+The next generation for me, is now if Clari has all this data and has all this intelligence, it now highlights the trend for me.
+For now, sales executives like Goyal are still doing a lot of clicking into regions to compare forecasts. But Goyal can see that changing:
+I would love for the next generation to be where the tool automatically alerts me. Saying here’s the trend, here’s what’s going well, here’s what’s not going well. If I could log in to the tool, and I don’t have to do any clicking, and it just told me that there’s a concern in Asia, specifically in Southeast Asia, and here’s why.
+Or the pipeline’s not enough, or there’s not enough weights to the opportunities, or these are the deals that aren’t being worked… I think that’s the next level. That’s where this all becomes an extension of a person almost.
+I asked if Salesforce integration with Clari was difficult. “It was up and running the next morning,” says Goyal, so that would be a no. And, Goyal reminded me, for all the whizbang tech, you’re going nowhere without a strong partnership. Goyal manages almost twenty vendor relationships, but Clari stands out:
+Clari’s entire team is so invested in my success. It’s really been one of the more pleasant vendor/customer relationships that we have.
+Image credit - Feature image - Group of people rise hands, by @SergeyNivens from Shutterstock.com.Disclosure - Diginomica has no current financial relationship with Nutanix or Clari. Salesforce is a diginomica premier partner.Read more on: Analytics planning and data analysisIoT robotics and AIMachine intelligence and AI 

@@ -1,0 +1,62 @@
+
+NVIDIA’s GTC event has long outgrown its roots as a centerpiece for game and CGI developers and as I’ve detailed the past two years (here and here) has evolved into a premier venue for researchers in AI and HPC.
+Between the keynote demos and scores of sessions highlighting the cutting edge of AI technology, the most compelling content at GTC has often been from research projects and proofs of concept, with NVIDIA CEO and Founder Jensen Huang frequently paying homage to the year’s most significant AI achievements. There was still plenty of science project fodder at GTC this year, however Huang made a notable thematic shift by pointedly differentiating data science from AI in both his keynote and investor day presentation. It’s a change that expands NVIDIA’s relevance beyond AI to mainstream business software.
+During NVIDIA’s Q4 2019 earnings call with analysts, Huang cited data science as one of the company’s four growth drivers in its data center business, along with deep learning (AI), scientific computing (HPC) and rendering (visualization, which overlaps with the other three). The shift to data science is NVIDIA’s way of broadening the market for both its GPU acceleration products, but more importantly, its applications development stack to enterprises that are being overwhelmed with data and struggling to make sense of it all.
+
+Source: NVIDIA Investor Day 2019 presentation
+Expanding the playing field
+NVIDIA’s evolving strategy is likely the product of several factors:
+
+An acknowledgment that it has almost saturated the market for high-end HPC and AI development systems, what it calls supercomputers. While that market continues to expand, it’s a small pie compared to the enterprise software market.
+A need to replace lost crypto-mining sales after the Bitcoin bust.
+A tactic to maintain robust growth in its data center business now that the ‘easy’ triple-digit growth of a sub-billion dollar business is history and it faces increasingly hard revenue comparisons along with a raft of new competitors for the data center AI business.
+
+Of course, 52 percent growth of a $2 billion dollar business is nothing to apologize for, but as the mega-cloud operators have shown, the path from 10- to 11- figures in revenue requires expanding both one’s product line and addressable market. Here’s how CFO Collete Kress described NVIDIA’s growth plans on the Q4 conference call (emphasis added):
+Inference currently drive less than 10% of our data center business but represents a significant expansion of our addressable market opportunity going forward. We have also strengthened our product portfolio and go-to-market capabilities to address vertical industries that have an enormous data and analytics requirements such as automotive, financial services, retail, healthcare and consumer Internet services. With our Rapids software stack, NVIDIA can accelerate data analytics and machine learning as we have done in deep learning.
+
+Source: NVIDIA Investor Day 2019 presentation
+In its analyst day presentation, NVIDIA put numbers to the opportunity opening up by pivoting to data science. It broke the current market for GPU-accelerated servers, which it labels as HPC, into three categories:
+
+Scientific computing dominated by the energy industry, research projects and higher education (with some obvious overlap between the last two).
+Hyperscale operations run by cloud service providers, Internet companies (online services and social networks), e-commerce (Amazon and the seven dwarves) and (streaming) media companies (Netflix, Apple, Disney, et. al.).
+Enterprises, notably in the financial services, retail, telecom and automotive industries that are the largest users of data analytics, data management, security and other HPC workloads.
+
+Citing independent sources, NVIDIA says these total $37 billion in potential GPU-accelerated server sales representing its TAM.
+ 
+
+Source: NVIDIA Investor Day 2019 presentation
+By augmenting the workload mix with data analytics, NVIDIA estimates that its TAM increases to $50 billion by 2023. I think NVIDIA better double-check its math since it appears to be selling itself short with a number that represents a mere 6 percent CAGR. It seems likely that the organic growth of existing GPU markets would be far higher than 6 percent annually before accounting for added data analytics workloads.
+Looking at the relative sizes of each slice shows that NVIDIA projects a significant contraction in the HPC-scientific computing market and some slowdown among hyperscalers. Our friends over at the Next Platform, which closely follows the supercomputer market, hypothesize that the former is due to a new wave of exascale machines coming online over the next few years, for example, Aurora at Argonne National Laboratory, that might satiate HPC demand for a while. Backing out scientific HPC, the enterprise and hyperscale markets are expanding at double-digit rates in NVIDIA’s model and represent a rich target for NVIDIA products and development platforms.
+
+Source: NVIDIA Investor Day 2019 presentation
+Addressing the enterprise analytics opportunity with new hardware and software
+This year’s GTC product announcements were more evolutionary than revolutionary, with many of those targeting data science built around the T4 GPU and TensorRT software announced last year.
+
+NVIDIA introduced T4 GPUs last year as an alternative to its Volta chips with a more balanced design to target a broad range of applications including gaming, 3D rendering and deep learning inference. Whereas the Volta architecture used in NVIDIA’s DGX systems is optimized for AI model development and training, the evolutionary Turing core is built for a mix of GPU applications, most importantly for hyperscale clouds and enterprises, machine learning and deep learning inference. NVIDIA augments the hardware with an updated TensorRT 5 inference optimizer and runtime engine along with the TensorRT inference server for running containerized AI workloads. Announced last fall, these became a reality at GTC last week after several companies including Dell EMC, HP Enterprise and Lenovo announced T4 servers and AWS announced T4 instances.
+
+Huang described the T4’s value vis-a-vis previous NVIDIA offerings like Volta and competitive acceleration chips this way on his latest analyst conference call, “You just got to keep saying that it has second-generation Tensor Cores, 75 watts, and you can use it for training, you can use it for Inference, you could use it for remote graphics, you could use it for high-performance computing.”
+
+Accelerated hardware is only useful if developers can easily use it to make applications and models that can exploit it. To that end, NVIDIA reintroduced the CUDA acceleration libraries called RAPIDS that provide at least an order of magnitude faster performance than the running on conventional CPUs. It also announced that Azure will become the first cloud service to offer RAPIDS through its Machine Learning service.
+NVIDIA also announced enhancements to its container-based cloud service, NCG that include pre-trained AI models for things like classification, object detection, language translation, text-to-speech, recommendation engines and sentiment analysis, along with model training scripts and the first of what should be an expanding portfolio of industry-specific software stacks, these for medical imaging and smart city infrastructure.
+
+
+Source: NVIDIA Investor Day 2019 presentation
+Kress outlined how the T4, TensorRT and RAPIDS can expand NVIDIA’s TAM on its recent earnings call (emphasis added),
+Inference currently drives less than 10% of our data center business but represents a significant expansion of our addressable market opportunity going forward. We have also strengthened our product portfolio and go-to-market capabilities to address vertical industries that have an enormous data and analytics requirements such as automotive, financial services, retail, healthcare and consumer Internet services. With our Rapids software stack, NVIDIA can accelerate data analytics and machine learning as we have done in deep learning. And we made it easier for customers to adopt our technology by partnering with Cisco, IBM, NetApp and Pure Storage to create pre-integrated systems that can be sold through their global IT.
+Growing enterprise AI adoption: The latest gold rush for infrastructure providers
+By attacking the enterprise desire for data analytics applications, NVIDIA is staking its claim to an exploding market for hardware, software and services that accelerate and simplify their development and implementation. According to a recent Deloitte State of AI report, 59% of enterprises are acquiring or developing software that incorporates AI, with around 45% are using data science modeling and machine learning and 49% are using cloud AI services.
+
+Source: Deloitte, State of AI in the Enterprise, 2nd Edition
+Deloitte highlights several trends in enterprise AI usage that bode well for companies like NVIDIA, namely,
+
+Early adopters are increasing AI investments, including their use of cloud-based cognitive services.
+Increased use of more advanced techniques including machine learning, deep learning (neural networks, et. al.), natural language processing and computer vision.
+Greater AI penetration outside the technology sector to improve such things as manufacturing and other business processes, existing products and overall decision making.
+
+Deloitte’s survey finds that 82% of respondents claim their AI projects deliver a positive ROI with a median return of 17%.
+My take
+The resurrection of AI from the ash heap of failed technologies was sparked by innovative research into neural networks and related deep learning algorithms, the computational acceleration provided by GPUs, the availability of massive amounts of fast DRAM and flash memory and the development of tool sets, framework and models to facilitate application development. If phase one of the AI renaissance was centered on research, demonstration projects and niche applications, phase two is focused on the broad dispersion of these technologies into every facet of business.
+Just as the transition of the Internet from a scientific research tool to a mainstream enterprise communications and application platform was a decade or more in the making, the incorporation of AI into enterprise applications will be gradual, but accelerating process. As such, AI represents a monumental business opportunity for both suppliers and users. Technology providers like NVIDIA, Intel and the hyperscale clouds are all angling for a piece of this growing business, just as enterprise software vendors like Microsoft, SAP, Salesforce and others are hoping to use AI-based features as a competitive differentiator.
+It will be difficult for enterprise IT leaders and business executives to keep up with such a dynamic market, but as with every hot technology, the biggest challenge will be sifting the genuine innovation from the marketing hype. As an AI pioneer, NVIDIA is naturally a cheerleader, but so far has proven to deliver on its promises by pushing the state of technology and opening up AI to a broader audience like few others. As such, it has, and should continue to handsomely benefit as AI enters its enterprise phase.
+ 
+Image credit - Kerem Yucel/Freeimages.comRead more on: Cloud platforms - infrastructure and architectureInfrastructure 

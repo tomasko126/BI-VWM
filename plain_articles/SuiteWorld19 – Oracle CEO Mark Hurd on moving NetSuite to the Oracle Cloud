@@ -1,0 +1,26 @@
+
+Mark Hurd and Evan Goldberg
+It seems that Oracle’s confidence in its NetSuite subsidiary continues to grow, two and half years after it acquired the cloud-native ERP vendor. At last year’s annual SuiteWorld conference, Oracle CEO Mark Hurd took part by video conference. This year he attended in person, sharing his views on cloud, AI, and the future of NetSuite and other Oracle applications.
+One big change that was foreshadowed last year but is now becoming a reality — NetSuite is migrating onto Oracle Cloud Infrastructure (OCI), including the autonomous Oracle database service, which uses machine learning to automatically tune database performance. One statistic cited by Hurd gives a powerful illustration of how important a showcase this will be for Oracle’s autonomous infrastructure. He said that, in the fifteen years or so that NetSuite has been running on the current Oracle database technology, its engineers have indexed the database about 9,000 times. In the first 24 hours of testing, the autonomous infrastructure wrote 6,000 indexes:
+In something like a few hours, it wrote 6,000 indexes, further optimized it and gave you a performance kick. By the way, that’s iterative, that’s not a one-time gain. That can continue to get better and better as the tools get better and better. So now imagine that rippling through our entire base.
+NetSuite founder and Executive Vice President Evan Goldberg confirmed the impact on performance is significant, based on testing so far in its Frankfurt data center. Customers will see the effects in performance, he says:
+We’ve already done tests that show it’s going to be amazing for a really complex application like NetSuite …
+We’re starting in Frankfurt and we think it’s going to deliver unprecedented performance improvements at the end of the day …
+We have many thousands of customers. We can’t hire a database administrator for every one of them to tune it for their particular use of the application. [When we] deliver autonomous database, it’s going to be a DBA for each of our tens of thousands of customers, making sure the system is tuned for their particular use.
+Impact of artificial intelligence
+NetSuite also benefits from Oracle’s other investments, including in artificial intelligence (AI), a technology that Hurd believes will have a significant impact on enterprise applications:
+I think we’re at the beginning of, in AI, what’s going to be a massive move over the course of the next decade …
+We’re not a company that believes AI gets to become a separate application, but it becomes a feature that’s integrated into really all the core applications. It’s going to do everything, from alter the way you communicate with people — all the user interfaces are going to change, all the analytics solutions are going to change.
+Creativity for us is not only implementing and executing, but not being fearful of what the outcomes may be. So I think it’s a big opportunity for us.
+The impact will be felt in use cases such as optimizing supply chain management or using machine learning to improve recruitment strategies, he says.
+I think you’re going to see these tens and hundreds of use cases that are really AI integrated directly into the applications themselves.
+Moving to the cloud
+These are both examples of how technology is moving to the cloud, a trend that’s set to continue, says Hurd.
+I think that the data is irrefutable that the market is going to move to the cloud … Last year, 15% of US data centers closed. We’re up to now where almost 50% of dev/test is in the cloud. 30-35% of applications have now moved to the cloud …
+Cloud is not [a technology], cloud is an architecture, it’s an approach. And this approach, it’s irrefutable. It has several key elements that are big deals. It costs less. That’s a really big deal. Second, it’s got tons more innovation associated with it that you can now get without having to do it on your IT budget nickel. Turns out that’s a really big deal. And three, it lowers your risk. You’ve moved the risk from you to somebody else, whether that be security, whatever it may be.
+All of this helps to explain why Oracle remains committed to supporting NetSuite. Hurd made clear that commitment continues:
+I expect NetSuite to go on forever. We’ve invested in more industries, more countries. We’re adding R&D. It’s expensive. We’ve done that. We’re adding more salespeople.
+We’re doing that all in the interests of continuing to invest in the technology and the product, in the implementation of the product and the infrastructure underneath the product. NetSuite is going to do nothing but get better and better and attract more investment from us.
+My take
+A big vote of confidence from Hurd in NetSuite’s contribution to Oracle’s cloud strategy, but also a significant endorsement from NetSuite for Oracle Cloud and its autonomous database service.
+Image credit - via the authorDisclosure - Oracle and NetSuite are diginomica premier partners at time of writing. NetSuite funded travel for diginomica writers to attend SuiteWorld. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architecture 

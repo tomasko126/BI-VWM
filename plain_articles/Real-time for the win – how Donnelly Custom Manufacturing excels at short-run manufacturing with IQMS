@@ -1,0 +1,44 @@
+
+Donnelly Manufacturing in action
+When you peel it back, most successful companies face down a difficult crossroads and place their bet. For plastic injection molding specialists Donnelly Customer Manufacturing, their big gut check came in the 1990s.
+Donnelly had expanded into consumer products, like inline skates. That grew to half their business – until outsourcing threatened to take that work overseas.
+Gut check time. Jerry Bienias, VP Operations at Donnelly, picks up the story:
+We took a step back. We said, “We need to refocus ourselves on short-run, industrial tolerance type products.” We had grown to be about $23 million at that point in the mid-’90s, and then we shrunk back down to about $14/15 million.
+And how are they doing today?
+We’ve now grown back to about $36 million last year. It’s really just continuing to try and focus on the short-run.
+Short-run manufacturing complexity – benchmarking Donnelly
+But if short-run was easy, more manufacturers would be doing it. Donnelly couldn’t pull it off without real-time manufacturing software, and a culture of customer intimacy. Last week, I talked with Bienias and Louis Columbus of IQMS. My goal? Figure out how Donnelly keeps their edge.
+Based in Alexandria, Minnesota, Donnelly has been pioneering short-run manufacturing since Stan Donnelly founded Donnelly Custom Manufacturing Company in 1984. Donnelly’s 240 employees carry a lot of know-how around with them: their average tenure is over ten years. Bienias fits that mold; he’s been with Donnelly since he left Ernst & Young in 1993.
+When I talk about short-run complexity at Donnelly, I’m not exaggerating. Bienias refers to a Plante Moran study where they coined the term “complexity factor” to account for the level of short-run manufacturing difficulty. They take into account the number of molds a manufacturer runs, times the number of machines, times the number of different materials processed. And how does Donnelly Manufacturing compare?
+Companies on the higher end of a lot of their complexity factors were up in the five to eight million range. I think our complexity is up in the 20 or 30 million range.
+“We were on an ERP system nobody had ever heard of”
+But that complexity brings a load of logistical challenges. Back at that 1990s crossroads, Donnelly had another issue to face: their ERP system wasn’t up to the challenge of their short-run ambitions. Bienias:
+At that time, we were on an ERP system that nobody had ever heard of. It was based in OS2. And so in June 2000, we started looking for a new software package. We knew what we were trying to focus on. Our software was not going to give us the information to be able to manage that business.
+Donnelly Manufacturing selected IQMS Enterprise IQ, installing it in October of 2001. And how did that work out?
+When we did our surveys and participated in Plant Moran’s benchmarking, Jeff Mengel came out and visited us for a while. He was trying to understand how we had such a high complexity factor, and how we managed it. A lot of that tied back to the information, and the ability within IQMS to keep everybody on the same page with the correct information.
+So how does IQMS help with short-run?
+Well, because of that complexity factor, we’ve spent a lot of time internally trying to make sure we have tight processes throughout the business, because things change so rapidly. We used IQMS as the base of that, but then developed processes around that on how to manage that short-run business.
+Running real-time on Enterprise IQ
+Donnelly’s secret sauce includes a fast-paced, thirty minute 8:30 am team meeting – a meeting that’s been happening daily since 1997. Everyone from the scheduler to the manufacturing manager to the customer account managers are there. The meeting is broken into four parts, starting with quality:
+Everybody gets a report in the morning out of IQMS of all the jobs, or all the parts that are currently in our bonding area. The quality manager comes in, and the customer account managers have an opportunity to ask about the status of any parts.
+The meeting then shifts into a look at at-risk jobs. They flag any orders/shipments that pose a customer due date risk. Then they look at scrap, with scrap control being a constant goal:
+We look over any scrap jobs from the day before. We use IQ log notes all throughout the shifts, because we operate seven days a week, 24 hours a day. We’ve incorporated that throughout the shift, if we have a scrap event, if we have a downtime event, if we’re having processing issues, people leave notes.
+Those issues are then surfaced via IQMS alerts:
+Every morning, I get emails through IQ alerts that show me all the IQ log comments entered the day before, and any scrap jobs that had more than $200 in scrap. Our group goes over all that information, looking for anything we need to take action on.
+When you’re running complicated short-runs, you need those alerts:
+We have 36 injection molding machines. We do between 30 and 40 setups a day. We have about 400 different resins that we use, and we have one scheduler who schedules everything with IQMS. He schedules all of our presses, all of our secondary activities and coordinates all of that activity.
+Ah, but here’s the catch: when you’re in the short-run business, your schedule is never set in stone. You must adapt on the fly.
+We never lock our schedule; we make changes pretty regularly across all shifts. The real thing that we see IQ providing in managing the complexity of the short-run business is the availability of schedule, material requirements, inventory etc. to everyone on a real-time basis.
+Attention to scrap rate has paid off. Over the last ten years, Donnelly has driven their scrap rate down from about 6.5 percent to about 2.5 percent.
+The wrap – from customer intimacy to IoT
+There’s one more piece I needed to know: how does real-time translate to customer satisfaction? Bienias told me about their customer intimacy model, focused on about forty main customers. Donnelly Manufacturing engineers work out of their homes in the twin cities area. They spend most of their time with customers, designing plastic parts on-site:
+That is what we use to do the customer quotes, because you can get the part weight and everything out of the 3D CAD models.
+That carries over into customer service, with real-time lookups from Enterprise IQ:
+The customer account managers will be on the phone with a customer that’s calling about something, and they can pull up real-time, and then jump to the schedule and look at where the job is. They can see what’s in front of it, see when it’s scheduled to go in. They can see if it’s up and running, or if it’s down. They have real-time data right there at their hands to talk to the customers about.
+IQMS knows when I get their customers on the phone, I’m going to ask for reactions to IQMS’ acquisition by Dassault Systèmes. Bienias is upbeat; he’s “excited about the future potential for the integration of IQMS and SolidWorks.” He recalls past talk about the potential of incorporating SolidWorks and CAD models into IQMS. Now that’s front burner.
+What about Industry 4.0, factory-of-the-future topics? Is there anything there for Donnelly?
+Well, I think we’d be interested in how IQ develops the Internet of Things, and being able to incorporate some of that data. That’s ambiguous in some respects to me. But we are starting to look into that.
+Two more topics all manufacturers have to sweat: audits and talent. Audits don’t pose a problem for Bienias and team. Whether it’s an external or internal audit, the Enterprise IQ data satisfies that need. That includes ISO-certified customers who need to do an ISO supplier audit, and layered process audits on the shop floor.
+As for talent, Donnelly Manufacturing has thrived by recruiting local talent from service industries like fast food and putting them through intensive training. Not every hire sticks, but the ones that do stay for the long haul, gaining a career opportunity they wouldn’t have otherwise had.
+Given the growing interest in short-run manufacturing, looks like Donnelly is in the right place at the right time – 35 years in the making.
+Image credit - Photo of Donnelly Manufacturing in action is from the Donnelly Manufacturing web site. Disclosure - IQMS is a diginomica premier partner. Read more on: Analytics planning and data analysisDigital enterprise in the real worldUse cases 

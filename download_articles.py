@@ -10,7 +10,7 @@ if __name__ == "__main__":
     if 'scrape' in argv:
         with open("sites.yaml", 'rb') as file:
             pages = yaml.load(file)
-        Scraper(pages).downloadArticles()
+        Scraper(pages).downloadArticlesForEveryWebsite()
 
     if 'lemmatize' in argv:
         preprocess.lemmatize()

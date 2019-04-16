@@ -1,0 +1,72 @@
+
+Chegg shares their story at Adobe Summit
+Whatever your views on Adobe, few enterprise software vendors have changed their market role as quickly and decisively.
+Seems like yesterday I was scouring my office in search of a missing Adobe Acrobat CD.
+Now you have 17,000 people packing the Sands Convention Center for Adobe Summit 2019 – not to mention the largest assemblage of enterprise media and analysts I’ve seen in 2019 so far.
+From their own subscription economy transition, to their recent bigtime acquisitions (Marketo, Magento), Adobe is now at the point where they can make their case for being a customer experience leader – and push their own customer experience platform. (The Adobe Experience Platform was announced as “available to all” during the day one Adobe Summit keynote, with official general availability slated for May).
+There were a slew of news announcements on day one, including the interesting-if-unsurprising Adobe-Microsoft partnership extension via LinkedIn integration, with a focus on “account-based experiences.” Of course, positioning yourself as a CX leader also raises the stakes:
+
+Adobe CTO Abhay Paransis at press Q/A -> companies barely get data lakes off the ground, they are drowning in data lakes for years. They should be delivering experiences. 
+We think we have solved that heavy lifting so customers can focus on experience delivery. #AdobeSummit
+— Jon Reed (@jonerp) March 26, 2019
+
+And earns you a fresh round of tough questions:
+
+I'd be really curious to know how they solved the problem https://t.co/wGJEjn7MEd
+— Gabriel Gheorghiu (@ggheorghiu) March 26, 2019
+
+The same goes for Adobe Sensei, and Adobe’s aggressive-and-optimistic AI approach:
+
+Good to hear a press question on the dark side of AI (including job loss) as there was a lot of AI happy talk during the keynote on how AI going to make everything better, more personal and more productive. #AdobeSummit
+— Jon Reed (@jonerp) March 26, 2019
+
+Piercing through the customer experience hype isn’t easy
+One huge challenge for Adobe: just about every major enterprise software vendor now pushes the same experience economy, digital transformation, and customer experience themes. Piercing through the noise with a truly differentiated message isn’t easy. Nor is convincing customers that this vision is right for their organizations and software budgets.
+Adobe’s best day one keynote move was a series of customer interviews, from Intuit to Best Buy to Chegg. But it was Adobe Chairman Shantanu Narayen’s chat with Chegg CEO Dan Rosensweig that embodied Adobe’s message the best. Chegg’s own transformation from a (physical) textbook-focused business to a major player in online and student education was a digital wake-up call.
+The Chegg video shown during the keynote illustrated a point I’ve seen a lot lately. Successful transformations need a purpose, perhaps even a grandeur. Here’s how Rosensweig described Chegg:
+We do one thing everyday. We put students first. Our products help students save money, pass tests, and get jobs. We reach more students and know more about them than anybody.
+Rosensweig connects this to their digital imperative:
+We started as a textbook rental company and have grown to an always-on platform to help students everywhere.
+That’s way more than textbooks, or even moving textbooks online. As Rosensweig says, 30 million students have now used Clegg for everything from homework help, writing, and math, to 24/7 live tutor support. But how did this shift happen? For Chegg, it was a cold shower indeed: a public offering that went south, and quickly.
+A disappointing public offering leads to a digital turnaround
+As Rosensweig told Narayen:
+We went public about five years ago, and we priced at 12.50. Our first trade, 11.25, first day closed at 9.68. We dropped as low as 3.5 cents.
+Why the fast drop? Wall Street frowns on analog, for one. Then there’s the Amazon factor:
+A lot of that had to do with the fact that we were a non-digital business. Wall Street doesn’t like it. We were cash-intensive. Wall Street doesn’t like it. But also, our fine competitors up in Seattle decided that they were going to launch a textbook rental business on the day we went public. So for anybody who thinks that competition isn’t fierce, I think that’s a pretty good example.
+Time for the white board. It wasn’t really back to the drawing board though. It was about taking their intimate knowledge of their customers, and building something new on top. Rosensweig:
+We said, “How do we build a company on top of the brand that we had built with college students?” We went to the white board like any good company does and we said, “What are the biggest pain points of our customers? What are they in high school? What are they in college?” We wrote them down, and we’ve been systematically, over the last nine years, trying to go through each one of them.
+The digital push wasn’t easy. Eventually, Wall Street recognized the turnaround. Rosensweig:
+It’s taken a long time, and commitment, and all the things you heard from some amazing speakers today, but we’ve been able to turn it around. The company went from being worth about 300 million dollars to, I think as of a minute ago, being worth about four and a half billion dollars in the last couple years.
+Digital businesses need new metrics
+Chegg isn’t digital-only today. They still ship five million textbooks a year – but their mission has changed. And, as Narayan pointed out, they now need new metrics. Rosensweig said those metrics include subscriber growth, revenue growth, engagement, renewal, and conversion rates. But there’s an underlying metric: create something awesome.
+Now the real measurement is: can you create overwhelming value in the mind of your customer, and do they reflect it in their usage and in their renewals?
+But it’s not just about being awesome and “always-on.” You still have to analyze the subscription data you’re acquiring, and push for efficiencies of scale:
+What we learned was you not only have to get them to subscribe, you [also have to] lower your cost to customer acquisition, which at one point for us was 27 dollars. Now it’s $3.50. Our renewal rates were 63 percent; they’re now in the mid-80s for a monthly renewal.
+Honing that model requires smart use of technology:
+All of this is because we were able to use technology and analytics and data to be able to really monitor what the student does, and when they do it. So we can predict now, for example, we offer a tutoring service, 50 cents a minute.
+We can predict two weeks from now, by school, which subjects at which time of day are going to need a tutor – and how many tutors that we need. So that’s the benefit of being a digital business. The difficult part is you really have to change your entire mindset to do it.
+My take – can Adobe make the real-time case?
+After the day one press Q/A, one analyst jokingly said to me:
+Adobe hates batch processing.
+He was half-kidding, of course. But real-time data is integral to Adobe’s customer experience/platform vision. During a sit down with Ronell Hugh, Head of Product Strategy & Marketing, Adobe Experience Platform, I told him I’m an advocate of “right time” data – not real-time. In some industries, e.g. ad-tech, e-commerce and financial markets, real-time is everything.
+In other industries, it’s on Adobe to make the case for why an investment in real-time data platforms/analytics can change their business. That issue came up in the keynote chat with Chegg. Rosensweig’s team learned that real-time course corrections make a huge difference to their audience, particularly younger students in so-called Generation Z:
+I’ll give you an exact example, and it’s actually something we maybe not-so-coincidentally use Adobe Analytics to help us with. We have 80 thousand experts, and any student can ask any academic question. We have a database of over 26 million Q & A questions in there.
+But if you have a new question that hasn’t been asked and, there’s six to seven million new ones that get asked of us a year, we send it out to a network of 80,00 who’ve all been tested, right? All of those things. But they do make mistakes.
+The analytics taught Chegg those mistakes better get fixed, and fast:
+Our renewals go down if the students identify a mistake and we don’t fix it in less than one hour. The actual percentage of renewals go down.
+For digital business, speed and responsiveness is huge:
+Site speed matters… It’s “I just need to learn that algorithm right now.” They don’t have time, they don’t have energy, and they don’t have tolerance, and you know what? They’re right, because in our lives, we don’t have it either anymore.
+A subscription audience gives you the data. But you still have to apply it:
+We have the opportunity to know what matters because they tell us. We don’t have to guess because of analytics and data. We have 32 data scientists who spend all day long trying to understand what we do wrong in their opinion, and to make it right.
+Narayen and Rosensweig talked about the future of Chegg, and how education is changing – and needs to change – for all of us. That’s a crisis and opportunity all wrapped up in one.
+Adobe still has a lot to prove in the customer experience game. Nor do I think their message on customer experience is as differentiated as Adobe does. To be fair, I feel that way about all the big vendors in that space to some degree. Adobe is at its best when customers like Chegg carry their digital message – or when Adobe speaks openly about its own transitions.
+Adobe acknowledges that customer experience can’t be solved with their marketing/customer data alone. That’s a big motivation behind their ODI initiative:
+
+Good to see Adobe's Narayan and Microsoft's Nadella talking about the Open Data Initiative (ODI) – SAP also a founding partner. https://t.co/E4LJT9jFdH
+You're not going to deliver on customer experience without a broader data platform beyond marketing/sales/CRM. #AdobeSummit
+— Jon Reed (@jonerp) March 27, 2019
+
+That’s also a big motivator behind their ServiceNow partnership announcement. Amongst other things, that partnership brings ServiceNow’s customer service/employee data into Adobe’s CX fold.
+That also puts the pressure on Adobe to fully integrate Marketo and Magento into the platform. “CX” worthy of the hype festival requires seamless integration, not “good enough” integration. Adobe has made initial integration progress with both acquisitions, but Adobe acknowledged to me that a seamless integration of data and UX is quite a ways off. They didn’t commit to a completion timeframe on that when I asked, so that’s a topic we’ll need to revisit next year.
+I’ve still got a day of Adobe Summit time left; I’m off to interview more customers and delve into their triumphs and concerns.
+Image credit - Image of Adobe Chairman Shantanu Narayen talking with Chegg CEO Dan Rosensweig via the Twitter feed of Blue Acorn iCiDisclosure - Adobe paid the bulk of my expenses to attend Adobe Summit 2019.Read more on: Analytics planning and data analysisDigital enterprise in the real worldDigital transformation - frictionless enterpriseFrictionless enterpriseUse cases 

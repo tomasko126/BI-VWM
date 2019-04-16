@@ -1,0 +1,92 @@
+
+You could feel busy season was underway in the analyst world. Just as daffodils and crocuses pop up early every spring, a new crop of product announcements, management changes, etc. have been launched toward all manner of software users, buyers and industry watchers. Was there anything newsworthy? Let’s see…
+The month’s new words
+My thanks to the March/April Inc. (pg. 16) for bringing us “Blocksplain”. They describe it as “when a techbro shares his algo while manspreading in his Lambo”. Since I read that, I’ve heard bad speakers try to “cloudsplain” to an audience. It wouldn’t be so bad if this was 1999 but now?
+My Kingdom for a Unicorn
+“Unicorns”, those startups with a billion dollar or more valuation, were in the news this last month. Apparently, Wall Street types have been whispering in the ears of the CEOs of these firms telling them now is the time to go public. Why? Wall Street seems to think the stock/capital markets are at a very high level now and it might not last. So, get those S-1’s filed and launch that initial public offering!
+There are a lot of companies in the unicorn space currently (e.g., AirBnB, Lyft, Uber, etc.) and some are expecting $100 billion+ valuations. In the enterprise software space, we should watch out for Uptake Technologies and possibly Infor to do a deal.
+The unicorn name has also spawned other new words for our tech dictionary this month. Barrons reports in its April 8 issue (pg. 11) these other unicorn terms:
+
+Deca-corn – A startup valued over $10 billion
+Hecto-corn – A startup valued over $100 billion
+
+Is the “omni-corn” (a company that’s been private, then went public, then acquired by a PE firm only to go public again) far behind?
+Data privacy, California legislation and a host of enterprise software vendors intersect
+Proposed (and already enacted) California legislation re: data privacy could require new compliance and disclosure actions by firms like Salesforce, SAP and Oracle. The laws could require new consumer protections regarding the safekeeping and use of biometric, passport and other data. Moreover, firms may have to defend why they are even capturing and retaining this information. The bulk of this legislation (CCPA) goes into effect in 2020. (See: www.businesstravelnews.com pg. 14, March 18, 2019 issue “California Data Privacy Laws Take Shape”).
+Joining those enterprise software vendors in this space will be Adobe. Bloomberg BusinessWeek reports that:
+For 37 years the company (Adobe) has shrewdly reinvented itself to match the moment, but it isn’t used to fighting on unsettled ground against the likes of IBM, Oracle, SAP, and Salesforce.com.” “They’re going to have to fight for every dollar against Salesforce and SAP.
+What this means for enterprise software buyers is that lots of competition could yield material price concessions if you’re aggressive and open to entertaining non-ERP or different vendors for your digital marketing needs.
+BUT, caution is needed as a smart software buyer should demand extensive indemnification protections from any of these vendors. Between GDPR and the new California laws, you’ll want to be bulletproof from a liability perspective. If a vendor wants you to buy their digital marketing data and solutions, then make them provide you the protection you may very much need.
+This space is currently a Wild West area and unprotected digital marketing acts could cause brand and monetary damage to your firm. Be smart about these technologies!
+Interestingly, in the March 4, 2019 issue of Ad Age is a story “Ad Industry Groups Push for Privacy Regulation”. The logic behind this is that firms don’t want to deal with a patchwork of 50 different states, each with their own regulations re: data privacy. So, even this industry is trying to get ahead of this steamroller. Are the ERP vendors?
+Good news for old coders?
+As someone who’s still proficient in older programming languages (i.e., Assembler, Cobol, PL/1 and RPG) I found this tidbit in The Kiplinger Tax Letter (Feb. 22, 2019 edition) attention getting:
+The tax system will feel the effects of the federal shutdown for a long time…. IRS lost about 125 IT employees…averaging 25 for each shutdown week. Given the agency’s antiquated computer systems, losing these people is a big deal.
+Well, if the IRS wants to interview me to help with their “antiquated computer systems”, I’ve still got my IBM 360 gold card, extra punch cards and even a 6250-bpi tape. And, last year, I even diagnosed an abend via looking at the values in register 15 of the dump. Who says these skills won’t come back in demand!
+Bloomberg BusinessWeek’s March 4 issue had a similar story titled “How Long Can U.S. Cities Run on 1980?”. This piece describes how antiquated the local government technology is across the U.S. If you yearn for stories about people still using floppy discs and other obsolete tech, you’ll want to read this. If you’re a taxpayer, though, you’ll cringe. And if you still have mad skills in Lotus 1-2-3, ISAM, MicroFocus Cobol, etc. , then definitely check it out. Apparently, there’s an alternate world of tech out there and our government is its big user base.
+Alexa – why don’t people love you?
+In 2018, every ERP vendor had an Alexa-like demo. Granted we rarely ever saw one work correctly in a user conference, but everyone had one. But the noise re: these natural language driven tools has definitely died down in 2019. In fact, you’d have to pester a vendor to get a demo of the software.
+In “Alexa Has 80,000 Skills and None You Need”, we learn that “Amazon has put 10,000 people to work on its virtual assistant but it still lacks must-have applications” (Bloomberg BusinessWeek, March 18, 2019, pg. 22-23). It’s a sobering read that reminds us that the hypecycle does get ahead of reality and it certainly has in this technology.
+HR in the News
+Going beyond facial recognition? No!
+The Guardian had an interesting piece on the use of facial recognition software to help firms understand how a person feels.
+This is an example of where a technology designed for one use case (e.g., unique/positive identification of an individual) is being used for another, unintended purpose. The story states:
+These videos are sorted through by 35 labelers based in Affectiva’s office in Cairo, who watch the footage and translate facial expressions to corresponding emotions – if they see lowered brows, tight-pressed lips and bulging eyes, for instance, they attach the label “anger”. This labeled data set of human emotions is then used to train Affectiva’s algorithm, which learns how to associate scowling faces with anger, smiling faces with happiness, and so on.
+This story is important as many HR vendors are trying to create engagement technologies that could, in theory, help a company improve workforce productivity. To date, many of these engagement tools require a worker to self-score how they currently ‘feel’. I can already hear some HR vendors getting all giddy about the ability to measure engagement in a benign way. That may premature though.
+The Guardian story also tells us that the science for these may be flawed:
+Barrett first came across the classical theory as a graduate student. She needed a method to measure emotion objectively and came across Ekman’s methods. On reviewing the literature, she began to worry that the underlying research methodology was flawed – specifically, she thought that by providing people with preselected emotion labels to match to photographs, Ekman had unintentionally “primed” them to give certain answers.
+But according to Barrett, it’s not only about data, but how data is labeled. The labelling process that Affectiva and other emotion detection companies use to train algorithms can only identify what Barrett calls “emotional stereotypes”, which are like emojis, symbols that fit a well-known theme of emotion within our culture.
+This ‘science’ may have all kinds of problems. I’ve seen people go through a wide range of emotions throughout a work day. I get kind of tense if I have to fire or discipline someone but could be telling a joke and laughing in the next hour. We need context to understand why someone is or isn’t engaged and I’m not aware of any vendor solving that problem yet.
+MIT Sloan Management Review (Spring 2019) has a number of great pieces. One of these is “Can We Really test People for Potential?” is one I wish every HR person would read. As the title teases, the answer is currently “NO” but the read is worth it as it provides the thought process and findings behind it. A great fast read.
+Another article in that same issue is “Self-Reports Spur Self-Reflection”. This piece examines whether having people self-report how they feel throughout the work week actually changes their behavior. It appears it does but not for the reason you might initially think. Again, another good read.
+Ceridian does some deals
+HR vendor (and maker of Dayforce), Ceridian, announced:
+its acquisition of substantially all of the assets of Clearview Logix, a Richmond, Virginia-based leading decision-support analytics company, and certain intellectual property assets, including paysa.com, from Paysa, a Palo Alto, California-based AI-powered personal career advisor.
+Clearview Logix builds analytics models to simplify health insurance choices for employees, employers, and their administrative partners. Through integration of Clearview Logix’s benefits decision support technology into Dayforce’s single solution cloud platform, Ceridian will further strengthen and expand its benefits offering, making benefit choices easier to understand for employees.
+Paysa’s machine learning model allows employers to compare their internal job scales with local market rates when posting jobs and during compensation merit cycles. Paysa.com empowers employees to explore salaries across companies, jobs, and locations.
+Ceridian is expanding its global footprint. It also announced:
+the introduction of our payroll capabilities to the Australian market with the launch of Dayforce Payroll. The full Dayforce platform is now available in Australia. This launch represents an important milestone in our global expansion strategy that has seen Dayforce deployed around the world, with the platform in use in over 50 countries.  
+I believe I’ll hear more on these (and release 56) at an upcoming Ceridian analyst event.
+Indeed tries to replace the resume with skills assessments
+I’m no fan of the ATS (applicant tracking system). It’s often a very flawed piece of technology that excludes lots of qualified applicants and few vendors seem to care. One of the big issues with the ATS technology is that users often fail to load many of the matching keywords and synonyms for same into the tool. Or, too many gamers stuff their resume with keywords to jump ahead of better qualified candidates.
+Indeed believes it can deliver a better candidate experience (and business results for employers) by getting applicants to show their proficiency in desired skills. It’s an admirable goal. It also can help employers avoid conscious and unconscious bias in their hiring process.
+According to Indeed:
+Employers have been able to send assessments to job applicants since  launch of Indeed Assessments last year. Candidates who have completed an Indeed assessment are 30% more likely to get a positive response from an employer, while employers who use Indeed’s assessments to evaluate job seekers have seen a 27% reduction in time to hire.
+
+Graphic provided by Indeed
+Infor partners with Montage
+ERP vendor Infor has struck a relationship with Montage. Montage was initially known for its video interviewing technology but has added lots of additional capabilities to its solution set over the years.
+This deal brings a number of advanced recruiting capabilities to Infor’s HR Cloud Suite solutions. In a recent client software selection project that I led, I noticed how CHRO executives are looking for “Wow Factor” capabilities to differentiate their recruiting efforts and to reduce time-to-hire. These executives are under pressure from their boards to not just fill today’s open positions but to help their firm’s deliver out-sized growth. Old talent acquisition methods simply won’t cut it.
+According to an Infor press release:
+The goal of this partnership is to allow both companies to leverage their respective platforms in bringing the next generation of predictive talent analytics and interviewing technology together during the hiring process. Infor and Montage want to provide candidates with a coherent interviewing and assessment experience while also empowering companies to move quickly between scheduling, assessment and interviews to help them make smarter, more informed hiring decisions.    
+The intent of this partnership is to help recruiters solve one of their primary challenges of quickly hiring the right people while maintaining a candidate-centric experience throughout the process.  Montage works to deliver both efficiency and an interview experience that meets the needs and expectations of the modern candidate, while Infor Talent Science strives to deliver accurate, data-driven prediction to help ensure companies can identify the right candidates for the right roles.
+Plex was busy….
+Cloud ERP vendor Plex has apparently been very busy of late. Here are some of its recent newsworthy events:
+
+Customer count now at over 640 (this includes Plex Manufacturing Cloud and DemandCaster customers)
+Acquired IoT connectivity vendor Dattus, Inc.
+Has (finally) gotten a new CEO (Bill Berutti), new CMO (Robin Saitz), and a new Chief Customer Officer (Todd Kisaberth). Both Robin and Todd had stints at PTC.
+New enhanced manufacturing capabilities and analytics
+More connectivity and security enhancements
+Kepware integration that enhances asset visualization using IoT data
+
+Lots of investments/material change of control in EPM/CPM space
+Enterprise/Corporate Performance Management is a space going through a lot of structural change of late. Last year, Adaptive Insights was acquired by Workday. Anaplan went public. And, recently Host Analytics was sold to a private equity firm.
+Now we see that OneStream has done a private equity deal with KKR.
+
+Image: OneStream Software LLC
+The Wall Street Journal reported that:
+Private-equity firm KKR agreed to take a majority stake in OneStream Software LLC in a deal that values the corporate performance management software maker at more than $1 billion.
+KKR declined to disclose the amount it invested in the Rochester, Mich., company, but a person familiar with the matter said it was more than $500 million. 
+The firm said the investment was made through its private-equity and growth-equity funds, adding that KKR is OneStream’s first external investor.
+Kyriba, a cloud treasury/finance software provider did a $160 million investment round that was led by private equity firm Bridgepoint. According to a press release on the deal:
+Kyriba, the global leader in cloud treasury and finance solutions, today announced that it is in advanced talks with Bridgepoint, an international private equity group focused on investing in market-leading businesses, to receive a $160M investment round to accelerate innovation and growth of its enterprise platform. The deal, once closed, would give Bridgepoint a majority stake in the business, and value Kyriba at $1.2 billion. Daher Capital and Iris Capital will remain as investors in the company.
+Kyriba’s unique value proposition resulted in a record growth year in 2018, including surpassing $110M in revenue and netting 229 new clients. In January, Kyriba announced its plans to acquire FiREapps, a leader in enterprise currency management, which will create the industry’s most robust, end-to-end solution for managing FX risk.
+Private equity often flows into mature (not startup) spaces. I’m a bit alarmed by the number of deals in the CPM/EPM space right now and wonder how all of this will unfold.
+Contracts rarely get easier
+UpperEdge had a nice read this month with a piece on 5 commercial terms to address in Workday negotiations. As someone who helps clients negotiate software agreements, I’m all for educating buyers on potential contractual gotchas.
+A new one that a client shared with me this month involved an HR vendor specifically preventing a customer from benchmarking its products and telling others about these results. I’ve seen this before with a major database provider but this was something that just doesn’t come up much in SaaS deals. I don’t think there can be any legitimate reason for this prohibition and advised the client to fight it.
+Next Month:
+There are a number of events coming up in April. These include: Zoho’s user conference, a Workday analyst summit, SAPAriba’s user event and a Rolling Stones concert in Houston. My goal is to make most of these…
+ 
+Image credit - Free to useDisclosure - At time of writing, Oracle, Plex, Salesforce and SAP are premier partners of diginomica.Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architectureCollaboration sharing and digital productivityCRM and customer experienceDigital and content marketingGoverning identity privacy and securityHCM and the digital future of work 

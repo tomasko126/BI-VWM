@@ -1,0 +1,44 @@
+
+Michael Howards keynoting at OpenWorks
+MariaDB CEO Michael Howard prides himself on his database geek chops, but he’s not too shabby at grabbing headlines either.
+He certainly pulled off that off at this year’s MariaDB OpenWorks keynote, as in: MariaDB CEO accuses large cloud vendors of strip-mining open source, by Steven J. Vaughan-Nichols.
+Behind the open source fisticuffs is an argument worth having. I won’t get into all of it here, as Vaughan-Nichols already got that job done. But: a MariaDB benchmark on AWS during the keynote stirred the pot.
+Howard told me something I didn’t expect. He said Amazon’s fear of MariaDB’s traction is in play here. Yep, it’s art-of-war time folks. I wanted to know: what type of MariaDB traction are we referring to? No, Howard isn’t talking about classic open source metrics like number of downloads. He asserted:
+We work with the biggest companies in the world. United Airlines uses MariaDB for every ticket via ServiceNow. Forty percent of Fortune 2000 companies already rely on MariaDB at a level that the NoSQL can only dream of. For performance, Oracle and DB2 are our only rivals.
+MariaDB – can microservices and bare metal DBAs find common ground?
+One thing about Howard’s keynote surprised: I didn’t hear much talk at all about containers. Trendy acronyms like Database as a Service (DBaaS) or microservices didn’t get much keynote play either. The biggest next-gen focus? MariaDB’s Managed Service. That might fill a void, but it’s not provisioning your own cloud services either.
+This drew criticism from Constellation Research’s Doug Henschen:
+
+Austin Rutherford, @MariaDB VP of Customer Success talks “multi-cloud” service at #MariaDBOpenWorks MyPOV: Discouraged this in not cloud architect talking containerization or DBaaS or vision of how this ties with autonomous vision. Conventional managed deployment. Maybe 2020? pic.twitter.com/YGtkolH2Wr
+— Doug Henschen (@DHenschen) February 26, 2019
+
+Soon, we got clarity on products and timeframes: MariaDB’s upcoming, Kubernetes-based public cloud service, SkySQL, is on the way. As for “AI”? MariaDB is now working on ML-based autonomous database management and optimization capabilities – with an unspecified release time.
+The Kubernetes session I went to at OpenWorks was filled with attendees, but it made me wonder – are MariaDB DBAs resistant to containers? And how ambitious are MariaDB’s own plans? During my sit down with Howard, I asked him what he thought. He said:
+As a database company, database people hate to think ethereally through containers. The database, the disposition of a database person, by definition, is durability and physical. That’s what we’re all about is persistence. The comings and goings of virtual machines and containers…
+To which I joked: “They like the feeling of bare metal on the cheek. It’s restful.” (No restful puns intended obviously). Howard:
+It is restful. In the most literal sense of the word. It is very, very difficult to steer a physical ship into a virtual one.
+If MariaDB does this right, Howard thinks they can bridge the DBA and container communities:
+The very notion of a Kubernetes Operator is to try to coalesce the two worlds, right? It’s essentially an exit ramp off a container into the physical world. And even with in-memory databases, be it like a MemSQL or a VoltDB or whatever, if those databases don’t have the right kind of sophisticated spooling to go onto disk, they die. That’s because the whole point of a database is persistence, which is an anathema to virtual reality, right?
+From the art of war to MariaDB as peace broker:
+However, with that said, if you can coalesce those two worlds, you can do something really cool. And it looks like there is a way to balance out these two fighting ideologies. The Kubernetes Operator that we built, I think it was just finished yesterday as a production entity, and that will be the linchpin of a big endeavor for us.
+To be fair, most of the DBAs I talked to at OpenWorks didn’t fit the bare-metal-til-I-die stereotype. I wrote about one of them here:  OpenWorks 2019 – why Auto Europe moved their CMS database to open source, and what they’ve learned. It’s a ruthlessly practical view, taking advantage of microservices and cloud for non-critical workloads.
+The open source enterprise – financial impact and community concerns
+It all comes down to a core theme in Howard’s world view: the open source enterprise has come of age. He shared this heady slide:
+
+But alongside that coming of age comes Howard’s warnings on the abuse of open source goodwill with draconian licenses, lack of community participation, etc. So he thinks MariaDB can bridge that gap?
+Yes, I think we can because we’re big enough, but I’m not convinced that your typical startup in open source can.
+I took that cheese. Why is that?
+Because like I say, we can’t hide. Our code is in GitHub. Everybody knows what we’re doing. When we announce something, we can’t say it’s going to be available in six months. It has to be available now. Now there’s sometimes when we screw up and we’re not on time or something like that. But basically when we talk about things, it’s pretty much around the corner. And that could literally mean a day or an hour, or some timeframe like that. It ain’t next year.
+I guess MariaDB is putting themselves on the clock then, for some of those next-gen tools noted above.
+My take
+I understand why Howard is calling out Amazon. Hardball is Amazon’s way; it surely feels better to fight that fight than go the more passive route so many companies go to navigate their Amazon co-existence. And: there are clearly important questions to be raised about AWS database performance, particularly when it comes to third party databases running on AWS versus Amazon’s own.
+That said, I’m not one to get too excited about benchmark proof points and vendors calling out competitors, however justified they may feel. That’s why I’m most impressed when MariaDB plays to their strengths, which is: allowing customers to do open source database work at a scale/performance/security standard that gives them legit new options for their core workloads – at a cost savings that is, as per customers like Auto Europe – substantial.
+The customers on stage spoke to that powerfully. ServiceNow is a classic example. This year, ServiceNow’s Pat Casey hit the stage to talk about 100,000(!) MariaDB databases running, and the results they are getting from MariaDB’s Enterprise Server.
+“Less sleepless nights” is a pretty decent endorsement. That database number is up from last year, which my colleague Derek du Preez chronicled in 2018’s A look at how ServiceNow is managing 85,000 databases with 25 billion queries per hour.
+MariaDB appears to have turned the corner on enterprise database parity; Howard said that the company has had five times more major database migrations so far this year. I asked MariaDB what accounts for that growth.
+They told me a big factor dates back to last May, with MariaDB release 10.3. That release, which MariaDB cited as a “a big milestone for the development of MariaDB Server”, included compatibility with Oracle sequences and Oracle PL/SQL to help spur migrations. As the feature releases take hold, and customers get more confident with the in-house skills they’ll need to migrate, it appears the opportunity is taking hold. We’ll see if that growth holds up the rest of the year.
+During an informal group breakfast, I told Howard that the strength of NoSQL shows is the inspirational stories of next-gen apps. Looking ahead, MariaDB needs to change its developer narrative.
+That ties directly into the value prop. Yes, MariaDB and others have proven that the cost savings of these migrations is impactful – without performance sacrifice, and in some cases, performance gains. That cost savings buys IT managers a runway.
+But to earn their keep, they need more than speeds and feeds. They need to use that runway to build the next-gen apps and business services than win the hearts and wallets of customers.
+MariaDB as an apps platform is the next phase in that conversation. At next year’s show, I hope to see a bigger developer presence – but also an expanded business conversation. Done right, these kinds of projects can spur/support a business transformation. I didn’t hear much talk about that this year, but if MariaDB wants to be seen as a driver for change, those dots must get connected.
+Image credit - Photo of MariaDB CEO Michael Howard keynoting at OpenWorks 2019 by Jon Reed. Disclosure - MariaDB paid the bulk of my expenses to attend MariaDB OpenWorks 2019. Read more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackOpen source 

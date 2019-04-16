@@ -1,0 +1,146 @@
+
+February was a wild month. There were a lot of big, meaty issues that could trigger structural changes to enterprise software and social media/advertising. And, of course, the ERP and HR vendors had a lot of noteworthy bits, too. Here are the items that made me take notice.
+New word of the month
+Thanks again to Wired for “Blocksplaining”. It’s what happens when some cryptocurrency jock lectures us on how blockchain technologies work. I can’t wait to call out some tech CEO for doing this at a software user conference! Time to add this to our Buzzword Bingo cards!
+This month’s runner-up phrase is: “pseudo-profound bullshit”. More on this can be found below. But for me, this phrase describes far too much of the content I get in press releases, user conferences etc etc.
+Where the Internet is going and the implications for tech and us
+There was some heavy stuff to ponder in a couple of recent articles that Wired brought us.
+In the article “Alexa. I Want Answers”, the author makes us realize that the Internet is shifting. Specifically, the Internet has, for the last couple of decades, been a tool that browser users utilize for finding answers within other entities’ websites. When we want an answer to a question, we use a search engine and it returns a list of websites that contain many of the words in our search request. As a user, we then need to click on one or more sites to assess the relevance of the content within that website and, if we find the website lacking, we then move to another website in the search results. In short, we use tools to find websites NOT answers.
+For several years, the better search engine websites have been collecting statistics which, they believe, identify the most relevant websites for many common questions. The goal has been to make search results ever more relevant and valuable.
+But with the rise of NLP (natural language processing) and other speech-enabling technologies, we need a better way to mine answers (not web addresses) from the Internet. Specifically, we need an Internet experience that returns an answer (not lists of websites) to a verbally spoken question.
+This article is definitely worth a read and it should also trigger a lot of conversation within enterprise application designers. While most enterprise software vendors have Alexa-like prototypes in development, most of these suffer from a number of challenges like:
+
+The interrogation capabilities of the request are only as good as the database of synonyms is complete and robust (e.g., when a user asks for gross revenue, is this the same as Revenue, Income, Gross Income, etc.?).
+The mapping of answers within the data model of the application software is not defined or minimally defined.
+The total number of questions that the tool can answer is materially constrained.
+Feedback mechanisms to make the tool ever more intelligent and its smarts more nuanced may not be present or are too complicated for many people to use.
+While the tool can return an answer, can it also assess whether the answer is good news or not? Can it then present options in addition to the answer?
+Users may lack the wherewithal (e.g., time, budget, skills) to improve the usefulness of the tool.
+
+Enterprise apps will need to shift from transaction entry (via touchscreens and/or keyboards) to spoken commands & queries. But that shift means we need data storage, indexing and other mechanisms to make enterprise applications more attuned to providing answers not reports, completed forms and other ‘things’ that contain a lot of information but not necessarily a clear, clean, to-the-point answer.
+What’s happening to information in the World Wide Web will also impact how we change the information coming (in and) out of enterprise applications.
+Misuse of digital exhaust
+Fast Company’s piece “In the Grasp of Big Tech” is a good one to ponder. The author, Shoshana Zuboff, discusses what she calls “surveillance capitalism”. That term describes:
+businesses that create a new kind of marketplace out of our private human experiences. They hoover up all the behavioral data they can glean from our every move (literally, in terms of tracking our phones’ locations) and transform it with machine intelligence into predictions, as they learn to anticipate and even steer our future behavior. These predictions are traded in novel futures markets aimed at a new class of business customers.
+The article is an unflattering look at social media and advertising technologies. It will make you think. It infuriates me that the leaders of many of these tech companies create all kinds of adverse consequences for you and me as they pursue this kind of capitalism that trades on our personal information.
+In a related story, Ad Age (“Outsmart ‘Intelligent’ Tracking”, February 18, 2019) waded into the moves by Apple and Mozilla Firefox to stop online merchants/advertisers from following you from one website to another. As a long-time Firefox user, I welcome these (long overdue) changes as I NEVER explicitly agreed to this activity. Even in a post-GDPR world where website after website tells us that they use cookies, those sites often lack transparency as to how this information is collected, re-sold, re-packaged, combined with other user data, reverse engineered to put a name and address to our web commerce or browser usage, etc. Here’s this tidbit:
+Apple Safari’s second iteration of Intelligent Tracking Prevention, or “ITP2” – which prevents tracking cookies from working in the open web – has been causing havoc among marketers since it launched. Apple introduced its first version of ITP in 2017, but companies such as Google and Criteo quickly found workarounds to maintain the status quo. That prompted Apple to introduce a stricter version in September.
+Bloomberg BusinessWeek reports (see “Oracle Didn’t See the Data Reckoning Coming” that Oracle spent approximately $3 billion since 2014 buying firms to make Oracle:
+a big name in the field of advertising software. That’s an inoffensive term for a suspect practice: scooping up personal data and selling it to big brands, letting them track customers’ browsing activity and connect purchases to social media profiles.
+The story chronicles a number of issues Oracle has had with this business unit. These bits were telling:
+At the same time, the list of companies supplying Oracle with profile data fell by as much as half, they say, because many of those companies couldn’t comply with Europe’s new General Data Protection Regulation ahead of its enforcement deadline last May.”
+In November, consumer advocate Privacy International named Oracle as one of seven GDPR scofflaws in a complaint to U.K. authorities. The consumer advocate said Oracle collected education and family status details about members of Privacy International’s staff, pegged to their names and postal addresses, without their consent, and that the dizzying amount of other information it can collect from a wide range of sources – about everything from online dating to political beliefs – makes it difficult to trace the origin of that data and correct or delete that data.
+NB -Oracle disputes these claims.
+Facebook got a bright light shone on them in a 2/11/2019 Bloomberg BusinessWeek piece titled “Facebook’s Privacy Problem is Facebook”. One of several problems this article highlighted included this:
+On Jan. 29, Facebook admitted to paying teens to monitor their phone activity. Parental consent amounted to a box checked on an online form. Through the teens’ phones, Facebook was able to see what all their friends said to them, without the other parties’ knowledge.
+You’ve got to read this article.
+I can get pretty militant on this kind of issue. We’ve had firms misuse/abuse/sell/etc. all manner of digital exhaust. Worse, these firms have been massively opaque about the information they collect, resell, aggregate and infer. When I wanted to know what data one marketing database firm had on me, I was confronted with this incredulous wall of opacity:
+
+First, I’d have to provide this firm a LOT of personal data to open an account as you can’t get access to your own information unless you have an account with them.
+Next, once verified, the firm will share with you a small subset of the data they have on you but will now supplement/enrich that data with the information you just provided them when you created an account
+Third, they won’t remove you from their system.
+Fourth, they won’t necessarily agree to correct erroneous data.
+
+Even as someone with a Marketing degree, I find all of these encroachments in personal data to be unprofessional and unethical. I didn’t buy a smartphone so that some clothing retailer can follow me around the internet.
+Colleague Josh Bersin co-wrote a piece for the recent MIT Sloan Management Review (“New Ways to Gauge Talent and Potential”). The article covers a number of newer technologies in the HR space but there is one area that troubles me.
+Josh discussed how firms are “passively mining candidate data and analyzing people’s digital footprints”. Specifically, I got nervous around this copy:
+Online behavior can reveal information about individuals’ interests, personalities, and abilities, which in turn predicts their suitability for particular jobs or careers. For example, many hiring managers now investigate candidates’ reputation, followership, and level of authority on networking sites such as LinkedIn and Facebook, and they use that information to rate and rank people.
+While I’ve written about some of the firms offering solutions in this space, I’ve gotten more and more troubled with how third parties are drawing all kinds of inferences from a person’s social media presence. Some of these concerns include:
+
+NO solution can “predict” suitability for a job. Ask any HR professional or operational executive and they almost all with have stories of “PUREs” (i.e., Previously Undetected Recruiting Errors). People get hired all the time that don’t work out. Likewise, there are employees who didn’t fit the “mold” and still turn out to be long-term superstars. If people can’t predict who is/isn’t suitable, then how well can a tool analyzing a person’s social media posts do any better? I’d need to see the science on this first. This smells like another confusion between causation and correlation.
+People who don’t maintain a social media presence could be at a disadvantage. I’ve never had a Facebook account and if protecting my privacy is costing me job opportunities, then we’ve got a screwed-up system.
+The content people post on social media could be heavily skewed to subjects that have no bearing at all on future employment relevancy. Politically active, socially conscious or family-oriented posters are just some of the content concentrations people might have. Does this mean they should get bypassed for employment opportunities, too?
+
+The issue here is that third parties are using data for purposes it was never intended for and that the users were not informed ahead of time of these uses. People can be hurt because of employers (and their recruiting technologies) are using this data and using it incorrectly.
+And yet with ever-growing evidence that tech vendors and employers don’t know how to correctly and ethically use this information (or the tools that parse it), we learn in the March-April 2019 Harvard Business Review that people “relied more heavily on the advice when it was generated by an algorithm.” 
+We may be building to a crisis point as firm after firm is creating trust problems re: the capture, use, sale and enhancement of digital exhaust and other personal data. The Daily Mail tells us that:
+Amazon, Apple and Google voice assistants and smart TVs could find out if a person is cheating on their partner, a data expert has claimed.
+Smart gadgets, which are used by one in ten people around the UK, can harvest enough data to work out the dynamics of a relationship, they say.
+They have the potential to record saucy conversations and analyse location data to discover secret affairs.
+The virtual assistants can show when occupants are in a building, or for example, share a bedroom, by using sensor logs and smart meters.
+I’m guessing no politician or professional athlete should have one of these devices near them at any time.
+The BBC tells us that Google has had a hidden microphone in some Nest Guard products. They report:
+In response to criticism, Google said on Tuesday: “The on-device microphone was never intended to be a secret and should have been listed in the tech specs. That was an error on our part.” 
+It added: “The microphone has never been on and is only activated when users specifically enable the option.
+Where is this all heading? I suspect we’ll see something like what the Germany government has ordered against Facebook. Wired reports:
+Andreas Mundt, the head of Germany’s antitrust regulator, says Facebook can no longer “force its users to agree to the practically unrestricted collection and assigning of non-Facebook data to their Facebook user accounts.
+Germany is standing up to these intrusions and abuses of personal data. The article concludes that this ruling effectively guts Facebook’s business model. Maybe Facebook needs to contemplate a future where it finds a different way to make money without monetizing its users’ private data.
+As Germany goes, will other countries follow suit?
+Let’s talk ERP
+UpperEdge and Net(net) definitely take a pro-software buyer focus in their writings. Any firm using or thinking about acquiring enterprise software should review these firm’s publications as it could result in substantial long-term cost savings and headache avoidance. In the recent Net(net) newsletter was this content:
+As some of you may know, Oracle recently formed a new group whose primary mission is intelligence gathering: Software Investment Advisory (SIA). Their messaging to Oracle customers is that they will help you with your assets and “maximize your value”. In other words, they would like you to tell them everything about your deployments so they can strategize with plans to “help you.” Sounds eerily similar to “I’m from the government and I’m here to help you”, which has long been a joke, but there is nothing funny about Oracle’s SIA group.
+It is wise to know that SIA is a branch that was broken out from Oracle’s notorious License Management Services (LMS) – better known as the Audit Division. The same Oracle employees who used to audit and overstate compliance gaps have now been transformed and are here now to maximize your value! In reality, using SIA is going through an Oracle audit without LMS having to invoke the audit clause. 
+What happens when you give SIA all your information and they respond that you are $5 million out of compliance? It will only be a matter a time until your sales or audit team will be knocking at your door proposing licensing and services you either don’t want or aren’t ready for.
+PLEASE don’t be fooled by this group. They are not your friend or partner, they are simply there to help Oracle drive revenue. SIA certainly does not exist to help you spend less money.
+Oracle also popped up in this piece by the The Register. That article tells of a lawsuit filed by two Oracle shareholders. This soundbite is quite interesting:
+The civil complaint, filed in a San Jose district court in America, accuses Oracle executives of omitting material facts in public communications and making false statements in 2017 forecasting rosy cloud revenue.
+Strong financial results, particularly in cloud, that year, the complaint alleges, were driven by threatening existing customers with licensing audits, decreasing customer support for on-premises systems to drive customers toward cloud service, and threatening price increases on legacy database licenses if customers looked to other cloud vendors.
+The article also references a number of other related cases. This one’s worth a read.
+Oracle was also featured in a customer lawsuit over a failed ERP implementation claim. If you’d like to read that complaint, here it is.
+UpperEdge had a thought-provoking piece for SAP ECC users. As SAP continues to push ECC customers to move to S/4Hana, it might be worth considering what’s in this deal for customers and what is it that SAP hopes to gain.
+A different UpperEdge piece questioned the aggressiveness of SAP in auditing customers, especially those that just implemented the new S/4Hana products. They write:
+When customers aren’t receiving audit notifications like clockwork, they may be caught by surprise receiving a notification after making strategic investments in SAP software and re-affirming commitments to SAP for their long-term roadmap. Some of our recent customers have received audit notifications shortly after going live on S/4HANA — Not exactly what they may have thought Bill McDermott had in mind when he talked about empathy in 2017.
+And, does Haribo get any empathy from SAP? Candy maker Haribo may have a bitter taste in its mouth after trying to implement SAP S/4HANA. TechTarget reports that:
+Haribo ran into its gummy bear supply problems after it replaced a legacy merchandising management system with an SAP S/4HANA implementation, according to the news site Lebensmittel Zeitung.”
+For its part, Haribo acknowledged the problems but said those problems are largely behind it now. Haribo was one of the first companies to implement SAP S/4HANA with all of its functions, a company spokesperson said. However, the S/4HANA implementation was “accompanied by teething troubles in some areas,” particularly supply difficulties.
+And this after the Lidl fiasco: 
+At the time, Lidl said the legacy system was hampered by process breaks, redundant master data storage, integration gaps and functional restrictions. Multiple interfaces and modules and a decentralised server structure made the task of running and maintaining the system increasingly complex.
+Lidl initially went live with the new electronic merchandise management and information system at its Austrian stores in May 2015, and planned to roll out the system to 10,000 stores and more than 140 logistics hubs.
+However, in the past month, it has emerged that Lidl has now decided to drop the €500m project.
+SAP is dropping support for the Oracle RDBMS in 2025. Computer Business Review reports:
+A final note: Enterprise users running SAP’s ERP software on non-HANA databases like Oracle have until 2025 to migrate their entire database if they want to keep using it, as SAP ends support for third-party databases…
+There was actually ERP news that didn’t involve SAP and Oracle. ERP vendor and privately held IFSWorld announced their fiscal year results.
+
+Graphic from IFS
+In a follow-up call I had with IFS CEO Darren Roos, I learned that:
+
+45% of new deals are going to the cloud
+Of those cloud deals, many may be on private cloud deployments via Microsoft Azure Cloud. Other deployments may be hosted elsewhere
+
+Deal sizes for IFS are growing. North American deal sizes are definitely increasing.
+A lot of IFS’ focus is in acquiring net-new customers for new revenue growth not wallet-fracking existing customers for more $/customer.
+Darren has recently gotten a 3-year capital plan approved by the board. We’ll likely hear more on this at the next World User Conference.
+Sage hosted a short conference call with a number of analysts to talk about their Business Cloud Enterprise Management updates. In that call, we learned:
+
+Sage sees “projects” as a key organizing principle for businesses now.
+Project Etna is the code name for a significant recoding/re-platforming of their products.
+Sage’s HR Payroll product is now available in 26 countries.
+Open source technologies will become a major focal point of the new platforms.
+Sage People (nee Fairsail) and Intacct products will remain on their respective platforms.
+
+Speaking of Projects, Workfront did a couple of calls with me this month. Projects are the key organizing principle of Workfront, too. Workfront is a fast-growing firm that is acquiring a lot of big-name logos on their customer list.
+Workfront aspires to be the operational systems of record for a firm. Where other software products want to be a customer book of record, HR book of record, and/or transaction book of record, Workfront sees more and more firms using teams of people to accomplish specific outcomes and then get re-configured to drive value via other initiatives.
+Workfront’s software has workflow tools, collaboration, resource management, etc. and a number of new modules are coming in upcoming releases.
+I’ll likely develop a more fulsome review after their upcoming user conference.
+I stopped by ERP vendor Ramco’s Innovation Lab while I was in Singapore last week. I even managed to get a briefing from their CEO on their HR products.
+Ramco’s HR technology actually has a solid following in Asia, Middle East and many other parts of the world. The North American market, with its myriad complications, is not an emphasis for now. Ramco is providing Payroll functionality for a number of large multi-nationals doing business in these markets. One customer is using Ramco to pay approximately 40,000 employees. Ramco software is creating 1.5 million paystubs/month.
+Ramco is also using Amazon AWS for some of their compute capacity for this payroll service.
+Ramco is still going strong with its core verticals. The firm continues to enhance its core, logistics, asset management, services and aerospace/defense solutions.
+Interestingly, I pressed their CEO twice re: IoT and learned that this is not a priority at the moment. However, I did see their work in the NLP (natural language processing) front and how that’s powering their chatbot functionality. Ramco has prototypes and use cases for chatbots all over the enterprise.
+Performance and other assessments
+Can we really test people for potential or anything, really? In this Sloan MIT Management Review piece, we see:
+Not all assessments pass the sniff test. Multiple valid and reliable personality tests have been carefully calibrated to measure one or more character traits that predict important work and life outcomes. But countless other tests offer little more than what some scholars call “pseudo-profound bullshit” — the results sound inspiring and meaningful, but they bear little resemblance to any objective truth.”
+But several studies have found that, during a two-week period, there can be even more variation within one individual’s personality than there is from person to person. As one study put it, “The typical individual regularly and routinely manifested nearly all levels of nearly all traits in his or her everyday behavior.” Between-person differences can be significant and meaningful, but within-person variation is underappreciated.
+ADP’s Marcus Buckingham co-authored a piece in the March-April Harvard Business Review called “The Feedback Fallacy”. It’s a solid discussion of what is/isn’t working with performance reviews. Here’s a taste:
+Telling people what we think off their performance doesn’t help them thrive and excel, and telling people how we think they should improve actually hinders learning.
+People have been debating how (and why) performance reviews should be conducted for some time now. I don’t see a quick consensus view forming anytime soon.
+More in the HR space
+Bloomberg BusinessWeek tells a story that’s really hard to swallow. In Diversity Data and the Special-Sauce Defense, we read that Silicon Valley’s commitment to diversity, women and inclusion makes for a feel-good story but the inability or unwillingness of these firms to provide data on their progress in these areas is “tantamount to giving away trade secrets”. Folks, I can’t make this up.
+How bad is the problem? BusinessWeek states:
+When the Labor Department released Palantir’s diversity numbers in January, Reveal reported on its website that more than three-fourths of the company’s 1,328 professionals were men and just 1.4 percent were black. Palantir employed no women in executive or senior management positions that year, either.
+Strategy + Business tells us that robots will ‘transform the C-Suite’. Given the previous story, I can’t see how robots would do a worse job.
+I’ve got to give a hat tip to Frank Scavo for pointing out this article re: payroll service providers. In it we read that the California Supreme Court limits liability for payroll service providers. From what I read, it seems that even if the service provider screws up, their liability is minimal. Hmmm….
+Workday posted some nice revenue numbers on their recent quarter. The sales engine there seems to keep cranking out victories. Here’s a hat tip to Jarret Pazahanick for noticing this Barron’s piece re: Workday’s recent successes. It states:
+The analyst said his firm’s perusal of job listings found Workday had won business at Comcast , CapitalOne, Centene, and Adecco . He noted that KeyBanc isn’t sure when the deals closed and when Workday might recognize the revenue in its accounts.
+Bracelin said Workday’s expansion into the financials, payroll, planning, and analytics markets expands the market it can address to $81 billion.
+Jarret also tweeted this set of data points regarding the Workday wins:
+Stock to Rally on New Deal Wins, Says Analyst ow.ly/tls130nFaDa <- Interesting as knew about Comcast (164K EE and SAP/SF customer but not CapitalOne (50K EE), Centene (34K EE), and Adecco (34K EE” 
+(Editor’s note: EE stands for employee equivalent – a pricing mechanism for HR software).
+Final story has a bullseye all over it
+Target gets caught again with a questionable big data usage matter. A few years ago, retailer Target got the attention of the New York Times when it became known that Target could identify expectant mothers via a scan of their purchases. The story made headlines as Target sent a bunch of coupons young girl who hadn’t told her parents she was pregnant. That’s still the gold standard in a big data “Oopsie” award, in my opinion. That article stated:
+
+Now we read that Target caught doing dynamic pricing . MSN reported that:
+KARE shopped for more items, and found an even more intriguing pattern: Basically, the closer shoppers were to the store, the more the item cost. If you are near the store, you don’t need a price enticement, the logic goes.
+Note to self: set default Target store to Anchorage so that I get the best online prices here at home.
+Now, what will March bring?
+Image credit - Free for commercial useDisclosure - At time of writing, Oracle, SAP and Workday are premier partners of diginomca. Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architectureCollaboration sharing and digital productivityCRM and customer experienceDigital and content marketingHCM and the digital future of workIoT robotics and AISocial 

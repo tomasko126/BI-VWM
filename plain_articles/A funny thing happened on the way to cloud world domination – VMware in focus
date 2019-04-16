@@ -1,0 +1,49 @@
+
+We’ve watched as enterprises shut down old data centers and plug into the global information services grid of the AWS, Microsoft and (sometimes) Google oligopoly.
+But even as broad categories of IT infrastructure and commonplace applications were turned into fungible commodities, it left vast swaths of enterprise IT applications, services and requirements untouched by cloud-ification.
+Thus, while organizations love the flexibility, scalability and technological innovation of the mega clouds, they’ve found that AWS or Azure can’t entirely replace all that enterprise IT provides.
+Nonetheless, even as the few remaining cloud skeptics use its youthful incompleteness to condemn the entire concept of rentable shared services, the marketplace has turned the gaps in cloud coverage into an opportunity for infrastructure-agnostic software stacks and managed services that weave shared cloud resources and private systems into a unified enterprise IT foundation. Far from casting a pall over enterprise IT, the cloud has rained down dollars of opportunity that have let a thousand partners and MSPs bloom.
+Microsoft was arguably the first to recognize the need for a seamless hybrid cloud platform and responded with Azure Stack. Although the product has significantly evolved since I first wrote about it three years ago, Azure’s vision of “the same technology stack available for rent as a shared service or for sale as a private cloud” hasn’t wavered. VMware was the next dominant enterprise platform to get multi-cloud religion in 2017 when it teamed up with AWS to deliver a consistent VMware Cloud environment across private and public environments. As I wrote at the time, “It’s a solid strategy … the company is on a solid course to cloud-era success. Call it VMware 2.0, and I’m excited to see where it leads.”
+The intervening 18 months have seen substantial improvements from both sides of the VMware-AWS partnership, particularly once the latter finally internalized the importance of hybrid infrastructure to enterprise customers, with Outposts being the latest manifestation of AWS’s hybrid ambitions. Most recently, VMware announced updates to its Cloud Foundation hybrid cloud stack along with its vCloud Director and vCloud Availability products for service providers. Together these provide a compelling technology platform for traditional IT service providers looking to extend their portfolios into the cloud services business.
+What’s new at VMware
+I detailed VMware’s multi-cloud strategy after VMworld last year, writing,
+In VMware’s idealized world, differences between cloud service providers are blurred and enterprises interact with a VMware substrate, whether that’s Dimension-vSphere infrastructure services or PKS container services.
+Cloud Foundation is the cornerstone of this substrate by, in VMware’s words,
+Extending the core hypervisor with integrated software-defined storage, network and security capabilities that can be consumed flexibly on premises or run as a service in the public cloud. Now with integrated cloud management capabilities, the end result is a hybrid cloud platform that can span private and public environments.
+VMware just announced that it plans to integrative Cloud Foundation with Dell EMC VxRail hyperconverged hardware later this year which will provide a packaged hardware-software hybrid stack akin to the Azure Stack bundles already available from Dell EMC, HP Enterprise and others.
+VMware also continues to expand its public cloud footprint, announcing three new AWS regions in Canada, Paris and Singapore, bringing the total to 13, 12 public plus one AWS GovCloud in the US.
+
+Source: VMware slide deck
+VMware greasing the skids for cloud partners
+VMware also highlighted the adoption of VMware Cloud on AWS by service providers, stating that it now has 35 Cloud Verified Partners doing business in 80 countries that offering the complete VMware hybrid cloud software stack via managed and/or hosted Cloud Foundation instances and VMware Cloud on AWS. Overall, VMware has more than 60 partners building or delivering VMware Cloud on AWS managed services, with Certified Partners amassing more than 150,000 customers running millions of VMs.
+
+Source: VMware slide deck
+Most if not all of these cloud partners already offered managed services for private VMware infrastructure, which given the common Cloud Foundation technology platform minimizes the hurdle to providing managed cloud services. To further simplify the lives of MSPs and partners, VMware just updated two valuable pieces of management software, vCloud Director and vCloud Availability.
+The former provides a central management console for globally distributed VMware infrastructure that supports both private and multi-tenant environments and integrates with third-party software and hardware like other Dell EMC systems, Cohesity (hyperconverged, scale-out storage with public cloud integration), Rubrick (multi-cloud backup and data management software) and others. vCloud Availability provides partners with a packaged data multi-tenant data migration, backup and DR service that plugs into the Director management console.
+The booming business for cloud partners and MSP
+By all accounts, things couldn’t be better in MSP land thanks primarily to robust enterprise demand for cloud services. According to a study by Grand View Research, worldwide revenue for managed cloud services stood at about $23 billion in 2016, but is expected to continue growing at 15.4 percent through 2025; by my math reaching $50 billion sometime in 2021. IDC is somewhat more bullish, citing 18 percent annual growth in managed cloud services between 2017 and 2021, reaching almost $63 billion in revenue. A separate IDC study about cloud services in Australia pegs the five-year CAGR at 20 percent, with the most popular scenarios being legacy infrastructure upgrades to private cloud, migration to a public cloud and updating legacy applications for cloud infrastructure.
+
+Comments from IDC VP David Tapper has cautionary comments for IT partners and MSPs that haven’t made the shift to cloud services writing (emphasis added),
+From a market perspective, the increased buyer adoption of managed cloud services and evolution to mature users of these services will translate to a substitution effect that not only displaces traditional outsourced-managed services but requires providers to make fundamental changes to their business operations.”
+Even AWS has made the case for cloud MSPs by commissioning a third-party economic study and risk-return analysis of the AWS partner business. It found (emphasis added),
+that a composite MSP Partner based on these interviews experienced total risk- and present value-adjusted gross profits of $37.9 million over three years versus risk- and present value-adjusted investment and overhead expenses of $15.5 million, adding up to a net present value (NPV) of $22.4 million and an ROI of 144%.
+
+Source: Forrester Consulting for AWS
+AWS identified four categories of MSP services that span the cloud service lifecycle:
+
+Planning and design
+Implementation and migration
+Ongoing operations
+Service, application optimization
+
+These can be complemented by sales of cloud-ready third-party applications and services along with the custom, business-specific software and services development. While AWS admits that the attach rate of such ancillary products is low, only 30%, the margins are fantastic at 80%.
+My take
+The business of core public cloud infrastructure and platform services has evolved into a duopoly with Amazon AWS and Microsoft Azure taking the lion’s share of the market as Google, Oracle, IBM and a few others try and crash the party. Indeed, a Wall Street Journal report on a recent survey of 800 CIOs found that:
+Amazon or Microsoft were cited as the preferred vendors in over half of the top 30 products and services listed as information-technology spending intentions by more than 800 chief information officers and other high-level corporate decision makers.
+Such a first-mover advantage is tough to beat and I agree with a Gartner analyst the WSJ article paraphrases writing:
+While CIOs often claim to prefer shopping around for the best IT products and services, they don’t always act that way, adding that it is far easier to get as many tools as you can in the same place.
+VMware is playing a different game, hoping to extend its enterprise dominance into the cloud via a multi-cloud application platform. Although its partnership with AWS is compelling, VMware also works with Azure, IBM Cloud and Google Cloud. While Microsoft was first to market with a unified hybrid cloud stack, with arguably a cleaner model than VMware, the downside to its conceptual simplicity is sole reliance on Azure as a public cloud backend.
+Most enterprises aren’t obsessing over market share stats and vendor strategic posturing, but want to adapt existing infrastructure, applications and business services to exploit cloud services. Herein lies the partner opportunity: assisting with the cloud transition through design, consulting and migration services, handling cloud operations and insulating organizations from unnecessary complexities so that they can focus on exploiting cloud services to improve their business. Indeed, that’s what keeps makes them successful, and as a recent IDC survey found, remains the chief objective of tech investment for a plurality of businesses.
+
+Source: @matteastwood, IDC on Twitter
+Image credit - Silhouette of man in successful summit climb with clouds in blue sky behind © crazymedia - shutterstockRead more on: Cloud platforms - infrastructure and architectureInfrastructure 
