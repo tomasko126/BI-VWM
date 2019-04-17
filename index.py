@@ -1,5 +1,4 @@
 import json
-import os
 import math
 
 
@@ -8,13 +7,9 @@ def index():
 
     matrix_tf = dict()
     matrix_word_frequency = dict()
-    matrix_word_weights = dict()
-    
+
     with open('analyzed/_indexedArticles.json', 'r') as f:
         articles = json.load(f)
-
-    # print(articles)
-    # print(os.path.isfile('analyzed/' + articles[str(2)] + '.json'))
 
     for articleIndex in articles:
         if articles[articleIndex] == '.DS_Store':
