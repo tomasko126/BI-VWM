@@ -16,7 +16,7 @@ def lemmatize():
         counter = counter + 1
         articles.update({int(counter): item})
 
-    with open('analyzed/_list.json', 'w') as listF:
+    with open('analyzed/_indexedArticles.json', 'w') as listF:
         json.dump(articles, listF, ensure_ascii=False)
 
     lemmatizer = WordNetLemmatizer()

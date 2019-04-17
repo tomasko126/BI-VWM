@@ -1,8 +1,12 @@
 import json
+
+
 def search():
-    with open('test.json', 'r') as f:
-        matrice = json.load(f)
-    print(matrice[input()])
-    with open('analyzed/_list.json', 'r') as t:
+    with open('tf_weight.json', 'r') as f:
+        matrix = json.load(f)
+
+    print(matrix[input()])
+
+    with open('analyzed/_indexedArticles.json', 'r') as t:
         doc = json.load(t)
         print(doc[input()])

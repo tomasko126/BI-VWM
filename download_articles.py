@@ -21,4 +21,3 @@ if __name__ == "__main__":
     if 'search' in argv:
         for line in stdin:
             search.search()
-
