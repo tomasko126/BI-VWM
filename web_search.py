@@ -1,111 +1,64 @@
 import json
+import sys
 
+def getSingleWeightVectors(words):
+    docIdsWithWeights = dict()
 
-def incrementWordWithLowestDocId(words):
-    word_with_lowest_doc_id = ""
-    lowest_doc_id = 0
+    singleWeightVectors = [0] * len(words)
 
+    counter = 0
     for word in words:
-        if lowest_doc_id == 0:
-            if words.get(word).get('canMoveIndex'):
+        wordKeys = list(words.get(word).get('data').keys())
+        wordValues = list(words.get(word).get('data').values())
 
-                updatedIndex = words.get(word)['currentIndex'] + 1
+        keysCounter = 0
+        for x in wordKeys:
+            docId = int(x)
+            docIdWeight = wordValues[keysCounter]
 
-                if len(words.get(word).get('data')) <= updatedIndex:
-                    words.get(word)['canMoveIndex'] = False
-                    return [words, True]
+            if not docIdsWithWeights.get(docId):
+                docIdsWithWeights[docId] = list()
 
-                lowest_doc_id = int(words.get(word).get("docIdOnCurrentIndex"))
-                word_with_lowest_doc_id = word
-        else:
-            if int(words.get(word).get("docIdOnCurrentIndex")) < lowest_doc_id and words.get(word).get('canMoveIndex'):
+            docIdsWithWeights[docId].append([counter, docIdWeight])
 
-                updatedIndex = words.get(word)['currentIndex'] + 1
+            keysCounter += 1
 
-                if len(words.get(word).get('data')) <= updatedIndex:
-                    words.get(word)['canMoveIndex'] = False
-                    return incrementWordWithLowestDocId(words)
+        counter += 1
 
-                lowest_doc_id = int(words.get(word).get("docIdOnCurrentIndex"))
-                word_with_lowest_doc_id = word
+    return docIdsWithWeights
 
-    updatedIndex = words.get(word_with_lowest_doc_id)['currentIndex'] + 1
-    words.get(word_with_lowest_doc_id)['currentIndex'] = updatedIndex
-    words.get(word_with_lowest_doc_id)['docIdOnCurrentIndex'] = list(words.get(word_with_lowest_doc_id).get('data'))[updatedIndex]
 
-    return [words, False]
+if __name__ == "__main__":
 
-def getWeightsVector(words, usedDocsIndexes):
+    idOfRequestedDoc = sys.argv[1]
 
-    hashmap = {}
+    with open("analyzed/_indexedArticles.json", "r") as inxArtsFile:
+        indexedArticlesFileContent = json.load(inxArtsFile)
 
-    i = 0
+        articleName = indexedArticlesFileContent.get(idOfRequestedDoc)
 
-    for word in words:
-        currentDocId = words.get(word).get("docIdOnCurrentIndex")
+        with open("analyzed/" + articleName + ".json", "r") as analyzedRequestedDoc:
+            analyzedRequestedDocContent = json.load(analyzedRequestedDoc)
 
-        if not hashmap.get(currentDocId):
-            hashmap[currentDocId] = list()
+            with open("words_weight_per_doc_test.json", "r") as f:
+                matrix = json.load(f)
 
-        hashmap[currentDocId].append([i, currentDocId, words.get(word).get('data')[currentDocId]])
-        i += 1
+                # TODO: fix ordering
+                words = dict()
+                words['forest'] = {"data": matrix.get('forest'), "currentIndex": 0, "docIdOnCurrentIndex": list(matrix.get('forest'))[0]}
+                words['mountain'] = {"data": matrix.get('mountain'), "currentIndex": 0, "docIdOnCurrentIndex": list(matrix.get('mountain'))[0]}
+                words['nature'] = {"data": matrix.get('nature'), "currentIndex": 0, "docIdOnCurrentIndex": list(matrix.get('nature'))[0]}
 
-    vectorWithWeights = [0] * len(words)
+                allMatchedVectors = list()
 
-    for docId in hashmap:
-        if len(hashmap.get(docId)) < 2:
-            continue
+                weights = getSingleWeightVectors(words)
 
-        for array in range(len(hashmap[docId])):
-            indexInVector = hashmap[docId][array][0]
-            vectorWithWeights[indexInVector] = [hashmap[docId][array][1], hashmap[docId][array][2]]
+                for docId in weights:
+                    constructedVector = [[0, 0]] * len(words)
 
-    return vectorWithWeights
+                    for vector in weights[docId]:
+                        constructedVector[vector[0]] = [docId, vector[1]]
 
-with open("words_weight_per_doc_test.json", "r") as f:
-    matrix = json.load(f)
+                    allMatchedVectors.append(constructedVector)
 
-    allMatchedVectors = list()
-    docsIndexes = set()
-
-    words = dict()
-    words['forest'] = {"data": matrix.get('forest'), "currentIndex": 0, "docIdOnCurrentIndex": list(matrix.get('forest'))[0], "canMoveIndex": True}
-    words['mountain'] = {"data": matrix.get('mountain'), "currentIndex": 0, "docIdOnCurrentIndex": list(matrix.get('mountain'))[0], "canMoveIndex": True}
-    words['nature'] = {"data": matrix.get('nature'), "currentIndex": 0, "docIdOnCurrentIndex": list(matrix.get('nature'))[0], "canMoveIndex": True}
-
-    while True:
-
-        # get vector with weights
-        vectorWithWeights = getWeightsVector(words, docsIndexes)
-
-        print(vectorWithWeights)
-
-        wordsObject = incrementWordWithLowestDocId(words)
-
-        words = wordsObject[0]
-        toStop = wordsObject[1]
-
-        if toStop:
-            break
-
-        #if vectorWithWeights:
-         #   allMatchedVectors.append(vectorWithWeights)
-
-        #print(allMatchedVectors)
-
-        #incrementLowestDocId(words)
-
-        # Get word with lowest doc ID and increment that ID later
-        #wordStats = getWordWithLowestDocId(words)
-        #word_with_lowest_id = wordStats.get("word_with_lowest_id")
-        #lowest_doc_id = wordStats.get("lowest_doc_id")
-
-        # We add every doc id we come across to our docsIndexes set
-        #docsIndexes.add(lowest_doc_id)
-
-        #words.get(word_with_lowest_id)['currentIndex'] = words.get(word_with_lowest_id).get('currentIndex') + 1
-        #words.get(word_with_lowest_id)['docIdOnCurrentIndex'] = list(matrix.get(word_with_lowest_id))[words.get(word_with_lowest_id)['currentIndex']]
-
-        # todo: what if the lowest id cant be incremented anymore?
-        # find word with the second lowest id and try to increment that one
-        # words.get(word_with_lowest_doc_id).get("currentIndex") += 1
+                print(allMatchedVectors)
