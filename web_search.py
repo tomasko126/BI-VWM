@@ -2,87 +2,69 @@ import json
 import sys
 from operator import itemgetter
 
+
 def getSingleWeightVectors(words):
-    docIdsWithWeights = dict()
+    allVectors = {}
 
     counter = 0
     for word in words:
-        wordKeys = list(words.get(word).get('data').keys())
-        wordValues = list(words.get(word).get('data').values())
+        wordInDocsId = list(words.get(word).keys())
+        wordWeightInDocsId = list(words.get(word).values())
 
         keysCounter = 0
-        for x in wordKeys:
-            docId = int(x)
-            docIdWeight = wordValues[keysCounter]
+        for docId in wordInDocsId:
+            docId = int(docId)
+            docIdWeight = wordWeightInDocsId[keysCounter]
 
-            if not docIdsWithWeights.get(docId):
-                docIdsWithWeights[docId] = list()
+            if not allVectors.get(docId):
+                allVectors[docId] = {}
 
-            docIdsWithWeights[docId].append([counter, docIdWeight])
+            allVectors[docId][word] = docIdWeight
 
             keysCounter += 1
 
         counter += 1
 
-    return docIdsWithWeights
+    return allVectors
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
 
     # Get the ID of the requested doc
     idOfRequestedDoc = sys.argv[1]
 
-    with open("analyzed/_indexedArticles.json", "r") as inxDocFile:
-        indexedDocFileContent = json.load(inxDocFile)
+    # Open up doc with articleId - articleName key-value pairs
+    with open('analyzed/_indexedArticles.json', 'r') as indexedDocsFile:
+        indexedDocFileContent = json.load(indexedDocsFile)
 
         # Get the article name of the requested doc
         articleName = indexedDocFileContent.get(idOfRequestedDoc)
 
-        with open("analyzed/" + articleName + ".json", "r") as analyzedRequestedDoc:
+        with open('analyzed/' + articleName + '.json', 'r') as analyzedRequestedDocFile:
             # Get the analyzed part of the requested doc
-            analyzedRequestedDocContent = json.load(analyzedRequestedDoc)
+            analyzedRequestedDocContent = json.load(analyzedRequestedDocFile)
 
-            with open("words_weight_per_doc.json", "r") as f:
-                matrix = json.load(f)
-
-                # TODO: fix ordering
-                weights_of_words_in_requested_doc = dict()
-                weights_of_words_in_all_docs = dict()
-
-                for word in analyzedRequestedDocContent:
-                    weights_of_words_in_requested_doc[word] = {"data": {idOfRequestedDoc: matrix.get(word)[str(idOfRequestedDoc)]}}
-                    weights_of_words_in_all_docs[word] = {"data": matrix.get(word)}
+            with open('words_weight_per_doc.json', 'r') as f:
+                # Retrieve weights of words in all docs
+                weights_of_words_in_all_docs = json.load(f)
 
                 # Init vector of requested doc
-                vector_of_requested_doc = [[idOfRequestedDoc, 0]] * len(weights_of_words_in_requested_doc)
+                vector_of_requested_doc = {}
 
-                counter = 0
-                for word in weights_of_words_in_requested_doc:
-                    vector_of_requested_doc[counter] = [idOfRequestedDoc, weights_of_words_in_requested_doc[word].get('data')[str(idOfRequestedDoc)]]
-                    counter += 1
+                # For every word in the requested doc,
+                # create a vector consisting of the word and its weight in the requested doc
+                for word in analyzedRequestedDocContent:
+                    vector_of_requested_doc[word] = weights_of_words_in_all_docs.get(word)[str(idOfRequestedDoc)]
 
-                #words['forest'] = {"data": matrix.get('forest'), "currentIndex": 0, "docIdOnCurrentIndex": list(matrix.get('forest'))[0]}
-                #words['mountain'] = {"data": matrix.get('mountain'), "currentIndex": 0, "docIdOnCurrentIndex": list(matrix.get('mountain'))[0]}
-                #words['nature'] = {"data": matrix.get('nature'), "currentIndex": 0, "docIdOnCurrentIndex": list(matrix.get('nature'))[0]}
-
-                allMatchedVectors = list()
-
+                # TODO: Do NOT use this, use merge-sort style of processing inverted index
+                # Contains docId: [word, its weight]
                 weights = getSingleWeightVectors(weights_of_words_in_all_docs)
 
-                for docId in weights:
-                    constructedVector = [[0, 0]] * len(weights_of_words_in_all_docs)
-
-                    for vector in weights[docId]:
-                        constructedVector[vector[0]] = [docId, vector[1]]
-
-                    allMatchedVectors.append(constructedVector)
-
-                print(allMatchedVectors)
-
+                # TODO: Reword everything below
                 # will include inner product
                 result = dict()
 
-                for vector in allMatchedVectors:
+                for vector in weights:
                     counter = 0
                     sum = 0
                     docId = 0
