@@ -73,4 +73,12 @@ if __name__ == '__main__':
                     allVectors.append([docId, result])
 
                 allVectors = sorted(allVectors, key=itemgetter(1), reverse=True)
-                allVectors
+
+                JSON = {'docs': []}
+
+                # We exclude the first vector, because it has got the same ID
+                # as the requested doc
+                for x in range(1, 11):
+                    JSON.get('docs').append(allVectors[x])
+
+                print(json.dumps(JSON, ensure_ascii=False))
