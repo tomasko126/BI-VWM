@@ -3,27 +3,19 @@ import sys
 from operator import itemgetter
 
 
-def getSingleWeightVectors(words):
+def getSingleWeightVectors(allWords, vectorOfNeededWords):
     allVectors = {}
 
-    counter = 0
-    for word in words:
-        wordInDocsId = list(words.get(word).keys())
-        wordWeightInDocsId = list(words.get(word).values())
+    for neededWord in vectorOfNeededWords:
+        docIdAndWeightPair = allWords.get(neededWord)
 
-        keysCounter = 0
-        for docId in wordInDocsId:
-            docId = int(docId)
-            docIdWeight = wordWeightInDocsId[keysCounter]
+        for wordDocId in docIdAndWeightPair:
 
-            if not allVectors.get(docId):
-                allVectors[docId] = {}
+            if not allVectors.get(wordDocId):
+                allVectors[wordDocId] = {}
 
-            allVectors[docId][word] = docIdWeight
-
-            keysCounter += 1
-
-        counter += 1
+            wordDocIdWeight = docIdAndWeightPair[wordDocId]
+            allVectors[wordDocId][neededWord] = wordDocIdWeight
 
     return allVectors
 
@@ -56,27 +48,29 @@ if __name__ == '__main__':
                 for word in analyzedRequestedDocContent:
                     vector_of_requested_doc[word] = weights_of_words_in_all_docs.get(word)[str(idOfRequestedDoc)]
 
-                # TODO: Do NOT use this, use merge-sort style of processing inverted index
+                # TODO: Use merge-sort style of processing inverted index
                 # Contains docId: [word, its weight]
-                weights = getSingleWeightVectors(weights_of_words_in_all_docs)
+                weights = getSingleWeightVectors(weights_of_words_in_all_docs, vector_of_requested_doc)
 
-                # TODO: Reword everything below
-                # will include inner product
-                result = dict()
+                # This list will include all sorted final vectors
+                allVectors = []
 
-                for vector in weights:
-                    counter = 0
+                for docId in weights:
+                    wordsInDocId = weights.get(docId)
+
                     sum = 0
-                    docId = 0
+                    wij = 0
+                    wiq = 0
 
-                    for item in vector:
-                        sum += item[1] * vector_of_requested_doc[counter][1]
-                        counter += 1
-                        if item[0] != 0:
-                            docId = item[0]
+                    for word in wordsInDocId:
+                        weightOfWord = wordsInDocId.get(word)
 
-                    # docId = vector_of_requested_doc[0][0]
-                    result[docId] = sum
+                        sum += (vector_of_requested_doc.get(word) * weightOfWord)
+                        wij += vector_of_requested_doc.get(word) ** 2
+                        wiq += weightOfWord ** 2
 
-                result = sorted(result.items(), key=itemgetter(1))
-                result
+                    result = sum / ((wij * wiq) ** (1/2))
+                    allVectors.append([docId, result])
+
+                allVectors = sorted(allVectors, key=itemgetter(1), reverse=True)
+                allVectors
