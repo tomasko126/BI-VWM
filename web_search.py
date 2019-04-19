@@ -2,7 +2,8 @@ import json
 import sys
 from operator import itemgetter
 
-
+# This function will takes weights of all words and returns a dictionary
+# consisting of key-value pairs: docId - [word, its weight]
 def getSingleWeightVectors(allWords, vectorOfNeededWords):
     allVectors = {}
 
@@ -48,7 +49,6 @@ if __name__ == '__main__':
                 for word in analyzedRequestedDocContent:
                     vector_of_requested_doc[word] = weights_of_words_in_all_docs.get(word)[str(idOfRequestedDoc)]
 
-                # TODO: Use merge-sort style of processing inverted index
                 # Contains docId: [word, its weight]
                 weights = getSingleWeightVectors(weights_of_words_in_all_docs, vector_of_requested_doc)
 
@@ -77,7 +77,7 @@ if __name__ == '__main__':
                 JSON = {'docs': []}
 
                 # We exclude the first vector, because it has got the same ID
-                # as the requested doc
+                # as the requested doc - we just want to get first 10 results
                 for x in range(1, 11):
                     JSON.get('docs').append(allVectors[x])
 
