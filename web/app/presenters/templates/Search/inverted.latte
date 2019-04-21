@@ -1,0 +1,13 @@
+{block content}
+<h2>{$openedDoc['name']}</h2>
+<h4>Article content:</h4>
+    <div id="content">
+<pre id="openeddoc">{$openedDoc['content']|noescape}</pre>
+    </div>
+<br>
+{foreach $similarDocs as $similarDoc}
+    <div>ID: {$similarDoc[0]}</div>
+    <div>Article weight: {$similarDoc[1]}</div>
+    <div>Article name: {$similarDoc[2]}</div>
+    <br>
+{/foreach}

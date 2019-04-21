@@ -1,5 +1,8 @@
+#!/usr/bin/env python3
+
 import json
 import sys
+import os
 from operator import itemgetter
 
 # This function will takes weights of all words and returns a dictionary
@@ -26,18 +29,21 @@ if __name__ == '__main__':
     # Get the ID of the requested doc
     idOfRequestedDoc = sys.argv[1]
 
+    os.chdir("../../")
+    print(os.getcwd())
+
     # Open up doc with articleId - articleName key-value pairs
-    with open('analyzed/_indexedArticles.json', 'r') as indexedDocsFile:
+    with open('./analyzed/_indexedArticles.json', 'r') as indexedDocsFile:
         indexedDocFileContent = json.load(indexedDocsFile)
 
         # Get the article name of the requested doc
         articleName = indexedDocFileContent.get(idOfRequestedDoc)
 
-        with open('analyzed/' + articleName + '.json', 'r') as analyzedRequestedDocFile:
+        with open('./analyzed/' + articleName + '.json', 'r') as analyzedRequestedDocFile:
             # Get the analyzed part of the requested doc
             analyzedRequestedDocContent = json.load(analyzedRequestedDocFile)
 
-            with open('words_weight_per_doc.json', 'r') as f:
+            with open('./words_weight_per_doc.json', 'r') as f:
                 # Retrieve weights of words in all docs
                 weights_of_words_in_all_docs = json.load(f)
 
