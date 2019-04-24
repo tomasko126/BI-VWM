@@ -33,12 +33,12 @@
             <div>Article weight: {$similarDoc[1]}</div>
         </div>
         <div class="row">
-            <div>Article name: <a href="{plink inverted id => $similarDoc[0]}">{$similarDoc[2]}</a></div>
+            <div>Article name: <a href="{plink sequential id => $similarDoc[0]}">{$similarDoc[2]}</a></div>
         </div>
         <br>
     {/foreach}
 
-    <div class="row"><h4>Timing of inverted search: {$timing} ms</h4></div>
+    <div class="row"><h4>Timing of sequential search: {$timing} ms</h4></div>
 </div>
 
 <link href="https://getbootstrap.com/docs/4.3/dist/css/bootstrap.min.css" rel="stylesheet"

@@ -4,30 +4,42 @@ declare(strict_types=1);
 
 namespace App\Presenters;
 
-use App\Model\DocumentsModel;
-use App\Model\HomepageModel;
+use App\Model\InvertedModel;
+use App\Model\SequentialModel;
+
 use Nette;
 
 final class SearchPresenter extends Nette\Application\UI\Presenter {
 
-    // @var DocumentsModel
-    private $documentsModel;
+    // @var InvertedModel
+    private $invertedModel;
 
-    public function injectDependencies(DocumentsModel $documentsModel) {
-        $this->documentsModel = $documentsModel;
+    // @var SequentialModel
+    private $sequentialModel;
+
+    public function injectDependencies(InvertedModel $invertedModel, SequentialModel $sequentialModel) {
+        $this->invertedModel = $invertedModel;
+        $this->sequentialModel = $sequentialModel;
     }
 
     public function renderInverted($id) {
-        $docToOpen = $this->documentsModel->getDocument($id);
+        $docToOpen = $this->invertedModel->getDocument($id);
 
-        $similarDocs = $this->documentsModel->getSimilarDocuments($id)['docs'];
+        $similarDocsObject = $this->invertedModel->getSimilarDocuments($id);
 
         $this->template->openedDoc = $docToOpen;
-        $this->template->similarDocs = $similarDocs;
+        $this->template->similarDocs = $similarDocsObject[0]['docs'];
+        $this->template->timing =$similarDocsObject[1];
     }
 
     // TODO: Implement missing support in Python
-    public function actionNaive($id) {
+    public function renderSequential($id) {
+        $docToOpen = $this->sequentialModel->getDocument($id);
 
+        $similarDocsObject = $this->sequentialModel->getSimilarDocuments($id);
+
+        $this->template->openedDoc = $docToOpen;
+        $this->template->similarDocs = $similarDocsObject[0]['docs'];
+        $this->template->timing =$similarDocsObject[1];
     }
 }

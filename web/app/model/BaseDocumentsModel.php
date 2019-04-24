@@ -4,8 +4,7 @@ namespace App\Model;
 
 use Nette;
 
-class DocumentsModel {
-
+class BaseDocumentsModel {
     private $indexedArticlesFile = "../../analyzed/_indexedArticles.json";
 
     public function getAllStoredDocuments() {
@@ -40,22 +39,6 @@ class DocumentsModel {
         $docObject['content'] = $result;
 
         return $docObject;
-    }
-
-    public function getSimilarDocuments($id) {
-        // Run our python script in order to get similar docs
-        exec("python3 ../../web_search.py" . " inverted " . $id, $out, $status);
-
-        // out - [0] => path of called script, [1] => result of script
-        $json = $out[0];
-        $similarDocs = json_decode($json, true);
-
-        foreach ($similarDocs['docs'] as &$doc) {
-            $docId = $doc[0];
-            $doc[] = $this->getDocumentName($docId);
-        }
-
-        return $similarDocs;
     }
 
     public function getDocumentName($id) {

@@ -4,20 +4,25 @@ declare(strict_types=1);
 
 namespace App\Presenters;
 
-use App\Model\DocumentsModel;
+use App\Model\InvertedModel;
+use App\Model\SequentialModel;
 use Nette;
 
 final class HomepagePresenter extends Nette\Application\UI\Presenter {
 
-    // @var DocumentsModel
-    private $documentsModel;
+    // @var InvertedModel
+    private $invertedModel;
 
-    public function injectDependencies(DocumentsModel $documentsModel) {
-        $this->documentsModel = $documentsModel;
+    // @var SequentialModel
+    private $sequentialModel;
+
+    public function injectDependencies(InvertedModel $invertedModel, SequentialModel $sequentialModel) {
+        $this->invertedModel = $invertedModel;
+        $this->sequentialModel = $sequentialModel;
     }
 
-    public function actionDefault() {
-        $randomChosenId = $this->documentsModel->getOneRandomDocument();
-        $this->redirect('Search:inverted', $randomChosenId);
+    public function renderDefault() {
+        $randomChosenId = $this->invertedModel->getOneRandomDocument();
+        $this->template->randomDocumentId = $randomChosenId;
     }
 }
