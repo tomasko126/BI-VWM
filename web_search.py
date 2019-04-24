@@ -9,40 +9,38 @@ import datetime
 from operator import itemgetter
 
 
-# This function will takes weights of all words and returns a dictionary
-# consisting of key-value pairs: docId - [word, its weight]
-def getSingleWeightVectors(allWords, vectorOfNeededWords):
-    allVectors = {}
+class Search:
+    # Constructor
+    def __init__(self):
+        self.maxSearchedTerms = 10
 
-    for neededWord in vectorOfNeededWords:
-        docIdAndWeightPair = allWords.get(neededWord)
+        with open('../../analyzed/_indexedArticles.json', 'r') as indexedDocsFile:
+            self.indexedDocsContent = json.load(indexedDocsFile)
 
-        for wordDocId in docIdAndWeightPair:
+        with open('../../words_weight_per_doc.json', 'r') as wordsWeightPerDocFile:
+            self.wordsWeightPerDocContent = json.load(wordsWeightPerDocFile)
 
-            if not allVectors.get(wordDocId):
-                allVectors[wordDocId] = {}
+    # This function will create key-value pairs of docId-[word, its weight]
+    # of words defined in vectorOfNeededWords
+    def getSingleWeightVectors(self, vectorOfNeededWords):
+        allVectors = {}
 
-            wordDocIdWeight = docIdAndWeightPair[wordDocId]
-            allVectors[wordDocId][neededWord] = wordDocIdWeight
+        for neededWord in vectorOfNeededWords:
+            docIdAndWeightPair = self.wordsWeightPerDocContent.get(neededWord)
 
-    return allVectors
+            for wordDocId in docIdAndWeightPair:
 
+                if not allVectors.get(wordDocId):
+                    allVectors[wordDocId] = {}
 
-def inversedIndexSearch():
-    # Get the ID of the requested doc
-    idOfRequestedDoc = sys.argv[1]
+                wordDocIdWeight = docIdAndWeightPair[wordDocId]
+                allVectors[wordDocId][neededWord] = wordDocIdWeight
 
-    # os.chdir("../../")
-    # print(os.getcwd())
+        return allVectors
 
-    # Open up doc with articleId - articleName key-value pairs
-    with open('./analyzed/_indexedArticles.json', 'r') as indexedDocsFile:
-        indexedDocFileContent = json.load(indexedDocsFile)
-
-        # Get the article name of the requested doc
-        requestedDocName = indexedDocFileContent.get(idOfRequestedDoc)
-
-        with open('./analyzed/' + requestedDocName + '.json', 'r') as analyzedRequestedDocFile:
+    # Returns vector of a document specified by document name and ID
+    def getDocumentVector(self, docName, docId, toSlice=False):
+        with open('analyzed/' + docName + '.json', 'r') as analyzedRequestedDocFile:
             # Get the analyzed part of the requested doc
             analyzedRequestedDocContent = json.load(analyzedRequestedDocFile)
 
@@ -50,146 +48,157 @@ def inversedIndexSearch():
             analyzedRequestedDocContent = sorted(analyzedRequestedDocContent.items(), key=lambda kv: (kv[1], kv[0]), reverse=True)
 
             # We are interested in first 10 most frequented words in the requested document
-            analyzedRequestedDocContent = analyzedRequestedDocContent[0:5]
+            if toSlice:
+                analyzedRequestedDocContent = analyzedRequestedDocContent[0:self.maxSearchedTerms]
 
-            with open('./words_weight_per_doc.json', 'r') as f:
-                # Retrieve weights of words in all docs
-                weights_of_words_in_all_docs = json.load(f)
+            # Init vector of requested doc
+            vectorOfRequestedDoc = {}
 
-                # Init vector of requested doc
-                vector_of_requested_doc = {}
+            # For every word in the requested doc,
+            # create a vector consisting of the word and its weight in the requested doc
+            for tuple in analyzedRequestedDocContent:
+                # Tuple is a pair of word-no of that word in the doc
+                vectorOfRequestedDoc[tuple[0]] = self.wordsWeightPerDocContent.get(tuple[0]).get(docId)
 
-                # For every word in the requested doc,
-                # create a vector consisting of the word and its weight in the requested doc
-                for tuple in analyzedRequestedDocContent:
-                    # Tuple is a pair of word-no of that word in the doc
-                    vector_of_requested_doc[tuple[0]] = weights_of_words_in_all_docs.get(tuple[0]).get(idOfRequestedDoc)
+            return vectorOfRequestedDoc
 
-                # Contains docId: [word, its weight]
-                weights = getSingleWeightVectors(weights_of_words_in_all_docs, vector_of_requested_doc)
-
-                # This list will include all sorted final vectors
-                allVectors = []
-
-                # Calculate cosine similarity between vector of a requested doc
-                # and vector of the particular document
-                for docId in weights:
-                    vector_of_current_doc = weights.get(docId)
-
-                    sum = 0
-                    wij = 0
-                    wiq = 0
-
-                    for word in vector_of_requested_doc:
-                        weightOfWord = vector_of_current_doc.get(word) or 0
-
-                        sum += (vector_of_requested_doc.get(word) * weightOfWord)
-                        wij += vector_of_requested_doc.get(word) ** 2
-                        wiq += weightOfWord ** 2
-
-                    result = sum / ((wij * wiq) ** (1/2))
-
-                    #if math.acos(result) < 0.7:
-                    allVectors.append([docId, result])
-
-                allVectors = sorted(allVectors, key=itemgetter(1), reverse=True)
-
-                JSON = {'docs': []}
-
-                # Get first 11 results - the first one should have the same ID as the requested document
-                for x in range(0, 11):
-                    JSON.get('docs').append(allVectors[x])
-
-                print(json.dumps(JSON, ensure_ascii=False))
-
-def sequentialSearch():
-    # Get the ID of the requested doc
-    idOfRequestedDoc = sys.argv[1]
-
-    # Open up doc with articleId - articleName key-value pairs
-    with open('./analyzed/_indexedArticles.json', 'r') as indexedDocsFile:
-        indexedDocFileContent = json.load(indexedDocsFile)
+    # Returns name of a document defined by its ID
+    def getDocumentName(self, docId):
 
         # Get the article name of the requested doc
-        requestedDocName = indexedDocFileContent.get(idOfRequestedDoc)
+        requestedDocName = self.indexedDocsContent.get(docId)
 
-        with open('./analyzed/' + requestedDocName + '.json', 'r') as analyzedRequestedDocFile:
-            # Get the analyzed part of the requested doc
-            analyzedRequestedDocContent = json.load(analyzedRequestedDocFile)
+        return requestedDocName
 
-            # Sort words in the requested doc by their count
-            analyzedRequestedDocContent = sorted(analyzedRequestedDocContent.items(), key=lambda kv: (kv[1], kv[0]), reverse=True)
+    # Calculates cosine similarity between vectors of requested and current document
+    def calculateCosineSim(self, requestedDocVector, currentDocVector):
+        sum = 0
+        wij = 0
+        wiq = 0
 
-            # We are interested in first 20 most frequented words in the requested document
-            analyzedRequestedDocContent = analyzedRequestedDocContent[0:5]
+        for word in requestedDocVector:
+            weightOfWord = currentDocVector.get(word) or 0
 
-            with open('./words_weight_per_doc.json', 'r') as f:
-                # Retrieve weights of words in all docs
-                weights_of_words_in_all_docs = json.load(f)
+            sum += (requestedDocVector.get(word) * weightOfWord)
+            wij += requestedDocVector.get(word) ** 2
+            wiq += weightOfWord ** 2
 
-                # Init vector of requested doc
-                vector_of_requested_doc = {}
+        # Sum can be zero, when no word from vector of requested doc is contained in the vector of current doc
+        if sum == 0:
+            return False
 
-                # For every word in the requested doc,
-                # create a vector consisting of the word and its weight in the requested doc
-                for tuple in analyzedRequestedDocContent:
-                    # Tuple is a pair of word-no of that word in the doc
-                    vector_of_requested_doc[tuple[0]] = weights_of_words_in_all_docs.get(tuple[0])[str(idOfRequestedDoc)]
+        result = sum / ((wij * wiq) ** (1 / 2))
 
-                allVectors = []
+        return result
 
-                for docId in indexedDocFileContent:
-                    nameOfCurrentDoc = indexedDocFileContent[docId]
+    # JSON-ify vectors
+    def makeJSON(self, vectors):
+        vectorsInJSON = {'docs': []}
 
-                    if nameOfCurrentDoc == '.DS_Store':
-                        continue
+        # Get first 11 results - the first one should have the same ID as the requested document
+        for x in range(0, 11):
+            vectorsInJSON.get('docs').append(vectors[x])
 
-                    with open('./analyzed/' + nameOfCurrentDoc + '.json', 'r') as analyzedCurrentDocFile:
-                        analyzedCurrentDocContent = json.load(analyzedCurrentDocFile)
+        return vectorsInJSON
 
-                        vector_of_current_doc = {}
+    # Perform search with usage of inverted index
+    def inversedIndexSearch(self, requestedDocId):
+        os.chdir("../../")
 
-                        for word in vector_of_requested_doc:
-                            vector_of_current_doc[word] = weights_of_words_in_all_docs.get(word).get(str(docId)) or 0
+        # Get name of the requested document
+        requestedDocName = self.getDocumentName(requestedDocId)
 
-                        sum = 0
-                        wij = 0
-                        wiq = 0
+        # Get vector of the requested document
+        requestedDocVector = self.getDocumentVector(requestedDocName, requestedDocId, True)
 
-                        for word in vector_of_requested_doc:
-                            weightOfWord = vector_of_current_doc.get(word)
+        # Get key-value pairs of docId-[word, its weight]
+        weights = self.getSingleWeightVectors(requestedDocVector)
 
-                            sum += (vector_of_requested_doc.get(word) * weightOfWord)
-                            wij += vector_of_requested_doc.get(word) ** 2
-                            wiq += weightOfWord ** 2
+        # This list will include all sorted similar documents to the requested document
+        similarDocuments = []
 
-                        # Sum can be zero, when no word from vector of requested doc is contained in the vector of current doc
-                        if sum == 0:
-                            continue
+        # Calculate cosine similarity between vector of a requested doc
+        # and vector of the particular document
+        for currentDocId in weights:
 
-                        result = sum / ((wij * wiq) ** (1 / 2))
+            # Get vector of the current document
+            currentDocVector = weights.get(currentDocId)
 
-                        #if math.acos(result) < 0.7:
-                        allVectors.append([docId, result])
+            # Calculate cosine similarity
+            cosineSimilarity = self.calculateCosineSim(requestedDocVector, currentDocVector)
 
-                allVectors = sorted(allVectors, key=itemgetter(1), reverse=True)
+            if not cosineSimilarity:
+                continue
 
-                JSON = {'docs': []}
+            similarDocuments.append([currentDocId, cosineSimilarity])
 
-                # Get first 11 results - the first one should have the same ID as the requested document
-                for x in range(0, 11):
-                    JSON.get('docs').append(allVectors[x])
+        # Sort list of similar documents
+        similarDocuments = sorted(similarDocuments, key=itemgetter(1), reverse=True)
 
-                print(json.dumps(JSON, ensure_ascii=False))
+        # Export list of similar documents to JSON
+        similarDocumentsInJSON = self.makeJSON(similarDocuments)
 
-a = datetime.datetime.now()
-inversedIndexSearch()
-b = datetime.datetime.now()
-c = b - a
-print(int(c.total_seconds() * 1000))
+        # Print it out
+        print(json.dumps(similarDocumentsInJSON, ensure_ascii=False))
 
-a = datetime.datetime.now()
-sequentialSearch()
-b = datetime.datetime.now()
-c = b - a
-print(int(c.total_seconds() * 1000))
+    # Perform search without usage of inverted index
+    def sequentialSearch(self, requestedDocId):
+        os.chdir("../../")
+
+        # Get name of the requested document
+        requestedDocName = self.getDocumentName(requestedDocId)
+
+        # Get vector of the requested document
+        requestedDocVector = self.getDocumentVector(requestedDocName, requestedDocId, True)
+
+        # This list will include all sorted similar documents to the requested document
+        similarDocuments = []
+
+        # Loop through every stored document, calculate its vector and
+        # compare it with the vector of the requested document by cosine similarity
+        for currentDocId in self.indexedDocsContent:
+            currentDocName = self.getDocumentName(currentDocId)
+
+            # Ignore macOS specific file
+            if currentDocName == '.DS_Store':
+                continue
+
+            # Get vector of the current document
+            currentDocVector = self.getDocumentVector(currentDocName, currentDocId)
+
+            # Calculate cosine similarity
+            cosineSimilarity = self.calculateCosineSim(requestedDocVector, currentDocVector)
+
+            if not cosineSimilarity:
+                continue
+
+            similarDocuments.append([currentDocId, cosineSimilarity])
+
+        # Sort list of similar documents
+        similarDocuments = sorted(similarDocuments, key=itemgetter(1), reverse=True)
+
+        # Export list of similar documents to JSON
+        similarDocumentsInJSON = self.makeJSON(similarDocuments)
+
+        # Print it out
+        print(json.dumps(similarDocumentsInJSON, ensure_ascii=False))
+
+
+search = Search()
+
+if sys.argv[1] == "inverted":
+    a = datetime.datetime.now()
+
+    search.inversedIndexSearch(sys.argv[2])
+
+    b = datetime.datetime.now()
+    c = b - a
+    print(int(c.total_seconds() * 1000))
+elif sys.argv[1] == "sequential":
+    a = datetime.datetime.now()
+
+    search.sequentialSearch(sys.argv[2])
+
+    b = datetime.datetime.now()
+    c = b - a
+    print(int(c.total_seconds() * 1000))
