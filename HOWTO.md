@@ -7,9 +7,7 @@
 - ```numpy 1.16```
 - ```urllib3 1.24```
 
-# Run from CLI
-
-## Preprocessing
+# Preprocessing
 In order to preprocess the articles, the following command is available with further arguments:
 
 ```python3 download_articles.py <args>```
@@ -25,10 +23,10 @@ Possible arguments:
  
  ```index``` will create a .json file for every downloaded article, which will contain key/value pairs of word/noOfOccurrences.
  
-## Run server
-In order to run the server, you have to run the following command:
+# Run server
+In order to start up the server, you have to run the following command from within the project's ```web``` folder:
 
-```php -S localhost:8080 -t <path-to-projects-/web/www-folder>```
+```php -S localhost:8000 -t <path-to-projects-/web/www-folder>```
 
 Afterwards, by going to ```localhost:8000```, you should see the project's homepage
   
