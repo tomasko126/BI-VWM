@@ -1,40 +1,6 @@
 {block content}
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav mx-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="/">Vector model</a>
-            </li>
-        </ul>
-    </div>
-</nav>
-
-<div class="container h-100">
-    <div class="row h-100 justify-content-center">
-        <form class="col-6">
-            <div id="infotext">Get similar documents to a randomly chosen document:</div>
-            <div id="buttons" class="row justify-content-center">
-                <div>
-                    <a class="btn btn-success" href="{plink Search:inverted id => $randomDocumentId}" role="button">
-                        using inverted index
-                    </a>
-                </div>
-                <div>
-                    <a class="btn btn-danger" href="{plink Search:sequential id => $randomDocumentId}" role="button">
-                        sequentially
-                    </a>
-                </div>
-            </div>
-        </form>
-    </div>
-</div>
-
-<link href="https://getbootstrap.com/docs/4.3/dist/css/bootstrap.min.css" rel="stylesheet"
-      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="/css/bootstrap.min.css" rel="stylesheet">
 
 <style>
     body {
@@ -58,3 +24,31 @@
     }
 
 </style>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="/">Vektorový model</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</nav>
+
+<div class="container h-100">
+    <div class="row h-100 justify-content-center">
+        <form class="col-6">
+            <div id="infotext">Get similar documents to a randomly chosen document:</div>
+            <div id="buttons" class="row justify-content-center">
+                <div>
+                    <a class="btn btn-success" href="{plink Search:inverted id => $randomDocumentId}" role="button">
+                        using inverted index
+                    </a>
+                </div>
+                <div>
+                    <a class="btn btn-danger" href="{plink Search:sequential id => $randomDocumentId}" role="button">
+                        sequentially
+                    </a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

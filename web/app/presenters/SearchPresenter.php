@@ -28,6 +28,7 @@ final class SearchPresenter extends Nette\Application\UI\Presenter {
         $similarDocsObject = $this->invertedModel->getSimilarDocuments($id);
 
         $this->template->openedDoc = $docToOpen;
+        $this->template->openedDocId = $id;
         $this->template->similarDocs = $similarDocsObject[0]['docs'];
         $this->template->timing =$similarDocsObject[1];
     }
@@ -39,6 +40,7 @@ final class SearchPresenter extends Nette\Application\UI\Presenter {
         $similarDocsObject = $this->sequentialModel->getSimilarDocuments($id);
 
         $this->template->openedDoc = $docToOpen;
+        $this->template->openedDocId = $id;
         $this->template->similarDocs = $similarDocsObject[0]['docs'];
         $this->template->timing =$similarDocsObject[1];
     }
