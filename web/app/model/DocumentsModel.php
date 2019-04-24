@@ -44,10 +44,10 @@ class DocumentsModel {
 
     public function getSimilarDocuments($id) {
         // Run our python script in order to get similar docs
-        exec("python3 ../../web_search.py " . $id, $out, $status);
+        exec("python3 ../../web_search.py" . " inverted " . $id, $out, $status);
 
         // out - [0] => path of called script, [1] => result of script
-        $json = $out[1];
+        $json = $out[0];
         $similarDocs = json_decode($json, true);
 
         foreach ($similarDocs['docs'] as &$doc) {
