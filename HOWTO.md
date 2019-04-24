@@ -1,4 +1,4 @@
-# List of dependencies
+# Dependencies
 - ```Python 3.6 or higher```
 - ```PyYaml 5.1```
 - ```BeautifulSoup4 4.7.1```
@@ -28,7 +28,7 @@ In order to start up the server, you have to run the following command from with
 
 ```php -S localhost:8000 -t <path-to-projects-/web/www-folder>```
 
-Afterwards, by going to ```localhost:8000```, you should see the project's homepage
+Afterwards, by going to ```localhost:8000```, you should see the project's homepage.
   
 # More websites
 The scraper takes sites from ```sites.yaml``` where similar blogs are in comment block.
