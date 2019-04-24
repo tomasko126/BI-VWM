@@ -1,0 +1,60 @@
+
+success or failure
+Jon Reed’s Cloud ERP isn’t a handshake deal – it’s a value extraction challenge. Here are the stages is a useful catalog of what to expect from the point where you have completed a successful ERP implementation. But it assumes just that – a successful implementation. It is a sad fact that, depending on who you choose to read, project failure is endemic and at rates that can go as high as 70%.
+It seems to me, and as Naomi Bloom pointed out, customers are not learning from the many mistakes of the past. Companies like Panorama Consulting and others make a handsome living out of failure. Erik Kimberling of Third Stage is well known in this field, providing valuable insights from which everyone can learn. Heck, even star media chimera Michael Krigsman crafted a career out of failure before running out of things to say.
+What is failure?
+I have my own share of project failures under my belt but also a good few successes. There are three things of which I am certain.
+
+Your project will almost certainly not be delivered on time but it can still be delivered on budget.
+When a project goes bad it’s rarely the software that is at fault and yet, when we read the headlines, the software authors are the ones in the crosshairs.
+Cloud projects are just as likely to go south as are on premises-based projects.
+
+Everything else depends on a variety of factors, some of which are in your control, some of which are not. What you can do however is mitigate the worst of what might happen. To that extent, this is not going to be a long list of how-tos or an attempt to cover every base. This is about managing people and big pictures.
+Failure needs to be carefully defined because there are many reasons why a project might appear to be failing but which in fact succeeds. Don’t, therefore, assume that because your project is going over budget and is running months behind that it is a failure. It could easily be the case that you learned about useful functionality that was not scoped but which adds considerable additional value, provided that it is included as the main project proceeds and is not treated as a sidecar for later.
+This is how I define failure. You may have your own. These fall into three broad categories. Any project that:
+
+Has not been rescoped and does not meet its stated outcomes. That means more implementation time and cost with likely suboptimal results.
+Is unacceptably over time and over budget – I measure that as at least 25% over time/budget.
+Once implemented is harder to use than its predecessor. That’s an on-cost you live with until the UX problems are resolved.
+
+Let me be clear on this – I am NOT counting as a failure a project where the expectations are unrealistic or that was ill-defined. That’s not a project failure, that’s a management screw up, often born out of an inflated decision maker ego or ignorance and where failure was guaranteed.
+Let’s also be clear that absent independent oversight, you have to assume that the SI is going to screw you. Why? IT projects are often expensive and as such, the sticker shock you got when you discovered the software price (plus maintenance charges) is nothing compared to the 2x, 5x, 10x it takes to deliver. You can, therefore, be sure that all the SIs on your shortlist will low ball with the expectation of change orders that cost insane amounts of money they can’t justify but which for which are on the hook. And all of that is before you get to use the software.
+So – what can you do to survive and thrive in a software implementation?
+Scope
+Scoping starts with – what problem are you trying to solve?
+If your existing system is in a sunset period or is becoming way too clunky then you may be up against the proverbial wall. But at a time when all the talk is of ‘digital transformation’, you must ask yourself whether your funky way of reconciling payments to the bank or your six-step invoice validation process is really the way to operate in an age where standard processes are well understood and can be automated.
+The short lesson here is simple: if the solution you plan to implement has 80% of your needs both now and into the next five years (as best as you can see it) OR has a clear pathway for improvement per Reed’s analysis, then that’s good enough.
+If you really want that 5% which will cost 25% then you’d better have a darned good business case at hand.
+Far better to scope appropriately with your SI and then have that checked independently by the likes of Frank Scavo’s team of terriers than assume the SI has done their job. Remember that SIs are masters of the crafting of legalese that will leave you befuddled when you read what they are committing to.
+Finding the right SI
+You all know the Big Five SIs: Accenture, KPMG, Deloitte, PwC and IBM to which can be added many others. Guess what? They’ve all screwed up. Don’t be fooled by the badge. Make sure that they understand your business and can provide similar examples of similar work and that you can talk to those customers without their PR wonks at your side, directing the conversation.
+SIs love to talk about time and materials. That’s as outdated as lawyers charging in six-minute increments. The excuse given is that it is impossible to be sure what they will face going into a project and therefore the costs can only be projected. Really? If that’s the case then how do I know that your ‘estimate’ remotely covers the project scope? I stopped doing those kinds of job in 1983 and never looked back.
+Granted, some projects are really complicated and budgets have to be elastic to a degree. But remember that most SIs are not driven by value delivered to you but the labor utilization numbers they can achieve from whatever bums they can put on whatever seats.
+Speaking of SIs and assuming you’ve got this far, you MUST test for the quality of people that will be needed to meet the desired outcome. Jarret Pazahanick often talks about the Wild West of software implementation and he is right to a degree.  There are far too many snot-nosed kids who know jack about what they’re doing out on projects, but for which you pay.
+Do NOT buy certifications and do NOT specify certifications. In my experience, they’re a nice to have but what really matters is the experience of handling situations like yours. Tell the SI you want to interview project team leaders on this point before they make appointments. And then go hire someone like Scavo to find out what they really know.
+Assuming you’ve got this far and haven’t now got a bill that puts the entire project in jeopardy you’re (almost) ready to get going.
+Change – the real devil behind the scenes
+There have been forests destroyed in an effort to write the definitive guide to change management and I don’t plan to add to that liturgy except to say this:
+
+Your project is going to impact people’s lives. These people are not robots. They want to do the right thing but they expect to be treated with a degree of dignity. They may be called ‘human resources’ or ‘human capital’, but they are far more than that reductionist expression. Keep that top of mind because when you start to lose your best performers in a project, it will be very hard to get back on track.
+Your project will fail unless there is buy-in from EVERY stakeholder. This is broadly true in any project but IT projects are particularly susceptible.
+Beware the L2-3 managers who see projects as career threatening – they will derail the project. Get them onside at the beginning and keep them onside or dispose of them. There is no middle ground here. And, by the way, age is not the issue. It’s about mindset.
+Communication, training, and education starts before, continues during and ends sometimes never. Establish a plan and budget generously for this vital element.
+Set out success criteria and milestones that are achievable within the context of the project. Then make people responsible and accountable for those outcomes. If Jonny in the corner puts his hand up and has a good idea, let him own it.
+People will go through various stages during a project, experiencing every emotion from joy and excitement to despair and dejection. Accommodate for all those emotional states. If necessary, have people on hand who can provide therapy, especially during the dark days. If that sounds too squishy for you then maybe you need to think about your management style.
+Celebrate success at every turn. There will be plenty of opportunities.
+Have an ear open to suggestions. Very often, people will come up with ideas that only emerge during a project. The key is to help them make the business case and then empower them to succeed, within the context of the whole.
+
+Accountability – trust but verify
+I am a great believer in having checks and balances in place. This is not about being overbearing but about making sure you are keeping on track with an eye on the prize. In one recent conversation, a person told me they could not see what I saw – why? I’m not on the inside living with the problem. Once we talked it through they had their own ‘ah-ha’ moment.
+Too few companies have failed to recognize the value of taking a pause where it makes sense so that the project can be assessed and course corrected. Better still, there is merit in having a warning system in place that acts as an actionable guide. Where do you find one of those? Ask Josh Greenbaum who has a great tool called ProQ just for this very purpose. Ask Steve Bogner. He knows too.
+There will be occasions when it is worthwhile bringing your software supplier back into the project. This will happen when the project gets stuck around a piece of functionality or there is an anticipated scope change. This is an opportunity for both the vendor and SI to upsell. That’s fine as long as whatever is under discussion isn’t a distraction or is going to send the project into rocky waters. Having the vendor onside, providing an additional point of view will help clarify purpose and direction.
+Question everything as if you have never seen the ‘thing’ before. I’m not talking about the ‘Why are we doing this when we’ve done it this (better) way in the past?’ I’m talking about testing the likely outcomes of decisions as risk mitigation.
+Document everything. I mean that. I’ve recently faced a situation where forgotten functionality has had to be re-assessed and guess what? No-one knew WTAF was going on. Panic set in. Don’t let this happen to you.
+Don’t forget your network of peers. They have hit some of the problems you are experiencing and can be a valuable resource for getting you out of a hole.
+By the way – did I mention testing? That gets forgotten too.
+Endgame
+There is no endgame but there are plenty of points where you can go live, flip the switch, or whatever you want to call it. My point is that you will reach a point where the system (or parts of it) can go live. This is the acid test and where you’ll find the gotchas that got missed along the way. It’s the point where all the successes you’ve had  in the past crumble and leave teams wondering what happened. Accept this stuff happens, prepare for it as best you can and work through the issues.
+Then read Jon Reed’s value exchange story and see where that takes you next.
+Endnote: As I said at the top of this story, this is not an exhaustive list but it should provide enough to keep you moderately sane.
+Image credit - via Yuriy Bogdanov on UnsplashRead more on: Collaboration sharing and digital productivityDigital transformation - frictionless enterpriseHCM and the digital future of work 

@@ -1,0 +1,44 @@
+
+Before the world went analytics crazy, CEOs and CIOs were consumed with efficiency. To pursue this, organizations spent millions, sometimes hundreds of millions, on software and consulting to streamline business processes, to take out cost and waste.
+A favorite approach was using BPM/BPE. BPM (Business Process Modeling) is a graphical tool for diagramming the flow and complexity of business processes. BPE (Business Process Execution) is, in essence, a set of techniques, tools, and standards to execute the process models.
+Execution generates a lot of data in log files. If you’ve gone to the trouble of formalizing business processes, it stands to reason that you would want to know how well they are working. There are enough unique things about these process logs that off-the-shelf analytics, such as BI (Business Intelligence), lack the native primitives to be effective, especially dealing with flow and narrow time slices. The analytics environment is different. Process Intelligence is designed to provide that functionality.
+Why would you need a Process Intelligence package if you already have analytics skills or even data science? Today’s state-of-the-art solutions for BI depend on a traditional query-based approach against a relatively static data model and a tough-to-configure data warehouse (this is the existing landscape, not the emerging one). Nevertheless, Process Intelligence, a distinct technology, provides business and other users the tools necessary to use the proper methods of strategic process analysis:
+
+Complex flow data among many agile internal and external complex processes: because there isn’t just one process in an organization. In fact, it is necessary to bring together process logs from processes you don’t own
+The need for precise, complete end-to-end data on every process instance available in process log files
+Stakeholders require many different views of the processes
+This includes not only flow patterns of process instances, but the resources (people, materials) involved and the process instance data associated with them as well
+If the needs were only tactical, simple dashboard instrumentation would suffice, but these are strategic processes. There is a constant need for a variety of stakeholders to know with certainty, what happened, what will happen, and what could happen?
+Processes are complex causal systems with continuously measured flow. This is one reason why simplified BI models are poor candidates for root cause analysis and other prescriptive/predictive analyses.
+
+The analytical methods for complex causal systems
+The vital strategic questions all involve analyzing process uncertainty. These methods require that process data is presented as distributions, preserve flow (path) information and allow robust time perspectives. They have to traffic in distribution, not aggregated data, and provide automatic instrumentation of BPMN-modeled processes. Some key features are:
+
+Analytical primitives that are distributions
+Agile process views
+Robust time perspectives
+Embedded analytical methods (of complex causal systems)
+Accurate flow predictions with full uncertainty
+Simplicity
+
+If it isn’t immediately obvious why existing BI/DW environments approaches to analytics are not able to meet the technical requirements of process Intelligence. Consider this:
+Interchangeability of measure and dimension roles: In a data warehouse, the measure attributes are known at design time. However, “raw” business process data may contain no explicit quantitative characteristics, and the measures of interest vary from one query to another. Therefore, it is crucial to enable runtime measure specification from virtually any attribute.
+Interchangeability of fact and dimension roles: Consider a surgery “process,” which has dimensional characteristics of its own (Location, Patient, etc.) and is a fact type. However, for single work steps, Surgery plays the role of a dimension (e.g., Event rolls-up to Surgery).
+
+Now, this is pretty high-octane stuff, so let me use a straightforward example that I’ve used for a long time (SES was a company I formed in 2007 with James Taylor after the publication of our book “Smart (Enough) Systems)”. It uses process intelligence to analyze and improve the arrival times of attendees at a keynote speech. There seems to be a difference in arrival time when looking at where attendees stay. If you only measure these values at the final stage (arrival in the conference room), attendees from Caesars certainly have the lowest arrival time. Notice that there are three are in the front row, and three in the third row. However, is it a meaningful difference? How do we know?
+A Process Intelligence inquiry begins with a search against log files stored in an event log (or multiple event logs). The search against a columnar, time-indexed store is fast. Most process inquiries occur along precise, narrow time windows. Among other things, the log files preserve the distributions of flow behavior. From the log files, the process trace (or path) is also reconstructed.
+
+Here is where the difference in BI analytics and process mining comes into focus, even in this simple example. When looking at the distributions of the arrival times for the 54 attendees, one sees a different picture. The small number of attendees staying at Caesars combined with their large dispersion renders their mean arrival time meaningless. It appears that it was a fluke—three attendees decided to meet in the meeting room that morning at 7:30. The arrival time of the Venetian attendees is, however, significant. You can see from the distribution that they arrive consistently earlier than all the other delegates. This is a process signal. Can it be useful in helping us figure out how to get people into the meeting room earlier?
+
+Although the log files do not contain information about the path directly, the path can be derived from a real-time, on-the-fly examination of the logs. In analyzing complex causal flow systems, path is often essential. With Process Intelligence, the process trace or flow path for each process instance is known and becomes a key analytical primitive. This is what separates Process Intelligence from BI (Business Intelligence).
+
+It turns out that there is a consistent bottleneck at the convention hall. Attendees have to queue up at Starbucks, and the service is slow. Guests at the Venetian though are presented with a well-staffed coffee station at the lobby of the hotel; they even provide good coffee in attractive take-out containers. In general, guests at the Venetian are getting their coffee right before they get on the bus and skipping Starbucks at the convention hall and going straight into the meeting room.
+All of this insight would not be helpful if it could not monitor, analyze, recommend and optimize. The process could be improved by (1) working with hotels to establish early morning coffee bars in their lobbies with fast, convenient take-out, or (2) substantially increasing the throughput of the convention coffee service. It required analyzing both the process path as well as the distributions of cycle time data to come to this fact-based conclusion on improving process performance.
+When I was first introduced to Process Intelligence in 2007, there were only two vendors with discernible tools, ARES, which was acquired by Software AG and is still active, and another one whose name I’ve forgotten, but may have been acquired by SAP. Today, however, there is a pretty active market including Hitachi, OpenText, Kolfax, TimelinePi and a host of others. Celonis seems to have the momentum, but I’m not a market watcher.
+Here are a couple of examples of the visualization capabilities of two of them, Kolfax and Celonis:
+
+Kolfax: “Unlike other business intelligence software, this unique solution combines process monitoring and analysis with rich visualizations, analytics and data integration in a single solution for end-to-end visibility and understanding of your operational performance and compliance.”
+
+Screenshot from Celonis, analytics of supply chain
+Celonis: “Process mining is a new analytical discipline for discovering, monitoring, and improving real processes (i.e., not assumed processes) by extracting knowledge from event logs readily available in today’s information systems.
+Image credit - Curious school boy with magnifier © adam121 - Fotolia.comRead more on: Analytics planning and data analysis 

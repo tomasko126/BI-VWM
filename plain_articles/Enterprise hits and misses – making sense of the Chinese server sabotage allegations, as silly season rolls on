@@ -1,0 +1,68 @@
+
+Diginomica picks – my top three stories on diginomica this week
+
+Google bails on US defense project, cites ethical concerns – Stuart asks: “Is this another example of ethical activism coming into play?” Could be, but the aftertaste is the Pentagon’s ill-advised decision to hand the massive gig over to one provider, rather than source the best for each. Good luck with that – IT project history ain’t on your side.
+Purported server sabotage illustrates potential risks of Chinese supply chains – The second of Kurt’s two-parter on the dire possibility that the Chinese government inserted malicious chips into motherboards, an allegation that two potentially impacted tech giants, Apple and Amazon, have unequivocally denied. Kurt warns CIOs: “The lesson for IT equipment buyers is to trust no one and invest in independent forms of hardware security, particularly for equipment intended for data centers hosting an organization’s most critical data and applications.”
+ERP – is it all over? Hint – hello New Kingmakers – Den goes ballistic polemical big picture in this important missive. My quick answer – no, it’s not all over. But it’s the right/urgent question. ERP only survives if the vendors in that space finish morphing into something very different (instead of the half-measures we’ve mostly seen to date). And, I would add, if ERP isn’t micro-vertical oriented, it won’t matter for much longer. Lots to ponder – have a hunch Den is just getting started on this one.
+
+Vendor analysis, diginomica style – silly season selections
+Derek spent the week at the SAP CX event in Barcelona, where he dug into stories of note:
+
+SAP Customer Experience CTO explains why YaaS was retired in favour of Cloud Platform Extension Factory
+SAP’s Open Data Initiative aims to appease buyers hungry for open source and machine learning
+
+Keeper quote, via SAP: “It’s our customer’s data, we don’t own it. It’s not ours. And that data should not be a lock-in factor, or a prohibitor of adoption, for products. Our products or any other products out there. And many of our customers now see that data becomes an important area for them to innovate on with machine learning.”
+Meanwhile, Chris made the Shanghai sojourn, filing these notable Huawei stories:
+
+Huawei Connect 2018 – the war for AI talent
+Huawei Connect 2018 – why the intelligent world means AI chips with everything
+
+Pull quote: “Despite the ambitious, end-to-end strategy, AI can only solve some problems, admitted Xu. So far only four percent of enterprises have invested in AI, according to the keynote presentation. And the marketplace for AI talent is only one percent of what’s needed, said Xu.This is where real-world challenges clash with vendors’ future vision.”
+A couple more eventful picks:
+
+How United Way Worldwide took collaboration viral with Workplace by Facebook – Yeah, I went to a Facebook event, and got a darn good use cases for my trouble.
+Inforum 2018 exclusive – the state of Infor’s SaaSy reinvention with CFO Kevin Samuelson – From my sit-down in D.C.
+
+And, the final silly season selections of the week:
+Apttus ambition undimmed as new owners pick up CEO search – Phil
+Sitecore takes on Adobe with latest release + major DAM acquisition – Barb
+Best of the rest
+My top five picks from the enterprise blogosphere this week:
+
+Supply Chain Security is the Whole Enchilada, But Who’s Willing to Pay for It?  – Security expert Brian Krebs picks up on the “malicious Chinese chip” allegations spawned by the Bloomberg story. He cautions that our penchant for cheap stuff sets up a clash with the costs of supply chain integrity, with practical tips for concerned companies, e.g. end-to-end encryption and overcoming password flaws.
+Microsoft-Adobe’s amazing partnership: Creating a new category? I’m not as amazeballed by Microsoft and Adobe as Paul Greenberg, but there’s no doubting these moves matter – and no one better to analyze them.
+Five Reasons Why Are We Not Making Progress on Inventory Management – Lora Cecere brings the cold shower to inventory management: “As I drove home, I thought about the audience’s response. The most pain centered on discussion of spreadsheets. Excel is so embedded in supply chain processes that companies struggle to give them up. The other area of heated discussion was on data cleanliness. Planning master data–lead times, cycles, yields–are often inaccurate. Paying attention to planning master data is an opportunity for most.”
+The future of customer service needs a new model of operational excellence – Vala Afshar channels the grouchy counter-intuitive trenchant insights of customer service maven Esteban Kolsky. Kolksy’s latest data fleshes out the five “pillars” of customer service greatness. Now all I need is for companies to actually use these in my day to day interactions – instead of sending me another freaking survey. Just wait – they’ll be sending “how was our survey?” Surveys soon.
+RPA is the gateway drug. AI is the drug – Yeah, Phil Fersht of HfS Research has published even better RPA/AI rants than this, but this might be his best headline. Speaking of which, I’m gonna head to the basement of the convention center and score myself some process automation.
+
+Whiffs
+Always tough to narrow to five whiffs amidst the flotsam and buffoonery, but that’s my job this week. Start with this one:
+
+The ultimate Breaking Bad/Whiff/bonehead alert cc @jonerp https://t.co/VGrboE2zgE
+— ???•? ? (@dahowlett) October 7, 2018
+Then, in honor of several Windows whiffs I ran into this week:
+
+.@qmacro this Windows burp live from #LAS is much more subtle than your blue screen of death one, but I still got a huge kick out of it. It was only blocking flight departure times, no biggie 🙂 cc: @dahowlett @fscavo pic.twitter.com/VcRHH33RUB
+— Jon Reed (@jonerp) October 9, 2018
+Let’s not leave out Google Plus’ convoluted PR pretzeltwist shut down this week:
+
+Google Is Shutting Down Google+ After A Bug Exposed Hundreds Of Thousands Of People’s Personal Information https://t.co/uy3KQN2Xbr -> the most obvious tech “coincidence” of the year…
+— Jon Reed (@jonerp) October 10, 2018
+As I told Frank Scavo, I only hope I can export all my Google+ circles – maybe into Skype or Yahoo. Analytics buff Jamie Oswald was on the story… making his 2014 tweet look downright predictive:
+
+@skeohan @tpowlas @BoobBoo @jonerp @mgillet @Sygyzmundovych You guys moving this to Google plus?
+— Jamie Oswald 🐐 (@oswaldxxl) December 16, 2014
+Err, not anymore dude, not anymore. Then, my A-for-honesty award goes to an unsubscribe attempt, which revealed the name of the list I was on: Media Blast.
+
+Email Media Blastoff -> thud pic.twitter.com/YSsqUYkj4X
+— Jon Reed (@jonerp) October 8, 2018
+Yeah, blast away. We’re cleared for liftoff folks – into irrelevance.
+Finally, in kind of an anti-whiff, when you’re in my line of work, you hear from marketers who hear you’re at a show, and you get the “pleeeese stop by our booth” plea moonshot pitch. Well, finally ran into a vendor that got it right: Wiretap.
+
+PR folks everywhere – this is how you score an onsite meeting on a jammed up schedule. Respond with immediacy and relevance. Not the usual “you must come by our booth!” moon shot https://t.co/yT27tOV6qc
+— Jon Reed (@jonerp) October 10, 2018
+No moonshots. Just a timely invite to chat with experts on topics we both care about. Convos in the sun. Cold drinks. Subtle result? Yeah. Until that day you realize relationships are everything. And media blasts are nothing.
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+Image credit - Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Governing identity privacy and securityHits and missesSecurity 

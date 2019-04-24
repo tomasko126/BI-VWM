@@ -1,0 +1,63 @@
+
+Lead story – Fix recruiting bias, tech, and processes – a three part call to action by Brian Sommer
+
+It took a three-part series for Brian to get all the recruiting wood chips off his petulant indignant well-traveled shoulders. I get why Sommer is miffed. Here we are with another big HR tech week in Vegas, yet all the whizbang recruiting tech isn’t getting diverse talent hired. In many cases, it’s compounding the problem. As Sommer writes in Fixing the recruiting process mess – Part 3, getting from zero to one:
+Too much of the available recruiting technology is focused on the wrong outcomes. Instead of finding the best candidates, we have software that matches an incomplete set of keywords to a resumé. Instead of solving for the war for talent, technology is overloading error-prone recruiting funnel with more resumés than are needed.
+Part one takes aim at the rudimentary excuse for intelligent automation we call ATS systems: If you fix just one process in HR, make it recruiting – Part 1 the dumb ATS. Brian put his own resumé through actual ATS testing. And no, he didn’t get any call backs:
+This ATS program also borked all my employment history. It even objected to an accomplishment of mine (i.e., where I testified before the Pathways Commission on the future of the accounting profession) as I didn’t list any monetary deliverables from that ‘employment’… The machine learning rules in these tools must be in a black box that only the HR vendor can manipulate as I’ve yet to hear of any corporate user making their ATS smarter.
+I once got my spurs through the gut-crunch cold calls of building a recruiting practice, so I read part two with particular interest: Fixing the recruiting process – Part 2, the recruiter bias problem. On the violation of excluding older workers and women from certain positions, Brian writes:
+Why do people have to lie or mislead to get a job interview? The fact that they do this proves the recruiting game is rigged.
+Brian warned us of a “rough ride” in part two – and yes, we are a bit saddle sore by the end. So in part three, he pushes for solutions, including ideas for a better ATS, dealing with bias, and how to rethink the recruiting process. For my part, I don’t see much techno-improvement in recruiting since the Internet freed up job seekers to apply for more positions directly – back in the Windows 95 heyday of the ’90s.
+I wonder whether Brian saw anything at HR Tech that will finally lift us from the trough of HR disillusionment into the hammock of enlightenment. Stay tuned…
+Diginomica picks – my top three stories on diginomica this week
+
+Lands End goes over the cliff as omni-channel progress remains sluggish – Stuart couldn’t resist (pun)ishing us with his title, then we move into his take on why Lands End is waterlogged. It’s a “a work-in-progress and that progress isn’t moving very fast.” Oh boy. I look forward to getting a closer look at what’s working for retailers (and what’s not) at Shop.org later this week.
+Engagement, functions, resources – a connected digital enterprise architecture – Phil breaks out the misconceptions and advancement around serverless, “headless apps,” next-gen platforms and more.
+It’s a mad, mad, mad IoT world – protecting America’s power grid from common household appliances – Jerry wants to save us from our smart fridges. That means a major security infrastructure overhaul. BlackIot botnet attacks? Yikes!
+
+Vendor analysis, diginomica style. Here’s my top choices from our vendor coverage:
+
+Apttus IPO dream ends in private equity buyout by Thoma Bravo – Phil looks at yet another twist in an enterprise summer that was surprisingly full of bloggers cutting their vacations short to make sense of the absurdity drama: “It’s always a big moment when an enterprise software business parts ways with its founding CEO, but Krappe leaves the company with a well-defined vision for its future. And the discipline that Thoma Bravo brings may well be exactly what Apttus needs for the next phase in its journey.”
+TibcoNow – building an edge innovation playground – Understanding the Tibco morph takes some perspicacity, and Martin’s the man for the job: “This year’s conference sees Tibco continuing to beaver away at filling in the services needed to bring the network edges and core services of the enterprise into a virtual `whole’, and this is increasingly important as the potential for `dismembering’ enterprise data centers and putting the resources around the network where the work is done continues to grow.“
+Where next for Atlassian’s HipChat and Stride customers? – The Slack-Atlassian agreement left Altassian team messaging customers in a tricky/unenviable spot. Jess presses the questions: “Atlassian co-CEO Mike Cannon-Brookes has apologised for the disruption for customers that closing down HipChat and Stride will inflict, but there’s still little clarity on migration paths.”
+Tech careers are earned on the job – Apple, IBM, and Google’s degree requirement change was long overdue – Zoho’s views and practices of hiring out of high school factor into my catharsis critique of degrees as a brute force screening tool for tech-related roles
+
+A few more vendor picks, without the quips:
+
+Meltwater pivots to let data scientists loose on the world’s biggest business dataset – Phil
+Where to for ThoughtSpot under new leadership? – Martin
+How Medivis plans to use augmented reality and AI to change medicine – Jon
+
+Jon’s grab bag – Got some fun stuff here for content mavens and enterprise marketers, including the long-form vs. short-form thing: Digital media disruptions 23 – audience metrics that matter, and the content brevity debate. Den riffs on Brian’s recruiting opus and takes it broader in Are we prepared to solve for algorithmic bias? One keeper: “On the bias of past wins, I tend to the view that success makes us blind.”
+Den wasn’t done: he decided to write about his favorite sport in all the world, American football corporate activism as a (problematic) commercial endeavor in Weekend musing – is Nike a corporate activist? Finally, if you’d like to chuckle your way a bit further into my satirical rabbit hole, check my How to make sure your customer panel is boring and forgettable again this year.
+Best of the rest
+ No lead pick this week, get busy bloggin’ people! Standout pieces:
+
+Products are Conversations – Ross Mayfield has a wake up call for us:
+We’ve lost our way in Product Management.
+He puts product development through a blender of external collaboration:
+The clueful will recall that Markets are Conversations. Customers are empowered and authentic voice cuts through all the noise in today’s marketplace. Your customers want to talk with you, the PM. They want to be heard and want you to understand their needs. It’s your job not to let things get in the way of these conversations, and figure out how to have them at scale.
+Next standout – Another strong piece from UpperEdge, this one from Dave Blake on The High Cost of Anxiety in (Contract) Negotiations. After running down vendor negotiation practices like building “massive complexity” into pricing and “making every offer a special offer,” Blake warns:
+These moves make it very difficult for buyers to validate true discounts. And the overall lack of transparency leads many clients to feel negotiation is something vendors “do to them,” as opposed to a dialogue between equals or a collaboration seeking mutually beneficial agreements.
+To avoid this fate, Blake advises customers to become better advocates across the negotiating table. My faves from his tips: “Get current and objective intelligence.” Most analyst advice has a short shelf life:
+Beware of canned analyst reports from last year or the year before. Your background briefing document must be as current as possible and supported by timely and detailed analysis.
+I’m a huge believer in independent advisors on enterprise projects. But that stems from an underlying notion that customers must also become their own advocates. Articles like this help.
+Honorable mention 
+
+Tragedy of the Commons Clause – RedMonk’s Stephen O’Grady tackles an open source commercialization issue with a lot of sticky wickets that only an open sourcy expert like him could unstick for us.
+Google Needs To Make Machine Learning Their Growth Fuel – Plenty of data nuggets in Louis Columbus’ review of Google’s all-in AI pursuits, but this one jumped out: “Google’s M&A strategy is concentrating on strengthening their cloud business to better compete against Amazon AWS and Microsoft Azure.”
+Improving skill-development programs to address the challenges of automation – Walmart isn’t really my “future of work” role model, but this transparent Q/A from McKinsey reminds me not to bucket companies too rigidly.
+How Multicloud Will Transform the Future of Enterprise IT – Over on The New Stack, demystifying the multicloud. It’s a word I hate but a concept I believe in. Conundrum.
+How WhatsApp Destroyed A Village – Yes, a typically dramatic Buzzfeed headline, but the harrowing story of WhatsApp in India is one of the most potent tech stories of the year in terms of lessons we must learn.
+
+Whiffs
+Science struggles to predict hurricanes, moreso earthquakes, and Mars colonization remains a pipedream, but we have solved this: Science Has Resolved the Question of Boxers vs. Briefs. So long tighty whities…
+Not sure why peeps are worked up about British Airways Travelers’ Credit Card Details Hacked. Most hackers are pretty sensible about respecting your credit card spending limit.
+Understated headline award goes to: YouTube ads are about to get a little less skippable. I think you meant: “YouTube ads about to suck even more while flaunting every accepted notion of personalization.” Bonus: see two Google employees selling their souls live while they rationalize this abomination disguised as a decaying business model.
+Dork email subject header of the week, via Acronis:
+How cool is AI protection?
+Gee, I’m sure it’s life-changing. Though last I checked, hackers were pretty good at using their AI to thwart your AI. But sure, your AI is foolproof, “total protection.” Anyhow, congrats Acronis. I’ve never rooted for anyone to get hacked, and, just to be clear, I’m not now either – but I’m finally tempted.
+So Bloomberg opted for this headline: Tesla Erupts in Chaos After Senior Execs Leave, Musk Smokes Weed. Dig deeper and you figure out part of the chaos is an HR exec who decided not to come back after a leave of absence. Yeah, that’s a real shocker for you. And it’s news that Musk is smoking the pipe? Given his antics of late, it would be bigger news if Musk was clean and sober. Tesla’s stock price has been on a steady dive since early August. The day after the so-called chaotic eruption, the stock started to climb a bit. Yeah, pure chaos.
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: HCM and the digital future of workHits and missesProfessional servicesTalent managementThe new professional and IT as a service 

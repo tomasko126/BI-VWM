@@ -1,0 +1,75 @@
+
+
+Lead story – Retail content blowout, with analysis from Stuart, Phil, Den and Barb
+
+No shortage of retail speed bumps to consider this week. I chronicled them in my Retail transformation roundup, including Stuart’s series on how Target is triumphing with the storefront-as-hub (Delivering digital growth – how Target’s store-as-hub strategy paid off). Stuart:
+At the heart of all this is the strategic decision to focus on the idea of using stores as hubs. That was a decision taken at a time when other retailers were embarked on Amazon envy fuelled strategies of closing stores and trying to get everything online. Target took a different tack.
+But retail turbulence isn’t kind to all, as Stuart examines in JC Penney CEO – we need to re-establish “the foundations of retail” despite years of digital transformation.
+The issue here is that JC Penney’s “appropriate amount of time” has taken years to get to the current uninspiring state of the nation.
+Ouch. Barb has a different take on personalization in Gated offers – a different approach to personalization that gives consumers control. Winning over consumers carries over to Phil’s piece, Urban Airship CEO on bringing brands to the palm of your hand. Phil:
+One of the reasons brands are investing heavily is that it’s an opt-in channel that gives them a direct connection to the consumer. This ‘first-party’ connection is particularly important at a time when people are becoming increasingly concerned about who’s holding their data and how it’s being used.
+Den brings us full circle with a technogrouchy critique of the excesses of retail consultants in While retail consultants focus on technology are they forgetting the basics? Riffing on Retail Disruptors, a book on the impact of hard discounters like Lidl and Aldi, Den asks:
+Should retailers be so focused on technology innovation or should they look more closely at business model innovation?
+PwC’s Retail Outlook advises a focus on tech investment – you can imagine what Den thinks of that. He advises:
+Retail Disruptors makes a powerful case for retailers having a much better understanding of how the hard disruptor business model works and then figuring out either defensive or aggressive tactics to counter the insurgency.
+Fair enough. But why should those not in the grocery business care?
+Retail grocery-led business is at the bleeding edge of the interplay between consumers, store operators, online and manufacturing. As such it provides a fascinating lens into how these B2B2C markets actually work.
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Salesforce sets target of $28 billion revenue by 2023 as economic confidence holds – $28 billion by 2023? Yep, that’s literally double the current revenues. But Wall Street wanted more than they got, despite another strong quarter. Stuart explains: “Investors are speed freaks and any hint of a forecast that doesn’t feed the need – as Salesforce’s Q1 outlook clearly didn’t – causes pushback.”
+SAP’s restructuring – Hunger Games, Game of Thrones or both? – Den vents contextual spleen on another boring and uncontroversial week at SAP (not).
+MariaDB CEO on the open source enterprise – we can bridge the gap between bare metal and microservices – MariaDB Michael Howard might pride himself on his data geek chops, but he’s not afraid to ruffle industry feathers. Here’s what I learned during a frank sit down in New York.
+
+Jon’s grab bag –  I guess Facebook is weary of its near-weekly appearances in the whiffs section of hits/misses. As Stuart reports in Mark Zuckerberg gets privacy religion, but is it a case of ‘born again’ or cynical pragmatism? Mark Zuckerberg is refashioning himself as a privacy advocate. Yep, we can count Stuart amongst the doubters:
+That’ll be a relief to those cynical enough – hi! – to suggest that this Damascene conversion owes more to the growing threat of regulatory intervention on a national and international scale.
+Stuart isn’t handing out kudos but Zuckerberg gets a wee nod:
+To his (small) credit, Zuckerberg does concede that he’s aware that millions of people are going to be hugely skeptical about this latest development
+Of course, there’s the not-small-question on when and how a platform that thrives on exploiting the very limits of a person’s data on the calculated risk that they are too attached to Facebook to care “openness” will figure out how to create this encrypted, privacy-conscious future.
+Stuart doesn’t think this will be enough to keep regulators at bay. As for Zuckerberg’s tribute to the power of speaking openly and freely:
+Bring a tear to a glass eye, that would. I’m welling up as I write.
+Kurt put privacy in the context of surveillance capitalism in Debating the business of private information. As Kurt argues:
+Facebook and Huawei are merely two of the more visible and egregious examples of alleged data theft and privacy violation as a business practice; they are hardly alone.
+It’s not all dank dystopia; Kurt is encouraged by the backlash that provoked regulatory efforts like GDPR. But he worries about the “devious creativity of companies seeking to exploit weaknesses in any system of IP and data privacy protection.” Those schmuckos always find backdoors and loopholes. Ergo:
+The fight against surveillance capitalism and flagrant data expropriation is likely to be a cat-and-mouse game of action and response for years to come.
+Best of the rest
+ Lead story – 74% Of Data Breaches Start With Privileged Credential Abuse by Louis Columbus
+MyPOV: Louis “zero trust” Columbus adds another proof point to his push against privileged credential abuse:
+Centrify’s survey shows organizations are granting too much trust and privilege, opening themselves up to potential internal and externally-driven breaches initiated with compromised privileged access credentials.
+Get this one:
+18% of healthcare employees are willing to sell confidential data to unauthorized parties for as little as $500 to $1,000, and 24% of employees know of someone who has sold privileged credentials to outsiders, according to a recent Accenture survey.
+Yikes. But that’s where zero trust security approaches come in:
+One of the most promising approaches to securing every privileged identity and threat space within and outside an organization is Zero Trust Privilege (ZTP). ZTP enables an organizations’ IT team to grant least privilege access based on verifying who is requesting access, the context of the request, and the risk of the access environment.
+Meantime, the gap between companies doing security right and wrong is widening. The most disconcerting part? Columbus found the reason companies aren’t investing in zero trust security isn’t about prioritization or difficulty – it’s about budget constraints and executive buy-in. Given the unfathomable cost of a successful attack, this seems to be one of the nuttier examples of misplaced budget priorities in all of IT.
+Other standouts
+
+
+The Most Frustrating Things for B2B Buyers – Gartner’s Hank Barnes brings tough lovin’ for vendors that make life hard on their own prospects: “Let’s say a buyer visits your site and wants to look at a case study. If you force a registration, they are worried about too much outreach and getting pushed to buy. So they don’t register. Then they say they find it difficult to find specific information.”
+A Hazardous Waste: An Overview of ICL’s Failed SAP Implementation – Transformation projects go wrong all the time – but not this wrong. UpperEdge’s John Belden learns from an epic: “Ending before any major implementation began, the program ultimately resulted in a write-off of $290M in project costs, the resignation of the CEO, and a freshly minted lawsuit against IBM filed in an Israeli district court.” Yowza! Functionality gaps, testing fails, business model overhauls – this one all the ingredients of an alarming failure stew.
+Control Towers: If Only There Was A Clear Definition – Lora Cecere gets into the definition of supply chain control towers. She also goes off on groupthink.
+HoloLens, the US Department of Defense, and the Enterprise: How the Future of War Defines the Future of the Enterprise – Josh Greenbaum takes on a sometimes-taboo topic: the integral role of the U.S. military in vetting future broad-use technologies. “Again, you may not like it, but the highlights of where IVAS wants to go with military uses of HoloLens are worth taking a look at. “
+
+Honorable mention
+
+How Edge Computing Will Deliver on the Promise of 5G – The New Stack explains why the demands of edge computing will bring 5G into consumer reality.
+5 Commercial Terms to Address in Workday Negotiations – UpperEdge with another installment in its essential contract negotiations series.
+Gen Z willing to provide their personal data for more personalized experiences – Gen Z’s digital expectations are more intense than previous generations. Here’s some data on what that means for brands.
+
+Whiffs
+So if you’re impersonating a DEA agent, it seems like the one thing you definitely don’t want to do is to attempt to arrest a real federal agent. It was a big week for bonehead alerts:
+
+Darwin Award candidate (failed) #boneheadalert https://t.co/LDXzBXd5Lj
+— ⒹⒺⓃ•Ⓗ ㋡ (@dahowlett) March 8, 2019
+
+Another doozy for the travel-files:
+
+TSA finds military rocket-propelled grenade launcher in Florida man's luggage https://t.co/mBX0XJyi8o
+-> man, TSA needs to loosen up 🙂   
+yep, #boneheadalert cc: @fscavo
+— Jon Reed (@jonerp) March 5, 2019
+
+After a long day on the road, nothing lifts this spirits like Windows 10 taking an entire airport monitor down:
+
+Facebook managed to stay out of the whiffs section for two weeks (kind of), but couldn’t pull off three. This week I learned from a new article – though it’s older news – that Facebook pushes targeted ads based on your phone number. No surprises there. But it does the same for phone numbers that are only provided for two factor identification. That my friends is some creeptastic creepola, even for the creepmasters.
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, King Checkmate © mystock88photo - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Data privacyHits and missesRetail e-commerce and the omni-channelSecuritySocial 

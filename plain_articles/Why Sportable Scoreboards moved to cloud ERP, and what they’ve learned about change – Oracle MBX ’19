@@ -1,0 +1,43 @@
+
+“Wait – you’re an Oracle Applications customer?” It’s a reasonable question when you’re sitting across from three members of Sportable Scoreboards, a sixty employee company based in Kentucky.
+We are on the very smallest end of the customer base. Absolutely.
+Micah Suggs, Business Systems Manager at Sportable Scorecards, cheerfully acknowledges it. Eighteen months after go-live, the Sportable Scorecards team has an interesting story to tell. But first, a bit about the scoreboard industry. I had to ask:
+Isn’t it tough times for scoreboard-makers, given the way sports fans are glued to their smart phones for scores and stats?
+Not for Sportable Scoreboards. They succeed by balancing two approaches: changing with the technology, and focusing on where they excel. On the technology side, Sportable Scoreboards is aggressive: they were the first company to roll out LED scoreboards.
+Scoreboards are changing, but they aren’t going away
+Scoreboards might be getting fancier by the year – video capabilities come to mind – but they aren’t going anywhere. Even if fans are distracted by mobile phones, players need that scoreboard. One classic example? Basketball players, who must have a clear line of sight on that shot clock.
+But as the Sportable Scoreboard team told me at the Oracle MBX and CX show, their true differentiator is the connection they’ve built with their customer base. They focus on the youth sporting market – including scoreboards for Little League fields and high school stadiums. Suggs:
+Our mission gets doubled down on in the digital era, because our newer products are video boards. They are LED displays that are full matrix video, so we can show the score on that product, but we can also cut over to a camera that’s got the kids sitting on the bench, or on a fan cam.
+Sports fans are used to those fan cams now – it’s a standard feature at pro ball games. Now, Sportable Scoreboards can bring that to high school scoreboards. Suggs:
+We can show Mom and Dad cheering when so-and-so hits a shot. We’re trying to bring that professional experience down in cost and complexity. Obviously a high school team is not going to have a ten person production crew that’s cutting away to all these different cameras and broadcasting.
+Speaking of the big screen, Oracle featured a nifty video about Sportable Scoreboards in the day one Oracle CX keynote. That video spoke to the importance of corporate culture and mission. For the Sportable Scoreboards team, their job is much more than just building scoreboards. As their President and CEO Mike Daniel told me:
+Micah used the words “a box with lights on it.” Do we manufacture boxes with lights? Many days yes, I suppose that’s what we do. That’s not what we should aspire to do. We impact the lives of young people who are competing, 99.9% of which will never compete above a high school level.
+And if they ever lose track of why that matters, their customers remind them with pictures:
+We have the opportunity to be part of that. I reference in the video, and it’s a real thing, once a week we get a picture of a photo of the team that poses in front of their scoreboard for a team picture.
+Modern ERP – “We invested in the future of the company”
+So how does Oracle enter this story? Daniel says it’s about turning the corner from legacy systems:
+We’re a thirty-something-year-old company, privately held. The move into Oracle is very much of an infrastructure building for future growth. We had all these ancillary systems that didn’t talk to each other, and so we invested in the future of the company by taking the Oracle plunge.
+But Oracle didn’t just waltz in; Sportable Scoreboards put their prospective ERP vendors through their paces. “We went on a shopping spree,” jokes Suggs. After the demos, they surveyed the entire company to ask them which vendors they liked better – or not. In the end, Oracle’s full stack capabilities won out. Integrated cloud applications were a factor:
+Integrations were the second thing. We have a very limited IT staff, and so having to program all these customized integrations between platforms is just not on the table for us.
+Too often, vendors forget that they are judged by how they conduct themselves during the sales process. That was certainly the case here. Daniel:
+The way that Oracle approached us, where we’re in the situation where we’re the customer, it was night and day better than their competition.
+Reflecting on go-live – results and challenges
+Now 18 months after go-live, it’s a good time for a benefits gut check. But first: which products did they take live? “Everything except for HR,” jokes Daniel. Sportable Scoreboards is running the Oracle Fusion Engagement Cloud, Fusion ERP, Fusion Planning Central, and Oracle BigMachines CPQ cloud. They run all their manufacturing on Oracle as well.
+So how has life changed after go-live? “It’s been really busy,” says Suggs. “It’s been hectic,” Daniel agrees. Suggs adds:
+It took us a long time to get back to normal. It really did. I think we’re there; I think we’re normal – plus better reporting as well.
+Daniel acknowledged that the change has pushed them:
+Reporting is an immediate win that we’ve seen… We’d be dishonest if we didn’t say it’s been a tough road. It’s naïve to think that it wouldn’t be. We’ve already seen some wins, and we have what we believe to be many more wins out on the horizon.
+But like most modern ERP projects these days, this isn’t just about internal efficiency. As Janson James, Director of Administration told me, customer needs are front-and-center:
+We’re seeking to get closer to our customers right now. From a technical standpoint, we’re recording more data about our customers than we ever have. We’re putting in greater efforts to keep that database clean and up to date. We’re doing more automated communication with our customers than we ever have.
+From a sales or service perspective, it’s easier for our customer-facing representatives to get to the correct customer quickly and understand what products and services that customer has purchased in the past.
+Getting rid of paper-based parts of these processes looks like a win:
+All of that, all the information that’s necessary from the sales team gets passed back to production automatically for that process of configuring the product itself. There was just a lot of little bits and pieces like that, that before were being handled with paper outside the system, or somebody doing it twice or whatever. All that stuff is automated now, or a lot of that stuff is automated. When a customer fills out a form on our web page, the quote request get put in the CRM automatically.
+After Suggs told me that, the other guys chimed in that some of what Suggs described is “aspirational.” The missing pieces aren’t really technical, but change management. As we’ve all learned, even better software and better processes face resistance at times.
+“We’re working through some challenges on that, but we’ll get there,” says Suggs. We talked about how a move to modern ERP does put pressure on teams to show smaller wins along the way, because the bigger business model changes and growth potential of such platforms take time to play out. Daniel says they’ve talked about that, pulling together enough smaller wins to keep the momentum going.
+The wrap – moving to frictionless processes
+“Change management is a real thing,” says James. But he’s optimistic on what the new Oracle stack can do for them. James wants to reduce the friction of “labor-intensive processes”:
+One of the things that I hope to see happen one day is for a customer to order a configured product off of our website, and for nobody to even find out about it until it hits the shipment dock.
+Yes, change is hard, but the alternative is falling behind.
+I feel like we could’ve just been very complacent and comfortable right where we were at. Micah joked about putting a potato in the closet and running just some cheap open source ERP or CRM out of the closet. I think it was a viable option, but if you really want to be serious about following the change of the market, we decided we had to change our company fundamentally.
+So far, so good, but we’ll have to keep tallying the score on this one.
+Image credit - Sportable Scoreboards scoreboard image from the Sportable Scoreboards web site.Disclosure - Oracle paid the bulk of my expense to attend Oracle MCX and MBX 2019. Oracle is a diginomica premier partner. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureDigital enterprise in the real worldFinancials 

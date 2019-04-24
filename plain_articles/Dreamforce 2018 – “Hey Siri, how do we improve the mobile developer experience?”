@@ -1,0 +1,29 @@
+
+“Hey Siri! How do we steal some thunder from Microsoft and its Ignite conference?”
+“By announcing a tie-up with Apple around mobile on the eve of your own Dreamforce conference and watching your share price hit an all-time high on Wall Street.”
+That’s pretty much what happened when Salesforce and Apple chose ‘Dreamforce-eve’ to announce a new relationship that will bring the worlds of Siri and enterprise business apps closer together. Salesforce Chief Marketing Officer Stephanie Buscemi explained:
+Within the Fourth Industrial Revolution the pace of technology innovation is faster than ever and what that means is that we need to give new skills to empower people out there to build applications. Our goal around this partnership is to empower developers to build amazing mobile experiences…coming together as two amazing platforms. The first, Salesforce, the number one CRM platform; the second, Apple, out there as the leading iOS mobile platform.
+Specifically:
+
+Apple will work with Salesforce on a mobile app redesign built around iPhone-specific features, including Siri integration, Face ID, and iMessage Business Chat. Buscemi said:
+
+We are enhancing our Salesforce mobile app. We are optimising that app for Xcode and for Apple’s programming language Swift.
+
+A push to get Salesforce developers producing enterprise apps for iPhone and iPad to target vertical industries with a new Salesforce Mobile SDK for iOS. Buscemi said:
+
+We’re delivering and optimising a new SDK, so that we’re making it easier for all those developers out there to build these iOS mobile apps with Salesforce.
+
+An Apple-developed course Salesforce’s Trailhead education and training platform, focused on building native iOS apps in Xcode with Swift. Buscemi explained:
+
+Apple has partnered with us to build Trails out there on Trailhead so that Apple developers can learn all these new iOS capabilities in iOS 12. The Trailhead developer community is about 5 million right now, the iOS developer community is about 20 million, We’re going after both of those communities together and making it possible for them to deliver amazing mobile experiences.
+What about Android?
+Bret Taylor, Salesforce Chief Product Officer, was quick to add that the closer ties to Apple’s iOS isn’t indicative of a withdrawal from development for Android:
+Our ambition for our mobile strategy is to make Salesforce available on every device, without qualification. What this [announcement] means is we’re going to try to build really amazing experiences for iOS and take advantage of iOS-specific features that can make the Salesforce experience better. A great example of this that is relevant this week, because iOS 12 was released this week, is Siri Shortcuts. We’ve been working with Apple to make sure that our application isn’t just an app, but also takes advantage of all those iOS-specific features to build next generation experiences.
+We also want to build in our iOS SDK great integration between the CRM platform and the iOS platform. Mobile is really driving the consumer experiences. I just bought a couch recently and I used an AR (Augmented Reality) program on my iPhone to see what the couch would look like in my living room…At the end of the day, this is the intersection of customer experience with these amazing mobile technologies. We’re seeing this time and time again. This is where consumers are driving companies to go. We want to make sure our SDK provides the best way to integrate CRM products, customer service or commerce, with these amazing new mobile technologies.
+As for the focus on Trailhead, Taylor said:
+This is something that’s been really important to Apple and Salesforce. We’re making sure that we’re not just providing SDKs for existing developers, but also helping people become more adept at technology. One of the amazing stats about Trailhead is that one in four people who participate in Trailhead has gotten a better job on the other side of that. This is really about job creation. By putting this content on Trailhead, we’re hoping we can enable people to skill-up and get better jobs. What better way than the Salesforce platform and the iOS platform, that represent this amazing mobile platform and this amazing customer platform. There’s so much demand for those jobs on the other side.
+My take
+A big deal the day before the main Dreamforce keynote, one that was big enough for the CEOs (or co-CEOs) of both companies to take to Twitter to push it.
+
+There will be more to come later today during Marc Benioff’s keynote which will feature Marriott Hotels which is set to put Apple HomePods in hotel rooms and use Siri to remember guest preferences from previous interactions with the Salesforce/Apple system.
+Image credit - Apple Salesforce Disclosure - At time of writing, Salesforce is a premier partner of diginomica. Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceDigital skills and trainingMobileProductivityUX and application design 

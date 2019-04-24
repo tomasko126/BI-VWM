@@ -1,0 +1,91 @@
+
+Each year, Stuart assigns us the gruesome enlightening task of combing through an entire year of articles. Here’s my year in review – hard-boiled into ten standout themes.
+(1) AI gets practical – and that’s what counts
+“Deep learning” as a phrase doesn’t hold much interest to me. But applying machine learning to industry problems catches my eye – especially when public welfare is at stake.
+Why? “AI” was the dominant tech theme at nearly every enterprise event in 2018. Yes, I like to puncture AI hype balloons. And the debate over AI terminology also matters. The ethics discussion must be rigorous. But it’s the use cases that really matter. Even though AI tech is still immature, it’s now a legit part of the toolbox.
+
+How The Climate Corporation uses deep learning as a tool for sustainable agriculture
+“Don’t do an ML science experiment” – Mike Salvino on machine learning misconceptions
+Robotic process automation practitioners share sixteen hard-won lessons
+How Automated Insights uses Natural Language Generation to boost our grasp of data
+
+(2) Funding IT from within – next gen apps come into focus
+We’re entering a heady new phase in next-gen applications, where portable/cleansed data and portable apps (via containers and orchestration a la Docker and Kubernetes) allows IT shops to avoid futile fundraising by moving from (expensive) legacy IT to cost-effective, modern infrastructures…
+Digital transformation isn’t happening without better/cleaner/faster data. And without data portability, cloud is just a new flavor of lock-in.
+
+Why? Okay, that first quote is a mouthful – but it was a big moment. A flurry of spring shows and interviews (Talend, Docker, Couchbase, to name a few) brought a new way to fund digital projects to light. Granted it requires some IT sophistication, but you can start small and build – no legacy systems overhaul required.
+
+Can IT finally deliver innovation without busting its own budget? Docker’s CEO says yes
+How TD Bank avoided data swamps and built their digital engine with Talend
+Couchbase CEO Matt Cain – IT must innovate even when budgets are flat
+How BD Digital Health built a smart diabetes app on their own platform with Couchbase
+
+(3) The best-of-breed enterprise returns, with a cloud twist
+If users don’t adopt what you roll out, you can bet they’ve adopted something else via their phones. Something that might not scale, or protect corporate data adequately.
+And, as Yuan says, the key to adoption is best-of-breed software: “If you have a best-of-breed service, adoption is not an issue. If you don’t have that, you always suffer from lack of adoption.”
+Why? Some companies don’t have the tech resources for the build-from-within option above. Others are growing too fast. Another option gaining steam: the return of the best-of-breed enterprise, but this time in the cloud, with limited internal IT.  The new best-of-breed is bolstered by APIs, (micro)services, and a better approach to integration. This puts a new pressure on vendors: adoption is product by product, not “cloud suite lock in”.
+
+Zoom CEO on the new wave of collaboration – customers want best-of-breed, with no weak links
+How Tilray is pushing to scale with the cannabis market – and Acumatica SaaS ERP (includes customer views on best-of-breed integration, and why it’s different this time around).
+
+(4) Exposing the customer experience farce
+Brute force algorithmic automation undermines the customer experience… Despite all the breathless proclamations of customer experience gurus that the “customer is in charge,” in many industries, there is still plenty of lock-in.
+Why? Yes, I have a chip on my shoulder about the idealization of the customer experience. I invested editorial time to expose customer experience lip service and undermine the CX buzzword. I welcome the debate, but CX advocates have a lot to answer for, like the abysmal airline industry and disgruntled retail employees. Poorly treated/underpaid employees are a problem most CX advocates haven’t accounted for.
+
+Algorithms are undermining the customer experience, and (most) companies don’t care
+Retailers are finally catching on to employee experience – but there’s a knowledge gap ahead
+Why customer experience is so elusive, and AI is even trickier – a chat with the implausible Esteban Kolsky
+
+(5) The enterprise event survival guide
+It takes skill and determination to make a customer panel truly boring. But if you follow these seventeen tips, you too can roll out a truly yawn-inducing panel. After the satire is over, I reveal the keys to avoiding this fate.
+Why? I made big strides this year on my enterprise event survival guide, a semi-satirical howl into the wind guide to making enterprise events all they could be. I’ll keep adding to it until we have the whole shebang covered.
+
+How to make sure your customer panel is boring and forgettable again this year
+How to screw up a vendor analyst day – in 12 simple steps
+How do we design a better enterprise event? Two customers weigh in
+
+(6) B2B Buyers are changing – we are all publishers now
+Break down the marketing wall – don’t just market to the community, become a part of the community. Earn your place in the buyers’ trust network – through topic authority and freely shared content.
+Why? Breaking through the noise and reaching B2B buyers (and their networks) remains a topical obsession. This year, I had some conceptual advances in my informed buyer series. I put that to the test with a live audience.
+
+B2B Buyers are changing – answering the top audience questions
+Is targeting B2B buyers on social channels effective? Readers debate
+The dynamics of winning attention in the B2B marketplace – a primer
+
+(7) Defining the cloud ERP benefits stages – and the problem of achieving them
+Call it digital transformation or business model evolution; call it self-disruption or agility. Those customers getting the most out of cloud ERP are doing much more than moving off legacy systems.
+Why? Across tarmacs and use case interviews, I identified a pattern of achievable cloud ERP benefits. Defining those benefit stages was a worthy challenge. But it comes with this monster caveat: the advanced benefits most important to the business are rarely achieved at go-live. Often, they aren’t achieved at all – not without a fierce commitment to transformation by the customer, vendor, and consulting partner. The discussion on how to get there – and avoid the pitfalls – carries on.
+
+Cloud ERP isn’t a handshake deal – it’s a value extraction challenge. Here are the stages.
+Cloud ERP success requires more than a go-live – the debate continues
+What are the top five cloud ERP benefits? A use case review
+
+(8) Overcoming the AI and digital skills gap
+When Vijayasankar told me he’d love to hire more data scientists from the U.S., but he couldn’t find enough with the right skills, that bothered me. It violated my belief that the talent is out there. I know that Vijayasankar is also passionate about extending opportunities beyond ivory towers. If he is running into issues here, we’d best pay attention.
+Why? My video debate with Vijay Vijayasankar brought the issue of AI skills to a head. I still believe that sourcing diverse and non-traditional talent pools is the key to addressing the digital skills gap (Sapphire Now 2018 – bridging the tech divide by getting youth the digital skills they need). Not to mention getting a better project result and alleviating the digital divide.
+
+Overcoming the AI, ML and data science skills gap – hashing it out with Vijay Vijayasankar
+The digital skills imperative – RPA and services leaders weigh in
+McKinsey – the digital skills gap will get worse as cognitive automation intensifies
+
+(9) Retailers push the next-gen envelope
+The increased conversion rate doesn’t surprise me. If we deliver relevant things to consumers and adjust in real-time to their needs, they’re going to buy more.
+Why? I don’t know of a single retailer – including Amazon – that provides a fluid experience for customers across channels that doesn’t break at the point of greatest stress (e.g. a problematic return scenario, or call center flameout). Still, the examples of personalization getting results were encouraging. I hope to flesh these out at the NRF “Big Show” in January.
+
+How are retailers winning? Stats and reflections from Shop.org
+Retail and AI in 2018 – can Reflektion help solve retail’s personalization challenges?
+My NRF2018 retail demo awards roundup – from annoyingly smart fridges to self-powered pop-up shops
+
+(10) Long live the satirical enterprise
+Companies work hard to earn the distinction of “worst customer service you received this year.” It’s only fair they get their just reward. Here’s mine – complete with illustrations of services not rendered.
+Why? Satire remains my favorite way to undermine that which needs to be undermined. I do this weekly in Enterprise Hits and Misses, where I sneak in some pure, unadulterated snark strikethroughs and roundup the highs and lows.
+Sometimes I’ll air out a special feature, like my pungent annual collaboration with Brian Sommer, our yearly un-predictions. I’m scared to see how many come true.
+
+Enterprise hits and misses – handing out this year’s cheeky blogger awards
+Enterprise hits and misses – Marriott stinks, Quora is questionable, and the omni-channel is elusive
+The illustrated 2018 customer service fail awards
+
+Weird. I managed to get through this whole article without mentioning my two favorite pieces of the year, Klout throws in the towel on whatever they were trying to accomplish – long live GDPR! and 4 ways to thrive in the robotic age without losing your humanity – an HfS FORA keynote review.
+As I compare to previous years, I see some improvements (a boatload of customer stories, for one, as well as some exclusive vendor analysis). But I need to beef up the security side of my coverage again. And yeah – I’ll write about blockchain again. When and if there is something truly useful to say.
+There are more sacred cows to take out to pasture in 2019, with your help. See you in the new year.
+Image credit - Image credit - Freeimages.com/Julie Elliot-AbbshireDisclosure - SAP and Acumatica are diginomica premier partners. I could not possibly cover all partner and non-partner use cases in this piece, so I didn't even try. A big thank you goes out to all the vendors that put me in front of their customers. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureCRM and customer experienceDigital enterprise in the real worldHits and missesMachine intelligence and AIRetail e-commerce and the omni-channel 

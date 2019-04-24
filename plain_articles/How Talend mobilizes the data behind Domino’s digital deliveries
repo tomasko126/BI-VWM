@@ -1,0 +1,48 @@
+
+Over the years, diginomica has devoted considerable editorial to Domino’s aggressive digital push. Such as:
+
+Digital continues to deliver for Domino’s Pizza – Derek (Oct 2016)
+The Internet of Pizza – just the latest digital topping for Domino’s – Stuart (May 2017)
+Domino’s CEO’s parting shot – we’re going to be 100% digital – Stuart (April 2018)
+Why Domino’s Pizza keeps on top of what the competition is up to in digital – Gary (October 2018)
+
+It’s a history worth digging into, but for starters, consider these milestones from Stuart’s April update:
+
+With 60% of orders now placed digitally, Domino’s Pizza’s outgoing CEO predicted a 100% digital business is within sights.
+April 2018 marked the rollout of the firm’s Hotspots initiative. This involves creating 200,000 new delivery locations in spaces that don’t have traditional addresses, such as a beach or a park.
+Another big initiative underway is to take voice ordering to a new level. Customers can already use Amazon’s Alexa to place orders. The next step is to extend this capability via “DOM”, Domino’s own virtual assistant.
+Then there is the marketing coup dubbed the Paving for Pizza program, where Domino’s handed over cash to American municipalities. The cities arranged for workers to repair cracks and potholes, and a Domino’s logo was spray-painted (with temporary paint) to mark the spiffed up spots. Customers can nominate their towns for consideration – I’m going to nominate my pothole-challenged town as well.
+
+You can’t change CX on a legacy data structure
+But: you can’t change the customer experience on a legacy data structure. I’ve written on how data portability advances your cause in a so-called “serverless” world (Talend CEO – IT must get unstuck from a legacy cycle to turn data into a business asset). So when I had the chance to interview Domino’s on their use of Talend, I grabbed it.
+Soon I was talking to Dan Djuric, Domino’s VP of Global Infrastructure and Enterprise Information Management. Djuric’s runs the Domino’s Cloud hosting operations, as well as the data information management practice. Djuric told me that Domino’s jugular approach to digital is working out:
+Our journey that started many years ago with regards to our digital transformation has really paid off. We’ve been able to not only supersede our expectations, in terms of where we are from a worldwide perspective, but our business has changed. Our direct-to-consumer market is very prevalent. Our ability to understand how the consumer interacts with us has also been one of the key pivotal changes that we’ve seen our business go through.
+Attention to data is a big piece of the puzzle:
+We have 15,360 stores in the world. We have a responsibility to capture all that information amongst our point of sales systems, through our online ordering platforms, as well as any of the applications that are integrated within our online ordering platform. Capturing those events and understanding how our consumers are interacting with us has driven us to be able to understand how to cater and surgically entice consumers from a marketing campaign standpoint.
+So what would be an example of turning data back around to serve customers better? Just because your point of sale systems process plenty of customer data doesn’t mean the customer experience will improve by default. Djuric:
+For one, dynamic personalization. We truly understand how our consumers are interacting with us. What they like; what they don’t like. That means a cross-sell or up-sell of some of our products that they haven’t tried before. We can entice them with regards to things that are new from a product standpoint, and give them some coupons associated to trying that out – and then measure their experience along the way.
+We can tailor to demographics to the type of service and the type of product that some areas are looking for. We’ve really been able to hone in on, through customer analytics, how to segment our business and then cater to those segments.
+“Talend is our data mobilization platform”
+So how does Talend fit into this picture?
+Talend is our data mobilization platform. Period. We’ve heavily integrated Talend and its capabilities to meet all of our data at the front door. The best analogy I can give you is: any drive-up car wash you’re going to, Talend is the chain that’s guiding the data, or the vehicle in this analogy, through that process.
+Talend is a “one stop shop” for moving data:
+As data comes in, we standardize our data leveraging the Talend product. We add intellectual property and enhancement enrichment data to it. We then structure the information and then deliver it down to our core products. We have a one-stop shop when it comes to moving data within our organization – that’s really where the Talend product shines for us.
+So what was it like before Talend? Did they have issues getting data in the right form and moving it to the right place?
+We did. We had three different products that we were leveraging in-house. We had a competitor’s product, and we had our own homegrown way.
+Standardizing on Talend made the difference:
+We were able to omit the other ways of managing data and standardize on one. That’s been a big benefit to a large part of the rest of the downstream of campaign and marketing platforms.
+So would it be fair to say that Talend has helped Djuric’s team to establish a single source of data truth?
+That is true. Talend is our data-in component. It’s our data lineage component. It’s also the component that we leverage to build out the single source of truth associated to our data.
+The wrap – pursuing a 360 degree view of the customer
+One thing that has troubled me about digital initiatives is that the so-called “360 degree view of the customer” is often promised, but rarely delivered. You might have a great experience making a reservation on a hotel’s mobile app, but a clueless experience during check-in, and so on. So I asked Djuric: what’s his assessment of Domino’s progress towards that 360 view?
+I actually feel like we’ve made huge progress there. Prior to our overall data strategy and the changes we’ve endured the past couple years, a big part of what we were able to do is across our point-of-sale system, across our digital platforms and then across any third party sites.
+He cited Facebook as an example:
+Any Facebook ordering, or any campaign ordering or any micro-sites we use with some of our partners in marketing, I’m able to look across our entire data landscape and pull all of that customer information together, and then harness the power of that to be able to tell a story from a campaign marketing standpoint.
+At this point, all of our customer attributes ride the Talend data integration modules to be able to, basically, standardize across all platforms. From a 360 degree view perspective, I’ve got one product that I use to go and build those customer insights.
+Given that Domino’s is always up to something new, I asked Djuric if he wanted to dish anything for diginomica readers.
+I would say from a surprises perspective, the way I’d answer that is, yes – always. It’s in our nature to innovate and continue to cater to the consumer experience.
+That includes the recently announced dinner bell component to Domino’s Pizza Tracker, allowing customers to summon hungry family members when dinner arrives. The DOM (digital assistant) ordering is also rolling out:
+We’re continuing to test, and we’re seeing positive results in terms of store operations. There are less people on the phone, and more calls picked up – so we can focus on managing quality and consistency for our consumers.
+As for Talend, Djuric is confident they’ll be able to deliver on his data needs going forward:
+We’ve got a long-term relationship. I continue to be astonished by the things that Talend is doing in the space. It’s a great relationship overall.
+Image credit - Domino's pizza DOM virtual assistant graphic from Dominos.comDisclosure - Diginomica has no financial ties to Talend. Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureDigital enterprise in the real worldUse cases 

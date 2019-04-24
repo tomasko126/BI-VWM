@@ -1,0 +1,73 @@
+
+In the first of a two part article, we look at:
+
+where the data goes or doesn’t go.
+the opaque nature of these job search aids and its impact on jobseekers
+the bad actors out there
+
+Countless times every day, people upload or update their resumes and place these documents in various job boards and social media sites. These sites try to broker employment opportunities for their members. But are these tools a great help or not? Jobseekers can’t tell because there is scant information to help you understand things like:
+
+Which employers are seriously hiring (vs. wasting your time)?
+Are the job boards dealing mostly with employers or intermediaries?
+Where do the job boards make their money and how does this affect a jobseeker’s experience?
+Which job boards are the most effective in getting someone a job?
+Etc.
+
+So, let’s dissect the space and identify the functionality that’s really needed in recruiting technology today.
+The Process and its Unnatural Break Points
+I wager that many people think their resume and other career data goes in a straight line from job board to employer. Nope. It’s a convoluted path with more traps than a golf course.
+ 
+
+A review of the information flows in the preceding graphic shows that:
+
+Not that much information ever makes into an employer’s HCM/HR system (see circle A)
+Virtually no information (or information of any value/consequence) flows back to the jobseeker
+Jobseekers have no idea who has seen their information, if anyone has at all
+Metrics are notably absent making it hard to determine the effectiveness of these solutions
+There can be scores of different systems that utilize this information but no easy way for anyone to get an ecosystem-wide view of the market and their resume’s landing places
+Passive jobseekers who are on social media sites may have no idea that their information is being perused by recruiters, sold to recruiters, stored by other resume capture software solutions, resold to marketers, etc.
+Even if the applicant’s information makes it into the holy grail of the employer’s HCM/HR system, there is scant guarantee that their background will be properly and thoughtfully matched against relevant openings going forward. More likely, it becomes part of a skill code data lake. Go fish.
+
+This imperfect world is fractured, opaque, one-way and ineffective. It’s also a playground for frauds, fakers, posers and discrimination.
+What should this environment really be like?
+Resumes go in;  not much comes out
+Opacity is rarely good unless you’re trying to hide something.
+A review of the previous graphic should make readers ask:
+
+Why don’t job boards, social media, etc. tell me who accessed my information, who is scrapping my information and how they are using it?
+How can I ensure my information only goes to legitimate employers?
+How can I stop my information going to no/low value-added players in the ecosystem?
+What percentage of resumes actually make it into an employer’s HR/HCM/ATS system?
+When will I ever learn what really happened to my resume? Did an employer’s recruiter ever see it? Do they have any feedback for me? When will I ever get a status update on my application?
+Did my resume/application fall into some black hole and I’ll never find out why?
+How could I improve my odds of a successful hiring event?
+
+No, the information flow in this process is decidedly one-way: away from the jobseeker. If you want to know what’s going on with your resume/application, you are out of luck.
+Why doesn’t the information flow two-ways? Job boards generally don’t charge jobseekers a fee to use their service and don’t feel obligated to give you anything in return. Job boards do charge employers plenty. So, to keep the employers happy and paying, employers get access to the data in the system and jobseekers get close to nothing. Like many social media sites, job boards use your intellectual property (e.g., photos, resumes, etc.) to sell to others while offering you the illusion of your participation into something bigger and greater. The key rule here is that a site that doesn’t charge you anything to use it, is under no obligation to deliver anything of value back to you. So, many of these employment aid sites are simply caveat emptor.
+Some job boards, like TheLadders or IvyExec, do charge jobseekers a fee. Some fees with some job board sites can be quite pricey, too. However, these services may not deliver the job opportunities, value, insights or more that jobseekers want/need. Why? Frankly, some of these sites can’t deliver enough great opportunities for many people and they aren’t geared up to make a jobseeker’s experience truly great. Their value may lie in being focused on one vertical or income strata.
+Bottom line: lots of volume going in, little intelligence coming back out.
+The ecosystem has bad actors
+Job boards and social media sites will ‘monetize’ your career data in the name of offering you a ‘service’. I’m sure most of us expect some pimping out of our information but it’s the unknown nature of who’s buying or getting access to this information that is too opaque. While many users know and expect their data may get pushed along to potential employers, they may not know the full extent of how the data is subsequently re-used, resold, transmitted, aggregated with other personal data, etc. When data privacy laws stiffen in the United States, you can bet attention will get shifted to resume data. GDPR is making non-US firms purge old resumes and applications out of their systems.
+How many of us have received unsolicited pitches for resume writing services, keywords/SEO optimization and other for-fee help right after posting to a job board or updating one’s information on a social media site? Is this really necessary? I suspect these ‘services’ do more to damage the brand of the job boards than those firms realize. Because there is no policing of who can access this data, jobseekers can get bombarded with pitches from less-than-reputable players or get sold services that don’t really help much. (Just this week, I received an unsolicited pitch from a ‘recruiter’ who wanted to sign me to a 1-year deal for $7000. By the way, the Google and Yelp reviews on that service were 1-star affairs. I wish I knew how and where they got my info as I’d like their access to my information denied.)
+Seriously, if corporate recruiters spent a little more time actually reading resumes and tuning their ATS (applicant tracking system) software, people wouldn’t need to:
+
+Stuff keywords into their resume (or pay a third party to do this for them)
+Rewrite their resume for every position they apply for just so they include most of the job description verbiage in their resume
+
+The fact that job boards and ATS’ make a mess of resumes is the employer’s ATS or job board’s fault not the applicants! If a job board or ATS can’t read Serif fonts, process graphics, etc. whose fault is that? To wit: A resume tuning service recently ran my resume through their tool to identify what the ATS made of my resume. One thing no ATS can get right is my college education even though my resume states:
+Brian has a Business Bachelor of Arts, Marketing, University of Texas at Austin and a Masters of Business Administration, Finance, University of Texas at Austin.
+It also has this line:
+Brian has been a frequent guest lecturer at major university MBA programs including Harvard Graduate School, Wharton School of Business and Arizona State University.
+So, what does the ATS think my education is?
+
+I know that ATS tools are highly prone to errors and jobseekers rarely know which ATS an employer is using or how that ATS parses their resume. Folks, this 20+ year old technology is supposed to be using machine learning but, in my opinion, it’s one epic fail of technology. Yet, most recruiting teams rely on this.
+There are companies that hire and others that are “hiring”
+Just because a company has a job posting out there doesn’t really mean they are actually hiring. Systems integrators, staff augmentation firms and headhunters frequently place ads for positions that they may never fill. These honey pots exist to take some jobseekers out of the market while a company waits to see if it wins a project or decides if it actually needs the talent or not.
+This practice, while legal, needs to be a lot more transparent. Jobseekers should be told that this is a maybe, possible job that could end up being very short-term, if it ever fully manifests itself. These ‘employers’ aren’t going to volunteer this as they want the best possible people to apply even though great people won’t quit their current job to accept such a tenuous position.
+Click here to go to Part Two as that section covers:
+
+The quality vs. quantity issues with job boards
+The relationship between job boards and corporate recruiters/corporate HR systems
+What is needed for these solutions to really add value
+
+Image credit - Freimages/SvilenMilevRead more on: Analytics planning and data analysisFuture of workHCM and the digital future of workSocialTalent management 

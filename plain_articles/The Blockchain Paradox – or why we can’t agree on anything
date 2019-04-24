@@ -1,0 +1,79 @@
+
+You’d be hard-pressed to read any enterprise software vendor’s pitch deck without seeing a passing reference to the blockchain. Venture money is pouring into this technology segment and marketing evangelists are revving up their buzzword bingo laden content engines, advertising and PR stacks designed to help you understand that the blockchain really is the equivalent of solving for world peace.
+But just as there are many rabid blockchain fanbois and girls, there are plenty of reasons to be skeptical about the real long-term utility of this nascent technology. That skepticism, sometimes healthy but sometimes plain bizarre leads to what I am calling the Blockchain Paradox.
+The Blockchain Paradox – by the numbers
+A good starting point to understanding the Blockchain Paradox is a recent research paper delivered by PwC entitled Blockchain is here. What’s your next move? PwC’s Global Blockchain Survey 2018. Immediately underneath that clickbaity title, we have a perfect illustration of the Blockchain Paradox:
+
+The details are a little hard to read so I’ll set them out:
+
+84% of respondents are actively involved with blockchain
+45% believe trust could delay adoption
+30% see China as a rising blockchain leader
+28% say interoperability of systems is a key for success
+
+How can such a large majority be pouring money into blockchain technology while significant percentages see major problems both now and into the future? It doesn’t compute? Or does it?
+It is in the detail where we start to see what is really going on:
+
+Astute observers will note that the numbers total 98% and that the active group totals 79% or 86% if you include those that are paused. Mathematical oddities aside, the standout number is 15% live. That suggests progress is far more advanced than most commentators have assumed, at least until now. Figures I see consistently talk about POC and failure rates of up to 92% which would suggest a much lower success rate than PwC’s survey implies. Another indicator comes from a recent HfS report which put ‘none or limited investment focus’ in blockchain at 27% but ‘significant investment’ at 33%.
+That disparity is worth consideration and, I suggest, is a firm indicator of the volatility that exists within the blockchain market as a whole, excluding trade in cryptocurrencies which are all over the map.
+PwC doesn’t provide a demographic breakdown of the survey sample but the general leadership trends reported by respondents fit with the volume of announcements, funding rounds and reported successes we see in the market.
+It is, therefore, no surprise that financial services are top of the pile in terms of usage. I would, however, caution reading too much into these statistics because, for example, we have seen a significant uptake among global legal practices which don’t figure in this analysis. Again, and more likely, there will be significant pockets of development that are under the radar.
+The Blockchain Paradox – barriers
+As you might expect, PwC uses these numbers as a jump-off point to gently suggest that now is the time to get going but to be aware of the difficulties. It is here where I see the most interesting results:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PwC’s detailed analysis is useful but you can aggregate the responses into three major blocks: trust, compliance, and technical issues. PwC ascribes the trust issue to two main causes:
+
+Blockchain is difficult to explain
+Trust in the network
+
+The first issue is readily understood (sic). You really do need to work through a bunch of primers before the blockchain concepts come clear. The second is a bit hazier. PwC puts it this way:
+It is perhaps ironic that a technology meant to bring consensus hits a stumbling block on the early need to design rules and standards. Take payment systems and mechanisms in banking. Though everyone plays by the rules of existing systems today, they don’t necessarily agree on how an alternative blockchain-based model should be designed and operated.
+What PwC fails to mention is that while the ‘rules’ may be clear, implementing them on a bank by bank basis is often left up to the banks to figure out. In other words, there is no current consensus at an operational level. My view is that financial institutions would be crazy to perpetuate that modus operandi at a time when the base technology provides a clear framework for sweeping aside the arcane differences that exist, for example, between ATM systems. Far better to compete at the application service layer and view the blockchain as the foundation for those services.
+Alongside, PwC says:
+A company creating a blockchain for itself will undoubtedly confront challenges related to internal buy-in, data harmonisation and scale. Still, this company can set and enforce the rules of the blockchain, just as it does with its ERP today. But generally speaking, you don’t realise the greatest return on investment in blockchain if you’re building it just for yourself. Blockchain’s benefits are best realised when different industry participants come together to create a shared platform. Of course, when you start inviting third parties to engage, you can’t write the rules yourself.
+This is a fascinating if watered down version of reality. We have seen shared services in the public sector met with limited and sporadic success. Among industries, it is often the channel master that gets to dictate the network terms for services like EDI, which forms the high-speed backbone for document interchange. In blockchain parlance, EDI becomes ‘smart contracts.’
+PwC finds common ground in some industries, citing aerospace where parts provenance across the 30-year lifecycle of an aircraft can usefully be distributed among all market players using blockchain technology. Another example is in food safety where concerns over provenance can be solved with smart contracts.
+The Blockchain Paradox – challenges
+In the world of ERP and CRM, we know that SAP, Oracle, IBM, Microsoft, and Salesforce are all dabbling with blockchain technology. But as was pointed out at Oracle OpenWorld 2017, the barriers to adoption are staggeringly high. Check this graphic from the blockchain specific presentation:
+
+Oracle is part of the Hyperledger consortium of 20 plus vendors whose stated mission is:
+a.      create an enterprise grade, open source distributed ledger framework and code base, upon which users can build and run robust, industry-specific applications, platforms and hardware systems to support business transactions.
+b.     create an open source, technical community to benefit the ecosystem of HLP solution providers and users, focused on blockchain and shared ledger use cases that will work across a variety of industry solutions;
+c.      promote participation of leading members of the ecosystem, including developers, service and solution providers and end users; and
+d.     host the infrastructure for HLP, establishing a neutral home for community infrastructure, meetings, events and collaborative discussions and providing structure around the business and technical governance of HLP.
+But even here, the group has undergone its own shuffles. A Reuters story from December 2017 noted that:
+The weakening support for Hyperledger from some large members highlights how large firms have become more selective with their blockchain efforts as the technology matures. Earlier this year JP Morgan Chase & Co. left R3, following the departure of Goldman Sachs Group Inc, Banco Santander and others.
+I’m not suggesting for one minute that there should only be ‘one’ blockchain standard but I suspect that what we see is the fallacy of believing that infrastructure is a differentiating capability. That may be true if you’re a telco but among banks? Really?
+The problems that Oracle note are real and cut to the heart of why the Blockchain Paradox exists. Enterprise buyers might want to see quick wins – and there are unquestionably plenty to be had – but it is hard to see how the major software vendors are going to re-architect any time soon when today, they’ve barely got their cloud game together.
+For its part, Oracle is testing the waters with its Blockchain Cloud Service. The service is aggressively priced and claims enterprise-grade resilience, extensibility from existing apps sitting on a pre-assembled PaaS that is future proofed. As an early example of the ‘art of the possible’ you have to give Oracle credit for retro-fitting blockchain services to existing processes.
+Note: the video from the show provides a good demonstration of how complex order, shipping, billing and delivery processes can be managed through a smart contract. It’s worth following all the way through.
+
+One of the other Blockchain Paradox elements I see comes in the form of the decentralization versus decentralization. I’ve explored these topics in my recent book review of Life After Google but I think that Jon Reed summed it up well in his story C’mon now – the customer isn’t in control. On Google, Amazon and the algorithmic plight of the super-user wherein he concluded that:
+I guess instead of power, I’ll have to settle for hyper-convenience.
+Put into enterprise terms, we see an intense debate about which of AWS, Google, and Microsoft represent the future of cloud computing. The sudden emergent competition between these three mega-companies is promising a much easier on-ramp for cloud services.
+In short, all of them offer the convenience of relatively easy cloud infrastructure consumption at low cost but then you are buying into a centralized service where the attack surfaces are only getting larger and larger. Conversely, the decentralized blockchain claims to eliminate or substantially reduce that threat. Yet, as we see from the stats, there is significant uncertainty whether the claims are real or imagined.
+My take
+Blockchain technologies provide ample scope for robust and at times visceral debate. Check this from one correspondent in my LinkedIn group:
+I’ll read it, but the technological underpinnings of most blockchain implementations are so extraordinarily shitty that I am skeptical on timing and scope. It “feels” more like a “feature”, not a massive disruption. The claimed transformative changes of blockchain are usually, on further analysis, realized to be human and societal changes. And unlike the internet, it just doesn’t seem significant enough to create or push the alleged tectonic shifts that the hypesters claim. We shall see.
+In reply, another person said:
+Rick, to you point about current implementations … There is extraordinary amount of mindshare and capital now focusing on solving these technical challenges. Mature solutions will emerge. Yes there is hyperbole in the market, but I can’t think of any past technology trend that didn’t come with its own share of crazy marketing claims. The trick, I think, is to ignore all of that and find ways to leverage a new tool.
+See the Blockchain Paradox in action? See how the marketing hype is blinding some to even think deeply about the potential? A recent Deloitte report which in some ways mirrors the PwC survey found that:
+…nearly 39 percent of the broad global sample said they believe blockchain is “overhyped.” In the United States, meanwhile, this number is higher: 44 percent of respondents view blockchain as overhyped, up from 34 percent in a 2016 survey by Deloitte.
+That’s got to be alarming. While I’d hate to see interest in blockchain collapse into a pit of despair, it may take that to bring people to their senses.
+Based on over 45 years involved in the technology industry I believe that blockchain is the most over-hyped yet least understood technology shift I’ve ever seen. (Noye my choice of words.) Past technology shifts have been relatively easy to understand but this one is problematic for all the reasons that PwC exposes.
+That makes blockchain a rich ground for misinformation, wasted budgets but also the potential for breakthroughs of a kind that are barely imaginable today. Hence the Blockchain Paradox.
+Image credit - illustrations via PwC, Oracle and public imagesDisclosure - SAP, Oracle and Salesforce are all premier partners at the time of writingRead more on: Digital transformation - frictionless enterprise 

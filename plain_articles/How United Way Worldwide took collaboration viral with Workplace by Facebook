@@ -1,0 +1,52 @@
+
+Taylor and Yu of United Way Worldwide
+Readers of my Hits and Misses column have witnessed my love/hate relationship with Facebook firsthand, often in the whiffs section.
+But despite that, I found myself at the Workplace by Facebook event in Menlo Park yesterday. Flow was the inaugural event for the Workplace product, billed as a “leadership summit.”
+Why was I there? Because after countless failed starts with collaboration tools inside diginomica, Workplace is the first that has stuck (so far). My email load went down significantly in less than a week. But that doesn’t address our core question: can Workplace scale to enterprise-level collaborations? I know Workplace has scored some major customers (Starbucks is one we’ve touched on), but I wanted to see firsthand.
+United Way’s mission is inseparable from tech
+Talking to United Way Worldwide was a good start. Under the leadership of CTO John Taylor and Director of Technology Engagement Jim Yu, Workplace has had a near-viral level of adoption inside United Way, growing to 6,000 active users since their first pilot groups in July. Along the way, Taylor and Yu have won over skeptics, such as a die-hard listserv manager who didn’t want to risk his audience – and was (pleasantly) confounded by the surge in usage.
+It’s a high stakes mission for United Way. Taylor was heavily involved in coordinating Hurricane Katrina disaster relief, a topic that resonates with many these days. But as Taylor told me, United Way doesn’t want to simply be a crisis reaction organization. Here’s how Taylor expressed their audacious mission:
+United Way fights for the health, education and financial stability of every person in every community. Our goal is to ensure access for all – to the supports, to the resources, to the knowledge that will ensure they can be successful wherever they are in their individual lives.
+It’s now impossible for United Way to separate the savvy use of tech from their human mission. Tech has to support crisis management; it must have data integrity and protect sensitive data from misuse.
+But now, tech must go further – it must enable employees to work together across time zones to serve their constituents. Add this twist: employees have no tolerance for clunky mobile interfaces and outdated Extranets. And that’s where Workplace comes in.
+Singing the Extranet blues
+Oh, and about those Extranets. That’s the legacy boat United Way was in before Workplace:
+A few years ago, we had just upgraded our Extranet.
+The Extranet upgrade had good intentions. Taylor’s team wanted to move the Extranet beyond a one-way platform:
+Our intention was to stop the one-way data and information sharing. Our goal was to create not even just a two-way system, but a three-way opportunity to share information and data. Meaning, we could share with each other from local United Ways to us, and us back to them, but then local United Ways could share with each other.
+On a corporate Extranet? A noble idea – but how did that work out?
+It wasn’t easy to do it.
+But Taylor and Yu had other requirements of the modern kind – requirements that rendered the Extranet insufficient:
+
+Create a Facebook-caliber experience – including easy mobile UX.
+Ensuring that that liking and following content had algorithms that drove content to the top of what people would see when they opened up tools and information.
+
+Hmmm… That’s an uncanny resemblance to what Workplace has to offer. Add more to the requirements list:
+United Way runs lean. Overhead is the enemy of service delivery. Tech budgets are tight.
+1,800 local communities means having to deal with 1,800 different email systems and 1,800 different phone systems. Most team tools couldn’t hack it:
+We’re so autonomous and separate that it becomes a [tech] barrier for us. Workplace is a tool that allows us to completely change that paradigm.
+Huge bonus: Facebook makes Workplace available free for qualified non-profits. Then there is the Extranet training problem.
+We built something so large that the complexity and the resourcing needed in order to teach people how to use it became overwhelming as well.
+It wasn’t just the Extranet, either. Other under-utilized tools like Yammer were also in play:
+When we were notified by Facebook that they were testing the system in beta, and that they were looking for partners that were large and trying to do this type of work, [we said yes].
+From sluggish tools to viral relevance
+Since their first pilot groups in July, the user adoption is near-viral. User testimonials via Yu tell the story:
+
+“I really love the use of this group during crisis instead of 1200 emails. Y’all are geniuses.” Posted to the Crisis Huddle Team (Hurricane Florence) by Rachel Krausman, Senior Director of 2-1-1
+“Thank you everyone for your suggestions. UW Workplace by Facebook is AMAZING! I was able to get back to my customer right away with some great suggestions.” Lisa Baynes, Account Exec, United Way National Capital Area.
+
+Taylor’s open door IT policy usually means walk-ins with negative feedback. Not these days:
+We are becoming overwhelmed with compliments, with people being excited, with people just appreciating our use, and frankly, it feels great as a technology leader to get that type of feedback, unsolicited, to say that we’re going in the right direction.
+Add this startling quote:
+Jim just reminded me: we haven’t had one training on Workplace.
+So how did Taylor and Yu drive adoption? They picked early adopters who were champions of internal communications. Once those early adopters caught fire, things changed. We always frame projects in terms of change management – not this time. Users stepped up and requested Workplace access – and the growth continues. 13,000 staff are now invited, with the 6,000 active users pushing ahead.
+As for the die-hard listserv guy worried about losing his 300 person audience? Within one week of rolling out Workplace, his constituent base rose to over 800 people.
+The wrap – Workplace by Facebook for externals on deck
+One use case doesn’t resolve all questions. I have deliberately avoided my issues with Facebook proper – though I took up overall brand questions with Workplace Product Manager Simon Cross (watch for that story next week).
+United Way addresses some of my questions about scale – but then there is the problem of integration. Though Workplace does have integrations with a range of modern tools like Dropbox, Box, and Google Drive, Cross acknowledged that Workplace’s integration with other services is a priority going forward (e.g. Salesforce integration is pretty modest). Doesn’t the United Way want to integrate Workplace with other tools, such as fundraising software?
+Answer: no. Taylor and Yu are clear that out of respect for the integrity of sensitive data in United Way’s internal systems, they are going to be very cautious about that type of integration project. It’s not an issue with Workplace’s security features at all; it’s a commitment to protecting the data where it lives. Taylor says, for example, those teams tied to fundraising have been able to talk shop in Workplace without a problem.
+Either way, security and third party integration are hot buttons I took up with Simon Cross. I also met up with a promising Workplace partner, Wiretap, that strengthens and expands governance features well beyond Workplace.
+But for now, it’s about United Way, and they aren’t stopping. When I asked about the possibility to open up certain Workplace groups to externals, Taylor’s eyes lit up:
+Our next goal is to ensure that our 30,000 plus volunteers and board members can also engage with our community. We also really see the benefit in leveraging the multi-company groups feature… I think that is a winner.
+Now that’s an organization and story I’ll check back on.
+Image credit - Photo of John Taylor and Jim Yu of United Way Worldwide at Flow by Jon Reed. Disclosure - Facebook provided me with a media pass and a night's hotel accommodation to attend Flow, the Workplace by Facebook event. Read more on: Collaboration sharing and digital productivityHCM and the digital future of workProductivityUse cases 

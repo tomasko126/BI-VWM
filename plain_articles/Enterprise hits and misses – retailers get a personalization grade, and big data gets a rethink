@@ -1,0 +1,81 @@
+
+Lead story – Retailers’ pursuit of millennials, personalization, and Amazon – stories by Den Howlett and Stuart Lauchlan
+
+myPOV: Marketing automation vendor Sailthru has done something ambitious and tricky: they’ve created their own Retail Personalization Index based on their own criteria. Out of 250 brands, they ranked 100.
+Noted vendor ratings crank curmudgeon Den Howlett has issues with that, which he laid out in The impact of personalization – real or imagined? A critique of Sailthru 2018 Retail Personalization Index. His first problem? Singling out personalization as the key to retail performance:
+I am always dubious about claims that one technology element impacts financial results to any great degree. As any CIO will tell you, it is the orchestration of relevant technologies that matter.
+So, Den examines the correlation between Sailthru’s rankings and financial results: “The results suggest the answer is a guarded ‘yes.’” Caveats-a-plenty. One interesting move is ranking Amazon 50th.
+By putting Amazon at #50, Sailthru is rightly mocking Amazon’s overrated attempts to “personalize” by throwing a spastic deluge of algorithmic behavioral guesses at consumers without fostering any kind of human relationship. It’s also acknowledging Den’s point: obviously there is more to retail performance that personalization. Amazon isn’t #50 on too many retail rankings of anything.
+Stuart looks at the plight of reaching the elusive millennial consumer in Retail’s pursuit of the Millennial Shopper – the exemplars keep on coming. Conceding the cleverness of Nike’s Kaepernick campaign, Stuart pushes back on celebrity brand preening:
+As I observed about the UK’s Debenhams digital approach, there’s a danger of a lot of this being seen as ‘dad dancing’ as brands pivot on the idea that being seen to be associated with a ‘cool’ celeb is what it takes to pull in the younger buyer. In fact, the rules of the game are more basic than that – people shop with brands they trust who make products that they want to buy.
+Meanwhile, I logged a vigorous day at Shop.org during my ongoing road forays, where I found surprises. And: retail stats that point towards who’s winning in Amazon’s shadow, who’s not, and why: How are retailers winning? Stats and reflections from Shop.org. Next-gen-tech – often with personalization features – is getting results. But:
+You can’t sprinkle “personalization” on a bad product or flawed customer experience like tech ketchup on mystery meat and expect consumers to like the taste.
+Diginomica picks – my top two stories on diginomica this week
+
+How Pulse is crowdsourcing the wisdom of the CIO – Barb on how Pulse built a community of 3,000 plus CIOs, and, get this: it’s vendor-free. Projects move faster than analyst reports -> peer communities for the win.
+World Economic Forum – robots will take jobs, but upskilling will put humans ahead…if we do it properly – Stuart takes a crack at a new WEF report that paints a sobering – but not alarmist – picture: “The emphasis on upskilling and training is the main takeaway for me, not just at corporate level, but also at governmental and national level.” The biggest danger? Complacency.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Oracle disappoints for Q1 as revenue growth slows – Stuart on a problematic earnings report that puts Oracle’s cloud – and cloud ERP – plays into focus. “Add to that a highly cautious outlook for the next few quarters of growth of between zero and 2% and Wall Street’s downer on the stock isn’t hard to explain. That left CEOs Mark Hurd and Safra Catz and Chief Technology Officer Larry Ellison trying to push an upbeat tone during the post-results analyst conference call.”
+Digital transformation, with empathy – a change management view – Phil had a talk with Infor on digital change, and the limits of tech-for-its-own-sake. Check this from Infor’s Carol Tyler: “When I go into a project like this, I want to create a collaborative environment that lets people be creative — that starts that innovative thought pattern that doesn’t put boundaries on what people can create by saying, ‘Well, here’s the package of digital and you have to fit into it.’”
+SuccessConnect 2018 – inside Ernst & Young’s drive for a purposeful workplace – one of several SuccessConnect use cases I will post, fusing tech and transformation: “I told Stoker I was pressing SAP on how to move beyond KPI obsessions – how do you do that with performance? Can you turn performance management into a way to cultivate continued improvement, rather than dreading your yearly checkup?“
+
+A few more vendor picks, without the quotables:
+
+Four SMB views on why you need a fast-moving business system – Zoho use case review from Phil.
+Tibco Labs and the Blockchain Experiment – cue scary music! – Martin
+
+Jon’s grab bag – Stuart’s not done yet. Our resident watchdog of Euro-bureaucracy waves the caution flag: Europe deals the open internet a blow as controversial copyright rules take a step closer to law. Question: do well-meaning legislators mess anything up as badly as their approach to trying to fix the Internet, which is working quite well without them? Can’t fault Stuart for siding with the founders of the world wide web:
+If it comes down to who I trust on this subject, Sir Tim Berners-Lee who created the WWW “for everyone” or a career politician like Ansip, who’s demonstrated his digital shortcomings on many occasions, there’s no real choice…
+Ouch. Jess shares how Be The Match conquers the technical challenges for donor matching in the fight against cancer (Be The Match finds quality partner in SQS). I explained my own wellness motivations in SuccessConnect 2018 – well-being at work isn’t fluffy; it’s the future we should be pushing for.
+Finally, Den reflects on the blurring of personal and business transformation in Book review – Dreams and Details, Jim Snabe’s insights into SAP’s business transformation. SAP watchers will enjoy, but you don’t have to be SAPpy to gnosh on leadership morsels from this one.
+Best of the rest
+ Lead story – Evolution of data platforms: Using the right data for the right outcomes – by Esteban Kolsky
+
+myPOV: Esteban Kolsky took over Paul Greenberg’s ZDNet column; no word on whether he plans to give it back. But – the guys are pals, so I’m sure they’ll work it out. Kolksy’s agenda? Help us wade through the unmanageable bogpit exciting opportunities that big data provides.
+Bad news for big data buffs. In part two of his guest series, Kolsky makes distinctions between B2B and B2C (B2B is not-as-big-data, but more complex in terms of segmentation). Kolsky asserts:
+The reality is that for B2B organizations making data-based decisions in real time requires not just more data but better-quality data and insights.
+Kolsky advocates for “data platforms”.
+A combination of easy access to the right data for multiple purposes and generating effective insights is what makes data platforms and insight engines so powerful — not just the data aggregation. It is not the amount of data stored and potentially used, but the necessary data that is used at the appropriate time.
+As for how we get there, well, for that, you’ll need a white paper that comes via Kolksy’s research for Radius. In part one of his ZDNet series, Kolsky says we’ve made progress with big data tech and real-time views. But work lies ahead:
+Unfortunately, most enterprise data today is still stored in disparate systems waiting to be processed. Value comes from aggregating the right data from myriad sources and using it efficiently and effectively to solve business quandaries and optimize processes — and to do that, we need to understand what the data shows, not just the data itself.
+We don’t have a problem finding data, we can find more than we need. The problem comes down to appropriately using it.
+I’ll take a data platform over a data lake or a data mudbog any day, but as for what that data platform looks like, and how it gracefully handles aggregation across somehow-unsiloed sources – that’s where we need more customer use case examples. I’m sure Kolksy will provide them next time Paul Greenberg throws caution to the wind invites him to post – or perhaps we’ll catch a post over on Kolsky’s ThinkJar site.
+Other standouts:
+
+5 Mistakes to Avoid When Developing a SOW With Accenture, Deloitte, and IBM – When I shared this UpperEdge piece, it sparked a Twitter debate on how important SOWs are when working with SIs. But the real point is: know your contract options inside and out when you sit down with these folks.
+Barely a third of outsourcing deals are now safe: Window-dressing legacy engagements is over – Phil Fersht of HfS Research tags outsourcers with the dreaded “legacy” monicker. When will they get their [email protected] value proposition together?
+
+Honorable mention 
+
+PagerDuty CEO: DevOps Success Relies on Teams, Empathy, and Inclusion – Pretty rare to see a DevOps post that hits on empathy and inclusion. (short text summary with video replay)
+The Quickening: a keynote about software development velocity at New Relic’s Futurestack 2018 Conference – James Governor goes a tad meta and reviews his own keynote. Looks like a good ‘un. Heavy Governor quote to ponder: “The value today is not in the code, but rather in moats based on services and data.”
+Eight Ways to Make Your D&I Efforts Less Talk and More Walk – An instructive long-form review from First Round on Atlassian’s diversity and inclusion efforts, which includes a survey of tech D&I efforts as a whole.
+Blockchain Is Starting to Show Real Promise Amid the Hype – A balanced article, though I take issue with the “revolution is now” opening. The revolution starts when the crates of tea hit the water, not when you are hypothetically planning to someday dump the tea somewhere.
+Why Microservices Will Become a Core Business Strategy for Most Organizations – Constellation’s Dion Hinchcliffe makes the business case for microservices. I know plenty of IT skeptics of the potentially unwieldy aspects of microservices that Hinchcliffe is jazzed about, but that’s a debate worth having.
+If you’re in a podcasty mood, I’ve updated by Busting the Omnichannel podcast series with two fresh ones: a review of SAP SuccessConnect – and the data science skills shortage.
+
+Whiffs
+Not exactly the “end times,” but maybe the wasting-times-through-idiotic-debates era has officially arrived? (Sesame Workshop says Bert and Ernie are ‘best friends’ and not gay). Then there was this:
+
+Cathay Pacific spells own name wrong on new plane
+
+
+Aww c’mon, they were close….
+Onto more serious gaffes. Now, I don’t want to make light of a serious storm that caused real hardship. But, weatherporn is causing real problems of its own:
+
+Weather as dramatic entertainment – one of the most vile and annoying trends… this clown https://t.co/drpOzaJME2
+— Jon Reed (@jonerp) September 15, 2018
+This absurdity from 2006 might be even worse:
+
+Bottom line – weather forecasting is for public servants not waterlogged fools.
+Finally, a tad closer to the enterprise, I’m drawing a buzzword line in the sand:
+
+DevOps and Security Practices Equals DevSecOps https://t.co/wcDWHrunYd
+-> DevSecOps = one of the clunkiest technogeek buzzwords of all time. The heck with it. If you can’t pull security into DevOps on your own, you’re not gonna cut it.
+— Jon Reed (@jonerp) September 19, 2018
+A guy can dream… see you next time.
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, New Relic, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Analytics planning and data analysisHits and missesOutsourcingRetail e-commerce and the omni-channel 

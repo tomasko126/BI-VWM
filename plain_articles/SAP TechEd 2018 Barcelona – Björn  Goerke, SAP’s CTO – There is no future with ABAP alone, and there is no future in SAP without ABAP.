@@ -1,0 +1,41 @@
+
+Björn Goerke on stage at SAP TechEd Barcelone 2018
+Björn Goerke needs no introduction to the SAP developer community but he may not be quite so familiar to the business side of the SAP house. I sense that is going to change. At SAP TechEd 2018 in Barcelona, Goerke used his keynote to talk more about capabilities being fleshed out in the SAP Cloud Platform as the underpinning for what SAP is calling the Intelligent Enterprise. We’ve been here before – check Jon Reed’s coverage from a couple of weeks back at the Las Vegas event that was largely repeated in Barcelona. It was a solid message but one at which I found myself at odds.
+I rarely attend keynotes in person but this was one I wanted to witness first hand because experience tells me that’s the only way to fully appreciate the mood of the crowd – on this occasion around 4,500 developers and IT professionals. I prefer to sit at the back rather than ringside because it provides me with the best vantage point from which to assess how a set of messages are being received. On this occasion I said on Twitter:
+
+‘Keep the core clean’ per @_bgoerke  – that’s important but this audience doesn’t get it…yet #SAPtechEd – I reckon a biz audience would get it.
+— ⒹⒺⓃ•Ⓗ ㋡ (@dahowlett) October 23, 2018
+
+Here’s what I sensed. From my perspective, the keynote focused heavily on business outcome use cases so, for instance, there was talk about integrations to 150 other applications and a further commitment to open source. I know I am not alone in that view but that it is not universally shared either. That’s the jump-off point for a good conversation. Here’s one example:
+
+Maybe … a business audience would applause without getting it, while the tech audience did not because they exactly understand what keeping the core clean means?
+Was this the "Oh shit moment" for SAP world?
+— Tobias Hofmann (@tobiashofmann) October 23, 2018
+
+The one that seemed to catch everyone by surprise was:
+Now – I can imagine plenty of cases where companies with tiny subsidiaries working in far-flung places only need something really simple like QB but that seemed to go over the heads of the developers in the audience. Goerke’s message about ‘keeping the core clean’ didn’t get a ripple of applause. But then as Chris Paine pointed out, this is very much a technical crowd and not a functional crowd and perhaps that was the issue. Of one thing you can be certain – no keynote is going to leave everyone in raptures.
+As you can see above, that set of views caused quite the stir and later in the day, Dick Hirsch and I sat down with Goerke to hash out our top of mind issues. For me, the issues around the business and IT coming together are super important topics and I said to Goerke that in my view, his keynote (minus some yap with running code) could have easily been delivered at SAPPHIRE to great appreciation. Why? Because in addressing the business topics, SAP is talking to an audience that appreciates the need to modernize and prepare for a digital future.
+The problem is that most of the SAP world consists of ABAP developers, a proportion of which see no need to learn, move on or adapt to the cloud world. That should not be surprising given that in some cases, developers have been running and maintaining SAP code for upwards of 25 years. I met one such customer and will talk to their experience in a future story. But it presents a major hurdle for SAP to overcome.
+On the one hand over a million ABAP developers cannot be wrong. There are plenty of apps that will remain on-premise and need maintaining for another 10-15 years. But in the world of web-scale architectures, more modern methods of developing and deploying apps, characterized by Node, React and Kubernetes, along with an event-driven landscape, require different skillsets. And those are not normally associated with SAP.
+SAP’s answer has been to make ABAP cloud ready as a transitional means by which ABAP developers can get their hands dirty on cloud systems. But as Goerke explained it to me:
+There is no future with ABAP alone, and there is no future in SAP without ABAP.
+This is a message that makes complete sense when you see it in the context of a massively expanded SAP landscape but is not immediately apparent if your focus is FICO on ECC for example.
+Alongside I asked Goerke the extent to which he is seeing more business-focused CIOs and CTOs of the kind I witnessed at the recent FutureStack event. He told me that at SAPPHIRE, he was surprised at how many customers wanted to have the business conversation and so, in as subtle a way as possible, he is endeavoring to bring the developers in the SAP community alongside.
+Elsewhere, I met with Thomas Grassl who leads SAP developer outreach. He told me that DSAG asked him to present at their recent annual gathering. Despite the fact Grassl is a deeply technical person, the crowd wanted to hear what’s coming from SAP on their cloud platform.
+I think that’s a vitally important proof point because customers no longer just want tooling and a toolbox they assemble into an SAP application. That’s just not possible in the multi-tenant cloud world – you’d end up with chaos. Instead, customers want outcomes they can predictably run while innovating at the edges. That validates Gorke’s strong position on open standards and the need for SAP to recognize the extent of the options that must be made available to developers both now and in the future.
+During our conversation, Hirsch raised the oft-forgotten topic of the Ops in DevOps. That came as a surprise to Goerke in the sense his people have been focusing on educating and helping the developer community. From Hirsch:
+It’s easy to forget that DevOps is Dev and Ops. Developers think that once code is committed that their job is largely done but in the cloud world that’s really the start. Who manages the operations, who monitors, who considers and deals with the complexity?
+Complexity is a topic to which we kept returning in our conversations and Goerke agreed that it makes total sense to address that operational community alongside the developers and the business. And in SAP land, if you ask that kind of question, you tend to get stuck with providing the answer so over to you Dick!.
+As Goerke walked to his next meeting, I asked him where SAP is in delivery because while the company talked an expansive and inclusive vision, the company was light on delivery roadmaps.
+I can only talk about things that we’ve either delivered or which are coming in the next few weeks. If something is six months away I have to say that because, as you know, cloud operations allow for agile delivery but you have to deliver. So this is definitely a journey and there is plenty for us to do but in our customer base, it is still early days.
+My take
+Goerke and I have not always seen eye to eye but in both his keynote and subsequent discussion I can see important changes in the way SAP is positioning its discussions with developers as a way of recognizing the importance of the developer community standing alongside the business. I saw first-hand evidence of that in a specific and wide-ranging customer conversation.
+The good news for SAP is that almost without exception, the SAP Mentors with whom I spoke are 100% behind Goerke’s vision. Clear evidence of that comes from the space devoted to developer education and demonstrations with over 50 screens running cloud tutorials in an area covering a good quarter of the show floor. That’s huge.
+The keynote may not have generated the kind of excitement from developers that Goerke was hoping for but then that excitement was palpable on the show floor once they saw what is achievable.
+In the meantime, and to give you a better flavor of the overall conversation, I shall push out the recording of our conversation to a podcast service in the near future.
+Endnote – to Reed’s unanswered questions: yep, serverless is coming but not yet and yes, the SAP community is being revitalized in all the good ways folk like myself like to see.
+
+SAP integrates to QuickBooks – yes, really…#SAPTechEd pic.twitter.com/BlvyEqi4nA
+— ⒹⒺⓃ•Ⓗ ㋡ (@dahowlett) October 23, 2018
+
+Image credit - via Matt SteinerDisclosure - SAP is a premier partner at the time of writingRead more on: DevOps NoSQL and the open source stackOpen source 

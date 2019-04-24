@@ -1,0 +1,47 @@
+
+Sherrington & Crick, The Hall, Gonville & Caius College
+Quick. What are the top four things that make for a great tech event?
+
+Great content. Check.
+Compelling stories. Check.
+Inspiring conversations. Check.
+Not Las Vegas. Check.
+
+HfS FORA UK had all the above but with bonus features that include:
+
+Pre-event dinner at The Hall, Gonville & Caius College, Cambridge where you get to admire paintings of past Masters of the College, gaze upon the stained glass windows that commemorate giants like Crick, Venn, Fisher, Sherrington, and others, while sampling 36 year old port that accompanies some of Britain’s most excellent cheeses. The rest of the food was above Hogwarts dorm level, but not quite Michelin starred.
+Hearing a brief and spellbinding history of Caius from the soon to be retiring Master, Sir Alan Fersht, a pioneer in cancer research.
+Enjoying well-made canapes and a selection of fine wines in the delightful Master’s Garden.
+Relaxing with tea or coffee in the gardens of the Stephen Hawking Building.
+So little vendor yap, even from the most fervent of sponsors that you could easily mistake proceedings for a tech teaching session.
+Extremely knowledgeable and helpful staff. A necessity when trying to thread the streets of Cambridge or catering for different dietary requirements.
+Real-world, no bullshit gut checks on RPA, AI and blockchain topics.
+A roving mic at the end to capture attendees unvarnished impressions of the day.
+And a conversation with Pepper, a robot which, while canned, was entertaining.
+
+That, in a nutshell, is my definition of a great event. Despite pleadings from many attendees, next year will see the event decamp to Chartered Accountants Hall in Moorgate – an equally impressive building with a fine history and great food options.
+This was my second HfS FORA event. Here is my first event report and here is Jon Reed’s story from the NYC event. This year’s content far exceeded my expectations.
+Focus on cost and efficiency
+As expected for an analyst hosted event, Phil Fersht (yes, Sir Michael is his father so kudos for leveraging the family connection), CEO HfS kicked off proceedings with a table and graphic-laden run down of the state of play in the world of FORA – the Future of Operations in a Robotic Age.
+Having previously seen much of the work that HfS has churned out in the last year, I was struck by the well thought through presentation that quickly led the viewer down the FORA road, pointing out where researched companies are at and where their plans lay in the future.
+A recurring theme throughout the day was just how much organizations are viewing RPA as a cost and efficiency driver as opposed to one that is geared towards business transformation (whatever that means.) It seems that the intersection between efficiency and change has not yet been understood, something that I have long felt is the reality among most businesses.
+As I have said before on many occasions, the barriers to foundational change can be summed up in one expression – a lack of real pain coupled with institutionalized inertia.
+RPA – real-world stories
+The best way to illustrate this came from Royal Bank of Scotland which has a comprehensive bots program in place. The talk was of ‘best practices’ within a tightly defined by IT hub and spoke framework. That always sounds to me like looking at the world through a rear view mirror. But then I get the fact that bank brands like RBS have significant governance hurdles that get in the way of lo-code, user-generated bots. On the flipside, I see emergent banks making much better use of technology to strip away things that are unnecessary. I like the example of Atom, a mobile bank with very few service options but for which an account can be set up inside 10 minutes.
+In another part of the financial services market, we heard from Tennyson Insurance, which specializes in servicing non-profits and charities. The company’s COO talked about buying a bot framework off the shelf for £9,000 and ‘just getting on with it,’ an expression that drew gasps among some but which drew warm applause from participants who recognize that the age of RPA is upon us and that it is almost mainstream. In describing the Tennyson journey, she also talked about the resulting impact on staff who went from undertaking tedious paperwork to adding value for the 30% of renewal customers who need to speak with a staff member. In a later conversation, she told me that Tennyson expects to achieve 100% ‘hands-off’ renewals in the coming months.
+But by far and away the two most prominent conversation topics were AI and blockchain. Unlike the torrent of frothy AI-related content I see in my inbox, most speakers emphasized a more pragmatic view, preferring the notion that AI should stand for Augmented (human) Intelligence, rather than the provocative Artifical version so many are keen to spout.
+Augmented Intelligence – not the other thing
+In response to my question about the future of autonomous vehicles, consultant and author Andrew Burgess said that he felt we are a long way away from the kind of fully autonomous vehicles so many are imagining but which is slapped down by people like Jeff Nolan who recently penned: Autonomous-only vehicles are not going to happen. Burgess went on to say that the notion of AI as representative of sentient intelligence of the human kind may never come about but that the specialized types we see today – ML, DL, etc., will unquestionably get better with significant reductions in the size of dataset required to train AI and bot systems.
+Blockchain excitement
+There was considerable excitement around blockchain with many attendees claiming to be dabbling or, at the least, investigating the technology’s potential. One SAP customer with more than 200 SAP systems in the business ecosystem talked to me about pivoting towards services and away from hardware. He wants to rationalize supply chain traceability, perhaps with smart contracts using the blockchain as the mechanism. He believes that the blockchain provides the only currently feasible way to reach agreement among suppliers, rather than attempting data integration between disparate SAP systems. I asked how that would scale given that blockchain technology is scale hampered.
+In the alternative, I asked why not use existing signing tools like DocuSign in a multi-party fashion. His view was that signing mechanisms don’t allow for the immutability that the blockchain provides. Also, to overcome the blockchain’s scaling issues, he is investigating Hashgraph and Swirlds, a technology that claims to be the platform for distributed applications.
+Later, I noted that Hashgraph comes with commercial issues of its own and a significant debate about whether it is, in fact, a form of the blockchain. Maybe the company might consider SAP’s Hyperledger? That drew a frown.
+Before moving on, I stole this from HfS – it’s your guide to Blockchain BS:
+
+The future of work in the robotic age
+The most interesting (for me) element of the conversation around these technologies though came towards the end when Smith & Nephew raised the question of ethical considerations and the need to think about the future of work. This echoed an earlier conversation I had with a Lloyds Bank person who is deeply concerned about how the change will impact not just the workplace but also society as a whole. She talked about the problem of nurturing creativity inside organizations that are hierarchical and rules-driven.
+My view is that now is the time to be having those conversations. Everyone agreed that the frenetic pace of change in RPA technology adoption is just the tip of an enormous iceberg. ‘We’ as in business users and leaders, have a responsibility to build sustainable organizations with motives beyond surviving the next quarter’s financial analyst calls. Where that conversation goes is anyone’s guess but it will be fascinating to hear what progress is made in training and retraining at the next HfS FORA event.
+My take
+Probably because it is so rare in my experience, but it’s hard to express the degree of satisfaction I experienced coming away from HfS FORA UK. I quipped that perhaps HfS should rebrand to be the Conversational Analyst firm since that is their distinct forté. They are bringing on millennials who are eager to share rather than hoard information, something that seems odd to some of us old farts. That conversational tone is set from the get-go but backed with hard data and results.
+I question whether their current schtick around the Digital One Office is achievable, something I missed as a discussion in the pre-conference workshops. The challenges of culture and disparate technologies, along with difficulty in setting strategic priorities make this a hard sell, a topic with which I found common ground among a variety of attendees.
+Image credit - by the author, featured image via Phil FershtRead more on: Future of workMachine intelligence and AIRobotics 

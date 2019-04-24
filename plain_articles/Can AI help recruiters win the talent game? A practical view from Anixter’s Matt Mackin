@@ -1,0 +1,40 @@
+
+My Anixter use case looked at how Matt Mackin’s team is changing recruiting (How Anixter is integrating AI into recruiting – with AllyO). But I left out important views on how AI can truly help recruiting – and the problems automation can pose.
+Testing the limitations of HR automation
+The first AI-recruiting use case at Anixter was using AllyO to automate candidate interview scheduling. Example: Mackin’s team used AllyO to staff up a new facility in South Chicago with 50+ new hires. His team worked with AllyO to set up and automate applicant capture, screening questions, and scheduling. They ended up scheduling a whopping 600 pre-qualified applicants during one hiring day event:
+If you just think through it administratively, having to schedule 600 people, you have to make all those phone calls? It’s just never going to happen.
+I like this example because it avoids the ethical and technical limitations of the “dumb ATS” that Brian Sommer skewered in If you fix just one process in HR, make it recruiting – Part 1 the dumb ATS. But this use case isn’t about automating screening of applicants. It’s about solving the all-too-human logistical headache of scheduling applicants. AllyO provided Anixter with a way to deepen their face-to-face interview pool – not limit it.
+As Mackin told me, automating the process made a huge difference:
+I posted this ad on our normal job boards, worked with my marketing team to run a Facebook ad, and that was it… There’s a lot more to it, obviously, but from a scheduling and screening perspective, there’s no way I would’ve been able to do that all on my own.
+We get into hot water when we use the word “AI” too freely. Mackin made the crucial caveat. He doesn’t care if what he’s using is truly AI; he cares whether it’s helping him get more talent in the door. And he agrees with Sommer: resume screening tools aren’t getting it done.
+I think a typical recruiter gets 100 applicants. Are they actually talking to all 100 people? There’s no way they are… If you say, “Hey, I want an AI solution to help me screen candidates.” Well, you [typically] get a resume screener. To me, that’s not really AI… I think we’ve got to define what AI is. I didn’t want a resume scanner.
+Mackin is hopeful to expand the use of AllyO beyond special event scheduling. But as far as “AI” goes, start with basic use cases that get results. Mackin:
+If you don’t do a lot of those basics, then you’re never going to move onto the next thing. We can define AI however we want, but I’m looking at AI as: just things that make work easier.
+AI in HR – early adopters have a competitive edge
+There is a first mover advantage:
+The companies that integrate AI throughout their entire organization to automate simple administrative tasks are going to have an enormous competitive advantage over companies that don’t.
+HR shouldn’t fall behind the rest of the organization either. Take the lead instead:
+Within finance, there’s been a lot of automation that’s been introduced over the last five years into those groups. There’s no reason that we shouldn’t carry that on to HR.
+Mackin sees opportunities:
+To me, it makes sense to automate the administrative tasks. It makes sense to automate the scheduling. I think candidates want that and hiring managers want that.
+Where AI can help recruiting – and where it can’t
+Automating screening for certain criteria is a fail. But AI can still help in candidate evaluation, in the form of chatbots and digital assistants:
+I think it makes sense to automate the basic screening criteria. Sometimes with jobs, you need to have a CPA. A candidate might apply, and maybe they have a CPA, but they don’t put it on their resume. So if you’re using a resume screening tool, it’s going to screen that personnel.
+A human interviewer can solve that problem by verifying degrees. But that doesn’t scale. Mackin thinks that an AI bot or voice assistant could fit in well here, asking candidates if they have certain requirements or verifying aspects of their background. Turn the example around: what if someone has a CPA on their resume, but they didn’t actually complete the program? A bot can help with that too.
+On the flip side, “No, I had CPA on my resume because I was on a CPA program but I didn’t complete my CPA.” Okay, well, I don’t want to interview that person. They don’t meet the basic requirements.
+This is a far better use of “AI” than ATS:
+A screening tool that uses natural voice technology – whatever they want to call it – that works well for that. I think applicants appreciate at least having a conversation, even if it is with a chatbot.
+This could also help identify candidates who don’t have the credential managers think they need. But perhaps they are almost there, such as an almost-CPA just a few hours or an exam away. You wouldn’t have known that if you relied on keyword screening, but because you used a bot to pull out that information from the candidate, it comes to your attention. Then you can decide as to whether the candidate is appropriate or not, without a machine screening them out when they are close to satisfying the need for a credential.
+My take
+Still, there remains the danger that automating HR for efficiency ends up failing the overriding mission of finding the best talent. HR managers who want to deliver on talent in the midst of automation should heed Brian Sommer’s warning:
+The systems used by employers to manage job openings across their enterprises and screen incoming resumes from job seekers, kill 75 percent of candidates’ chances of landing an interview as soon as they submit their resumes, according to a recent survey from a job search services provider.
+Sommer isn’t just relying on stats; he’s put his resume through this grinder.
+The Machine Learning in these tools is primitive, opaque and not very smart. I use my own resume and personal data to test a lot of HR systems…
+[One] ATS program also borked all my employment history. It even objected to an accomplishment of mine (i.e., where I testified before the Pathways Commission on the future of the accounting profession) as I didn’t list any monetary deliverables from that ‘employment’.
+Sommer’s warning to HR managers and recruiters?
+In effect, great people with resumes that ATS’ struggle with will get low rankings. Low rankings virtually ensure that these candidates will get overlooked. Again, these are potentially great hires that recruiters will never know about.
+It’s encouraging to hear about companies like Anixter that are not only avoiding these pitfalls but putting “AI”/HR automation to work for them, albeit with lots of work ahead. One more vital point: most companies don’t have the internal data science and development skills to do this on their own. Selecting the right AI solutions partner is essential. To that end, Mackins is clear about his choice of AllyO:
+I can’t find anyone else who’s doing all of this. I can’t find anyone else who’s putting together all the different things into one package.
+Sounds like the makings of a solid partnership – one I hope to follow as Anixter gets further down this road.
+
+Image credit - Feature image - Kid with jet pack against autumn sky background. By @Sunnystudio, from Shutterstock.com.Read more on: HCM and the digital future of workIoT robotics and AIMachine intelligence and AITalent managementUse cases 

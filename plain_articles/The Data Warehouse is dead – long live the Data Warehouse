@@ -1,0 +1,61 @@
+
+The data warehouse has proven to be a useful and resilient approach to report and understand an organization’s operations with a history that runs decades.
+Before data warehousing, reporting and provisioning data from disparate systems was an expensive, time-consuming and often futile attempt to satisfy an organization’s need for actionable information. Data warehousing promised clean, integrated data from a single repository.
+The ability to connect a wide variety of reporting tools to a single model of the data catalyzed an entire industry: Business Intelligence (BI). However, the application of the original concepts of data warehouse architecture and methodology are today weighed down by complicated methods and designs, inadequate tools and high development, maintenance and infrastructure costs.
+Until recently, computing resources were prohibitively costly, and data warehousing was constrained by a sense of “managing from scarcity.” Instead, approaches were designed to minimize the size of the databases through aggregating data, creating complicated designs of sub-setted databases and closely monitoring the usage of resources.
+The Data Warehouse is dead
+With the rise of Big Data, and especially Hadoop, it was common to hear vendors, analysts and influencers opine that the data warehouse was dead. After all, they were expensive, rigid and slow. To paraphrase Glenn Frey in Smuggler’s Blues, “it’s the lure of easy resources, it’s got a very strong appeal.”
+Much is made of Big Data being a so-called game changer and the successor to data warehousing. It is not. If anything, Big Data represents an opportunity for data warehousing to fulfill, or at a least extend its reach closer to its original purpose: to be the source of useful, actionable data for analytics.
+Data warehouse thinkers will of necessity have to abandon the vision of one physical structure to do this. Instead, the data warehouse of the future will have to cooperate with many different data sources. It will act as a virtualized structure, operating a sort of surround strategy of ‘quiet’ historical data warehouses, extreme, unconstrained analytical databases providing both real-time update and near-time response and non-relational, big data clusters such as Hadoop. Big data forces organizations to extend the scale of their analytical operations, both in terms of volume and variety of inputs, and, equally important, to stretch their vision of how IT can expand and enhance the use of technology both within and beyond the organization’s boundaries.
+On-premise, hybrid, cloud?
+Here is a partial (but not complete) list of data warehouse platforms today:
+DW survivors, originally on-premise, now hybrid
+
+IBM
+Microsoft
+Teradata
+Pivotal/Greeenplum
+Oracle
+
+Pure Cloud
+
+Redshift
+Snowflake
+Incorta
+Google
+
+On-prem or…?
+Data warehousing based on relational databases inherited all of the advantages and disadvantages of those models. This was especially true for those RDBs that were designed for transactional processing but pressed into service for the very different processing needs of data warehousing and the analytics they were meant to support.
+This was true for Microsoft, IBM and Oracle. In the early days of data warehousing the performance of these three products was very poor which drove clients looking for something that was designed for data warehouse operations, such as Teradata, Red Brick, Pivotal/Greemplum, Vertica and, ironically, Paraccel, whose source code was licensed by Amazon and re-branded as Redshift.
+All made strides to improve their products for data warehouses. Microsoft licensed code from Sybase for SQLServer, but it bears little resemblance to that now. IBM and Oracle continuously improved and enhanced their products too.
+As it stands now, all five of the ‘survivors’ have complete cloud, on-premises and hybrid cloud solutions. The question is, is there really any difference in the ‘made for the cloud’ products and the ‘survivors’ cloud offerings?
+Every product has an overlapping set of features, but the central questions are:
+
+What are the advantages of cloud-based data warehouse?
+Do the ‘survivors’ provide a sufficient amount of those advantages to consider as opposed to the pure cloud offerings?
+
+Alooma points out;
+Rather than following a prescribed structure, each cloud warehouse has its own. For example, Amazon Redshift mimics the structure of a traditional data warehouse, while Google BigQuery doesn’t use servers at all, but instead allows users to query and share data without having to set up and pay for storage.
+What does the cloud data warehouse provide?
+Scale: In general, compute resources are a more expensive component of the data warehouse than data storage. By separating compute resources from storage, the data warehouse can store massive amounts of data, but only process as information is requested. In an on-premises approach, all of that data would need to be housed locally at a much higher cost.
+Flexibility: By separating the data from the compute processes, it is possible to create as many virtual data warehouses as are needed.
+Performance: Is still an open book. It is not clear in data warehouse/analytical queries that simply spinning up more servers improves performance. What made the purpose-built databases like Teradata so successful was that there was decades of engineering to continuously improve performance through massively-parallel processing optimization and workload management technology and, perhaps most of all, the hard link between the software engine and the proprietary hardware it ran on.
+Cost: Everyone has changed their pricing for the cloud, but it is difficult to pinpoint what an implementation will cost. The lure of cheap storage can lead to things getting out of hand, because it may be cheap (relatively) but it isn’t free. All of the survivors have switched to subscription pricing scheme, but there is so much complexity in each contract, it’s hard to tell. My suggestion to IT is to engage an expert on the contract and pricing details (we saw that often during the ERP days). My recommendation to vendors is learn the value of transparency.
+Security: This is a tricky one, because there are so many points of entry, especially in a hybrid solution. Most database products implemented security against internal threats, but the need for malicious external threats is a more recent phenomenon. It is conceivable that lessons might be learned from the work Salesforce is undertaking to harden its security.
+What should any data warehouse provide?
+• Support any data locality (local disk, Hadoop, private and public cloud data.)
+• In-database advanced analytics.
+• Ability to handle native data types such as spatial, time-series and/or text.
+• Ability to run new analytical workloads including machine learning, geospatial, graph and text analytics.
+• Deployment agnostic including on premises, private and public cloud.
+• Query optimization for big data.
+• Complex query formation.
+• Massively parallel processing based on the model, not just sharding.
+• Workload management.
+• Load balancing.
+• Scaling to thousands of simultaneous queries.
+• Full ANSI SQL and beyond.
+My take
+The native-cloud data warehouse databases may provide capabilities and advantages not seen in the earlier ‘survivor’ databases, but how robust are they? I won’t do a feature comparison here or rate them, that’s not my gig, I’m just here to flesh out the issues. I can tell you that some of the pure cloud offerings are weak in many of the above requirements. Is it a data warehouse product, or is it a collection of existing modules tied to together on a PowerPoint slide? For example, Cloudera’s data warehouse doesn’t have anything in it that didn’t exist before they started calling it a data warehouse. Like throwing a bunch of different cell lines from different species into a Petri dish ad calling it an organism.
+Bottom line, as the late industry analyst Mao Zedong once said: “It doesn’t matter if the cat has a tail or not, as long as it catches mice.” The Big Data Scare tries to throw data warehousing under the bus, only to learn that the problem with data warehousing was its implementation and technology, not its value to the organization. The Data Lake was not a solution.
+Image credit - via idxRead more on: Analytics planning and data analysis 

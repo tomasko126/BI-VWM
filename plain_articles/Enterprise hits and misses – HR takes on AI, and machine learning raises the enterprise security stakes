@@ -1,0 +1,66 @@
+
+Lead story – AI and digital must put people back at the center of work – Unleash19 by Phil Wainewright
+MyPOV: For a little while there, humans were out of fashion. “AI” was going to save us from ourselves – or at least from our productivity misadventures. But as Phil reports from Unleash19, humans are back in fashion. He quotes Slack CTO Cal Henderson:
+We can use tools and technology to help do a lot of the heavy lifting … and that moves HR professionals into a role where their time is spent better on the things that computers are bad at and humans are very good at — like relationship building and time spent one-on-one with employees.
+Phil warns: we’re not in the clear yet.
+Artificial intelligence is so powerful and reliable that the decision makers who direct it need to make their choices very carefully — and we must all stay alert to their role.
+This might sound obvious to some, but Phil sees a welcome shift in tone:
+I noticed a marked change in the maturity of the discussion at this Unleash event compared to previous ones. No one is expecting digital transformation or artificial intelligence to deliver change unless the human dimension is addressed. That’s a welcome shift, and one that underlines the key role HR professionals will play in ensuring these technologies deliver value to the enterprise.
+Phil’s piece acknowledges the reality of automation and the skills implications. From my side, I’d like to see HR taking more collective responsibility for the training needed. HR needs to make clear the employment risk of passivity. Assurances about the value of human creativity and empathy are great, but I can think of plenty of corporate environments where one or both is in short supply. Let’s see HR take a central role in that conversation.
+Diginomica picks – my top stories on diginomica this week
+
+Regulation or hestitation – how to manage the internet? Where we go next… Chris rolls out a two part think piece on a topic coming to a regulatory boil. There’s a lot to unravel here – I just hope regulators have the digital sophistication to do so, otherwise the legislation will compound the problems. As Chris notes: “The core issue is friction: how much friction can a social platform be forced to accept before people stop using it?” Also see part one: Regulation or hesitation – how to manage the internet? The story so far…
+Williams Sonoma vs Amazon – a court case that has wider implications for retail e-commerce – Speaking of laws, Stuart looks at a big retail case set to kick off next month: “This court case is about the inevitable tension between the biggest online retailer of them all and how other brands deal with a behemoth that is potentially a good partner and equally a ruthless competitor.” Also see: Stuart’s ASOS and Ocado – why warehouses matter in an e-commerce retail world.
+
+Vendor analysis, diginomica style. Here’s my top choices from our vendor coverage:
+
+Slack co-founder Cal Henderson on the 1% emoji and values at work – Phil brings views from Unleash, via one of the most influential companies in the future of work milieu. You won’t be able to get me jazzed up about emojis – I don’t really see how a smiley face gets rid of 500 email “reply to alls” from Hades – but I do like this Henderson take. “[I’m] constantly thinking about what’s a high-leverage use of my time, because I know what I’m doing today in my role is going to be very different to what I’m doing next year. “
+Oracle MCX 2019 – Blue Cross Blue Shield of Michigan shares why moving to the cloud is just one part of business transformation – though the tech part of this transition is still in the early phases, this was one of the most compelling overall transformation stories I’ve filed this year. I also posted this wonky news analysis piece: MBX 2019 analysis – Oracle updates its AI strategy for B2B, including the impact of DataFox. Then there’s my Oracle MBX/CX event wrap podcast with the reliably acerbic soon-to-be-book-author Brian Sommer, expertly produced by Den Howlett.
+Burgers, toothbrushes and flatpack furniture – Zuora CEO points to Subscription Economy transformation boom – Stuart with the latest news – and data – from one of the key voices in the so-called Subscription Economy. Check this: “Subscription businesses are growing revenues about 5 times faster than S&P 500 company revenues and US retail sales.“
+
+A few more vendor picks, without the quips:
+
+A funny thing happaened on the way to cloud world domination – VMware in focus – Kurt
+How Nutanix uses Clari for AI-powered sales and forecasting – with 99 percent adoption – Jon
+Rimini Street opens up a new front with first public incursion into Salesforce territory – Stuart
+Done Right part deux – a conversation with Alex Shootman, CEO Workfront – Den
+
+Jon’s grab bag – Den weighed in on Brexit hanging over an SAP customer show in Brexit chaos – the business verdict from SAP Business ByDesign customers. He also found plenty to gnaw on via a podcast roundup with Vinnie Mirchandani, whose most recent SAP book is ready for debate and perusal: SAP Nation 3.0 – Manifest Destiny, a review and conversation.
+Martin ponders cloud at a crossroads in Cloud technology – increasingly unimportant in important ways. Finally, Neil wades into the potent IT issues implicated in the recent tragic Boeing crashes, and some broader IoT implications (Sensory deprivation – ‘garbage in, garbage out’ revisited for the IoT era).
+
+Best of the rest
+AI and cybersecurity – hackers versus enterprise AI – articles by Satish Abburi and Juned Ghanchi
+
+MyPOV: Nothing bugs me more than the lazy marketing gimmickry proposition that “AI and machine learning will change enterprise security for the better.” Shouldn’t we start with the acknowledgment that bad actors will have access to the same tools? In Hacker AI vs. Enterprise AI: A New Threat, Satish Abburi does just that. Abburi writes:
+Automated penetration testing using ML is a few years old. Now, tools such as Deep Exploit can be used by adversaries to pen test their targeted organizations and find open holes in defenses in 20 to 30 seconds — it used to take hours. ML models speed the process by quickly ingesting data, analyzing it, and producing results that are optimized for the next stage of attack.
+Why is the playing field so level? Abburi says that cloud computing and affordable CPU/GPUs allow black hats to become experts wielding AI/ML tool sets. I’d add that state-sponsored attackers have deep pockets to throw at this as well. Abburi:
+When combined with AI, ML provides automation platforms for exploit kits and, essentially, we’re fast approaching the industrialization of automated intelligence to break down cyber defenses that were constructed with AI and ML.
+That doesn’t mean AI is irrelevant to security or that all companies are equally vulnerable. If anything, Abburi believes this should motivate companies to “operationalize” AI security to better contend with false positive/negatives. If tech is an equalizer, our processes/people/diligence is the difference – either for bad or good.
+Over at The New Stack, Juned Ghanch comes to a similar conclusion in The Possibilities of AI and Machine Learning for Cybersecurity. Ghanch believes we run the risk of AI over-automating security, taking humans too far out of the loop:
+When to save repetitive work and all the resources, we depend on AI-powered systems and undermine the combination of machines and human expertise, the automated security systems remain vulnerable to threats.
+It’s refreshing to read these sober takes – they dovetail with Phil Wainewright’s point on the benefits of a more mature AI conversation.
+Other standouts
+
+Exploring the “Unknown Unknowns” in IT-enabled Digital Transformation Estimates – solid piece by John Belden of UpperEdge, with bonus points for bringing Donald Rumsfeld’s (in)famous unknown unknowns into the digital transformation convo. Nice counter-intuitive point on being wary of low estimates (“low estimates result in digital transformation failures”). Oh, and a blind spot warning: “Recognizing and acknowledging your own blind-spots can be tough to swallow, but wouldn’t you rather understand your blind-spots before you start your journey rather than when you reach the precipice of a failure?“
+Boeing 737 Max: Software patches can only do so much – I’ve held off on the Boeing crashes to avoid exploiting the tragic, but there are plenty of tough software and IT lessons to be derived here. Some of them are in this piece by Jason Perlow (autoplay-video-yuck alert).
+
+Less standout enterprise blogs than usual this week. I won’t add substandard pieces just to take up space here. Get busy bloggin’ folks!
+Whiffs
+So a Russian perfume company suffered a setback. They were compelled to remove a fragrance called ‘Sexual Harassment’ after social media backlash. If the Brexit petition Den blogged about doesn’t come through, thank goodness there’s a plan C: Uri Geller tells PM: ‘I am going to stop Brexit telepathically’.
+AT&T took another much-deserved trip through the 5G bullshit meter overload PR spank tunnel as well (AT&T’s “5G E” is actually slower than Verizon and T-Mobile 4G, study finds).
+Meanwhile, I took a jab at a journalist who is jazzed up about the convenience of an airport facial recognition system in China:
+
+But can you opt out? Guessing not. So, way more creepy than convenient https://t.co/oxg2PAyp84
+— Jon Reed (@jonerp) March 24, 2019
+
+I don’t know if this system is opt-in or not, but don’t you get that powerless feeling that most facial recognition systems will be imposed on us, rather than offered as an opt-in convenience? Yes, there will be reassuring safety and security rationalizations offered up – as the line in the sand keeps blurring. Funny how when it blurs, it moves in on us.
+Finally, I took another potshot at LinkedIn’s personalization prayers finely-honed ad display:
+
+re: making a difference with a job at the border patrol. 
+-> I feel like I could make more of a difference working for @LinkedIn to help with their ad personalization strategy… pic.twitter.com/gckEcc1ljp
+— Jon Reed (@jonerp) March 22, 2019
+
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+
+Image credit - Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, Rimini Street, Workfront and Salesforce are diginomica premier partners as of this writing.Read more on: Digital transformation - frictionless enterpriseHCM and the digital future of workHits and missesIoT robotics and AIMachine intelligence and AISecurity 

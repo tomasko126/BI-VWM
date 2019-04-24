@@ -1,0 +1,81 @@
+
+When a company is evaluating new ERP solutions, they expect the vendors to either implement the software or recommend a partner firm that can.
+Unfortunately, too few ‘implementers’ are actually ‘integrators’ and frustrated software buyers aren’t liking this. Worse still, the integrators out there possess scant knowledge or interest in doing the work that’s needed to get ALL of a system fully operational and effective for the client.
+As the market moved from on-premises to cloud solutions, service organizations have tried to simultaneously move to a new business model. The new model has these characteristics:
+
+‘Consultants’ don’t travel anymore. They phone-in their work products remotely. Unfortunately, you need to be at clients sometimes because that’s how you read the body language of trouble makers/Luddites, keep after clients to get their work done, mediate design decisions, clarify confusing matters immediately not weeks after the issue becomes known, etc. Yes, it’s great to work at home but you can’t say you know the client’s issues/needs unless you walk a mile in their shoes at their facilities.
+‘Consultants’ might serve several clients daily and dozens of different clients over a week’s time. Because of their narrow specialization, no one consultant sees the big picture nor takes accountability for the project’s success. Moreover, if one consultant configures something wrong, another one might not catch the error. There is little to no continuity between consultants on a given project and that makes success a slim probability. Without continuity, accountability is dispersed over a wide-number of constantly changing people.
+The implementation is mostly a pre-baked set of spreadsheets that clients must populate with master file and transaction database material. The consultant uploads these into the software. Frankly, if that’s all there is to an implementation, every client could do it themselves and never need a consultant. This approach is incomplete and seriously wrong.
+
+Take financial accounting implementations. Most growing firms want to dramatically change their chart of accounts, reporting structures, budgeting processes, and much, much more when implementing new products. They don’t want to replicate the old systems, processes, reports, etc. in the new system. To avoid this, they want a consultant who knows things like
+
+How to configure a different inventory valuation method and the implications of same.
+How to design new asset/lease accounting requirements into the new system.
+How to eliminate a significant number of accounting period reconciliation schedules.
+
+You can’t phone that in and it doesn’t happen by making a client fill in a form. No, a great set of implementers would help the client radically reimagine their processes, establish new/better controls, develop analytics with the new data and other data that’s now available.
+The best implementers create an environment that is quite different than before BECAUSE that’s how you create value for the client. Giving the client the same functionality that’s been lifted and shifted to a new ‘platform’ adds little to no value.
+The implementer might show the customer how to use the reporting, data upload tool and possibly the integration tools but the implementer doesn’t really integrate any systems together. This one really gets my blood boiling. Let’s review this in detail a bit later.
+The wide-open, meaningless proposal
+Clients often ask me to assist in redlining software and implementation contracts. The software deals are often needlessly complicated, expensive and sneaky. The implementation proposals, if you want to call them that, are almost pointless to review.
+Why? Like a cheap men’s suit, these service proposals are mostly a one-size-fits-all deal that actually doesn’t fit anyone. The typical ‘proposal’ has these points:
+
+It was prepared without ever visiting the client (Huge red flag by the way!). It’s a boilerplate bit of language that was not tailored to the client. In legal parlance, it assumes a lot of facts not in evidence. It’s neither accurate nor realistic for most firms. And yet, it has a price tag, hours, etc. This document only exists to keep the integrator in the game and avoid any sales costs not covered by a signed deal.
+It does not mention any team members by name. These proposals generally won’t even list who the project manager will be. If you get anything at all, you might get shown some example resumes but no one is committed to this effort.
+It covers only a few of the most basic needs. All other tasks will be surfaced after the customer signs the deal and is beset with a blizzard of change orders.
+The agreement stipulates that within the first month of the service work, the implementer will ‘discover’ the true scope, approach, deliverables, staffing needs, timetable, etc. of the effort. While this could have been uncovered in a day or two before the deal was signed, this process ensures the client pays handsomely for this estimate and is locked into a deal with the integrator. This is great for the integrator as it freezes out the competition, avoids a competitive bid and gives them the opportunity to really ramp up the deal size.
+
+Each of these dynamics has problems for the client.
+
+Customers can’t take these pitiful excuses of a services’ estimate to the Executive Committee or board of directors as these estimates have no basis in reality. No Executive Committee would proceed with an unknown implementation price tag. Worse, the company might choose the wrong software product if it assumed one product’s implementation cost was materially cheaper than it would actually be.
+Many service deals are predicated on the client signing a subscription with a vendor. The problem with this is that the client can’t decide on which of its software deal finalists to go with if it can’t get reasonable integration estimates from the service providers.
+The worst decision a client could make is to sign up for a multi-year software subscription and services deal only to learn in the first 30 days that they’ve made a multi-year, million-dollar plus mistake. No amount of platitudes from a software company CEO about customer experience and customer satisfaction can turn that disaster around.
+
+Why integration is tough
+There are at least three broad kinds of software integrations: one is common and straightforward, one is unacceptable and one is too tough for many implementers to handle.
+The worst is when one system generates an output file, usually a comma-delimited CSV file, that will require further manipulation by the client using some combination of tools like Microsoft Excel, Microsoft Access, etc. before it can be uploaded in batch to another system. This method isn’t integration as it really is a way to introduce errors, increase operating (and audit) costs and trigger data latency issues. In the year 2019, no client should settle for this and yet it is one of the most common ‘solutions’ pitched by Payroll providers and down-market ERP products today.
+Another integration method involves a direct mapping of fields from one system to another. This mechanism can be very useful in many applications especially when the integration is intended to access a few data elements in/out of one system and use them in another. This works well in environments where data in one system is validated in another (e.g., when a recruiting application sends a request to a third-party tool to validate an applicant’s prior employment history). These are simple to do and many software vendors have tools and connectors that make this capability easy, fast and low-cost to complete.
+The third kind of integration requires skills few implementers seem to possess anymore. In this situation, the customer needs to create complex, two-way integrations that may require a very intelligent integration. Payroll systems are often the poster child for these but many operational systems need these, too. Here is the payroll example:
+To calculate payroll, the payroll application will need all kinds of changed employee master file data (e.g., promotions, terminations, benefit elections (and their costs), raises, commissions earned, job grade changes, new withholding information, new work location, cost center changes, etc.) plus the time worked, vacation accrued, vacation used, sick time used, etc. The payroll module might also need a salaried person’s regular weekly pay or an hourly person’s hourly wage. Algorithms and rules for calculating PTO accruals, overtime pay, shift differentials, etc. are also needed. And that’s just to calculate gross pay.
+The payroll system will perform the gross-to-net calculation and then be ready to dump its activity to some kind of flat file. Part of that could be useful to other systems such as:
+
+Core HCM – YTD payroll and benefit cost data could be needed to develop Employee Rewards statements and other historical pay reports.
+Cost Accounting – Cost accounting software needs to know actual vs. standard costs. To get the actual data (from payroll) it may need total payroll cost by employee by shift by cost center and other break downs. If that detail isn’t in the outbound payroll interface file, an allocation or other method may be required to make these calculations.
+Data Warehouse – Like the previous interface, a data warehouse may need a well-delineated breakdown of actual payroll costs to apply against budgeted targets.
+General Ledger – The G/L will need payroll costs for the pay period by cost type, cost center, legal entity, etc. However, there’s another wrinkle here as pay periods may not align with accounting periods so the interface should also generate the appropriate accrual and reversal entries.
+
+This example points out several things:
+
+Some integrations are 1:1, some are 1: N, some are N:1, and some are N: N. Few vendor supplied tools can support anything more than simple 1:1 connections.
+Integrations that require processing (e.g., allocating of amounts, creation of journal entries, etc.) are hard to do. Moreover, these require design time with clients. I really doubt you can phone this work in.
+Some integration will take in data in one level of detail and may need to provide data back in a different level of detail. That’s okay if the output can be summarized but much harder if it needs to come back in a more granular level.
+A great technical architect is needed for more complex integrations. I only know a few people with this skillset.
+
+Beyond the payroll example, other integration challenges can appear:
+
+In the IoT world, billions of unimportant status updates from devices may need preprocessing to either summarize or eliminate this noise. The challenge for an integration specialist is to know what really is unimportant noise or potentially the signal for upcoming trouble/opportunity.
+Some integrations have to occur in a very specific sequence or data integrity issues will occur. 
+Error handling must be part of any integration design. If some or all of the data must be reprocessed, how can this occur without compromising data integrity?
+
+A final caution on the different kinds of integrations is this: the implementer may ‘think’ a potential integration you need can be completed via one of the software vendor’s simple, canned connectors or integrations. However, during the implementation, they will ‘discover’ that your integration is far more complex than they assumed. And the change orders start flying…. This could have been avoided if they did some discovery before giving your firm a proposal.
+My take
+Here a few suggestions:
+
+Software buyers should independently source implementation services and not rely on the ‘partners’ referred to them by software vendors. Of all the deals I’ve seen in 2018 and 2019, no client accepted these service firms and their proposals. Vendors don’t necessarily pick the provider that’s right for your firm. They pick service providers who hired their brother-in-law, who invited them to the Super Bowl, who kick back fees into some joint marketing slush fund, etc. Go ahead and ask a vendor “Exactly how did you come to choose this particular implementer for us?” Prepare to be lied to.
+All implementation partners should be vetted against a system like Raven Intel to determine the likelihood for a successful effort. The Raven folks also went undercover to contact potential implementers. Their mystery shopper experience is one to read.
+Don’t be afraid to shun the big firms and go direct with specialists and independents. Many of my clients have gone this route and have saved lots of money, time & aggravation. Remember, you need to buy the people not the brand on this kind of work.
+Ensure you’re getting an integrator not an implementer. The former should tie all your systems together. The latter may only stand up the new system without connecting it anything else in a meaningful manner.
+Reject implementer proposals that require an initial 30-day scoping period. If they won’t make the effort to learn a little bit about your firm pre-proposal, what makes you think they’ll care anymore later?
+Reject proposals that don’t specify the team members who’ll actually do the work.
+Reject proposals that insist on the right to substitute every team member.
+Consider using an independent third party to provide quality assurance. Many integrators like to provide their own people to do this role; however, it is a role rife with potential conflicts of interest (e.g., letting the prisoners guard themselves). While it might work with the better implementers, wouldn’t you really want an impartial view of things?
+Get help developing the services RFP. Yes, you’ll want your in-house counsel and procurement folks involved. But getting an outside specialist in, for example, cloud implementation contracts, could be a real game changer. Cloud contracts are very different from the on-premises arrangements you are quite used to reviewing.
+Limit the total number of team members so that project continuity can be enforced. 
+Do not pay/subsidize the ‘getting up to speed’ of new project team members. Vendors won’t switch out people daily if they have to eat these costs.
+Customers should vet/interview each and every consultant that is going to work on their project and don’t be afraid to let them go if they are not performing for your organization. That pearl comes from SAP HR expert Jarret Pazahanick. And make sure you really probe them to understand the depth of their product knowledge. Reliance on their LinkedIn profile or stated certifications is not always a reliable measure. Jarret even published this guide to evaluating consultants. While it is somewhat SAP specific, the context is spot-on.
+
+How can integrators prove their chops? Give potential bidders a chance to show their integration savvy by having them diagram all of the affected interfaces required for your system. On projects I’ve done, I’ve had to document dozens of these, one for each unique process (see below), so that we could understand how many integrations had to be built, how many connections each had, the directions data must flow, etc.
+
+Chances are, if you’re dealing with a services salesperson, they can’t do it. Get someone who can. If they can’t prove this, they’re not an integrator no matter what their sales collateral and sales professional says.
+Yes, it’s a Wild West out there. So, caveat emptor folks…
+Image credit - Ja zur Integration © drubig-photoRead more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architecture 

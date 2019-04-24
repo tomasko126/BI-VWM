@@ -1,0 +1,31 @@
+
+When Bill McDermott, CEO SAP starts fielding investor calls later today, I’m quite sure he’ll be giving high fives to the various cloud-related teams for delivering a solid performance in Q3 FY2018. (PDF) But are the numbers and more specifically the forward outlook enough to keep SAP’s Wall Street watchers onside? Let’s deal with the top line first as illustrated in the PR:
+
+Luca Mucic, CFO SAP likes to talk about predictable revenue and he must surely be more than happy at getting to 68% and close to the goal of 75% which was confirmed in the presser.
+As promised SAP’s business is growing its resilience with a constantly increasing share of more predictable revenue. All of this makes me confident that we will deliver on our raised2018 outlook and 2020 ambition.
+As always the devil is in the detail so while McDermott says:
+Our growth drivers are firing on all cylinders,especially SAP C/4HANA and SAP S/4HANA as foundations of the Intelligent Enterprise
+You have to read that in context and against the detailed backdrop:
+SAP’s C/4HANA customer experience solutions achieved triple-digit growth in new cloud bookings and cloud subscription revenue year-over-year. Segment revenue in Customer Experience was up 54%to €232 million year-over-year (up 54% at constant currencies).
+But – of that €232 million only €151 million came from cloud solutions. On-prem still rules the day although I suspect SAP will seek to change that narrative as it applies machine learning capabilities into the mix. In applications, technology, and services, cloud represented €600 million – a credible jump of 38%. No additional detail was provided but again it is likely that SuccessFactors led the way. On S/4HANA, SAP said:
+S/4HANA adoption grew to approximately 9,500 customers, up 37% year-over-year. In the third quarter, approximately 50% of the additional S/4HANA customers were net new.
+In the geographical analysis, SAP said that for EMEA:
+Cloud subscriptions and support revenue was strong and grew by 40% (IFRS) and 40% (non-IFRS at constant currencies) with Germany and Russia being highlights. In addition, SAP had strong software revenue growth in Russia, Italy and the Netherlands.
+I’d love to know what those German highlights consist of because it is only two days ago that DSAG reported that only 10% of its members are interested in cloud-based ERP solutions:
+…for the most part, core processes are being left in ERP, with only 10 percent of the respondents moving them to the cloud. Which leads to a further request on the part of DSAG. “We need fewer cloud-only developments and expect functional developments in terms of maintenance, not a new cloud subscription,” urges Marco Lenck. “Functions within core applications must remain integrated.” Only then can business processes be modeled efficiently.
+Whatever SAP might say to the contrary, ERP remains its backbone revenue driver with Germany driving around 14% of all revenue. Getting the German-speaking countries onside with S/4HANA is, therefore critical. That message has not quite made it past the DSAG sniff test and, given the lack of UK referencing, I suspect the same is true in that region. But more of that later when we visit SAP UK&IUG’s Connect event next month.
+My take
+This was an interesting quarter.
+As I’ve said before, I am heartened by the fact DSAG and SAP’s technical community are more or less on the same page. That will lead to happy customers and where there are happy customers, then there is revenue to be found. However, it worries me that while SAP talks 50% net new in S/4HANA and 9,500 customers, live reference customers are thin on the ground and largely limited to brands we already know are part of the long-term SAP family. Sooner or later that comes to bite SAP because there are very real limits to shelfware in a cloud-driven world.
+I also worry that while SAP is providing welcome color to the LOB narratives, there remain too many vague statements. Saying for instance that:
+Companies like Deloitte and Chint Group are among many others that adopted SAP Leonardo solutions in the third quarter
+…is a meaningless statement. What does ‘many’ mean? 10,20, 100?
+From a practical perspective, SAP has other challenges. Jarret Pazahanick has created quite the meme around ‘Wild West consultants’ in the SuccessFactors space. Before these results went public he put this out:
+
+Here is ANOTHER #SuccessFactors "Wild West" example as someone wants me (and everyone they BCC"d) to fraudulently take an interview "which will be easy to crack" on his sisters behalf so she can get an Employee Central job. Customers beware! #ASUG #DSAG pic.twitter.com/Kb9px6s4BK
+— Jarret Pazahanick (@SAP_Jarret) October 17, 2018
+
+This kind of problem cannot be allowed to continue as it is reputation damaging in ways that even corruption scandals can’t muster.
+On the other hand, I think SAP has a really good opportunity to flesh out its multi-cloud approach in an appealing manner while at the same time building upon its new found love for openness. That’s missed in this quarter’s scorecard. Maybe it’s too complicated for the minds of those occupying Wall Street firms but a basic understanding of the business model that openness and open source support is important for the future corporate and revenue generation narrative.
+That same narrative also sits well with the idea that boards and top-level management need to be much more aware of what a technology-driven business looks like. It can’t all be left up to the CIO.
+Image credit - earnings illustration via SAP, featured image via Jon ReedDisclosure - SAP is a premier partner at the time of writingRead more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureCRM and customer experience 

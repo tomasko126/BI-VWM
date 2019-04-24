@@ -1,0 +1,48 @@
+
+
+Over the last few years, a number of colleagues have been posing the question: If cloud ERP is the next iteration of what underpins enterprise business transactions then why have we not seen an explosion of customer interest and the emergence of new players in the field?
+Looking back over the last 15-20 years, I can count on the fingers of less than two hands the number of firms that have emerged in this field. If anything, the cloud ERP choices for enterprise beyond the SMB market are extraordinarily limited compared to those available in the on-premise world. Yet for all of that, the noise generated around anything cloud related is such that you never hear about developments in the on-premises world. Or if you do, it is almost like a dirty word.
+In the last six or so months, I’ve been pondering this question in the context of the very real explosion in non-ERP solutions. Readers don’t need me to remind them that innovation from China in AI, London and New York in fintech, smart cities scattered around the world and, of course, blockchain anywhere dominate the news cycle. But when you try to imagine what a 21st-century enterprise technology landscape will look like, it is odd to consider that today, and perhaps for the next 10-15 years, many businesses will be cobbling on-premises and cloud solutions. It’s caslled hybrid by those selling the solutions. I prefer to call it Frankensoft (courtesy of Brian Sommer.)
+The Big Dog in this scenario is, of course, SAP and to its credit, the company has been banging the cloud drum as loud as it can. But having poured many millions of ad dollars into its cloud-focused campaigns and with CEO Bill McDermott reminding investors at every turn that SAP is ‘the cloud company’ SAP is faced with multiple challenges in shifting its customer base to cloud solutions.
+Where’s the issue?
+Some colleagues believe that, among other things, it is the SI ecosystem that is holding the customer base back. Is that a correct assumption? Let’s be clear, this topic is only one of many that could be discussed but it is interesting in the context of SAP having an end to end cloud solution that delivers value. That system is SAP Business ByDesign (BYD.) Yet for all practical purposes, BYD is invisible, despite the fact it is closing in on a level of ARR that others can only dream about.
+To answer my question, I solicited a call with Robert Townsley who has successfully completed a number of BYD deployments. Townsley has topic authority worth hearing. Over the last five or so years, he has transitioned from a 30-year career as an on-premises ERP consultant with one of the global firms to that of the Lone Wolf who finds distinctive value in cloud ERP and BYD in particular.
+Townsley has discovered that the Private Equity community is very interested in solutions like BYD because PE investors want to see value as early as possible and at a fractional cost of a traditional ERP implementation. In Townsley’s view, BYD delivers on both fronts and has the track record to prove it.
+Value delivered
+So what makes BYD his solution of choice? The answer is remarkably easy to understand and should be familiar to anyone who has heard a cloud ERP pitch. BYD:
+
+Removes the technical infrastructure headaches that have to be baked into on-premises implementations before anyone gets to write a single line of functional code.
+Provides a genuine fast track to value, provided the customer follows the best practices for their situation.
+Allows the customer to modernize processes from an end to end perspective. (In Townsley’s view, BYD is the only solution that can credibly make that claim.)
+Provides as standard, an enterprise and consistent view of the data that describes the business in financial terms.
+
+What BYD doesn’t do is provide the traditional SI with the kind of multi-year implementation contract that allows those same firms to achieve maximum utilization of personnel. In short, if your business model depends on sending out hundreds of engineers for months and years at a time, then BYD doesn’t fit. BYD, therefore, does not find favor among the large SIs and, we suspect, is actively marketed against.
+SIs as blockers
+This is diametrically opposed to where SAP says it wants to be. For example, at the last capital markets day, McDermott and his colleagues stressed that SAP has a desire to put partners at the center of its sales strategy, noting that 187 partners have been onboarded for cloud work.
+But, SAP is looking at many of those same partners as capable of delivering multi-year, mega-million dollar deals. My reading of that is it sounds a lot like counting upon customer commitments in a quasi on-premises model. It certainly doesn’t fit with the notion that ‘as a Service’ delivery is an earned right. Nor does it fit with encouraging partners to sell relatively low-cost solutions like BYD, even when that solution is fit for purpose.
+If that wasn’t bad enough, mine, Townsley’s and other analysts views are that SAP’s real problem comes in the shape of account control. SAP knows that having paved the way for IBM, Accenture, Deloitte, EY, PwC, and others to profit from long-run projects, those SI firms are not going to give up account control so easily when they know they can go back to customers time and again with the latest shiny object du jour.
+Future fit?
+Townsley argues that BYD is a proven, stable solution to the point where he is exploring the potential for positioning BYD as the backbone for producing templated solutions that PE firms can readily mandate in the full confidence that they will see the kind of value that has been demonstrated so far.
+That model comes with certain caveats, not least ensuring that the right partner is in place to deliver. But doesn’t that model also mean competitive advantage through distinctive processes is lost? Apparently not. According to Townsley, he has seen situations where essential external control systems have been easily integrated through web services – in days, not weeks or months. He anticipates the same will hold true in other scenarios
+Crushing the best
+So what holds SAP back beyond the stated partner ambition? A recent Twitter thread is revealing. Try this:
+
+I'd love to work in an equitable relationship with SAP but they make it hard. There's no recognition from their side that the folks on this thread are in the top 1% of the consulting industry which warrants a different type of arrangement.
+— Nathan Genez (@NathanGenez) February 25, 2019
+
+There’s plenty more where that came from, not least this:
+
+What’s even more depressing – everyone on this thread is either a Mentor or alumnus.
+— ⒹⒺⓃ•Ⓗ ㋡ (@dahowlett) February 25, 2019
+
+If SAP is ignoring those it holds up as beacons of innovation among the developer community, then what hope can there be for the smaller firms that are only too willing to give BYD a shot?
+My take
+ERP may not be the sexiest thing in the enterprise technology landscape but modern ERP systems – and here let’s not forget NetSuite, Rootstock, FinancialForce, and Workday as well as BYD – provide the backbone from which all else follows. While SAP continues to elephant hunt among its largest customers, the mid-market is badly underserved yet SAP has an awful lot of legacy customers who will have to do something in the next few years or get left stranded. They’re not all going to be S/4 HANA candidates.
+The question then comes – will SAP start to promote BYD for those customers where there is a good fit or will it allow its competitors to come in under the proverbial radar and erode their customer base in ‘death by a thousand cuts?’ Try these action ideas as a starting point.
+
+I am with Townsley that SAP needs help in the shape of cultural recognition that its market position provides the basis for a fresh narrative around fast track delivery and value – something that has been noticeably missing from the current marketing rhetoric.
+SAP needs to revamp its partner programs to make it much easier to do business. In that sense, it could take lessons from Microsoft, the company that demonstrated how you take a world-beating system (Windows) and get partners of all stripes to support your schtick.
+Instead of expecting partners to be the ones who have to come with the begging bowl, SAP needs to recognize that partners need genuine support too. In short, you can’t sell when you can’t get attention.
+
+Finally, the paradox for SAP is striking. In conversations with the BYD team, I discovered that BYD is taking advantage of the genuine innovations SAP is making in cloud services delivery. That’s a free lunch that others can only crave for and which in my view strengthens the BYD proposition in ways that don’t sacrifice the end-to-end value proposition. What’s not to like about that?
+Image credit - Bill McDermott CEO SAP at Sapphire Now 2018Disclosure - SAP, NetSuite, FinancialForce, and Workday are all premier partners at the time of writingRead more on: Cloud ERP financials and supply chainInfrastructure 

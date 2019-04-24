@@ -1,0 +1,46 @@
+
+One of the most compelling themes in today’s enterprise is the resurgence of manufacturing.
+Not all manufacturing, of course. Saying “all manufacturers are thriving” would be as sloppy as saying all retailers are thriving.
+But: manufacturers that harness the right niche – and the right tech – are excelling. IQMS calls this standing tall; their customer stories are instructive. Recently, I delved into the success of Innovative Composite Engineering (ICE), an IQMS customer with a knack for building specialized composites for customers with very high quality and security standards.
+With three members of the ICE team on the phone, I asked them: how has Innovative Composite Engineering managed to thrive for thirty years, despite industry shifts? Sales Manager Rob Warwick answered first:
+We make very intricate, complex, and really demanding composite structures. One of our forefront expertise is in tubes – tubes for support structures, to oil and gas, satellites, recreation, and pretty much everything in between.
+“We have thirty years of experience with composites”
+Yes, customer tube specifications can be very stringent, such as “zero thermal expansion” requirements. But ICE is more than just tubing experts. Warwick points to one big difference: deep composite experience.
+Basically, we have thirty years of experience with composites – long before carbon fiber was somewhat of a household name. That gives us an edge in manipulating it in ways that others don’t think about.
+They are approached by customers that can’t get the job done elsewhere:
+Often, our challenges are simply something the customer was unable to meet through other manufacturing processes, and maybe just a lack of just experience… We’re all born and raised in composites, and, we’re able to bring a solution to the table that often was previously thought of as maybe impossible.
+From spreadsheet overload to manufacturing ERP
+But to mass produce those types of parts, you need modern manufacturing systems. For Innovative Composite Engineering, one big piece of that puzzle is EnterpriseIQ from IQMS. They’ve been EnterpriseIQ ERP customers for seven years now, and continue to increase their sophistication in its use.
+So what was the initial reason for going with IQMS? ICE quality engineer John Roberts was there at the time. He recalls the pre-IQMS spreadsheet overload:
+We were the typical manufacturer using Excel spreadsheets. Everything was disjointed. We knew that to go to the next level, like we were envisioning ourselves, we had to do something different – and tie all the information together.
+We had actually tried another package first, and it just didn’t work. The team just said, “We’ve got to go back to ground zero”, and IQMS rose to the top.
+Getting it right – traceability and security
+Three and a half years ago, Innovative Composite Engineering went live on IQMS Enterprise IQ. As ICE matures on IQMS, they add to their footprint. So what are the key areas they’ve expanded into? Win Wheeler, ICE database administrator, says traceability tops the list.
+A lot of our parts are unique; we have individual serial numbers for each part… So our inventory process is more like a school roster than it is a traditional manufacturing warehousing environment. Because of that, in a lot of cases, we do individual work orders per part. That way, we have a unique identifier for each part as it goes through the manufacturing process.
+And they can do all that within EnterpriseIQ? Wheeler:
+For the most part, yes. We still have a few challenges that we’re working through, but we’ve come a long way in the last couple of years since I’ve been here.
+ICE utilizes IQMS heavily in their day-to-day. It starts with finite and manual scheduling. On the manufacturing side, they use EnterpriseIQ to control processes and track technician time as parts go through the process. They also rely on IQMS for shipping and invoicing.
+Security is a hot topic across industries, but for Innovative Composite Engineering customers, it’s an absolute. So how do they handle it? Wheeler:
+Some of the processes that we do are actually air gapped. So, you know, no connectivity means better security. Some of the processes are not air-gapped, but we still have a very strong firewall. Just the Oracle portion of security by itself is fairly strong, and state of the art. And then, along with security, and the traceability requirements and auditing, are all things that we value – and provide value to our customers.
+The ICE team told me they can accomplish most of their security requirements within EnterpriseIQ. But that raises a crucial point. ICE knows that they are not a typical IQMS customer. Their niche and requirements are a bit outside what you might call the IQMS mainstream.
+So I asked the ICE team: the caliber of relationship with IQMS must be really important to you, for good dialogue around your requirements. Wheeler responded:
+Yes, it’s absolutely crucial. When I go to the IQMS Pinnacle summit, I spend a lot of time talking to the developers and the people who are working on the next release of IQMS.
+Dassault Systèmes acquires IQMS – a customer reaction
+Speaking of relationships, I wanted to know: how did the news on IQMS’ acquisition by Dassault Systèmes go down?
+Turns out that ICE is already a heavy Dassault Systèmes user, with both CATIA and SolidWorks in-house. The ICE team has clear views on what they want from the combined entity: integration.
+Louis Columbus of IQMS, who joined me on the call, shared IQMS’ plans for “greater and greater transparency”, with a focus on tighter integration between IQMS, CATIA and SolidWorks. The goal? To be able to go from SolidWorks design models directly into production, then on to aftermarket service. Warwick responded:
+On your note about integration, anything that I can arm our engineers with to make the process of initial design, exploring pricing, to get in production everything they need to make the part in mass – anytime we can make that more streamlined is obviously beneficial and advantageous. So, yeah, I’m all ears.
+As for the initial acquisition news, Wheeler says:
+I was definitely surprised about the IQMS merger. But I think it does make sense in the long run. Ultimately, creating a more seamless workflow in the manufacturing environment makes a lot of sense.
+The wrap – on the pursuit of real-time analytics
+One thing that stood out to me about ICE: as they embrace new tech, they have a security standard that can’t falter. For example, Louis Columbus recently wrote a piece on 2019 predictions for manufacturing CIOs.
+I talked to the ICE team about the tension they see between trend number two, doubling down on security, and trend number nine: “CIOs will lead their companies out of costly price wars by finding new ways to use IT as a platform to fast track smart, connected product development.”
+Opening up platforms and “connecting products” raises new risks that ICE will assess carefully. That said, Innovative Composite Engineering doesn’t intend to sit on the sidelines as these trends unfold. One of the big features of the 2018 IQMS Pinnacle event, WebBI, isn’t a fit for ICE, as web-based BI is ruled out for security reasons. But Wheeler is still eager to pursue BI for their IQMS data:
+Certainly anything that can help us with business intelligence and the speed at which we can see what’s happening is useful.
+I asked Wheeler: what are their biggest BI goals? Predictive maintenance, better inventory visibility for customers, etc.? Answer: all of the above.
+Just being able to better predict when a part will be finished, completion rates, what’s the status, what’s our realistic expectation as to real delivery dates, those kinds of things. It would be useful to be able to just jump into that in just a few seconds time, and be able to see what the status is on the customer.
+For a sales manager like Warwick, that kind of talk is music to his ears:
+As someone forward-facing and dealing with the customers daily, the quicker I can get that data, the better. And it’s a very nice to be able to quickly see where a part is, better visibility on its intended due dates, intended shipment, etc.
+Achieving real-time analytics like these isn’t something you pull off overnight, but is Warwick happy with the progress?
+Absolutely. Yes. I do that almost every day, all day. I think there’s always room for improvement, but you know, I’m getting there by the minute.
+Image credit - Feature image of composite manufacturing - from Innovative Composite Engineering web site.Disclosure - IQMS is a digiomica premier partner, as is Oracle. Read more on: Digital enterprise in the real worldInternet of ThingsSecurityUse cases 

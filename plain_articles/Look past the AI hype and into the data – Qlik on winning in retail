@@ -1,0 +1,49 @@
+
+The underlying theme of NRF 2019 was clear: retailers are in the data business now. That doesn’t mean they are using data correctly, or even using the right retail metrics.
+What it means is that winning and losing in retail has a lot to do with how you apply data towards improving customer/employee experience – not to mention your supply chain.
+And no, that doesn’t mean retailers want a heaping helping of whatever “AI” means today.
+Who better to hash this out with than Qlik – an analytics company knee deep in data conversations with customers? We weren’t able to meet up at the show, but after NRF, I got on the phone with Scott Jennings, Director, Industry Solutions – Retail, Consumer Products, and IoT with Qlik.
+Retail theme #1 – AI overload
+So, Mr. Jennings, what did you make of the show? His first theme: “AI” overload.
+I was just overwhelmed by how much AI was in almost every single booth, and it didn’t matter what they were selling. They could have been selling point of sales systems; they could have been selling HR systems. I found that very interesting, yet curious at the exact same time.
+Why so?
+When I read your NRF articles, they were really focused on data, and I think you were right. I feel like what was presented at the show was more the technology of AI – and not necessarily the data is the underpinning.
+Retail theme #2 – IoT sensors get real
+Jennings’ second theme? Call it the rise of the sensors:
+The second theme I saw was just connecting the dots. The past couple of years in particular, IoT Internet sync has been a very hot topic at NRF. Some of it is more real than others. I think in the past couple of years, it has become real. I think we are seeing it implemented more and more.
+I saw a common theme across sensors, beacons, drones, camera systems, as well as a lot of the grab and go type of stores where you had vendors with an Amazon Go – but they all had their own name of it, if you will.
+For retailers, Jennings thinks the IoT message is sharper than the AI hype:
+If you really synthesize that, and boil it down, it’s the concept of IoT and connecting the dots across the entire retailer. Unlike the AI talk, which I thought was overwhelming. I thought the IoT message and connecting the dots was fairly spot on.
+Retail theme #3 – from omni-channel to “unified commerce”
+Jennings surprised me with his third NRF theme. He thinks it’s about a terminology shift:
+This is very subtle. I didn’t see it mentioned in a lot of the recaps, and I read a ton of them. The pivot I saw in this conference, more so than any other NRF in the last ten years, it’s the pivot from omni-channel to the term “unified”.
+I saw it in unified commerce, unified planning, unified retail, unified architecture. In years past, omni-channel was obviously was the big trend all throughout retail. This year, it felt like there was a consorted effort to move away from that term somewhat.
+Not because it doesn’t work, but because I think it had been overplayed to such an extent, that many different vendors, many different scenarios I saw in booths, they made sure to highlight the word unified. I found that very interesting because so many vendors gravitated toward the exact same word.
+I noticed some use of “unified” too, but I think I tuned it out as buzzword redirection mischief. What does Jennings think that terminology shift is about?
+I think it’s about the practicality of being able to be flexible and shift on the fly as a retailer to get something done. Omni-channel to me is more of a concept that has been brought to reality, but there is some academics behind it. I think the concept of unified is, we can bring together all of your channel data, we can bring together all your supply chain data and connect it up with your sales transactions to get a complete view of the transaction.
+So those are the trends, but how do they impact customers on the ground?
+It’s just a fact of life that when you walk into a retailer; it’s true of wholesalers, it’s true of manufactures as well, there is going to be disparage data all over the organization. There is no such thing as one data source.
+Just pulling analytics from your ERP system isn’t going to cut it for more retailers.
+Over the summer, I talked to a very large consumer products company that sells tools. They told me they have over 75 ERP systems in play. That’s through acquisitions over the years. When you get into that kind of the volume, the idea that you’re going to put a pie chart on top of one data source doesn’t make a whole lot of sense.
+Learning from Qlik customers – analytics from IoT to sushi
+But when you add in new sensor data sources, that’s a lot of data for customers to reckon with. Jennings pointed to an intriguing one: a Qlik sushi customer.
+There is an interesting use case up on our website from a sushi restaurant chain, called Akindo Sushiro in Japan. They have about 400 sushi restaurants. They actually stream in RFID off of their plates of sushi, because they are a conveyor belt sushi restaurant chain.
+Analyzing the data from those belts yields sales insights:
+They correlate the freshness of the belt with their comparable sales and then compare it across their different chains. It’s billions of rows of sushi data per year. To me, it highlights the number of use cases coming out of IoT and connected devices. It’s literally infinite. Most people wouldn’t think about their first use case of sushi data. We have customers out there doing that today.
+Things brings us back to retail’s winners and losers, and how the savvy use of data factors in:
+From a perspective of inside the restaurant, they are able to put more resources in making sure that belt is as fresh as possible. In the end, that’s going to determine whether they are successful or not. There is a lot of competition for sushi in the Japanese market.
+I push back against real-time data as an absolute standard. To me, it’s about achieving “right time,” the proper balance of real-time versus cost and data quality. Timing always matters though. Jennings:
+No doubt about it. A lot of our customers, in particular on that freshness point of view. LUSH Cosmetics is a customer of ours. They’re taking about a million and a half U.S. dollars out of their supply chain in cost, just by load balancing what they manufacture versus what they sell in their stores.
+And how is that done?
+They have a product that has a born-on date. You wouldn’t necessarily think of soaps and cosmetics as expiring, but their handmade cosmetics do. If they don’t sell them by a particular date, they expire.
+Analytics can’t just pull from customer-facing apps: this applies down the supply chain as well.
+Doing that load balance between what we manufacture and what we sell is incredibly important. In many cases, that means taking data from the manufacturing process and marrying it with data from your retail process.
+Jennings makes his Qlik pitch:
+That’s where Qlik differentiates itself in the market place. Every BI vendor has their nice visuals. Our goal is to be the analytics platform that connects the dots in the back end. The Qlik associative data model allows relationships in the data to immediately showcase themselves. Anywhere you go inside a Qlik dashboard, you’re going to see everything related to it in white, and if it’s not related to it, it’s in gray.
+My take
+Jennings says their average retail customer uses at least twenty Qlik third party integrations, though that depends on the use case.
+I agree with Jennings on his core argument that customer and supply chain data are inseparable to a retailer’s data success. We had a good talk on equipping employees with that data, a potent topic I’ll return to in future retail pieces.
+And yes, generally speaking, IoT use cases are further along with retailers than “AI.” Though I’d make one distinction with Jennings’ views: I am seeing numerous examples of machine learning impacting mobile and e-commerce via recommendation engines and such, aka “personalization”. Whether you choose to call that “AI” or not, the use cases are proven and valuable. That said, much of the AI hype on the show floor was just that – not ready for ROI.
+I differ with Jennings on the unified buzzword. Yes, I think retailers are weary of omni-channel flogging, but the difficult imperative of providing a fluid experience for customers across channels remains. Call it whatever you want, retailers still haven’t achieved it, and fusing in-store and online adds to the urgency. If by “unified” we are talking about biting off a manageable chunk and getting a result, then fine. Either way, I classify that under “we have a long way to go.”
+I look forward to picking these conversations up with Qlik customers, hopefully at their May user event.
+Image credit - Feature image - Sherlock © LuckyImages - Fotolia.com.Disclosure - Diginomica has no financial ties to Qlik. NRF provided me with press access to NRF 2019, however, this interview took place after the show.Read more on: Analytics planning and data analysisMachine intelligence and AIRetail e-commerce and the omni-channel 

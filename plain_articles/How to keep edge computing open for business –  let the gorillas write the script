@@ -1,0 +1,26 @@
+
+The motion picture “Gorillas in the Mist,” was based on the 1983 autobiographical book by naturalist Dian Fossey. Before the book could be brought before the cameras, Fossey was mysteriously killed.
+Traveling into deepest Africa, Fossey becomes fascinated with the lives and habits of the rare mountain gorillas of the Ugandan wilderness. In 1997-1998, the filming was not going well. After twelve weeks on a mountain above Uganda, not a single frame of suitable film had been shot. The budget of $40 million was halfway depleted, and the director complained that “the gorillas won’t learn their lines.”
+An emergency meeting was held at the studio in Hollywood. Naturally, shouting and finger-pointing ensuing because the production company run by Peter Gruber wanted to bring the movie in under budget and critically acclaimed for their new ownership.
+From the back of the room, an unfamiliar voice asked to be heard, an intern. “Shut up, what do you know,” from the regulars, but Gruber gave her the floor. “Go ahead,” he said, “What’s your idea?”
+The Intern:
+Why don’t we leave a skeleton crew on the mountain to preserve the budget and just have the shoot the gorillas as is for a few weeks, bring what they have back here and we’ll rewrite the script based on what we have.
+Gruber:
+You mean let the gorillas write the script?
+The Intern:
+Exactly.
+So that’s precisely what they did. The movie came in under budget and won many critical awards. They let the gorillas write the script.
+Now, what does this have to do with open source edge computing?
+The edge is too significant to be hindered by a proprietary platform or two owning the space.
+Keeping the Edge open for business
+The diversity of devices, protocols, machines: A proprietary edge computing system does not keep up with rapid changes at the edge. An open source approach combines the insight and rapid development of hundreds of committers, moves the orchestration to the cloud and provides agility, performance, and security lacking in embedded software at the edge.
+One aspect of open source is that each project can build on others and not have to do all of the legwork to get a piece of software operation, they can concentrate on their unique approach, ideas, and requirements.
+There is nothing to stop the giants like Amazon, once they detect a viable market, from offering their own distribution and ultimately locking in their proprietary solutions. The question is can open source gather enough momentum to overcome the intrusion? (this needs some explaining)
+In the particular case of edge computing platforms. maintaining consistency, performance and security would only be limited to the use cases the proprietary products find interesting. The reason many believe that open source is the only solution for enterprise computing, which is clearly migrating from the data center to the edge, is that development by committers is not limited to a single software strategy.
+The edge is too important to be hindered by a proprietary platform or one or two owning the space.
+One particularly interesting company I’ve observed is Zededa. The best way I can describe it is as a VMWare for the edge, an open source edge computing start-up. Zededa is not an IoT data management company; it is a compute platform for of enabling autonomous data pipelines. It appears to make the edge a third kind of a cloud (in addition to public and on-prem).
+When you think about the wild cacophony of data and devices at the edge, providing a smooth mechanism for connecting all that to the cloud or the data center, all both, is a big deal. All of the diagrams of sensor data flowing through a gateway to nearby processors and on to the enterprise overlook a critical issue: the need for processing edge data to refine, reduce and convert it, ready for transport.
+Zededa does all is from the cloud. It is evident that the edge is dominated by proprietary embedded software which is wide open for hacking and security breaches because the software is tightly bound to the hardware. By managing this from the cloud, Zedada is designed to secure the Edge environment and allow cloud-native apps built for containers, VMs, un-kernels, etc, to operate at peak efficiently without requiring any additional embedded development work.
+My take
+Edge computing is not just another development in IT, it has to be protected from proprietary lock-in or innovation will be impeded and costs will escalate. Open source is the better solution.
+Image credit - Freeimages.com/Eduardo ArenasRead more on: Cloud platforms - infrastructure and architectureInfrastructure 

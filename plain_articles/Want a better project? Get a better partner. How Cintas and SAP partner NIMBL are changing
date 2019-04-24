@@ -1,0 +1,41 @@
+
+Matt Hough of Cintas, left, on SAP customer panel
+One of the under-reported truths of modern ERP is that partners have to change along with customers.
+At last week’s SAP Partner Business Forum in New York City, I got an up close look at that change during a sit down with SAP customer Cintas and their SAP services partner NIMBL.
+I asked Matt Hough, Senior Director, Enterprise Applications at Cintas, about whether he selected NIMBL. No, he explained, NIMBL was an inherited relationship. Then Hough quipped:
+But we made them better.
+Without skipping a beat, Yosh Eisbart, CEO & Founder of NIMBL, acknowledged:
+It’s true.
+Some might find the idea of needing to make your consulting firm better off-putting, but I disagree. The best customer/partner relationships push each other. When it comes to modernizing ERP, that mutual push is non-negotiable. Hough added:
+It’s a true partnership. We’re very transparent internally. We give out the roadmap; we forecast what the demand is. We try to get more accurate in terms of where are we going with this technology to create business value. And it’s been a very successful relationship.
+Hough said something else that I find holds true on most good SAP projects: the partner is invaluable, but not to the point of signing over autonomy.
+We control our strategies, and we leverage our partner to help enable that strategy. Obviously, our partner works with us to tune it and help us pick our spots right by creating more value. But when it comes to value, we are the stewards of making sure that value is created.
+Cintas is a long time SAP customer, running heavy duty, old school SAP systems like AFS (apparel and footwear) and APO (supply chain management). That makes sense considering that the Cincinatti-based Cintas is one of the largest corporate apparel providers in North America, with 35,000 employees as of 2017.
+“We’ve gone through a large transformation”
+But Cintas is not standing still on older SAP solutions. Hough described a practical-but-determined push to modernization, including a push to Fiori-based dashboards and the mobile enablement of 7,000+ field service workers. Hough:
+We’ve gone through a large transformation. We implemented SAP ten years ago for finance, supply chain, and then five years ago for one of our divisions. Two years ago we implemented for [another large division]. We’re still rolling that out.
+Hough and team are also integrating a two billion dollar 2016 acquisition into their SAP landscape, with the go-live slated for January 2020. They don’t just want ERP. They want a modern data platform:
+Where we’re working with our partners on this is rewriting some of those business processes, and optimizing the systems to handle all this data, and also making sure that we’re building the right architecture to leverage that data later. Whatever we want to do – monetize it, predictive, pricing, stuff like that.
+So that’s the core goal –  how does mobile field enablement fit in?
+Our biggest asset is what we call our service sales reps. They see the customer every week, right? They drop off, replenish – that is our competitive differentiator, right? They also sell.
+Those service/sales reps had an older mobile app. Hough’s team upped their game. They’ve built a real time mobile app that pulls data directly from the SAP system:
+We’ve taken it to the next level. They can actually put in information about their customer, get their history about that customer. They can see any complaints the customer has, and then address those complaints. We can order in real time through the mobile device. The reason we invested so much in that is speed of execution to revenue, and customer satisfaction.
+So how does NIMBL fit into the picture?
+We don’t have many partners. We have one that hosts our SAP system, and one that helps us operationalize and deliver, and that’s the NIMBL side.
+From ticket takers to business drivers – an evolving partnership
+From the NIMBL side, Eisbart told us that they put in over 2,000 hours a month across all of Cintas’ ERP systems, including all their integrations. Over time, NIMBL’s role has shifted. Eisbart told us when Hough was hired by Cintas a few years ago, “he brought a whole host of innovative ideas” with him. But you can’t innovate until you have a stable platform. Eisbart:
+When Matt came over, there was a ton of stabilization that needed to happen. They were moving 80 plus percent of their business onto SAP… I’d like to think that we’re pro-active in providing recommendations on how to be more innovative, and for them to expand their footprint.
+Eisbart credits Hough for spurring their team onward:
+He’s really helped us. We’ve grown together – even getting us into new skill sets that previously we didn’t have, more business-driven as opposed to maybe ticket taking. So, definitely our – what we call AMS – has evolved a great deal because of this partnership.
+Looking ahead, Hough expects their NIMBL partnership to continue shifting:
+We think Yosh has done a good job. It used to be the focus was the core ECC or CRM. But those are becoming a lot more stabilized now. And the focus for us to the company is leveraging new technologies so, whether it’s filling out Fiori, it’s doing a lot of Hybris work, and obviously working with our data wareshouse, our data analytics systems that we’re building right now. We believe that the next two or three years, the focus, the demand that we’ll be asking from Yosh is to now focus on those sides. We can handle the other stuff internally.
+The wrap
+Modernizing SAP landscapes is no cakewalk. Your industry needs – and the complexity of your existing systems – can pose challenges. Then there’s the notorious, but always relevant question of indirect access. We asked Hough if their bar coding projects he spoke about during a panel session invoked indirect access concerns. Hough told us that they had resolved those issues with SAP contractually. Some of those systems have moved to SAP’s document pricing model.
+We worked with SAP to implement the solution so we don’t fall underneath that. The license has changed to actually add the documents we can consume from an EDI perspective. Basically, they become a big block instead of an individual thing. They don’t count the barcode scanning as an indirect access.
+Other issues lie ahead. Hough says they are working with Adidas to advocate their retail roadmap needs and concerns to SAP. As of now, Hough says even if they wanted to move to S/4HANA, the industry functionality they need isn’t there yet. They are working with SAP to understand roadmaps and forward options on ECC, and S/4HANA, for AFS and APO. That’s an ongoing concern; sounds like it will take time and diligence on both sides to work it out.
+But for now, the Fiori dashboards have been a big success, giving real-time visibility to the numbers of garments to drop off and collect, and other data visuals that field reps thrive on:
+We have a good, progressive strategy. We’re actually transforming our architecture today, as we speak.
+And, as Hough told us, the right partnership with NIMBL to drive this change forward.
+End note: I was joined in this interview by blogger/analysts Josh Greenbaum, Vinnie Mirchandani, Dion Hinchcliffe, and Brian Sommer. Their questions added to the context here.
+Updated December 11, 9:00 PT with a few small tweaks for reading clarity.
+Image credit - Photo of SAP customer panel at SAP partner business forum by Jon Reed. Disclosure - SAP paid the bulk of my expenses to attend the SAP partner business forum in New York City. Read more on: Analytics planning and data analysisDigital enterprise in the real worldRetail e-commerce and the omni-channelUse cases 

@@ -1,0 +1,61 @@
+
+Serena Williams, guest keynote at Shop.org
+In my Shop.org preview, Five questions I’m chasing about retail’s digital winners and losers, I pushed back on the false narrative of a retail apocalypse.
+When I hit the ground in Las Vegas, I chased this question instead:
+Who’s winning in retail, and why?
+Even better: “Who’s winning in retail besides Amazon, Walmart, and niche luxury brands?
+To be fair, the “winner/losers” rhetoric is simplistic. Retail transformation is a quest with peaks and valleys. You can technically be “losing” today (market share, customers, storefronts), and, in some cases, come back strong.
+During the flurry of Shop.org interviews and demos, I kicked tires on a lot of retail tech (I’ll update my next-gen demo tech video series shortly). My biggest surprise? A number of retail players are actually getting results with next-gen tech. Not pilot projects, but live results. Sometimes the gains are modest. Sometimes the gains are significant, but they are typically focused on one or two areas.
+Often – though not always – some type of “personalization” is involved. Though as my colleague Den Howlett noted in The impact of personalization – real or imagined? A critique of Sailthru 2018 Retail Personalization Index, personalization won’t deliver in isolation. You can’t sprinkle “personalization” on a bad product or flawed customer experience like tech ketchup on mystery meat and expect consumers to like the taste.
+Retail winners from Shop.org
+Quick examples?
+
+The CEO of Shoptelligence told me how they help online shoppers discover relevant items: “With all the retailers where we’ve been deployed, on average, when shoppers engage with our technology, they purchase on average 66 plus percent more per transaction. The way we do that is by continuously exposing the shopper to multiple categories of items that go with the item that they’re considering at the time.” (Just don’t call it a recommendation engine – Shoptelligence bills itself as a virtual assistant).
+Salesforce’s Dwight Moore, Retail Industry Product Marketing Lead, said that in their annual Shopper-First Retail Report, which draws on data from 6,000 Salesforce customers, 75 percent of customers say they want to receive personalized offers. “Make it relevant to me” is the message here.
+Jonathan Taylor of Passage.AI says their solution for handling “level 1” support inquiries can result in a reduction of up to 20 percent of level one inquiries for employees to handle: “We say 10 to 20 percent, and that’s usually the initial results.” Sometimes a small percentage isn’t so small: “Sometimes, based on how they have structured their call centers, a 5 percent reduction is a real money saver. The ROI can really be produced there.” (Passage.AI’s bot platform is billed as a “conversational interface” for the entire business, not just support, but that’s one scenario getting traction).
+
+And yet, despite these gains, many retailers are struggling with the data platform to provide a true sense of personalization across touch points. Moore found ample evidence of that in their Shopper-First survey:
+We did 6,000 consumer interviews, and we also mined data across 500 million shoppers that are using our platform for transacting commerce. What we learned is 64 percent of shoppers say they don’t believe retailers know them.
+It’s not a lack of data; it’s the opposite:
+Retailers have more data than they know what to do with. It’s how do you pull that data together to create a 360-degree view of that shopper – to truly know who they are.
+Fresh stats debunk the retail apocalypse
+But retailers struggling with data is not the same as a retail apocalypse. IHL Group knows that storyline well; their most popular report ever is Debunking the Retail Apocalypse (from August 2017, free with sign-up). IHL made their case with a review of 2,400 retail chains operating in the U.S., via data from the IHL Sophia Data Service. They narrowed that down to 1,804 chains with 50 or more stores. Their conclusion:
+Over 4,850 more stores are opening than closing among big chains, and when smaller retailers are included the net gain is well over 10,000 new stores. As well, through the first seven months of the year, retail sales are up $122 billion, an amount roughly equivalent to the total annual retail sales of The Netherlands.”
+NRF always gets fresh data in front of us at their shows. So we got a new chapter on that research at Shop.org this year, via a presentation for media from Kelly Sayre, Retail/CPG Analyst at IHL Group. I took three conclusions from Sayre’s review:
+
+Behind storefront closings are other pitfalls a retailer is struggling with. Store closings are not pervasive but due to specific, identifiable problems. (One example: Walgreen’s has 1,175 store expansions underway in 2018; Rite Aid, on the other hand, is contracting by 1,871 stores).
+Some store closings are normal and cyclical for any retail segment. (Starbucks is closing 150 stores, 100 stores above their norm, but they are still in overall store growth mode).
+Retail is a vast umbrella; sharper insights can be gained by breaking retailers out by segment e.g. fast food restaurants or specialty hardgoods (Home Depot, Lowes, Best Buy). None of these segments are doomed; each is being disrupted in different ways to a different extent.
+
+
+Shop.org photo from IHL Group Retail’s Radical Transformation report
+Sayre backed up these points with stats:
+
+2017 online holiday sales were up 18 percent.
+However, that online increase only accounted for 25 percent of retail growth in 2017, meaning that 75 percent of the growth is attributed to traditional retailers.
+Retail sales are up 5.5 percent in 2018 through July.
+Across eight major segments like supermarkets and convenience stores, store openings total 12,663 for 2018 so far, versus 8,828 closures.
+
+Still, that doesn’t mean store closures aren’t a reality, fodder for headlines sober or sensational. As for store closures for retailers going out of business, Sayre cited four factors:
+
+The massive over-expansion of the store footprint.
+Unsustainable levels of debt.
+The lack of modern systems for delivering a better customer experience.
+Outdated business models.
+
+That doesn’t mean that retailers have easy times ahead. Amazon isn’t the only retail winner but the forces Amazon exerts are strong: IHL Group found that a whopping 55 percent of U.S. households are Amazon Prime members, and 69 percent of those households have an income of over $100,000. Sayres made the inevitable conclusion:
+We have to give them a compelling reason to come into your physical brick and mortar store.
+When a storefront doesn’t have the item we are looking for, they risk the sale:
+How many people just pull out their phone and order it online?
+So why do customers bother to shop in stores at all?
+They want it now; they need it fast… They want to touch it – maybe they’re looking for a little bit of experience with the product, or expertise from the sales associate. When you miss on these first two items, you miss period. They might not come back, because it’s just not worth it.
+It gets worse for storefronts:
+When consumers encounter out-of-stocks, twenty-nine percent will just go to Amazon and buy online.
+My take
+Sayre sees the fortunes of retailers mirroring the “haves and have-nots” theme of our economy as a whole. It’s a concerning statement but one I have no argument with. As IHL Group wrote in their latest report:
+The majority of the malls built in the last thirty years were built in areas thought to be middle class. But it is exactly the middle and lower class consumer that has been squeezed the most. When we add this to the unbridled growth of many mall-based retailers due to lower interest rates, we can see exactly why any hiccup in traffic is causing problems in these segments.
+Ultimately, we have to drill into each segment to really get a handle. IHL Group found that convenience stores and mass merchants had “outstanding” results in 2017. Do-it-yourself, men’s clothing, and toys had a good 2017 in their research (despite Toys R Us). Whereas “department stores and softgoods are really struggling. Appliances, sporting goods, and office supplies were all down more than five percent in 2017.”
+Based on my question to Sayre, it doesn’t appear to me that IHL Group has looked hard at how retailers are utilizing storefronts to facilitate online ordering with local pickup, and how storefronts should transform to accommodate the pick-up shopper (A recent visit to a San Diego Whole Foods showed how Amazon has converted an entire section to a bustling Prime pickup center). It’s an area worth tracking – and not worth conceding to Whole Foods/Amazon. I’ll look forward to further data on that front.
+That sets the stage for a deeper look into the upstarts I spoke with at Shop.org that are helping retailers change for the better. Expect more installments as we go.
+End note: IHL Group’s new retail transformation report also includes a one hour webinar replay reviewing their results.
+Image credit - Photo of Shop.org with guest keynote, Serena Williams by Jon Reed. Photo of IHL group retail openings and closures slide by Jon Reed.Disclosure - Salesforce is a diginomica premier partner. Read more on: CRM and customer experiencee-commerceRetail e-commerce and the omni-channel 

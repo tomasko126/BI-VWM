@@ -1,0 +1,84 @@
+
+
+Lead story – Autonomous AI is scary, practical AI is useful – digonomica stories by Jerry Bowles et al
+
+So The Guardian has a bone to pick with “alarmist” coverage of AI. And yet, in their critique of alarmism, they used the word “alarmingly.”
+
+‘The discourse is unhinged’: how the media gets AI alarmingly wrong https://t.co/b9z6ycMBUW -> The @Guardian falls into the same “alarmist” attention trap they are attempting to criticize. Maybe they see the dilemma now.
+— Jon Reed (@jonerp) July 26, 2018
+Still, Maureen Blandford found something to like in The Guardian’s piece:
+
+This is the AI take the market needs.
+“There are policy makers earnestly having meetings to discuss the rights of robots when they should be talking about discrimination in algorithmic decision making.” @zacharylipton
+The #MarTech cabal is equally guilty here.
+— Maureen Blandford (@MaureenB2B) July 26, 2018
+Agreed, but it’s not either/or. Jerry’s Autonomous AI is the end of the world as we know it. Do you feel good about that?  flags up disconcerting issues. Autonomous AI, as it applies to weapons systems, is very much a real thing. This isn’t just certified nutjob Silicon Valley headline-grabber Elon Musk, but a bunch of concerned experts issuing their warning:
+More than a dozen countries, including the United States, China, Israel, South Korea, Russia, and the United Kingdom are believed to currently be developing autonomous weapons.
+Jerry goes on to say:
+Right now, most AI in use falls into the category of narrow, or weak AI because it is designed to perform a single narrow task—drive a car, recognize faces, perform internet searches, remind you to take your medications.
+Agreed on the narrow part, but not on the weak. From a use case vantage point, applying machine learning to a narrow area can pay off. We’re trying to document the wins, as in my podcast/post, Become an ML-savvy organization – a practical AI review with Brian Dennett of Enable.AI.
+For business relevance today, Dennett rejects the term AI entirely:
+
+I don’t like the term AI. What I’ve gone with is IA – intelligence augmentation. We are still the AI. Humans are still the AI. What AI tooling can do is empower the human.
+AI techniques are really good at taking complex data and figuring out good ways to package that in bite-size, digestible chunks and make humans more effective at making decisions.
+
+But there’s a dark side to algorithmic approaches that needs tracking. Brian Sommer’s keeper, “You’re not our kind of people” – why analytics and HR fail many good people, is one such wake up call.
+Diginomica picks – my top two stories on diginomica this week
+
+How Toys R Us’s collapse has focused Hasbro’s digital thinking – Sometimes pain leads to a proper navel-gazing design thinking blowout rehash. Stuart assesses Hasbro’s chances, fueled by new omni-partnerships. Also check Stuart’s Isn’t it time to lose the e-commerce attitude at the high-end of retail?
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Google Cloud Next 18 analysis and use cases – Phil put Google Cloud through the enterprise readiness test, via a slew of content and uses cases. For starters:  Cloud Next 18 – HSBC to run business banking on Kubernetes in Google Cloud, and Cloud Next 18 – Google puts Kubernetes on-premise and TPUs on the edge,
+Four very likeable things in SYSPRO 8 – Brian kicked tires on SYSPRO, found things he liked (and, well, a couple Sommerian nits (to pick). A reader quibbled with Brian’s multi-tenant critique. Knowing Brian I think we have haven’t heard the last on this one.
+Criticism of Salesforce’s border protection deal highlights the million dollar question around corporate activism – Stuart weighs in on a company trying to do the right thing, but in very complicated waters: “There is a price to pay for taking open ethical positions – and this is it.”
+
+A few more vendor picks, without the quotables:
+
+Travelers Insurance speeds up business ask to production process with MongoDB – Derek
+Can Oracle realize its ambition to compete as a hyperscale cloud? – Phil
+Couchbase CEO Matt Cain – IT must innovate even when budgets are flat – Jon
+CIOs want to run IT as a business and that suits ServiceNow CEO John Donahoe nicely – Stuart
+
+Jon’s grab bag – Speaking of nits-to-pick, Den boiled a few lobsters of his own in IBM fails GDPR sniff test – and loses an opportunity to educate on blockchain reality (In fairness, this one’s also a whiff by IBM opportunist partner Procurious. Sometimes it takes a village – of mopes).
+Den notched a slew of pelts in The failure of Twitter and social media management suites to get GDPR, which shares the yucktastic underbelly of our social medial tool evaluation, where everyone from Twitter to Sprout Social is dropping the privacy ball:
+
+In our view DMs are private conversations and as such should never be visible except as between intended recipients. The fact Twitter has effectively exposed these via their API is worrisome.
+
+Yep, it’s worrisome, but it might not bug you. But I’ll bet, if you’re a Facebook user, something in this will: The high price of privacy – Facebook sees $150 billion wiped from its market cap. As Stuart says, it’s a lot harder to make big dough when you can’t play as fast and loose with your victims addicts users.
+Best of the rest
+ Lead story – Slack buys Atlassian’s HipChat and Strike as enterprise messaging heats up – 
+MyPOV: Right at presstime, the news broke that Slack buys Hipchat with plans to shut it down and migrate users to its chat service. There’s a lot to pick apart here, which you can expect us to do in days to come.
+For now, this is clearly a move to sharpen market knives against an aggressive push by Microsoft Teams. Workplace by Facebook is a sneaky player here – a strange thing to say about Facebook, I know – but I see some huge advantages for Workplace over Slack, so hold-your-horsies on that two horse race narrative. Oh, and re: Microsoft as heavyweight, see Mary Jo Foley’s Microsoft crosses $100 billion annual revenue mark for the first time.
+Update: Den Howlett has posted his analysis.
+Other standouts:
+
+Closing the Factory Doors – ForeignPolicy.com asks: “For two centuries, countries have used low-wage labor to climb out of poverty. What will happen when robots take those jobs?” They later answer that question: investment and foresight are needed here. In other words: pro-active fortitude.
+Things I’d Like to See Go Away – CX Washing – Gartner’s Hank Barnes coins a much-needed term (CX washing), but as I told him on Twitter, I’m afraid we’re too late to hold back the marketing onslaught. Dig this: “I hope to never again hear examples like, “We can make it much for efficient for you to touch all your customers multiple times, across multiple channels.” as delivering a great experience. Unless those touches are quality, that’s not CX, that’s annoying spam.”
+The value of superior UX? Priceless, but awfully hard to measure – Joe McKendrick tackles the taboo topic of measuring the value of the user experience we constantly extoll. Bottom line: if your enterprise software is just for super-users you can’t measure UX the same way. But if you are extending to casual users (employees), or customers, you better have your UX [email protected] together – whether you can precisely measure its ROI at the moment, or not.
+
+Honorable mention
+5 Musts Before Diving into Enterprise Blockchain – Fighting the urge to say something snarky like “find an actual use case.” UpperEdge takes a refreshingly practical look at enterprise blockchains.
+The blockchain begins finding its way in the enterprise – TechCrunch’s Ron Miller also manages to navigate the blockchain hype cycle and surface the useful.
+Did voices carry Amazon Prime Day to record heights? Who knows – Brent Leary asks: did we cross the Alexa voice purchasing rubicon on Amazon Prime Day? His answer? Nah… not yet.
+Is Your SAP SI Partner Evaluation Missing the Mark? – Another pesky question, again from UpperEdge. This time, alas, the answer is yes.
+10 ways to make your corporate description (boilerplate) less dreadful – Without Bullshit’s Josh Bernoff nails down ten ways we fail in our overwrought attempts at brand descriptions that come out smelling like shoe polish overwrought. Only I’d put number ten at number one (“Shrink the approval committee”).
+Whiffs
+Seems like this column is full of whiffs already but here’s a couple more. Via reader Frank Scavo:
+
+I can think of a couple good #EnSW jokes about this: Zoo accused of painting donkeys to look like zebras https://t.co/8CDqjOVe18 @jonerp @BrianSSommer
+— Frank Scavo (@fscavo) July 26, 2018
+Hey, at least they didn’t claim the Zebra was multi-tenant… In other tech news, a celebrity gamer (yes, there is such a thing) had to make a gut-wrenching decision we can all relate to: YouTube gamer FaZe Censor breaks up with girlfriend Yanet García so he could play more ‘Call of Duty’.
+But as Censor says, that’s the price he pays for pursuing my nightmare his dream.
+Oh, and another setback for Facebook: Facebook forced to drop “feature” that let advertisers block black people, old people and women. It’s getting harder and harder out there for a data pimp broker y’all!
+Smelliest headline of the week goes to The Telegraph for: Parasite spread by cats drives entrepreneurial brilliance in humans.
+Finally, many have been grilled by Den Howlett, but he also grills a heckuva rib. Well, except for the evening grillfest he planned for yours truly. Those ribs got the vintage Howlett Friday Roast, and then some:
+
+Total fail on my part. I forgot to shut the vents in the final hour. Baby backs – cremated. So annoyed. Take out to the rescue. pic.twitter.com/nbzcATWyjE
+— ???•? ? (@dahowlett) July 19, 2018
+We can only hope Den publishes a post-mortem on this with the same excruciating excoriating detail as he did for the Anchorage payroll project. On a happy note, Den made up for it with some gourmet beef and salmon the following nights, more gourmet than I deserved…
+Sidenote: I’m on vaca next week, so for the first time in eons, you won’t see a hits and misses unless, for some reason, one of my colleagues decides to step in with a guest edition… catch you on the other side!
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, at the seaside © olly - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, ServiceNow and Salesforce are diginomica premier partners as of this writing.Read more on: Collaboration sharing and digital productivityHits and missesIoT robotics and AIMachine intelligence and AIProductivity 

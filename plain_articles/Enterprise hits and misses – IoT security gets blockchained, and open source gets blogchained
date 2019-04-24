@@ -1,0 +1,72 @@
+
+Lead story – Securing trust and identity in IoT with open source – a conversation with Ockam co-founders – by Den Howlett
+MyPOV: Den continues our diginomica podcast reboot with a writeup on his chat with the founders of Ockam. These Ockam guys are smart enough they’ve tricked me into breaking my vow not to write about blockchain until there is a live customer at scale (article forthcoming).
+Anyhow, Den diabolically lured the Ockam guys into a friendly podcast and then sprung a contrarian beast of a question on them chats up Ockam’s founders regarding the vulnerabilities of an open source business model (Ockam just open sourced its SDK). That ties into a broader debate on open source in the enterprise that fueled an old school flurry of blog posts (more on the below). For now, as Den writes:
+Securing IoT devices is (or rather has) been something that platform developers have to do from scratch. There are no commercial or open source platform infrastructure solutions that address the trust and identity issues at scale. This stuff is foundational and core to developer needs. Wadhwa found that building those foundations is hard work, ends up being proprietary in nature and is horribly complex at both the hardware and software layers.
+Security, IoT and blockchain – that should keep Ockam busy for a while I’d say.
+Diginomica picks – my top two stories on diginomica this week
+
+Blockchain app for miners in Rwanda ensures the minerals in your iPhone are conflict-free – We continue our blockchain binge with Madeline’s interesting tech supply chain use case. If Apple ever signs on board, that will be big news.
+Cloud ERP taking off but confusion persists around security and control topics – Kurt applies his distinctive brand of due diligence to cloud ERP adoption.
+
+NRF 2019 retail blowout coverage – I was in balmy New York City this week for NRF’s retail “Big Show.” Here’s the first few pieces, from next-gen tech ethics to archaic metrics:
+
+NRF 2019 – Facial recognition brings personalization to a head, and I put my face to the test
+NRF 2019 – All retailers are in the data business now; Chick-fil-A shows why.
+NRF to retailers, and Wall Street – we need better metrics to assess retail health
+
+Jerry posted a related piece this week: Say hello to Marty the Robot. He’s here for your retail job. The concerns Jerry raises in this piece are real, but the headline is too sensational for my taste. Based on what I heard from retailers on the ground at NRF, they are optimistic about automation and robotics in retail in conjunction with human workers, who will be put into more strategic and customer-facing roles. I share that optimism in the short term, but the long term impact of automation on retail employment, as robotics get more sophisticated, is a more concerning matter.
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Infor CEO Charles Phillips on the $1.5bn that sets up a massive tech IPO – Phil talks with Charles Phillips on a big milestone on Infor’s ten year transformation: “An Infor IPO, which could take place as early as later this year or in 2020, would be among the largest US offerings in history, given the company’s size and likely growth prospects.”
+Salesforce aims to bypass expensive mobile app dev – Martin on Salesforce’s push for rapid mobile app development tools. Why the push? Because, as Salesforce puts it, “Building user experiences for iOS and Android and enhancing them with backend services requires heavy development work.”
+Oracle Cloud Chief explains why autonomous features will further blur enterprise lines – Derek’s got the latest via Oracle’s European OpenWorld event. Madeline adds to the mix with a fresh use case in Macdonald Hotels gives staff the five-star treatment with Oracle HCM and Taleo.
+
+A couple more vendor picks, without the quips:
+
+How a bank, a travel agency and a sales team built call centers on Twilio – Phil
+Built on AWS, Zendesk Sunshine is a new take on enterprise SaaS and CRM – Phil
+
+Jon’s grab bag – CES and its techdrunk media lapdogs flogged the living heck out of featured driverless cars as emerging tech, but Stuart tells the robots to pump the brakes in Driverless car tech – it’s a long road ahead, according to Ford Motor and GM.
+Ever since the data warehouse came on the scene, visionaries have been trying to kill it. How’s that working out? Neil brings the reality check in The Data Warehouse is dead – long live the Data Warehouse: “The native-cloud data warehouse databases may provide capabilities and advantages not seen in the earlier ‘survivor’ databases, but how robust are they?”
+Stuart applies his GDPR chops to U.S. data predicaments in The Goldilocks dilemma – the porridge challenge for US legislators in pursuit of ‘GDPR-US’. Finally, Den found some predictions that didn’t make him retch worth pondering in Weekend Musing – deconstructing HfS 2019 predictions.
+Best of the rest
+ Lead story – The great open source enterprise debate, and blog chain – with Frank Scavo, Holger Mueller, and Josh Greenbaum
+
+myPOV: I’m partial to blog chains, or what Den Howlett calls “riffing,” because I think it advances conversations in a way that helps buyers. Far more than some chaotic tweeting that you can’t make sense of twelve hours later. I won’t credit any one person for sparking this, but I first read about this via Ben Thompson’s AWS, MongoDB, and the Economic Realities of Open Source.
+Thompson lays out open source business model problems raised by Amazon leveraging older versions of MongoDB. Constellation’s Holger Mueller brings this issue squarely to the enterprise in Musings – Why Open Source has won and will keep winning. Scavo raises the ERP and CRM stakes, asking why these areas have not been overtaken by open source in Why Is Open Source Not More Successful for Enterprise Applications?
+Greenbaum, who has recently blazed an odd but brilliant trail in Shakespearean software angst acerbic enterprise poetry, has some productive axes to grind on this topic. He chimed in next in Open Source, Enterprise Software, and Free Lumber. Scavo and Greenbaum differ on whether the commercialization of open source exploits community contributors. That’s a worthwhile debate, but more to the point here is Greenbaum’s response to Scavo’s open source ERP/CRM question:
+Referring to the virtues of open source as “free lumber” for software development, Greenbaum adds:
+The above free lumber model is excellent at building commodity software that is ideally suited to infrastructure software, but not highly valuable and therefore complex enterprise software.
+Enterprise software ideally has been through a process that I don’t see taking place in the Open Source world, particularly in our digitally transformative age: developers workshop business process renewal or creation with actual line workers in a particular business domain and together build a transformative new process that has pretty much immediate user acceptance, as the users were part of the design and development process.
+Sounds right to me. But I’d urge readers to review all posts and chime in. Scavo’s post has some terrific comments already. He’s added an update responding to Greenbaum. This is the kind of thoughtful intellectual jousting we need more of in this world right about now.
+Honorable mention 
+
+Principles of Good Large-Scale Agile – wait, there is such a thing? The New Stack makes the case.
+How SAP and Kronos’ Reseller Agreement Affects Existing Customers – UpperEdge assesses a sneaky big move by SAP on the HR side. For more context, check the SAP HCM Insights podcast gang in SAP-Kronos Partnership and Favorite 2019 Topics.
+Telcos promise to stop selling location data, but Congress is not satisfied – Stephanie Condon updates on a yucko privacy data telco whifferama: “While some carriers have now recommitted to stopping such unauthorized disclosure, the public can no longer rely on their voluntary promises to protect this extremely sensitive information,” Pallone said in a letter to the FCC.“
+My top productivity tools and tricks for managing my daily workflow (2019 edition) – very different than how I go about things, which is precisely why I enjoyed it.
+
+Whiffs
+I was deeply saddened to learn this week that a UK citizen, facing a fine for a routine traffic violation, was denied his legal option to have this matter settled, Game of Thrones style, via trial by combat.
+So this party-pooping fun-hater decided to run down a snowman in his truck. But the joke was on him; the snowman was built upon a wooden base.
+And then there’s this:
+
+People Are Renting Out Their Facebook Accounts In Exchange For Cash And Free Laptops https://t.co/wND4QkeLwQ 
+-> I wish that could explain some of the ridiculous posts from my friends
+— Jon Reed (@jonerp) January 18, 2019
+
+Looks like we’re off to a pondscummy swell start on Facebook in 2019.
+We’re in for a ton of security whiffs this year as rogues and black hats get more sophisticated, ergo: Employee Falls for Fake Job Interview Over Skype, Gives North Korean Hackers Access to Chile’s ATM Network. I hope hits/misses reader and SAP HCM Insights podcast core team member Jarret Pazahanick doesn’t get pulled into a tricky interview situation as well:
+
+will you take the interview?
+— Jon Reed (@jonerp) January 17, 2019
+
+
+Funny as just to humor myself sent back a "Interested" and he told me my interview could be set up this afternoon 🙂
+— Jarret Pazahanick (@SAP_Jarret) January 17, 2019
+
+I guess we’ll know more by next week… see you then.
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Snowboarder Crashing © dismagwi - all from Fotolia.com.Disclosure - SAP, Oracle, Infor, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Cloud ERP financials and supply chainHits and missesOpen sourceRetail e-commerce and the omni-channel 

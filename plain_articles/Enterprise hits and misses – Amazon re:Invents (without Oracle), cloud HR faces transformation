@@ -1,0 +1,68 @@
+
+
+Lead story – Digital transformation in the real world – utilities and beyond. Stories by Phil Wainewright and Stuart Lauchlan
+
+When you peel off the veneer of digital transformation, two things stand out: every industry has a different opportunity/predicament, and change is freaking hard.
+In Digital transformation is for life, not just for go-live, Phil gets into his frictionless enterprise driver’s seat. He advises: a SaaS implementation is just the beginning.
+Few organizations seem to be prepared for the full impact of digital transformation. The shift to a more agile ethos of continuous change in particular often catches people unawares — not only at a technology level but more importantly in business processes too.
+Yes. That leaves customers at risk, with the journey far from done:
+This aspect of the digital enterprise is something that’s rarely written about or drawn attention to. I think vendors should do more to educate their customers about what to expect.
+For an industry view, Stuart vents CX spleen digs in with Turning on the tap on digital transformation in the utilities sector. His deconstruction of the utility service experience is a treat:
+While the likes of BT have taken customer contempt to an art form, you can’t beat a wasted hour arguing about a meter reading or a change of tariff with an energy or water company for sheer bloody-mindedly awful service.
+But we’re not getting to better service without a full-on culture/data/tech transformation:
+Transform your customer experience (CX) if you want to stay competitive in a deregulated, disrupted and increasingly connected market.
+It’s foolish to claim that every industry is under the same pressures. But getting out in front is far better than leaking customers like a bad water meter:
+I’ve yet to see it being put into practice with my current water provider, but look forward to the day when competitive pressure forces a change of approach.
+Me too. Let’s start with the cable companies, get a head of steam, and take on the airlines.
+Diginomica picks – my top four stories on diginomica this week:
+
+AI, meet accessibility – new potential for upping skilled employment – Martin on one AI use case I can absolutely get behind: “This is about challenging perceptions… It is also about seeing how the new technologies of machine learning, AI and robotics can be used to both assist and empower the disabled.”
+Optymyze ABM program focused on high-intent audiences – Barb on why ABM is arguably the best approach to winning new customers.
+Cloud adoption builds essential agility into SBAB’s banking model – Maxwell with a nifty use case on the payoff of open source in a highly regulated industry.
+
+Vendor analysis, diginomica style. Here’s my top two choices from our vendor coverage:
+
+Break-even in sight for Box as enterprise deals increase in size and number – “As a long term Box-watcher, the journey to profitability has been frustratingly slow, but perhaps the tipping point is finally in sight.” (Stuart)
+CEO confidence and digital investment fuels strong Q3 for Salesforce – “The numbers reflect the economic confidence that co-CEO Marc Benioff says he’s seeing around the globe.” (Stuart)
+
+A few more vendor picks – the “three from me” section:
+
+Exclusive – SAP on the future of SAP payroll, including cloud payroll – My slow-cooked piece on the future of SAP payroll – including cloud payroll – is finally ready. Diginomica readers air it out in the comments.
+How Automated Insights uses Natural Language Generation to boost our grasp of data – in Tableau and beyond – Yeah, this was the best demo I saw all year. Machines making sense of baffling dashboard on our behalf.
+How World Learning seized the day by building apps on the Sage Intacct platform – Sage Intacct customer World Learning has built more than ten apps on Sage Intacct. The two app builders? A CFO and a controller.
+
+Jon’s grab bag – If there’s a sarcastic door prize for squandering a dominant market opportunity, then the greedy aloof schmucks data-hawking, regulation-hostile dingleberries running Facebook are now in contention. I won’t hash it all here, but Stuart’s been all over the significant UK developments.
+For starters, check Misrepresentation and technical nuances – Facebook’s answers to legislators questions under fire. Meanwhile, Jerry continues a valiant/Quixotic quest to save Facebook from itself in Is it too late to fix Facebook? Part Deux – 4 ideas that might (or might not) work.
+Best of the rest
+ Lead story – Amazon re:Invent in review – moving on from Oracle, pushing Alexa into business.
+
+myPOV: As re:Invent outgrows Vegas (!), we’ve got Constellation’s Holger Mueller on the strip, where I’m sure his red shoes earned him several propositions outside the scope of this column. Mueller’s event report included an update on Alexa for business – with the logical starting points of hotel rooms and conference rooms, where ridiculous amounts of time can be wasted trying to open the freaking curtains rebooting the slide projector while hotel associates are surfing Instagram in the break room occupied. Despite the supposedly smart Alexa, Mueller raises a big AI/ML concern:
+Who would have thought that AWS would enter multiple partnerships with Seattle neighbor Microsoft on Machine Learning? The risks for AWS are tangible, if any other IaaS vendor can show faster, cheaper and better Machine Learning performance, it will create a magnetic effect on data. And with data goes load, not to mention that Machine Learning itself creates a lot of load. And load is the mother milk of IaaS vendors success.
+Yep, I’d say that’s an exposure point in the AWS fortress. But for now, Amazon is chuffed to make the announcement that they are moving on from Oracle databases internally (though they won’t be completely clear until 2019, giving Larry Ellison a welcome window for more acerbic barbs.
+Honorable mention – three best-of-the-enterprise-web picks 
+
+Establishing True Trust in a Zero-Trust World – “Your goal is to protect data across an increasingly fragmented information fabric outside the comfort zone of traditional security approaches.”
+Rebooting analytics leadership: Time to move beyond the math – McKinsey with another meaty think piece. Forget the math, it’s about “gaining the trust of business-unit leaders by helping them to understand how the models influence business impact.”
+What is machine learning? We drew you another flowchart – The only bummer is once you look through this flow chart, you won’t be able to use machine learning and deep learning interchangeably.
+
+Whiffs
+I had a couple of bonehead Twitter gaffes this week. Indie analyst and discerning tweeter Thomas Otter pointed out my tweet in support of The Guardian implied they have a pay wall, when in fact they do not. Still like their messaging though.
+Hey, on the positive tip, at least I’m not an Instagram shill (yet), hijacking hashtags:
+
+Instagram Influencers Are Using The California Wildfires To Sell Products And Post Nudes https://t.co/b6JTc5a8De -> I think you meant to use the word “losers” not “influencers”. These folks suck at life even as they garner fleeting bits of pseudo-attention
+— Jon Reed (@jonerp) November 27, 2018
+If you’ve had enough of the enterprise grind and feel the holiday blues coming on, just remember you can check yourself into a South Korean “prison”:
+
+South Koreans lock themselves up to escape prison of daily life https://t.co/UJpsStIYOX
+-> Wow. Sobering commentary on modern life.
+“After a stay in the prison, people say, ‘This is not a prison, the real prison is where we return to,’” she said. ”
+— Jon Reed (@jonerp) November 29, 2018
+Via Clive Boulton, we have this nightmare: Marriott says 500 million Starwood accounts compromised – Hey, it’s just little things like passport numbers and credit card details. At least Marriott was able to identify the issue quickly. Well, if you consider four years quick:
+Marriott said hackers had gained “unauthorized access” to the Starwood reservation system since 2014, but the company only identified the issue last week.
+I hear Marriott has a nice phone app though.
+I’m a huge fan of pushing dystopian ideas for us all to reckon with, but this back-of-the-napkin ZDNet post, The future of Amazon Echo and Google Home looks bleak, didn’t do it for me.
+As we abdicate more of our basic responsibilities to machines and as we release more and more information to the wilds of remote servers, what’s to stop our smart speakers becoming not our masters, but our master manipulators?
+Smart speaker? Alexa can’t even grasp the names of my music playlists half the time. Sorry but I can’t be afraid of a machine that can’t understand the difference between Lynyrd Skynyrd and LeAnn Rhimes. That thing will never manipulate me with its servile pea brain. It’s whoever might be listening on the other end that is the true dystopian fodder. See you next time…
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Cloud platforms - infrastructure and architectureDigital transformation - frictionless enterpriseHits and misses 

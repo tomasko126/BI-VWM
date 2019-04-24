@@ -1,0 +1,107 @@
+
+For me, 2018 has been a year of watersheds, change, twists, and turns.
+My pace of content production has slowed considerably as I spend more time on things that matter to the running of what is now a solid business. Whoda thunk that five plus years ago when five of us hoary old guys got together to create diginomica? But here we are, growing nicely, adding great contribs both men and women from Europe and the US, all while continuing to beat the informed buyer drum. That means change, some of which is obvious, other parts are more subtle and in the ‘back room.’
+The most obvious change has been me continuing to eschew trips to the U.S., a policy that will continue for the foreseeable future. What started as something of a protest around the political climate in that country has turned into a full-blown allergy. At my age (I’m closing in on 66), my body can no longer take the hammering it gets from 10-12 hours cooped up in an aluminum sardine can flying east to west and back inside 4-5 days. I’m comfortable with that decision given my health had to take center stage for much of this year. The good news is that other core team members have slipped seamlessly into event related roles I was fulfilling. Lesson? No-one is indispensable. On to content, which includes nods in the direction of colleagues who added to certain conversations.
+The year started with a slew of SAP-related stories including an acquisition (Callidus Cloud), a deep dive into the company’s HCM strategy and a fun call with SAP CFO Luka Mucic. It’s ending with an-as-yet-unfinished analysis of SAP’s Qualtrics buy. No apologies for chunking each of these out into bite sized morsels.
+(1) SAP wrestles with HCM roadmaps
+SAP’s HCM strategy part 3 – the bits I missed
+I heard that much of the DSAG resistance came from concerns around payroll. That one I get although when pay ties to agreements that have to be codified…you can quickly see where this goes in terms of both Z-programs and the attendant maintenance upkeep that’s in addition to license costs. Is it any wonder then that (some) payroll consultants are (relatively) happy to see SAP’s turnabout.
+Regardless and despite the fact I didn’t take enough cognizance of these factors, my problem remains the same. To understand this, we need to rewind the clock to 1975 (or thereabouts.)
+Why?  SAP got itself into all sorts of tangles around its HCM strategy and that should not surprise given they operate HR across hundreds of geos with a dizzying array of regulation that needs wrestling day in and day out. But equally, my emphasis on U.S.-centric activities was a rookie error. Yes, the U.S. is where we all tend to focus but German-speaking countries account for a huge chunk of SAP’s revenue.
+SAP extends HCM on premise support to 2030 – smart move or major mistake?
+SAP extends HCM on premise support through to 2030 – take 2
+(2) SAP’s indirect access topic rumbles on
+SAP UK & Ireland User Group report continuing issues with indirect access and SAP technology adoption
+While Adaire Fox-Martin mentioned indirect access and trust in the same sentence, her words came up empty. I had hoped to hear a more proactive set of statements about tooling (which doesn’t exist in any meaningful way) and was surprised to hear her say that ‘existing’ customers, as well as net new, are working on the new pricing model, which, regular readers will remember is more akin to a consumption model.
+When I pressed Medert about this, he left me with the impression that those existing customers who have moved are also those who have moved to SAP’s cloud offerings. That makes sense because, in a cloud world, it is much easier for SAP and its customers to share a common, transparent view of activity.
+However, the generality of the indirect access problem isn’t going away. SAP may have swept the Diageo and InterBev cases under the proverbial carpet but there are outstanding cases running in the German courts which may yet change the way indirect access is understood. As expected, SAP is not commenting about ongoing cases that are running in the courts.
+Why? Whether SAP likes it or not, customers around the world are weary of fighting with SAP on charges they view as little more than wallet fracking. The long-term impact could end up disastrous for SAP because the disconnect between CEO McDermott’s rhetoric around trust rings hollow when viewed in this context. Ergo, there could easily be a death by a thousand cuts as customers find novel ways of avoiding SAP for future investments.
+SAP Indirect Access new policies aid transparency, users remain uncertain
+Workday’s Bhusri on indirect access, AWS, happy customers and next gen finance
+Beyond Sapphire Now – DSAG on how SAP licensing must evolve  via Jon Reed
+(3) SAP and the Qualtrics conundrum
+I penned two stories on this late in the year topic. In
+Qualtrics acquired – SAP’s high priced bid to solve customer experience I picked apart some of the cultural issues I see:
+SAP and Qualtrics could not be more different and getting the two businesses working well together will be far from straightforward let alone getting results from the combined efforts into customer’s hands.
+SAP is a well-oiled sales execution machine that has rediscovered the need to be in Silicon Valley and a new found love for developers. Qualtrics, by its own admission, is a scrappy startup-ish business headquartered nowhere that SAP would call home. I’ve watched Ryan Smith, CEO Qualtrics on stage at one of the Irish web summits. He’s quite the engaging character but very different from the booted and suited SAP exec.
+In the second story – SAP and Qualtrics – how might this work and what are the barriers? I started to assemble and disassemble the portfolio that SAP has acquired. I’m only partway through that exercise.
+SAP’s gamble on Qualtrics is part of a much bigger play. Once you strip away the marketing rhetoric, it is easy to understand the path McDermott has chosen. Price paid aside, I can see how the platform portfolio approach and growth trajectory is attractive to SAP. At that level, it works for me. But where past acquisitions largely made sense in the context of SAP’s existing footprint and portfolio, this one is much harder to position.
+Why? This is a huge gamble on SAP’s part and represents the start of what I perceive as a multi-year pivot away from back office focus and towards the execution of SAP’s “intelligent enterprise” vision. That, I think shortchanges the potential. But only if SAP executes flawlessly, including eating its own dogfood. That won’t be easy. Past attempts at these pivots have largely failed. Do McDermott & Co have what it takes to make this a reality? Time will tell and you can bet we’ll be following this closely in 2019.
+(4) 2018, the year of GDPR
+We had plenty of GDPR coverage but I wanted to concentrate on some of the practicalities and especially the manner in which GDPR apparently wrong-footed many of our U.S. vendor colleagues. How about this?
+3 crucial reasons why MailChimp may not be your best choice under the GDPR compliance regime
+At this point in the process, I have a clutch of open tickets with MailChimp around these topics. I have advised them that they need to look at whether what they are doing provides us with the best opportunity to remain compliant in an environment where the lack of flexibility in handling an embedded field is crimping our ability to get this sh*t done.
+My sense is that for all the many pages of splurge on GDPR and the walkthroughs available, that development has been handled as an add-on with no real attempt to understand how this might impact existing – and legitimate – processes. It’s a classic ‘upgrade’ design error normally reserved for other companies who shall remain nameless.
+Why you must check your email service provider’s approach to GDPR
+Why? EU states are starting to bare their teeth on GDPR. Failure to comply has real consequences. But, if you think more deeply, you can see GDPR as a net positive. Here’s how:
+Ascend London 2018 – don’t fear GDPR compliance, embrace it says a lawyer
+Marketers have long moaned about the quality of their databases but what happens when you’re simply adding gazillions of people and then bombarding them with messages like everyone else? GDPR provides that opportunity to really go after quality so that you can truly personalize the customer experience so that people become actually interested in what you’re pitching them and that’s fundamentally important to your business. You will not hold onto data forever because you can’t take action on that.
+
+GDPR compliance – here are the 14 things you actually need to do – Madeline Bennett scored a well-received story at the opening GDPR season. It’s worth re-reading and using as an ongoing checklist.
+Sunday Salute – IBM fixes a GDPR SNAFU, delivers problem resolution masterclass – good to see IBM stepping up to the plate after a screwup.
+The failure of Twitter and social media management suites to get GDPR – the title tells its own story
+
+(5) Inside the (un) ethical AI machine
+The I in AI is dumb leading to incrementalism, not transformation
+
+The scattershot manner in which AI, ML, and DL are co-mingled is imprecise and confusing. If people need to mention these buzzwords du jour then please, can we have some precision of meaning? It matters – and yes, we’re guilty of it too. At the very least, if they’re not mentioning pattern matching then it’s a good clue they’re talking BS.
+
+Why? We don’t need telling for the umpteenth time that AI is the shiny new thing that will change the world but claims to its efficacy are highly limited and cannot be applied without considerable discretion and forethought. But – we urgently need a robust debate around ethical constructs.
+
+Are we prepared to solve for algorithmic bias?
+Can AI be bounded by an ethical framework?
+
+These are the opening gambits in a much broader story that hits on trust, diversity – you name it. And to get a sense of the scale of the issue check Derek duPreez’s reporting about  Professor Dame Wendy Hall – ‘We need to put diversity at the centre of the AI ethics debate’ in which she says:
+There is not enough action on diversity. Everyone always says “yes we need diversity” and “yes we need inclusion”. But we are tired of talking about diversity, because nobody knows how to fix it. Right? Nobody knows how to fix it.
+(6) Workday bears down on the people quotient
+Compare and contrast:
+The rise of the prediction machines and a skills ontology – Workday Rising 2018
+My sense from the cheap seats of the live stream was that Workday is at something of an inflection point. There is plenty for Workday’s most forward-thinking customers to anticipate but many of the announcements are at least a year away. That’s a very long time in the current world of AI/ML development. Directionally, it felt kinda right but then Workday still has to win over many more financials customers before it can claim leadership.
+…and
+Workday Rising Vienna 2018 – a retrospective focus on diversity and analytics
+As a system of record, Workday is making most of the right moves. As a system of decision making, it is at risk of falling short. The progress it has made in the last year in acquiring smart tech that backfills the analytic space is laudable and with clear opportunity to provide great insights into business drivers. The problem is its avowed space – i.e. ‘back office,’ There are plenty of opportunities of taking legacy vendors out of the game but it’s not enough.
+Workday’s close partnership with Salesforce puts it firmly in the glittering cloud firmament but it needs to do much more. Workday has to double down on vertical market functionality. Colleagues have been critical of Workday’s relatively weak positioning here although we know they are strong in HE and a variety of service industries.
+Why? Workday made some huge moves during the year and while I didn’t attend Rising in the U.S. I did make the trip to Vienna and was very glad I did so. The mantra of ‘happy employees means happy customers’ was repeated often and we see that as a genuine differentiator. But – Workday is entering into interesting waters where the focus is on applying sophisticated intelligence tech to surface contextually relevant ‘stories’ around people metrics. They’ve not gotten to causality but they are getting close to correlation topics. Check:
+
+Workday People Analytics – an early look at ML augmented analytics
+Workday’s Adaptive Insights implementation – Robynne Sisco CFO in the hot seat
+
+(7) HfS in focus
+HfS FORA UK – the robots are here, get over it and move on. Next up?
+Probably because it is so rare in my experience, but it’s hard to express the degree of satisfaction I experienced coming away from HfS FORA UK. I quipped that perhaps HfS should rebrand to be the Conversational Analyst firm since that is their distinct forté. They are bringing on millennials who are eager to share rather than hoard information, something that seems odd to some of us old farts. That conversational tone is set from the get-go but backed with hard data and results.
+I question whether their current schtick around the Digital One Office is achievable, something I missed as a discussion in the pre-conference workshops. The challenges of culture and disparate technologies, along with difficulty in setting strategic priorities make this a hard sell, a topic with which I found common ground among a variety of attendees.
+Will vendor rankings replace magic quadrants? HfS Research thinks so
+Whether analysts or media, we all like to think we’re good at spotting the Next Big Thing, but there is an ongoing herd mentality attached to that. HfS has ‘broken ranks’ in that regard and should be applauded for being brave in offering an alternative approach that has significant potential in helping buyers make better decisions.
+But even they must know that despite a clear desire to step away from vanity metrics and ‘pay to play,’ the top-ranked vendors will pimp the crap out of this type of report and perhaps more so than they might a Magic Quadrant. Others that are less well ranked will likely bitch and moan, possibly seeking to restrict access to executives, customers and marketing dollars as they seethe with resentment. More fool them.
+Why? We’ve grown fond of the content coming out of Horses for Sources. They like to rattle cages. They also put on great events as I experienced this year. The question remains – can they break new ground in 2019 and out beyond their roots in outsourcing. They think they’ve done that already with RPA and the Digital One Office mantras but regardless, we admire the way they’ve pivoted into topics that have plenty of hype ready legs. Bonus points:
+Does Brexit mean permanent dislocation of the low paid workforce?
+(8) Ethics in technology
+We need a new conversation about the world we’re (not) building
+I don’t buy into the idea of unfettered economic value falling into the hands of a very few. But then it is difficult to hold conversations that have the whiff of ‘ethics’ or ‘morality’ when so much money is on the table and the political climate is so polarized and toxic.
+Even so, I draw hope from the conversations that are starting.
+I was both encouraged and impressed with the quality of conversation that started spontaneously at Hfs FORA around this topic. The fact that those conversations are underway among people who are tasked with RPA projects have an interest in the application of ‘Augmented Intelligence,’ and the blockchain is a net good.
+Why? Ethics is a difficult issue at the best of times. It is a philosophical construct that can lead you down divergent rabbit holes that are almost impossible to reconcile. The tech industry wants to lead the conversation but it is not that simple. While we have concentrated on AI (see above) in many of the conversations, this issue goes a lot further. And yes – we started talking about this two years ago.
+
+Could the new kingmakers turn us into puppets?
+Do we understand the importance of ethical technology?
+Digital ethics, a high priority for 2016 as AI creeps into our lives
+
+(9) Blockchain
+Fake research results and reality – let’s talk blockchain black eyes
+Right now blockchain is seen as the magic potion to solve every problem and I am very concerned about that. What we need to do and what we are doing is educating people that blockchain is not the answer to everything but that there are very specific use cases where blockchain makes sense. We are still early in the adoption phase, we have overhype and when you have overhype then we get called in. We have to bring customers back to reality because if we don’t then they end up disappointed and we end up with a black eye on the customer, SAP and on the technology.
+84% said they’re active which could be holding discussions, researching, trying out POCs. That’s a very high number so we know people are getting their feet wet and undoubtedly some will be disappointed but the point here is that there is a very high level of activity from our perspective.
+When we went back and asked about live or production, what we found was not what we constitute live or production but more some kind of internal POC but then some people see that as live.
+Why? Late in the year but this is the first time I’ve heard a major vendor undertake research for a technology it would love to make a name in, but is finding that among its global customer base there’s nothing, nada, zilch going on that qualifies as production ready. Now, are they missing the boat or invisible to projects that are live and kicking? Who knows? But this hype bubble needs urgent busting.
+
+The Blockchain Paradox – or why we can’t agree on anything
+Book review: Life After Google – The Fall of Big Data and the Rise of the Blockchain Economy
+IBM fails GDPR sniff test – and loses an opportunity to educate on blockchain reality
+
+(10) Weekend musings
+Very occasionally I’ll drift off piste to offer something that might appeal to those who are idly surfing around our content. Here’s a couple I wrote this last year
+
+Weekend musing – what a small local butcher can teach the enterprise about CX – yes, I’d been out butchering a pig leg.
+Weekend musing – is Nike a corporate activist? – Stuart will undoubtedly have something to say on this topic but it was worth the airing.
+
+ 
+Image credit - freeimages.com/Julie Elliot-Abbshire Disclosure - At time of writing, SAP and Workday are premier partners of diginomica. Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architectureGoverning identity privacy and securityHCM and the digital future of workIoT robotics and AI 

@@ -1,0 +1,53 @@
+
+NRF 2019, aka “Retail’s Big Show,” is one of the most visual shows of the year. And yeah, some of the tech on display borders on the ridiculous, or at best, fanciful (VR goggles anyone?). But every year also brings a surge of fresh ideas.
+The NRF Innovation Lab is always good for a look forward, but here’s the surprising thing: much of this emerging tech is already either live in stores, or well on the way.
+I’ve already posted deeper NRF pieces on retail stats and trends, including the pressing need for new retail metrics. Now it’s time for the fun stuff.
+So, without further ado, here is my countdown for my own informal retail demo awards.
+6. Millie, the life size, AI-powered helper and virtual shopping assistant from Twenty Billion Neurons
+I had a spicy video encounter with Millie in the Innovation Lab. My first impression of Millie? A spunkier version of Alexa. However, as she was quick to insist, she can do a lot more than Alexa. During the video, I attempted to push Millie out of her comfort zone while she helped me try on sunglasses. Florian from Twenty Billion Neurons, Millie’s creator, kept things from going off the rails:
+
+
+
+True, “Millie” isn’t at the point where she’ll have a dramatic impact on in-store sales, but she is a vivid example of so-called computer vision, tech which is in play in many retail tech scenarios, including self-checkout. As for the language recognition aspect, Alibaba recently demoed software that takes spoken orders from customers in Chinese KFC restaurants.
+5. Inventory scanning via indoor drones – Pensa Systems
+Yeah, it’s not safe to fly drones in the Javitz Center. So Pensa Systems had to settle for a tight enclosure to show off this contraption. I was unable to get a useful video, though you can see one here. But here’s a pic of the buzzy little inventory helper in action:
+
+The drone’s purpose? It’s a lightweight unit, designed to scan dry shelves and coolers to look for out-of-stock items. It’s part of Pensa System’s venture-funded solution that automatically tracks in-store inventory, using advanced computer vision, AI and autonomous drones.
+The Bud Light on the shelf is no coincidence: this display comes via the partnership with Anheuser-Busch InBev (AB InBev), a customer and investor in Pensa Systems through its ZX Ventures unit. The demo is based on a real-world AB InBev pilot in Montreal. Via Robotics Business Review:
+With less than 90 minutes of setup time, Pensa’s drone-based system collected hourly and daily data on out-of-stocks and real share-of shelf within the beer section,” Pensa said. Over a two-week period, the system scanned dry shelves and coolers with multiple product types, including cans, bottles, and packs, capturing almost 16 million SKU images during 200 flights, with accuracy reaching 98% for out-of-stock detection.
+One of the crucial debates from NRF 2019: how will retail tech impact job skills and potential loss of jobs due to automation?
+4. Marty the robot – soon to appear in grocery stores in a public-facing role
+Though Marty won’t be winning any beauty contests, there’s a reason for that. Marty is designed for safety first, since Marty will often work amongst the public, along retail aisles, assessing inventory levels and spotting floor spills. Here’s my guided tour:
+
+
+
+I got the rundown on Marty from Badger Technologies CEO Tim Rowland (Badger is the product division of Jabil). Marty, which was developed in partnership with Ahold Delhaize, is now being rolled out in about 500 Giants Food Stores (Giant is an Ahold Delhaize subsidiary).
+Diginomica contributor Jerry Bowles wrote about Marty in Say hello to Marty the Robot. He’s here for your retail job. I’m not sure Marty is in a position to take many retail jobs just yet, but I’ll meet Jerry halfway: robots like Marty will certainly change the jobs of retail workers in the relatively near future.
+3. UShop+ Store Analytics from Advantech
+Given that all retailers are in the data business now, I kicked tires on as many analytics platforms as I could get my pesky inquisitive hands on. The 2019 standout? Store Analytics from Advantech. I liked the easy UI. The big attraction? Real-time storefront data, captured via 2D cameras, 2D and 3D video analysis, and point of sale transaction data.
+In a pilot with Carrefour Taiwan, Advantech installed eight 2D cameras and helped them track real-time sales conversion figures, average expenditures per customer, and transaction data during peak hours. On the show floor, I liked the heatmap indicating consumer hot spots:
+
+I also found the analysis cockpit easy to understand and navigate:
+
+Yes, my show floor picture leaves room to be desired, but the demo was well-thought. I do find the notion of deploying cameras that track me from the moment I enter a store unsettling, but let’s face it, retail stores have cameras everywhere as it is.
+2. C2RO brings facial recognition tech to in-store personalization
+Speaking of creepy, but also fascinating/inevitable, I took the plunge and put myself through C2RO’s facial recognition demo, a story already told in NRF 2019 – Facial recognition brings personalization to a head, and I put my face to the test.
+Not everyone will find this type of thing creepy. It’s all about your own tradeoff between personalization and privacy. And, of course, opt-in. C2RO CEO Riccardo Badalone was adamant on the opt-in use of their technology – and it’s GDPR compliance. That made for an excellent convo:
+If you walk into an environment that is serviced by C2RO, your face is scanned and matched against the C2RO cloud database. If you are recognized as a customer of this client, and IF you have opted into the use of this technology, then C2RO alerts that company’s CRM or ERP system that you are in the store, or another environment.
+At that point, the CRM system will push back an instruction. It might make you an offer, send you a loyalty coupon, or make you aware of a new product you might like. Alternately, the instruction might be to do nothing – depending on the circumstance, the type of customer you are, etc.
+Badalone put my face through a couple scenarios. Each time, I was recognized via C2RO’s Computer vision on a phone and on a tablet.
+
+Yes, the system does make a gender and age assessment, as you can see above. I’m surprised they didn’t make a mood assessment also, as in, “don’t make an offer to this grouchy blogger!”
+1. Intel pushes for data interoperability via the Open Retail Initiative
+It might seem odd to give my top prize to data interoperability rather than the sexier tech above. Intel might even be annoyed, given that their expansive booth was full of nifty tech demos. But Intel is correct: the proliferation of new retail systems and devices is creating valuable data that will only achieve that value if it can be placed in a complete view of the customer.
+Without interoperable data standards, retailers will be left at the end of their retail tech projects with a bunch of next-gen data silos. This demo shows how a next-gen retail setting is a breeding ground for data exhaust from multiple devices and platforms:
+
+Intel’s Open Retail Initiative (ORI) aims to change that. “AI” is only as smart as the data underneath it. Data silos = dumb AI. Their mission? Build a retail-focused consortium to:
+
+Maximize business value from accessible in-store data across components of the ecosystem.
+Accelerate solution development.
+Drive down overall technology costs improving ROI through the deployment of systems that are modular, multi-purpose and interoperable.
+
+Though it’s early days for the ORI, participants already include Dell, HP, JD.com, JDA, SAS and VMware, in partnership with open source programs like EdgeX Foundry and Open Stack. Retailers should push other vendors to get on board with this type of open standards option.
+These are the informal demo awards because I have no NRF affiliation, and: it’s humanly impossible for one enterprise dude to see everything at NRF – or even half of it. I also headed to Soho for NRF’s New York City’s store tour, where I got a first-hand look at tech in retail stores. But that’s for another time.
+Image credit - All photos and videos taken and produced by Jon Reed. The feature image is from Intel's retail booth demos.Disclosure - NRF provided with a press pass to attend NRF 2019. Diginomica partners were not considered in these informal awards.Read more on: Analytics planning and data analysisIoT robotics and AIRetail e-commerce and the omni-channelRobotics 

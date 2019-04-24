@@ -1,0 +1,63 @@
+
+Santiago Aldana at Adobe Summit ’19
+I always say to CX gurus, “Fix the airline industry, and get back with me.” Well, Santiago Aldana is trying to do just that.
+Only he’s not a self-proclaimed CX guru. He’s a practitioner, focused on one airline: Avianca.
+As Avianca Airline’s CTO and CDO, Aldana is knee-deep in a multi-year transformation.
+Flying is such a tough industry. There are so many factors that send an airline customer’s day in a bad direction. Plenty are beyond an airline’s control – like the chaos caused by bad weather, or the waiting game on a hot tarmac.
+When I met Aldana at Adobe Summit 2019 to talk about Avianca’s transformation, I wondered where he would fall on the CX hype meter. (Adobe Summit 2019 analysis – CX hype is countered by Chegg’s digital turnaround story).
+Avianca – “We want to transform the customer journey”
+Aldana quickly won me over with this blunt statement:
+To be honest, we have a huge technical debt we’re still struggling to get out of. But what we say is, we want to transform the customer journey.
+Despite these challenges, Avianca is now the second leading airline in Latin America, operating around 180 planes. So why is Aldana at the Adobe Summit?
+Because the technical part of Avianca’s transformation relies on Adobe and Microsoft – Microsoft CEO Satya Nadella specifically named Avianca during his Adobe Summit keynote chat with Adobe Chairman and CEO Shantanu Narayen. But the story begins with Avianca’s new mission. As Aldana told me:
+If you think of an airline, we’re basically the distance between the customer and her dreams.
+He added:
+You don’t want to go through the hassle of migration or security or even planning your trip or then, moreover, losing your trip because of weather and all this stuff. We’re basically in the middle. We’re that distance.
+Aldana doesn’t think technology is something you can magically throw at this. But it can reduce friction:
+Taking digital technology, what we can do is reduce that effort of the customer. That’s our purpose.
+Scaling digital change – “We have to do it with partners”
+Aldana and his team knew they couldn’t pull this off alone:
+When we started this journey, we wanted to reduce that effort. We cannot do it by ourselves. We have to do it with partners. We selected a handful of partners, including Microsoft and Adobe. They are helping us personalize those touch points, so that the customer’s effort is lower.
+One lesson that stands out? Get your executive sponsorship in order.
+That’s the reason we started with senior level sponsorship on our project. We’ve had Microsoft, as you saw, at the highest level of sponsorship. Same thing with Adobe.
+So why did Nadella choose to call out Avianca’s project?
+I think there are several things, but let me just say a phrase that started the relationship when we decided to work with Microsoft. Microsoft said, “We don’t want to develop the products for Avianca. We want to develop our products with Avianca.”
+Yes, choose the right partners. Even then, you won’t get rid of all that technical debt overnight. But you can chip away. One vivid example: when Aldana joined Avianca, payroll was done in Excel for 20,000 employees (yikes!). That’s changed now: “We’re in SAP SuccessFactors, and that’s running well.” Other changes:
+We implemented the whole set of tools in Office 365. We went further to Microsoft Dynamics 365. Now, we’re also building a lot on Azure. We’re making the analytics side over with Power BI and Office 365, which is giving us a lot of data for decision-making – and that engages with Adobe.
+Aldana says they looked at a couple of CRM options. It made a big impression when Microsoft and Adobe pitched together. They told him: “We want to develop this with you.” Now, Avianca is at another crossroads.
+We’re shifting from revenue growth to profitability. I think that’s a perfect scenario to do a digital transformation.
+But that transformation won’t work if people don’t embrace it:
+The toughest part is about people. It’s about transformation, it’s about leadership, it’s about cultural change. I think we’re engaged and working together to make that happen.
+When did Avianca launch this digital mission? About three years ago, when Hernán Rincón joined as CEO. Avianca had already worked with Adobe, but they upped that relationship in September 2017.
+Along with Dynamics 365, Avianca installed a bunch of Adobe cloud solutions, including DAM (Digital Asset Management), Target, Audience Management, and the Adobe Creative Suite. Aldana says the connections between Dynamics 365, Adobe marketing automation and Azure factored into that partner decision.
+The wrap – lessons learned, and results so far
+Aldana was careful not to overstate what they’ve accomplished – the criteria, after all, is the end customer.
+We’re making progress; we’re setting the stage also.
+Since they are working with SAP also, Avianca is fully on board with the SAP-Microsoft-Adobe Open Data Initiative (ODI). Data compatibility and standards across systems is huge for Avianca:
+We’ve been able to implement the CRM. We implemented data linking when we have the user register. We are understanding and building the protected data models to make that happen… We’ve set up all the customer journey. We’ve identified all the different touch points, and defined how we want to integrate each one of them to make the experience more seamless.
+The mobile app has been overhauled. Avianca also moved their web site to Adobe AEM, which Aldana describes as “totally responsive.” They also rolled out a “cognitive chatbot.” It’s a three-pronged applications approach:
+
+move off capex legacy systems to a cloud-based, opex model as new apps are rolled out, with special attention to data security.
+make sure all digital apps are part of the same platform and integration strategy, such as ODI.
+if a legacy system needs to co-exist for a while longer, wrap it in APIs.
+
+Aldana’s team is into the digital nitty-gritty:
+We’re working that with all these partners. Basically notifications, personalization, A/B testing and multi-variant testing to make it work.
+What does Aldana plan to tackle next? The heart of airplane friction: travel booking.
+The booking flow in airlines is quite a black box. More in our case, it’s an old legacy booking flow. What we’ve been working on is to make sure that we can decouple it and have the APIs to work around it.
+That’s an effort we’re doing with Adobe and Amadeus to decouple it. Making sure that once we decouple it, we make sure that it’s fewer steps, more personalized.
+Another big focus? Customer self-service on the web and mobile app. But to make this all work, two other changes must happen:
+
+Operations – “Ensuring the whole customer journey is supported by an operational journey.” Think checked bags, or ground crew operations.
+Employee experience – “How can we provide our employees with all the tools and connectivity?”
+
+We talked about getting buy-in from employees. How Avianca’s culture is changing is not something I can summarize quickly, but the themes Aldana mentioned include:
+
+leadership/executive sponsorship to set the tone
+an inspiring vision that employees can relate to
+recruiting fresh talent and skills in line with the vision and plan (Aldana says 30 percent of his team is new in the last couple of years)
+
+For those who find such change metrics “soft,” Aldana says that employee engagement is something they are tracking with Adobe. That was all put to the test a year and a half ago, when Avianca went through the longest pilot strike in aviation history. The entire company had to rally:
+Before this, I was in banking and telco. Well, I thought those were complex. I hadn’t gotten to airlines. It’s challenging, so you require people that want to face those challenges, that have resilience and are able to stand up again after falling – trial and error, and learning from there.
+I have a hunch before too long, I’ll be on an Avianca flight – and I’ll get a firsthand look at how all this is going.
+Image credit - Photo of Santiago Aldana, CTO and CDO, Avianca at Adobe Summit 2019 by Jon Reed. Disclosure - Adobe paid the bulk of my expenses to attend Adobe Summit 2019. Read more on: CRM and customer experienceDigital enterprise in the real worldDigital transformation - frictionless enterpriseUse cases 

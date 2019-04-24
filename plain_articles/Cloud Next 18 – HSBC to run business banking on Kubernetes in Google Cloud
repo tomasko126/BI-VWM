@@ -1,0 +1,21 @@
+
+Bankers have a reputation for being highly conservative but one of the world’s largest banks is set to become an early user of Google’s Cloud Services Platform, announced this week, to provide core banking services to its business customers. HSBC plans to build its all-new business banking service to run on a Kubernetes-managed container infrastructure using Google’s toolset.
+HSBC is already using Google Cloud for data analytics but the move into applications hosting is a new departure, says Darryl West, Group CIO at the bank:
+We’ve made a decision on applications hosting to partner with Google on building some next-gen applications in the full Google stack, top to bottom using Google tools, which is a big departure from our previous architecture. It’s very exciting because I think we’ve got the confidence that the tools they have are going to be great for productivity with developers. If we can get them to run natively in the cloud, that will be very helpful as well for us.
+Kubernetes on-prem and cloud-native
+One advantage of the Cloud Services Platform is that it will also support the same Kubernetes orchestration engine that runs in the Google Cloud in an on-premises model.
+So we can use that technology in our own data centers where we have a requirement to maintain some of those workloads on-premise. We’ll be working with them on implementing that.
+But the primary intent is to run the next-generation business banking applications in the cloud, says West.
+We’re going to be leveraging their data analytics tools and their developer tool sets end-to-end. If we can see the Docker/Kubernetes mix with CSP working in the cloud, the whole thing could be cloud native from day one.
+Business banking is one area that’s ripe for investment as part of the $17 billion growth program unveiled by the bank’s chief executive John Flint last month, he adds:
+I think the management team there has got the vision to replatform the whole business with a new set of technology which would make it a very different experience for customers.
+Cloud as good as on-premise
+West doesn’t see the cloud as any less robust than the bank’s own infrastructure:
+Our view is that the cloud providers have an infrastructure that is very stable and very safe. They invest significant amounts of money in information security controls. Reviews we’ve done have given us the confidence that the stack that we will be using and the environment that it runs in is very safe and secure and scalable — I’d suggest probably better than many on-prem installations in some organizations.
+I’ve said this to the regulators in the UK and Hong Kong and in the US that we’ve met with. In my view, if you engage productively with the cloud providers and you do the right controls and end-to-end reviews, your customers’ data will be safer and more secure and more robust than actually running an on-prem model.
+Multi-cloud strategy
+HSBC also has an established relationship with Amazon Web Services (AWS), where it has a “substantial partnership” in retail banking and wealth management, and it works with Microsoft for SaaS applications. Having multiple partners is a deliberate strategy, says West.
+We’ll have both and frankly we should because I think Amazon is clearly a very capable hoster of applications but a more practical issue is just, we do need to have an alternative strategy as a risk mitigant. I don’t think the regulators would be comfortable having a bank just having a single supplier for everything. So for that reason alone, it makes sense to talk to others.
+In that context, moving to a container model under the umbrella of Kubernetes is helpful because it means the environment is very similar across the different clouds, he notes.
+The emergence of containers on Kubernetes as the de facto standard that everybody is supporting and the strong open source community support for that just makes that multicloud model an easier model to manage these days and makes it much more viable that it was a couple of years ago.
+Image credit - via HSBCDisclosure - Google funded the author's travel to attend its Google Cloud Next event, where this interview took place. Read more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackFinancial services and fintech 

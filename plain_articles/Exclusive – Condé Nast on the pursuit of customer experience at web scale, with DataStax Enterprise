@@ -1,0 +1,35 @@
+
+PR pros are known to blow fuses trying to get me to cover press releases, especially under embargo. That’s because I’m obsessed with customer proof points, not product news.
+But DataStax surprised me. Their PR team proposed an announcement based on a customer use case interview.
+Done deal. Soon I’m on the phone with Antonino Rau, Staff Software Engineer at Condé Nast. Rau is here to talk with me about the news that Condé Nast is using DataStax Enterprise (DSE) in their mission to improve customer experience and engagement. The numbers to date are promising. So why should we care?
+DataStax is a database management company known for its distributed cloud database, built on Apache Cassandra. Here’s why I pay attention: DataStax customer use cases tie into a sneaky big enterprise trend. They bolster the case for a build-from-within IT approach, where IT teams are helping to fund their own innovation, so to speak. So does that apply here?
+Before we go there, a quick word on Condé Nast. Most readers probably know Condé Nast – or definitely their brands. Condé Nast Inc. is an American mass media company founded in 1909. As per Wikipedia, there are 164 million consumers across its 19 brands and media. Publications from Ars Technica to Glamour to GQ to Wired are part of the holdings.
+The database bakeoff – DataStax versus Amazon DynamoDB
+Rau told me this all started when his team at Condé Nast wanted to optimize their content, via multivariate testing. Without getting too deep in the weeds, Rau’s team wanted to use multivariate testing to serve up different web page looks to different visitors. The goal? Maximize click-throughs and other engagement metrics. But this all had to be done affordably – and at web scale.
+An open source solution appealed. Rau’s team began by evaluating Cassandra versus Amazon DynamoDB, the latter being an obvious choice for an AWS shop. DataStax was already in contact with Condé Nast on a different proposal, which Rau learned about. He put the two options head to head:
+We noticed DataStax was, of course, on top of Cassandra. I wanted to do the benchmark using Cassandra or DynamoDB. That started the story.
+And the result?
+We saw that for our volume of traffic, DynamoDB was more convenient for lower traffic, but for the volume of traffic we are aiming to, Cassandra was much more convenient. So after a certain point, the DataStax solution was not only more effective in terms of performance, but also cheaper in terms of cost.
+So a year ago, Rau and his team selected DataStax for their multivariate testing. When DataStax began their Managed Cloud offering, Condé Nast opted for that too. Now, a year later, Rau can speak to some results:
+
+Improved digital click-through rates by 30%.
+Sped up personalization in its ‘Feature Store’ by 650%.
+Improved backend system performance of 1,800 reads per minute in less than 4 milliseconds, and 1,800 writes per minute in less than 10 milliseconds.
+
+Behind the results – putting DataStax to the web scale test
+Condé Nast is definitely putting DataStax to the web scale test. Condé Nast has been moving towards one platform for all brands. Right now, all 22 brands in the U.S. are on one platform. Rau:
+This means the volume of traffic is really huge. We have more than 100 million unique visitors, so that’s tens of millions of unique visitors.
+Right now, for multivariate testing, they are using ten percent of the traffic, which boils down to 15,000 requests per minute:
+We are pretty happy about it, because this is just a use case for the multivariate testing.
+Rau’s team will eventually expand multivariate testing to the entire U.S. platform. “By the end of the year for sure,” says Rau. They will also extend this usage to their international audience, doubling the audience size.
+Multivariate testing gives Rau’s team much more precision for serving up the most effective views to their audiences. They can run different recommendation algorithms on different pages, and highlight offers on different scroll down points per page. As for their “Feature Store,” this gives Condé Nast a repository for re-usable web services, aka “features.”
+What I like most about Rau’s approach is that when he talks about “experiments,” they are able to run these on live traffic, at a sufficient volume to understand what visitors want. One of the biggest struggles for web admins is finding ways to easily test features at scale. Visitors are always going to surprise us with their preferences and behavior. We can only optimize by giving them new looks and choices. Rau:
+We are using it especially to offer the different experience to the consumers, and see between the experience A or experience B, what the consumers prefer. And then evolve.
+The wrap – algorithmic experiments and personalization plans
+I asked Rau about that encouraging 30 percent bump in clickthroughs. He credits that to multivariate testing, which allows them to optimize the recommendation experience, as well as web layout. He sees an evolution towards continual, automated experiments where algorithms will be put to the true test: what consumers actually like and respond to.
+We talked about how those clickthroughs could be tied into measurement of meaningful actions like content subscriptions. That’s something Rau would like to pursue further as Condé Nast’s business model evolves.
+Rau also wants to get further into personalization. Right now, even with multivariate testing, they aren’t at the point of showing different page looks to different individual users. Rau thinks of this as optimizing the impact of a page. The next big step? Optimizing for a person.
+Rau’s been able to support these efforts with a pretty lean team, mostly based in Condé Nast’s New York City headquarters. Rau has about a half dozen engineers. Combined, the recommendation and experience teams add up to about ten. They are in frequent contact with product team members, but the core team can support millions of web visitors with their in-house tools.
+We joked about how the FANG companies can solve these web scale problems with massive teams and ridiculous budgets. It’s important to document stories of how brands can achieve significant web scale with smaller teams and costs. There is big work ahead in Condé Nast’s platform unification plans, but Rau is pleased with the progress:
+We decided to build these tools in-house, rather than a tool like Optimizely, which so far seems to be too expensive, especially at this scale, because you pay per use. We needed a solution that was able to empower our traffic. DataStax’s Managed Cloud helped a lot to empower this.
+Image credit - Feature image - Mans Hand Reaching For Red Ladder Leading To A Blue Sky, by @SergeyTinyakov - from Shutterstock.comDisclosure - DataStax has no financial ties to diginomica. I wrote this piece because the opportunity to break news with a customer story is unusual - and welcome. Read more on: CRM and customer experienceDevOps NoSQL and the open source stacke-commerceNoSQL 

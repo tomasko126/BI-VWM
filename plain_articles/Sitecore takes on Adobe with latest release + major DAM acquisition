@@ -1,0 +1,40 @@
+
+Sitecore is kicking off its 2018 Symposium today, and it’s packing a ton of news for customers and prospects looking to deliver great customer experiences.
+I met with Ryan Donovan, Sitecore CTO, Matt Krebsbach, Sr. Director, Public & Analyst Relations at Sitecore, and Faraaz Khan, Sitecore SVP of Corp. Strategy and Development to get the scoop on what’s new, including plenty of updates to Sitecore 9.1, a deeper partnership with Salesforce Marketing Cloud and a key acquisition.
+A major DAM acquisition: Stylelabs
+One of the things Sitecore has not yet built in-house is strong digital asset management capabilities. And now they don’t have to. Sitecore has acquired Belgium DAM (Digital Asset Management) provider Stylelabs. Kahn talked a bit about the decision to acquire Stylelabs and what it brings to the Sitecore platform.
+Stylelabs isn’t just a DAM provider. It also provides MRM (marketing resource management) and PIM (product information management). According to Kahn, Sitecore is excited about the ability to extend its product set and offer even more capabilities in the marketing stack. He said that together the two solutions support the development of a content strategy that understands the customer intimately and delivers the right personalized experiences across the entire customer lifecycle.
+Kahn provided three key reasons Sitecore chose Stylelabs:
+
+It’s an all in one platform (offering DAM, MRM, and PIM on a single platform).
+The two companies have a similar philosophy – a content-centric view (and Stylelabs EU roots also helped)
+Stylelabs has a good pedigree, with proven experience and an innovative mindset.
+
+It also helps that Stylelabs is also on the .NET platform, and available in the Azure Cloud.
+Stylelabs will be integrated with Sitecore but also available as a standalone marketing platform. Kahn said they will have a joint go to market strategy (“better together”). But he also sees Sitecore branching into new marketers in both the DAM and MRM spaces.
+This is, in many ways, about improved analytics around the right content assets for the right customer. Stylelabs manages the creation and distribution of content across many channels and tracks the performance of those assets. Some of those channels will be through the Sitecore platform, particularly the website, but now also headless applications.
+What’s new in Sitecore 9.1
+A few things are changing in the Sitecore Experience Cloud:
+Version 9.1 marks the general availability of Javascript Services (Sitecore JSS). These services, available as an SDK, allow Sitecore customers to build modern front-end experiences using modern JavaScript UI libraries and frameworks such as Angular, React, and Vue.js without needing to know the ins and outs of Sitecore. These applications will have full analytics tracking and personalization capabilities, as well as real-time preview.
+Another important capability within Sitecore 9.1 is Cortex – Sitecore’s machine learning foundation for experience data. Cortex supports a few specific use cases:
+
+Automatically create personalization rules: As the rules are applied, Cortex will learn and improve its personalization
+Automatically generate content tags: Sitecore integrated a third-party algorithm to support this functionality, which Donovan said is key to SEO and differentiating content A from B in personalization
+Identify the next likely to convert segment and creation of new offers to marketing personas
+
+The nice thing here is that customers can integrate their own ML engines, algorithms, and platform processors, customizing the Cortex data processing engine. This customization is important for industries with very specific needs and algorithms.
+With Sitecore 9.1, organizations can now build headless applications that include personalization, analytics and A/B testing features from Sitecore. It’s called Sitecore Omni, and it leverages Sitecore JSS and a new universal tracker.
+Enhancements to the email experience manager include governance features such as visitor self-management and send time limits that reduce the amount of email a user gets during a specified period. These enhancements are a tip to the growing needs of companies who comply with GDPR and other privacy regulations coming down the pipe.
+Sitecore’s email and marketing automation capabilities help customers deliver personalization around experiences. It’s not a full-featured marketing automation solution like Marketo or Eloqua. Emails are typically related to things such as registration, nurture or order confirmation and the personalization focuses on the experience across sessions over time (such as nurture around abandoned shopping cart).
+Donovan also mentioned a tech preview of Horizon, a next-generation content editor that fuses analytics experience with content editing. Imagine editing a web page and being able to see how well a content area has performed. Sitecore isn’t the first to bring analytics into the editing experience. I’ve seen something similar from Hippo (now Bloomreach), but the ability to see how well your content is performing when you are in edit mode is very important to ensure you are fixing the right content.
+Sitecore is available on Azure, and with this release, it is now available across all Azure regions which adds over thirty countries to its list. Donovan said that one of the limitations to customers using its cloud offering was its availability in certain areas. With that limitation now lifted, Sitecore believes it will bring even more customers into the cloud.
+Deeper integration with Salesforce Marketing Cloud
+Last year, Sitecore announced the first phase of a strategic integration with the Salesforce Marketing Cloud. Now they are announcing the next phase which will sync behavior data between the Marketing Cloud and Sitecore Experience Cloud, giving organizations a 360-degree view of their customers.
+Donovan indicated the first phase was a “commercial success,” and they are expecting this second phase to drive even more business for the two companies.
+My take
+In terms of market share, Sitecore is probably the biggest .NET-based Customer Experience Management provider. It’s behind Adobe, but I would suggest not very far, especially with a tight partnership with Salesforce Marketing Cloud. Salesforce doesn’t have a WCM/CXM platform, instead focusing its attention on other key parts of the marketing stack. Integrating with enterprise CXM like Sitecore might be the reason why a CXM acquisition hasn’t been top of the list for them.
+As for the acquisition of Stylelabs, remember Adobe’s “Master Plan”?
+With a centralized calendar and cross-channel composer, campaign managers can view and plan all channel activities across previously siloed teams and disparate channel solutions, tapping the power of Adobe Sensei to help free up time orchestration and coordination efforts to focus on other demands.
+Sounds very similar, but now Sitecore has it (although it still needs to piece it together properly) and Adobe is a little behind. Of course, Cortex is nowhere near the AI platform that Sensei is, so Adobe is safe in that regard.
+There is a reason Sitecore and Adobe are among the top CXM providers. Both understand it’s about so much more than web experiences, or mobile experiences, it’s very much about the right content delivered to the right person in that person’s context. They don’t have it all figured out, but they are getting there.
+Image credit - Feature image - Mans Hand Reaching For Red Ladder Leading To A Blue Sky - by @SergeyTinyakov - Shutterstock.comDisclosure - Salesforce is a diginomica premier partner. Read more on: Analytics planning and data analysisDigital and content marketing 

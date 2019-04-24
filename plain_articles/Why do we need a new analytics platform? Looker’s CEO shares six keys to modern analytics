@@ -1,0 +1,47 @@
+
+Bien keynoting at Looker JOIN 2018
+In the analytics market, the disruptors quickly become the disrupted. Vendors like Tableau and Qlik pressured older BI stalwarts with quicker deployments for business users.
+Now a fresh wave of data players like Looker are pushing a different analytics vision, a new analytics stack if you will – but with customers free to assemble the layers.
+But will it work? Or is the tsunami of big data overwhelming companies still mired in their internal data swamps and silos? At Looker JOIN 2018, Looker CEO Frank Bien sat down for a fast-paced interview, leaving me with with six analytics trends Looker intends to capitalize on. Some of them may surprise.
+Customers need more than visualizations and data prep
+Bien contends that what analytics customers need most is a platform:
+Since day one, we set out not to build the next Tableau, or the next data prep tool or whatever it is. We set up to really reconstitute what a platform for data would look like. A platform that could deliver not just like a business intelligence solution, but really provide the underpinnings for organizations to build more specific data applications for this new class of user.
+Not all customers are mired in data swaps
+It’s a cliche that customers are bogged in data. Bien says that some Looker customers have now pressed into what’s next: getting results out of that data.
+The message over the next couple of days is to realize this is possible now. Even a couple of years ago, it was not that possible. We were still so consumed with solving the basic needs of: how to get access to data. How do you make data reliable?
+Bien says the convergence of new database tech, new tools and good-old-fashioned determination has advanced what’s possible:
+As we’ve seen the advent of these new fast databases, of people who care, of tools like Looker, we’ve actually been able to move the ball quite a bit. It’s even been surprising the number of customers that we worked with over the last few years have actually done that, have actually solved these core problems.
+And what does this new data stack look like?
+They’ve done it with new database technology underneath, creating these data lakes, using Looker to get value out of them, and then really wrapping data more specifically around people’s business processes.
+The Fortune 10 is on board
+Those who don’t follow Looker may be surprised that five of the Fortune 10 companies are Looker customers. So I asked Bien his favorite customer example. No surprises here:
+I think Amazon is really interesting… They have a whole bunch of technology to bring to bear here too, like Amazon Redshift and Athena and stuff like that, so it’s just been a great synergy. They have great technology. We have great technology to put on top of that, and with that, we can really quickly build solutions for a myriad of organizations there.
+We need more than charts and visualizations
+Looker wants to empower people to explore data, but sometimes business users need more than a blank search screen. That’s why Looker 6, the latest release announced at JOIN 2018, doubles down on capabilities like embedded analytics, and analytics apps such as Looker’s new digital marketing analytics (these apps can be built by partners as well). Bien:
+Right now, we have a general idea that all problems are solved with the dashboard. If I can create a dashboard, I will solve someone’s problem. The reality is, that’s not how people work, right? That’s more if I’m looking at what happened last month.
+But if I’m trying to operate today – like what happened to these deliveries, and why are they not where they’re supposed to be, and why now is my whole supply chain falling apart? The ramifications of those kinds of things are really substantial now.
+Yes, some dashboards allow this via drill down. But Bien is making a bigger point: static charts aren’t going to work. Combining flexible tools with domain experts is the way forward:
+Those people who are doing that task are really operating in data. They’re instrumenting everything. They understand what’s happening in the shippers. They understand what’s happening in the supply chain. They understand what’s happening with the merchants. They understand what’s happening across the whole chain, and it’s through that understanding that they can take faster action.
+Big data doesn’t just make data problems worse
+One of my big talking points is that adding big data to the mix has only made companies’ data problems worse. It’s not just the scale – it’s dealing with external – potentially insecure – data, and somehow incorporating that into analytics and decision making. Bien agrees, but only to a point. He argues that the problem of big data at scale has spawned a welcome surge in database tech, particularly in the cloud:
+One of the themes of the keynote was breaking the chains – that includes the way that we used to think… The old world of data, that really still exists today for a lot of people today, is this idea of silos and extractions and plumbing and stuff like that.
+This whole notion of “big data” gave us a lot of hype, but it also gave us big, fast, analytic databases, to a whole new scale. The Snowflakes and Google BigQuery and Amazon Redshifts, and all the Hadoop stuff.
+But that requires new analytics tools:
+When we start to apply those technologies, but actually putting tools that were built for those environments on top, we really unlocked a lot of value.
+Don’t call it a new BI stack
+I tried calling this the “new BI stack” but Looker’s leadership aren’t fans of that terminology. Looker founder and CTO Lloyd Tabb also balked at that one. They don’t care much for the BI term, and find it limiting. Fair enough. Bien thinks of the analytics market in three waves:
+
+The one-size-fits-all BI stack  – “The first wave were the Cognos and BusinessObjects. They were the big stacks, right?”
+The agile departmental solutions – From Tableau (visualizations) to Alterx (data prep) the next wave solved issues for departments. If you were a self-service users with your own data – problem solved. But – this approach doesn’t necessarily scale.
+The new interopable stack, built on new database tech –  “What we wanted to do was reconstitute the platform. We wanted to go back and build the thing that could do the whole stack because people were spending so much time hard wiring all these little pieces together.”
+
+So that’s Looker’s goal in a nutshell:
+We wanted to something that could do data prep and integration and security and visualization. All that stuff, but do it not for that old world that was doing extractions, but do it for the new world that was built on these new big databases.
+My take  – Looker’s biggest challenge
+I told Bien I thought Looker’s biggest challenge was name recognition. He doesn’t agree. He thinks Looker has “just in time” brand visibility with a slew of referenceable customers to back it up. He’s more concerned about managing growth. Looker can help companies scale their analytics, but scaling internal culture is another matter entirely. “As far as I know, there’s never been a data company that’s grown as fast as we have,” asserts Bien.
+Looker customers get a legendarily fast response time on support – can that scale? The six year old company now counts  600 employees, with 1,600 customers in 45 countries. Bien wants to keep that culture intact as they grow.
+Does Looker have the right analytics approach? I’m a fan of platform strategy, though packaged analytics apps will be important for customers not ready to mix and match on their own. Building your own stack is powerful, but requires IT and data competencies. Packaging apps and services helps to expand this vision for customers not ready to manage a stack – or build apps – on their own.
+Deepening embedded analytics in solutions like Salesforce should prove potent. You want analytics to hit people in the portals they live in. And: partners like Matillion will be crucial for customers who aren’t ready to fuse analytics with online data warehouses on their own (I spoke with Matillion about helping Looker customers connect Looker into Snowflake, Google, and AWS).
+For now, I’ll be filing Looker use cases from the show to flesh out what I’ve learned. If you want to dig in, start with How Heroku built its self-service analytics future on the Looker platform.
+ 
+Image credit - Photo of Looker CEO Frank Bien at Looker JOIN 2018 via a screen shot of the YouTube keynote replay.Disclosure - Looker paid the bulk of my travel expenses to attend Looker JOIN 2018. Salesforce is a diginomica premier partner.Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architecture 

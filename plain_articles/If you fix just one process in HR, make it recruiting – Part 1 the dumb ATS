@@ -1,0 +1,62 @@
+
+In the US we have an economy that’s crying out for labor yet company after company seems unable to find the right people, let alone keep them.
+Few industries are unaffected whether that’s lobster catchers in Maine or construction outfits in Miami and, of course, technology experts everywhere. I firmly believe part of the problem lies in broken recruitment processes. Worse, it doesn’t look like technology providers or recruiting organizations really care.
+It starts with a leaky funnel made much worse by dumb Applicant Tracking Systems (ATS) that are infused with MS – that’s Machine Stupidity.
+The wasteful leaky recruiting funnel
+Recruiting works like a sales funneling process. This isn’t a new concept and firms like SmashFly have improved the process by adding a marketing/CRM twist to the process.
+The funnel process assumes that as job seekers/applicants progress through the recruiting process, employers will carefully and selectively winnow the applicant pool until a manageable subset of highly qualified candidates remains.
+Those candidates are then selected for interviews.  In a recent interview, (sic) I did with an HR technology firm, they showed that a job posting that is seen by 3,000 persons might only generate 200 applications, 5 interviews and only 1-2 hires.  So it’s definitely a funnel effect.
+In today’s HR technology space, there are several firms hoping to help employers win the war for talent. One group of vendors wants to help by providing insights into an ever-wider pool of passive and/or active job seekers. These vendors search the web to locate people and their employment particulars. This method results in massive big data datasets that cover over 1 billion people. Others tap into social media, discussion groups and other sources of people data to also prime the prospective employee pool. And, of course, the old standbys of want-ads, job boards, etc. continue to get technology upgrades and add people to the top of the funnel.
+Lots of vendors want to pour new names into the top of the funnel but what good is this effort if the Applicant Tracking System (ATS) or the recruiting team will not look at these candidates? The problem is not getting leads on potential hires, rather it’s the unintended or improper leakage of qualified people out of the funnel that’s most disturbing.
+Ideally, an employer should only discard the resumes/CVs/applications of the least qualified persons and run the remaining job seekers through other qualification steps. That’s the theory but what is really happening is something altogether different.  In fact, lots and lots of great people are getting tossed out of the funnel prematurely.
+Things go wrong almost immediately in today’s recruiting funnels. Many employers rely on an ATS as part of their recruiting technologies. Unfortunately, these products can be, at best, horribly inaccurate and, at worst, major failures for the job seeker and employer alike.  The worst of these tools try to parse a job seeker’s resume and put the discovered values into required fields in the ATS/recruiting system with incredibly high error rates. Here’s a sobering thought:
+The systems used by employers to manage job openings across their enterprises and screen incoming resumes from job seekers, kill 75 percent of candidates’ chances of landing an interview as soon as they submit their resumes, according to a recent survey from a job search services provider:
+The systems used by employers to manage job openings across their enterprises and screen incoming resumes from job seekers, kill 75 percent of candidates’ chances of landing an interview as soon as they submit their resumes, according to a recent survey from a job search services provider.
+The ATS may trigger all kinds of funnel leakage. What you might see is that:
+
+Most job seekers have no idea how much of or how accurately their resume was mapped. Very few employers actually display the results of this resume scanning process. This lack of disclosure by employers is inexcusable and harmful to prospective job seekers. If your firm doesn’t show how its ATS mangles a job seeker’s resume, then don’t complain that you can’t find quality job seekers. Your ATS/resume parsing utility is preventing dozens/hundreds/thousands of great candidates from ever seeing the light of day at your firm.
+The Machine Learning in these tools is primitive, opaque and not very smart. I use my own resume and personal data to test a lot of HR systems. Recently, I submitted my resume to numerous employer websites to see if I would even get a bite from these employers (Note: I was doing this as part of a test for age discrimination). Prior to submitting these resumes, I even had my resume tested by a third party site to see what I needed to do to make my resume more addressable by ATS’s.
+
+Unfortunately, the formatting that works for one ATS may not work for another. That’s an industry problem and one that continues to torment job seekers. One brave firm showed me what it made of my resume. It got next to nothing correct. Where my resume stated that I did guest lectures at several leading MBA programs (e.g., Harvard Graduate School), the resume parser thought I attended these programs. Worse, it was throwing a fit as I didn’t have a graduation date for these schools.
+This ATS program also borked all my employment history. It even objected to an accomplishment of mine (i.e., where I testified before the Pathways Commission on the future of the accounting profession) as I didn’t list any monetary deliverables from that ‘employment’.  This ATS was abysmal but at least the company let me see some of what the ATS did.  The machine learning rules in these tools must be in a black box that only the HR vendor can manipulate as I’ve yet to hear of any corporate user making their ATS smarter.
+
+ATS tools that score/rank submitted resumes are trying to apply some sort of score/preference/ranking based on data that the ATS itself may have screwed up. In effect, great people with resumes that ATS’ struggle with will get low rankings. Low rankings virtually ensure that these candidates will get overlooked. Again, these are potentially great hires that recruiters will never know about.
+
+In fact, 62 percent of companies using applicant tracking systems admit “some qualified candidates are likely being automatically filtered out of the vetting process by mistake,” according to a joint CareerArc/Future Workplace survey.
+
+Resumes that have been gamed will get higher preference scores by an ATS. While few will be surprised by this, lesser qualified candidates that include all manner of job description keywords in their resumes will get greater recruiter visibility over better-qualified candidates. Are these gamers better candidates for the open position? No. And once again, more potential great hire are going undiscovered.
+
+Unfortunately, gaming is encouraged. You only have to look through the pages of LinkedIn to see reams (sic) of advice on this topic.
+Gaming tells us one important thing: recruiting technology is NOT about finding great talent. This technology is simply providing recruiters with a word scoring system. The resumé with the most keywords gets moved to the top of the queue. Tech companies have it all backward. Instead of finding the best person for the job, they’ve created keyword counters. These two objectives are not aligned and cause many great people to fall out of the funnel.
+The gaming issue also penalizes resumes that use synonyms for keywords instead of the words exactly used in the job posting. So, even if you’re a licensed vocational nurse but the keyword tool is looking for LVN or RN instead, you’ll get kicked out of the funnel. An ATS should have a robust, extensive taxonomy that also looks for synonyms. Chances are, your ATS either lacks one or has a primitive one currently.
+
+Few recruiters may take the time to review the actual resumés that the ATS mangled or recommended that the recruiters not view. If your recruiting organization doesn’t do A/B testing over its inbound resumés, it may not out find that its ATS is dismissing lots of qualified candidates. And, even if the ATS tool is doing this, what can/will Recruiting do about it?
+
+Recruiters should be comparing a random selection of actual resumes provided by applicants to the data that made its way into the ATS. If it’s full of errors or missing data, the ATS resume scanning technology should be sent packing.
+Recruiters should also review the keyword matches that the ATS is finding and compare these to all of the keywords found in the resumes jobseekers submit. If the ATS’ taxonomy is lacking, then either fix the ATS or get a better technology. A recent CIO article describes the problem well:
+Say you’re applying for a product evangelist position, for example. If your resume uses the word “evangelist,” great. The system will pass your application on to a real person. But if your current job title is listed as “sales engineer,” no dice.
+Within the HR world, there is little guidance for great, highly qualified job seekers and what does exist can be contradictory, frustrating and unethical. Job seekers have to grope blindly through these tools. Since the ATS is often the first (and last) piece of technology job seekers encounter with an employer, is it any wonder that employer brands suffer? If your firm’s ATS is bad, nothing else you do will make people who were dropped from the funnel see your firm in a positive way. A bad ATS is death to employment/recruiting branding.
+Some advisors would lead us to believe that it’s not the technology that screwed up, it’s the applicant. More specifically, applicants don’t know how to prepare a digital-friendly, ATS optimized resume. One Ladders post offered these reasons a resumé will get tossed:
+
+It’s too long (Are highly accomplished job seekers supposed to look less so?)
+It doesn’t contain enough keywords (gamers win this approach)
+It overly stylized (you’re losing candidates because your ATS can read certain fonts or bullet points!)
+It’s organized chronologically and not the way the recruiter might want it
+
+It is interesting that all of those reasons are detrimental to finding great talent. Clearly, these recruiters or ATS’s value style over substance.  This one test could be a real eye-opener for many HR groups:
+“Another place to look is with an ATS’s keyword filtering settings,” Medved says.” Grab the resumes of a few of your top performers and run them through the system — you might be surprised by how many are rejected.”
+Here is another major ATS insight:
+Applicant Tracking Systems (ATSs) can’t read potential and can’t identify creativity.
+That’s right – most ATS technology is literal, not intelligent and easily tricked.  Currently, a human being is a far better judge of a candidate’s potential than any ATS.
+So, what do we know so far?  We know that:
+
+Reliance on some recruiting technologies triggers leakage of great talent from recruiting funnels
+Adding more volume to the top of the recruiting funnel won’t necessarily help firms win the war for talent
+Opaque recruiting tools hurt job seekers and recruiters
+Technology vendors should offer functionality that permits job seekers to see exactly what their software did to their resume
+Technology vendors that create keyword counting tools are not helping businesses locate great talent (and in quantity)
+You can’t fix your recruiting brand when your ATS is a mess.
+
+Next up: The Bias Problem in Recruiting
+
+Image credit - Story image via the author, featured image via LinkedInRead more on: HCM and the digital future of workTalent managementBest of 

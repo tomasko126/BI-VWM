@@ -1,0 +1,91 @@
+
+
+Lead story – Women in tech – it’s not about being Wonder Woman! – A women in tech collection from the diginomica team.
+Changing the reality of women in tech doesn’t get solved in a week, so the diginomica team presses on with a range of coverage, starting with Madeline Bennett’s women in tech piece above. Bennett’s ongoing series highlights the impediments and the high points; this piece has both. I liked this point:
+Jo Morfee, Founder at InnovateHer, called for more role models who are everyday, normal human beings, real people achieving in the world of technology and solving real-world problems.
+Some of the anecdotes weren’t encouraging:
+That young women are still being discouraged from taking STEM courses, rather than teachers welcoming them and making an effort to actively recruit more girls, is alarming.
+To counteract that, Bennett thinks these events should have fewer rock stars at the top of their professions:
+Let’s hear a little less about Sheryl Sandberg and Shuri (from the Black Panther movie), and more from the everyday female software developers, systems engineers and product managers, who are just a few rungs up the ladder from school children considering their options.
+As usual, other stellar women on the diginomica team filed notable stories:
+
+How Kiva uses data analytics to lend a hand (and money) to refugees – Jessica with an applied analytics use case with real world resonance.
+RCI Bank aims to cash in on Big Data customer insights – Angelica with a use case that doesn’t sugar coat the early challenges before the “single customer view” benefits.
+Video intelligence is more than views and clicks – rethinking video analytics with WatchingThat – Barb on the pressing need for better video numbers. I’m sensing an analytics theme here…
+
+Diginomica picks – my top four stories on diginomica this week
+
+HfS FORA UK – the robots are here, get over it and move on. Next up? – Den on a “truly standout event”, with heady/headless talk on robotics and the future of work.
+The enterprise month in review – Brian Sommer takes us through the wild and woolly month from inside a flying sardine can the enterprise road show circuit. Bonus: Brian surfaces an exciting new HR trend: PawTernity Leave.
+Ocado CEO – here comes the next generation of robots in retail – Stuart explains why “invest to innovate” is the mantra at Ocado, even if it comes at a bottom line cost.
+Containers and serverless functions – a modern architecture needs both and more – Kurt wades bravely through the tech hype cycle to help customers figure out how/when/why to partake of cloud services.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+AWS, HPE, Red Hat on 8 secrets of customer success with your SaaS vendor – Phil hits on an important session from FinancialForce Community Live, where several tech companies shared how they manage their SaaS relationship with FinancialForce. Phil explains why managing your SaaS vendor properly is a crucial part of the Everything-as-a-Service (XaaS) economy.
+Is SAP’s ABAP a special snowflake or has a Git run it over? – The best posts stem from the community – and ultimately go back into the community to spark change and discussion. Den helped to spur this with a landmark post for SAP developers. The potent comment thread includes views from SAP Chairman and Co-Founder Hasso Plattner. Expect this debate on the future of SAP development and an open versus closed SAP to carry well into TechEd season.
+National Grid makes savings by giving engineers control of their data using Tableau – Derek is fresh back from the Tableau UK user event with a spanking fresh use case in tow. Spreadsheet reduction anyone? I thought so…
+
+A few more vendor picks, without the quips:
+
+Bringing industrial analytics to bear on real world problems – a Baker Tilly example with Plex – Jon
+How SuccessFactors supports HR’s pivotal role as Teva navigates change – Phil
+Salesforce aims to smarten up customer experience with Service Cloud Einstein – Phil
+
+Jon’s grab bag – Deb assesses a retail situation going from bad to really-freaking-bad in The boy stood on the burning deck – M&S troubles go on. “We are not digital in an age where most retail starts with a mobile phone” – yikes. Jerry looks at California’s latest secession progression from the US status quo in Up from the ashes – California moves to restore tough net neutrality rules.
+Speaking of status quo, Martin lays into the security blame game in Senior management’s security hypocrisy on show. Den challenges us all to step into the dialogue in We need a new conversation about the world we’re (not) building. He sees a dire picture of technology serving the interests of the powerful while Facebook, Amazon and Google set up shop in our compulsive, consumption-addicted brains, but there are cracks of light worth pursuing.
+I rejoined the B2B buyer debate with a worthy foil in Are peer review sites impacting the large enterprise buyer? TrustRadius says yes. And if you want another cocktail of enterprise humor stirred with lessons learned, check my tough love snark festival, How to squander an enterprise media relations day.
+Best of the rest
+ Lead story – Pseudo AI versus white collar work implosion – which is it? Future of work articles by The Guardian, The New York Times and TEC.
+myPOV: Each week we get clashing views of our AI work futures – and of what AI is capable of in the present. The Guardian’s The rise of ‘pseudo-AI’: how tech firms quietly use humans to do bots’ work exposed the operations of some “AI” shops that rely on humans more than they let on, with privacy concerns galore. Call it the “Wizard of Oz” technique:
+“I wonder if Expensify SmartScan users know MTurk workers enter their receipts,” said Rochelle LaPlante, a “Turker” and advocate for gig economy workers on Twitter. “I’m looking at someone’s Uber receipt with their full name, pick-up and drop-off addresses.”
+“Fake it till you make it” is more common than we think. Ergo this classic from 2016:
+
+How to start an AI startup
+1. Hire a bunch of minimum wage humans to pretend to be AI pretending to be human
+2. Wait for AI to be invented
+— Gregory Koberger (@gkoberger) March 1, 2016
+Meanwhile, more pundits are catching on that “AI,” as it evolves, has implications beyond automating the mundane. In High-Skilled White-Collar Work? Machines Can Do That, Too, The New York Times looks at how surprisingly adept machines are at encroaching on the retail sector in India, impacting the future of buyers and merchandise planners, “high-status workers” whose annual earnings can exceed $100,000. Strong predictive abilities, and even a bit of fashion design flourish, have given machines an edge in jobs once thought safe.
+I’m not a fan of AI alarmism but I don’t think much of head-in-the-sand either. This quote sums it up:
+Arti Zeighami, who oversees advanced analytics and artificial intelligence for the H & M group, which uses artificial intelligence to guide supply-chain decisions, said the company was “enhancing and empowering” human buyers and planners, not replacing them. But he conceded it was hard to predict the effect on employment in five to 10 years.
+Bonus: Tech’s PJ Jakovljevic kicks tires on a next-gen talent management solution in Eightfold.AI—An Intelligent Way to Manage Talent.
+Other standouts:
+
+
+Musings – Enterprise Acceleration – and what every HR Leader should know about it – Gotta love the summertime, when Constellation’s Holger Muller loosens up his red shoes from a hefty spring travel schedule, takes a break from World Cup tweets, and wiggles his toes airs his industry musings. Mark me down for “21st century learning” and “transboarding.”
+Content Versus Conversation – I keep hearing we’re in content overload, so it’s refreshing to hear Gartner’s Hank Barnes point out the yucky part: “most content is flat-out boring.” Be conversational. Or as Barnes exhorts us: “Be bold, tell stories, differentiate.”
+
+3 Definitions of Cloud and Why They Matter – Over on the The New Stack, Edward Hsu provides a contrast between the cloud operating model, sourcing model, and architecture definitions. Meanwhile, on Twitter, the SAP ABAP debate somehow splintered into another epic Tweet thread on SaaS vs edge computing and busting cloud development myths. You may be able to track some of that thread here.
+Honorable mention
+The Playbook All Cloud Vendors Work From – UpperEdge with another useful ditty to help us all avoid cloud lock in.
+Elements of a successful government transformation – I was going to say: all-new leadership? Cynicism aside, McKinsey has a terrific piece drawn across multiple regimes nations, picking out five “essential disciplines” for success.
+This Week in Programming: The End of the API Economy (As We Know It)? – Put the breaks on API utopia: “There’s a huge amount of risk that goes with providing and consuming public APIs.”
+India’s 1.3 Billion People Just Got Net Neutrality – Hmm, maybe I’ll move to India instead of California.
+What if people were paid for their data? – Data workers of the world, unite – A utopian concept? Perhaps. But we could all benefit from an earnest discussion on why or why not.
+Whiffs
+The whiffs keep rollin’ in – first from reader Frank Scavo, who flagged this bonehead alert:
+
+#BoneheadAlert. Even if he is a Grampa. Cc ?@jonerp? https://t.co/hfVYh2SsHg
+— Frank Scavo (@fscavo) July 12, 2018
+There were some sad/horrible whiffs this week that would only bring you down, but since this one is tech-related we’re going with it: PayPal told customer her death breached its rules.
+If that’s bumming you out too much, just be glad I didn’t mention the World Cup. Oh, and check this brilliant cat: A professor was giving a TV interview about Polish politics. His cat didn’t care.
+More from the AI-needs-help files: when I was throwing shade at Facebook last week, I forgot to mention it flagged parts of the Declaration of Independence as hate speech.
+Are you ready to get your ‘coin on – with this thousand dollar blockchain phone?
+
+Here’s what Sirin Labs’ $1,000 blockchain phone looks like https://t.co/FysOBubREO -> for hardcore ‘coiners 🙂
+— Jon Reed (@jonerp) July 11, 2018
+On the blockchain front, reader Jerome Sullivan nominated this one for whiff of the week:
+
+Give me death. pic.twitter.com/m2gOgoQWXa
+— Ryan Mac (@RMac18) July 9, 2018
+As I told Jerome, I don’t know what it is, I just know that I like it… Oh, and as far as enterprise buzzwords go, I’m drawing the line at DevSecOps:
+
+Building a ‘DevSecOps’ Power Trifecta https://t.co/p6Z88N0Q5c -> I’m drawing the buzzword line at DevSecOps. That phrase isn’t going to stick
+— Jon Reed (@jonerp) July 12, 2018
+Finally, in my B2B peer review piece, Are peer review sites impacting the large enterprise buyer?, I got into a debate with TrustRadius’ CEO over whether his comparison of enterprise analysts with the Kardashians was fair game. To forge a peace offering, reader Clive Boulton has come up with this: my very own “JonERP” Instagram account:
+
+I hereby concede defeat.
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock - all from Fotolia.com.Disclosure - SAP, Oracle, Plex, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: DiversityHCM and the digital future of workHits and missesMachine intelligence and AI 

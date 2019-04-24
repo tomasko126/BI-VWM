@@ -1,0 +1,66 @@
+
+
+Lead story – Mobile World Congress – from 5G to Hololens to ethical activism – stories by Stuart Lauchlan and Martin Banks
+MyPOV: The Mobile World Congress is undoubtedly one of the biggest and most ridiculous overblown popular shows on the tech calendar, where you can count on gadget fetish kicking in as the tech media fawns over folding phones.
+But if you’re a determined scribe, there are stories worth telling from MWC. In Banks’ roundup, Mobile World Congress – 5G, the business agenda and Trump’s China syndrome, he puts 5G in the center, and rightly so. But it’s a complicated story, as the global center of 5G innovation is in China. Ponder this from Martin:
+More to the point, the position currently taken by the US President, coupled with the potential 5G gives to areas such as Africa and much of Asia to step rapidly from near-zero to the best comms infrastructures possible, could provide a surprisingly fast movement in the epicentre of global economic activity, just as some of those countries seem to be understanding that democracy may well be, long term, a better option than dictators.
+That’s quite a canvas, and whether it plays out that way remains to be seen. But a tech advance like 5G, despite its marketing bluster, can shift what’s possible. Meanwhile, augmented reality picked up steam. Stuart chronicles in HoloLens 2 debuts at MWC, but don’t mention the war! – more ethical activism from tech employees. Unfortunately for Microsoft, they couldn’t separate the tech news from the political entanglements. The U.S. Army is a big Hololens customer; not all Microsoft employees are on board. Stuart:
+A group calling itself Microsoft Workers 4 Good published an open letter to CEO Satya Nadella and Chief Legal Counsel Brad Smith calling on them to pull out of the contract.
+So much for PR fanfare – welcome to the intractable problem of how your tech supports – or threatens – democracy.
+But the ethics of all this are going to come back to haunt Microsoft – and all the other major tech firms – on a more and more frequent basis.
+Diginomica picks – my top two stories on diginomica this week
+
+Taming the multi-cloud monster – organic adoption vs. bureaucratic control – as a multi-cloud bobblehead krishna, I’ll be the first to admit the tooling isn’t ready for prime time yet, nor is the governance. Kurt provides a deeper view. It’s about “balancing the need for cloud controls and management with the convenience, speed and dynamism that drew users to cloud services in the first place.”
+Macy’s – another year, another restructuring, but there are omni-channel retail successes – Stuart on a retailer with another radical restructuring ahead, not long after a real estate fire sale. Yet, there are glimmers of omni-hope. Heck, even VR headsets are paying off: “For the customers that are using VR in furniture, their basket size is up over 40% and the return rate is down 25%.”
+
+Vendor analysis, diginomica style. Here’s my top choices from our vendor coverage:
+
+‘Financials first’ conversations rising as Workday aspires to $10 billion run rate – Stuart on the latest earnings from a company not lacking in revenue ambitions. This bit did not escape notice: “Bhusri called it the best quarter ever for the financial management offerings.“
+Wipro sells off Appirio HCM practices for $110m to IPO-bound Alight – Phil probes an intriguing services (re)play: “It’s likely that a few sighs of relief have been heard in the vicinity of Workday’s Pleasanton headquarters this week now that the Appirio HCM practices are joining such a long-standing and trusted partner as Alight.”
+Asana promises to rescue marketing and creative types from email chaos – That’s a big promise on Asana’s part, given that email remains the scourge of the corporate workday the essential communications medium, especially for reaching externals. Phil’s on the case.
+OpenWorks 2019 – why Auto Europe moved their CMS database to open source, and what they’ve learned – a fresh use case from my New York City excursion to the MariaDB user conference.
+
+A few more vendor picks, without the quips:
+
+More thoughts re: Ultimate Software – is a lot of debt now a good thing? – Brian
+An SAP Business ByDesign consultant shares how the partner ecosystem is making it hard for cloud ERP – Den
+Exclusive – how Innovative Composite Engineering excels at manufacturing quality and security with IQMS – Jon
+Built/founder on constructing a disruptive start-up on NetSuite foundations – Jessica
+
+Jon’s grab bag – Chris has a UK smart city reality check for us in Smart cities – Focus on people, not tech, says policy conference. Jerry looks at California’s GDPR-like initiative in How Big Tech plans to pre-empt California’s tough Consumer Privacy Act. I found Jerry’s assertion striking: “The absence of a general federal privacy law—covering data use, handling, and storage—is undoubtedly hurting the competitiveness of US-based multinational companies doing business abroad.”
+Best of the rest
+ It was a terrific week for enterprise blogging. Here’s the pieces that resonated most with my newsfeed readers. 
+
+
+How to Design Inclusion into a Tech Event – One of the better pieces I’ve ever read on inclusion at tech events. No excuses not to get on the winning side of this now. Nice job Jennifer Riggins.
+Workers use unapproved messaging apps to get their work done – I issued a snarky tweet on this one, which provoked readers on the backchannel who told me they are honestly struggling to find the right balance here, between immediacy/freedom of choice and apps that are secure/compliant.
+Seven key practices for lifelong learners – None of these seven practices detailed by McKinsey are earth-shaking or revolutionary, but taken together, they are a template for career success amidst the machines.
+ABM is good, but CBM — courage-based marketing — is better – Wait, “courage-based marketing”? Shail Khiyara explains why shameless email carpet blasting and compulsive surveys courage in marketing matters: “Delivering this requires a servant leadership mindset with continuous testing and iteration instead of a comfortable ‘stay the course’ strategy.”
+
+Honorable mention 
+
+Should We Be Worried about Pricing Algorithms Colluding? – “Left to their own devices, pricing algorithms resort to collusion” – yikes! Important piece from The New Stack.
+The coming Enterprise Software Hurricane – Vinnie Mirchandani sees storm clouds ahead: “Either SAP, Oracle, Infor and other on-prem vendors start energizing their customer bases or they are creating a vacuum for a disruptive force to enter.”
+The First Three Steps in B2B Buying – Gartner’s Hank Barnes has some fresh B2B buyer data to gnaw on. It all points to this: “As a vendor, you can not control the buying process.”
+Top 25 IoT Startups To Watch In 2019 – Before making his picks, Louis Columbus compiles some staggering stats on IoT startups: 26,792 startups are relying on IoT as one of their main technologies.
+
+Whiffs
+So the Muffin Break chain in Australia is going through the social media spank tunnel after their GM whined that millennials won’t do unpaid work. Doesn’t it suck when workers don’t want to be exploited by unpaid internships in the exciting growth field of mass muffinry?
+For the “those darned credentials” file:
+
+Oops. DMV Chief Nominee Thought He Had A Master's Degree https://t.co/vBBRycB3Xd
+-> this happened to me before too! It's so easy to forget you actually are a couple courses shy of actually completing what's expected of you. lol
+— Jon Reed (@jonerp) February 28, 2019
+
+Not everyone enjoys this, but I never get sick of the “bulging dick disc” sports media snafu, and the reaction here is priceless.
+Last week, Facebook endured another unbecoming privacy revelation via a Wall Street Journal exclusive on how 11 popular mobile apps are sending sensitive data back to Facebook due to using Facebook’s mobile analytics SDK. (Sensitive is an understatement given this includes health app stats).
+ZDNet published a follow-on piece, arguing that the Wall Street Journal piece was one-sided. Why? Because, as Catalin Cimpanu points out:
+If the developers of those 11 apps the Wall Street Journal would have used another mobile analytics SDK and would have sent pregnancy and menstrual data to “Analytics Company #23,” nobody would have batted an eye. But everyone is now losing their minds just because it’s big bad Facebook.
+Ergo:
+Facebook isn’t collecting data on pregnancies and menstrual cycles. App developers are. The problem isn’t Facebook here, it’s the analytics ecosystem, as a whole.
+Valid points; herd thinking won’t get us anywhere. But the problem isn’t just collecting sensitive data – it’s disclosure and transparency. Then consumers can make a truly accurate choice on the tradeoffs they are willing to except.
+It is terrifying to me how many of us, including myself, tend to choose convenience. But we should do that with the full knowledge of what we are getting into. Cimpanu shouldn’t have limited his critique to app developers. The paymasters who build businesses on top of people’s data – and fund most of those apps – are the ones who have the real explaining to do.
+As for Facebook, I’m sure they’ll find a way to steal back the be careful what you get addicted to smarmy-privacy-news top spot award next week.
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Loser and Winner © ispstock  - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Hits and misses 

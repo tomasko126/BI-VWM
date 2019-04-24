@@ -1,0 +1,72 @@
+
+Lead story – The fall of big data and the rise of… blockchain? – pieces by Den Howlett and Barb Mosher Zinck
+
+myPOV: These days, blockchain’s outlook has as many ups and downs as a late night movie on Cinemax (yes, there were probably better analogies, but on we go). Two diginomica pieces added twists. In his bewildering smoldering meaty series of summer think pieces on the grill, Den posted Book review: Life After Google – The Fall of Big Data and the Rise of the Blockchain Economy.
+No, it’s not the end of Google’s economic dominance. But perhaps… a loss of idealism/darkening of skies over what crunching big data means for citizens like you and me? Den:
+Google represents the apogee of centralization but that it is being challenged by a move towards decentralization that finds its home in the blockchain technology. This has arisen because Gilder believes that the ‘free’ world of Google has led to a bunch of consequences that are stifling innovation (as evidenced by the paucity of IPOs) and leading to a state of near constant crisis in security.
+Diminishing confidence in our Silicon Valley overlords to pave the path to collective well-being with a hierarchy-smashing nerdbro-culture-of-machines-eats-our-free-data-and-we-all-live-with-the-outcomes-while-wealth-consolidates is pretty much a given now. The question Howlett asks is: are any of today’s next-gen technologies (AI, ML, blockchain) ready to fill a commercial/intellectual void with something truly transformational? Gilder puts forth blockchain as the answer, particularly for security. I’m not so charmed; I see limited-but-worthwhile use cases. Others still have revolutionary blockchain fervor. Howlett’s take:
+Despite making a good, if an incomplete case for the blockchain as a foundational technology, we should not be too quick to ascribe magical powers to the blockchain. Concerns over scalability, for example, or the instant kiss of death arising from ICO fraud cannot be ignored.
+Yet “it would be disingenuous to write off the many nascent innovations swirling around the blockchain economy“. Barb picks that up in How Lightstreams is putting the privacy back into blockchain. Good to read about a blockchain innovator who is clear-eyed about its limitations, and what is needed to overcome them:
+From a technical point of view, working with blockchain is difficult because it’s a paradigm shift, said Smolenski. It’s peer-to-peer, not central which makes it more difficult to develop. Smolenski wants to make it more user-friendly and “less clunky” than it is today. He feels part of the reason we haven’t seen widespread adoption is that it’s not a user-friendly ecosystem yet.
+The best antidote to decaying business models is subversive field work:
+That being said, Smolenski said that every major business has a blockchain lab somewhere. He was involved in a high-profile project in Germany last year – charging stations for electric cars.
+Diginomica picks – my top three stories on diginomica this week
+
+Retail roundup – another batch of retail use case analysis, starting with Stuart’s GAP CEO sees his retail assets as digital, data and real-world stores. Stuart says traditional retailers are finally having a brand-saving bricks/clicks awakening: “As they move past Amazon-myopia to realize that their real estate has a vital role to play in the omni-channel mix.” Yes. I profiled another retailer not hung up on Amazon in How Milk Makeup is making its mark on e-commerce – a Salesforce use case. Stuart frames the international issues in A Chinese e-commerce warning to Washington – a trade war will hurt you more than us.
+
+Lipari Foods delivers answer to supply chain challenges with WebFocus – Jess keeps thing real with another customer story. How’s this for a nail down summary of modern BI?
+
+Two things needed to change if employees at Lipari Foods were going to have the information they required to do their jobs to the best of their abilities. First, they needed self-service BI capabilities that reduced their reliance on the IT team. And second, they needed reports based on a much wider pool of data sources.
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+HPE and HP Inc – when breaking up works out for the best – I didn’t think this breakup was going to work out. But as Stuart reports, it’s an unexpected post-divorce love affair – with Wall Street: “HPE CEO Antonio Neri said the numbers demonstrate that HPE Next, the firm’s push to “re-architect the company from the ground up” is paying dividends, picking out strong growth in Hybrid IT, Financial Services and Intelligent Edge offerings as well as High Performance Compute.”
+How Microsoft plans to save the internet from bad actors with AccountGuard – I’m not ready to anoint Microsoft as our saviors over bad actors, but I’ll agree with Jerry on this much: they are setting the right tone. “Microsoft’s Digital Crimes Unit (DCU) successfully executed a court order last week to disrupt and transfer control of six internet domains created by a group widely associated with the Russian government and known as Strontium, APT28, or more colorfully, Fancy Bear.”
+Intel hits back at NVIDIA in AI chip market with expansive strategy – Kurt handicaps the AI chip market, with Intel finding its next-gen sucker punch mojo: “It will be an exciting battle to watch as the CPU empire aka Intel strikes back at the GPU rebels aka NVIDIA. If Intel’s claim of a billion dollars in AI-derived revenue last year is remotely true, it means the company is already winning as much or more business in this nascent, but mushrooming market as its chief rival.“
+
+Jon’s grab bag – Den issued another missive-of-note in The quiet bottoms up wirearchical ‘revolution’ and why it matters. If you’re wondering what the heck wirearchical is, it’s an optimistic view of networked people over hierarchies. It’s also a lens to debate the future of work; you too can get in on a vibrant comment thread where Vinnie Mirchandani is holding court. Bonus: Twitter beefs.
+Best of the rest
+ Lead story – Identities as the security perimeter – and a look inside the worst cyber attack in history
+
+myPOV: It was a not-so-comfy week in security coverage, as we looked into the mirror of corporate vulnerability and saw our own reflection. As Louis Columbus of IQMS documents in Identities Are The New Security Perimeter, humans are still the weakest firewall link:
+There’s been a 135% year-over-year increase in financial data for sale on the Dark Web between the first half of 2017 and the first half of 2018. The Dark Web is now solidly established as a globally-based trading marketplace for a myriad of privileged credentials including access procedures with keywords, and corporate logins and passwords where transactions happen between anonymous buyers and sellers. It’s also the online marketplace of choice where disgruntled, angry employees turn to for revenge against employers.
+No need for sophisticated black hat password generators:
+Teams of hackers aren’t breaking into secured systems; they’re logging in.
+Malicious/opportunistic employee behavior is one aspect. But as Wired Magazine documents in The Untold Story of NotPetya, the Most Devastating Cyberattack in History, sometimes a chain reaction of crippling events can come from clicking on the wrong email attachment. NotPetya’s malware strain was essentially weaponized in a cyber attack, primarily targeting the Ukraine, which included Ukraine shipping ports run by Maersk Line. Wired:
+The same scene was playing out at 17 of Maersk’s 76 terminals, from Los Angeles to Algeciras, Spain, to Rotterdam in the Netherlands, to Mumbai. Gates were down. Cranes were frozen. Tens of thousands of trucks would be turned away from comatose terminals across the globe.
+No magic fixes here, but one key point made by Columbus is that companies are relying on outdated approaches with trusted credentials. That’s different with Zero Trust Security, which relies on real-time user verification, device validation, access and privilege limitation.
+Machine learning can play a big role here with risk assessment profiles that are constantly adjusted. However, judging from the difficulty Google has sending out frantic “false positives” when I log into Gmail from different known devices from known locations, we have a long way to go here.
+Still, the security conversation is changing. Companies and individuals must put in the time. If we trust security experts to solve all of this, we’ll miss the weak link staring back at us each morning.
+Honorable mention
+
+
+Why doesn’t anyone act on your ideas? Wild guess: because your ideas stink? No, it’s not necessarily that, says IBM’s Vijay Vijayasankar. One standout reason: “For every ten people with bright ideas, there is usually only one person who is capable of flawless execution.”
+Data silos are the greatest stumbling block to an effective use of firms’ data – SnapLogic shares the mixed bag results of their recent survey: “(74 per cent) of our respondents believe their organisation has more data than ever but is struggling to use it to help generate useful business insights.”
+Alibaba continues to gain cloud momentum – Ron Miller of TechCrunch doesn’t see Alibaba giving AWS a scare anytime soon – “probably never” – but Google Cloud Platform and IBM is another matter.
+Why Community Manager Is a Dead-End Job — and What to Do About It – Shame that an article like this had to be written, but it did. Communities are a competitive advantage regardless of (most) companies’ unwillingness to invest in it because they can’t control it and can’t retweet it and don’t like unvarnished feedback measure it with fancy tools.
+The Alexa-Cortana integration: Why wasn’t this bigger news? It is now; Brent Leary, it is now. By the way, “I used Alexa in the car to call Cortana to use Alexa” – can we hear a recording of that action?
+Tinker, experiment, explore, then disrupt: The Hyper-Connected Enterprise will be driven by Intelligent Automation – Hold up Mr. Fersht. I was just getting a handle on the Digital OneOffice – now we must press on? Fashion idea: how about “I built the hyper-connected enterprise, and all I got was this lousy t-shirt.”
+
+Whiffs
+My fave PR email subject header of the week:
+Car…Or, Cocoon? How Valeo is helping build a car that actually cares about you
+Cocoon? I’ve said it before: I like my phones smart, and my cars dumb. If I need a cocoon, I’ll build one at home out of an egg of a giant alien insect. On other fronts, I haven’t read this article, Couple Couldn’t Conceive Because They’d Been Having Sex the Wrong Way for Four Years, so I can’t tell you if it’s safe for work, but it sounds like it’s good for birth control.
+I guess T-Mobile doesn’t feel 2 million compromised accounts is a big deal:
+
+Hackers Stole Personal Data of 2 Million T-Mobile Customers https://t.co/Lb5sNK1qca -> when 2 million customers are impacted I’m not sure “fortunately not many” is the best response.
+— Jon Reed (@jonerp) August 24, 2018
+And finally, two grouchy hype pushbacks from yours truly:
+
+How blockchain is disrupting the insurance industry for the better https://t.co/IdHU7I2Y16 -> if by “disrupt” we mean doubling R and D spend with no live projects and none on the horizon, then sure, another industry disrupted
+— Jon Reed (@jonerp) August 29, 2018
+That’s not a blockchain bash by the way. It’s a “promiscuous use of disruption” violation. Finally:
+
+What Is A Data Lake? A Super-Simple Explanation For Anyone via @forbes https://t.co/JatrlfddEe -> A: a place where you forklift a hodge podge of unstructured data and hope business value magically shows its head like Nessie over at Loch Ness?
+— Jon Reed (@jonerp) August 29, 2018
+Harald Mueller put it best:
+
+If the hodge podge is edible and there’s scotch inside then it’s invaluable 😉
+— Harald Mueller (@har_mueller) August 29, 2018
+See you next time…
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, IQMS and Salesforce are diginomica premier partners as of this writing.Read more on: Governing identity privacy and securityHits and missesIdentityMachine intelligence and AISecurity 

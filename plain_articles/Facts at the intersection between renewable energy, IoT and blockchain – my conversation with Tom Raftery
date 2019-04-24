@@ -1,0 +1,30 @@
+
+Tom Raftery and I have known each other for more than 13 years. I first bumped into him during the Web 2.0/Enterprise 2.0 era of the mid-2000s at a time when he was developing a carbon neutral data center in Cork, Ireland. We have both moved on and today, Raftery is a Global VP at SAP, covering topics like IoT and blockchain. But his enduring passion has been renewable energy and it was in that context rather than in his position as an evangelist for SAP that we caught up the other day for a 40-minute conversation.
+I learned a great deal. If you have the time and interest then the recorded conversation is below:
+
+For those who prefer the TL;DR, here are the top line facts Raftery discussed:
+
+
+98 gigawatts of solar deployed in 2017, the last year for which there is data. That’s the output equivalent of 98 nuclear power stations. Of that number, over 50 gigawatts was produced in China.
+In 1977, the cost of a kilowatt-hour of solar photovoltaic cells was $76. It’s dropped now to two cents per kilowatt-hour and is continuing to fall. This is a result of Swanson’s law which:
+
+…is the observation that the price of solar photovoltaic modules tends to drop 20 percent for every doubling of cumulative shipped volume.
+
+
+The last few years has seen significant improvements in all areas of renewable technology innovation but it is currently storage where the next big gains are coming. Example: Elon Musk’s 100-megawatt plant in South Australia  which, in its first year of operation has saved $40 million.
+Most recently, PG& E announced the building two plants in California with 720 megawatts and 1,000 megawatts of storage.
+The cost of batteries is also cratering. What was $1,000 a few years ago is now at $150.
+Coal plant subsidies in Spain are being eliminated and by 2050, the whole country is planned to run on renewable electricity.
+In Europe, it is now cheaper to build solar and wind farms than it is to operate coal fired plants.
+
+
+The combination of regulation and the economics of renewables is fostering innovation across the board with the promise of abundant energy at affordable prices. That will have a significant impact across both industries and in the consumer space. The most obvious impact comes in the cost of running data centers in technology. We are already seeing the impact in automotive though it’s important to understand that while electric cars snatch the headlines, they only account for 2-3% of new sales. Elsewhere, local authorities are mandating that public transportation is based on renewable energy powered vehicles. There, demand accounts for 19% of new sales.
+There is still much to be done, especially on the consumer side where the degree of automation and simplicity of understanding power usage has yet to reach critical mass. In a recent edition of Exponential View, Azeem Azhar said that in his quest to become carbon neutral:
+I found the process of finding out somewhat cumbersome. There seems to be an opportunity for entrepreneurs to bring some design and product thinking to this arena.
+On the IoT front, Raftery referred to a recent customer visit where the power management provider was talking about developing smart meters that allow customers to choose the type of power they wish to consume and then switch using their smartphone. The next step will be for those same meters to auto switch between suppliers depending on customer chosen preferences. In a future state, that might be every few seconds.
+On the blockchain front, Raftery conceded that to date, most of the action is confined to PoC’s – as we have previously reported. However, he has seen promising work that is due to go public this week from OckamIO. Colleague Jon Reed has a story planned that includes reference to Ockam’s trustless platform. Later, I have a conversation in planning with Ockam’s CTO.
+Other stories related to changes in the energy market
+EDF Energy – value belongs to the customer and that means culture change
+Sustainability as driver of the new technology-driven economic era
+ 
+Image credit - Photo by Antonio Garcia on UnsplashDisclosure - SAP is a premier partner at the time of writingRead more on: Internet of ThingsMachine intelligence and AI 

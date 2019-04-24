@@ -1,0 +1,49 @@
+
+It’s been years since my last video session with Vijay Vijayasankar of IBM. But he sparked an argument I had to grapple with.
+My bone of contention: there are plenty of qualified – but excluded – job seekers in the U.S. (see Tech careers are earned on the job – Apple, IBM, and Google’s degree requirement change was long overdue for a flavor).
+When Vijayasankar told me he’d love to hire more data scientists from the U.S., but he couldn’t find enough with the right skills, that bothered me. It violated my belief that the talent is out there. I know that Vijayasankar is also passionate about extending opportunities beyond ivory towers. If he is running into issues here, we’d best pay attention. So we had an old school video hangout session to hash these data science questions out:
+What’s special about the data science skill set? Why is there a shortfall? And what should individuals – and companies – do about it?
+Those topics were the fodder for a forty minute online video, which I already released as a podcast (embedded below). Here’s five standout field lessons from the talk.
+Data science is a team sport
+ZDNet’s Joe McKendrick picked up on our video in his piece, There is no one role for AI or data science: this is a team effort.
+As Vijayasankar explained in a recent online talk with Diginomica’s Jon Reed, the skills essential to AI and data science cannot be distilled into a single individual or role within the organization. This type of function “needs statistics experience; it needs science experience; it needs storytelling experience; it needs good visualization experience; it needs a lot of domain experience.”
+This isn’t really about some rock star coming in and waving the magic data science wand.
+Domain knowledge is a non-negotiable team characteristic
+You’re not getting anywhere if key players on your data science team don’t have industry depth. McKendrick picked up on that also:
+Reed illustrated an example as seen at an aircraft parts manufacturer: They were spinning wheels on some data analytic problems, “and it wasn’t until they sat down with engineers and the specialists and the managers with the data that that’s when the light bulb started going off. It was sitting down with the domain experts that have been in the field for 20 years that they were able to immediately see the issue.”
+It’s “not enough that you know the machine learning aspect; you also need to know the process,” Vijayasankar added.”How quote-to-cash works in ERP is not something that you can teach a data scientist in two days.”
+It’s the math and machine learning combo that is hard to hire for
+Or, as Vijayasankar put it:
+It is also tough to teach in machine learning to an ERP specialist in a couple of days or weeks. It’s important that we cross-pollinate knowledge.
+So what exactly is this hard-to-find skill set?
+I do expect my data scientists to have a good mathematics understanding, statistics understanding, so they understand the first principles of how their solution works and can explain in simple terms what has happened.
+Some colleges are known for cultivating these folks, many of whom have advanced degrees:
+There are the few universities like Carnegie Mellon and New York State and Northwestern and so on, where we go and recruit every year in some volume. We get great students from there, and most of them have prior experience before they did their masters, but it is a small set of people compared to the demand in the market… They are pure data scientists.
+They’re very well prepared and they have a very short learning curve to be where they need to.
+That led to this exchange:
+Reed: When you say, “They’re pure data scientists,” break that out a little bit. Do they have advanced mathematical degrees as well?
+Vijayasankar: Many of them do, either advanced mathematics degrees or engineering backgrounds, where you do need significant mathematics as part of your curriculum to pass that course.
+Reed: They understand how algorithms are constructed, and they could probably construct their own.
+Vijayasankar: Or I would like to think if they don’t, then somehow I would have spotted it and not recruited them.
+Communication skills narrow the field further
+This complicates the job description even more:
+It’s probably less important when they talk to other data scientists, but it is very important when they explain it to a client, a non-data scientist person, how they arrived at that conclusion, what the system is actually doing and what are the caveats that should go with it.
+Sometimes they do understand the math really well, but they still have a problem interpreting that in simple language. That is just about as bad as the prior case, where they don’t have the math knowledge.
+Combining data science, math, and client-savvy is the trick:
+What I need is them understanding first principles and then, being able to explain in simple language to their clients. It’s a complicated skill. It is something that perhaps universities could do better in educating them.
+Schools aren’t teaching the mix of skills a data scientist needs
+It would be simplistic to say that we need to fuse liberal arts and tech/math studies, but there is something to it. As I said to Vijayasankar:
+You’re describing a rare skills combination, a strange blend of liberal arts sensibilities and hardcore math/science sensibilities, because the ethical and sociological implications and the privacy implications that’s aren’t taught in the hardcore science curriculums nearly as often.
+“Pure” data scientists are not so pure after all. They are the types who would read/debate Den Howlett’s latest piece, Can AI be bounded by an ethical framework?
+Earlier in our talk, Vijayasankar said he hired for curiosity. Now he added:
+As far as I know, there are no core curriculum components that teach these things. There are electives in some colleges that teach this. I strongly believe that it should not be an elective. It needs to be part of the core curriculum.
+You’re spot-on; I truly feel that all engineers need a dose of liberal arts education while they are in college, or at least get their curiosity raised.
+Final thoughts – for now
+We also discussed the problem of diversity in the data science field – something that doesn’t seem to be getting better. That warrants a longer piece.
+I’m not backing off my beliefs that companies need to be more creative in their hiring – perhaps with the help of the many “bridge” programs that help train marginalized youth with the skills they need (a topic we’ve written about a lot on diginomica – one of my faves is Derek’s Competency over Pedigree – Plugging the tech skills gap by giving disadvantaged young adults a chance).
+I’m not backing off my belief in continuing education. That doesn’t absolve us of the imperative to push for formal schooling that lines up better with modern work.
+But here’s where Vijayasanakar gives me pause: which skills can you learn on the fly – or even online – and which ones require a more immersive classroom experience? Having taken advanced math in high school, it’s hard to imagine how I would have worked through that online, as I did for courses in marketing and web analytics. Possible? Sure. But a real toil.
+Liberal arts may be an even more immersive need – best done with minds are young, and open to questioning all assumptions. All the more reason to disrupt formal education. But for those of any age who feel locked out of their chosen field, I’ll simply say: press on. Take it from someone who got a master’s degree in resentment at an early age. The jugular and uncertain pursuit of excellence is still the best revenge.
+
+You can also download the podcast, or get my Busting the Omnichannel series on iTunes.
+Image credit - Feature image - Career Planning Concept. Businessman Getting Help Building Bridges To Success. © ilkercelik - Fotolia.com.Read more on: Digital skills and trainingFuture of workIoT robotics and AIMachine intelligence and AI 

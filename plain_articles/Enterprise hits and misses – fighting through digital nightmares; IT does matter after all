@@ -1,0 +1,79 @@
+
+
+Lead story – 8 ways to wake up from the digital nightmare and succeed – by Den Howlett
+
+myPOV: An appropriately gritty Howlett riff on McKinsey data, re: the daunting obstacles to lasting change. Some words to the wise from uncle Den, selected from his bulleted list of change essentials: 
+
+Experimentation is critical. 
+Short-termism has to end. 
+Get on the XaaS train.
+
+Bonus: I found out what Red Queen stories are. Hint: you don’t want the Red Queen effect anywhere near your project. A chunk of the lasting change goal is: talent infusion. Or as I put it in my follow-on, McKinsey – the digital skills gap will get worse as cognitive automation intensifies:
+Many workplace cultures lack the necessary infusion of fresh talent and provocative ideas that aren’t coated in corporate politics. When you mix in a shifting skills landscape that companies struggle mightily to keep up with, that’s a recipe for a stale and weak culture.
+Den hit on a related workforce angle in Finding the workforce of the future – a conversation with Leighanne Levensaler, Workday. I liked the lack of reassuring talent bromides in this piece. Instead we grapple with a tough problem:
+The future doesn’t have to be one where you’re trained as a barrister or barista with nothing much in between, but that is what training will lead to unless we recognize the challenges and get funds, effort, and ongoing commitment from all interested parties.
+One solution: get more aggressive about bridging the gaps. Levensaler cites joint research with Bloomberg:
+Only 38 percent of corporate respondents are actively collaborating to establish education-to-work pipelines.
+An uninspiring stat. Time to get cracking…
+Diginomica picks – my top three stories on diginomica this week
+
+‘GDPR-California’ is a victory, but not the endgame of ‘GDPR-US’ – the fight goes on – Stuart on a surprising twist to the U.S. data privacy narrative: “This is a significant development, but it’s far from the endgame.” There’s a big list of bottom feeders with household names deep pockets who are shamefully fighting this with all the sellouts lobbyists they can finance – I’ll make fun of them in a bit.
+SIG fills up with food for thought from GE Digital – GE make be going through some hard times but as Jess found, good use cases persist. This one’s about teaming up with GE Digital to “maximize uptime for its customer-based equipment.”
+DevOps – all about culture change, not tech adoption – Martin picked up some trenchant DevOps insights from his latest forays: “The lesson here is that there are ways of creating the culture change and getting appropriate but currently disparate groups working together.” Yep – culture change does happen – as in confronting fear of change and solving pain points, not just focusing on speed of code delivery.
+
+Vendor analysis, diginomica style. Here’s my top choices from another vigorous event week:
+
+VMware clambers on the container bandwagon – Kurt on the mainstream container surge and how VMware now has Kubernetes religion, on the heels of their cloud conversion.
+The B-word(s) – Block, business and Brexit – Stuart on his London sit down with Salesforce COO Keith Block, with Brexit in sharp focus.
+MongoDB CEO – ‘We rarely see other NoSQL vendors in deals anymore, they’re less relevant’ – Derek finds MongoDB in a confident mood at their annual user show, which he delved into via use cases like Australia’s ticketing giant Ticketek goes all in with MongoDB – ‘It’s the only database up to the task’.
+
+A couple more vendor picks, without the quips:
+
+CommLive18 – FinancialForce employs Einstein for analytics, but not yet AI – Phil
+CommLive18 – How JLL uses FinancialForce as a growth driver – Jon
+
+Jon’s grab bag – Some retailers are flailing in the digital game but as Stuart updates, not so Nike (Nike just does it with digital re-invention). Jerry goes 3D in the smart car market in Luminar sees the future of autonomous vehicles in 3-D.
+The counterweight to digital is failing projects in the legacy slow lane. Den did his due diligence on a truly wretched project in How to guarantee an enterprise project failure. The Anchorage payroll example. When you read about employees working in a “prevalence of fear”, that’s a bad mile marker indeed. Den quotes SAP HCM expert Jarret Pazahanick, both of whom call for SAP to reign in its bloated partner community. It takes a village of incompetents to wreck a project this badly. No, it’s not a software problem – and that should be of little or no comfort. No Pinnacle Awards in sight here…
+Best of the rest
+ Lead story – IT Matters Again: The Enterprise of The Future Present – by Stephen O’ Grady
+
+myPOV: RedMonk’s Stephen O’Grady uses a landmark IT critique as a landmark for how much things have changed. Nicholas Carr’s 2003 Harvard Business Review article “Does IT Matter?” questioned the ROI IT has provided, advocating a frugal/efficiency approach to IT. Times have changed. O’Grady:
+If narrow definition is used and IT is taken to mean nothing more than base infrastructure, then Carr’s viewpoint remains correct. If, however, the definition of IT encompasses the entirety of an organization’s technology portfolio and strategy, however, the assertion that IT doesn’t matter could not be less accurate today.
+O’ Grady concludes we are heading in a two-pronged direction:
+First, [companies are] making a determination of what areas of their technology infrastructure are mere commodities and which can offer them a competitive advantage. And second, once that determination has been made, they’re putting a premium on any area above the commodity layer, any investment that will allow their organization to move at a faster pace.
+That’s a fair generalization, though O’Grady could have gone further to distinguish how this “two pronged” style is different than Gartner’s flawed  “bimodal IT” hypothesis. In my view, this is all about going at one speed, not relegating any IT activity to the slow lane. It’s more about whether you manage/outsource a particular area, or develop IP around it.
+Of course, organizational change is table stakes. For more on that, ZDNet’s Joe McKendrick riffed on a survey on changing IT tech (and attitudes) in Executives love continuous integration more than developers, for now.
+Other standouts:
+
+10 Questions You Should Be Asking a Potential Consulting Partner – As something of an antidote to the project failure above, Jarret Pazahanick pointed me towards this terrific checklist from Raven Intel. The focus is cloud HCM projects but you could apply this across many types of projects. Customers taking more control over their partner selection and partner auditing is a big piece of the success recipe. Pieces like this are a good start. And yet, as this piece points out, too many customers lack rigor in their partner selection.
+After 20 years of Salesforce, what Marc Benioff got right and wrong about the cloud – Bet you didn’t expect TechCrunch to publish one of the best enterprise pieces of the year. Me neither. The author, Grant Miller, has only published this one piece on TechCrunch, so it looks like a one-off. It’s worth a careful read, but here’s a teaser: “The problem for many of today’s largest SaaS vendors is that they were founded and scaled out during the pre-cloud-native era, meaning they’re burdened by some serious technical and cultural debt.”
+
+Honorable mention
+
+​Voice and the next generation of CRM adoption – Brent Leary continues his worthwhile voice UI/enterprise series, with a look at voice in CRM, and how it might unlock CRM results that haven’t been delivered due to clunky interfaces and poor automation.
+Top 3 practical considerations for AI adoption in the enterprise – Couldn’t get through the week without some AI fodder. This one hits on “explainable AI” as one barrier to AI adoption. In other words – black boxes give CIOs the weebie jeebies.
+How Can You Seize Opportunity If You Cannot Manage Risk? – Looks like Lora Cecere has her supply chain BS detector on again: “The next time that you see a presentation on delivering an integrated end-to-end supply chain, ask, “How are you managing the risk?”
+
+Whiffs
+Let’s start with the silly… via Tammy Powlas, we’ve got a real life Cheech and Chonger:
+
+@jonerp possible bonehead story for you: Man’s wrong number text to sell marijuana sent to police officer | WTOP https://t.co/k9qkE92ieV via @WTOP
+— Tammy Powlas (@tpowlas) July 3, 2018
+Also thought you might enjoy this comically inept effort at an engaging email from Register:
+
+Speaking of email overdose, this one is a contender for the blandest corporate email on earth competition, faux excitement division.
+p.s. I’ll get right on that safe sender list thing!!! pic.twitter.com/cEmSFS2Tbc
+— Jon Reed (@jonerp) July 3, 2018
+Onto more serious whiffery… It’s been a particularly hypocritical week for the Facebooks and Googles of the world. From this piece via BBC News (Facebook and Google use ‘dark patterns’ around privacy settings, report says). Consumer watchdogs warn:
+Google’s privacy dashboard promises to let the user easily delete data, but the dashboard turns out to be difficult to navigate, more resembling a maze than a tool for user control.
+Meantime, as Stuart reports above, Facebook and Google are amongst the deep pockets that invested in the opposition to the “California GDPR” law. Boing Boing got linkbaity again, but nonetheless, If you use Gmail, know that “human third parties” are reading your email (caveat – if you allow those third parties access).
+None of this surprises, but let’s not forget that machine learning and “AI” want to crunch our data, and consent is an inconvenience these self-congralatory behemoths Internet pioneers would like to avoid. Or, as I said to Vijay Vijayasnkar:
+
+IMO it will also widen the gap between white hats (true opt in companies) and black hats (true track-you-unknowningly bottom feeders). Not much middle ground except Google and Facebook who are too big to be accountable
+— Jon Reed (@jonerp) June 14, 2018
+One thing we can count on: if I hammer Google too much, Facebook responds with a gaffe of their own:  Facebook Says Bug Silently Unblocked People Without Asking. Hey, at least only 800,000 users were affected.
+Oh, and if you’re traveling in this U.S. this week, you may want to organize your munchies… the TSA has a little something for you: TSA screeners are now coming for your snacks. They claim this saves time: “I just need you to take out your snacks, your Doritos and your M&Ms.” Good times. Fortunately we have the World Cup. Enjoy the holiday and/or football and see you next time…
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Businessman Choosing Success or Failure Road © Creativa - all from Fotolia.com.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: Digital skills and trainingDigital transformation - frictionless enterpriseFrictionless enterpriseHits and missesThe new professional and IT as a service 

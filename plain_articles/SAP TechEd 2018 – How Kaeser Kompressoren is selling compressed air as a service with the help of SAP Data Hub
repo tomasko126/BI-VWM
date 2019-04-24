@@ -1,0 +1,40 @@
+
+Modernizing ERP at scale is hard. That’s why most go-lives I write about are in the earlier benefits stages.
+Early positive milestones typically include landscape simplification, performance improvements, better user adoption, and moving towards a single source of data truth. That applies across shows and vendors, including SAP TechEd 2018.
+But when companies push further, they just might get to the truly exciting stuff – into the realm of business model transformation, and taking advantage of real-time data visibility. So when I had the chance to talk to Kaeser Kompressoren about how they sell compressed air as a service running on S/4HANA and the SAP Data Hub, I seized it.
+At its core, Kaeser Compressors, Inc. manufactures compressed air and vacuum products. They go to market with products, services and “complete systems for supplying production and work processes with quality compressed air.”
+An old school SAP customer with an upstart attitude
+One twist to Kaeser Kompressoren’s transformation story: they are actually one of the oldest SAP R/3 customers in the world. And their CIO, Falko Lameter, who started with the company in 1989, has been with Kaeser Kompressoren through all of that.
+You might expect an old school SAP customer with a long-tenured CIO to be conservative in their style. Not so with Kaeser Kompressoren. As Lameter told me, being an aggressive early SAP adopter – with all the pros and cons of early adoption – is in the lifeblood of how they operate:
+We have been doing this since the beginning. Once we are in this position, it’s hard to get back. You just have to do five years of nothing to get back.
+I told Lameter that his company goes after SAP projects like a greenfield S/4HANA startup. What’s his secret?
+This is physics. Action and reaction. If you don’t act, then somebody acts on you.
+I couldn’t resist asking Lameter about the early R/3 days. I’ll skip that here, but the important part is how SAP and Kaeser Kompressoren have changed. Both are more global. Kaeser Kompressoren operates in around fifty countries now. That brings challenges:
+If you roll out SAP, you learn about globalization and politics… If you go to India or China or Russia, then you have to learn about the specific things [in those regions].
+One huge change from being a tech leader in the ’90s: technology is no longer a limitation. We’ve weathered big hype cycles:
+Looking back, the biggest thing was the Internet crash in 2001. I think the business expected that what we have today would come immediately with the new technology. But it takes about twenty years to become real. It was something that they didn’t expect. Now we have what the Internet hype promised.
+Data discipline pays off
+So what’s been the key to Kaeser Kompressoren’s global expansion? How do they separate from their competitors?
+This global system makes a difference because we internally have our supply chain completely automated. Having the same master data for customers, and so on.
+Data discipline has paid off. Lameter didn’t allow their SAP systems to become unmanageable legacy spaghetti:
+It’s information quality… As I said to my boss, “We cannot have ten different variant configurations.” There’s just really nothing. We have one, and it works.
+This is more or less the core idea to have a global system. If you have to manage different systems, then the quality of the data will be poor, and it doesn’t make sense.
+True to their early adopter mantra, Kaeser Kompressoren went live on S/4HANA in December 2017. Out of 6,000 employees, 5,200 are SAP users. And why did they add SAP Data Hub as well? Lameter says the need for Data Hub ties to their IoT projects, including a co-innovation with SAP, where they stream data for predictive maintenance and service. That data is then displayed in a control center:
+It’s something like Google Maps. You can see where the compressor stations are located, and you have some KPIs and so on, and deep dive into the technical data, and analyze it in the SAP Analytics Cloud.
+The volume and variety of data types they now require dictated the need for a new way of processing that data. That led Lameter to SAP Data Hub.
+Another project is an “asset intelligence network,” which is a single point of truth for the documentation of the compressor as it is currently running in the customer location. It’s essentially a so-called “digital twin”.
+Making sense of sensor data – a fresh challenge
+In the past, Kaeser Kompressore had to visit their several hundred thousand compressors in the field once a year if they wanted to pull data. But now sensors can communicate back in real-time. The Data Hub is the orchestration engine:
+We can collect a lot of sensor data, and we have to bring this together with the business data that we have – customer, product and manufacturing data. Everything in one database connects with the IoT data.
+Lameter acknowledged that when it comes to making sense of the data in Data Hub, it’s still early days:
+We’re in deep discussion with the designers about the meaning of some data. You can say it’s typically all about temperatures or pressure levels, but what does temperature mean in our compressor?
+Machine learning plays a role here as well. If a compressor shuts down, that’s bad for business. Machine learning can help to identify the source of the misbehavior:
+We’ve analyzed this because we have this in our streaming data now. We analyze these curves, or the patterns, let’s say, and detected some rules of how you can predict this. When we integrate machine learning into our predictive maintenance, the algorithm automatically checks this. This example is one result we have, and we hopefully will get more.
+From predictive maintenance to air as a service
+If you can get predictive maintenance right, there is a hefty financial prize. Kaeser Kompressore has about 2,000 service techs in the field:
+When you optimize this organization, this is big money. If a service technician doesn’t need to go twice to a compressor, they can do everything with one visit. This is money. This is simple. To optimize the resources that you use in service management.
+These are the two drivers of behind Kaeser Kompressore’s new data initiatives: optimize the service organization, and serve customers with better products.
+They now have 300 customers on some type of compressed air as a service plan. Of these 300, some pay Kaeser Kompressore to own the equipment and pay for ongoing services. Others don’t purchase any equipment at all, and pay for everything as a subscription service. And these are major customers too, such as an automotive company that is a household name in the U.S.
+So why did Lameter take a break from these pursuits to fly to Vegas? Because like any early adopter, he wants close contact with SAP, especially with a new Data Hub release right around the corner.
+Lameter was at the Executive Technology Summit I touched on in my SAP TechEd day one review. Lameter told me the peer exchanges were high quality, or a “good vibration in the room,” as he put it. Lameter also planned to pay a visit to the Google booth – he thinks their visual AI recognition could help with on-site compressor service. Early adopters keep moving.
+Image credit - Feature image - Sales order speed needle points to max © Sashkin - Fotolia.com.Disclosure - SAP paid the bulk of my travel expenses to attend SAP TechEd 2018. SAP is a diginomica premier partner.Read more on: Analytics planning and data analysisDigital enterprise in the real worldInternet of ThingsIoT robotics and AIMachine intelligence and AIUse cases 

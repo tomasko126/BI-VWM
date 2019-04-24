@@ -1,0 +1,32 @@
+
+Every year – or sometimes more frequently – we hit the season every finance pro dreads: budgeting season. That’s when finance teams prepare multiple budgets for many different businesses and departments with a variety of scenarios.
+Spoiler alert: it’s a nightmare.
+This dreadful process consumes hundreds of hours with long nights and weekends at home… using countless numbers of spreadsheets. And once the budget is complete, you can count on plenty of additional time and effort to create the reports and analyses,  especially all those variance reports … using many more spreadsheets.
+But for many businesses, the complexity of the budgeting and planning process has outstripped the abilities of mere spreadsheets.
+The fact is, when you need to create comprehensive budgets and plans and perform budget-to-actual variance analysis, spreadsheets require a huge amount of time – and leave far too much room for errors. Ventana Research found that one-third (35%) of enterprise companies reported discrepancies in their most important spreadsheets.
+Net-net: spreadsheets require error-prone, time-consuming processes, and ultimately will let you down. The pains of spreadsheets are all too familiar:
+
+Hidden errors, and broken/unintuitive formulas
+A complete lack of security
+Versioning nightmares as new workbooks (with long, arcane file names and version numbers appended to them) are emailed across the organization without security or version control
+Broken links
+Mistyped data
+Incompatible worksheets with different departments using different templates
+Lengthy reporting cycles that rely on outdated data
+
+One of the most common issues we hear from customers is how spreadsheets contribute to non-productive data silos. Tedious dual entries and manual spreadsheet maintenance wear finance teams down.
+The fact is, most companies sink extraordinary amounts of time and effort into spreadsheets to simply build a budget and determine how to allocate its resources. That leaves them with no time to ever get to the more important challenges such as scenario analyses, business-unit profitability, key performance measures, and more.
+Finance leaders know how difficult it can be to evaluate ongoing company performance relative to budget goals. Deep down, they also know that the business decisions they make throughout the year are often based on questionable data – all traceable back to the spreadsheet addiction.
+Ensure budget analyses use timely data
+Trouble is, your accounting system – with the general ledger as the foundation – tracks every single transaction in your business. That means your actuals are changing every day. When you’re analyzing budget-to-actual variances, real-time data is essential, because the underlying details can change unexpectedly.
+But a spreadsheet-based variance report only extracts actuals from the accounting system at the time the report was created – and it starts going out of date before you can even analyze what it tells you. After you export the financial information from the accounting system into a spreadsheet file, you must manually group it into categories that align with the budget, and then paste the results into a report with one column showing actuals alongside another with the corresponding budget numbers.
+Although you now have a variance report to analyze, it’s impossible for the report to explain the underlying causes for any variances – which is the actual goal of the exercise, of course. For that you have to go back to the transactional system, where information is changing constantly, and is already out of sync with the outdated figures in the variance reports. And when you rely on outdated reports, you’re at risk of making important decisions based on incorrect data.
+Let’s drill into an example for a moment.  Imagine you’re reviewing a Q1 variance report and notice that operating expenses are under budget—a positive variance that appears to be a cost-savings translating into a healthier profit margin. Since the spreadsheet can’t connect the details of the actuals to the budget, you might conclude the company is performing better than plan.
+Three months later, you notice that operating expenses have exceeded the budget. To investigate the negative variance, you export transaction details from the accounting system and spend hours… using spreadsheets … to sort through the information and reconcile it with the results. Many hours – and cups of coffee – later, you determine that marketing expenses were much higher in the latest quarter because some spending planned for the previous quarter was deferred until later in the year. You realize that the healthier profitability you’d seen in Q1 had been an illusion.
+You see how easily, using the wrong tool, you can make the wrong conclusion about business performance based on a false positive?
+If your planning system had been connected to the underlying details in the accounting system, you could have immediately spotted that deferred spending, which would’ve led you to the right conclusion earlier – instead of discovering the truth three months later.
+Solving spreadsheet nightmares – integrate budgeting and accounting
+It’s time to wake up from the spreadsheet nightmare. When it comes to budgeting, planning, and analysis, the ideal solution shouldn’t require manual linking of actual results and budgets across multiple systems or error-prone re-keying.
+The ideal solution should understand the relationships between the chart of accounts in the accounting system and the budget lines in the planning system. It should also automate the continuous flow of actuals and budgets so that any finance person can perform a proper root-cause analysis of variances.
+With this kind of architecture, finance can finally leave behind the pain of spreadsheets, spend more time analyzing the right data, and communicate the right conclusions to senior management within minutes or hours instead of days or weeks.
+Image credit - Man in bed with clock foreground insomnia nightmare © PrinceOfLove - shutterstockRead more on: Analytics planning and data analysisFinancialsPartner ZoneSage Intacct 

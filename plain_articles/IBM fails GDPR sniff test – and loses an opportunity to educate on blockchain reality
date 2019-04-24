@@ -1,0 +1,28 @@
+
+I’m pretty sure that IBM fails GDPR compliance on a webinar campaign. What? Today, I was intrigued to see an invitation from Procurious entitled Blockchain: The Technology, the Myth, the… Legend? The blurbs say:
+We’re told that Blockchain is a huge game changer, that it’s the biggest innovationsince the internet; it’s unhackable, it’s pervasive, it’s unparalleled and ultimately…it’scoming to the mainstream imminently.
+But on the other hand, we’re told that Blockchain is overhyped, it’s no big deal, it has some serious limitations and, whilst it might be a pretty cool piece of technology, it’s certainly not the procurement disruptor that it’s hailed to be…
+So… what’s the truth?
+Interesting? I thought so. And especially since IBM is the company addressing these issues, and, presumably, flogging their blockchain chops.  I can live with that. It’s part of the deal we agree to when attending these types of event.
+When I go to complete the signup form, this is what I see:
+ So far so good. The company is correctly asking me to consent to process the data I am providing and also asking me to consent to give IBM permission to contact me.
+In my case, it’s very unlikely I’d want IBM to contact me but on the off chance that’s the case then I can always go back and ask for a call. Fair enough?
+Not so fast. The form refused to submit and I was asked to correct an error. This is what the screen shows me.
+ Hmmm. This doesn’t make sense. We’ve gone from providing consent voluntarily to being required to give consent in order to get to the content.
+In my case, there are good reasons why I want to be in control of who can contact me. That will be true for others who are in information gathering mode as part of the buying process.
+For me, the content is of a type that I’d most likely want to receive as part of my assessment of blockchain technologies. The teaser rightly points out there are many conflicting views. Based on our observations precious few customers have gone beyond experimentation or POCs. That combination plays directly to the technology investment risk topic which never goes away in software selections.
+Nowhere on the form does it say I can withdraw consent which is an absolute requirement under GDPR. If that had been there then maybe I’d be prepared to let this one pass but not on this occasion.
+Net-net, I’m not completing the signup and if you are considering this event then you should carefully consider whether you want to provide your information for marketing purposes at this stage of your buying journey.
+Who is failing?
+Who is failing here? It’s fairly straightforward. On the one hand, I’m giving Procurious permission to process data as a data processor. I’m good with that because how else can they register me as an attendee?
+But the moment that goes into IBM’s hands for marketing purposes then IBM becomes a data controller. As we’ve previously noted and advised, data controllers have far more responsibilities under GDPR than data processors.
+What could IBM have done?
+Does Procurious have a responsibility here? Possibly. They’re creating the marketing message on IBM’s behalf and will do all they can to make the proposition as attractive as possible. But I cannot believe that IBM would have approved this campaign without some consideration of GDPR implications. If IBM did let this go as is, then someone at IBM needs a few lessons in GPDR and marketing under this regime.
+There are methods that IBM could have deployed to meet their marketing objectives and remain GDPR compliant. They could, for example, have included a notification that I have a right to withdraw consent as outlined above. That provides me with the control to which I am entitled and the option to modify or withdraw consent in an easy manner.
+Better still, they could have included some wording during the webinar presentation to ask for consent to contact. This second way is to IBM’s advantage. It allows the attendee to learn from the presentation and make an inline decision as to whether what they’re hearing is credible enough that they would like an initial call/email.
+At the same time, it allows IBM to focus on those who are genuinely interested rather than having to qualify those via either email or a phone call. That’s a valuable cost-saving and especially if the webinar proves popular. It also means that IBM’s content needs to be top notch and not marketing FUD or fluff. Viewed in that context, IBM marketers can spend more where it matters and less on non-value add work.
+My take
+GDPR compliance is not optional and, as we have noted, US-based vendors who ‘get’ the potential for both risk and reward are waking up to the potential for a US ‘version.’
+Marketers are learning that GDPR, while onerous, provides opportunities to rethink how they best deploy their marketing efforts and resources. For me, this case is not only a turn-off, it’s a lost opportunity that could so easily have been avoided by thinking the issues through. Put more bluntly, if I can see ways to use the GDPR hurdles to produce a better outcome then anyone can.
+Finally, while we take the view that this is a case of IBM failing the GDPR sniff test, they are not alone and neither will this be the last time we see such SNAFUs.
+Image credit - screenshots from Procurious signup form, featured image © Wright Studio - ShutterstockRead more on: Data privacyRegulation 

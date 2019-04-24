@@ -1,0 +1,105 @@
+
+
+Lead story – The Blockchain Paradox – or why we can’t agree on anything by Den Howlett
+
+myPOV: All the blockchain banter this summer is a tad surprising. When we hit event silly season next week, I don’t expect blockchain to be center stage (instead, we’ll hear loads about bots and “intelligent” everything and how wonderful work will be once we buy expensive smart stuff that isn’t that smart yet).
+The summer blockchain debates have accomplished this much: we’re clearer on which bloggers have the most time on their hands what’s possible, and where the obstacles lie. Den Howlett’s latest brings that to a head, with a riff on survey data via PwC:
+
+84% of respondents are actively involved with blockchain
+45% believe trust could delay adoption
+
+Huh? He’s right – we’re now in full-blown blockchain paradox mode:
+How can such a large majority be pouring money into blockchain technology while significant percentages see major problems both now and into the future? It doesn’t compute? Or does it?
+After weighing pros and cons from experts of all stripes, Den hits us with this:
+Based on over 45 years involved in the technology industry, I believe that blockchain is the most over-hyped yet least understood technology shift I’ve ever seen. (Note my choice of words.) Past technology shifts have been relatively easy to understand but this one is problematic for all the reasons that PwC exposes.
+We risk dismissing blockchain’s potential if we don’t grapple with how it could evolve. We run an equally big risk of floating hype balloons that will puncture on customer projects. That’s the paradox.
+I’ve never seen technical folks I respect disagree more about a technology. A fresh barb from the skeptic’s corner:
+
+Public service announcement: Use the right data structure for your problem.
+Public service announcement followup: This rules out blockchain.
+— Ethan Jewett (@esjewett) September 5, 2018
+In my review of Is Blockchain relevant for any Business Model? by David Terrar of The Agile Elephant, I noted a group working to overcome blockchain’s limitations which includes hits/misses contributor Clive Boulton. He’s one of those putting time into the Hyperledger Sawtooth project, with the appeal of “extreme modularity at scale” in mind.
+My question for Terrar remains: are blockchain characteristics a fit with enterprises – companies that typically like centralized control? (Example: Walmart and Amazon have a tight leash over their suppliers, and are in no rush to disintermediate their marketplaces).
+Public sector projects where transparency is an imperative are the obvious blockchain use case. Beyond that? Den also raises the tension of centralized versus decentralized approaches. That’s where the real drag on enterprise adoption of blockchain will come from.
+Diginomica picks – my top three stories on diginomica:
+
+From customer support to customer experience, are we ready? – Can customer support be a competitive edge? Yes, if you do it right. Barb kicks tires on one vendor’s mission.
+Harambee recruits Google Cloud in fight to tackle youth unemployment – Jess posts a cloud use case that is not up in the clouds at all. Non-profits need agile tech as much as anyone.
+Brian Sommer’s The Month in Brief – August, 2018 – Brian with another installment in his enterprise diaries, with highlights from briefings you won’t find elsewhere.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Stephen Kelly ousted as Sage CEO after dismal results and faltering transformation – Den parses a non-surprising surprise of breaking news: “My sense then is that when taken together, the Sage board took the view that while Kelly had done a solid job in getting the transition underway, he wasn’t the right person to execute against that vision or to complete the transformation. And with a dismal outlook coupled with flaccid results, something had to give.”
+The only way is ethics as Salesforce opens Office of Ethical and Humane Use of Technology – Stuart assesses Salesforce news that could have broader impact: “The devil’s in the detail of course and how Salesforce executes on the basic good idea of this new office will determine its success. This needs to deliver actions and not just be a discussion forum, useful though that might be.“
+VMware’s vision – your multi-cloud substrate for enterprise applications – Kurt continues his evaluation of VMware’s transformation: “While most of the attendees and show floor exhibitors are preoccupied with legacy vSphere systems and associated on-premise hardware and software, VMware leadership is charting a course to a multi-cloud future which revolves around it.”
+
+A few more vendor picks, without the quotage:
+
+SuccessFactors consultants in the Wild West implementation dock – Den
+Workday Q2 FY2019 impresses, warns of headwinds associated with Adaptive Insights acquisition – Den
+How Workato combines headless workflow with serverless integration – Phil
+Lawnmowers and analytics – Zuora’s broad church of Subscription Economy companies – Stuart
+
+Jon’s grab bag – Stuart updates on the data face off between the EU and the U.S. Europe’s Privacy Shield threat deadline has passed and no-one in Washington has blinked. Paging Clint Eastwood… Martin gets bonus points for use of “dismember” in a diginomica title: Fancy dismembering your data center and throwing it to the four winds? – Seems a little violent, but then moving on from your data center can be wrenching.
+Pu Pu platter
+Got time for one last summer think piece? Then check Den’s The search for trust – joining some dots – where he serves up a Pu pu platter analytical blend of blockchain, self-driving cars, Twitter banter and a trust crisis that might – just might – give way to better models. Finally, I expose some unwanted journeys into customer experience purgatory, as we head to a CX land of no-sacred-cows: C’mon now – the customer isn’t in control. On Google, Amazon and the algorithmic plight of the super-user.
+Best of the rest
+ Lead story – Three Pitfalls to Avoid with Artificial Intelligence in Customer Service – by Esteban Kolsky
+
+myPOV: Last we heard from Kolsky’s blog in May, he was laying out enterprise software priorities for the next decade, which evidently didn’t include blogging (can I get an “lol”?). But our wait was rewarded with a welcome look at “AI” in customer service. We can have a lofty debate about AI, but Kolksy argues that for customer service, it all starts with automation. He pulls out the underlying question:
+Why are companies embracing self-service and chatbots for customer service?
+Answer:
+To automate the simplest transactions.
+You might think this is obvious, but it includes a contrarian view: we obsess about “experience” too much.
+Customers, we say, just want an answer, not an interaction or an experience. And that answers in anywhere from 40 to 80 percent of the cases can be automated.
+But hold up the automation festival. Kolsky, who likes to bring vinegar with his enterprise oil, adds a big honking caveat: “AI” isn’t smart enough yet to take over without instructions. We have to tell the machines what we want them to do on our behalf. That requires us to have a clear grasp of what service can be automated, and what constitutes an escalation or exception. No easy feat:
+If the organization does not know how to resolve the situation in a programmatic way, it cannot then tell the computer how to do the same.
+That’s a challenge with a big data twist: get a handle on your data if you want to do “AI.”
+Clean data before anything else (in case you are not current in your teen lingo) is the number one lesson of adopting AI for customer service: clean data makes for proper decisions.
+Guess we better get to work.
+Other standouts:
+
+Building a Triple A Supply Chain: Ten Tactics That Work – Lora Cecere scoured through “over 9000 quantitative responses” from supply chain practitioners to break this out. One nugget: “The most advanced companies are good at supply chain planning.” Meaning: less spreadsheet dependence, more “what if” analysis.
+There’s an Elephant in the Room with Your Cloud Service Provider – UpperEdge doesn’t want customers to relax into their cloud services relationships. One advisory nugget: challenge your cloud/SaaS vendor on third party integrations (e.g. don’t put faith in the “out of the box” reassurances).
+What is the Difference Between an Application and a Platform and Why it Matters? – Jason Corsello returns to blogging form: “Truth be told, most SaaS vendors are not platforms but merely providers of feature-rich applications.“
+
+Honorable mention 
+
+Personalization and Humanization: Serious about customer engagement? Then you need them both – Paul Greenberg spends a lot of time thinking about personalization and its flaws. The biggest flaw? Failure to connect on a deeper, human level.
+Next-Generation CRM: Who Gets There First? – This piece from Strativa Practice Director Dee Long warranted inclusion last week, but I bundled up your tasty CRM themes for this edition instead.
+Purchase Regret – The Bane of Land and Expand Strategies – Gartner’s Hank Barnes on the enterprise flavor of buyer’s remorse, and how to avoid such predicaments.
+Top 5 lessons learned working at startups – Cindy Sridharan draws on five years under the startup hood. I dig number three: “Management isn’t so much a designated person with a job title than being able to take ownership and execute effectively.”
+ Why we all need to draw bigger circles – Vinnie Mirchandani’s musings on Uber, exploited labor, corporate activism and the future of work includes a critique of diginomica. I see our flaws differently than Mirchandani, but hey, if you don’t welcome the heat, you’d best get out of this kitchen.
+How KeyBank Used DevOps to Overcome Cost, Complexity, and Legacy Constraints – If we want to get off legacy systems, we need use cases on how it’s done. This one via The New Stack’s Jennifer Riggins.
+
+Whiffs
+So this dude, who is only twenty, has already been bit by a rattlesnake, mauled by a bear, and attacked by a shark. As I told reader Frank Scavo, who gave me the heads up, I’m not the superstitious type – but you won’t catch me anywhere near this guy in a thunderstorm.
+I avoid grinding political axes on diginomica for obvious reasons, but this one is just too ludicrous to ignore: Russia warns Google against election meddling. How do you meddle in a farce anyhow?
+I don’t think this is what Paul Greenberg had in mind by way of humanizing personalization: Google Reportedly Bought Your Banking Data in Secret, and That’s Not Even the Bad News. If Google was a human, they’d be more than happy to rifle through your wallet. I guess that’s pretty personal.
+So Skype is taking another big swing at the plate of futility:
+
+Microsoft is redesigning Skype once again and killing its Snapchat-like feature https://t.co/cER5FkUU8b -> any list of pathetically managed acquisitions would have to put Skype near the top.
+From user passion and loyalty to… another redesign
+— Jon Reed (@jonerp) September 2, 2018
+Den Howlett chimed in:
+
+They begged me to give them a chance to sort Skype out about a year after acquiring. Still waiting.
+— ???•? ? (@dahowlett) September 3, 2018
+That got me thinking: we’ve heard this song before. So, for your whiffy enjoyment, here’s some of Skype’s greatest hits from my Twitter feed through the years:
+
+Skype call initiated [email protected] on East Coast to me in Spain and ANO in Aus worked -at 3rd attempt
+— ???•? ? (@dahowlett) August 4, 2009
+
+“Stunningfemm” wants to connect on Skype – Microsoft adding more value to the Skype platform all the time….
+— Jon Reed (@jonerp) June 7, 2015
+
+Skype frantically emailing me about a card payment problem = amazing how you turn from trusted customer to deadbeat so quickly
+— Jon Reed (@jonerp) August 11, 2017
+
+.@Skype “Jonathan Reed can’t accept this call because he’s on an older version of Skype.” -> that is so ridiculous, you really don’t want my business do you….
+— Jon Reed (@jonerp) December 14, 2017
+If I could stand in front of the Skype team today, I’d tell them what Batiatus told Spartacus after he screwed up a huge arena match and fell out of favor: “You had the crowd!” See you next time…
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, King Checkmate © mystock88photo - all from Fotolia.com. Pu pu platter by obeyken.Disclosure - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Read more on: CRM and customer experienceCustomer service managementHits and missesIoT robotics and AI 

@@ -1,0 +1,43 @@
+
+We at diginomica talk a lot about the importance of diversity in the technology industry. One, because we think it’s important and the right thing to do. And two, because we believe that as more and more services move online, they should be designed by people that broadly reflect the society we live in.
+However, attending RedMonk’s annual Monki Gras event in London yesterday, I realised we have unintentionally missed out on covering the importance of accessibility and inclusion. RedMonk chose to dedicate its entire conference this year to these topics – and all I can say is that I’d be surprised if I go to a more informative, educational, warm, inspiring event this year. I don’t dish out praise for corporate events lightly, but this one won me over from the first talk, which left me welling up and determined to spend more time learning about how to improve accessibility and inclusion in organisations and for online services.
+I listened to 10 talks over the day, all of which could have been given their own story here. However, I thought it might be more useful to summarise my key takeaways from all of them as a whole, in an attempt to get the conversation going and provoke some fresh thinking amongst our readers. So, thank you to all the speakers yesterday for your inspiration! They included:
+Ben Fletcher
+Alex Chan
+Rachel Stephens
+Louise Miller
+Thomas Otter
+Joe Drumgoole
+Amy Dickens
+Grace Owolade-Coombes
+Joyce Park
+Steph Johnson
+Also, just to add, I’m still learning on this topic, so if I use any incorrect terms or unintentionally phrase something that causes offence, please let me know – happy to be educated.
+Why is this important?
+If you’re able bodied and you aren’t challenged by any ongoing mental or physical condition, it’s easy to assume that services are well designed – because they work well for you. However, some of the stats revealed yesterday highlight that at some point in our lives, we ourselves, or someone we know, will likely need additional support. For example, it was said that 6 out of 10 US citizens deal with some sort of chronic condition, while 1 in 5 of us are likely to have a disability at some point in our lives.
+Remember also that people sometimes face situational – or non-permenant – constraints – e.g. a broken arm, environmental factors, being a new parent.
+However, and this is important, the key thing to take away from all of this is that designing services for EVERYONE does not make a service ‘lesser’. In fact, it makes a service better. And designing for one group of people that need additional support, usually has positive benefits for all other users.
+The ‘curb cut effect’ – also called dropped curbs here in the UK – was used as a good example throughout the day. Curb cuts were initially introduced in the US in one town because they were championed by a veteran wheelchair user, to make using the town easier. However, once introduced, it became clear that all users saw a benefit to having dropped curbs – people pushing prams, elderly people with reduced mobility, pushing trolleys, etc. A number of unintended benefits for other users occurred.
+The example of closed captioning on television was used often too. Whilst initially introduced for people hard of hearing, a number of other users benefited too! For example, who has been in a noisy bar and followed the news thanks to closed captioning? Or parents with sleeping babies that don’t want the volume up, but want to watch TV? There are a number of examples.
+As services continue to move online, we need to be thinking about this. Particularly in the case of government services. Let’s stop assuming that designing a service that makes it easier for one group of people to use, will be at the detriment to others. It won’t. The needs of the many do not have to outweigh the needs of the few.
+One speaker made the point yesterday that we should think about equivalence over accessibility. If your online service takes the average user 10 seconds to use, but someone with a disability 10 minutes, that’s not equivalency. It may be accessible, but it’s not useable.
+What can organisations do differently?
+Part of the reason that exclusion occurs when services are designed, is that we design for the ‘norm’ (whatever that is) and we essentially design for ourselves. We need to start changing culture and adopting different attitudes.
+We need to have at the front of our minds that real lives are messy and that people have different needs. As one speaker put it yesterday, stay humble and ask questions. Find out what users need and give them that.
+One example that came up yesterday was a woman, who identifies as part of the LGBT community, who is in a relationship with another woman, and is a parent – is often asked “who is the mother?”. What that means in a healthcare environment is, who carried your child? But it’s hurtful, because there are two mothers in that scenario. And you can imagine that online services may be designed along a similar line of thinking.
+In other words we need to really start to focus on user need and do proper user research across a broad range of people, not just for the ‘stereotype’ of what we think people need.
+There are also things that organisations can do differently to help improve accessibility and inclusion internally – which, in turn, should help incorporate accessibility into design thinking. Some tips I got from Monki Gras include:
+
+Appoint an accessibility champion and allocate some budget to improving accessibility and inclusion. If the budget doesn’t get spent one year, roll it over to the next year. Make sure that someone in your organisation is helping people to think about inclusion and accessibility and holding the organisation accountable.
+Listen to what people need. For example, one speaker yesterday who is deaf and partially blind spoke about how at his company they now use a ball during meetings – whoever holds the ball is talking and no one can interrupt that person. He had been finding it difficult to follow meetings with everyone talking over each other. Now, even when he’s not there, they still use the ball, as it has improved the meeting environment for everyone.
+Be an ally. Ask questions, talk, listen and support those that may have additional challenges in an organisation. Be accommodating. For those interested, it may be worth following the #A11y hashtag on Twitter.
+Tie performance and pay to values and ethics. Although designing services for all just result in better services, organisations also have a moral imperative to get this right. Tying pay and performance to value and ethics is a sure fire way to get a company moving in the right direction.
+Think about the cost of *inaction*. Yes you may have to spend more getting this right, but what is the cost if you get this wrong? Who are you excluding? What does that mean for your users? Don’t just focus on quantitative measures, not everything in life fits in a spreadsheet.
+Bring inclusivity into design thinking and don’t leave it until the end to test for it. If you’re shipping code regularly, build accessibility and inclusivity testing into each sprint.
+Remember to test web development on tablets too. Tablets are incredibly useful for people living with chronic illness. Designing just for mobile and desktop may exclude these people. Also, consider voice interfaces. If you can design for voice, you should think about it given the growth in use of Alexa etc.
+Run your services through accessibility tools online, such as AChecker.
+Reach outside of HR and empower people managers to know how to empathise. Train them to deal with situations and people that may need additional support. Not every disability, illness or condition is visible and not every person will have the confidence to explain what they need to excel. Also, use recruiters that understand empathy and inclusion – don’t use ones that ask questions of candidates that are exclusionary. Do some proper vetting in this area.
+
+My take
+There was so much wonderful advice on day one at Monki Gras that I couldn’t possibly fit it all into one story. However, my main message would be that we need to start putting the humanity back into technology. Designing for all is not only the right thing to do, but the better way to design. Companies need to start taking action and I certainly will be pushing this internally within diginomica.
+Image credit - Image taken by Derek du Preez.Read more on: DiversityFuture of workHCM and the digital future of workUser experienceUX and application design 

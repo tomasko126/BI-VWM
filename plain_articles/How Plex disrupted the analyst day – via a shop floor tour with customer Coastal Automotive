@@ -1,0 +1,54 @@
+
+Plex analyst tour at Coastal Automotive
+I’ve had satirical fun with what I perceive as the stale format and missed opportunities of the so-called analyst day (How to screw up a vendor analyst day – in 12 simple steps).
+One vendor that dares to stir that pot is Plex Systems. This time around, Plex upped the ante by combining the analyst and customer advisory days into one event.
+Yes, that means Plex’s Customer Advisory Board (CAB) and analyst entourage, including yours truly, spent the day in back-and-forth with Plex executives, in the same room. That mix made for a memorable event – and made me wonder why so few vendors seize this opportunity.
+Another twist: while Plex conducted discussions with the CAB group, they piled analysts into a van for one of their signature customer shop floor tours – this time with Coastal Automotive:
+
+Instead of keeping us in a stuffy room all day, @PlexSystems gets analysts out onto the shop floor where they can do real damage/learn from customers in the field. #futureofMFG cc: @BrianSSommer @fscavo pic.twitter.com/3tHlQ9QgGB
+— Jon Reed (@jonerp) November 7, 2018
+But before we could venture out onto the plant floor, we had to don our safety goggles – and get in a briefing session on Coastal Automotive. After a short drive to their Rochester Hills location, Bryan Bullock, Coastal Automotive Product Line Business Director, kicked things off.
+Coastal Automotive got its start in 2008 as a contract manufacturer for Dow Automotive. Dow Automotive still makes Coastal Automotive’s raw material, which is called IMPAXX. IMPAXX is a blue foam that has multiple use cases in the automotive market. Essentially, it’s an energy management material.
+One big use case? The FMVSS 201U regulation, which protects unbelted occupants in a vehicle. Coastal Automotive had that on display in the conference room:
+
+In 2010, Coastal Automotive made a big move, and “flipped” the relationship with Dow Automotive. Coastal Automotive became the market face of IMPAXX – and the vendor of record for customers. Dow is now the raw material supplier. Though they have other products, IMPAXX remains the biggest revenue driver.
+How Coastal Automotive competes against the giants
+The moves are working: Coastal Automotive is rolling at a 20 percent growth rate year over year. They are now at 162 employees, with annual revenues of $22 million and counting.
+The company has twice been recognized as the GM supplier of the year, and in 2016, Coastal Automotive was named one of the top fifty companies to watch by the Michigan Small Business Association. Automotive is their primary focus, motorsports the second. Coastal Automotive is the sole supplier of side door impact protection for NASCAR – a pretty nice feather in the supplier cap.
+That kind of growth is posing new challenges. Not the least of those is managing labor and recruitment – an obstacle noted by many CAB members that day. But: those are the kinds of problems manufacturers want to have. NASCAR’s reliance on Coastal Automotive points to the company’s core strengths. As Bullock told us:
+Two of the things they were looking at when they chose a partner is number one, driver safety. That’s paramount, obviously. Number two would be light-weighting the vehicles so that they can go at top speed, and our product is both. We are the lightest weight energy management solution on the market today.
+One of the principles of so-called smart manufacturing is you don’t have to be the biggest – especially if you can get quality products out the door, and fast. Bullock:
+We’ll go outside in the shop in a minute here, and you’ll see kind of how we cut this material… A lot of other [manufacturers] require molds and tools to make their product, whereas we don’t have that… We can get a request for a part design today, and have it transferred to our saws, cut, and in the customer’s hands by this afternoon or tomorrow.
+Toby Curry, Director Of Operations at Coastal Automotive, told us about a customer that ran into an order snafu. They sent a new CAD file, and later that same evening, the required parts from Coastal were delivered to their facility. Those emergency fulfillments lead to new customers – that’s how Coastal Automotive landed Toyota.
+How Plex Manufacturing Cloud fits in
+And how does Plex Manufacturing Cloud fit into the picture? Bullock:
+We use Plex in basically every aspect of our operation, so from myself, in commercial, to the quoting process, to the launch process, to operations, to finance. Every aspect of our business is Plex-driven. So it’s important that whatever we add to our tools has to integrate with Plex.
+Coastal Automotive’s move to Plex was dictated by their growth. The strain on prior systems, from Fishbowl inventory to Excel-based tracking, wasn’t cutting it. Plex made the software evaluation process easy:
+We had somebody who was used to dealing with Plex and understood the basics of it. We started looking into it, and found that it met every single one of our needs at that time. So we were all-in with Plex from the beginning.
+Inside Coastal Automotive – the shop floor tour
+And now, about that plant tour. Curry drew the short straw, and took us around the facility. The feature photo shows the beginning state of the IMPAXX foam – and indeed, it’s a very light material. I actually lifted it without trouble or harm to others.
+I’m always fascinated by the centerpiece of the plant tour: usually, it’s an ultra-expensive piece of equipment that requires deep skill to operate. That was the case here, with a huge CNC abrasive wire saw:
+
+The saw operator cuts the blue boards, or planks, into the required customer materials.
+Curry talking wire saws
+The wire saw can also cut the SDR foam, which is a polyethylene based foam. That’s a different type of foam – stiff enough to support side airbag deployment.
+The wire cutting manufacturing method is instrumental to Coastal Automotive’s success. As Curry explained, it’s a specialized process that results in 90 percent less waste than some of their competitors’ materials.
+Once the foam is cut, it goes through a human-supervised line where defects are separated out, and goods are synced into the Plex system and placed into boxes:
+
+(and yes, that is a Plex terminal in this picture)
+If you want to buy one of those CNC saws for use at home, that will run you a cool $250,000 or so. Curry told me the wire saw is a reliable piece of equipment, but he is eager to advance into predictive maintenance. For starters, that means integrating the CNC systems directly into Plex.
+In fact, Curry pointed us to several areas where automation and increased integration with Plex will make a difference. Manually entering some shop floor information into Plex is a time waste – and an unwanted opportunity for human data entry errors. As Curry told us before the tour:
+We’ve got a lot of manual data entry people that we call – I’m not kidding – we call them Plexers. Their job in life is to print labels, and they’re the interface between the machine and the Plex.
+Curry also sees the potential to eliminate human errors in inventory management:
+In the past, when we’ve had inventory issues, we could always drive the discrepancies back to a human that’s interfacing with Plex… The less human interaction with an ERP system the better; you can automate that.
+Curry and Bullock are eager to talk with JR Automation, and learn more about how they integrate machines directly to Plex:
+JR Automation is saying, “You know what? We can talk to Plex.” That’s next on our list.
+The wrap – on pain points and problem solving
+One thing I’ve always liked about Plex is their willingness to let their customers be open with us about pain points. I appreciated discussing the integrations still ahead, and hearing about other pain points, including the desire for more consolidated financial reporting. From what I overheard, what Coastal Automotive is looking for there appears to be on the Plex roadmap.
+Bullock told us other pain points might simply be the result of Coastal Automotive’s team not knowing how to do something in Plex, or doing it in a more complicated way than necessary. On the way out the door, I heard Plex team members talking with Coastal about follow-ups on these points. To me, that’s not awkward at all. I’d rather see people solving problems than be subjected to another heavy dose of perfumed Powerpoints.
+Coastal Automotive knows they can’t slow down – they have plenty of capable global competitors. But Coastal Automotive has been able to rise above the commodity game through a combo of premium quality, trademarked/unique materials, niche expertise, cost-efficient/differentiated manufacturing, and superior customer service. But, as one inquisitive analyst wanted to know, don’t they worry about competition with deep pockets beating them in the cost game? Bullock:
+We perform so much better, that really, we’re at a comfortable cost pricing. It hasn’t inhibited any growth of ours… So we’re not looking to cut prices. I’m not going to sell my stuff any cheaper at this point in time.
+With that, we grabbed our safety goggles. But that doesn’t suddenly make us shop floor experts. Yep, Curry knows his audience:
+We do have CNC wire saws. Just, you know, don’t climb up on the tables.
+A fair warning for this bunch.
+Image credit - Photos of Plex analyst visit to Coastal Automotive by Jon Reed. Disclosure - Plex Systems paid the bulk of my expenses to attend the Plex 2018 Analyst day. Plex is a diginomica premier partner.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureDigital enterprise in the real worldUse cases 

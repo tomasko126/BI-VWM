@@ -1,0 +1,53 @@
+
+Continuing our year-end countdown, Madeline Bennett picks out 10 of her personal highlights from the year at diginomica
+(1) Vanilla’s the only flavour
+The language that I’ve been told I have to use is to adopt, not adapt.
+Why? When Lambeth Council began the process of splitting from its shared services contract with six other councils, the organisation decided to keep things simple. It opted for vanilla versions of the Oracle ERP, HCM, payroll, and planning and budgeting cloud applications it was moving to – no doubt spurred on after dealing with the complexities of a technology implementation shared among so many other councils. Lambeth managed to complete the entire project in 12 months, a timeline it attributed to this pared-down approach.
+The same approach was adopted by Nokia when it was rolling out Salesforce Sales Cloud. The company’s 120,000 staff were told there would be no customization – if the software didn’t support their way of selling, of providing services, of pricing out of the box, they’d need to change their ways. The lesson here: KISS.
+Nokia and SThree show why a helping hand is useful for cloud success
+Lambeth walks away from shared services to the Oracle cloud
+(2) License analysis
+That, right off the bat, saved the State of Wisconsin $200,000 in annual support renewals.
+Why? The State of Wisconsin and Ulster Bank might not seem obvious bedfellows but they had one thing in common: both were overpaying for technology licenses. Both organisations recently carried out comprehensive assessments of their licensing spend versus actual use, resulting in huge cost-savings and a rethink over user training. Other businesses would do well to add license use analysis to their list of New Year’s resolutions, I’m sure.
+Dreamforce 2018 – it pays to check your Salesforce licence usage as Ulster Bank found out
+Oracle OpenWorld 2018 – State of Wisconsin shares lessons learned on rolling out Oracle Exadata and how to reduce license costs
+(3) Rip it out and start again
+It was a pain, but it was also the right decision. It was better to make the decision halfway through, than try to force it through and be unhappy in the end.
+Why? Call center systems are the lifeblood for many companies, so any project to upgrade or replace them has to go smoothly. Unfortunately for hardwood floor care firm Bona, this wasn’t the case when it chose Microsoft Dynamics and then realised the software wasn’t fit for its purpose. The firm was faced with the choice of going along with a substandard product; requesting some substantial changes; or ripping it out and starting again. Bona chose the latter, and switched to SAP Hybris, resulting in a perfect system for its needs – showing the early pain is worth it for long-time gain.
+Sapphire Now 2018 – floor care firm Bona polishes customer records with SAP Hybris
+(4) Using data to improve cities
+This is all about how do you go from collecting data historically and analysing it and coming up with an answer to analysing things in real-time and making predictions. 
+Why? As one of the largest cities in the world, London is in constant need of new ways of streamlining and expanding its services to support a growing population. Fortunately, the city has digitally savvy leaders like Lauren Sager Weinstein and Theo Blackwell in charge of data at Transport for London and the Mayor’s Office respectively. Via projects like improving social care via data integration between councils and the NHS, to weighing passengers and using the information to alter bus routes, London should get a lot smarter in 2019 and beyond.
+Digital leader – TfL CDO Lauren Sager Weinstein on how data keeps London moving
+Digital leader – London CDO Theo Blackwell on diversity, Brexit and smart city priorities
+(5) There’s big data and then there’s bloody massive data
+Between these two buildings, CERN runs 15,000 servers, 230,000 cores, 90,000 discs hosting 280PB of data, and 30,000 tapes storing 400PB.
+Why? Carrying on the theme of data, it was fascinating to get an insight into the world of CERN and its technology infrastructure at Oracle Openworld. It’s no surprise to hear that CERN hosts so many servers to provide its mammoth processing power, but it was interesting to hear how reliant the organisation still is on tapes for storage – along with how in certain areas it is reaching the limits of its capacity and is now transferring data to the cloud.
+Oracle OpenWorld 2018 – CERN turns to Oracle cloud to manage Large Hadron Collider growth
+(6) Data privacy
+The reality for those who don’t comply.
+Why? Despite being a European organization generating one petabyte of data per second, CERN must be grateful that the new data protection rules that came into force across the EU don’t apply to it. This is not only due to the research center being based in Switzerland (CERN also operates out of its Hungary base, which falls under EU rules); but mainly as the masses of data it is collecting are about the Large Hadron Collider and its operations, rather than anyone’s phone number, dress size or credit card details. For the rest of the EU, and companies like Microsoft doing business across Europe, the General Data Protection Regulation put huge pressure on organisations to tighten up their data collection and privacy rules ahead of the 25 May enforcement date, leading to much uncertainty over how to comply. Here’s our handy checklist if you want to be sure.
+GDPR compliance – here are the 14 things you actually need to do
+(7) What’s really wrong with retail?
+If you attempt to out-Amazon Amazon, you will fail. 
+Why? 2018 has been another tough year for the retail sector. The high-profile closures have continued – Maplin, Toys R Us, Coast, House of Fraser are just a small selection of the brands that closed permanently or went into administration. Uncertainty over Brexit coupled with competition from pureplay e-commerce sites has been blamed. However, many retailers are aware that the problems lay closer to home. 2019 needs more focus on making wise technology investments that help retailers react more quickly to shifting customer expectations, and rethinking the value in having a physical presence.
+Tough love memo to retailers – stop wasting money on incremental tech!
+Every time we think we understand our customers, they change – retail’s digital dilemma
+There’s value in offline retail, but the metrics are wrong
+(8) Broadening out the diversity debate
+In some buildings, there are more ‘Black Lives Matter’ posters than there are actual black people.
+Why? I’ve spent almost two decades covering the gender imbalance in the tech sector, and while women in tech is still – rightly – a core focus, I’ve valued the opportunity to spend more of my time during 2018 covering a broader range of issues around the diversity debate. From the treatment of ethnic minorities and trans people by technology companies, to the role of men in the equal rights battle, to the benefits of creating neurodiverse teams, two things have crystallised for me: diversity efforts are needed now as much or more than ever; and these separate initiatives could benefit from working together more.
+It’s not just Facebook that has an ethnicity problem
+Why men need more consideration in the women in tech debate
+Diversity in tech – a trans woman perspective
+Sapphire Now 2018 – speed up tech projects, hire people on the autism spectrum
+Dreamforce 2018 – where are all the men?
+(9) Blockchain bubbling away
+Blockchain isn’t a quick-win, money-saving solution to supply chain security
+Why? Blockchain hasn’t exactly set the world alight during 2018, but there are now a growing number of use cases showcasing its potential. The technology could provide a foundation for totally secure online transactions – but this would require buy-in from all involved parties to succeed. More use cases like Maersk and IBM’s blockchain platform to manage millions of shipping containers will hopefully follow in 2019, and keep the momentum going.
+Is blockchain the answer to security risk in supply chains?
+(10) Protecting our world
+The technology is actually making a difference where it really counts.
+Why? I know I shouldn’t have favourites – but this was definitely one of my top articles to research and write this year. Not necessarily due to the ground-breaking nature of the technology projects – although charities aren’t always the first to embrace new tools, other organizations are certainly using Microsoft Teams for collaboration and building mobile apps for awareness – but more because the outcome is making a real difference in an area I care deeply about, animal welfare and the environment.
+Animal charity brings those chats round the water cooler back to life with Microsoft Teams
+Image credit - Freeimages.com/Julie Elliot-Abbshire Disclosure - At time of writing Oracle, Salesforce and SAP are premier partners of diginomica, Read more on: Analytics planning and data analysisCloud platforms - infrastructure and architectureCollaboration sharing and digital productivityCRM and customer experienceDigital and content marketingDigital enterprise in the real worldDiversityHCM and the digital future of workIoT robotics and AIRetail e-commerce and the omni-channelSocial 

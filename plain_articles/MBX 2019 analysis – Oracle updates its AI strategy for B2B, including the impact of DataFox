@@ -1,0 +1,64 @@
+
+Bastiaan Janmaat at Oracle MBX 2019
+If you didn’t comb through the 15+ press releases issued by Oracle at their co-located Modern Business Experience (MBX) and Modern Customer Experience (MCX) events, you’re forgiven.
+Running through those press releases were two big themes:
+
+The impact of AI on the enterprise, and Oracle’s next AI moves
+The emphasis on customer experience as an integral aspect of modern software
+
+Digging further, the underlying theme is really the problem/opportunity of data.
+
+AI is useless without potent data sets.
+Under the burden of legacy systems and data silos, “customer experience” falls apart quickly.
+
+Both topics spark debates on data privacy, the enormous need for integrated data platforms, and how AI can have real business impact.
+Brian Sommer and I got into those issues – and more – in our Oracle MBX and CX event review podcast. After Brian describes Oracle MBX as “crawling with chatbots,” we aired out pet peeves grievances on customer experience hype.
+But we also discussed memorable customer interviews, including one company, ibvi, that managed to peel away Sommer’s curmudgeon-like tendencies with a truly inspiring story on how they use Oracle’s next-gen tech to employ the hearing/speaking/visually impaired.
+The biggest issue I take from Oracle CX? The need for an integrated customer data platform. Otherwise, we’re just creating new CX app silos, perpetuating a disjointed customer misadventure that can’t be justifiably called an “experience”.
+Our podcast gets into that CX debate. Oracle also addressed their customer data platform (CDP) plans during a press/analyst briefing. I posted some of my critique of that CDP panel on Twitter, as well as Doug Henschen’s vital question on how CDP ties into Master Data Management.
+Oracle AI in focus – data is the differentiator
+That brings us to some notable Oracle AI updates. These AI plans were shared during a press/analyst session moderated by Oracle’s Melissa Boxer, VP, Adaptive Intelligent Applications.
+The panel kicked off with that provocative quote above on AI models being something of a commodity – a statement made by Clive Swan, SVP Application Development, Adaptive Intelligence. Oracle argues that data is the true AI differentiator. Of course, Oracle also believes they have the breadth of enterprise data to excel based on that criteria.
+But as Swan points out, AI needs more than just classic enterprise data. Nor is AI solely about data volume. External/third party data is essential to powering AI recommendation engines, something Oracle addressed with its DataFox acquisition in October 2018. Oracle CEO Mark Hurd has stated that the core of Oracle’s AI strategy is to embed intelligence across its existing application portfolio.
+Swan doubled down on that theme, promoting AI functionality across the Oracle Cloud Applications suite:
+
+CX – “Next Best Action” recommendations in the Oracle Sales Cloud, as well as continually updated predictions on the likelihood of deal closings.
+Marketing – serving up the right offers consumers, and which channels to send those offers. Up next: AI-driven determination of the best time to send marketing communications.
+HCM – “Next Best Action” – ranking resumes against a job description, sparing HR managers from “first level triage” of the initial resume sort, so they can focus on qualified candidate evaluation and interviews.
+ERP – delivering new functionality like intelligent supplier management, enriching data sets with DataFox (more on that shortly).
+
+B2B data needs filtering and context – enter DataFox
+All these solutions have one thing in common: they must be fed the right data to deliver any kind of value. As Swan says, it’s not just the data volume, it’s the quality and timeliness of the data, how it’s embedded into the application, and whether it contains enriched data.
+Swan says this “enriched data” should be drawn from “dynamic signals,” inferring insight from data science models that are drawing from multiple data sources. Swan also referred to this as “smart data,” if you don’t mind the multiple catch phrases.
+Putting the lingo aside, how does Oracle do this? On the B2C side, Oracle’s main third party data source is BlueKai. On the B2B side, it’s DataFox. DataFox supports a “thermographic” database of 3.5 million organization. Swan is definitely a DataFox fan:
+DataFox maintains and extends that database by applying AI tech across over five million public digital properties. It enriches that data by processing 70,000 documents a day to extract dynamic signals.
+Swan says DataFox is adding 7,000 companies to its database a day. How can that help an Oracle B2B customer? One scenario would be DataFox’s ability to track relevant companies in a customer’s industry that show signs of growth or bankruptcy. That could obviously impact acquisition or supply chain management scenarios.
+Bastiaan Janmaat, Founder of DataFox and now VP Product Management, Adaptive Intelligence, Oracle, joined the panel to provide context on how DataFox operates – and how the B2B data game is changing. Janmaat told us that DataFox’s founding points back to the poor quality of B2B data sets:
+We originally conceived of DataFox because of our jobs in investment banking… We just found a huge gaping hole, in terms of the quality of B2B datasets that were available in the market.
+Fast forward to today: Janmaat says DataFox is more relevant than ever. There’s a proliferation of publicly-available B2B data that must be sorted and filtered:
+Think about now versus 10 to 15 years ago. Nowadays, governments often put filings online. Anybody can go find them. Press releases are all nicely formatted. Every CEO tweets. Every company tweets. Every company has a website. Every company has a blog. So there’s a lot of content you could sift through – and therein lies the problem.
+Amidst all that data are nuggets that are deeply relevant. That’s where “AI” comes in:
+There’s gold to be mined, but it’s a small percentage of what’s out there in the public domain. And that is a perfect problem to apply artificial intelligence to.
+So now as part of Oracle, how does the DataFox acquisition impact the roadmap? Swan says they’re starting in the CX and marketing area, with the integration of DataFox company data cleansing and enrichment. By the middle of the year, Oracle will offer three capabilities built on top of that:
+
+client expansion tools to drive revenue growth – identifying client targets based on current company profiles.
+account prioritization – insights to help prioritize accounts to drive faster deal closing
+enhancing “next best actions” with “embedded dynamic signals” – giving account managers relevant talking points to further account relationships.
+
+Enhancing Eloqua’s B2B marketing with DataFox data is also on the 2019 roadmap. Other solutions Swan wants to “enrich” with DataFox are Next Best Actions and Oracle ERP Intelligent Payments. This all goes on the theory that enriching data objects will give you improved AI performance.
+How do human workers connect to neural nets?
+What did the assembled analysts want to know? One big question was the human factor – how are humans involved in data prep, algorithmic testing and acting on recommendations?
+Swan cited human annotators/auditors who are needed to help train and supervise the neural net. Example: you want to teach the neural net to quickly identify family-run businesses. You need to feed that neural net a training set of accurate examples. Human annotators are needed to tag the examples and send them to the neural net. To make the machines “smarter” over time, humans are needed to identify and push exceptions into the data set, allowing the machines to sharpen their results.
+As Swan put it, there must be a certain confidence level in the AI output. Humans are needed to get machines to that minimum confidence level and then push it higher over time, “retraining the neural net.”
+My bias is towards the customer side: how is DataFox currently being used by Oracle customers? Janmaat shared the example of a marketing technology company in San Francisco, one that is taking a “very novel” approach to territory design. Usually, sales leadership assigns territories in a pretty static way, perhaps on a yearly basis. But using DataFox, this company is incorporating third party data with internal stats like win rates. Janmaat:
+It’s a much more data-driven way to score companies, to make sure that each of their reps gets the same amount of tier 1 and tier 2 accounts.
+But that’s not the most compelling part:
+What’s most interesting though, is that when Oracle Datafox detects a new account, that for whatever reason newly satisfies certain criteria and to make it a great target, it will dynamically enter that territory. Either sales ops or the account executive gets pinged for that opportunity. So instead of a once a year exercise, it dynamically updates territories. They’ve seen tremendous results in terms of conversion rates and in deal size.
+My take
+Any discussion of applied “AI” must get into terminology definitions, ethics and data security. We must also justify how stakeholders’ lives are made better – and how algorithmic bias can be minimized. We didn’t get into all those topics on the panel, but you’ll see plenty of that in diginomica’s ongoing AI coverage.
+Most customers I talked with at Oracle MBX/CX were still laying the groundwork for the use of “smart” applications – they were knee deep in business transformations and cloud transitions. But ibvi, the company I noted above, is full speed ahead. I’ll write up their use case soon, but Oracle would do well to invest even further in that relationship. By putting AI, chat, and conversational tools to the true test of individuals who can’t do their jobs any other way, ibvi provides Oracle with a chance to press ahead on designing AI for all.
+Of course, customers on older Oracle releases must do rigorous roadmap evaluation to determine what next-gen capabilities they are eligible for, and which AI features require cloud or platform upgrades. Then there is the AI/data science skills issue that customers must consider – which is where Oracle’s out-of-the-box AI features will be welcomed.
+As a fairly accomplished buzzword-phobe, I could live without some of the Oracle AI lingo around “dynamic signals” and “smart data” and such. Nor do I believe that algorithmic models are becoming commodities just yet.
+I can think of recommendation engines that are pretty darn good, some of which are designed by companies Oracle probably wouldn’t want me to name here. To be fair, Swan was careful to hedge that comment – he wasn’t really denigrating the value of AI models, as much as he was advocating for data platforms.
+As for Oracle’s contention about data variety/volume/quality being the core requirement for AI, I’m on board. I’m sick of chatbots without customer context. I’m done with “targeted” emails that are just blasts and techno-prayers. Whether that data infusion from the extended enterprise becomes the AI differentiator for Oracle, time will tell.
+Image credit - Photo of Oracle's Bastiaan Janmaat speaking at Oracle MBX and CX 2019 by Jon Reed. Disclosure - Oracle paid the bulk of my expense to attend Oracle MCX and MBX 2019. Oracle is a diginomica premier partner. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureMachine intelligence and AI 

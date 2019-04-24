@@ -1,0 +1,46 @@
+
+
+Larry Ellison, CTO Oracle introducing ATP
+If you close your eyes and imagine that you’re about to start your digitally transforming cloud journey, then the words of Larry Ellison, Oracle’s co-founder, CTO and executive chairman at today’s autonomous transaction processing (ATP) database launch would likely be music to your ears. According to Ellison
+We’re the easiest database in the world to use. There’s nothing to learn, there’s nothing to do. It’s much much less labor involved so it’s much, much lower in cost. It’s truly elastic because you only pay for the infrastructure that you use. So when the application is not running then Oracle deactivates servers – it’s called a serverless system. And if you’re at a busy time then it will automatically add servers while the system is is still running.
+Got your attention? It certainly got the attention of those in the #thinkautonomous Tweetstream during today’s show and tell.
+Oracle’s journey to the autonomous database
+Last year, Oracle introduced its autonomous data warehouse (ADW) as a first step towards a complete autonomous cloud database story. At the time, I said:
+Today’s focus is upon analytics and that is where Amazon Redshift is hurting and will continue to hurt Oracle. I cannot think of a single analysis service I’ve viewed in the last six months (and I’ve internally reviewed a LOT of those same systems, mostly tied to machine learning and predictive capabilities,) that are NOT running on Redshift. I can only think of one where there was an Oracle offering. Most others are saying Amazon (preferred) or Google (if you must.) So how will Oracle address this issue and find favor with developers who are building the new classes of analytic and AI-centric solutions? How will Oracle convince customers that it is fundamentally better to run internally developed AI-centric data analytics in Oracle’s Exadata cloud?
+Of course with the passage of time, things have changed. Amazon continues to hold pole position while Microsoft Azure and Google are fast catching up with Oracle a distant fourth. In January, Phil Wainewright reminded us that:
+
+One of the most important points to note about the autonomous messaging is that the underlying technology hasn’t changed all that much. Despite the big leap forward in product numbering, from 12c to 18c, the product itself is changing only incrementally, effectively from release 12.2.0.1 to 12.2.0.2. Switching the name to 18c reflects the change to an annual release cycle, and so the new number simply catches up to the calendar year.
+The reality is that 18c is the culmination of incremental technology evolution over many years, including Real Application Clusters (RAC), Oracle 12c’s multi-tenant container architecture, and other more recent additions.
+The one big change with 18c is autonomous operation, which is not a shippable feature. While 12c is already a ‘cloud-first’ product in the sense that successive releases have become available on Oracle Cloud before shipping to customers, customers have always had the option of waiting for general availability to install it themselves. That’s not an option for the self-driving database.
+
+What was the big deal today?
+Introducing ATP today, which can tried for free among a variety of Oracle cloud services, the idea is that the heavy transaction loads that enterprises routinely employ can now be run at a magnitude less in cost. This is in large measure because of Oracle’s claimed autonomous infrastructure and database management features running on Oracle’s cloud platform.
+As has become routine for these types of event, Ellison cannot help but take shots at Amazon but on this occasion included SAP and Salesforce in his jibes.
+Under most circumstances, I enjoy hearing Ellison who, if nothing else, has always been good entertainment value. Ellison has a knack of making the marketing message just believable enough that you ignore the obvious questions about reality versus messaging. This time, Ellison was a lot more measured. That’s hardly surprising given what we saw towards the end of last week when a Twitterstream developed over Amazon’s claim that it will be off Oracle altogether by 2020.
+As I said at the time, if true then that would be a BFD because perceptually, Amazon would blow a massive hole in Oracle’s rightful claim to run some of the largest mission critical workloads in the world. More to the point though, I responded to this:
+
+What would be REALLY useful are some hard facts from both ORCL and AMZN. So much conjecture out there. https://t.co/3RinjL8i5I
+— ⒹⒺⓃ•Ⓗ ㋡ (@dahowlett) August 2, 2018
+
+Today, Ellison provided the facts (as Oracle sees them) to counter the Amazon words of war. Ignoring the more obvious funny jibes he made the fair point that:
+Our competitors don’t like the fact they are among our best references. Ten years ago, SAP said it was coming off Oracle. Not happened. Salesforce said the same using Postgres or some such. They’re still on Oracle. Amazon? 2020? We shall see.
+He then proceeded to bolster Oracle’s claims that:
+
+Surprisingly – to me – Ellison used the example of a complex Netsuite implementation to demonstrate some of the value Oracle is seeing from running this setup. Why not one of its own customers?
+Benefits of autonomous database
+Sound familiar? It was mostly a re-run of the ADW claims. On this occasion though, Ellison went a lot further by expanding or enumerating a series of benefits to both the business and IT. In summary – Oracle claims that:
+
+ATP detects and automatically fixes threats in real-time and so the likelihood of catastrophic data theft ifs largely eliminated. Ergo ATP/ADW are much more secure than comparable systems. If correct in the real world (and given the ingenuity of the best hackers) then this is a seriously good accomplishment.
+Repeated the commitment to no more than 2.5 minutes unplanned downtime per month claim from last year only this time for ATP. That’s guaranteed uptime equivalent to 99.995%. Again that’s good because most services I find guarantee 99.99% uptime. That’s close to 9 hours per annum. That may be acceptable today but tomorrow?
+Continuous tuning in the background with multiple failover. This eliminates database tuning exercises, a complex task when there are many databases involved.
+Freeing up routine database infrastructure tasks so that developers can concentrate on adding value to the business. Much of this has already been done elsewhere via software developed networks and automation. Whether Oracle has advanced the state of the art significantly remains to be seen but certainly the cost emphasis is something CIOs/CTOs will not ignore.
+
+My take
+As others have noted, this has been years in the making so you can be sure that Oracle has thought through many of the implications. Whether it is enough to answer critics who argue that Oracle is not really building for the future but shoring up the past remains to be seen.
+Despite Ellison’s repeated claims of functional and secure superiority over Amazon, the market isn’t exactly buying the story. Perhaps many have waited to see what ATP delivers?
+Does this help with the threat from Amazon? That’s hard to tell. So far all we’ve heard is a lot of hot air and claims that Ellison rightly debunks based on past history. It really is hard to get off an established database, even one that can be as expensive as Oracle can turn out to be. Addressing the infrastructure labor element goes some way towards solving the nagging TCO problem for all Oracle workloads.
+One interesting sidenote was Ellison’s acknowledgement that some of the very largest workloads will not go to the public cloud anytime soon. Maybe never which in internet years is after 2030.
+I’ve had those conversations and fully understand the paranoia that drives those decisions. Ellison made the point that even those who do want to go cloud for functional and IT benefit reasons, are saying they want what’s on offer as cloud services. But those same customers also want the keys to the building where the servers are housed. Sure, Oracle can manage that – remotely. I can think of one global customer who will listen to that argument as they consider their broader cloud move strategy.
+I’ll be interested in hearing what real, at scale customers say once they’ve tried the ‘pay for what you use’ ATP offering. If it delivers, then Oracle’s future is much more assured than seems to have been the case in the recent past.
+In the meantime, it will be interesting to find out what Andy Jassy, CEO AWS is cooking up.
+Image credit - Screenshots grabbed by the author during the launch enentDisclosure - All companies mentioned with the exception of Amazon are premier partners at the time of writing.Read more on: Cloud platforms - infrastructure and architecture 

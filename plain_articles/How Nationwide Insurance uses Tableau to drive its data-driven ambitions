@@ -1,0 +1,53 @@
+
+Michael Warling at Tableau Conference ’18
+Identifying as a “data-driven” business is one of those comforting generalities that doesn’t make an impression anymore.
+But I’ll always seize the opportunity to learn how a company is actually making a data-driven transition – and what that change looks like from the inside.
+On the first day of that massive data geek convergence known as Tableau Conference 2018, I had that chance, via an interview with Nationwide Insurance’s Michael Warling. Given his duties as Data Strategist, Infrastructure Delivery Analytics and Reporting at Nationwide Insurance, Warling has the hands-on view of a data-driven imperative.
+He’s also knee deep in a heavily-used, decentralized Tableau environment – which led him into topics I didn’t expect:
+
+crowdsourced data governance
+making a proposal for an internal Tableau center of excellence
+Tableau as an alternative to a centralized, unwieldy data lake
+Insurance industry disruption is coming, and data is in the middle of it (e.g. smart cars)
+
+Goal: become a “data company that sells insurance”
+But first, about that data-driven imperative. Warling says this push gained momentum two years ago, with the appointment of Nationwide’s first Chief Data Officer, Jim Tyo:
+Tyo’s stated goal is to not be an insurance company, but to be a data company that sells insurance.
+It’s a straightforward statement, but it’s plenty ambitious:
+We are starting to realize what we can do with data. I will say that it’s not a fast turn-around. Going from a financial/insurance company with our segmented pockets of different types of businesses.
+So how does Warling fit into the picture? He describes himself as an internal consultant, part of a twelve person team that supports small-scale data from an end-to-end view. That means his team has data modelers, ETL analysts, data strategists like Warling, and visualization experts. Warling’s team fans out into the business to spread and support the data gospel:
+We go out to small businesses within the company that have a lot of data. Maybe they don’t know what to do with it, how to utilize it, or have the platform to leverage it. Maybe they don’t have the expertise. So they’re not big enough to roll up a huge scale project, but at the same time, they need data help.
+And what’s the desired outcome?
+The end result is: let’s support the decision you need to support. And when that decision is made correctly, with good data and we can move quickly, then I’ve done my job well.
+Tableau and decentralized data – data warehouse not needed
+One interesting twist: this isn’t about building a corporate-wide data warehouse. With Tableau as the front end for data consumption, the data can now be decentralized – as long as the smaller repositories are properly governed. Tableau doesn’t care if you’re pulling from ten data sources or two hundred:
+It’s not necessarily important to have all your data in once place, but it is important to know everything about all the stuff. So even if we have all of our data on 60, 70 different platforms, as long as we know what those platforms are, where they are and who the data steward is, we can use tools like Tableau to combine, aggregate and make good decisions on a really quick turn-around – rather than having to worry about sourcing out the storage and the hardware and the data translation and the modeling that a data warehouse usually has.
+Since Nationwide started with Tableau six years ago, usage has grown into a sizeable deployment. Those smaller groups add up:
+We’ve got a really sizable deployment. The way I’ve described it before is we have a lot of very small pockets of Tableau use all over the company.
+By the numbers, that means 1,000 desktop licenses. About 10,000 Nationwide users consume Tableau reports. Decentralizing Tableau to business units has energized users, but the approach does have some drawbacks:
+Even though it’s sizable in terms of volume in dollars, it’s kind of not as advanced as some of the other Tableau deployments, simply because of the decentralization.
+Warling believes he can unite the clans:
+We do have an enterprise server deployment and everything like that, but there’s not a center of excellence, per se.
+So Warling proposed building an internal Tableau center of excellence. Centralizing data might not make sense, but sharing knowledge, tips and tricks sure does. Nationwide does have an internal Tableau user group, and that works well for about 100 hardcore users a month. But Warling wants to reach more users, through a center of excellence that’s accessible to them.
+Tableau, data science, and the future of insurance
+Warling acknowledged that financial users are laggard adopters of Tableau at Nationwide, though he says they are making progress. But other users have latched onto it. The claims unit is presenting at Tableau Conference this year:
+I’ve got a claims special investigation unit. These guys have to turn it around, and get answers immediately. They’re leveraging Tableau as their analysis tool. We’ve got claims where they’re leveraging more of the dashboard inside of it. One of our claims directors is actually talking at conference this week as well. What he and his team have done is provide a claims rep facing dashboard that puts everything they need to do their job at the tips of their fingers.
+The data science team is digging in:
+We’re employing PhDs that are solving the big problems. They’re using Tableau hugely, along with other things like Python and R. They’re more on utilizing Tableau for the analysis piece of the tool rather than for the visualization piece.
+Now is the right time for Nationwide to be doubling down on data science. The insurance industry is about to go through major changes – all driven by data. Warling:
+We’ve got self-driving cars; we’ve got real-time monitoring. Nationwide does this thing called Smart Ride where they put a device in your car, and if your GPS says you’re a decent driver, you don’t slam on your brakes, you don’t accelerate too fast, you get a break on your insurance.
+That changes the insurance market:
+If you choose not to be a good driver, you pay extra for that. So it’s tiered pricing.
+And it doesn’t end there:
+We have things that we’re monitoring in our home constantly. We’ve got electric carbon monoxide readers and Nest and all these other things that are monitoring all this data and so, what do we do with it? How do we capitalize on it?
+Warling knows one thing: capitalizing on these changes is not a tools problem.
+While we utilize Tableau because it’s a great tool, we don’t limit ourselves to using a single tool or a single capability or a single skill. We focus on building capability. Are they analysts? Can they think? If they can think, they’re going to use any tool at their disposal to answer their question. Tableau just happens to be the best tool right now, so it makes it easy for them.
+What does Warling like about Tableau in particular?
+I like the fact that it’s diverse… There are other tools out there, sure, but Tableau just does everything it’s supposed to do very, very well – and it’s focused on the business decision. It answers business data questions at the end user level.
+With Tableau, you don’t really have to understand data. You don’t have to understand what it’s doing. But if you do understand data, it’s your Maserati, right? It’s going go the distance.
+The other winning aspect of decentralizing data? Crowdsourcing data governance. Business users know more about their data than anyone else. Why not involve them in data validation and governance? Warling:
+Crowdsourced data governance is becoming acceptable… If I know the data is not great and we put it in front of you and I say, “I know it’s not great. Tell me what’s wrong about it.” Then you work as a team.
+It’s an iterative process, with the goal of fostering data ownership:
+I’m putting the data in front of you because you know your data better than I do. Let’s work on this together. Let’s be iterative about the whole process. Let’s go over it again. And then when you feel comfortable as a business user that it’s clean, then we’re good to go – and you own how clean it needs to be.
+Oh and about that center of excellence – Warling’s proposal was successful, and plans are in the works. That should make a good update at next year’s show.
+Image credit - Photo of Michael Warling at Tableau Conference 2018 by Jon Reed. Disclosure - Tableau paid the bulk of my travel expenses to attend Tableau Conference 2018.Read more on: Analytics planning and data analysisCollaboration sharing and digital productivityDigital enterprise in the real worldUse cases 

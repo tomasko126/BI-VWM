@@ -1,0 +1,96 @@
+
+(1) Brexit means…who the hell knows at this point?
+It is our view that the government’s “Withdrawal Agreement and Political Agreement on leaving the European Union” will not serve the best interests of the UK tech industry. It will vastly increase friction in trade with the EU and impose significant and costly changes for the tech industry.
+We therefore believe that Members of Parliament should NOT support the agreement in the ‘meaningful vote’ and should instead vote for a new referendum, a ‘People’s Vote’, on Brexit, with the option to Remain in the EU.
+Why? Brexit is the story that has dominated headlines this year, both in the mainstream media and across the technology industry. The implications of a disorderly exit from the European Union could be huge – and the technology industry itself is divided over what is the best approach. Theresa May’s Deal or a People’s Vote, with the hope that the public have changed their mind. It looks like the final deal will be voted on in mid-January. Will it pass? Unlikely. What does that mean for Brexit? Who knows. In the meantime, Whitehall resources are being taken away from projects across most departments and being dedicated to ensuring we get out of this mess without too march harm. Hopefully 2019 will provide some more clarity.
+
+HMRC exploring ‘‘single window technology’ to support customs after Brexit – cost would be “hundreds of millions of pounds
+Brexit – Government’s digital approach to checking EU citizens’ status already running into problems
+MPs warn that cracks are showing at HMRC as it prepares systems for Brexit
+TechUK faces backlash for its support of Theresa May’s Brexit Withdrawal Agreement
+
+(2) RIP GDS, as the Oligopoly strikes back
+Once a powerhouse at the centre of government, and internationally applauded, it is now being perceived as a lame duck that no-one quite knows what to do with.
+Why? Back in 2017 we were writing about how GDS stood at a crossroads and faced a number of choices about whether it wanted to retain its power and significance, or whether it would fade away into the background and let the powers that be continue to rule. This year, unfortunately, it seems that the latter happened. GDS has been broken up, with some of its core functions taken and placed under the control of DCMS. It’s leadership continues to stumble along without much fight. And to top it off, figures have emerged that show SME spend in government is declining and spend with the largest suppliers to government is increasing. The Oligopoly strikes back. We don’t hold much hope for 2019, but we will be watching closely.
+
+RIP GDS – make way for the new digital empire being built within DCMS
+Liam Maxwell’s departure for AWS raises the question – who are the new faces of digital government in Whitehall? 
+The Oligopoly strikes back – Government spend with largest suppliers increasing, SME spend shrinking
+Tom Loosemore reminds us just how much digital government is flailing in the UK
+
+(3) Service and experience dominate
+When [outsourced to HP six or seven years ago], it was quite revolutionary because we outsourced absolutely everything, all of our technical capability. We are coming back from that now, especially to a point where we are driving a lot of technology and technical understanding back into the way we work.
+Why? The above quote is from National Grid, which is bringing its technology back in-house in order to reintroduce control. And why is that? Because they want to control the service and experience for users. This is a theme that has been building for years, since the introduction of the smartphone, where consumer expectations have been driving change in the enterprise. Why this is still important in 2018 is that we are beginning to see end users understand that they need to work with cloud-based, modern vendors and bring back some control of their operations in order to enhance that service and experience. Two of the most interesting vendors I spoke to this year were ServiceNow and ServiceMax – both of which are thriving. And that’s because service will be central to everything going forward.
+
+ServiceMax CEO gives the lowdown on GE Digital selling majority stake to Silver Lake
+ServiceMax CEO eyes the opportunity of ‘Uberized’ labour markets for field service agents 
+ServiceNow becomes a “strategic platform” for National Grid as it expands across the business 
+Knowledge18 – ServiceNow is no longer an ITSM platform, it’s an experience platform 
+
+(4) NoSQL becomes a business strategic issue
+It’s a really interesting story about how we ended up with MongoDB. But we are a data driven business and it was really about freeing up the data, getting the data moving. That’s the key thing that we’ve done over the last couple of years.
+Our transformation started about three or four years ago, and it had all the things that you’d normally see – the removal of the legacy environments, the uplift of the technology, move to the cloud. But I think particularly in the last couple of years we’ve benefited from that MongoDB environment, it’s really freed up the data and now we’re moving at pace.
+Why? I’ve been following the NoSQL market for a few years now and whilst it’s always been interesting from a disruptive perspective, it’s mostly been relegated to the developer crowd who saw the opportunity for something more agile and innovative. However, what’s been more interesting this year, is that most of the conversations I’ve had with buyers at NoSQL events have been with executives at the CEO/CIO level. That tells me that NoSQL is becoming more strategic. Why? Because it in this world where frictionless enterprises rule and where data is an asset, you need a database that gives you the freedom to enable that. We expect to see the likes of MongoDB and Couchbase rise in importance in 2019.
+
+MongoDB CEO – ‘We rarely see other NoSQL vendors in deals anymore, they’re less relevant’
+Australia’s ticketing giant Ticketek goes all in with MongoDB – ‘It’s the only database up to the task’ 
+Couchbase CEO on the balancing act of creating an engagement database that caters to all 
+Centrica adopts Couchbase to give field engineers full view of customer data 
+
+(5) Digital government abroad gets interesting
+Governments that don’t take advantage of these powerful new tools are sacrificing their relationship with the people who must use their services, their ability to achieve the goals of the program, and most importantly, breaking promises by failing to deliver.
+Why? Whilst digital government is flailing in the UK, it can’t be denied that GDS did spark the imagination of other digital government’s abroad. Some are beginning to do some very interesting things. One area of particular interest is how governments can more closely align digital/design with policy makers – a sort of DevOps for public services. As the UK falls down the ranks of the UN’s leading digital governments, we look on with interest to those elsewhere now leading the way.
+
+Code for America Summit – Governments should use digital to take the guesswork out of policy 
+Fixing broken U.S. government with Code for America 
+Canada’s new Minister of Digital Government – ‘If we can’t get the basics right, how can we be trusted with the big stuff?’ 
+Australia caps government IT contracts at $100m in procurement shake up 
+Australia’s Digital Transformation Agency mulls procurement overhaul to improve SME access 
+
+(6) Which side of history do you want to be on?
+To those folks that are standing on the sidelines – we are at a point in the history of business and society where there’s no margins anymore, right? There’s no place to stand and not be on the playing field. The playing field is extended.
+All the things that are happening in society and all the issues that come up where their customers and their employees and their stakeholders are asking them – where do you stand? Where do you stand on this issue? There’s no way to say I’m an observer and not a participant.
+Why? It makes my list almost every year. Diversity and business are inextricably linked in my view, particularly in the technology world. And that’s not just because it’s the right thing to do, but because we should be making and designing services that reflect the people that use them. Some businesses get this and are making a stand. I believe that those that ignore this will ultimately lose in the end.
+
+Salesforce’s Chief Equality Officer asks – “Which side of history do you want to be on?” 
+Professor Dame Wendy Hall – ‘We need to put diversity at the centre of the AI ethics debate’ )
+
+(7) Innovation at a local level
+What we do now is we run a risk assessment against you right after arrest, that determines your likelihood to appear in court, as well as not get re-arrested in the future. There are nine factors – the Arnold Foundation publish that on their website – but they largely look at case data. We are looking to see in the past, have you got re-arrested? How many convictions do you have? Have you failed to appear in the past?
+What we do now is we grab all that data. We score it. Provide a recommendation to the judge, based on a decision making framework that we’ve put together. The judge then has a hearing with the prosecutor and the public defender and they determine whether or not they should get out or not.
+Why? I know this is meant to be a ‘Derek’s pick’ for stories I have written this year, but some of the stories written in this section were provided by one of our freelancers, Gary Flood. His pieces, as well as mine, have been included here to showcase how (both at home and abroad) there are some really interesting people doing some really interesting things at a local level – regardless of what’s happening at a national level. And sometimes, these are the stories that really impact peoples’ lives. Take a read for some inspiration.
+
+New Jersey automates risk profiling of arrestees to help judges decide if they walk free or go to jail 
+Digital success through low-code at Hackney Council – focus on user need 
+Digital Transformation in Action – Pendle Borough Council 
+Dreamforce 2018 – a look at how Cary, North Carolina, is turning itself into a smart city 
+
+(8) AI, automation and ethics
+Just saying ‘Fred looks kind of similar to Sue, so I gave the Sue the same radiation pills’ – it’s probably not going to answer well in your general medical council hearing for malpractice. In finance that’s also true, our regulators want to be able to explain the circumstances, why we made a certain recommendation to all of our customers. Our sales people like to understand arguments that are causation based.
+Why? It’s perhaps unsurprising that AI and automation made my list this year. It’s all anyone can talk about. And whilst there is still a lot of buzzwordery going on, I believe that in 2018 we began to see AI take some tangible forms. That’s true both in terms of use cases, but also with regards to governments and policy makers taking this seriously. Whether they will understand the opportunity and threats clearly, and be able to keep up, is another question – but at least it’s becoming a conversation. I’m also pleased that we are beginning to see ethics being closely tied to a lot of conversations on AI and automation. Just because AI provides opportunities for improved experience and efficiency doesn’t mean we should run with it without attempting to think through the consequences.
+
+NHS Trust frees up hundreds of hours for medical staff through use of ‘virtual workers’ and automation 
+US Senators introduce ‘AI in Government Act’ to help federal government better understand the technology’s potential 
+British government takes on AI challenge with new £1 billion deal 
+Prudential’s Global Head of AI on ‘which algorithm to use and when’ 
+Lord Clement-Jones, Chair of AI Committee – ‘We need to live, eat and breath ethics’ 
+
+(9) The internet giants and trust
+Looking back, we thought if we could keep the web free and open, what could go wrong? Well, looking back, what could go wrong? Duh. We have fake news, we have problems with privacy, we have people being profiled in a way that they can be manipulated. So yeah, there are lots of issues with the Web.
+Why? Facebook. Fake news. State-led manipulation and interference online. Tax avoidance. Data privacy. Democracy. Just a few of the concerns that have arisen as a result of the growth of ‘digital’ and the internet giants. The founder of the web, Sir Tim Berners-Lee explains it better than I could, but we need to recognise that just because the Internet provides a huge number of benefits and convenience, doesn’t mean we should let just a few benefit from it, understand it and control it. Trust is important and we are beginning to see legislators and policy makers think about how we could improve that trust.
+
+The ‘Father of the Web’ wants a new contract to redeem his troubled child 
+Government considers how it can tax digital businesses via “user participation” 
+MPs call for new tax on Internet giants to be introduced in ‘12 to 24 months’ 
+doteveryone calls for “a single place for the public to turn to” when tech goes wrong 
+
+(10) GDPR arrived…thank goodness
+I’ve been with a number of global 100 boards over the last several weeks and they’re not going to be compliant. They’ve spent multiple, multiple millions – some in excess of £100 million so far. If you look at spending patterns, I would say that 20-30% is going to be pre-May and the rest post-May.
+There’s a very, very long journey for a lot of organisations. A lot of people are putting in measures that are creating a negative impact on customer journeys. But privacy is absolutely a way you can improve customer journeys and improve trust.
+Why? It would be foolish to not include GDPR in this top ten list, given that it was such a top priority for both business and public sector organisations. At least it’s finally here. It would be foolish to say that all companies have their house in order – there’s still plenty of work to be done. But at least we’ve moved beyond the rhetoric and into understanding the practicalities. Will 2019 be the year of massive fines for non-compliance? Quite likely.
+
+Brexit – EU dashes UK’s hopes of having a seat at the data protection table 
+Could data brokers make the EU’s GDPR less relevant in years to come? 
+One month to go until GDPR – some words of warning from the experts 
+
+Image credit - Freeimages.com/Julie Elliot-Abbshire Disclosure - Salesforce, ServiceNow and ServiceMax are diginomica premier partners at time of writing. Read more on: BrexitCRM and customer experienceThe new professional and IT as a serviceUse cases 

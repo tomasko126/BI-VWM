@@ -1,0 +1,53 @@
+
+Rachel Black of FHR, presenting at Inforum 2018
+At the end of a hectic Inforum 2018 day one, the Infor comms team set me free to check out a customer presentation of my choosing. My pick? “Rapidly Transform Your Financial Solution.” As in:
+Find out how Flint Hills Resources partnered with Infor and implemented CloudSuite Financials, Payables, Receivables, and Global Ledger in just ten months.
+Now, if you’ve read my cloud ERP benefits series, you know I’m not a big fan of rushing to go-live. Faster implementations are not necessarily better implementations. That said, avoiding long, bloated ERP projects is a good thing.
+The presentation was a combined effort of the Flint Hills Resources (FHR) CIO, lead systems analyst and business lead. Seeing a tech/biz team present together is always a draw.
+FHR is an American producer and marketer of fuels and chemicals with a sixty-year history. They are owned by Koch Industries, which made a sizeable investment in Infor in 2017, to the tune of $2 billion and change. Koch Industries is also in the midst of one of the largest – if not the largest – Infor CloudSuite implementations in the world (highlights were shared in the Inforum day one keynote).
+However, FHR undertook their own selection process – after deciding to move on from Oracle Financials. You could argue that FHR’s decision to implement Infor CloudSuite Financials was a no-brainer given the Koch Industries investment in Infor, but that doesn’t matter for my purposes here. No matter which product you choose, you’re not getting results without a successful implementation – and FHR had some good tips on how to pull that off.
+Legacy ERP and the problem of excessive customization
+FHR CIO Christopher Dahl explained that the pace of economic change was moving faster than their ERP system, which required a major upgrade every three to five years. Dahl said that with every upgrade, they were looking for a way to get off that cycle.
+Dahl painted a picture IT managers are familiar with: the burden of “run and maintain costs” on the one hand, versus the human capital that could be used on aspirational projects. As Dahl told attendees:
+In our case, in our organization we’re about 60 to 65 percent of “run and maintain to keep the lights on.” Then the rest of it is tied to new innovation, disruption, experimentation, things like that.
+That time-to-innovate is probably higher than many IT shops already. But Dahl wanted more:
+What if you could get out of the run and maintain costs, and free up that human potential, which is a key theme of this conference? To be able to go work on the experimentation and the new innovation – that’s really what we tried to do when we looked for an alternative to our existing financial systems.
+Dahl hit on a crucial theme for customers moving to cloud ERP, be it financials, HCM, or manufacturing: time to standardize your processes. Your admin customizations have to go:
+One of the things about a history of highly customized, highly personalized [on-premise] solutions over time is that they’re built for your work processes over twenty years. What we’ve found is there’s no real secret sauce in our work practices, especially when it comes to financial applications. How you pay bills through accounts payable. How you reconcile your general ledger. No super secret stuff there.
+That’s not a viable approach anymore:
+Over the years, we’ve convinced ourselves that we were really good at that, so we personalized our software to the nth degree to be able to do that. Which meant it really slowed us down from being able to adopt new business processes faster.
+Barbara (Mikkelsen) McEachern, FHR Business System Analyst, shed light on their software evaluation:
+In order to find the right modern fit, we went through an alternative assessment. We looked at Microsoft, Oracle, Infor, and a few others. With Infor, what we really liked was the navigation, the look and feel, the functionality that was available, and what was coming in the future.
+Ten months to CloudSuite Financials go-live
+No more “run and maintain”- time for a SaaS financials solution with “continuous delivery.” But FHR also wanted a fast implementation. McEachern:
+Our goal was really to implement a minimum viable solution as quickly as possible, so we could have faster time to value and really limit our customizations and personalizations.
+The FHR project kicked off in May 2017 – the go-live happened in March 2018, ten months later. So what were the keys? McEachern told attendees they decided not to re-engineer their processes. As much as they could, they went for a “like for like” approach, with similar reporting capabilities and similar monthly closing dates.
+We shouldn’t be misled by the “minimum viable solution” language; FHR definitely needed robust cloud financials. As Rachel Black, Accounting Manager and CloudFinancials Business Project Lead told us, FHR processes transactions through 700 accounting entities.
+That means, on average, they are processing nearly 2,000 accounts payable invoices a day across 17,000 lenders. They’re also receiving and applying cash to an average of 5,000 AR invoices a day, across almost 7,000 customers.
+The new system isn’t just transactional; finance users can now perform year-over-year analysis within one application. Black had a crucial piece of advice that should resonate with ERP teams: test, test, test. Before FHR did their data conversion, they practiced the conversion multiple times:
+We practiced both the extractions out of our legacy systems and the imports in the CS [CloudSuite] app. We found that being able to run through multiple iterations of that really really valuable. We were able to flush out issues and also put risk mitigation strategies in place before we got to cutover weekend.
+So what were the keys to success from the IT side? McEachern credited:
+
+their strong partnership with Infor
+the project’s organizational structure
+the buy-in of business owners and sponsors
+
+On the project team side, FHR didn’t make the mistake of part-time business user involvement. They had five subject matter experts from the business side fully dedicated to the project. Same on the IT side, with 12 dedicated team members. Putting the team in the same room paid off:
+We all sat in the same area, and this was very beneficial to help with the collaboration throughout the entire project.
+When the project peaked, they doubled the IT resources. Crunch time was still crunch time – McEachern said they could have used even more IT resources, but it was a challenge at that point to onboard them. McEachern also said that being an early adopter posed some challenges – there wasn’t a lot of CloudSuite Financials training material to utilize yet. New tools like Infor ION posed a learning curve: “A better training strategy, on our part, would have been beneficial.”
+The wrap – keep a startup mentality, and fight scope creep
+As I listened to this team’s story, another key jumped out at me: when everyone takes initiative, managing change is a lot easier. McEachern spoke directly to that:
+We were really challenged to ignore the fact that we had 20 years of old processes and old data in our system, and really think and behave like a startup. So, when you’re a brand new startup company you just go, you don’t have years of legacy to have to drag behind you. We tried to keep that mindset in mind throughout the entire project.
+That helped to curb a notorious ERP problem: scope creep.
+We did a really good job of managing our scope, and we kept the out-of-the-box functionality the majority of the time.
+I’m looking forward to hearing more from this team at next year’s Inforum. Why? Because they will be further along the path of quantifying the business benefits from the project. It’s the advanced benefits of cloud ERP that are the most potent in the long run – including the shift from an administrative to a more strategic use of data, and the changing roles of those who work with that data. But for now, McEachern says the project is considered a success by FHR leadership, and that’s job one.
+One thing I liked about Inforum’s customer presentations: plenty of time for Q/A.
+
+Customers asking other @Infor customers about successful CloudSuite Financials move. Questions include:
+Integration challenges?
+Change management, training resources, user buy-in?
+Managing monthly SaaS updates, automating testing?
+Did go-live date change? #Inforum2018
+— Jon Reed (@jonerp) September 25, 2018
+I wish more vendors would air these issues out on the keynote stage alongside their next-gen offerings. Customers keep us all on our toes – as it should be.
+Image credit - Image of Flint Hills Resources presenting at Infor by Jon Reed. Disclosure - Infor paid the bulk of my expenses to attend Inforum 2018. Oracle is a diginomica premier partner.Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureDigital enterprise in the real worldFinancialsUse cases 

@@ -1,0 +1,45 @@
+
+Riccardo Badalone of C2RO at NRF 2019.
+I’m not a technophobe, but I am a facial recognition Luddite. But when I got an invite ahead of NRF 2019 to put my own face to the personalization test, I quickly agreed.
+If this is the future, I want to know what I’m getting into.
+The invite came by way of C2RO, which claims that “Face recognition is the most efficient way to recognize your customers in person.”
+How? Via personalized messaging, targeted alerts, and in-person visitor tracking. It’s that last bit about tracking that really gives me the weebeejeebies. Of course, my face is probably scanned daily now, particularly when I travel, so living in denial isn’t an effective response on my part.
+At NRF 2019, personalization remains the hottest topic in retail. But when you scratch the surface, troubling questions persist. Such as: the ethics of data gathering – and how companies can effectively apply that data. Facial recognition brings those issues to a head, literally and otherwise.
+C2RO invited me to sign a release form and find out for myself. So on Sunday, the first day of the “Retail Big Show,” I found myself face to face with C2RO CEO Riccardo Badalone, in front of their booth in NRF’s Innovation Lab. Before Badalone took a picture of my grouchy face, he wanted to make something clear. He says C2RO does facial recognition differently:
+There’s a lot of companies like Microsoft or Amazon that offer cloud APIs, where you can put some pictures in, and they give you level of confidence that they’re the same. That’s not what we do.
+Okay, so how is your process different? Badalone:
+There’s other companies that give you a real-time AI that you can embed in a device that would do face recognition. It’s also not what we do. We have a real-time, end-to-end system where all of the processing is legitimately in the cloud.
+Badalone says their system was originally designed to fly drones – remotely. Speed counts:
+The response time is less than a second, and it’s a global system. It’s fast enough actually to control a moving drone without running into you.
+I do not usually get into product brochures. But we need to understand where this data resides and how it flows:
+
+If you walk into an environment that is serviced by C2RO, your face is scanned and matched against the C2RO cloud database. If you are recognized as a customer of this client, and IF you have opted into the use of this technology, then C2RO alerts that company’s CRM or ERP system that you are in the store, or other environment.
+At that point, the CRM system will push back an instruction. It might make you an offer, send you a loyalty coupon, or make you aware of a new product you might like. Alternately, the instruction might be to do nothing – depending on the circumstance, the type of customer you are, etc.
+Sounds like “fun with GDPR” to me. Badalone brought it up first:
+We are GDPR-compliant. So, what does this mean? First of all, we take this really seriously. This means the customer is responsible for making sure that they get the permission to use somebody’s face. We are a tool, a processing tool that they’re using. But we have to comply with the regulations on protecting the data of the customer that’s in our system. Encryption, security, all of these things. And so, this is all audited.
+We have quarterly audits by a firm in Germany. And all of our terms and conditions comply with GDPR. So if we’re doing a recognition system for a customer, this customer needs to have an opt-in strategy for that business.
+Okay – but what if a customer doesn’t have a commitment to opt-in. Would C2RO say, “No thanks, we can’t work with you?”
+We would.
+Badalone told me they used to have an anonymous function, where they could see a person, tag them, and recognize them as a number. But when they went through GDPR compliance, they removed that option.
+You cannot use our system without explicitly having the customer opt-in.
+For C2RO, this isn’t just about compliance. Opt-in is vital to getting a true benefit from this technology:
+Whenever you want to use somebody’s face, it’s more important to understand the value that the consumer is going to get out of it. As opposed to, “Hey, you’re grabbing their face and you’re doing it behind their back because you want to make more profit.”
+The customer should want you to know where they are, so that they can spend less time in a line, get a better service, or get access to a better experience.
+On to the demo. Badalone put my face through a couple scenarios. Each time, I was recognized via C2RO’s Computer vision on a phone and on a tablet. (My face was recognized because we set up a quick profile with my face and name).
+
+The system records each recognition, so if I appeared in different store locations, you’d see that all here:
+
+Yes, the system does make a gender and age assessment, as you can see above. I’m surprised they didn’t make a mood assessment also, as in, “don’t make an offer to this grouchy blogger!”
+My take
+Facial recognition might be the future. That doesn’t mean I have to like it, or put my ethical qualms aside. Badalone made an important distinction. Companies are exploring how to use our faces in aggregated anonymous ways. So, for example, Walmart is doing a facial recognition research project that analyzes the mood of shoppers.
+Perhaps Walmart would personalize for the shopper, based on that apparent mood. This could be akin to how a web site might attempt to personalize the look of a page without knowing your identity, only your preferences or browsing habits. Or perhaps they might make web site changes based on aggregate behavior.
+Badalone says we should not call that type of project facial recognition. That is more accurately described as facial analysis. Anonymity of the sample may not be enough for some customers, though. As Retail Dive put it:
+However, these technologies also may require customer opt-in, or at least an ability to convince customers their privacy is not being violated.
+I’m not comfortable with these technologies. Just like I’m not comfortable that Google knows more about my daily whereabouts than my mother. Yet, I’ve opted into my relationship with Google. But when they ping me too aggressively about my location and shopping opportunities, I get a case of the creeps.
+That’s understood, says Badalone. We don’t trust companies like Google because we know they are profiting from our data. But he maintains that if it’s a brand we have affinity towards, and if they are transparent and allow us to opt-in, we’ll appreciate the benefits of face recognition.
+We didn’t have time to get into customer results, but I will not be surprised if there are sales increases tied to this technology. One big theme of NRF 2019 is that personalization works. It drives revenues, even if brands are nowhere near personalizing across all interactions.
+Salesforce told me today that 26 percent of their customers’ Commerce Cloud revenues were tied to some type of AI-powered Commerce Cloud offering, where personalization factors heavily. That’s the kind of statistic that leads me to believe that facial recognition, properly applied, would have financial benefits for some brands.
+Badalone took me deeper into security. The short version is they are obsessed with it. They believe they are more secure than a typical web API. C2RO is a “closed access” system, so “even what’s running on this system cannot see where we’re sending to cloud. What our client is sending to the cloud – nobody but our cloud can see it.”
+I am not worried about what a white hat firm like C2RO does with this technology. I remain worried about what bad actors and state agencies would do. But that’s a worry that extends beyond facial recognition. Consumers, particularly in the U.S., have shown that they will place a priority on convenience if you respect their privacy. I have no problem with that – as long as we become vigilant about how our data is used. That’s where we’re falling short.
+Lots more NRF 2019 coverage on the way – stay tuned.
+Image credit - Photo of Riccardo Badalone and C2RO demo pics by Jon Reed. Disclosure - NRF provided me with press access to NRF 2019. Read more on: Analytics planning and data analysisCRM and customer experiencee-commerceRetail e-commerce and the omni-channel 

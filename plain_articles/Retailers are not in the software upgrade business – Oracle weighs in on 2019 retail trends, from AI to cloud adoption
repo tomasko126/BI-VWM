@@ -1,0 +1,45 @@
+
+My illustrated best-of-NRF retail tech countdown shows that NRF’s Big Show was bursting with next-gen tech, from “intelligent” shopping assistants to inventory drones to creepy/potent facial recognition tech.
+Perhaps most surprising: most of the tech I picked was actually in use, at least in pilot stores.
+Obstacles to operationalizing AI
+So when I sat down with Jeff Warren, VP Retail Strategy & Solutions Management with Oracle, I wanted to know: does he advise retailers to pursue next-gen tech, or is the hype factor still off the charts? What is sticking to the wall in his retail work with customers? Warren told me:
+It was interesting. We just had a customer panel as part of our retail exchange event. One CIO in the room raised his hand and said, essentially, to the three retail executives on the panel, “Talk to me about what investments you’re making in artificial intelligence this year.”
+And the panel’s response?
+All three of them essentially said, “It’s still flashy, but we haven’t figured out how to operationalize the use of AI and some of the flashy things that we’re seeing on the storefront here to the core business.”
+Warren cautions those who invest in new retail tech: you must address how this data feeds into an integrated customer view. Otherwise, we’re back in the data silo business.
+For the retail industry, that’s the challenge. How do you take all of those digital interactions that are now happening, whether they’re in a storefront when you’re capturing facial recognition, or whether it’s an IoT sensor, or whether it’s a digital interaction via Alexa, or Google, or Pinterest, or pick whatever point.
+How do you take that digital interaction information and actually incorporate that into an operational view of what you know about your consumers, and even more specifically, what you would know about your customer? And then tie that into something that’s meaningful for both the retailer, as well as the customer?
+And where do retailers stand now in this data pursuit?
+I would say we’re at a point right now where we’re seeing a lot of ability to capture information, but we’re not seeing a lot of ability to do meaningful things with it yet. For us, that’s part of the question: how do we incorporate all of those interactions into what I would consider best practices within retail?
+But there’s a twist. As I said to Warren, some retailers not named Amazon and Walmart are winning – or at the least, transforming faster than their peers.
+Those retailers that are winning are winning because they’re providing the experiences; they’re providing the interaction; they’re providing the engagement that the customer is looking for.
+Retailers aren’t in the software upgrade business
+Naturally, Oracle will tell you their mission is to provide that retail apps platform. However you rate the caliber of Oracle’s platform, one aspect is not debatable: they’ve been in the retail game for a while now. It’s all about verticalizing applications.
+Oracle has been investing in retail basically since the beginning. The strategic investment in retail started with the acquisition of Retek and the creation of industry business units back in 2005. Oracle believed that the only way that as a technology company you could be relevant to industries was to have an industry focus.
+Warren has seen a flurry of changes since then. Oh, and a few more acquisitions as well.
+Since then, Oracle’s gone on this acquisition spree, 120 different companies, which has led to the creation of a number of different business units, with focus in food and beverage, hotels, communications – but retail was the first grand experiment at Oracle.
+Today, 1,500 Oracle employees are dedicated to the retail business unit, supporting 6,000 retailers. But more changes are afoot. One shift: cloud adoption.
+For us, the big switch was making the transition from on-premise software to software as a service, and moving capabilities into the cloud.
+Why the switch? One driver was the difficulty on-premise customers had adopting new functionality:
+The problem was I spent $100 million a year in R&D but our on-premise customers were only uptaking and implementing, if it was a point of sales system, once every eight years, if it was a merchandising system once every 10 years. Maybe a planning system once every three or four years.
+The problem was the industry wasn’t benefiting from that insight. The industry wasn’t benefiting from the investment, and wasn’t able to keep pace.
+I still believe ERP vendors can overhype the cloud – a problem made worse when clouds aren’t well defined (e.g. hosted software versus SaaS). That said, Warren heard this pressure directly from customers, who wanted an easier way to absorb new functionality:
+I can’t tell you the number of CIOs within retail that over the years have said, “Jeff, I’m in the business of retail. I’m not in the business of upgrading your software.”
+When you add in the advanced tech of today’s consumers, yesterday’s legacy retail systems aren’t going to cut it:
+I talk to retailers and I ask, “Look, eight years ago when you put in your point of sale platform, did the customer have the same expectations around how they were going to engage with your brand on their smartphone in your store with your associates that they do today?”
+The answer is always no, but they’re constrained by essentially that legacy of investments and those platforms that aren’t able to keep up.
+And there’s the rub. Retailers can’t upgrade all their existing systems overnight. But Warren says the cloud model has proven itself.
+We continuously deliver cloud software updates that keep up with the new cadence of retail is transformational for retailers, in terms of their ability to be able to consume and deliver the operational agility that they need to be able to support today’s customer’s expectations.
+Selfridges’ retail transformation
+Which brings us to customer examples. One thing I liked that Oracle did at NRF: they released press updates on retail customer use cases like Laura Ashley. I asked Warren to pick a retailer that’s pushing through a successful transformation. He pointed me to Selfridges, a UK-based retailer that’s done well even when other high-end department stores have struggled.
+Selfridges had a great holiday trading season. In an economy that is incredibly uncertain, in a political climate that’s incredibly uncertain, Selfridges had a phenomenal year. How does that happen? They talked about the experiences that they created in the cabarets. It was something that just appealed to their customer base.
+One key? Not standing still:
+We’ve been working with Selfridges for a long time; they’re a long-standing Oracle customer. They just recently upgraded their core merchandising operations with us. They’re in process of actually rolling out all new store systems with us. They’re updating and implementing all of their order management, and omni-channel consumer journeys with us.
+The tech projects tie directly into customer interactions:
+Just looking again, not at their approach to IT in isolation but their approach to IT in terms of how that enables the kind of experience and brand interaction that they can promote with their customer base is really resonating.
+We talked more about the cloud transition. Warren acknowledges that the core install base is still in a gradual cloud adoption process, depending on where they are in depreciation and Capex cycles. But the big picture is clear:
+Just to give you some context, four years ago we did not have a single retail customer running in the cloud. In terms of software as a service, we had a number of retailers that ran, I would call, managed hosted businesses but not true software as a service. This year we are at a point where probably 80 percent of net new retail business in North America is going to be sold as a service, not as a product.
+Though only about ten percent of that retail install base has moved to the true software as a service Warren referred to, he says it’s not a matter of desire or making the cloud case. It’s all about timing as older releases and licenses expire and new software decisions arise.
+How that install base moves and what help they need from Oracle is a different conversation. But the fact that net-new customers aren’t interested in on-premise retail products tells us something. I missed the chance to talk with customers at a special Sunday Oracle session. I’ll look to rectify that at an upcoming event, and dig further into these issues.
+Updated, 11am UK time, February 12, with a few tweaks for clarity on how I referred to cloud and applications, with added links.
+Image credit - Feature image - Augmented reality marketing and face recognition concept, by @Zapp2Photo, from Shutterstock.com.Disclosure - NRF provided me with a press pass to NRF 2019. Oracle is a diginomica premier partner. Read more on: Cloud ERP financials and supply chainCloud platforms - infrastructure and architectureRetail e-commerce and the omni-channel 

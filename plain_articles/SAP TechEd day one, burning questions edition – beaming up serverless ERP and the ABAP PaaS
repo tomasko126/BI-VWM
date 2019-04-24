@@ -1,0 +1,84 @@
+
+I went into SAP TechEd 2018 with burning questions. SAP has things to prove this TechEd season. Such as:
+
+Define the path to the so-called “intelligent enterprise” with more clarity.
+Show how customers not yet on S/4HANA won’t be left out of this.
+Excite the masses with quick ways for companies to launch next gen apps – without having to tackle a full-on enterprise modernization project from the get-go.
+
+Last, but certainly not least:
+
+Energize the community with shining examples of customers and coders kicking butt. In the process, revive a stale TechEd format and boost a community that has been dulled by too many overwrought web reorgs.
+
+Day one keynote reactions – the pros and cons of brevity
+In his day one keynote, SAP Executive Board Member Bernd Leukert delivered one of the most efficient keynotes in the history of SAP, perhaps the only keynote in the SAP historical record that ended fifteen minutes early.
+Snark aside – that’s not a small achievement. If you’re pushing the intelligent enterprise, and it takes a bloated, three hour keynote to explain it, you’ve become a contradiction. But SAP could have used that last fifteen minutes and still pulled off a concise opening.
+Update/fact check: Björn Goerke’s team has successfully proved that Goerke was in fact (probably) the first SAP keynoter to end a keynote early. See end of post for pictorial evidence.
+Why not use it to bring community members building that awesome stuff on stage?A good place to start: the SAP Mentors and code savants that played a key role in SAP’s long awaited ABAP PaaS announcement, working with SAP and doing heavy lifting on the abapGit that is a part of the puzzle (details and context here).
+
+Still owe you 1 podcast on #ABAPinSAPCP #ABAPPaaS, so here we go:https://t.co/MX3btemZaC
+Have fun ..
+(photo from last week’s mentor/SAP workshop on #abapGIT is just to get your attention 😉 pic.twitter.com/EkSwAlkQYS
+— Harald Kuck (@HaraldKuck) September 25, 2018
+(Not all of the key players are pictured here, but this is the kind of group you want to bring onstage!)
+“Show don’t tell” is still the abiding lesson for keynote success – but let your community do the showing. Your demos pale in comparison to theirs.
+Instead, we got only a short testimonial video from customer Shell, and a partner segment that left a lot to be desired:
+
+Vertex apps partnership – good use case. Deloitte? of course they’re in, would be bigger news if they weren’t. Now let’s hear from smaller shops and individual developers building kickass things, or will be opportunity missed. #sapteched
+— Jon Reed (@jonerp) October 2, 2018
+That said, Leukert presented SAP’s view of the intelligent enterprise in a crisp way that improved upon what we heard at Sapphire Now.
+The rest of my questions linger, but that’s to be expected. They’ll play out over the full TechEd season, with my colleague Den Howlett adding his own inquiries at SAP TechEd Barcelona. I have a full plate in two days ahead:
+
+So I open up my #sapteched schedule from master cat herder @sfishy and it’s loaded to the gills with 1:1 customer meetings. A real show of strength on SAP’s part and the most by far of any show in 2018. When vendors can pull this off it bodes well for that show.
+— Jon Reed (@jonerp) October 1, 2018
+Swamping me with customers is a very savvy move on SAP’s part. In fact, one of them – Dow Chemical – already addressed a question from my list. But events always bring twists that change your focus. In this case, SAP had three news announcements:
+
+Announced today at @SAPTechEd ????
+1?? #SAPCP ABAP Environment is now GA
+2?? Kubernetes as a Service
+3?? SAP Cloud Platform Functions pic.twitter.com/Day8YScBY7
+— SAP Cloud Platform (@sapcp) October 2, 2018
+All three fit into SAP’s case for more openness. After too many years of “let’s re-invent cloud computing in Walldorf,” SAP is embracing the principles of open source, APIs, and support for customer choice in a multi-cloud world.
+TechEd news – “why can’t ERP extensions be serverless?”
+Yes, these “open SAP” ideals walk a tightrope with the Wall Street revenue dance, but, for example: SAP Cloud Platform is increasingly aligned with Cloud Foundry; SAP didn’t try to build their own Kubernetes imitation, but went with the industry standard, and so on. And SAP talked “serverless ERP” for the first time:
+
+.@LeukertB asks:
+“Why can’t ERP extensions be serverless?”
+-> good question 🙂
+SAP announces (ERP) “functions as a service” via SAP cloud platform at #sapteched…. demo in action now 🙂 pic.twitter.com/7YIEE6qI4z
+— Jon Reed (@jonerp) October 2, 2018
+Donnie Berkholz, master of the pithy tweet across multiple event streams, got it done:
+
+I took that question up with Leukert in the post-keynote Q/A. The answer from Leukert and Björn Goerke, CTO of SAP and President SAP Cloud Platform at SAP, warrants sharing in its entirety – look for that on these pages soon. But the short version is: SAP gets that the implications of serverless go beyond on-demand ERP to on-demand pricing models.
+And yes, Leukert said some SAP customers are expressing interest in this type of pricing, though with the expected concerns on pricing predictability for budget forecasting. For now, SAP is looking at pricing new services with this type of model (and, you could argue, SAP’s optional document pricing model is a transitional, if bulky, approach to consumption-based pricing, though not serverless computing).
+ASUG CEO view – keynote reactions
+I got a different take on the keynote during my sit down with Thomas Wailgum and Geoff Scott, CEO of ASUG. Scott:
+We got a glimpse of “intelligent enterprise” in Orlando in June, right? But largely speaking, it was welcome to see a little bit more meat put on the bone in this particular keynote. I don’t know that I can delineate intelligent enterprise from Leonardo. But I appreciate that at least we got to see a little bit more information on what SAP thinks intelligent enterprise is.
+Scott’s view is that we need a dose of practical things customers can use today. So I asked him: why not bring an old school ABAPper on stage and show the audience what he or she can do on the ABAP PaaS?
+Why not? I understood the [ultra-personalized] automotive example… I appreciate the vision. But you didn’t take it back and say, “Okay, and here is what you could do today.” And here’s the steps that you guys should take in the next six months that would help you.” That piece wasn’t there, right?
+But we place too much stock in keynotes. Wailgum and Scott proceeded to give me some highlights of the previous day’s Executive Technology Summit, where SAP customers and ASUG members talked shop. One big theme: addressing the data that must be integrated if the enterprise has a shot at intelligence.
+Scott shared a practical customer story about IoT and SAP integration (SAP’s IoT offerings are arguably the most mature part of Leonardo). The example came with labor union concerns about the impact of IoT/SAP integration on jobs.
+Wailgum added this one:
+One customer had a great example. “The data,” he said, “you know, everyone’s talking about data lakes, data lakes, data lakes.” He said, “right now, there’s a lot more data swamps than there are data lakes.”
+Sounds like the right issues are getting aired. As for the ABAP PaaS, I won’t say more on ABAP on the SAP Cloud Platform yet, as I have a mystery podcast guest coming who should bring clarity and outspoken views on that.
+My take – a community reboot in progress?
+Today, I saw a more dynamic community section on the show floor than I have in years. Craig Cmehil is the newly-promoted Head of Communities & Influencers, SAP Developer & Community Relations at SAP (nice job title!). That’s one of the smartest moves SAP has made on the community side in a while. Cmehil brought community legend Marilyn Pratt back to SAP TechEd this year, and she brought her son. That stirs even the cynical hearts:
+
+Community Showcase first session of the event @SAPCommunity #sapteched with the amazing @marilynpratt pic.twitter.com/CjqEselMqH
+— Craig Cmehil (@ccmehil) October 2, 2018
+Cmehil and I don’t agree on everything, but he gets that community is about forthright communication and new experiments, not BSing people about the good old days that aren’t returning. Cmehil’s team needs another year for a true assessment of their progress, but at least on day one, the funky community spirit I didn’t see on the keynote stage was out there on the floor.
+I recently got into an argument with someone who insisted that enterprise software companies like SAP should avoid politics. I don’t agree. Though in SAP’s case, they don’t need to be political, they just need to be unabashedly global at a time when too many have lost their way in nationalistic, anti-immigrant myopia.
+Workplace diversity is something SAP is genuinely committed to, so it’s a shame when they miss a chance to assert it. Leukert seized the moment:
+
+.@LeukertB shifts to say the truly “intelligent enterprise” should foster talent regardless or race/gender/sexual orientation
+no matter your background, from youth to veterans-to-work, you need access and a chance to be a part of this.
+important. #sapteched
+— Jon Reed (@jonerp) October 2, 2018
+When I hear that, I think that SAP has a real shot at attracting the next-gen talent needed to build next-gen software. Next up on my SAP TechEd editorial plans: customer use cases, including a customer on an older SAP ERP release that is building out UI5 apps on the SAP Cloud Platform, without needing to upgrade to S/4HANA to do it. That speaks volumes – and helps to address one of my top TechEd questions.
+End note and keynote timing evidence: as I noted, Björn Goerke’s team has successfully proven that at SAP TechEd 2015 Barcelona, Goerke’s keynote concluded at 1:02 mark – a whopping 28 minutes early. Not content to rest on the laurels of brevity, at SAP TechEd Las Vegas 2017, Goerke also finished at the 1:15 mark, a full fifteen minutes early. Then, before he lifted off onboard the intelligent enterprise, Goerke wrapped in Barcelona at 1:21 in 2017.
+ As per my enterprise keynote survival guide, brevity is not the only criteria for a successful keynote, but finishing concise keynotes on time is a powerful message to customers. If your keynotes finish on time, maybe their projects will too.
+
+Goerke’s pioneering work in this area deserves a place in SAP’s history books. But one burning question remains: if technology-oriented keynotes can be concise, then why do we wind up with keynote bloat at SAP’s business-focused Sapphire Now? Where is Spock when we need him most? Some of Goerke’s proof points, with time stamps:
+
+
+ 
+Image credit - Feature image via SAP Cloud Platform Twitter handle. Disclosure - SAP paid the bulk of my travel expenses to attend SAP TechEd 2018. SAP is a diginomica premier partner.Read more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackIoT robotics and AI 

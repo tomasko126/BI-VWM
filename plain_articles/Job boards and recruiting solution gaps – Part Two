@@ -1,0 +1,106 @@
+
+In part two of this article, we  look at:
+
+The quality vs. quantity issues with job boards
+The relationship between job boards and corporate recruiters/corporate HR systems
+What is needed for these solutions to really add value
+
+The quantity vs. quality problem with job boards
+To hear a job board tell it (and it’s what Wall Street values), the more resumes/profiles in a job board, the better. A couple of these already have over 1 billion profiles on file. Job boards aren’t necessarily focused on quality of resumes, it’s a quantity focus first and foremost. Unfortunately for jobseekers, a job board with one-hundred million resumes on file and only 20,000 job listings is going to be a waste of time/effort. The best marketplaces have balance so that both sides can experience something positive. Lopsided marketplaces aren’t sustainable over time as one party gets little to no value and the other gets almost all of the value.
+More job board technologies should provide statistics to their users so that they can understand:
+
+The odds of them ever getting a job via this resource
+The ratio of jobseekers to available postings
+The average salary/hourly wage offered to jobseekers
+The number or percentage of third parties they have removed from their site
+The number of employers that they’ve made change their policies to be more inclusive
+The distribution of jobs by pay offering (e.g., are most jobs entry level or unskilled positions)
+Etc.
+
+To write about HR technology, I frequently use my own information to test out the functionality in these products. One of the larger boards, LinkedIn, did provide me with some statistics recently. They intimated to me that in the last six months:
+
+What LinkedIn is not telling me is WHY these numbers are the way they are.
+
+Why is this resume appearing in so few searches? Is it because they don’t have a lot of recruiters using their software? Is it because the recruiters that use LinkedIn aren’t looking for senior IT people? Is their search tool too basic or incapable of Boolean strings?
+Why did only 36 recruiters view my profile when it popped up it in 7.5X more searches? How did these recruiters ‘know’ not to view my profile (e.g., my profile photo shows me to be an older white male)? What causes a recruiter to not even open a person’s profile? Does LinkedIn push other peoples’ resumes to the top of the search results? Are the searches turning up tens of thousands of results and only those on the first page or two ever get seen?
+How can a candidate appear in more searches?
+How can a jobseeker appear near the top of the search?
+Is LinkedIn pleased with such little traction? When presented with these numbers, my opinion of LinkedIn is not positive.
+
+By the way, of the two messages I did receive from recruiters, one of these is a professional resume writer who was contacting me about an earlier piece I’d written on diginomica. The other was a headhunter who was simply trying to add contacts into his database.
+Job board sites are heavily geared to serve employers who need tens of thousands of new employees annually and not the occasional Accounts Payable Supervisor. And, if your firm needs lots of the same kind of employee (e.g., sales clerk, warehouse fulfillment worker), that’s even better.
+The Pareto distribution rule may apply to many job boards as 80% of the jobs listed may be for low-paying, high-turnover positions and less than 20% of the positions are for people who are skilled, accomplished and moderately to well paid. Job boards make money on job listings so, of course, they’ll fill their site with the high-volume/high turnover deals as they are plentiful and more cost effective to sell.
+This focus on quantity is what makes for a disappointing experience for a number of jobseekers. And, it’s why experienced workers can’t rely on job boards. No, they still have to do their job search the hard way via networking, connections, cold calling, etc.
+Job boards have some other interesting dynamics at work. Employers frequently want to hire people who will accept a starting wage in the bottom 50 percent of prevailing wages for that position. If you’re a highly skilled, experienced and accomplished individual, you won’t find jobs on these boards that pay what you’re worth or expect.
+You don’t have to be a math expert to realize that ALL employers can’t hire people who are in the bottom two quartiles of compensation. Half the workers already employed in those roles make above the mid-point already. So, why don’t job boards try to educate corporate recruiters as to the unreasonableness of their salary demands? How can a job board help an employer win its war for talent if it doesn’t at least try to get employers to have more realistic salary expectations? Do we need to also remind employers that the cheapest jobseeker may not be the best or longest lasting employee, too?
+If quality was a criterion for employers and job boards, then shouldn’t job boards have tools, reports, etc. that show recruiters:
+
+How rapidly a person has moved up their career path (i.e., career velocity)
+How much responsibility a person has gained/demonstrated in the last 10 years
+How strong that person’s circle of influence really is
+Which candidates are recognized experts in their field (i.e., significant awards, press mentions, speeches given, authorship of critically received papers/Intellectual Property, patents, etc.)?
+
+And, shouldn’t those tools move these quality candidates (not the keyword stuffers and fakers) to the top of the pile?
+I’d like to see career sites require that every claim made by a jobseeker require verification. Will an employment verification tool authenticate a jobseeker’s claim to have worked at specific employers? If a jobseeker claims to have expertise in a particular product or technology, where’s the certification for this? Let’s start splitting the online profile into ‘proven’ content and ‘unproven’ claims.
+The message for quality jobseekers is that job boards may be a giant waste of time as job boards cater to firms who care more about low cost hires, jobseekers who pad their resumes, and quantity of jobseekers not high-quality candidates.
+The job board/corporate recruiter relationship
+This relationship is a gigantic unknown to jobseekers. Once a resume passes from the jobseeker to the job board, all knowledge is essentially lost to the jobseeker. For the most part, data flows only one-way.
+
+The problem gets compounded as:
+
+A single job board may interact with tens of thousands of different enterprise customers, each of which has its own recruiting and HR/HCM technologies
+Few firms recruit the same way
+Few employers are willing to share why they rejected an applicant or even if they’ve even read the applicant’s resume
+
+In fact, most jobseekers will never get a peek into the opaque black-box of corporate recruiting unless they win the lottery and get called in for an interview. Corporate recruiters just don’t provide feedback even to the job boards, let alone to the jobseekers.
+And that is a huge missed opportunity. Jobseekers don’t really know anything about their application status as they aren’t directly interacting with the recruiter. In many situations, the job board will not tell you anything about recruiters. You don’t know who looked at your resume or what they thought of it.
+I suspect a large part of why recruiters don’t pass feedback back to job boards and jobseekers is because they discriminate and they don’t want to leave an evidentiary trail. Recruiters that will not look at older workers, persons of color, women, etc. are discriminating. They may provide all manner of excuses for their behavior (e.g., this person is too experienced (i.e., old) to accept the bare bones wages we offer) but it’s still discrimination. If your recruiters are trying to find low-cost workers, they may be tempted to only look at persons fresh out of school or new to the country. If it’s a high-tech firm, recruiters will assume older programmers don’t know newer coding languages and reject these candidates out of hand.
+Fellow diginomica writer and former recruiter Jon Reed adds:
+Also, many external recruiters have either skated or missed out on anti-discrimination job training. They can create liability for employers by putting their own exclusionary or bigoted language in their versions of a company’s job order, which then gets posted on job boards. This limits the applicant pool while creating a backdoor of unwanted liability for the employer.
+No matter the reason, the opaque environment can hide a multitude of sins and shame on job boards and social media firms for not insisting on more transparency. In particular, jobseekers should know which firms are accessing their information and have access to stats like:
+
+Average age of worker in this firm
+% of hires with salaries/wages above/below the 50% percentile mark
+Percentage of workforce with less than 4 years’ experience (to see if the firm has a bias for low-cost recent graduates)
+Percentage of new hires with less than 4 years’ experience (to see if the firm has a bias for low-cost recent graduates)
+
+Job boards should insist that every resume that is accessed via search or download MUST receive a reason for not being selected.
+In another experiment, I put my resume in play recently for VP-Technical Project Management role with a major ERP firm just to see what would happen. Yesterday, I received an email from Workday (the HR product this ERP firm uses) telling me that:
+We have reviewed your qualifications for the Vice President TPM position, and we were very fortunate to have a strong group of applicants to consider for this role. We wanted to let you know we’ve decided to move forward with other candidates.
+That’s interesting as I’m a former Accenture Technology partner and I’ve led some of the biggest global projects out there. I’d kind of like to meet those better qualified people. Regardless, what this experience reinforces for me is that no human being is actually reading these applications/resumes. An ATS kicked my application out and I got a form letter. This answer I received is worth less than nothing as it doesn’t really state why I wasn’t selected.
+If a real human being did not review the resume and the resume was mechanically discarded, then the jobseeker should know why the ATS rejected it. For example:
+
+Did the resume not include key words/terms/product names/etc. and, if so, what were these?
+Can the candidate game their resume with more keywords and re-submit the application?
+Did the resume have technical problems with the ATS (e.g., graphics in the resume prevented accurate parsing of the data) and what were the specific issues? Again, can the candidate re-submit the application?
+
+And, of course, for any candidate that was not selected, will the employer provide an anonymized resume of the selected candidate(s)?
+Would employers do this? I think some of the great employers could do some of it but most will be too lazy or too embarrassed to tell the truth. Yes, some employers would object as they may get thousands of applications for a single position. But, those employers could provide some overall feedback to the masses of rejected persons.
+What’s Needed
+For jobseekers, job boards and social media sites should offer:
+
+More useful statistics for jobseekers
+More transparency re: where their data is/has gone
+More controls for jobseekers to protect their privacy
+More insight into how jobseekers can be found in more searches and get their resumes viewed by employers
+A tool that shows how their ATS/resume parsing technology is borking up the candidate’s resume and how that can be corrected
+
+As to how job boards and social media sites should interact with employers, it would help if job boards were more directed in their interaction and insist on better recruiter behavior (e.g., proof of non-discrimination) and a commitment to 100% error-free ATS tools.
+This process area needs two-way (not one-way) communication. Providing this would greatly improve the value for everyone involved. Bi-directional information would make the process more transparent.
+Recruiters should provide concrete and specific proof of why an applicant was rejected not some generic “more qualified candidates” statement.
+And, of course, job boards need to really police their ecosystem. Get rid of the hucksters preying on jobseekers. Limit the number of jobs a person applies to each month so that the volume of dubious resumes a recruiter must sort through go down. And purge the rolls of jobseekers who pad their resumes with keywords and unsubstantiated claims.
+Yes, that is a lot of change to process but Recruiting is heavily flawed process that needs some imaginative, daring leaders to change the space. Will any job board vendor step up to the challenge?
+Click here to go to Part One as that section covers:
+
+where the data goes or doesn’t go.
+the opaque nature of these job search aids and its impact on jobseekers
+the bad actors out there
+
+Also, check out these other Diginomica stories:
+
+If you fix one process in HR, make it Recruiting – Part 1
+If you fix one process in HR, make it Recruiting – Part 2
+If you fix one process in HR, make it Recruiting – Part 3
+Can AI help recruiters win the talent game
+
+Image credit - Freeimages/Svilen MilevDisclosure - At time of writing, Workday is a premier partner of diginomica. Read more on: Analytics planning and data analysisFuture of workHCM and the digital future of workSocialTalent management 

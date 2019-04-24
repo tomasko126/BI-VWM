@@ -1,0 +1,58 @@
+
+Thomas Kurian, CEO Google Cloud
+Google has long been in the uncharacteristic position of an also-ran in the cloud services market, but it is in equally unfamiliar territory by not being able to brute-force/out-innovate its way to the top. In facing rivals like AWS and Microsoft, Google is in a battle of equals: not just technologically and financially, but in their will to win at virtually all costs.
+Nevertheless, Google continues to push the envelope in its cloud business with a steady pace of novel new services, business models and price cuts in its quest to become the preferred alternative to AWS for both cloud-native startups and cloud-migrating enterprises.
+Much like re:Invent for AWS, Google Cloud Next is the company’s premier event for showcasing its vision, technology, business expansion, customer successes and, this year, new leadership in CEO Thomas Kurian. It’s a sign of the growing acceptance of cloud infrastructure writ large and Google Cloud in particular that Next attendance has exploded by more than 50 percent in a year to 35,000, undoubtedly helped by its San Francisco venue amidst a sea of cloud developers. Indeed, 40 percent of the session speakers are Google Cloud customers.
+One of the main attractions was to assess the implications of unseating Diane Green as CEO for Oracle’s former president of product development, a position Kurian allegedly left because Oracle Founder and Chairman Larry Ellison disagreed with his cloud strategy. Whatever the reality of that, Kurian won’t have to worry about his Google superiors questioning the wisdom of an aggressive cloud vision. Indeed, his ascension to the job is widely assumed to result from a combination of his expertise with large enterprise IT organizations and the tepid success Green had at winning such businesses over to Google Cloud.
+Announcement highlights
+Kurian has rapidly made his mark on Google Cloud as evidenced by a decided shift in keynote programming that emphasizes business partners, customer case studies and a rapid expansion of the organization’s enterprise sales force. In an interview with the Wall Street Journal, Kurian estimated that Google Cloud’s sales staffing is about 7 to 10 percent the size of those at AWS and Azure. He plans to narrow the gap to half their size, i.e. to increase the size of Google’s sales staff by 5- to 7-times within two years.
+ 
+Kurian’s opening keynote covered three themes:
+
+The strength and benefits of Google’s global-scale distributed infrastructure along with the features and improvements Google Cloud is adding this year. These include HA features like live migrations of GCE instances to non-disruptively apply security patches, encryption applied by default to all stored data and massive new large-memory instances of up to 12 TB for SAP and other resource-intensive applications. As expected, Google announced the continued expansion of its infrastructure footprint, planning to add regions in Salt Lake City and Seoul by next year, hitting 23 regions in 2020.
+
+
+2. Google Cloud as a digital transformation platform, namely an application environment and service portfolio featuring the latest data analytics, machine/deep learning, container and serverless technology that can foster an organization’s strategic new products, business models and processes.
+3. A growing portfolio of industry-specific digital transformation solutions that are designed and implemented in collaboration with customers and technology partners to solve business problems unique to particular industries. The industries and partners Google is initially working with include:
+
+Healthcare with McKesson, BrightInsight, Virta Health, Phillips and American Cancer Society
+Financial Services via work with JP Morgan Chase and ANZ Bank
+Telecommunications, Media & Entertainment with National Geographic, Sprint, USA Today, Viacom, DISH and several others.
+Retail by working with Unilever, Procter & Gamble (P&G), IKEA, Tyson Foods and Nestle
+Manufacturing & Industrial via Bose, UPS, Renault, Samsung and Enel
+Public Sector and Education with the U.S. GSA, Department for Transport, Australia Post, Georgetown and UNC Chapel Hill
+
+Containers everywhere
+Many people, myself included, have long predicted that Google would use containers as the Trojan Horse to break down the walled gardens of other clouds, notably AWS. GKE, its CaaS product, and PKS, the product co-developed with Pivotal that provides a unified public-private CloudFoundry PaaS, provided an inkling of how containers could be used across deployment environments. At Next, Google introduced the culmination of its container-based grand unification theory: Anthos.
+Anthos, which is an evolution of the Cloud Services Platform Google announced last year, provides a multi-cloud container environment based on Kubernetes (cluster management and workload orchestration) and Istio (service mesh) that works on:
+
+Google infrastructure, both GKE and raw GCP instances
+On-premises infrastructure such as GKE On-Prem and VMware
+Competing clouds like AWS and Azure
+
+To simplify the migration of legacy applications to containers, Anthos also includes migration software that transforms VM images into containers and deploys them onto Anthos infrastructure. Google has wrapped Anthos with a variety of management features such as centralized security policy definition and enforcement with role-based access controls and private application/service catalogs.
+Google has also enlisted hardware partners, ISVs and system integrators like Cisco, Dell EMC, HP Enterprise, NetApp and Robin.io to adapt their server, storage and HCI products for Anthos and provide validated systems. Such turn-key solutions are necessary to reduce the friction for enterprises seeking to build hybrid container application environments.
+Managed, portable serverless containers
+As mentioned, Google has been a prolific innovator and tireless advocate for container technology, which undergirds many of its consumer and internal services. As the first major cloud vendor to offer a managed cluster service based on Kubernetes, which has since become the industry’s de facto standard for container orchestration software, it was surprising that Google Cloud let Azure (ACI, see my overview here) and later AWS (Fargate) beat it to market with container instances that don’t require managing the underlying VM hosts. At Next, Google at least partially filled this void by announcing Cloud Run Serverless Containers.
+Like ACI and Fargate, Cloud Run is a managed container platform, however, unlike competitive offerings, it is designed for the particular scenario of stateless, HTTP-based applications. Cloud Run handles all the details of infrastructure provisioning, configuration, management and scaling to handle changing workloads. Indeed, to save money Cloud Run eliminates all instances if there’s no traffic. As with Fargate, Cloud Run can operate on managed Kubernetes clusters, GKE in this case, that can be deployed either on Google Cloud or on-premises via Google’s hybrid container service.
+Cloud Run is based on the Knative project, a form of application middleware for Kubernetes environments that provides an API layer for typical application use cases such as traffic routing, node/pod scaling, application compilation and deployment and event management. Knative effectively provides an open source, portable serverless development platform that can run on both GCP or self-managed Kubernetes infrastructure. Thus, developers can build, test and initially deploy Knative services on one environment, say a small on-premises cluster and scale it to GKE to handle production workloads.
+Google also announced enhancements to its Cloud Functions event-based serverless product including updated language support, a portability framework for Node.js functions, the ability to create private VPC network connections and more granular control over function access and scaling.
+A one-stop shop for open source-based services
+Every cloud vendor preaches the virtues of open source as a way to assuage one of the biggest fears of enterprise cloud users, lock-in, however Google took it a step further by announcing “strategic partnerships” and platform integration with companies that have commercialized seven popular database and analytics packages:
+
+Confluent (real-time event streams)
+DataStax (hybrid distributed database built on Apache Cassandra)
+Elastic (data management and visualization stack)
+InfluxData (time series database for monitoring, application telemetry and sensor data)
+MongoDB (distributed, document-oriented NoSQL DB)
+Neo4j (graph database)
+Redis Lab (distributed in-memory key-value store commonly used for caching)
+
+Unlike a traditional cloud marketplace, Google will provide these products as managed services that are administered, billed and supported using the existing GCP console, billing system and customer support processes. Google will work with each company to optimize each product’s performance and security for the GCP platform and better integrate them with its existing services, notably identity management (IAM) and monitoring (Stackdriver).
+Kurian took veiled shots at AWS over its open source lip service by claiming the mantle of a win-win partner for developers like Redis and MongoDB seeking to commercialize on their open source contributions. Yet it remains to be seen how different its efforts will be from the AWS Marketplace, with success depending on how tightly third-party services are integrated into the GCP management platform, billing system and support processes.
+My take
+This isn’t the first time Google Cloud has touted enterprise outreach with services and programs designed to woo big businesses from AWS. Nonetheless, the message seems to have more teeth behind it this year with a new CEO familiar in the ways to CIO schmoozing and enterprise sales processes paired with its rounding out a hybrid infrastructure portfolio via Anthos and its various hardware and OSS partnerships.
+Google joined the chorus of other cloud vendors by preaching its devotion to the hybrid cloud as the gateway for enterprises to adopt its services. In that, hybrid cloud is analogous to the early days of TV streaming in which Apple, Amazon and Google built devices that complimented the existing cable bundle, but paved the way for future cord cutting. For enterprises, cord cutting means ditching their private infrastructure and becoming entirely reliant on an amalgam of public cloud XaaS products.
+Containers are the gateway to such a future that culminates in replacing monolithic enterprise applications with a mix of services, many of them serverless, i.e. consumed on-demand and without regard for the underlying runtime infrastructure. Should the future play out this way, we will look back on Google Next 2019 as a milestone in greasing the skids via containers, serverless services and hybrid support for legacy systems and an aggressive sales push with customers and partners.
+ 
+Image credit - Google Read more on: Cloud platforms - infrastructure and architectureCRM and customer experienceInfrastructureInternet of ThingsIoT robotics and AIMachine intelligence and AIProductivity 

@@ -1,0 +1,52 @@
+
+Diane Streche of Adore Me
+If I had to pick the biggest themes of this year’s customer interviews, two contenders would be: the push to turn data into a real asset, and the reality that user adoption is everything.
+Buying unused shelfware used to be a problem; now it’s a career-killer.
+So, at Looker JOIN 2018, when Adore Me’s Diana Streche told me she was about to speak on analytics user adoption, she had my attention. As she jokingly told me, she’d be giving the audience “magical insights.” Care to share the magic? Streche:
+It’s basically been a process from starting as a very technically oriented person with a mind for code, to actually learning the user side of the story, and how to mediate between those two sides.
+It wasn’t exactly smooth sailing though:
+It’s been a three year journey, to the point where it’s actually successful now. It was a nice ride with lots of different learnings.
+If you want business users to adopt, selecting the right tool is crucial. But, doesn’t the role of the analyst have to change as well?
+Yes, and that’s been part of the journey. Learning that part has actually made the user adoption possible. Because before Looker, it was difficult – I could just get nobody in. They were all just using their separate Excel files.
+The Adore Me difference
+I might be a good foil for talking analytics, but maybe not when it comes to talking about women’s apparel. Adore Me is a women’s intimates company based in New York City. The company manufactures and sells lingerie, sleepwear, swimwear, activewear and more. So, I had to defer to Streche on this one – what’s the Adore Me difference?
+First off, we have a large range of sizes that we cater to. We have sizes from petite to plus, and everything in between. We want to bring beautiful products to all women out there, regardless of their size, which is a problem when you’re not in the common range of sizes.
+No more being happy with something that fits:
+We give them something that makes them feel special. They look in the mirror and they feel pretty. So it’s mostly about self-image, and empowering women to feel beautiful.
+Sounds like a worthy mission. And how it is going?
+It’s actually working. It’s really nice to see the customer feedback on it, and the reviews that they leave, and how our products actually make them feel better about themselves, or they make certain situations better for them.
+Putting Looker to the test
+Serving customers in an exceptional way means using customer data the right way. So how does Looker enter the picture? It all began three years ago, when Adore Me decided to move to a separate reporting platform. Prior to that, Streche provided manual data sets by request, the old fashioned way: SQL reports. But that wasn’t going to scale with Adore Me’s growth. The new reporting platform led to Looker:
+We moved onto a reporting database, and we thought “Okay, let’s put something on top of it; let’s get an interface over it.” My lead at the time found Looker, and we started using them.
+Streche was skeptical at first.
+I just got put in front of Looker, and was told, “You’re going to show this to one of our business users.” I’m like, “I don’t even know how to use it. How am I supposed to show it to them?”
+Once she put Looker to the test, that changed:
+The selling point for me was that in a half hour, me and the other person, neither of us knew how to use Looker. But we actually had a productive session and got what we went in there to get. For me, that was eye-opening. I thought “Okay, yeah, we’re keeping it. I love it.”
+Scaling Looker up wasn’t always easy. There were architectural lessons in store:
+It was a bit of a rollercoaster. We went through some challenges on infrastructure and how to build the actual models and fields, and how it all interacted together. But once we figured out a recipe on how to do that in a way that our users could [work with], then it was just smooth sailing from there.
+Empowering business users to crunch their own analytics
+So how are the users applying Looker data? Are they looking up questions pertaining to customer insights, or product development?
+Looker is where we keep our core data, and our common truth that is company wide. People go in Looker for various reasons, whether they want to analyze certain campaigns, which could be one-time things. Or they want to monitor our metrics, like revenue and cost-per-acquisition.
+Or they’re just in there to explore. Maybe they’re looking for answers to problems that they’re seeing. They’re looking at the data for solutions. So I’d say it’s a pretty diverse range of usage.
+Streche has an evil plan of her own: retire from building reports.
+My approach is that I don’t make reports anymore. I’ve told them this upfront: “I’m not going to make anything for you, but I’m going to show you how to do it yourself.”
+Officially, she is still the report creator and Looker support expert, but there’s been a big shift:
+Generally, I am not the one that makes their content; they make it themselves.
+The Looker benefits run down
+Streche cited these Looker benefits:
+
+No more BI bottlenecks – “The fact that it was now self-service allowed them, first of all, to have fast reaction times. They no longer had to wait for me to get them that data.”
+No more arguments about data integrity – “It allowed them to no longer fight over which revenue is the right revenue, and instead just talk about the things that really mattered, and push the business forward.”
+Dashboards enable fast course corrections – “There are dashboards all over the place now. Which is a huge help, because it allows us to react to problems as soon as they appear, instead of letting them fester in there for days or months.”
+Data analysts can focus on problem-solving  – Now, instead of manual report requests, Streche’s team can focus on resolving data questions: “Business users can just come to us and say, ‘Hey, these numbers don’t look right, can you check this?’ We have the data; we have Looker; we have the code; we can see what’s going on right away.“
+
+The wrap – how do data analysts change?
+It’s always good to hear a user adoption story with clear benefits. But for me, the highlight was hearing Streche talk so openly about her own transition. To become a user-focused analyst, you have to let something else go:
+That’s something everybody should think about when moving onto something like this. “Well, if I’m not doing this anymore, what am I going to do? Am I still needed?” The thing is, you’re just moving onto something different… You’re still useful, just in a different way.
+The shift comes in two aspects. The first part? Empowering business users to analyze their own data. That means finding a commonality of purpose across old silos:
+They’re just trying to do their job, as am I. Let’s see how we can work together. Let’s make a solution that makes both of us happy.
+Then there’s a move from the nitty-gritty of building reports, to a more strategic role:
+For me, that shift was not having to do SQL day in and day out. It actually gave me time to improve on the data infrastructure and improve on Looker, and how I can get the data better out there better. It was just a completely new set of challenges.
+Given the AI/ML buzz at Looker JOIN 2018, Streche knows there’s more change ahead. They have a data scientist on their team who is already knee deep in projects. Streche, as usual, is balancing curiosity with the skepticism of a numbers person: “We’re not jumping onto something just because it’s the hot new thing.”
+Streche sees the potential for machine learning and predictive analytics across large customer data sets, but that work is just beginning. Yep – another challenge. Nothing a semi-retired report creator with an appetite for change can’t handle.
+Image credit - Feature photo is from Diane Streche's LinkedIn profile.Disclosure - Looker paid the bulk of my travel expenses to attend Looker JOIN 2018. Read more on: Analytics planning and data analysisCollaboration sharing and digital productivityDigital enterprise in the real worldFrictionless enterpriseUse cases 

@@ -1,0 +1,37 @@
+
+Zoom loaded me up with customer use cases at Zoomtopia 2018, but they weren’t done. Soon after the show, they had me talking to Zendesk, to find out how Zoom fits into Zendesk’s service-on-any-channel approach.
+Chris Rouge, Senior AV Project Engineer with Zendesk, definitely has the Zendesk message down. As he told me:
+Zendesk builds a customer service platform – the best customer experiences are built with our software.
+That message spread internationally. As of 2017, Zendesk had more than 100,00 paying customers in 150 countries and territories. So what’s Rouge’s role in spreading the Zendesk service gospel?
+My role at Zendesk is to make sure that my customers – our employees – have the best experiences with video conferencing, and all of the different audio/visual solutions around the globe. That’s kind of my role here. I look after Zoom as a service. I look after all the hardware installed in the conference rooms, and looking at making sure that my customers have the best experience.
+Given the expectations today’s customers have for immediate, personalized service, you can’t afford problems on the back end, right?
+Agreed. We think we’re up there with the best. Creating our platform makes it frictionless for customers. It’s easy to implement, easy to use, easy to scale. That’s one of the reasons that we like Zoom. Zoom also creates this frictionless experience for employees. They can hop on a Zoom call in seconds.
+“We had a plethora of video conferencing tools”
+But it wasn’t always that way. Rewind two and a half years, around the time that Rouge joined Zendesk:
+We had a plethora of different video conferencing tools within the environment. It was kind of a mess. No one knew what tool to use. One department was using one tool. Another department was using a different tool. We had to work on this collaboration and simplification of the tool set.
+Three years ago, Zendesk embarked on a video conferencing evaluation process. Ultimately, Zoom was selected for the global rollout. So what stood out about Zoom?
+I think it comes back to that simplicity and that frictionless customer experience.
+Changing employee productivity for the better
+Requirements included a stable, reliable desktop client, easy use from laptops across the globe, and integration with conference room systems. Prior to Zoom, that last one was a headache:
+We’ve got offices around the globe. Before Zoom, the process of getting into a conference room was complicated. In a lot of the meetings, you’d have a five to ten minute window of people fumbling around trying to get connections working.
+One of the huge criteria for us was to reduce that time. We needed something very simple. We were losing productivity as a company.
+One question on my mind: how did Rouge’s team know that Zoom was going to work out? Yes, it’s nice to find an intuitive product and catch a good demo, but how do you know employees will embrace it?
+Rouge said his team already had experience with about six different video conference tools. They narrowed the selection to two, putting both tools through their paces via proof of concepts with the Zendesk’s IT team. Rouge also pulled in power users, employees, or customers in his vernacular, who had technical requirements and a desire to participate. Those folks were then surveyed on their experience:
+The overwhelming majority said that Zoom was the best. It was easy. People didn’t have to think about it. It was clear… That’s important to us. You’re trying to do an interaction with somebody. You need to be able to understand, and be able to see them, and be able to have that crisp, clear communication line.
+And when they rolled Zoom out globally, was the decision validated?
+100%. I’ve been working in I.T. for a few years now. I’ve seen a lot of different deployments of different tools. Without question, we’ve gotten the most positive feedback from Zoom out of any tool that, I think, our organization has deployed.
+So, two and a half years ago, the global Zoom rollout began:
+Once we decided that Zoom was going to be our video conferencing tool of choice, we got rid of everything else in the environment and moved everybody over to Zoom.
+In about a month and a half, all employees in the company were live on Zoom (about 1,200 employees at the time). During the next six months, Rouge and team rolled out Zoom Rooms to every conference room:
+Now folks can go to every office and walk in the conference room and see exactly the same thing as they saw at their home office. There’s no confusion around, “What tool do I use?”
+The wrap – integration matters
+We talked about the reality of change management. Rouge acknowledged that even with a popular tool like Zoom, some folks are going to push back. He says they work to educate those users on what the Zoom platform can do, and “how much easier their lives can be.” But, Rouge accepts you aren’t going to please everyone: “We try to shoot for pleasing the 95 percent.”
+Rouge hit on another key aspect of Zoom: integration (this issue also came up during my interview, Zoom CEO on the new wave of collaboration – customers want best-of-breed, with no weak links).
+Rouge’s team put that to the test with their Zoom and Slack integration. Since you can add the Zoom app to Slack, that means from a direct message, or a Slack channel, a Zendesk employee can start a Zoom meeting, and share the link with everybody in that channel. Rouge says those kinds of integrations will be crucial going forward:
+That’s where we’re continuing to look at improving, to see how we can integrate Zoom into our pivotal business systems; that’s the future for us. Integration and making it this ecosystem where everything talks, and everything works together.
+Since Zendesk rolled out Zoom to 1,200 employees, that employee count has grown to 2,600. They are all Zooming:
+Even as we’ve grown, every employee still gets a Zoom account by default.
+Onboarding is a snap:
+Even the process of getting, signing a license is even simple. All they have to do is go into their SSO application and click the Zoom app and boom. They’ve got a license; they’re in. There’s no need to request a license. There’s no, “Hey, can you approve this?” Everyone just automatically gets this license.
+Sounds pretty frictionless to me.
+Image credit - Zoom Rooms feature image is from Zoom.com.Disclosure - Zoom paid the bulk of my travel expenses to attend Zoomtopia 2018. This interview was conducted after the conference by phone. Read more on: Collaboration sharing and digital productivityCRM and customer experienceCustomer service managementProductivityUse cases 

@@ -1,0 +1,69 @@
+
+Karen Hinson of Chick-fil-A speaking at NRF 2019
+If there’s one overriding theme of NRF 2019, it’s not “retail-tainment”. It’s not frictionless checkout. No, it’s not Alexa. It’s not BOPUS (buy online, pick up in store).
+It’s putting data to work. Add retail to the list of industries where data has become an obsession – the driver of all the visionary tech. If you can’t harness your customer/supplier/employee data, forget about competing with Amazon.
+That message came through loud and clear during a day one presentation on Chick-fil-A’s evolution using visual analytics. Presenter Karen Hinson shared field lessons on three essential points:
+
+Move aside Google and Facebook – we’re all in the data business now.
+Retailers that excel at applying customer data have a big market edge.
+Without modern data and analytics tools, we can’t keep up with our customers.
+
+Hinson is the head analyst on the performance team at Chick-fil-A. What does the performance team do?
+My job is all about measuring the health of the business. I look into metrics like sales, transaction count, profit.
+We are all data companies now
+We might think data is a universal asset. Not so, warns Hinson:
+In the real world, one business often has more or superior information than another. Whenever that happens, the scales are tipped in their favor. Companies that can figure out how to leverage data to make better, faster decisions have a major advantage in the marketplace.
+Chick-fil-A is a Tableau customer (Tableau sponsored the presentation). But Hinson told us it’s not just about modern analytics. It’s also about reaching customers in real-time. She cited a classic example from competitor Burger King.
+About a year ago, when a Burger King customer was within 600 feet of McDonald’s, they received an offer to buy a Whopper for one cent on their mobile phone. “Even fast food chains look at data to get ahead,” says Hinson. That goes for Chick-fil-A also:
+We sell chicken sandwiches, so you probably wouldn’t think of Chick-fil-A as a company that comes to mind if you’re thinking of data-driven companies. You probably thinking of the companies pictured here [e.g. Google, Facebook, Amazon]. These companies have figured out how to use data to disrupt, but what about the rest of us?
+Chick-fil-A is clearly doing something right. A quick service restaurant headquartered in Atlanta, Chick-fil-A now has 2000 locations across the U.S., and revenues of $9 billion in 2017. Hinson referred to Chick-fil-A’s “data-driven culture.” But what does that over-flogged phrase actually mean? To Hinson, it means two things:
+
+Getting the right data to the right people at the right time.
+More than just the right data, it’s about providing meaningful insights to the business.
+
+I’ll add a pre-occupation of my own: how do businesses take the right actions with data, and gain separation from their competitors as a result?
+Before and after – from reporting pain to accessibility
+When it comes to analytics tools, there’s another question we must answer: why are modern analytics tools such a difference-maker? After all, smart analysts have been assessing their business with spreadsheets and databases for decades now. Analytics software isn’t new to the enterprise either. Hinson illustrated this with a before-and-after.
+Here’s the report card on the “before”: a monthly report built with Microsoft Excel and Access that the Chick-fil-A analyst team produced starting in 1999.
+
+This report, known internally as EIS (Executive Information Systems), had its day:
+In 1999 this was a game changer. It was a powerful tool that contained detailed financial information. Of course it’s all blurred out, but it’s data for every single restaurant across a number of measures. All that data can be rolled up. So, users can look at a region, service team, group of operators for the whole chain.
+Hinson’s team provided this much-anticipated report every month for 15 years. So what was wrong with it? Four hugely problematic things:
+
+Time-consuming report creation
+Highly insecure (the price of convenience was sensitive corporate data downloaded to hard drives)
+Static data – no chance for real-time course correction
+Easy to make mistakes, hard to correct them
+
+The report had value, but the effort was extreme:
+There were a lot of folks that relied on it in our business. However, as you could probably imagine, there was an incredibly complicated, time-consuming process behind the scenes to refresh this thing every month. I know because I did it, and it was rough.
+Hinson’s team produced a slew of these reports, all with the same drawbacks. Fast forward to today: the entire process has changed.
+Today, making sense of, and storing our data, is so much faster thanks to tools like Tableau. We’re able to take the steps necessary to generate reports and update categories. We can get information in the hands of people that need it when they need it.
+Now, the EIS system is retired. Tableau visuals have taken over:
+The tablet data work contains the same information, but also several additional views. Some pages look pretty similar. However, the old access database didn’t contain any graphs. There was nothing visual. There were no trend lines.
+A Tableau screen:
+
+The screen detail isn’t clear, but Hinson provided context:
+Here you see this view of the Tableau dashboard. Graphs, lines on sales, profits, and cost of goods sold. Users can change the filters across the top to update all these graphs instantly for a specific region. A specific service or restaurant. Anything they want to view.
+The payoff is tangible:
+The time that we’ve been able to save being analysts, through automation and more efficient work – we’ve been able to put that time into content for the business.
+Now comes the “after” pic to show that result:
+
+Putting data like annual reports online in an interactive format has energized business users. C-level executives get their own customized views.
+The dashboard is entirely automated. Data refreshes automatically every single day. The dashboard was so well received that I created a similar view broken down by day part.
+Day part, for us, is very valuable data. We want to know what sales growth, transaction growth, and check average look like during breakfast, lunch, and dinner.
+We can add one more bullet point to the “why modern analytics” list: you shouldn’t have to be an IT pro to build it:
+Keep in mind I’m not in IT. I was a finance major. I’m not a computer programmer. But I was able to build this because today’s technology allows me to do that without having some of those skills.
+Result. But that brings me back to my initial questions: how is the business getting a better ROI with data?
+Hinson didn’t cover that in depth, but she did acknowledge that Chick-fil-A has popularity issues that can affect customer satisfaction. A picture of an overcrowded drive through brought the point home. Shaving time off the customer wait time makes a difference. Her team helped to apply these concepts to optimal drink storage:
+
+Storage optimization is the type of fine-tuning that matters:
+We want to optimize storage in the small refrigerators that we call low boys. They’re down underneath the front counter… Anytime a customer came in with a request for one of those items, team members were having to go back to the back.
+But because of the product based data, we recommended, “Hey, set up the fridge like this in mornings, and then in the down time. The slow period between breakfast and lunch, shift the items we store in there – like this.” This way you have exactly what you need, when you need it.
+Benefit:
+It’s already improving speed of service. It’s just one way that someone on our team was able to get exactly the right data to the right people at the right time.
+My take
+I’d like to learn more on how Chick-fil-A’s data savvy is impacting business results, but: they did a better job than most of showing the pain of the before and the benefits of the “after.” In truth, the after is just another step with many more to go. Here at NRF, it’s clear retailers of all stripes are in the same boat. If they try to implement next-gen robotic or “customer experience” tech without a data/analytics plan in place, they’re going to struggle.
+At the Intel booth today, I talked with their team about the Open Retail Initiative, which was brought about by the pressing need for device data interoperability. New digital devices create siloed data exhaust that complicates the analytics process.
+That’s another element of a problem not easily solved. But Chick-fil-A is indicative of a new group of retailers who have figured out enough to deliver something better. I’m not sure I could have said that about NRF a few years ago.
+Image credit - Photo of Karin Hinson of Chick-fil-A at NRF 2019 by Jon Reed. Disclosure - NRF provided me with a press pass to NRF 2019.Read more on: Analytics planning and data analysisCRM and customer experienceDigital enterprise in the real worldRetail e-commerce and the omni-channel 

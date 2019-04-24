@@ -1,0 +1,67 @@
+
+Lead story – Nicholas Carr was right – IT died, but was resurrected by Kurt Marko
+
+Sometimes you carry the scars of a tough critique. That was the case for Kurt Marko – and many of us for that matter – in 2004:
+Nicholas Carr cut into the heart of IT professionals in his seminal paper, IT Doesn’t Matter, arguing that IT had become commodified to the point that it offered little competitive advantage.
+Marko takes on a piece by Stephen O’Grady of RedMonk, IT Matters Again: The Enterprise of The Future Present, by Stephen O’ Grady. But Marko goes further, offering some convincing/bracing stats on the declining relevance of Information Technology from a total jobs perspective:
+If the information sector currently constituted the same share of the jobs market as it did in 2008, there would be an additional 486,000 jobs in IT and related work.
+Marko says the reason for the decline is the increase in automation and surge in cloud infrastructure and app services. O’Grady’s take is a bit different, and closer to my own:
+If a narrow [sic] definition is used and IT is taken to mean nothing more than base infrastructure, then Carr’s viewpoint remains correct. If, however, the definition of IT encompasses the entirety of an organization’s technology portfolio and strategy, however, the assertion that IT doesn’t matter could not be less accurate today.
+I’m not going to settle out whether Carr was wrong or right in this column, nor does it matter. What matters is carrying the debate into better projects. I’m not sure Carr anticipated the strategic impact IT has today, but that doesn’t mean companies are building classic IT departments anymore either.
+However you slice it, tech remains relevant. But: the means by which technology serves the business has changed dramatically. That’s a discussion we all need to have if we’re going to steer projects into the win column. Marko hits home with this warning: a new IT requires skills a classic IT shop didn’t cultivate.
+Unfortunately, the dramatically shifting IT job market and the wrenching organizational and personal transformations required to make a new IT that matters again belies [McGrady’s] contention.
+It’s on those rocks that too many tech projects still crash. Without vigilance, the reputations of those of us who advocate such transformations will crash with them.
+Diginomica picks – my top three stories on diginomica this week:
+
+Women in tech – be offended, be visible and stop feeling guilty! – Sometimes a headline says it all. Madeline continues her terrific women in tech series, with a message of visibility, but also taking a “power hour” to keep on the cutting edge. Credibility comes with that constant embrace of change.
+How a frictionless world changes the rules for growing a business – Phil applies his frictionless enterprise framework to three businesses in growth mode, all three punching above their weight.
+Finance organizations are biggest digital transformation fans – three exemplars – Want to prove you are ahead of the pack when it comes enacting digital change rather than packaging it? Then prove it. That’s what Fujitsu found in a new study, which showed that the finance industry is ahead in the digital transformation game. Stuart’s analysis puts on the brakes though. He reminds us what we’ve all learned trying to reset our freaking passwords via an automated phone system from Hades dealing with our “modern banks” – you can’t fix the banking customer experience by throwing tech at it.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Face off? Microsoft and regulation – Jerry on Microsoft’s latest, PR-friendly-but-nonetheless-laudable attempt to bring ethical issues beyond the profiteering hands of investor-craving tech companies. This time, with the implications of facial recognition in mind.
+SAP shows healthy Q2 FY 2018 cloud revs, ups outlook – a call with Luka Mucic, CFO – Den parses SAP’s latest numbers, wherein he sees a mix of positive signs and burning questions: “The long-term question has to be whether SAP can deliver industry needs quickly enough to maintain its hold on the 25 or so industries it has served the last 40 years“
+Can vendors like Workday, Salesforce ever get enough AI? – Phil asks the most obvious question in the history of diginomica, or perhaps in his erudite career. That would be a no, of course, good sir. But there are two acquisitions to assess regardless, as Salesforce buys Datorama and Workday acquires stories.bi. Under the hood, Phil finds that “while these two acquisitions have AI and analytics in common, they are very different from each other in terms of what they do.”
+
+Jon’s grab bag – It’s tempting to veer into snark when Trump collides with Brexit, but I’ll let Stuart do the honors with a global trade twist in Trump steals the Brexit headlines, but the UK’s digital plans beg many questions for global trade. Derek applies his diginomica/gov public sector smarts to a McKinsey piece on the keys to public sector change in The 5 Cs of a successful government transformation. I can think of another key to public sector change, but I can’t say it without busting the snarkometer (insert sarcastic regime change comment here). Thankfully, Derek gets us back on track with a sixth point:
+I’d also add one more to the list – Commitment to failure. Governments need to adopt a culture where failing isn’t bad. And the ability to recover, learn and move on is appreciated.
+Speaking of snark, Martin manages to keep his in check with DevOps on a mainframe? Surely not? We close the grab bag with pick-your-poison pieces from my yours truly: TrustRadius challenges software vendors to be more transparent in sales and marketing – but how? and Why customer experience is so elusive, and AI is even trickier – a chat with the implausible Esteban Kolsky.
+Best of the rest
+ Lead story – Personalization at scale: What’s the tech again? by Paul Greenberg
+myPOV: So Paul Greenberg, aka that really smart CRM dude The Godfather of CRM fell behind on his blogging. But we win, because he was compelled to toss us a chapter from his upcoming book on customer engagement as an intellectual bone to gnaw on. And there’s plenty of CRM gristle here, especially if you’re like me and consider personalization at scale to be just a few slivers of hair short of a bald head.
+In other words, not enough good use cases for a decent comb over. But Greenberg’s got some good counterpoints. What I like best: he breaks down personalization into components that show us how it can realistically be delivered. Example: his ten steps for turning data from a contextless gob of worthless clutter to an asset. Or, his distinction between predictive and prescriptive analytics and how the latter is actually in use today:
+You can, using prescriptive analytics decide what your best next action will be in, for example, a sales opportunity… Companies like Lattice Engines do that for sales and marketing, like Thunderhead do that for customer journeys, like Pegasystems also for marketing, sales and customer service… PROS uses advanced algorithms that work in real time to look at the demand, history, external conditions, airline industry comparisons, weather and a whole variety of other factors that go into the price of your airline seat.
+Look forward to reading more of the chapters and seeing how the whole argument flows. Meantime, Greenberg requests your feedback on what he has posted so far.
+Honorable mention
+
+Beware of Dante’s (ERP) Inferno – Yeah, the “ERP sins” concept is a bit of a gimmick (I’m partial to “greedy” go-lives), but this latest from Upper Edge gets to the heart of how ERP goes wrong. In that sense, many have sinned, and few have been saved. On the greed point, which is really about shortchanging process for deadlines, check this: “But do not be fooled: taking shortcuts to save on budget virtually guarantees an inferior solution in the end.“
+The downfall of Theranos, from the journalist who made it happen – The context behind a cautionary Silicon Valley tale which I wish could be clearly isolated as an exception. Only if we learn from it – and how it was exposed.
+The multiplier effect (remaking marketing priorities) – Hank Barnes gets at what B2B buyers need (and most vendors aren’t cultivating, because they can’t get out of their own way think they have it under control): “Talk about yourself and you’re on your own. Get others talking about you and the energy multiplies.”
+The agile manager – Yes, there is such a thing. McKinsey has your playbook.
+Cutting Through the Hype: When Serverless Works and When It Doesn’t – Wait, there’s hype around serverless? Any good DevOps team can provide techno pixie-dust-as-a-service.
+
+Whiffs
+I’m not sure if this is a whiff, but it sure is weird:
+
+Giant Jeff Goldblum statue appears in London https://t.co/tw4yMatsNV -> I’m all for outside-the-box marketing ideas but this is outside of outside the box
+— Jon Reed (@jonerp) July 19, 2018
+So this dude grew out his fingernails for 66 years and finally cut them off so they could go on permanent display. I don’t think this was what Malcolm Gladwell had in mind when he wrote 10,000 hours aka Outliers.
+Reader Brian Dennett passed this doozy along:
+
+@jonerp @dahowlett I commend British Airway for showing everyone how to learn GDP the hard way https://t.co/QkmDt86r81
+— Brian Dennett (@Brian_Dennett) July 20, 2018
+I’ve challenged all my customer experience pals to fix the airlines first. Well, looks like British Airways will be their customer experience Mt. Everest:
+
+So British Airways is asking for people’s personal data over social media “to comply with GDPR”, and some people are even replying directly in the public feed.
+uwotm8 pic.twitter.com/yUvCQ5Gti9
+— Mustafa Al-Bassam (@musalbas) July 16, 2018
+Sidenote – that story on the right, re: TAKEN OFF THE PLANE, doesn’t sound so copacetic, GDPR aside.
+Finally, from the ol’ PR overdose files. I recently got a PR pitch that used the classic problem-> solution structure. The problem? AI that can’t deliver:
+The two topics Human resource CTO’s hesitate to talk about, at least publicly, are the massive shortages of data scientists and data needed to train AI algorithms. While the HR sector is outpacing other industries in adopting AI, some HR Tech entrepreneurs are worried that demand will quickly outstrip supply unless the industry finds a solution.
+Okay, not sure about the “hesitate to talk about” part, but that’s a reasonable problem statement. So what, pray tell, is the solution?
+The solution to both shortages, according to some experts, lies in two new and exciting technologies – blockchain and synthetic (“fake”) data.
+Yep, you read that right. The problems posed by AI can be solved by… blockchain. When in doubt, sign that purchase order for more tech…
+See you next time (and we’ll get to Google’s 5 billion fine and Verizon’s data breach and Facebook’s perpetual fake news problem next time also).
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang.
+Image credit - SAP, Oracle, Workday and Salesforce are diginomica premier partners as of this writing.Disclosure - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, Beach vacation © lily - all from Fotolia.com.Read more on: CRM and customer experienceFrictionless enterpriseHits and missesThe new professional and IT as a service 

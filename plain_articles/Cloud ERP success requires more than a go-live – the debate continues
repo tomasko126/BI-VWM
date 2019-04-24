@@ -1,0 +1,49 @@
+
+I was hoping my piece on extracting value from cloud ERP would create a debate – and it did (Cloud ERP isn’t a handshake deal – it’s a value extraction challenge.)
+My goal: provoke a discussion on why customers don’t achieve more value in cloud ERP by shedding light on the possible, via our own diginomica use cases.
+I laid out advanced stages customers can achieve, but only with a fierce collaboration with their ERP vendor and/or service partner.
+As hoped, readers came through with provocative questions:
+
+What about project failure? Is there a selection bias here in favor of successful projects?
+How can cloud ERP vendors do more to help customers achieve this?
+Of all the potential benefits you outlined, which are more viable in the short term, and which are more futuristic?
+Is modern ERP even a realistic thing to aspire to, or is more radical disruption needed?
+What’s next for ERP direction? Is Alexa/voice poised for impact?
+
+Let’s knock through ’em.
+What about project failure? Is there a selection bias here in favor of successful projects?
+Short answer: yes. Den Howlett nailed this one down:
+Jon Reed’s Cloud ERP isn’t a handshake deal – it’s a value extraction challenge. Here are the stages is a useful catalog of what to expect from the point where you have completed a successful ERP implementation. But it assumes just that – a successful implementation. It is a sad fact that, depending on who you choose to read, project failure is endemic and at rates that can go as high as 70%.
+Bingo. The ceiling of ERP projects historically has been transactional efficiency (unacceptable). The floor, however, is failed, stalled, or underperforming projects. My piece draws on use cases of projects that have achieved a modicum of success, and want to achieve more.
+Keep that selection bias firmly in mind. If you’re mired in the kinds of problems Howlett documented, you can’t even think about extracting results from advanced cloud ERP stages. So, even though Howlett’s The Tech Project Survival Guide came out the day after mine, I recommend reading/acting on his first.
+Which benefits are more viable in the short term, and which are more futuristic?
+Thomas Wailgum of ASUG (Americas’ SAP User Group) raised this one:
+ASUG has conducted several surveys with our members on the topic of cloud apps: the myths, challenges, perceived v. actual costs, and more. It’s fascinating to see what’s really real and what’s really not as companies move ERP and other software into the cloud.
+I plan to ask Wailgum about “what’s real and what’s not” from his data. But which of these advanced stages are tougher? My answer:
+What’s not so real yet is the so-called promise of AI and the seamless integration of external/big data. Both of those are works in progress.
+These use cases are almost all from the SME/midmarket. For now, companies in this demographic want to consume packaged AI services. They want all the “seamless integration” of complex data sources they can get. That puts cloud ERP vendors on the spot to improve, or watch that business go to non-ERP solutions. Example: Brian Sommer’s A new Aera for ERP in the search for productivity gains.
+How can cloud ERP vendors do more to help customers achieve this?
+Reader Andrew Krain posed this one:
+What are the reasons these customers are not getting to the advanced stages? As a cloud ERP provider, what can we do outside of integrating external/big data to help our customers extract the maximum value out of our platform?
+My answer:
+You’ve asked a challenging question in a few different ways. First off, there is no way to force a customer to have the appetite in the belly for continued transformation. Some are more willing than others based on perceived threats in their industry, company culture, and so on.
+Still, the cloud ERP vendor can – and should be – a partner in all of this. One terrific way: develop a bedrock of customer use case stories, Produce some yourself, and earn editorial stories on customers like we do here. Giving visibility to customers doing kickass things is crucial.
+Too often, vendor keynotes are short on customer examples and long on hypothetical Alexa or blockchain demos. Success must be demystified. Make sure the challenges to are acknowledged, as well as the steps to get there.
+Another work in progress: I hear frequent complaints about cloud ERP dashboarding, and ease of porting data to a preferred external dashboarding tool.
+Few cloud ERP vendors have a coherent story on automation and how they will make their systems “intelligent” with AI services. They need a better story on how automation can streamline administrivia and free up employees for higher value/customer facing work is important. Tableau, for example, has an effective narrative on how analysts should approach their work in the age of automation.
+Few cloud ERP vendors have vibrant apps stores where customers can easily demo or consume third-party apps and extensions. Very few have good developer communities or hackathons that bring developers and business users together, something Acumatica recently wrote on these pages. So there is a boatload of work to do, on many fronts.
+Is modern ERP even a realistic thing to aspire to, or is more radical disruption needed?
+Short answer – yes and yes. I’ll refer you to the back and forth with reader Clive Boulton for more background. Boulton thinks existing ERP solutions are not architecturally capable of the “extreme modularity” that a truly modern ERP solution would provide. He wants us to start with a whiteboard, or maybe build on Hyperledger’s Sawtooth framework:
+What we need is FANG scale modern ERP (not what we have today).
+Boulton and I disagree on some aspects. But here’s where we meet: “FANG scale”, large enterprise cloud ERP customers are unicorns, so there is no basis for learning from their projects. However, when Boulton talks about “serving partners and OEMs with highly composed systems, delivering nextgen customization (without code base changes)” – some of that is possible today in small-to-midmarket cloud ERP. That’s the gist of my piece. I responded:
+What you’re describing is what I’d call “futuristic ERP” that doesn’t exist today. Someday your futuristic ERP will indeed be “modern ERP” but I’m talking about what I see on the ground now.
+Can existing vendors evolve their architectures to Boulton’s vision of modularity and scale, or will they be disrupted by a player that builds it from open source components, etc.? That’s a spicy question. Another zinger: is a modern ERP upgrade the right framework for digital change? (And no, hosted “lift and shift” ERP doesn’t count). Vendors like SAP say you can’t have a real-time digital business without a real-time digital core (via modern ERP on an in-memory database).
+But loads of cloud vendors advise ring fencing your “legacy” ERP. Invest in customer-facing clouds and digital apps instead, this argument goes. The legacy core withers on its own, as more workloads move to the cloud. Those are two extremes of the large enterprise modernization debate, with plenty of room in between for customers to vote with their wallets.
+You could set a third axis in that debate, via analytics vendors that question an over-investment in any transactional system, be it cloud or on-premise. Extract data across systems, serve it up to users and managers, and act intelligently on it – with machines helping to anticipate trends and automate decisions. Yep, the quest for the so-called intelligent enterprise continues; no one has solved it yet. That should give me enough to write about for the next five years.
+Is Alexa/voice poised for cloud ERP impact?
+Finally, reader Steve Heimberg wrote:
+What excites me is that modern ERP solutions make ERP data easy to access for various media such as dashboards. Even better – modern ERP software such as Acumatica also offer new technologies such as voice recognition like Alexa, which will change the ERP world for customers.
+Agreed on the data accessibility/visibility part. As for voice, judging by the amount of failed voice demos I saw this spring, we have a very long way to go there. In his  Voices Carry column, CRM analyst Brent Leary grapples with what’s next for voice commerce. Think about a white collar office setting – do we really envision folks calling out “OK Google” and hoping for the best? Alexa can barely understand me when “she” has me in a quiet room by herself.
+I envision sales divisions first – interacting with ERP systems in cars, and on-site during customer demos. I was also impressed by Plex Systems’ demo of how voice can work in loud plant settings with the help of WhisperChip voice recognition technology from Kopin. Bottom line for voice-enabled ERP: hold your horses there, cowboy.
+Updated 8am UK time, Tuesday August 21 with some minor tweaks for reading clarity – and additional resource links.
+Image credit - Feature image - Young businesswoman with loudspeaker in business concept © Elnur - Fotolia.comDisclosure - Acumatica, SAP and Plex Systems are all diginomica premier partners. Read more on: Analytics planning and data analysisCloud ERP financials and supply chainCloud platforms - infrastructure and architectureDigital transformation - frictionless enterprise 

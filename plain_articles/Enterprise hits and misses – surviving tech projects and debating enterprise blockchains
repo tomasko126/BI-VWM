@@ -1,0 +1,76 @@
+
+
+Lead story – Surviving tech projects, and extracting cloud ERP value – articles by Den Howlett and Jon Reed
+Seasons may change (summer rains here – yuck), but one thing doesn’t: the persistent perils of tech project failure. A recent Twitter debate sparked by yet another ERP project fail sparked Den Howlett to write his tin foil hat special lessons learned treatise, The tech project survival guide.
+Den is preaching to my choir here:
+I am a great believer in having checks and balances in place. This is not about being overbearing but about making sure you are keeping on track with an eye on the prize. In one recent conversation, a person told me they could not see what I saw – why? I’m not on the inside living with the problem. Once we talked it through they had their own ‘ah-ha’ moment.
+The Twitter debate called attention to the problems raised by third party oversight. But I still maintain that insular projects are at greater risk:
+
+no cure-all for avoiding failed projects but I continue to insist that regular gut/project health checks from expert independents not tied to prime vendor + partner are vitally important. most bad projects I’ve seen are insular, with little connect to external peers/user groups
+— Jon Reed (@jonerp) August 13, 2018
+Den’s not allowing for excuses, with links to tools for project health checks and expert advisors. Standout tip:
+Communication, training, and education starts before, continues during and ends sometimes never. Establish a plan and budget generously for this vital element.
+Sound bloody obvious? Perhaps, yet there are statistical links between underfunded training and struggling projects. Some folks are talking the training talk and not walking the budgetary walk. If Den’s survival tips aren’t enough, consider Naomi Bloom’s warning:
+
+What’s discouraging is that, absent years of experience, most tech-enabled transformation teams, to include green SI staff members, repeat all the same mistakes which we “old timers” have learned how to avoid. @JerryWeinberg, who just passed away, should be required reading.
+— (((Naomi Bloom))) (@InFullBloomUS) August 14, 2018
+If you’re seasick from failure talk and miss the idea of actual project benefits, you may want to check my Cloud ERP isn’t a handshake deal – it’s a value extraction challenge. Here are the stages. That’s culled from years of diginomica use cases of successful/moderately successful cloud ERP projects, which I’ve broken out into stages. Sadly, many don’t reach the advanced benefits – because high fives and go-lives aren’t enough.
+Diginomica picks – my top three stories on diginomica this week
+
+Mastercard going digital? Table stakes. Finding new markets? Priceless – Phil applies his digital transformation chops to a financial services use case: “If only the railroads had realized they were in the transportation business.”
+Ab Fab – Edwards turns to Hadoop in push for smarter semiconductor – Jess on a big data customer win, addressing predictive maintenance and more.
+House of Fraser needs to do more than just “hammer” Amazon in a Shopper First Retailing world – Stuart’s back from a hard-earned vacation, and back to his retail transformation wheelhouse.
+
+Vendor analysis, diginomica style. Here’s my three top choices from our vendor coverage:
+
+Understanding Intel’s multipath data-centric high wire act – “Multipath data-centric”? I’m gonna to try dropping that line at my next cocktail event. Kurt assesses the real story behind the PR gymnastics: “With competitors using foundries that are now a generation ahead in process technology, Intel’s manufacturing stumbles risk (and in some cases already are) putting its products at a tangible disadvantage in price-performance. Fixing its process technology problems must be one of Intel’s highest priorities.”
+Teradata v. SAP – what it means to customers and prospects – I’m not a fan of corporate litigation, which usually comes down to settlements and phony mea culpas. There’s not much to say about this particular skirmish until we get further along. That said I thought Brian presented all sides, and framed the issues from a customer view.
+ThyssenKrupp Elevators gets a lift from digitalisation using Microsoft Azure – The use case queen (Jess) strikes again: “According to Cho, the machine learning-based predictive models on which Max is based have been improving as more data is collected and the company reckons that Max reduces downtime by up to 50 percent.” Tying machine learning to results – nice.
+
+A few more vendor picks, without the quips:
+
+Oracle introduces autonomous transaction processing database – pounds on AWS – Den
+APM vendor New Relic has Q1 growth spurt as enterprise push continues – Phil
+When it comes to data center users, Intel recognises `what do you want?’ rather than `look what I’ve got’ – Martin
+
+Jon’s grab bag – Jerry calls out some privacy-gunslinging-losers household names in Don’t be evil. Avoid unintended consequences. Get the Ethical OS Toolkit. (Yes, an ethical OS toolkit is a real thing – 20+ companies already using it). Cath has a compelling AI use case even I can support: Practical AI – a wearables use case from blind photographer David Katz. 
+Can we move beyond analyst quadrants and trapezoids? Den evaluates the HfS move in Will vendor rankings replace magic quadrants? HfS Research thinks so. Disclosure: I’m an HfS fanboy, but I’m skeptical that a top ten is much better than a quadrant. Den (plus a reader comment) floats ideas that would make this move more interesting, so we’ll see.
+If you want to see how I fared in front of an audience without notes or slides talking B2B content strategy, check B2B Buyers are changing; we are all publishers now – answering the top audience questions. Finally, Den caps off a vintage blogging week with his take on a pivotal moment for the sucker gig economy in New York pauses ride hailing expansion – the gig economy glow fading?
+Best of the rest
+ Lead story – Is Blockchain relevant for any Business Model? by David Terrar
+
+myPOV: I’ve been snarky about blockchain in hits/misses lately, as vendor hype hovers like summer rain clouds, threatening to dump happy talk on us at any time, and live projects at scale remain unicorns. But a thoughtful look at blockchain’s potential use cases, like this one, is always welcome. After acknowledging some concerns over blockchain’s current ability to scale, Terrar of The Agile Elephant makes his case:
+The problem we are solving here is at the core of all trade – trust. Blockchain’s key advantage is that the buyer and seller, the other parties or competitors that are involved can trust the validity of the distributed ledger without the need for any intermediary like a bank or broker or lawyer or government being involved. No reputation required. It eliminates the need for the duplication of effort that always happens amongst the parties involved, and reduces the need for those intermediaries.
+That’s why financial institutions are investing heavily in blockchain, as they are first in line to be disrupted if an intermediary for a financial transaction is no longer needed. Terrar also says, and I agree, that blockchain excels in verifying/tracking assets.
+Talk of “immutable proof” scares the weebeejeebees out of me though, as I’m of the belief that everything can be hacked and nothing is perfectly immutable. But when you combine the need for validating assets – perhaps unique assets – with transparency and lack of a controlling broker, blockchain’s appeal starts to outweigh its limitations.
+Those limitations may change. Reader Clive Boulton is putting time into the Hyperledger Sawtooth project, with the appeal of extreme modularity at scale in mind. My question for Terrar is: are those blockchain characteristics a fit with enterprises – companies that typically like centralized control? (Example: Walmart and Amazon have a tight leash over their suppliers, and are in no rush to disintermediate their marketplaces).
+Public sector applications are clear, e.g. land title verification. Beyond that, it might be a case of blockchain upstarts trying to disrupt before legacy brokers can react, as in fintech versus big banks. Over to you, Mr. Terrar.
+Honorable mention 
+
+IBM’s 2018 Data Breach Study Shows Why We’re In A Zero Trust World Now – Louis Columbus of IQMS parses some meaty/disconcerting data: “The IBM study foreshadows an increasing level of speed, scale, and sophistication when it comes to how breaches are orchestrated.”
+How Supply Chain Lost Its Mojo – I hope to never see Lora Cecere in the boxing ring: “Consultants got rich recommending solutions without accountability.” Oh, and “testosterone-driven sales organizations.” Blammo!
+Mocking Amazon for low voice shopping numbers may end up looking silly – Brent Leary is carving out a place as the go-to for enterprise voice coverage.
+Rant Warning: Nodding dogs and vendor marketing – this is all our industry deserves – Is Phil Fersht howling into the wind? Perhaps, but at least some dogs don’t have muzzles…
+Sports, engagement, and tech company lack thereof – Paul Greenberg on why tech companies are doing a disservice to an industry that can teach us a thing or two about true engagement, versus the pseudo engagement most of our social tools brag about to make us feel better about robotically retweeted content farts.
+Story Centered Marketing – A New Approach to Marketing Strategy? – Gartner’s Hank Barnes floats a worthwhile what-if: “What if your entire marketing strategy was built around the story?”
+
+Just getting into the swing from the beach, so if I missed a good one this week, lemme know!
+Whiffs
+So, open air urinals are making their Paris debut:
+
+Paris has installed new open-air urinals, and they’re…not exactly subtle https://t.co/7suag7LgK0 pic.twitter.com/vuonpqVSMo
+— CNN International (@cnni) August 15, 2018
+The real whiff here: why isn’t this guy talking on this cell phone? Can’t he multi-task? Gotta love the mayor of Paris’ fourth district, who called the urinals “an act of genius.”
+I’ve been told drunk and irritable wasps are running rampant in the UK; my UK diginomica colleagues have yet to confirm or deny. Oh, and I’m not sure if this is good news, but Buzzfeed confirms that Google will stop showing “my face” as a possible search completion phrase on Android when users type in “sit on..”
+Speaking of Hank Barnes, he wants desperate unsubscribe pages to go the heck away. (Desperate unsubscribe pages are the whiff here, not Barnes).
+Meanwhile, my nostalgia for high signal conversations took a body blow on Twitter this week:
+
+Really depressed to see that the #storynomics hashtag really is a thing of some kind. Remember when Twitter was about talking about things that matter not jamming up tweets with meaningless marketing sputter?
+— Jon Reed (@jonerp) August 13, 2018
+Hey, at this point, I’ll settle for medium signal conversations. Or pretty much any conversation free from hashtag promiscuity. I do like the idea of #storynomics hashtag buffs tripping on my tweet. Though it may cost me an invite to a changing-the-paradigm event. Risk noted.
+Call it a whiff in waiting: The Department of Homeland Security stepped into the ERP business, warning of increased attacks on SAP and Oracle ERP systems. Insert your “I hope they don’t try to build a wall” gratuitous snark here…
+With that – good to be back in the saddle. Thanks to Stuart Lauchlan and Derek du Preez for filling in as guest hits/misses authors while I got off the grid for a spell. See you next time…
+If you find an #ensw piece that qualifies for hits and misses – in a good or bad way – let me know in the comments as Clive (almost) always does.
+Most Enterprise hits and misses articles are selected from my curated @jonerpnewsfeed. ‘myPOV’ is borrowed with reluctant permission from the ubiquitous Ray Wang
+ 
+Image credit - Cheerful Chubby Man © RA Studio, Happy Children © Anna Omelchenko, Waiter Suggesting Bottle © Minerva Studiom, Overworked Businessman © Bloomua, at the seaside © olly - all from Fotolia.com.Disclosure - SAP, Oracle, Workday, New Relic and Salesforce are diginomica premier partners as of this writing.Read more on: Cloud platforms - infrastructure and architectureDigital skills and trainingHits and missesThe new professional and IT as a service 

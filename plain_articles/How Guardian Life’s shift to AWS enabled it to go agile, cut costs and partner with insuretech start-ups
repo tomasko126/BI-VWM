@@ -1,0 +1,33 @@
+
+Dean Del Vecchio, Executive VP, CIO, Guardian Life
+The Guardian Life Insurance Company of America is a 158-year old US insurance and wealth management services provider with more than 26 million customers.
+Dean Del Vecchio joined the Fortune 250 company as executive vice president, chief information officer (CIO) and head of enterprise shared services five years ago in a unique role where he’s responsible for all of technology, as well as shared services which consist of real estate, facilities, sourcing, procurement, group business operations, Guardian India, security, imaging and numerous other business operations.
+Like many insurance businesses, Del Vecchio says that the company has a lot of technical debt and legacy systems. Take for instance, the first policy system that the company implemented back in 1967, Del Vecchio jokes that:
+The good news is that it is still running… and the bad news is that it’s still running.
+In addition, the company has a mix of mainframes, UNIX, LINUX, SQL, Oracle, and many other operating systems, products and vendors in its portfolio – so much so that the company doesn’t have one main incumbent.
+Something had to change at the company, and Del Vecchio wanted to take the opportunity to digitise the organisation in what is a highly regulated industry.
+To do this, the company first worked on a workplace strategy to ensure it had the right environment to support the journey – this included redesigning offices with open spaces, and flexible ways of working which fostered collaboration, teamwork, and helped to promote an agile operating model. For Del Vecchio, this would show employees that the company was truly invested in its transformation.
+Coupled with these changes, were some bigger adjustments to Guardian’s IT infrastructure. Speaking with diginomica at AWS re:Invent in Las Vegas, Del Vecchio says:
+I would say about two years ago we started really taking migrating to the cloud seriously, and we set out on a one-year journey to make it enterprise ready.
+He explains that any production on a cloud platform would have to satisfy compliance demands in such a highly regulated industry. After a thorough assessment of cloud vendors including Microsoft, Google, IBM and Oracle, Guardian selected AWS. He continues:
+Everyone was in the mix but the orchestration, capabilities and toolsets [were a step ahead] from Amazon. AWS had a seven year run where no one would even try to attempt to do what they do; their products are much more mature, especially when we were looking into this.
+Del Vecchio also adds that it was a combination of usability, security, availability of resources to hire and train, as well as the ease of spinning up and down again that made AWS stand out.
+A reduced footprint
+While the company did some small scale pilots with other vendors, it quickly decided to go forward with AWS. He says:
+We took about a year to undertake a gap analysis of the AWS platform and identify areas where we would put compensating controls in place, whether it was a process, technology or even people for that matter, monitoring stuff to fill the gaps, and once we did that it enabled us to take a much more aggressive, accelerated roll out.
+Within two years, Guardian shifted 200 of its apps onto AWS and managed to shut down its last data center on the 5th November 2018.
+Using AWS has enabled the company to reduce data centre space by 80%, become cloud-first for all new technologies, and focus on driving business value rather than managing data centers. Del Vecchio explains:
+We can invest, test and learn, fail quickly, and break new ground. We see ourselves as an innovative company now – it’s part of our DNA.
+In addition, the insurer can now work better with start-ups and cut costs. He adds:
+A lot of start-ups are in the insuretech space, and we participate more easily with them, so if we want to pilot or interface with them, they’re also riding with AWS so it’s much quicker to test something, spin it back up or down without as much investment,”
+On the cost side, like most traditional companies, by shifting to the cloud we’re making savings of between 20 to 30% for things we’re putting in there.
+An AWS future?
+Part of the reason that AWS was selected was that Guardian felt it was easier to find and train talent with AWS skills.
+The company has invested heavily in this area; it retrained about 200 of its staff in the cloud and development space, and trained 2500 of its employees on how to work within an agile operating model. Del Vecchio says:
+We changed how people work, where they work, the locations they worked and the operating model from more of a legacy and waterfall way of working to a safe agile programme and that’s where we’re seeing a lot of benefit for the organisation.
+But DevOps isn’t something that he envisages the company using in the years to come. He adds:
+I think a lot of companies leverage DevOps to get to the cloud but we took an accelerated path to the cloud, so I’m thinking about what the next wave of the operating model is going to look like because I don’t think it’s DevOps.
+While Guardian is a Microsoft Office 365 and Salesforce customer, Del Vecchio is wary of being over reliant on AWS for the majority of its cloud needs. He explains:
+We wanted to get the muscle memory and capabilities to migrate to the cloud and now [because of being wary of vendor lock-in], we’re looking at either having a secondary cloud or having a data bunker in place where we store data. So in an event of an emergency if we had to spin up, we do it at that time as opposed to running parallel clouds or not – so we’re evaluating what the best option is.
+The company may have undergone the majority of its heavy lifting to the cloud, but as Del Vecchio makes clear, the transformation has only just begun.
+Image credit - Image sourced via Guardian LifeDisclosure - Salesforce is a diginomica premier partner at time of writing. Read more on: Cloud platforms - infrastructure and architectureDevOps NoSQL and the open source stackDigital enterprise in the real worldInfrastructureUse cases 

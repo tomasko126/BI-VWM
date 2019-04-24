@@ -1,0 +1,30 @@
+
+Customer success metrics at FutureStack London
+This year, NewRelic is going truly global with its FutureStack18 events now spread across multiple venues. This year, I caught up with the London show. As has been the case in the past, the event was packed out, long on customers and educational sessions yet short on marketing rhetoric. Unusually, and welcome to my ears, Mark Fieldhouse, VP NEMEA, New Relic’s job was more to act as MC than talking head. Even so, New Relic can be proud of the demonstrable success enjoyed by customers.
+Customers on deck included Lego, AO.com, OLX Group, Confused.com, and the Trainline. New Relic also put our old pal James Governor, analyst, and co-founder with Redmonk on stage.
+First off though we have to start with the quote of the day that drew both applause and laughter.
+Webscale? Not with SAP
+On deck was Simon Young who leads the Go Shop LEGO initiative. Last year, the firm launched a limited edition Millennium Falcon edition to its VIP customers. They expected a spike in traffic as it seems that Lego fans are also Star Wars fans. What they didn’t expect was a total meltdown. The issues were identified (courtesy of New Relic naturally) and fixed but in and amongst, Young talked about how the firm is architecting for digital. Here comes the quote:
+We’re focused on removing systems that aren’t designed to operate at webscale in 2018, or as we call it, SAP.
+Given the applause, you just know there were plenty of SAP shops represented. Young went on to caveat by referencing the ‘many instances’ of SAP that run warehouses and back-end systems but as Jon Reed is at TechEd this week, this might make an interesting talking point both as regards one of SAP’s important customers and in the broader sense of operating at webscale.
+The hits don’t stop there. Young drew a good laugh when he talked about the scale of some of the newer LEGO offerings with the Hogwarts castle running more than 6,000 pieces and the life-sized Bugatti Chiron:
+Sorry, you can’t buy that one.
+Who says that geeks have no sense of humor?
+I was particularly struck by the candor of Andrew Brockway, CTO, Confused.com who talked about how detached from reality and dis-satisfied his operations team had become before introducing New Relic, noting that one lead was ‘totally pissed off.’ Part of the problem was that Confused.com was trying to manage its web apps with a variety of monitoring and synthetics systems.
+We had a mish-mash of systems to tell us what’s going on and no traceability. New Relic helps us think about revenue. For me, sys-metrics are pound signs. If we ship a change we can see instantly whether we’re seeing a deviation in revenue and likewise if we see an incident, we can measure the impact. So it’s a clear view into the customer and the impact on the bottom line.
+This is an important statement because it plays directly to one of the major IT themes that has been discussed over many years but which is now taking shape: how do the ‘suits and geeks’ get aligned. From this and other discussions, it is evident that modern IT shops are much more interested in helping the business in ways that are relevant to overall performance.
+Wise words from Redmonk
+James Governor
+Keeping with that idea, Governor talked about how modern, ‘born in the cloud’ businesses behave differently. Referring to Monzo Bank, he said the company took the recent BA security breach as an opportunity to reach out to potentially affected customers and immediately send out replacement cards.
+Let’s be clear, Monzo is steeped in engineering culture but they saw the British Airways breach as a chance to uniquely and effectively communicate with their customers. Stuff is going to blow up and even if it is not our fault then we’re going to make sure our customers know that we’ve got their backs. Literally within hours, anyone who is a Monzo customer that might have been affected was sent out a new card. That’s about being more sophisticated in their IT infrastructure so they can do this.
+Governor also delivered a warning about how digitization is radically impacting IT shops:
+Not everyone is going to make it. Some people just want to go the same way they always have and they’ll dig in their heels.
+We have met plenty of these people but on the upside, Governor had a much more positive message.
+Celebrating the team success is so important and understanding that the teams of today and tomorrow are cross-disciplinary and the companies that are outperforming have made a really strong cultural change.
+Referring to an earlier discussion from AO.com, which has introduced a ‘blameless culture’ Governor added
+It’s easier for us to all get along when you know you don’t get the blame when things go wrong as they surely will. That’s a process problem, not something that people should be fired for.
+And talking about the difficulty in finding the best talent:
+You’re going to find the best developers if you engage with the open source communities.
+My take
+FutureStack18 in London was a stand out for a bunch of reasons. Hearing how technology-enabled companies are altering the way they work and the desire to be an integral part of ‘the business’ is an important message that was more than well referenced in the customer discussions. That starts with open and honest conversations of the kind we rarely hear on the event circuit but which are vital to long-term viability and success in an economy where every business is becoming a software business. Kudos to New Relic for giving plenty of stage time to those customers who spoke in an unscripted and authentic fashion.
+Image credit - via the authorDisclosure - New Relic is a partner with diginomica and we are New Relic customersRead more on: InfrastructureProductivity 
