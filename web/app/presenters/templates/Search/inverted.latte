@@ -54,7 +54,7 @@
                     <div>ID: {$similarDoc[0]}</div>
                 </div>
                 <div class="row">
-                    <div>Article weight: {$similarDoc[1]}</div>
+                    <div>Article weight: {$similarDoc[1]|number:3}</div>
                 </div>
                 <div class="row">
                     <div>Article name: <a href="{plink inverted id => $similarDoc[0]}">{$similarDoc[2]}</a></div>
