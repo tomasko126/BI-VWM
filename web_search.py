@@ -95,8 +95,8 @@ class Search:
     def makeJSON(self, vectors):
         vectorsInJSON = {'docs': []}
 
-        # Get first 11 results - the first one should have the same ID as the requested document
-        for x in range(0, 11):
+        # Get 2. - 11. vector - the first one should have the same ID as the requested document
+        for x in range(1, 11):
             vectorsInJSON.get('docs').append(vectors[x])
 
         return vectorsInJSON
